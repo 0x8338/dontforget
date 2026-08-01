@@ -67,6 +67,7 @@
   var loadedPromises = [];
   var nextMonth = 0;
   var PAGE = 3;
+  var initialBatch = 3;
   var currentFilter = 'all';
 
   function renderPromises(filter) {
@@ -108,20 +109,26 @@
       return;
     }
     loadMoreBtn.textContent = 'Loading…';
-    var batch = monthsList.slice(nextMonth, nextMonth + PAGE);
-    nextMonth += batch.length;
-    Promise.all(batch.map(function(m) {
-      return fetch('../_data/' + m.file).then(function(r) { return r.json(); });
-    }))
-    .then(function(arrays) {
-      arrays.forEach(function(a) { loadedPromises = loadedPromises.concat(a); });
-      loadMoreBtn.textContent = 'Show more months';
-      renderPromises(currentFilter);
-    })
-    .catch(function() {
-      loadMoreBtn.textContent = 'Show more months';
-      container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
-    });
+    var month = monthsList[nextMonth];
+    nextMonth += 1;
+    fetch('../_data/' + month.file)
+      .then(function(r) { return r.json(); })
+      .then(function(items) {
+        loadedPromises = loadedPromises.concat(items);
+        loadMoreBtn.textContent = 'Show more months';
+        renderPromises(currentFilter);
+        // Keep fetching the initial batch one at a time, rendering as each arrives.
+        if (initialBatch > 1) {
+          initialBatch -= 1;
+          loadMonths();
+        }
+      })
+      .catch(function() {
+        loadMoreBtn.textContent = 'Show more months';
+        if (loadedPromises.length === 0) {
+          container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
+        }
+      });
   }
 
   fetch('../_data/promises/index.json')
