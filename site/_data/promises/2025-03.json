@@ -1,0 +1,36 @@
+[
+ {
+  "person": "Elon Musk",
+  "role": "X (Twitter) owner",
+  "promise": "Payments will launch on X in 2024",
+  "date_promised": "2023-10-15",
+  "due_date": "2025-03-31",
+  "status": "partial",
+  "description": "Musk promised the X 'everything app' would launch payments, later saying they would come 'early next year' (Oct 2024). Deadlines were repeatedly missed; X obtained money-transmitter licenses in most US states and partnered with Visa, with X Money rolling out in limited beta in late 2025-2026, but the promised full payments launch was never delivered on schedule.",
+  "evidence": [
+   "Repeated missed deadlines (end-2024, then early-2025)",
+   "X Money only reached limited beta in some US states by late 2025"
+  ],
+  "sources": [
+   "WSJ CEO Council (Oct 2023)",
+   "Reuters (X Money / Visa reports)"
+  ]
+ },
+ {
+  "person": "Shuntaro Furukawa",
+  "role": "President, Nintendo",
+  "promise": "We will make an announcement about the successor to Nintendo Switch within this fiscal year.",
+  "date_promised": "2024-05-07",
+  "due_date": "2025-03-31",
+  "status": "kept",
+  "description": "Furukawa told investors in May 2024 that Nintendo would announce the Switch successor by the end of fiscal year 2024 (March 2025). Nintendo revealed the Switch 2 on January 16, 2025, ahead of the deadline, and it launched June 5, 2025.",
+  "evidence": [
+   "Furukawa's May 2024 statement on announcement within fiscal year",
+   "Switch 2 announced 2025-01-16, launched 2025-06-05"
+  ],
+  "sources": [
+   "Nintendo IR Q&A, 2024-05-07",
+   "Nintendo press release, 2025-01-16"
+  ]
+ }
+]

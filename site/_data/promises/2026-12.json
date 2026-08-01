@@ -1,0 +1,172 @@
+[
+ {
+  "person": "Elon Musk",
+  "role": "Tesla CEO",
+  "promise": "Optimus robots will reach volume production in 2026",
+  "date_promised": "2025-06-12",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At Tesla's June 2025 shareholder meeting Musk said Optimus would go from low production in 2025 to mass production in 2026. As of mid-2026, Optimus remained in factory-trial/prototype stages, far below the promised production volumes.",
+  "evidence": [
+   "2025-2026 footage shows Optimus prototypes doing factory tasks, not mass production",
+   "Tesla has not reported volume Optimus output as of mid-2026"
+  ],
+  "sources": [
+   "Tesla shareholder meeting (June 2025, CNBC coverage)",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Luiz Inacio Lula da Silva",
+  "role": "President of Brazil",
+  "promise": "Brazil will be off the hunger map by the end of my term",
+  "date_promised": "2023-07-25",
+  "due_date": "2026-12-31",
+  "status": "partial",
+  "description": "Lula pledged to remove Brazil from the UN hunger map by the end of his term (Dec 2026). Severe food insecurity fell dramatically (from ~33 million people in 2022 to roughly 9 million by 2025 per IBGE), but Brazil was not formally removed from the FAO's hunger classifications as of mid-2026, with the target still in progress.",
+  "evidence": [
+   "IBGE 2025 data shows sharp drop in severe food insecurity",
+   "FAO/UN hunger map status still pending as of mid-2026"
+  ],
+  "sources": [
+   "Reuters (July 2023 pledge)",
+   "IBGE / FAO SOFI 2025"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Rubin is coming in 2026",
+  "date_promised": "2024-06-02",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At Computex 2024 Huang unveiled the Vera Rubin platform (Rubin GPU + Vera CPU) and said it would arrive in 2026, with Rubin Ultra following in 2027. As of mid-2026 it is still scheduled for release in Q3 2026, though Bloomberg reported in Aug 2025 that mass production could slip ~3 months to mid-2026. Deadline has not yet passed.",
+  "evidence": [
+   "Announced at Computex in Taipei in 2024 by Jensen Huang",
+   "Wikipedia's Rubin article: 'scheduled for release in Q3 of 2026'",
+   "Bloomberg (Aug 2025) reported a possible delay to mid-2026; NVIDIA denied",
+   "Rubin Ultra promised for 2027 at GTC 2025"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Rubin_(microarchitecture)",
+   "https://en.wikipedia.org/wiki/Nvidia"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO, OpenAI",
+  "promise": "\"You might see a smaller jump from GPT-5 to GPT-6 than from GPT-4 to GPT-5\" — signaling GPT-6 within roughly a year of GPT-5, i.e., 2026",
+  "date_promised": "2025-10-06",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Throughout 2025 Altman told interviewers and DevDay audiences that GPT-6 would follow GPT-5 (released Aug 7, 2025) within about a year. As of mid-2026, OpenAI had shipped GPT-5.2 (Dec 2025) and GPT-5.6 but no GPT-6, so the promise remains unfulfilled. Quote wording per 20VC podcast (Sept 2025) coverage; no exact verbatim transcript verified.",
+  "evidence": [
+   "GPT-5 launched Aug 7, 2025 (Wikipedia)",
+   "OpenAI shipped GPT-5.2 and GPT-5.6 by Dec 2025, latest models per Wikipedia's OpenAI/GPT-5 pages",
+   "No GPT-6 release or announcement found in news feeds as of July 2026"
+  ],
+  "sources": [
+   "Wikipedia: GPT-5",
+   "The Verge: All of the updates from OpenAI DevDay 2025 (Oct 6, 2025)",
+   "20VC podcast with Harry Stebbings (Sept 2025)"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO, Anthropic",
+  "promise": "\"I think it could come as early as 2026, though there are also ways it could take much longer.\"",
+  "date_promised": "2024-10-10",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "In 'Machines of Loving Grace' (published Oct 2024), Amodei defined AGI as models matching 'top humans in most domains' (10^28-10^29 FLOP training scale, ~2027 cluster sizes) and said it could arrive as early as 2026. No such system exists as of mid-2026, though the essay hedged that it 'could take much longer'.",
+  "evidence": [
+   "Exact quote verified from darioamodei.com/machines-of-loving-grace",
+   "Essay defines 'powerful AI' and ties scale to projected ~2027 compute clusters",
+   "No human-level general AI shipped by mid-2026"
+  ],
+  "sources": [
+   "Dario Amodei"
+  ],
+  "source_urls": [
+   "https://darioamodei.com/machines-of-loving-grace"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "\"There will be a new architecture every year\" — Rubin shipping in the second half of 2026, Rubin Ultra in 2027",
+  "date_promised": "2025-03-18",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At GTC 2025 Huang pledged an annual GPU architecture cadence (Blackwell → Rubin → Rubin Ultra), with Rubin 'in production in the second half of 2026'. Rubin (Vera Rubin, HBM4) was announced at Computex June 2024; Wikipedia lists launch as Q3 2026, with no confirmed delay as of mid-2026.",
+  "evidence": [
+   "Rubin announced at Computex (June 2024); infobox launch '2H 2026' / Q3 2026 (Wikipedia: Rubin)",
+   "GTC 2025: Rubin Ultra announced for 2027",
+   "No delay reports surfaced by July 2026"
+  ],
+  "sources": [
+   "Wikipedia: Rubin (microarchitecture)",
+   "NVIDIA GTC 2025 keynote",
+   "Reuters (Mar 2025)"
+  ]
+ },
+ {
+  "person": "Lisa Su",
+  "role": "CEO, AMD",
+  "promise": "Instinct MI450 'Helios' (CDNA Next) to ship in 2026 with roughly 12x the inference performance of MI300X; AI accelerator market to reach $500 billion by 2028",
+  "date_promised": "2025-01-06",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At CES 2025, Su unveiled AMD's 2025-2026 accelerator roadmap: MI350 (mid-2025) and the MI450 'Helios' family for 2026 with a claimed ~12x inference uplift over MI300X, plus a $500B AI-accelerator TAM forecast by 2028. MI350X shipped June 2025 as promised; MI450/Helios was still unreleased as of mid-2026 (expected 2H 2026).",
+  "evidence": [
+   "AMD CES 2025 announcement of MI450 'Helios' for 2026 and $500B TAM by 2028",
+   "MI350X/MI355X launched June 2025 (Wikipedia: AMD Instinct)",
+   "No MI450/Helios release confirmed as of July 2026"
+  ],
+  "sources": [
+   "AMD CES 2025 press release (Jan 6, 2025)",
+   "Reuters (Jan 6, 2025)",
+   "Wikipedia: AMD Instinct"
+  ]
+ },
+ {
+  "person": "Brett Adcock",
+  "role": "CEO, Figure AI",
+  "promise": "BotQ factory would build 12,000 humanoid robots per year; Figure 03 shipping in 2025",
+  "date_promised": "2025-02-01",
+  "due_date": "2026-12-31",
+  "status": "partial",
+  "description": "Adcock announced the 'BotQ' humanoid factory (early 2025) targeting 12,000 units/year and promised Figure 03 for 2025, building on the BMW manufacturing deployment (deal announced Jan 2024). Figure 03 did launch (Oct 2025) and BMW work proceeded, but by June 2026 only ~740 robots were operating — an order of magnitude below the 12k/year capacity promise.",
+  "evidence": [
+   "BotQ announced early 2025, targeting 12,000 humanoids/year (Wikipedia: Figure AI)",
+   "Figure 03 released October 2025",
+   "June 2026: ~740 robots operating vs ~600 humans at Figure (Wikipedia)"
+  ],
+  "sources": [
+   "Wikipedia: Figure AI",
+   "Figure.ai announcements (2025)",
+   "Fortune (Apr 2025, BMW claims scrutiny)"
+  ]
+ },
+ {
+  "person": "Shigeru Ishiba",
+  "role": "Prime Minister of Japan",
+  "promise": "Raise childcare leave benefits so that parents receive 100 percent of take-home pay when both parents take childcare leave",
+  "date_promised": "2025-01-24",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "In his policy speech to the 217th session of the Diet, Ishiba pledged to support childcare by raising leave benefits to 100 percent of take-home pay when both parents take childcare leave. The measure was announced as a policy direction with implementation dependent on subsequent legislation and budgeting.",
+  "evidence": [
+   "Announced in the 24 January 2025 policy speech to the Diet",
+   "Implementation status still pending as of mid-2026"
+  ],
+  "sources": [
+   "Prime Minister of Japan (PMO)",
+   "IDSA Japan Digest"
+  ]
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "person": "Rodrigo Duterte",
+  "role": "President of the Philippines",
+  "promise": "We will solve the drug problem within three to six months",
+  "date_promised": "2016-07-01",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Shortly after taking office in June 2016, Duterte promised to solve the Philippines' drug problem within three to six months by ordering an aggressive campaign that killed thousands of suspected drug users and dealers. The drug war instead continued throughout his six-year term, with police and vigilante killings in the tens of thousands and no evidence the drug trade was curtailed.",
+  "evidence": [
+   "Drug war deaths continued for years past the 3-6 month deadline (thousands killed)",
+   "Duterte repeatedly extended the deadline as the campaign went on into his full term"
+  ],
+  "sources": [
+   "BBC News (July 2016)",
+   "Reuters / Human Rights Watch (2016-2022 drug war statistics)"
+  ]
+ },
+ {
+  "person": "Evan Spiegel",
+  "role": "Snap",
+  "promise": "Spectacles (Nov 2016) would launch Snap's hardware era as a 'camera company' product — expected to sell well",
+  "date_promised": "2016-06-30",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Only ~150,000 pairs sold by Oct 2017 (~$8M revenue); Snap took a ~$40M inventory write-down and later admitted Spectacles was the 'wrong decision'.",
+  "evidence": [],
+  "sources": [
+   "Variety, 2016",
+   "TechRadar, 2018"
+  ],
+  "source_urls": [
+   null,
+   "https://www.techradar.com/news/snapchat-admits-it-made-the-wrong-decision-on-its-spectacles"
+  ]
+ },
+ {
+  "person": "Palmer Luckey (Palmer Freeman Luckey)",
+  "role": "Oculus",
+  "promise": "Oculus Rift consumer headset would sell for 'around $350' (2014 statements)",
+  "date_promised": "2014-06-30",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "The Rift shipped at $599 in January 2016 — about 70% above the promised ~$350 price point, sparking wide backlash.",
+  "evidence": [],
+  "sources": [
+   "The Verge"
+  ]
+ },
+ {
+  "person": "Carlos Ghosn",
+  "role": "CEO, Renault-Nissan Alliance",
+  "promise": "The alliance would sell 1.5 million electric vehicles cumulatively by 2016",
+  "date_promised": "2011-03-01",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Ghosn predicted in 2011 that Renault-Nissan would sell 1.5 million electric vehicles by 2016, a target reiterated through 2013. By mid-2015 cumulative sales had passed only about 250,000 units, and Ghosn himself acknowledged in November 2013 that the goal would be missed by a wide margin.",
+  "evidence": [
+   "Cumulative EV sales around 250,000 by mid-2015, far below the 1.5 million pace",
+   "Ghosn admitted the 2016 target would be missed (November 2013)"
+  ],
+  "sources": [
+   "The Guardian",
+   "NBC News (2013-11-10)",
+   "Autoblog (2013-11-12)"
+  ],
+  "source_urls": [
+   "https://www.theguardian.com/environment/2015/jul/01/are-we-on-the-brink-of-an-electric-car-revolution)",
+   null,
+   null
+  ]
+ },
+ {
+  "person": "Eddie Lampert",
+  "role": "CEO, Sears Holdings",
+  "promise": "Sears would return to profitability",
+  "date_promised": "2015-05-06",
+  "due_date": "2016-12-31",
+  "status": "partial",
+  "description": "At the 6 May 2015 shareholder meeting, Lampert vowed that Sears would eventually be profitable. The company reported its first quarterly profit under Lampert in August 2015 (about $155-205 million for the quarter ending 1 August 2015), but annual losses continued every year, and Sears Holdings filed for Chapter 11 bankruptcy in October 2018.",
+  "evidence": [
+   "First quarterly profit under Lampert reported August 2015",
+   "Annual net losses continued; Chapter 11 filing October 2018"
+  ],
+  "sources": [
+   "WWD",
+   "Forbes"
+  ],
+  "source_urls": [
+   "https://wwd.com/business-news/retail/feature/edward-lamperts-sears-profitable-10125012/)",
+   "https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/)"
+  ]
+ }
+]

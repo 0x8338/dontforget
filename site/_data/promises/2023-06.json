@@ -1,0 +1,42 @@
+[
+ {
+  "person": "Fumio Kishida",
+  "role": "Prime Minister of Japan",
+  "promise": "By June, we will compile a roadmap to realize the new form of capitalism",
+  "date_promised": "2023-01-23",
+  "due_date": "2023-06-30",
+  "status": "kept",
+  "description": "In his January 2023 policy speech to the Diet, Kishida promised a concrete roadmap for his flagship 'new capitalism' (shin shihonshugi) policy by June 2023. The Cabinet approved the roughly 200-measure roadmap on June 16, 2023, covering wage growth, investment in people, and science/tech priorities, meeting the deadline he set.",
+  "evidence": [
+   "Cabinet approved the 'New Form of Capitalism' roadmap on June 16, 2023",
+   "Roadmap included ~200 measures on wages, human capital investment, and innovation"
+  ],
+  "sources": [
+   "Reuters (June 16, 2023)",
+   "Kyodo News (January and June 2023)"
+  ]
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "We are working toward closing [the Activision Blizzard deal] in fiscal year 2023",
+  "date_promised": "2023-01-24",
+  "due_date": "2023-06-30",
+  "status": "partial",
+  "description": "Microsoft's 10-Q filed Jan 24, 2023 stated the $68.7B Activision Blizzard acquisition would close within fiscal year 2023 (by June 30, 2023). Regulatory fights with the UK CMA and FTC forced the deal to miss that deadline and it finally closed October 13, 2023 — about 3.5 months late, after the companies extended the contractual deadline to October 18, 2023.",
+  "evidence": [
+   "10-Q verbatim: 'We are continuing to engage with regulators reviewing the transaction and are working toward closing it in fiscal year 2023'",
+   "Original contract deadline was July 18, 2023, extended to Oct 18, 2023",
+   "Deal completed October 13, 2023 at total cost of $75.4 billion",
+   "Missed the promised fiscal 2023 close date by ~3.5 months"
+  ],
+  "sources": [
+   "SEC",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/msft-10q_20221231.htm",
+   "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft"
+  ]
+ }
+]

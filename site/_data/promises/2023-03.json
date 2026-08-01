@@ -1,0 +1,24 @@
+[
+ {
+  "person": "Sundar Pichai",
+  "role": "CEO, Alphabet and Google",
+  "promise": "Bard will be rolling out to trusted testers in the coming weeks",
+  "date_promised": "2023-02-06",
+  "due_date": "2023-03-31",
+  "status": "kept",
+  "description": "After ChatGPT's launch, Pichai announced Google's Bard chatbot in a blog post saying it would roll out 'in the coming weeks'. Despite an embarrassing demo error, Bard opened early access on March 21, 2023 to users in the US and UK via waitlist — roughly six weeks later.",
+  "evidence": [
+   "Announced Feb 6, 2023 in Google blog post 'Google AI updates: Bard and new AI features in Search'",
+   "Google opened early access for Bard on March 21, 2023, in the US and UK",
+   "Google employees were asked to test Bard internally for 2-4 hours before launch"
+  ],
+  "sources": [
+   "Google",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+   "https://en.wikipedia.org/wiki/Gemini_(chatbot)"
+  ]
+ }
+]

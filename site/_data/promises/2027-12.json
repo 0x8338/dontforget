@@ -1,0 +1,144 @@
+[
+ {
+  "person": "Claudia Sheinbaum",
+  "role": "President (from 1 Oct 2024)",
+  "promise": "Constitutional ban on re-election of any popularly elected office, promised to take effect in 2027",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "The anti-re-election rule was published 1 Apr 2025, but its implementation was postponed from 2027 to 2030.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Defeat inflation ('kill inflation', the overriding goal of his first year)",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "partial",
+  "description": "Annual inflation fell from 211.4% (2023) and 254.2% (first month) to 117.8% (2024) and ~31.8% by Sept 2025, with monthly inflation at a five-year low of 1.5% (June 2025) — a huge reduction, though inflation was not eliminated.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei",
+   "https://en.wikipedia.org/wiki/Economy_of_Argentina"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Increase defence spending to 2.5% of GDP",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "kept",
+  "description": "The 2.5%-by-2027 pledge was confirmed, funded by cutting international aid from 0.5% to 0.3% of GNI.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
+  ]
+ },
+ {
+  "person": "Emmanuel Macron",
+  "role": "President",
+  "promise": "Restore sound public finances / keep the deficit on a path toward the EU's 3% of GDP ceiling",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "The deficit was 5.8% of GDP in 2024 (up from 5.4% in 2023 and at risk of exceeding 6%), public debt reached 116.5% of GDP in 2025, and the 3% target is far out of reach.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Economy_of_France"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, xAI",
+  "promise": "xAI would expand the Colossus supercomputer to 1 million GPUs (a tenfold increase)",
+  "date_promised": "2024-12-04",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Three months after the first 100,000 H100s came online at Colossus (built in 122 days, Sept 2024), xAI announced the 30-acre Memphis expansion toward 1 million GPUs, reported by the FT as 'Musk plans to expand Colossus tenfold'. Growth is ongoing (200k GPUs by late 2024; ~230k by June 2025) but the 1M milestone had not been publicly confirmed as of mid-2026.",
+  "evidence": [
+   "Colossus built in 122 days with 100k H100s (Wikipedia: Colossus)",
+   "FT (Dec 4, 2024): plans to expand Colossus tenfold to ~1M GPUs",
+   "By June 2025: 150k H100s + 50k H200s + 30k GB200s, more planned"
+  ],
+  "sources": [
+   "Wikipedia: Colossus (supercomputer)",
+   "Financial Times (Dec 4, 2024)",
+   "Memphis Commercial Appeal (Dec 2024)"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Nvidia expects to sell $1 trillion of AI hardware through 2027",
+  "date_promised": "2026-03-16",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At GTC 2026 Huang forecast NVIDIA would sell ~$1 trillion in AI hardware by the end of 2027 (per Tom's Hardware, Mar 16, 2026), building on a $500B order book (Nov 2025) and 'trillions more' infrastructure claims. Hard revenue promise with a 2027 deadline, still pending as of mid-2026.",
+  "evidence": [
+   "Tom's Hardware (Mar 16, 2026): 'Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027'",
+   "Nvidia's $500B order book reported Nov 17, 2025",
+   "GTC 2026 keynote: 'By 2027, market demand will exceed $1 trillion' (WEEX transcript)"
+  ],
+  "sources": [
+   "Tom's Hardware (Mar 16, 2026)",
+   "The Tech Buzz (Nov 17, 2025)",
+   "GTC 2026 keynote coverage"
+  ]
+ },
+ {
+  "person": "European Union (REPowerEU)",
+  "role": "European Commission and member states",
+  "promise": "Make Europe independent from Russian fossil fuels, ending reliance on Russian gas by 2027",
+  "date_promised": "2022-05-18",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "The European Commission's REPowerEU plan, presented in May 2022 after Russia's invasion of Ukraine, set the goal of ending the EU's dependence on Russian fossil fuels, including a full phase-out of Russian gas, well before 2030 and by 2027 at the latest. The EU cut Russian gas imports by roughly 75% between 2021 and 2025, and in January 2026 adopted legislation banning Russian LNG imports from the start of 2027 and pipeline gas from autumn 2027.",
+  "evidence": [
+   "Russian gas imports cut by about 75% between 2021 and 2025",
+   "EU regulation banning Russian LNG from January 2027 and pipeline gas from autumn 2027 approved in January 2026",
+   "National phase-out plans were due to the Commission by 1 March 2026"
+  ],
+  "sources": [
+   "Kyiv Post",
+   "PubAffairs Bruxelles / Council of the EU",
+   "TASS (Greece plan reporting)"
+  ]
+ },
+ {
+  "person": "FIFA (Gianni Infantino)",
+  "role": "FIFA president and member associations",
+  "promise": "Deliver equal prize money for the men's and women's World Cups by 2027",
+  "date_promised": "2023-08-20",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "FIFA president Gianni Infantino said in 2023 that FIFA's goal was equal prize money for the men's and women's World Cups by 2027, a pledge widely reported at the 2023 Women's World Cup. FIFA announced a record $655 million prize pool for the 2026 men's World Cup (up from $440 million in 2022) and has stated its intent to reach parity for the 2027 Women's World Cup, which remains forthcoming.",
+  "evidence": [
+   "Infantino pledged parity 'by 2027' in 2023",
+   "2026 men's prize pool is a record $655m, nearly six times the 2023 women's $110m pool",
+   "US men's and women's teams agreed to share 80% of 2026/2027 prize earnings equally"
+  ],
+  "sources": [
+   "USA Today",
+   "Yahoo Sports",
+   "UPI"
+  ]
+ }
+]

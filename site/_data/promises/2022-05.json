@@ -1,0 +1,41 @@
+[
+ {
+  "person": "Emmanuel Macron",
+  "role": "President of France",
+  "promise": "Reduce unemployment to around 5% by the end of his first term (2022)",
+  "date_promised": "2017-05-07",
+  "due_date": "2022-05-07",
+  "status": "broken",
+  "description": "Macron's 2017 programme promised to bring unemployment down to about 5% ('full employment') by the end of the five-year term. Unemployment fell from roughly 9.4% to about 7.2% by 2022 — a real improvement but far short of 5%.",
+  "evidence": [
+   "Unemployment ~7.2% at end of term versus 5% target",
+   "Rate did fall sharply from 9.4% in 2017"
+  ],
+  "sources": [
+   "INSEE",
+   "French Ministry of Labour",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Do Kwon",
+  "role": "Co-founder, Terraform Labs",
+  "promise": "TerraUSD (UST) would always trade at $1, supported by billions of dollars in bitcoin reserves",
+  "date_promised": "2022-03-20",
+  "due_date": "2022-05-31",
+  "status": "broken",
+  "description": "Kwon promoted UST as a stablecoin that would hold its dollar peg, backed in part by a bitcoin reserve that the Luna Foundation Guard built up to about $3.5 billion. When UST depegged in May 2022, the foundation sold roughly 52,000 bitcoins trying to defend the peg; UST fell to about 9 cents and the Terra ecosystem collapsed. Kwon was later held liable for fraud by US regulators.",
+  "evidence": [
+   "UST fell to ~$0.09 in May 2022 after weeks of trading below $1",
+   "Luna Foundation Guard moved 52,189 BTC to counterparties during the collapse"
+  ],
+  "sources": [
+   "CNBC",
+   "NBC News"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2022/05/09/what-is-terrausd-ust-and-how-does-it-affect-bitcoin.html)",
+   "https://www.nbcwashington.com/news/business/money-report/3-billion-in-bitcoin-was-sold-in-a-last-ditch-attempt-to-save-ust-stablecoin/3052446/)"
+  ]
+ }
+]

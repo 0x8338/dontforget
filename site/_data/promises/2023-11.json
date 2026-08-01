@@ -1,0 +1,38 @@
+[
+ {
+  "person": "Kevin Feige",
+  "role": "President, Marvel Studios",
+  "promise": "Blade, with Mahershala Ali, comes November 3, 2023 (as announced at San Diego Comic-Con).",
+  "date_promised": "2022-07-23",
+  "due_date": "2023-11-03",
+  "status": "broken",
+  "description": "Feige's SDCC 2022 slate put Blade in theaters November 3, 2023. The film was pushed to September 2024, then removed from the calendar entirely amid director and writer turnover; as of 2026 no Blade film has been released.",
+  "evidence": [
+   "SDCC 2022 announcement of Blade for 2023-11-03",
+   "Film pulled from 2024 schedule; multiple directors left; no release as of mid-2026"
+  ],
+  "sources": [
+   "Marvel Studios SDCC 2022 panel coverage, Variety",
+   "Variety / The Hollywood Reporter delay reports 2023-2025"
+  ]
+ },
+ {
+  "person": "Rishi Sunak",
+  "role": "UK Prime Minister",
+  "promise": "The UK would host the world's first global AI Safety Summit and secure international agreement on frontier AI risks",
+  "date_promised": "2023-11-01",
+  "due_date": "2023-11-02",
+  "status": "kept",
+  "description": "Sunak promised the UK would lead global AI safety governance and deliver the first international agreement on frontier AI at Bletchley Park. The summit ran Nov 1-2, 2023 as billed and produced the Bletchley Declaration, signed by 28 countries including the US and China, plus the launch of the UK AI Safety Institute.",
+  "evidence": [
+   "AI Safety Summit held at Bletchley Park Nov 1-2, 2023 (Wikipedia: AI Safety Summit)",
+   "Bletchley Declaration signed by 28 countries",
+   "UK AI Safety Institute launched at the summit (Nov 2, 2023); Sunak's Musk on-stage interview"
+  ],
+  "sources": [
+   "Wikipedia: AI Safety Summit",
+   "GOV.UK (Nov 2023)",
+   "Bletchley Declaration text"
+  ]
+ }
+]

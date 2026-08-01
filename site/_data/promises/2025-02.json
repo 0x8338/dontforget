@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Frontier AI companies (UK AI Safety Summit process)",
+  "role": "OpenAI, Anthropic, Google, Microsoft, xAI, Meta, Amazon, Mistral, Cohere, IBM, NVIDIA, etc.",
+  "promise": "16 frontier AI companies committed to publish 'frontier AI safety frameworks' before the next global AI safety summit (Paris, February 2025)",
+  "date_promised": "2024-05-22",
+  "due_date": "2025-02-10",
+  "status": "kept",
+  "description": "At the Seoul AI Safety Summit (co-hosted by the UK, May 21-22, 2024), 16 leading AI developers signed the Seoul Frontier AI Safety Commitments, pledging to publish detailed safety frameworks by the next summit. The frameworks were released ahead of and around the Paris AI Action Summit (Feb 10-11, 2025).",
+  "evidence": [
+   "Seoul Summit commitments announced May 21-22, 2024 (GOV.UK)",
+   "16 signatories including OpenAI, Anthropic, Google DeepMind, Microsoft, xAI, Meta",
+   "Safety frameworks published by early 2025 (Paris summit agenda)"
+  ],
+  "sources": [
+   "GOV.UK (May 2024)",
+   "Reuters (May 2024)",
+   "Wikipedia: AI Safety Summit"
+  ]
+ }
+]

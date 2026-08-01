@@ -1,0 +1,1299 @@
+[
+ {
+  "date": "2022-03-24",
+  "title": "Russian Invasion of Ukraine — Start of Full-Scale War",
+  "category": "war",
+  "location": "Ukraine",
+  "lives_lost": 100000,
+  "description": "Russia launched a full-scale invasion of Ukraine, the largest conventional military attack in Europe since World War II. Tens of thousands of civilians and soldiers have been killed, and millions displaced.",
+  "sources": [
+   "United Nations",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-04-15",
+  "title": "Sudan civil war begins",
+  "category": "war",
+  "location": "Khartoum, Sudan",
+  "lives_lost": 12000,
+  "description": "Fighting erupted between the Sudanese Armed Forces and the Rapid Support Forces paramilitary group in Khartoum and other cities, escalating into a nationwide civil war. The conflict spread to Darfur and Kordofan, where reports documented ethnically targeted violence, and displaced over 7 million people within Sudan by the end of the year. Conflict monitoring group ACLED estimated that more than 12,000 people were killed in Sudan during 2023, and the UN declared the country's humanitarian situation among the world's worst.",
+  "sources": [
+   "ACLED",
+   "United Nations OCHA",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2020-05-12",
+  "title": "Kabul maternity hospital attack",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 24,
+  "description": "On 12 May 2020, three gunmen wearing police uniforms stormed the MSF-supported maternity ward of Atatürk Children's Hospital in Kabul's predominantly Hazara Dashte Barchi neighborhood. The attackers killed 24 people, including 16 mothers, two small children and a midwife, and wounded 16 others before being killed by Afghan and Norwegian special forces. No group claimed the hospital attack; the Afghan government blamed the Taliban, while the United States later assessed that Islamic State Khorasan was responsible.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2022-05-24",
+  "title": "Uvalde School Shooting",
+  "category": "gun-violence",
+  "location": "Uvalde, Texas, United States",
+  "lives_lost": 22,
+  "description": "A gunman killed 19 children and 2 teachers at Robb Elementary School. Police waited over an hour before entering the classroom. The deadliest school shooting in Texas history.",
+  "sources": [
+   "Texas Tribune",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2024-07-31",
+  "title": "Assassination of Ismail Haniyeh",
+  "category": "war",
+  "location": "Tehran, Iran",
+  "lives_lost": 1,
+  "description": "Ismail Haniyeh, political leader of Hamas, was killed in Tehran by a projectile strike on his residence during the Israel–Hamas war, disrupting ceasefire negotiations.",
+  "sources": [
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2020-08-04",
+  "title": "Beirut Port Explosion",
+  "category": "industrial",
+  "location": "Beirut, Lebanon",
+  "lives_lost": 218,
+  "description": "A massive explosion at the Port of Beirut, caused by improperly stored ammonium nitrate, devastated large parts of the city. At least 218 people were killed and over 7,000 injured.",
+  "sources": [
+   "Human Rights Watch",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2024-08-09",
+  "title": "Voepass Flight 2283 Crash",
+  "category": "industrial",
+  "location": "Vinhedo, São Paulo State, Brazil",
+  "lives_lost": 62,
+  "description": "On August 9, 2024, Voepass Flight 2283, an ATR 72-500 turboprop bound for Guarulhos, crashed into a residential area in Vinhedo, São Paulo state, Brazil, shortly after takeoff. All 62 people aboard — 58 passengers and 4 crew — were killed; flight recorders indicated ice buildup, and the crash was Brazil's deadliest aviation disaster since 2007.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-10-07",
+  "title": "Israel–Hamas war",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 22000,
+  "description": "On October 7, 2023, Hamas-led armed groups broke out of Gaza in an attack on southern Israel, killing about 1,200 people, mostly civilians, and taking around 250 hostages; Israel responded with airstrikes and a ground invasion of the Gaza Strip. By the end of 2023, the Gaza Health Ministry reported more than 22,000 Palestinians killed and over 57,000 wounded, with much of northern Gaza destroyed and most of the population displaced. The war remained ongoing through 2024 and beyond, with UN assessments describing near-famine conditions in Gaza.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "United Nations OCHA"
+  ]
+ },
+ {
+  "date": "2023-10-07",
+  "title": "Herat earthquakes",
+  "category": "natural-disaster",
+  "location": "Herat, Afghanistan",
+  "lives_lost": 1000,
+  "description": "A magnitude 6.3 earthquake struck Herat province in western Afghanistan on October 7, followed by strong aftershocks over subsequent days, leveling villages of largely mud-brick homes in the Zindajan district. Initial official counts reported more than 1,000 people killed, with later official tolls citing around 1,480 dead and over 2,100 injured, before aid agencies stopped updating casualty figures. The disaster compounded Afghanistan's severe economic and humanitarian crises, with most survivors needing winter shelter.",
+  "sources": [
+   "World Health Organization",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2023-08-08",
+  "title": "Maui wildfire",
+  "category": "natural-disaster",
+  "location": "Lahaina, Hawaii, USA",
+  "lives_lost": 101,
+  "description": "A wind-driven wildfire, fueled by dry conditions and hurricane-force winds from a passing offshore storm, swept through the historic town of Lahaina on the island of Maui, Hawaii, destroying more than 2,200 structures and much of the town. At least 101 people were confirmed dead, making it the deadliest U.S. wildfire in more than a century, and hundreds remained unaccounted for. The fire's rapid spread raised criticism of emergency alert failures and utility power-line conditions.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-09-10",
+  "title": "Derna dam collapses and floods",
+  "category": "natural-disaster",
+  "location": "Derna, Libya",
+  "lives_lost": 4000,
+  "description": "Mediterranean Storm Daniel brought extreme rainfall to northeastern Libya, causing two upstream dams to fail on the night of September 10 and releasing a wall of water through the coastal city of Derna, which swept away entire neighborhoods into the sea. Libya's official death toll reached more than 4,000 people, with initial estimates that included thousands of missing running far higher, and tens of thousands were left homeless. The disaster was aggravated by years of civil conflict that had left the dams unrepaired.",
+  "sources": [
+   "United Nations OCHA",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2020-12-30",
+  "title": "Aden airport attack",
+  "category": "terrorism",
+  "location": "Aden, Yemen",
+  "lives_lost": 28,
+  "description": "On 30 December 2020, explosions and gunfire hit Aden International Airport just as a plane carrying members of Yemen's newly formed unity government, including the prime minister and the Saudi ambassador, was landing from Riyadh. The attack killed 28 people and wounded 107, though none of the cabinet passengers were hurt. A UN investigation later found the Houthi movement responsible for the attack, which came as the Saudi-brokered power-sharing government returned to the interim capital.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2022-09-01",
+  "title": "Nigeria floods",
+  "category": "natural-disaster",
+  "location": "Nigeria",
+  "lives_lost": 603,
+  "description": "Heavy rains from July 2022 produced Nigeria's worst flooding in a decade, peaking in September and October after the release of water from the Lagdo Dam in Cameroon. Nigeria's National Emergency Management Agency reported more than 603 deaths and over 2,400 injuries, with at least 1.4 million people displaced. The floods destroyed more than 200,000 homes and inundated farmland across 33 of Nigeria's 36 states, worsening food insecurity.",
+  "sources": [
+   "Nigeria National Emergency Management Agency",
+   "UNICEF",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2022-02-24",
+  "title": "Russian invasion of Ukraine",
+  "category": "war",
+  "location": "Ukraine",
+  "lives_lost": 6919,
+  "description": "On 24 February 2022, Russia launched a full-scale invasion of Ukraine, the largest armed conflict in Europe since World War II. The UN Office of the High Commissioner for Human Rights documented at least 6,919 civilian deaths in Ukraine during 2022, with the true toll believed to be considerably higher, and both militaries sustained tens of thousands of casualties. The war displaced millions of people, destroyed entire cities, and no ceasefire was reached by the end of the year.",
+  "sources": [
+   "UN OHCHR",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2020-11-28",
+  "title": "Koshebe massacre",
+  "category": "terrorism",
+  "location": "Koshebe, Borno State, Nigeria",
+  "lives_lost": 110,
+  "description": "On 28 November 2020, gunmen believed to be Boko Haram fighters attacked farmers harvesting rice fields near the village of Koshebe in Borno State, northeastern Nigeria. The United Nations reported that as many as 110 civilians and peasant farmers were killed, six were wounded and about 15 women were kidnapped. The attack, which followed a dispute with farmers who had disarmed a Boko Haram gunman the previous day, was among the deadliest attacks on civilians in Nigeria during 2020.",
+  "sources": [
+   "UN News",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2020-02-27",
+  "title": "Balyun airstrikes on Turkish troops",
+  "category": "war",
+  "location": "Idlib, Syria",
+  "lives_lost": 34,
+  "description": "On 27 February 2020, during the Idlib offensive in northwestern Syria, an airstrike attributed to the Syrian and Russian air forces hit a convoy of a Turkish mechanized infantry battalion near Balyun. Turkey reported 34 soldiers killed (33-34 depending on the official source) and more than 30 wounded, making it the deadliest attack on Turkish forces in Syria. Turkey responded by launching Operation Spring Shield, which ended in a Russia-Turkey ceasefire on 5 March 2020.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2024-07-30",
+  "title": "Wayanad Landslides",
+  "category": "natural-disaster",
+  "location": "Wayanad District, Kerala, India",
+  "lives_lost": 231,
+  "description": "On July 30, 2024, torrential monsoon rainfall triggered catastrophic landslides in the Wayanad district of Kerala, India, burying the villages of Chooralmala and Mundakkai under mud and debris. At least 231 people were killed and more than 130 injured, with hundreds of homes destroyed and bodies recovered along the Chaliyar River for weeks afterward.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2020-02-19",
+  "title": "Hanau far-right shootings",
+  "category": "terrorism",
+  "location": "Hanau, Germany",
+  "lives_lost": 9,
+  "description": "On the evening of 19 February 2020, 43-year-old Tobias Rathjen attacked two shisha bars and a kiosk in Hanau, Germany, killing nine people and wounding others, deliberately targeting people of immigrant backgrounds. He then returned home, where he killed his mother and himself. German authorities classified the attack as a far-right terrorist act motivated by racism, xenophobia and conspiracy beliefs, after finding a manifesto written by the perpetrator.",
+  "sources": [
+   "BBC News",
+   "Deutsche Welle",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2020-07-01",
+  "title": "Irapuato rehabilitation center massacre",
+  "category": "gun-violence",
+  "location": "Irapuato, Mexico",
+  "lives_lost": 27,
+  "description": "On 1 July 2020, at least three armed men entered the clandestine drug rehabilitation center 'Buscando el Camino a mi Recuperación' in Irapuato, Guanajuato, Mexico, and opened fire, killing 27 people and wounding several others. The massacre was linked to the territorial war between the Santa Rosa de Lima and Jalisco New Generation cartels; prosecutors later charged a suspect with aggravated homicide of 27 victims. It was one of a series of attacks on rehabilitation centers in Guanajuato during 2020.",
+  "sources": [
+   "Reuters",
+   "El Universal",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2024-08-01",
+  "title": "Sudan Famine and Humanitarian Crisis",
+  "category": "food-crisis",
+  "location": "Zamzam camp, North Darfur, Sudan",
+  "lives_lost": 61000,
+  "description": "In August 2024, the Integrated Food Security Phase Classification (IPC) confirmed famine conditions in Zamzam displacement camp near El Fasher, North Darfur — the first famine declaration anywhere in the world since 2011 — amid the civil war between the Sudanese Armed Forces and the Rapid Support Forces. Independent monitors recorded more than 61,000 people killed in the conflict since April 2023, humanitarian agencies reported child malnutrition deaths in the camp, and the UN said more than 25 million people across Sudan were facing acute food insecurity.",
+  "sources": [
+   "Integrated Food Security Phase Classification (IPC)",
+   "Médecins Sans Frontières",
+   "Reuters",
+   "UN World Food Programme"
+  ]
+ },
+ {
+  "date": "2023-02-28",
+  "title": "Tempe passenger train collision",
+  "category": "industrial",
+  "location": "Tempe, Greece",
+  "lives_lost": 57,
+  "description": "A passenger train carrying more than 350 people collided head-on with a freight train on the same track near Tempe in central Greece, causing several carriages to catch fire and derail. Fifty-seven people were killed, including many university students returning from a carnival holiday, and dozens were injured. The crash, Greece's deadliest rail disaster, was attributed to human error in signaling, prompting nationwide protests over the state of the country's railway network.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2022-03-21",
+  "title": "China Eastern Airlines Flight MU5735 crash",
+  "category": "industrial",
+  "location": "Wuzhou, Guangxi, China",
+  "lives_lost": 132,
+  "description": "China Eastern Airlines Flight MU5735, a Boeing 737-800 flying from Kunming to Guangzhou, crashed into mountainous terrain near Wuzhou, Guangxi, on 21 March 2022 after an unexplained rapid descent from cruising altitude. All 132 people on board, 123 passengers and 9 crew, were killed, making it China's deadliest aviation disaster in decades. The preliminary investigation identified no mechanical failure or crew error, and the cause remained undetermined by the end of 2022.",
+  "sources": [
+   "Civil Aviation Administration of China",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-10-08",
+  "title": "Kunduz mosque bombing",
+  "category": "terrorism",
+  "location": "Kunduz, Afghanistan",
+  "lives_lost": 100,
+  "description": "A suicide bomber attacked a Shia mosque in Kunduz during Friday prayers, killing about 100 worshippers and wounding dozens more. The Islamic State affiliate in Khorasan (ISIS-K) claimed responsibility, and the attack was among the deadliest in Afghanistan following the Taliban takeover in August, targeting the country's Shia Hazara minority.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2024-10-29",
+  "title": "Valencia Flash Floods (DANA)",
+  "category": "natural-disaster",
+  "location": "Valencia, Spain",
+  "lives_lost": 232,
+  "description": "On October 29, 2024, a cut-off low pressure system (DANA) brought torrential rain to eastern Spain, causing flash floods that swept through the province of Valencia and killed at least 232 people, with dozens more reported missing. The floods destroyed homes and vehicles across dozens of municipalities and displaced thousands, prompting one of Spain's largest peacetime rescue operations.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2022-10-29",
+  "title": "Seoul Halloween crowd crush (Itaewon)",
+  "category": "industrial",
+  "location": "Seoul, South Korea",
+  "lives_lost": 159,
+  "description": "During Halloween celebrations on 29 October 2022, a crowd crush in a narrow sloping alley in Seoul's Itaewon district killed 159 people, mostly in their twenties and thirties, and injured about 196 more. The crush occurred when a crowd of thousands packed into the alleyway became compressed as people surged from above. Government and police investigations subsequently found serious failings in crowd management and emergency response.",
+  "sources": [
+   "Yonhap News Agency",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2022-10-29",
+  "title": "Mogadishu car bombings",
+  "category": "terrorism",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 121,
+  "description": "On 29 October 2022, two car bombs exploded within minutes of each other near the Ministry of Education in Mogadishu, Somalia, during heavy traffic at the K-5 junction. At least 121 people were killed and more than 300 injured, including many women and children. The al-Qaeda-linked group al-Shabaab claimed responsibility for one of the deadliest attacks in Somalia's recent history.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2020-11-09",
+  "title": "Mai Kadra massacre",
+  "category": "war",
+  "location": "Mai Kadra, Tigray, Ethiopia",
+  "lives_lost": 767,
+  "description": "On 9-10 November 2020, in the first days of the Tigray War, hundreds of Amhara civilians were killed in house-to-house raids in the town of Mai Kadra near the Sudanese border. Estimates of the death toll ranged from hundreds to more than 1,100, with a Reuters investigation confirming at least 767 deaths; Amnesty International reported that hundreds were killed, likely by local Tigrayan security forces, police and militias aligned with the TPLF. The massacre was the first documented mass atrocity of the Tigray conflict.",
+  "sources": [
+   "Amnesty International",
+   "Reuters",
+   "Ethiopian Human Rights Commission (EHRC)"
+  ]
+ },
+ {
+  "date": "2024-01-01",
+  "title": "Noto Peninsula Earthquake",
+  "category": "natural-disaster",
+  "location": "Wajima, Ishikawa Prefecture, Japan",
+  "lives_lost": 241,
+  "description": "A magnitude 7.6 earthquake struck the Noto Peninsula in Ishikawa Prefecture, Japan, on January 1, 2024, triggering tsunami warnings, building collapses, and a major fire in Wajima. The disaster killed 241 people, injured more than 1,300, and destroyed or damaged tens of thousands of homes, with Wajima and Suzu among the hardest-hit towns.",
+  "sources": [
+   "NHK World",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2022-01-01",
+  "title": "Horn of Africa drought and hunger crisis",
+  "category": "food-crisis",
+  "location": "Horn of Africa (Somalia, Ethiopia, Kenya)",
+  "lives_lost": 43000,
+  "description": "Failed rainy seasons through 2022 produced the worst drought in four decades across the Horn of Africa, affecting Somalia, Ethiopia and Kenya. A joint WHO-UNICEF-FAO analysis estimated approximately 43,000 excess deaths in Somalia in 2022 alone, about half of them children under five. More than 20 million people across the region faced acute food insecurity, with famine-level hunger reported in parts of Somalia.",
+  "sources": [
+   "WHO",
+   "UNICEF",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2020-01-01",
+  "title": "Jakarta flood disaster",
+  "category": "natural-disaster",
+  "location": "Jakarta, Indonesia",
+  "lives_lost": 66,
+  "description": "Record rainfall of nearly 400 mm on New Year's Eve overflowed the Ciliwung and Cisadane rivers, flooding large parts of Jakarta and surrounding areas in the early hours of 1 January 2020. Officials reported 66 deaths, the highest toll from flooding in the city since 2007, with about 60,000 people displaced and more than 397,000 evacuated to higher ground at the peak. Water levels reached 30 to 200 cm across many districts and up to four metres in parts of East Jakarta.",
+  "sources": [
+   "BNPB (Indonesian National Disaster Management Agency)",
+   "BBC News",
+   "The Jakarta Post"
+  ]
+ },
+ {
+  "date": "2021-02-13",
+  "title": "Texas winter storm Uri",
+  "category": "natural-disaster",
+  "location": "Texas, United States",
+  "lives_lost": 246,
+  "description": "An unusually severe winter storm, Uri, brought record cold and snow across Texas, causing the state's power grid to fail and leaving millions without electricity, heat, or water for days during subfreezing temperatures. At least 246 people died, most from hypothermia, while carbon monoxide poisoning from generators and house fires also claimed lives.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "National Weather Service"
+  ]
+ },
+ {
+  "date": "2022-07-04",
+  "title": "Highland Park parade shooting",
+  "category": "gun-violence",
+  "location": "Highland Park, Illinois, USA",
+  "lives_lost": 7,
+  "description": "During the 4 July Independence Day parade in Highland Park, Illinois, a gunman opened fire from a rooftop on the crowd below, killing seven people and wounding 48 others. The 21-year-old attacker had legally purchased the rifle used in the shooting. He was charged with 117 felony counts, including 21 counts of first-degree murder.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2022-06-22",
+  "title": "Afghanistan earthquake (Khost and Paktika)",
+  "category": "natural-disaster",
+  "location": "Khost and Paktika, Afghanistan",
+  "lives_lost": 1036,
+  "description": "A magnitude 6.1 earthquake struck rural districts of Khost and Paktika provinces in southeastern Afghanistan on 22 June 2022, toppling mud-brick homes and triggering landslides. The UN confirmed at least 1,036 deaths and nearly 3,000 injuries, while Afghan authorities reported 1,150 killed, including more than 200 children. The disaster compounded an ongoing humanitarian crisis, leaving many survivors without shelter in a country already affected by severe drought and economic collapse.",
+  "sources": [
+   "UN OCHA",
+   "Bakhtar News Agency",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-07-14",
+  "title": "Western European floods",
+  "category": "natural-disaster",
+  "location": "Germany and Belgium",
+  "lives_lost": 240,
+  "description": "Unprecedented rainfall caused devastating flash floods in western Germany, particularly the Ahr and Erft valleys, and eastern Belgium along the Vesdre river. Around 240 people died, roughly 189 of them in Germany, with dozens more killed in Belgium and other neighboring countries. Thousands lost homes, and scientists linked the extreme rainfall to climate change.",
+  "sources": [
+   "Deutsche Welle",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2022-07-15",
+  "title": "2022 European heatwaves",
+  "category": "natural-disaster",
+  "location": "Western and Southern Europe",
+  "lives_lost": 61672,
+  "description": "Consecutive heatwaves through summer 2022 brought record temperatures across Europe, including 40.3 degrees Celsius in the United Kingdom, 47 degrees Celsius in Portugal, and widespread wildfires from Spain to France. A peer-reviewed study by the Barcelona Institute for Global Health estimated 61,672 heat-related deaths across Europe between 30 May and 4 September 2022, a toll that a later analysis revised upward to over 70,000. Excess deaths fell most heavily on the elderly in France, Spain, Germany and Italy.",
+  "sources": [
+   "Barcelona Institute for Global Health (Nature Medicine)",
+   "Reuters",
+   "UK Met Office"
+  ]
+ },
+ {
+  "date": "2023-09-08",
+  "title": "Marrakesh–Safi earthquake",
+  "category": "natural-disaster",
+  "location": "Marrakesh, Morocco",
+  "lives_lost": 2960,
+  "description": "A magnitude 6.8 earthquake struck the High Atlas Mountains south of Marrakesh, Morocco, in the early hours of September 8, devastating remote mountain villages whose largely earthen buildings collapsed. At least 2,960 people were killed and more than 5,600 injured, making it Morocco's deadliest earthquake since 1960. Thousands of survivors were left in temporary camps through the winter.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "USGS"
+  ]
+ },
+ {
+  "date": "2022-02-15",
+  "title": "Petropolis floods and mudslides",
+  "category": "natural-disaster",
+  "location": "Petropolis, Brazil",
+  "lives_lost": 231,
+  "description": "On 15 February 2022, intense rainfall dumped more than 250 millimetres of water in a few hours on the mountainous Brazilian city of Petropolis, triggering flash floods and hundreds of mudslides. At least 231 people were killed and more than 1,000 displaced, making it the deadliest disaster in the city's history. The slides buried entire neighbourhoods, and many victims were killed inside cars and homes.",
+  "sources": [
+   "Brazilian Civil Defence",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-07-20",
+  "title": "Henan floods",
+  "category": "natural-disaster",
+  "location": "Zhengzhou, Henan, China",
+  "lives_lost": 398,
+  "description": "Torrential rain described as a once-in-a-millennium event inundated Zhengzhou and surrounding areas of Henan province, flooding subway lines, underpasses, and neighborhoods. At least 398 people died across Henan, including 302 in Zhengzhou, where dozens drowned inside subway cars. More than one million residents were evacuated.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Xinhua News Agency"
+  ]
+ },
+ {
+  "date": "2021-08-14",
+  "title": "Haiti earthquake",
+  "category": "natural-disaster",
+  "location": "Southern Peninsula, Haiti",
+  "lives_lost": 2207,
+  "description": "A magnitude 7.2 earthquake struck near Petit-Trou-de-Nippes in southwestern Haiti, killing at least 2,207 people and injuring about 12,000. The quake destroyed homes, churches, and hospitals in the southern cities of Les Cayes and Jérémie, displacing hundreds of thousands of people, with Tropical Depression Grace adding rain and mudslides days later.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2021-12-16",
+  "title": "Super Typhoon Rai",
+  "category": "natural-disaster",
+  "location": "Philippines",
+  "lives_lost": 405,
+  "description": "Super Typhoon Rai, locally named Odette, struck the central and southern Philippines as one of the strongest typhoons on record for December, devastating the islands of Bohol, Siargao, and Dinagat with extreme winds and storm surge. More than 405 people were killed, about 8 million were affected, and over a million homes were damaged or destroyed.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "Manila Bulletin"
+  ]
+ },
+ {
+  "date": "2021-06-10",
+  "title": "Tigray famine",
+  "category": "food-crisis",
+  "location": "Tigray Region, Ethiopia",
+  "lives_lost": 190000,
+  "description": "Amid the war between Ethiopian federal forces and the Tigray People's Liberation Front, the United Nations declared a famine in parts of Tigray in June 2021 as an aid blockade prevented food from reaching millions of people. Research from Ghent University estimated that 162,000 to 191,000 people died from violence and starvation-related causes in Tigray between November 2020 and June 2022, most of them during 2021.",
+  "sources": [
+   "UN News",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-10-25",
+  "title": "Lewiston mass shooting",
+  "category": "gun-violence",
+  "location": "Lewiston, Maine, USA",
+  "lives_lost": 18,
+  "description": "A 40-year-old Army reservist opened fire at a bowling alley and a bar in Lewiston, Maine, killing 18 people and wounding 13 others before fleeing, prompting a two-day manhunt that ended with his death by suicide. It was the deadliest mass shooting in Maine's history and one of the deadliest in the United States in 2023. The shooter's history of mental health episodes and threats had raised concerns within his unit and family.",
+  "sources": [
+   "Associated Press",
+   "The New York Times",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2024-09-17",
+  "title": "Bamako Attack",
+  "category": "terrorism",
+  "location": "Bamako, Mali",
+  "lives_lost": 77,
+  "description": "On September 17, 2024, jihadist attackers from Jama'at Nusrat al-Islam wal-Muslimin (JNIM) stormed a military police school and the military airport in Bamako, Mali, in a coordinated assault. The attack killed at least 77 people, including civilians, and wounded more than 250, making it one of the deadliest attacks in Mali in years and prompting heightened security measures in the capital.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2022-09-30",
+  "title": "Kaaj education centre bombing (Kabul)",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 53,
+  "description": "On 30 September 2022, a suicide bomber attacked the Kaaj education centre in Dashte Barchi, a Shia Hazara neighbourhood of Kabul, during a university entrance practice exam. The Associated Press reported at least 53 people killed, most of them young women, and about 110 wounded, while Taliban authorities gave a lower figure. Islamic State Khorasan Province claimed responsibility for one of the deadliest attacks in Afghanistan in 2022.",
+  "sources": [
+   "Associated Press",
+   "UNAMA",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2024-09-04",
+  "title": "Apalachee High School Shooting",
+  "category": "gun-violence",
+  "location": "Winder, Georgia, United States",
+  "lives_lost": 4,
+  "description": "On September 4, 2024, a 14-year-old student opened fire at Apalachee High School in Winder, Georgia, United States, killing four people — two students and two teachers — and injuring nine others before surrendering to officers. It was the deadliest school shooting in the United States in 2024, and the teenage suspect was charged as an adult with murder.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2022-04-02",
+  "title": "Bucha massacre",
+  "category": "war",
+  "location": "Bucha, Ukraine",
+  "lives_lost": 458,
+  "description": "After Russian forces withdrew from Bucha in early April 2022, Ukrainian authorities discovered mass graves and the bodies of hundreds of civilians killed during the month-long occupation of the town. Ukrainian officials recovered 458 bodies, most showing signs of shooting, torture, or other violent trauma. OHCHR documented at least 73 unlawful killings in Bucha itself and reported more than 1,300 killings across the wider Bucha district, describing the massacre as a grave violation of international law.",
+  "sources": [
+   "OHCHR",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2024-03-22",
+  "title": "Crocus City Hall Concert Hall Attack",
+  "category": "terrorism",
+  "location": "Krasnogorsk, Moscow Oblast, Russia",
+  "lives_lost": 145,
+  "description": "On March 22, 2024, four armed gunmen opened fire on concertgoers at Crocus City Hall in Krasnogorsk, outside Moscow, and set the venue ablaze. At least 145 people were killed and more than 500 injured; the Islamic State's Khorasan Province (ISIS-K) claimed responsibility, and Russia charged four Tajik nationals with the attack.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-03-22",
+  "title": "Boulder supermarket shooting",
+  "category": "gun-violence",
+  "location": "Boulder, Colorado, United States",
+  "lives_lost": 10,
+  "description": "A gunman opened fire with a semi-automatic rifle at a King Soopers grocery store in Boulder, killing ten people, including a police officer who was the first responder on the scene. The suspect, who had purchased the weapon six days earlier despite a history of mental health issues, was captured alive.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "NPR"
+  ]
+ },
+ {
+  "date": "2022-05-14",
+  "title": "Buffalo supermarket shooting",
+  "category": "gun-violence",
+  "location": "Buffalo, New York, USA",
+  "lives_lost": 10,
+  "description": "On 14 May 2022, a gunman driven by white supremacist ideology opened fire at a Tops supermarket in a predominantly Black neighbourhood of Buffalo, New York, livestreaming the attack. Ten Black people were killed and three injured in what authorities called a racially motivated hate crime. The shooter pleaded guilty and was sentenced to life in prison without the possibility of parole.",
+  "sources": [
+   "Associated Press",
+   "The New York Times",
+   "ABC News"
+  ]
+ },
+ {
+  "date": "2024-09-07",
+  "title": "Super Typhoon Yagi",
+  "category": "natural-disaster",
+  "location": "Haiphong, Vietnam",
+  "lives_lost": 844,
+  "description": "Super Typhoon Yagi, the most powerful storm of the 2024 season, made landfall in northern Vietnam on September 7, 2024, after causing destruction in the Philippines and southern China, and spawned flooding and landslides across Vietnam, Laos, Thailand, and Myanmar. The storm and its aftermath killed at least 844 people across the region, more than 320 of them in Vietnam, with hundreds more missing in Myanmar.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ]
+ },
+ {
+  "date": "2020-09-27",
+  "title": "Second Nagorno-Karabakh War",
+  "category": "war",
+  "location": "Nagorno-Karabakh (Artsakh)",
+  "lives_lost": 6900,
+  "description": "On 27 September 2020, Azerbaijan launched a large-scale military offensive against the Armenian-backed Nagorno-Karabakh (Artsakh) region, starting a 44-day war that ended with a Russian-brokered ceasefire on 10 November 2020. Official figures from both sides listed about 2,900 Azerbaijani and 3,800 Armenian soldiers killed, along with roughly 185 civilians, for a combined death toll of more than 6,900, with tens of thousands displaced. Azerbaijan regained control of territory around and within the region under the ceasefire terms.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "International Crisis Group"
+  ]
+ },
+ {
+  "date": "2021-04-01",
+  "title": "India's second COVID-19 wave",
+  "category": "natural-disaster",
+  "location": "India",
+  "lives_lost": 400000,
+  "description": "India was overwhelmed by a second wave of COVID-19 driven by the Delta variant from April to June 2021, when hospitals, crematoria, and oxygen supplies ran out in Delhi and other cities. India officially recorded about 400,000 COVID-19 deaths during 2021, the vast majority during this wave, while independent estimates such as the World Health Organization's excess-death analysis placed the true toll far higher.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "World Health Organization"
+  ]
+ },
+ {
+  "date": "2022-06-14",
+  "title": "Pakistan floods",
+  "category": "natural-disaster",
+  "location": "Pakistan",
+  "lives_lost": 1739,
+  "description": "From mid-June 2022, record monsoon rains and glacial melt triggered catastrophic flooding across Pakistan that submerged as much as one-third of the country at its peak. The National Disaster Management Authority reported 1,739 deaths and about 12,900 injuries, with 33 million people affected and more than 2 million homes damaged or destroyed. Among the deadliest floods in the country's history, the disaster caused damages estimated in the tens of billions of dollars and was widely linked to climate change.",
+  "sources": [
+   "National Disaster Management Authority of Pakistan",
+   "UN OCHA",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2023-06-16",
+  "title": "Mpondwe school massacre",
+  "category": "terrorism",
+  "location": "Mpondwe, Kasese District, Uganda",
+  "lives_lost": 42,
+  "description": "Armed assailants from the Allied Democratic Forces, an armed group linked to the Islamic State, attacked the Lhubiriha Secondary School in the town of Mpondwe near Uganda's border with the Democratic Republic of the Congo, killing 42 people, including at least 37 students, and abducting several others. Most victims were killed by machetes, and several students were burned in their dormitory. Uganda launched military operations against the group in response, including strikes inside Congolese territory.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2024-09-21",
+  "title": "Tabas Coal Mine Explosion",
+  "category": "industrial",
+  "location": "Tabas, South Khorasan Province, Iran",
+  "lives_lost": 52,
+  "description": "On September 21, 2024, a methane gas explosion followed by carbon monoxide release in the Madanjoo coal mine near Tabas, Iran, killed at least 52 miners and injured more than 20. The blast occurred in one of Iran's largest coal mines, rescue operations were hampered by underground gas levels, and authorities launched an investigation into safety conditions.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-02-06",
+  "title": "Turkey–Syria earthquake",
+  "category": "natural-disaster",
+  "location": "Kahramanmaraş, Turkey",
+  "lives_lost": 59000,
+  "description": "A magnitude 7.8 earthquake struck near the Turkey–Syria border at 4:17 a.m., followed by a magnitude 7.5 aftershock hours later, collapsing thousands of buildings across southeastern Turkey and northern Syria. More than 59,000 people were confirmed dead, including about 50,700 in Turkey and over 5,900 in Syria, with an estimated 1.5 million people left homeless. It was one of the deadliest earthquakes in the region in modern history, compounded in Syria by the country's ongoing civil war.",
+  "sources": [
+   "BBC News",
+   "United Nations OCHA",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2022-09-05",
+  "title": "Luding earthquake (Sichuan)",
+  "category": "natural-disaster",
+  "location": "Luding County, Sichuan, China",
+  "lives_lost": 93,
+  "description": "A magnitude 6.6 earthquake struck Luding County in Sichuan Province, China, on 5 September 2022, triggering landslides that blocked rivers and destroyed mountain villages. At least 93 people were killed and 424 injured, with more than 600,000 people affected. Dozens of the dead were road workers and drivers caught by rockslides along the Dadu River valley.",
+  "sources": [
+   "Xinhua News Agency",
+   "Reuters",
+   "Ministry of Emergency Management of China"
+  ]
+ },
+ {
+  "date": "2020-11-14",
+  "title": "Piatra Neamț hospital fire",
+  "category": "industrial",
+  "location": "Piatra Neamț, Romania",
+  "lives_lost": 10,
+  "description": "On 14 November 2020, a fire broke out in the COVID-19 ward of Piatra Neamț Emergency Hospital in Romania, killing 10 patients who were being treated for COVID-19 and injuring four others, including two doctors. The fire, extinguished in about 25 minutes, was suspected to have been caused by a short circuit in a syringe pump that ignited oxygen supplies. It was one of a series of deadly hospital fires in Romania during the COVID-19 pandemic, prompting calls for better hospital fire safety.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Romania-Insider"
+  ]
+ },
+ {
+  "date": "2024-01-03",
+  "title": "Kerman Bombings (Soleimani Memorial Attack)",
+  "category": "terrorism",
+  "location": "Kerman, Iran",
+  "lives_lost": 95,
+  "description": "On January 3, 2024, two explosions struck a crowd gathered in Kerman, Iran, for a ceremony commemorating the fourth anniversary of the assassination of General Qasem Soleimani. Islamic State (ISIS) claimed responsibility for the attack, which killed at least 95 people and wounded about 280, making it one of the deadliest attacks in Iran's modern history.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-06-24",
+  "title": "Surfside condominium collapse",
+  "category": "industrial",
+  "location": "Surfside, Florida, United States",
+  "lives_lost": 98,
+  "description": "The 12-story Champlain Towers South condominium partially collapsed at night in Surfside, near Miami Beach, killing 98 residents and leaving a pile of rubble that took weeks to fully search. Investigations pointed to long-standing structural deterioration, including corrosion of reinforcing steel, compounded by years of deferred maintenance.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "Miami Herald"
+  ]
+ },
+ {
+  "date": "2023-01-15",
+  "title": "Yeti Airlines Flight 691 crash",
+  "category": "industrial",
+  "location": "Pokhara, Nepal",
+  "lives_lost": 72,
+  "description": "Yeti Airlines flight 691, an ATR 72-500 operating from Kathmandu to Pokhara, crashed while on approach to Pokhara's newly opened international airport, killing all 72 people on board (68 passengers and 4 crew). The aircraft was observed in a stall-like attitude shortly before impact, and Nepal's investigation commission later reported that the pilots had inadvertently put the propellers into feather mode during the approach. The crash was Nepal's deadliest aviation accident since 1992.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2021-01-15",
+  "title": "Sulawesi earthquake",
+  "category": "natural-disaster",
+  "location": "West Sulawesi, Indonesia",
+  "lives_lost": 105,
+  "description": "A magnitude 6.2 earthquake struck near the city of Mamuju on Sulawesi island, killing at least 105 people and injuring hundreds more. The quake toppled homes, hospitals, and hotels, triggering landslides in the mountainous region. Thousands were displaced and months of aftershocks hampered rescue and recovery efforts.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-02-01",
+  "title": "Myanmar military coup and crackdown",
+  "category": "war",
+  "location": "Myanmar",
+  "lives_lost": 1400,
+  "description": "On February 1, the Myanmar military seized power in a coup, detaining elected leader Aung San Suu Kyi and triggering nationwide civil disobedience and protests. Security forces responded with lethal force, and by the end of 2021 more than 1,400 civilians had been killed and over 10,000 detained, according to monitoring groups such as the Assistance Association for Political Prisoners.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-02-07",
+  "title": "Chamoli glacier disaster",
+  "category": "natural-disaster",
+  "location": "Uttarakhand, India",
+  "lives_lost": 200,
+  "description": "A portion of the Nanda Devi glacier broke off in Chamoli district, sending a massive flash flood of water, ice, and debris down the Rishiganga and Dhauliganga rivers. The flood destroyed two hydroelectric power projects and swept away workers and infrastructure, leaving roughly 200 people dead or missing, most of them power-plant employees.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2021-03-16",
+  "title": "Atlanta spa shootings",
+  "category": "gun-violence",
+  "location": "Atlanta, Georgia, United States",
+  "lives_lost": 8,
+  "description": "A gunman attacked three massage businesses in the Atlanta area, killing eight people, six of whom were women of Asian descent. The shooter was arrested hours later in south Georgia. The killings drew national attention to anti-Asian violence and were investigated as a possible hate crime.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2021-05-03",
+  "title": "Mexico City metro overpass collapse",
+  "category": "industrial",
+  "location": "Mexico City, Mexico",
+  "lives_lost": 26,
+  "description": "An elevated section of the Mexico City Metro's Line 12 collapsed between Olivos and Tezonco stations as a train passed over it, killing 26 people and injuring about 70. The train cars plunged onto a busy road below. Investigations later attributed the collapse to structural design and construction deficiencies.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2024-05-10",
+  "title": "Baghlan Flash Floods",
+  "category": "natural-disaster",
+  "location": "Baghlan Province, Afghanistan",
+  "lives_lost": 315,
+  "description": "On May 10, 2024, heavy seasonal rainfall caused flash floods that swept through villages in northern Afghanistan, most severely in Baghlan Province. United Nations agencies reported at least 315 people killed and more than 1,600 injured, with tens of thousands of homes destroyed or damaged and several thousand people displaced.",
+  "sources": [
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "Associated Press",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2021-05-10",
+  "title": "Eleven-day Gaza conflict",
+  "category": "war",
+  "location": "Gaza Strip and Israel",
+  "lives_lost": 256,
+  "description": "An 11-day war between Israel and Hamas erupted after weeks of tension in Jerusalem, with Israeli airstrikes and Palestinian rocket fire striking densely populated areas. At least 256 Palestinians, including 66 children, and 13 people in Israel were killed. More than 100,000 Gazans were displaced before a ceasefire took effect on May 21.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2022-06-04",
+  "title": "BM Container Depot fire and explosions (Sitakunda)",
+  "category": "industrial",
+  "location": "Sitakunda, Chattogram, Bangladesh",
+  "lives_lost": 49,
+  "description": "A fire broke out at the BM Container Depot near Sitakunda, Bangladesh, on 4 June 2022, igniting chemicals stored in shipping containers and triggering a series of massive explosions. At least 49 people were killed and more than 450 injured, many of them firefighters and workers who had tried to contain the initial blaze. The explosions hurled containers hundreds of metres, in one of Bangladesh's deadliest industrial accidents.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2021-06-04",
+  "title": "Solhan village massacre",
+  "category": "terrorism",
+  "location": "Yagha Province, Burkina Faso",
+  "lives_lost": 160,
+  "description": "Armed jihadists, reportedly affiliated with al-Qaeda-linked groups, attacked the village of Solhan in Burkina Faso's Sahel region, killing around 160 people, including many children, and burning homes. It was the deadliest attack in the country's history since the insurgency began in 2015 and forced thousands of residents to flee the area.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-06-25",
+  "title": "Pacific Northwest heat dome",
+  "category": "natural-disaster",
+  "location": "Pacific Northwest, United States and Canada",
+  "lives_lost": 800,
+  "description": "An exceptional heat dome pushed temperatures to records across the Pacific Northwest, with Lytton, British Columbia, reaching 49.6°C (121.3°F), Canada's hottest temperature ever recorded. The heat is estimated to have caused about 800 deaths or more across Canada and the U.S., mostly among elderly and vulnerable people in homes without air conditioning.",
+  "sources": [
+   "CBC News",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2021-08-26",
+  "title": "Kabul airport bombing",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 183,
+  "description": "During the chaotic U.S. troop withdrawal from Afghanistan, an ISIS-K suicide bomber detonated a device amid crowds gathered at Hamid Karzai International Airport's Abbey Gate, followed by a second explosion. At least 183 people were killed, including 13 U.S. service members and roughly 170 Afghan civilians, many of whom were attempting to flee the country.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2021-12-10",
+  "title": "Mayfield tornado outbreak",
+  "category": "natural-disaster",
+  "location": "Mayfield, Kentucky, United States",
+  "lives_lost": 89,
+  "description": "A historic tornado outbreak spawned an EF4 tornado that leveled the town of Mayfield, Kentucky, and caused damage across six states from Arkansas to Ohio during the night of December 10-11. At least 89 people were killed, most of them in Kentucky, where it was the deadliest tornado event in the state's history, with deaths also reported in Tennessee and elsewhere.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "National Weather Service"
+  ]
+ },
+ {
+  "date": "2023-01-21",
+  "title": "Monterey Park mass shooting",
+  "category": "gun-violence",
+  "location": "Monterey Park, California, USA",
+  "lives_lost": 11,
+  "description": "A 72-year-old gunman opened fire at Star Ballroom Dance Studio during a Lunar New Year celebration in Monterey Park, California, killing 11 people and wounding 9 others. The shooter then drove to a second dance hall in Alhambra, where he was disarmed by a patron, and died of a self-inflicted gunshot wound the next day after being confronted by police. It was one of the deadliest mass shootings in Los Angeles County history.",
+  "sources": [
+   "Associated Press",
+   "The New York Times",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2023-01-30",
+  "title": "Peshawar mosque bombing",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 84,
+  "description": "A suicide bomber detonated an explosives-laden vest inside a mosque within a police compound in Peshawar, Pakistan, during afternoon prayers, killing at least 83 people, mostly police officers, and wounding more than 220 others. The bombing collapsed part of the mosque roof onto worshippers. The Pakistani Taliban (Tehrik-e-Taliban Pakistan) claimed responsibility, saying the attack was retaliation for military operations against the group.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2023-05-04",
+  "title": "South Kivu floods and landslides",
+  "category": "natural-disaster",
+  "location": "Kalehe, South Kivu, DR Congo",
+  "lives_lost": 400,
+  "description": "Days of torrential rain triggered flash floods and landslides in the Kalehe territory of South Kivu province in eastern Democratic Republic of the Congo, burying villages such as Bushushu and Nyamukubi under mud. More than 400 people were killed, with local officials later counting 438 bodies, and thousands were left missing or displaced. The flooding was among the deadliest natural disasters recorded in the region.",
+  "sources": [
+   "Al Jazeera",
+   "Reuters",
+   "United Nations OCHA"
+  ]
+ },
+ {
+  "date": "2023-05-06",
+  "title": "Allen outlet mall shooting",
+  "category": "gun-violence",
+  "location": "Allen, Texas, USA",
+  "lives_lost": 9,
+  "description": "A gunman opened fire at the Allen Premium Outlets mall in Allen, Texas, killing eight people, including children, and wounding seven others before being fatally shot by a police officer, bringing the total dead to nine. The attacker, a 33-year-old who had posted racist and extremist content online, was armed with a rifle. The shooting was the deadliest mass shooting in Texas since 2019.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "NBC News"
+  ]
+ },
+ {
+  "date": "2023-05-20",
+  "title": "Battle of Bakhmut",
+  "category": "war",
+  "location": "Bakhmut, Ukraine",
+  "lives_lost": 20000,
+  "description": "Russian forces completed their capture of the eastern Ukrainian city of Bakhmut on May 20, 2023, ending one of the bloodiest battles of the Russia–Ukraine war, which had raged for about ten months. U.S. officials estimated that roughly 20,000 Russian soldiers had been killed in the battle, with tens of thousands more wounded, and Ukrainian officials reported thousands of their own soldiers killed; the city was reduced to ruins. Independent verification of exact casualties was not possible due to the secrecy of the warring sides.",
+  "sources": [
+   "The New York Times",
+   "Reuters",
+   "Institute for the Study of War"
+  ]
+ },
+ {
+  "date": "2020-05-20",
+  "title": "Cyclone Amphan",
+  "category": "natural-disaster",
+  "location": "West Bengal, India and Bangladesh",
+  "lives_lost": 133,
+  "description": "Cyclone Amphan, the first super cyclonic storm in the Bay of Bengal since 1999, made landfall near Bakkhali in West Bengal, India on 20 May 2020 with winds up to 260 km/h. The storm killed 133 people in total, including 103 in India (most in West Bengal) and 26 in Bangladesh, and displaced millions. Amphan severely damaged Kolkata and the Sundarbans, and its landfall during the COVID-19 pandemic complicated evacuation and relief efforts.",
+  "sources": [
+   "India Meteorological Department",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2023-06-02",
+  "title": "Odisha train collision",
+  "category": "industrial",
+  "location": "Balasore, Odisha, India",
+  "lives_lost": 292,
+  "description": "Three trains collided near the Balasore district in Odisha, India, when the Coromandel Express derailed onto an adjacent track and was struck by a passenger train, with a stationary freight train also involved. At least 292 people were killed and more than 1,000 were injured in India's deadliest rail disaster in decades. India's railways minister attributed the crash to a signal alteration error in the electronic interlocking system.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2023-11-03",
+  "title": "Jajarkot earthquake",
+  "category": "natural-disaster",
+  "location": "Jajarkot, Nepal",
+  "lives_lost": 153,
+  "description": "A magnitude 5.7 earthquake struck the Jajarkot district in western Nepal on November 3, toppling thousands of poorly built mud-and-stone homes across remote hill villages in Jajarkot and Rukum West districts. At least 153 people were killed and hundreds injured, with thousands left sleeping outdoors in cold weather. The quake was Nepal's deadliest since the 2015 Gorkha earthquake.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "The Kathmandu Post"
+  ]
+ },
+ {
+  "date": "2020-11-03",
+  "title": "Hurricane Eta",
+  "category": "natural-disaster",
+  "location": "Nicaragua and Honduras, Central America",
+  "lives_lost": 189,
+  "description": "Hurricane Eta made landfall near Puerto Cabezas, Nicaragua on 3 November 2020 as a Category 4 hurricane, then stalled over Central America for two days, triggering catastrophic flash floods and landslides across the region. At least 189 people died, including 74 in Honduras, 60 in Guatemala and 19 in Panama, with more than 100 missing. Eta was followed within two weeks by Hurricane Iota, which compounded the destruction in Honduras and Nicaragua.",
+  "sources": [
+   "NOAA National Hurricane Center",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2023-12-18",
+  "title": "Jishishan earthquake",
+  "category": "natural-disaster",
+  "location": "Jishishan County, Gansu, China",
+  "lives_lost": 151,
+  "description": "A magnitude 6.2 earthquake struck Jishishan County in Gansu province, China, in the early hours of December 18, triggering landslides and collapsing village homes across Gansu and neighboring Qinghai province during sub-freezing night temperatures. At least 151 people were killed and nearly 1,000 injured, with hundreds of thousands affected. It was China's deadliest earthquake since 2014, and rescue operations were hampered by cold weather.",
+  "sources": [
+   "Xinhua",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2023-12-21",
+  "title": "Prague university shooting",
+  "category": "gun-violence",
+  "location": "Prague, Czech Republic",
+  "lives_lost": 14,
+  "description": "A 24-year-old history student opened fire at Charles University's Faculty of Arts building in central Prague, killing 14 people and wounding 25 others before killing himself as police closed in. The gunman had earlier killed his father, and investigators linked him to the earlier killing of a man and his infant daughter in a nearby forest. It was the deadliest mass shooting in the Czech Republic's history.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2024-02-02",
+  "title": "Central Chile Wildfires",
+  "category": "natural-disaster",
+  "location": "Viña del Mar, Valparaíso Region, Chile",
+  "lives_lost": 137,
+  "description": "In early February 2024, wildfires driven by extreme heat, drought, and wind swept through central Chile, most destructively in the Valparaíso Region around Viña del Mar. The fires killed at least 137 people, burned more than 27,000 hectares, and destroyed thousands of homes, making it Chile's deadliest fire disaster on record.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2024-04-26",
+  "title": "Kenya Floods and Landslides",
+  "category": "natural-disaster",
+  "location": "Nairobi, Kenya",
+  "lives_lost": 291,
+  "description": "Torrential rains and flash floods in Kenya from mid-March through May 2024, driven by an unusually heavy long-rains season, caused rivers to overflow, dams to breach, and landslides to bury communities, including in the capital Nairobi. At least 291 people were killed, hundreds were reported missing, and more than 280,000 were displaced, prompting the government to declare the floods a national disaster.",
+  "sources": [
+   "Al Jazeera",
+   "Reuters",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ]
+ },
+ {
+  "date": "2024-05-01",
+  "title": "Rio Grande do Sul Floods",
+  "category": "natural-disaster",
+  "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "lives_lost": 183,
+  "description": "Record rainfall from late April 2024 triggered catastrophic flooding in Brazil's southern state of Rio Grande do Sul, overwhelming Porto Alegre and hundreds of municipalities. The floods killed at least 183 people, with dozens more reported missing, displaced more than 580,000, and destroyed or damaged thousands of homes, businesses, and roads.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2024-06-15",
+  "title": "Hajj Extreme Heat Deaths",
+  "category": "natural-disaster",
+  "location": "Mecca, Saudi Arabia",
+  "lives_lost": 1301,
+  "description": "Extreme heat during the 2024 Hajj pilgrimage in Mecca, Saudi Arabia, in mid-June killed more than 1,300 pilgrims, with temperatures exceeding 50 degrees Celsius at times. Most deaths occurred among unregistered pilgrims lacking access to official facilities; Egypt, Indonesia, and India reported the largest national casualty counts, and several countries attributed the deaths to heatstroke.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "Agence France-Presse"
+  ]
+ },
+ {
+  "date": "2024-09-23",
+  "title": "Israel–Hezbollah War in Lebanon",
+  "category": "war",
+  "location": "Beirut, Lebanon",
+  "lives_lost": 4000,
+  "description": "From late September to November 2024, Israel launched a major military campaign against Hezbollah in Lebanon — preceded by the September 17-18 pager and radio sabotage attacks that killed dozens of Hezbollah members — involving heavy airstrikes on Beirut's southern suburbs, the south, and the Bekaa Valley, and a ground incursion. Lebanese authorities reported about 4,000 people killed and more than 16,000 wounded, with roughly 1.2 million people displaced, until a US-brokered ceasefire took effect on November 27.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2024-12-29",
+  "title": "Jeju Air Flight 2216 Crash",
+  "category": "industrial",
+  "location": "Muan, South Korea",
+  "lives_lost": 179,
+  "description": "On December 29, 2024, Jeju Air Flight 2216, a Boeing 737-800 arriving from Bangkok, made an emergency belly landing and crashed into a concrete embankment at Muan International Airport, South Korea, exploding after a suspected bird strike and reported landing gear failure. All but two of the 181 people on board — 179 in total — were killed, making it the deadliest aviation disaster in South Korean history.",
+  "sources": [
+   "Yonhap News Agency",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2024-12-31",
+  "title": "Israel–Hamas War: 2024 Death Toll in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 45600,
+  "description": "During 2024, the Israel–Hamas war in the Gaza Strip continued with intense Israeli military operations and armed resistance, with the Gaza Ministry of Health reporting more than 45,600 Palestinians killed since October 2023 — roughly 25,000 of them during 2024 — while most of the territory's 2.1 million residents were repeatedly displaced and UN agencies warned of famine conditions and disease outbreaks. The conflict also involved continued rocket fire into Israel and expanding regional confrontation with Hezbollah and Iran.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ]
+ },
+ {
+  "date": "2024-12-31",
+  "title": "Russia–Ukraine War: 2024 Casualties",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 100000,
+  "description": "The Russia–Ukraine war entered its third year in 2024, with Russian offensives in eastern Ukraine, a Ukrainian incursion into Russia's Kursk region, and relentless artillery and drone strikes on cities including Kharkiv, Kyiv, and Odesa. Independent media documented more than 78,000 named Russian soldiers killed by December 2024 and estimated total military deaths on both sides at more than 100,000 during the year — making 2024 the war's deadliest — while the UN recorded about 1,300 civilian deaths in Ukraine in 2024 and more than 12,000 civilians killed since the February 2022 invasion.",
+  "sources": [
+   "BBC News",
+   "Mediazona",
+   "UN Human Rights Office (OHCHR)"
+  ]
+ },
+ {
+  "date": "2020-01-09",
+  "title": "Chinagodrar military camp attack",
+  "category": "terrorism",
+  "location": "Chinagodrar, Niger",
+  "lives_lost": 89,
+  "description": "Jihadist fighters, believed to belong to the Islamic State in the Greater Sahara, attacked a Nigerien army camp at Chinagodrar near the Mali border on 9 January 2020. The assault killed 89 soldiers, one of the deadliest attacks on the Nigerien military in its history, according to authorities and the French army, which supported the response. The attack highlighted the expansion of jihadist groups along Niger's western border.",
+  "sources": [
+   "Al Jazeera",
+   "France 24",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2020-02-08",
+  "title": "Nakhon Ratchasima (Korat) mall shooting",
+  "category": "gun-violence",
+  "location": "Nakhon Ratchasima, Thailand",
+  "lives_lost": 30,
+  "description": "On 8-9 February 2020, Royal Thai Army Sergeant Major Jakrapanth Thomma stole weapons from his base and opened fire at the Terminal 21 Korat shopping mall, killing 29 people and wounding 58 before being shot dead by police, bringing the total death toll to 30 including the perpetrator. The rampage lasted about 17 hours and was the deadliest mass shooting in Thailand's history, with the attacker broadcasting live from the scene.",
+  "sources": [
+   "BBC News",
+   "The Guardian",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2020-05-07",
+  "title": "Visakhapatnam LG Polymers gas leak",
+  "category": "industrial",
+  "location": "Visakhapatnam, India",
+  "lives_lost": 13,
+  "description": "In the early hours of 7 May 2020, styrene gas leaked from a sealed storage tank at the LG Polymers chemical plant on the outskirts of Visakhapatnam, Andhra Pradesh, India. The National Disaster Response Force reported 13 deaths and more than 1,000 people sickened, with about 300 hospitalized, many of them villagers and workers asleep during the nationwide COVID-19 lockdown. The leak was compared to the 1984 Bhopal gas disaster and led to arrests of company officials.",
+  "sources": [
+   "National Disaster Response Force (NDRF)",
+   "BBC News",
+   "The Indian Express"
+  ]
+ },
+ {
+  "date": "2020-08-27",
+  "title": "Hurricane Laura",
+  "category": "natural-disaster",
+  "location": "Louisiana, United States",
+  "lives_lost": 81,
+  "description": "Hurricane Laura made landfall near Cameron, Louisiana on 27 August 2020 as a Category 4 storm with winds of 240 km/h, the strongest hurricane to hit the state since 1856. The storm killed 81 people in total across its path, including at least 41 in the United States (30 in Louisiana), 31 in Haiti and 9 in the Dominican Republic, and caused roughly $19 billion in damage. Storm surge and wind destroyed entire communities along the Gulf Coast of Louisiana and Texas.",
+  "sources": [
+   "NOAA National Hurricane Center",
+   "The Washington Post",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2020-11-02",
+  "title": "Kabul University attack",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 32,
+  "description": "On 2 November 2020, three gunmen from Islamic State Khorasan Province stormed Kabul University during an Iranian book fair, killing 32 people and wounding more than 50 in a siege that lasted several hours. The attackers, killed by security forces, brought the total death count including themselves to 35. The attack targeted students and academics and was one of the deadliest attacks on a university in Afghanistan's recent history.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2020-11-11",
+  "title": "Typhoon Vamco (Ulysses)",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 102,
+  "description": "Typhoon Vamco, known locally as Ulysses, made landfall in Quezon province on 11 November 2020 as the third typhoon to strike the Philippines in two weeks. The storm caused severe flooding in Metro Manila and Cagayan Valley, killing 102 people with 10 more missing, according to the Philippine disaster agency. More than a million people were displaced, and the flooding in Cagayan was described as the worst in decades.",
+  "sources": [
+   "NDRRMC (Philippines National Disaster Risk Reduction and Management Council)",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2022-04-11",
+  "title": "KwaZulu-Natal floods",
+  "category": "natural-disaster",
+  "location": "KwaZulu-Natal, South Africa",
+  "lives_lost": 435,
+  "description": "Torrential rain on 11-13 April 2022 caused catastrophic flash floods and mudslides across KwaZulu-Natal province, South Africa, devastating the city of Durban and surrounding townships. The official death toll was 435, with thousands of homes destroyed, roads and bridges washed out, and critical water and electricity infrastructure severely damaged. It was one of the deadliest natural disasters in South Africa's recorded history.",
+  "sources": [
+   "eThekwini Municipality",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2022-03-04",
+  "title": "Peshawar mosque bombing",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 63,
+  "description": "On 4 March 2022, a suicide bomber detonated explosives during Friday prayers at a Shia mosque in Peshawar's Qissa Khwani Bazaar, Pakistan. At least 63 people were killed, including the attacker and five police officers, and nearly 200 were injured. The Islamic State Khorasan Province claimed responsibility for one of the deadliest attacks in Pakistan in years.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ]
+ }
+]

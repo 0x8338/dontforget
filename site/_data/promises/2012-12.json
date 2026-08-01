@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Copenhagen Accord (COP15)",
+  "role": "UNFCCC COP15 agreement, Dec 2009",
+  "promise": "US$30 billion of 'fast-start' climate finance to developing countries over the next three years (2010-2012), rising to US$100 billion per year by 2020.",
+  "date_promised": "2009-12-18",
+  "due_date": "2012-12-31",
+  "status": "kept",
+  "description": "The fast-start finance element of the Copenhagen Accord was delivered. OECD assessments counted roughly US$33 billion in fast-start finance flows over 2010-2012, slightly exceeding the pledge (the companion $100bn/yr-by-2020 pledge is tracked separately in this dataset's exclusions).",
+  "evidence": [
+   "OECD 'Climate finance in 2013-14 and the USD 100 billion goal' confirmed ~$33bn fast-start finance delivered 2010-2012",
+   "Delivery exceeded the $30bn pledge even by conservative donor-accounting measures"
+  ],
+  "sources": [
+   "Wikipedia",
+   "OECD"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference",
+   "https://www.oecd.org/en/publications/climate-finance-in-2013-14-and-the-usd-100-billion-goal_9789264249424-en.html"
+  ]
+ }
+]

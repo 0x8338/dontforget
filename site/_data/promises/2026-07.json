@@ -1,0 +1,88 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "I'm going to go to Fort Knox and check the gold",
+  "date_promised": "2025-02-26",
+  "due_date": "2026-07-31",
+  "status": "partial",
+  "description": "At his first cabinet meeting Trump said he would visit Fort Knox to verify US gold reserves, and Elon Musk offered to livestream an audit. Treasury Secretary Scott Bessent confirmed in July 2026 that the gold is 'present and accounted for', based on an audit dated September 2024 and a visit by the US Treasurer, but Trump had not personally visited Fort Knox by the deadline and the livestreamed audit never happened.",
+  "evidence": [
+   "Bessent confirmed all gold reserves 'present and accounted for' (July 2026, based on a September 2024 audit)",
+   "Trump said in July 2026 that Musk would inspect Fort Knox; no confirmed personal visit by Trump"
+  ],
+  "sources": [
+   "Reuters (Feb 26, 2025 cabinet meeting coverage)",
+   "AP News"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "We're going to build an Iron Dome for America",
+  "date_promised": "2025-01-20",
+  "due_date": "2026-07-31",
+  "status": "partial",
+  "description": "Promised in his inaugural address and enacted via Executive Order 14186 of 27 January 2025, calling for a next-generation missile defense shield. The program (Golden Dome) advanced through DoD planning and interceptor demonstration contracts, and the FY2026 NDAA required annual reporting, but no operational nationwide shield existed by the July 2026 deadline; cost estimates reached $175-185 billion with delivery projected into the 2030s.",
+  "evidence": [
+   "Executive Order 14186 signed January 27, 2025",
+   "FY2026 NDAA requires annual Golden Dome reports; system not operational as of July 2026",
+   "Cost estimates of $175-185B with delivery projected 2030s (CRS testimony)"
+  ],
+  "sources": [
+   "White House Executive Order (March 14, 2025)",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "DOGE head / Tesla & X CEO",
+  "promise": "DOGE will find $1 trillion in savings by July 4, 2026",
+  "date_promised": "2025-02-26",
+  "due_date": "2026-07-04",
+  "status": "broken",
+  "description": "Musk first claimed DOGE could cut 'at least $2 trillion' (Oct 2024), then said at Trump's cabinet meeting he was 'optimistic' about $1 trillion in cuts. DOGE ceased operation on July 4, 2026 as scheduled, but its claimed savings (~$115-165 billion, heavily disputed and partly miscounted) were a fraction of the target; one government estimate put DOGE's cost at $21.7 billion.",
+  "evidence": [
+   "DOGE dissolved July 4, 2026 with claimed savings far below $1 trillion",
+   "Musk's April 2025 claim of $150B cut was disputed by fact-checkers; miscounting found by journalists"
+  ],
+  "sources": [
+   "Wikipedia: Department of Government Efficiency",
+   "New York Times (Oct 2025)"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "OpenAI CEO",
+  "promise": "I think we will have AGI by 2025",
+  "date_promised": "2025-01-10",
+  "due_date": "2026-07-31",
+  "status": "broken",
+  "description": "In a January 2025 Stratechery interview Altman suggested AGI could arrive by 2025. OpenAI instead defined a five-level AGI rubric in July 2025 and placed achieved capability at level 3 (agents) by the end of 2025. By the due date no generally recognised AGI existed, and Altman continued to push the timeline, saying in late 2025 that the next breakthrough required 'infinite and perfect memory' and in 2026 that AGI was 'very close'.",
+  "evidence": [
+   "OpenAI's own scale put achieved level at 3 (agents), not AGI-5, by end-2025",
+   "Altman pushed the timeline further in late 2025 and 2026; no AGI by July 2026"
+  ],
+  "sources": [
+   "Stratechery interview (Jan 2025)",
+   "OpenAI AGI levels announcement (July 2025)"
+  ]
+ },
+ {
+  "person": "Cristiano Ronaldo",
+  "role": "Portugal captain",
+  "promise": "I would like to play the 2026 World Cup.",
+  "date_promised": "2024-07-05",
+  "due_date": "2026-07-19",
+  "status": "kept",
+  "description": "Ronaldo repeatedly said after Euro 2024 that he wanted to play at the 2026 World Cup, at age 41. He was named to Portugal's squad and appeared at the 2026 tournament in the United States, becoming the oldest player in World Cup history.",
+  "evidence": [
+   "Ronaldo statements after Euro 2024 and through 2025 committing to 2026 World Cup",
+   "Named in Portugal's 2026 World Cup squad; played in tournament, setting oldest-player record"
+  ],
+  "sources": [
+   "CNN Portugal / RTP interview, 2024-07",
+   "Reuters, 2026-05"
+  ]
+ }
+]

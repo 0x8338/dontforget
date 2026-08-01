@@ -1,0 +1,21 @@
+[
+ {
+  "person": "European Commission (EU AI Act)",
+  "role": "EU regulator",
+  "promise": "The EU AI Act — 'the world's first comprehensive AI law' — with GPAI transparency obligations applying from 2 August 2025",
+  "date_promised": "2024-03-13",
+  "due_date": "2025-08-02",
+  "status": "partial",
+  "description": "The EU promised a global-first AI regulation with a strict timeline: in force Aug 1, 2024; prohibitions Feb 2, 2025; GPAI (foundation model) obligations Aug 2025; high-risk rules Aug 2026-2027. The deadlines legally held and GPAI duties took effect Aug 2025, but enforcement was staggered and softened — open-source GPAI exemptions granted (June 2025), codes of practice delayed, and high-risk obligations pushed toward 2027.",
+  "evidence": [
+   "AI Act entered into force Aug 1, 2024; GPAI obligations at 12 months (Wikipedia: Artificial Intelligence Act)",
+   "Prohibitions applied Feb 2, 2025",
+   "High-risk rules split across Aug 2026 (24 months) and Aug 2027 (36 months); open-source exemptions in June 2025"
+  ],
+  "sources": [
+   "Wikipedia: Artificial Intelligence Act",
+   "European Commission AI Act fact sheet",
+   "Reuters (2025 coverage)"
+  ]
+ }
+]

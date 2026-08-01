@@ -1,0 +1,24 @@
+[
+ {
+  "person": "Jamie Dimon",
+  "role": "Chairman & CEO, JPMorgan Chase",
+  "promise": "You could have a recession in six to nine months",
+  "date_promised": "2022-10-10",
+  "due_date": "2023-07-10",
+  "status": "broken",
+  "description": "At an Institute of International Finance event, Dimon said US inflation pressures meant a recession could arrive within 6-9 months (an expectation he repeated in his Jan 2023 Davos remarks about economic 'storm clouds'). No recession materialized: the US economy grew 2.5% in 2023 (strongest of the G7), and unemployment stayed near 50-year lows. The recession call, repeated by Dimon through late 2023, never occurred.",
+  "evidence": [
+   "Bloomberg (Oct 10, 2022): 'JPMorgan CEO Jamie Dimon Expects US Recession in Six to Nine Months'",
+   "BEA: real US GDP grew 2.5% in 2023 — no recession in the predicted window",
+   "Dimon kept warning of recession through 2023; none occurred"
+  ],
+  "sources": [
+   "Bloomberg",
+   "BEA"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2022-10-10/jpmorgan-ceo-dimon-expects-us-recession-in-six-to-nine-months",
+   "https://www.bea.gov/news/2024/gross-domestic-product-4th-quarter-and-year-2023-advance-estimate"
+  ]
+ }
+]

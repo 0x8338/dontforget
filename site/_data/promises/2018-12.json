@@ -1,0 +1,106 @@
+[
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Facebook",
+  "promise": "Grow the safety and security team to more than 20,000 people by the end of 2018",
+  "date_promised": "2018-05-01",
+  "due_date": "2018-12-31",
+  "status": "kept",
+  "description": "After the Cambridge Analytica scandal, Zuckerberg promised to double Facebook's safety and security staffing, reaching 20,000 by end of 2018. Facebook reported more than 30,000 people working on safety and security by late 2018, meeting the pledge.",
+  "evidence": [
+   "Facebook reported 30,000+ safety staff by late 2018",
+   "Goal exceeded the 20,000 target"
+  ],
+  "sources": [
+   "Facebook press conference and blog posts",
+   "Bloomberg"
+  ]
+ },
+ {
+  "person": "Moon Jae-in",
+  "role": "President of South Korea",
+  "promise": "Declare the end of the Korean War within this year",
+  "date_promised": "2018-04-27",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "The Panmunjom Declaration signed by Moon and Kim Jong Un agreed to declare the end of the Korean War 'within this year' (2018) and pursue a peace treaty. Moon continued pushing for an end-of-war declaration through his final New Year press conference in January 2022, but his term ended in May 2022 with no declaration or peace treaty, leaving only an armistice in force.",
+  "evidence": [
+   "No end-of-war declaration ever signed despite repeated trilateral talks",
+   "Moon's term ended May 9, 2022, with the 1953 armistice still in place"
+  ],
+  "sources": [
+   "BBC News (April 2018 Panmunjom Declaration coverage)",
+   "Yonhap / Reuters (January 2022 press conference)"
+  ]
+ },
+ {
+  "person": "John Hanke",
+  "role": "Niantic",
+  "promise": "Harry Potter: Wizards Unite (announced Nov 2017) to launch in 2018",
+  "date_promised": "2017-06-30",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "Game launched June 21, 2019 (a year late) and was shut down in January 2022 after disappointing performance.",
+  "evidence": [],
+  "sources": [
+   "Road to VR, Nov 2017"
+  ]
+ },
+ {
+  "person": "Jeff Immelt",
+  "role": "CEO, General Electric",
+  "promise": "GE would earn $2 per share in operating earnings by 2018",
+  "date_promised": "2015-05-20",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "At GE's 2015 investor meeting, Immelt set a target of $2 in operating earnings per share by 2018, which he also linked to a higher stock price. By May 2017 analysts described the target as a stretch, and GE's 2018 results fell far short: the company reported heavy losses and an adjusted operating EPS well below $2, cut its dividend, and was removed from the Dow Jones Industrial Average in June 2018.",
+  "evidence": [
+   "GE reported a net loss in 2018 and adjusted EPS far below the $2 target",
+   "GE cut its dividend and was dropped from the Dow in 2018"
+  ],
+  "sources": [
+   "Nasdaq / Motley Fool"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/5-takeaways-general-electric-companys-latest-presentation-2017-05-31)"
+  ]
+ },
+ {
+  "person": "Jeff Bezos",
+  "role": "CEO, Amazon",
+  "promise": "Prime Air would deliver packages by drone in 30 minutes or less, starting within four to five years",
+  "date_promised": "2013-12-01",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "On CBS '60 Minutes' in December 2013, Bezos unveiled Prime Air and predicted drone deliveries within four to five years, i.e. around 2018. Commercial 30-minute drone delivery had not launched by that deadline; Amazon ran only limited trial services starting in 2022, with a small Prime Air program in California and Texas in 2024.",
+  "evidence": [
+   "No commercial Prime Air deliveries by 2018; AP reported the blown deadline in December 2018",
+   "Limited drone trials began only in 2022-2024"
+  ],
+  "sources": [
+   "AP via Daily Mail (2018-12-02)",
+   "Nasdaq / Motley Fool (2018-03-15)"
+  ]
+ },
+ {
+  "person": "Volkswagen Group (Martin Winterkorn)",
+  "role": "CEO, Volkswagen Group",
+  "promise": "Become the world's largest automaker by 2018 (Strategy 2018)",
+  "date_promised": "2007-01-01",
+  "due_date": "2018-12-31",
+  "status": "kept",
+  "description": "Volkswagen's Strategy 2018, launched in 2007 under CEO Martin Winterkorn, aimed to make VW the world's largest automaker by unit sales by 2018. After the 2015 diesel emissions scandal, management publicly disavowed the goal, but the group nonetheless overtook Toyota in 2016, selling 10.3 million vehicles versus Toyota's 10.2 million, and retained the sales crown in 2017.",
+  "evidence": [
+   "VW became the world's best-selling automaker in 2016 (10.3M vs Toyota 10.2M vehicles)",
+   "VW retained the top spot in 2017, ahead of the 2018 deadline"
+  ],
+  "sources": [
+   "Autocar",
+   "Quartz"
+  ],
+  "source_urls": [
+   "https://open.em.autocar.co.uk/car-news/business/volkswagen-overtakes-toyota-worlds-best-selling-car-maker)",
+   "https://qz.com/897951/volkswagen-has-overtaken-toyota-to-become-the-worlds-biggest-carmaker)"
+  ]
+ }
+]

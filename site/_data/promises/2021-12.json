@@ -1,0 +1,171 @@
+[
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Begin Cybertruck deliveries in late 2021",
+  "date_promised": "2019-11-21",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "At the Cybertruck unveiling Musk said production would start in late 2021, later shifting to 2022 and 2023. The first deliveries did not occur until November 30, 2023 — about two years late.",
+  "evidence": [
+   "First deliveries on 2023-11-30, two years past the deadline",
+   "Musk repeatedly pushed back the timeline"
+  ],
+  "sources": [
+   "Tesla reveal event",
+   "Reuters",
+   "The Verge"
+  ]
+ },
+ {
+  "person": "World Health Organization (COVAX)",
+  "role": "COVID-19 Vaccine Global Access facility",
+  "promise": "COVAX will deliver 2 billion vaccine doses to priority populations by the end of 2021",
+  "date_promised": "2021-05-31",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "WHO, Gavi and CEPI committed COVAX to delivering 2 billion doses by the end of 2021, later than originally planned, to vaccinate the world's most vulnerable people. By year-end 2021 COVAX had shipped only about half that — roughly 1 billion doses — largely due to export bans, supply hoarding and India's vaccine export pause, delivering just over 1 billion doses globally versus the 2 billion target.",
+  "evidence": [
+   "COVAX passed its 1 billionth dose only in January 2022, roughly 50% of the 2 billion target",
+   "Vaccine hoarding and India's export ban on Covaxin/Serum supplies crippled deliveries to low-income countries"
+  ],
+  "sources": [
+   "Gavi/WHO COVAX delivery data (December 2021)",
+   "Reuters / AP (January 2022)"
+  ]
+ },
+ {
+  "person": "Stéphane Bancel",
+  "role": "CEO, Moderna",
+  "promise": "We believe we will be able to produce between 700 million and 1 billion doses of our COVID-19 vaccine in 2021",
+  "date_promised": "2021-02-26",
+  "due_date": "2021-12-31",
+  "status": "partial",
+  "description": "Moderna's FY2020 10-K (signed off by Bancel) guided to 700M-1B doses of mRNA-1273 in 2021, after Bancel had publicly floated 'up to 1 billion doses' in 2020. Moderna cut its delivery guidance to 700-800M in October 2021 (supply chain constraints) and ultimately shipped approximately 807 million doses in 2021 — within the formal 700M-1B range but well short of the 1 billion headline target.",
+  "evidence": [
+   "FY2020 10-K (filed Feb 26, 2021): 'we believe we will be able to produce between 700 million and 1 billion doses of our COVID-19 vaccine in 2021'",
+   "Moderna cut 2021 delivery forecast to 700-800M doses in Oct 2021 (Reuters)",
+   "FY2021 10-K: 'approximately 807 million of those doses shipped in 2021'"
+  ],
+  "sources": [
+   "SEC",
+   "SEC"
+  ],
+  "source_urls": [
+   "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/0001682852-21-000006.txt",
+   "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/0001682852-22-000012.txt"
+  ]
+ },
+ {
+  "person": "Albert Bourla",
+  "role": "CEO, Pfizer",
+  "promise": "We will manufacture 2.5 billion doses of the COVID-19 vaccine in 2021",
+  "date_promised": "2021-03-30",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Pfizer/BioNTech committed in February 2021 to 2 billion doses for 2021, then raised the target to 2.5 billion at end of March 2021 — a pledge tied to Bourla's 'back to normal by end of 2021' message. The partnership exceeded it, producing roughly 3 billion doses during 2021 (3.1B by year-end per company statements), one of the rare mega-pledges of the pandemic era that was fully delivered.",
+  "evidence": [
+   "Wikipedia: 'In February 2021, BioNTech announced it would increase production by more than 50% to manufacture 2 billion doses in 2021, raised again at the end of March to 2.5 billion doses in 2021'",
+   "Bloomberg (Mar 30, 2021): 'BioNTech Raises Covid Vaccine Target to 2.5 Billion Doses'",
+   "Pfizer/BioNTech reported manufacturing ~3 billion doses in 2021, surpassing the target"
+  ],
+  "sources": [
+   "Bloomberg",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2021-03-30/biontech-raises-2021-covid-vaccine-target-to-2-5-billion-doses",
+   "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Battery Day (Sept 22, 2020): 4680 cells in volume production by end of 2021, and a $25,000 Tesla car 'in about 3 years'",
+  "date_promised": "2020-06-30",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "4680 volume production only ramped in 2023-2024; the ~$25,000 car never shipped — Reuters reported in April 2024 that Tesla scrapped its low-cost car plans.",
+  "evidence": [],
+  "sources": [
+   "New York Times"
+  ]
+ },
+ {
+  "person": "Dara Khosrowshahi",
+  "role": "Uber",
+  "promise": "Uber would become profitable by 2021 (Q3 2019 shareholder letter)",
+  "date_promised": "2019-06-30",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Uber reported its first profitable quarter on an adjusted EBITDA basis in Q4 2021, meeting the pledge.",
+  "evidence": [],
+  "sources": [
+   "CNBC"
+  ]
+ },
+ {
+  "person": "António Guterres",
+  "role": "United Nations Secretary-General",
+  "promise": "No new coal plants after the end of this year.",
+  "date_promised": "2020-12-12",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "Guterres' call at the Climate Ambition Summit (12 Dec 2020) - repeated at COP26 - was not heeded. New coal construction continued, led by China, and global coal capacity kept growing through 2025.",
+  "evidence": [
+   "China approved and continued building well over 100 GW of new coal capacity after 2021 (Global Energy Monitor)",
+   "Global installed coal capacity grew in 2022-2025; Guterres had to repeat the demand at COP26 and COP27"
+  ],
+  "sources": [
+   "United Nations",
+   "Global Energy Monitor"
+  ],
+  "source_urls": [
+   "https://www.un.org/sg/en/content/sg/statement/2020-12-12/secretary-generals-remarks-climate-ambition-summit",
+   "https://globalenergymonitor.org/projects/global-coal-plant-tracker/"
+  ]
+ },
+ {
+  "person": "COP26 signatories of the Statement on International Public Support for the Clean Energy Transition",
+  "role": "COP26 (UK presidency) ministerial statement",
+  "promise": "We commit to end new direct public support for international unabated coal power generation by the end of 2021.",
+  "date_promised": "2021-11-04",
+  "due_date": "2021-12-31",
+  "status": "partial",
+  "description": "39 countries and institutions (incl. US, UK, EU, Japan, Korea and five development banks) signed in Glasgow. Signatories mostly stopped new public coal financing, but Japan and Korea continued financing 'highly efficient' coal via loopholes, and China - a non-signatory - kept funding overseas coal.",
+  "evidence": [
+   "Statement text: 'We commit to end new direct public support for international unabated coal power generation by the end of 2021'",
+   "Japan continued coal project financing through 2023-2024 under carve-outs, per Reuters/China Dialogue tracking",
+   "Wikipedia (COP26): 39 countries and institutions signed; ~$28bn/yr in international fossil fuel public finance targeted"
+  ],
+  "sources": [
+   "UK COP26",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://ukcop26.org/statement-on-international-public-support-for-the-clean-energy-transition/",
+   "https://en.wikipedia.org/wiki/2021_United_Nations_Climate_Change_Conference"
+  ]
+ },
+ {
+  "person": "Adam Neumann",
+  "role": "Co-founder, WeWork",
+  "promise": "WeWork would be profitable by the end of 2021",
+  "date_promised": "2021-03-25",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "WeWork projected in its March 2021 SPAC filing that it would be profitable by the end of 2021, a forecast analysts called aggressive. The company went public via SPAC at about $9 billion, far below the $47 billion valuation of 2019, remained loss-making through 2021 and 2022, and filed for Chapter 11 bankruptcy protection in November 2023.",
+  "evidence": [
+   "WeWork was still loss-making at the end of 2021",
+   "Chapter 11 filing November 2023"
+  ],
+  "sources": [
+   "Business Insider",
+   "Crunchbase News"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/wework-occupacy-projections-profitability-spac-going-public-flex-office-space-2021-4)",
+   "https://news.crunchbase.com/public/wework-to-go-public-via-spac/)"
+  ]
+ }
+]

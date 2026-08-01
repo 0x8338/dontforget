@@ -1,0 +1,40 @@
+[
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister of Canada",
+  "promise": "\"We will legalize, regulate and restrict access to marijuana.\"",
+  "date_promised": "2015-10-19",
+  "due_date": "2018-10-17",
+  "status": "kept",
+  "description": "Campaign pledge to legalize recreational cannabis. The Cannabis Act received royal assent in June 2018 and legalization took effect October 17, 2018, roughly on the timeline promised.",
+  "evidence": [
+   "Cannabis Act legalization effective Oct 17, 2018",
+   "Task force on cannabis legalization reported Dec 2016, government followed its recommendations"
+  ],
+  "sources": [
+   "CBC News",
+   "BBC News"
+  ]
+ },
+ {
+  "person": "IPCC (Hoesung Lee, Chair)",
+  "role": "Intergovernmental Panel on Climate Change",
+  "promise": "Provide a special report in 2018 on the impacts of global warming of 1.5°C above pre-industrial levels (Paris decision 1/CP.21).",
+  "date_promised": "2015-12-12",
+  "due_date": "2018-10-08",
+  "status": "kept",
+  "description": "The Paris decision (Dec 2015) invited the IPCC to deliver SR1.5 'in 2018'. The report was approved at IPCC-48 (Incheon) and published on 8 October 2018, exactly on schedule, and became the scientific anchor of the 'keep 1.5 alive' movement.",
+  "evidence": [
+   "SR1.5 published 8 October 2018, within the requested 2018 timeframe",
+   "Found 1.5°C requires 45% CO2 cuts by 2030 and net zero by ~2050 - figures that shaped NDCs and net-zero pledges"
+  ],
+  "sources": [
+   "IPCC",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.ipcc.ch/sr15/",
+   "https://en.wikipedia.org/wiki/Special_Report_on_Global_Warming_of_1.5_%C2%B0C"
+  ]
+ }
+]

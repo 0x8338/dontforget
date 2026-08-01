@@ -1,0 +1,57 @@
+[
+ {
+  "person": "Boris Johnson",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Leave the European Union on 31 October 2019, 'do or die'",
+  "date_promised": "2019-07-24",
+  "due_date": "2019-10-31",
+  "status": "partial",
+  "description": "In his first speech as PM Johnson pledged the UK would leave the EU on October 31 'no ifs or buts.' Parliament forced a delay and Brexit occurred on January 31, 2020 — three months late but achieved.",
+  "evidence": [
+   "UK left the EU on 2020-01-31",
+   "October 31 deadline missed after Parliament refused to ratify the deal"
+  ],
+  "sources": [
+   "Downing Street",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Make India open-defecation free by October 2, 2019 (Gandhi's 150th birth anniversary)",
+  "date_promised": "2014-10-02",
+  "due_date": "2019-10-02",
+  "status": "partial",
+  "description": "Modi launched Swachh Bharat ('Clean India') promising an open-defecation-free India by 2019, with roughly 100 million toilets built. The government declared the goal achieved, but independent surveys (NSSO, WHO/UNICEF) found open defecation persisting among millions of rural households.",
+  "evidence": [
+   "Government declared India ODF in October 2019",
+   "Independent surveys estimated tens of millions still practiced open defecation"
+  ],
+  "sources": [
+   "Government of India, Swachh Bharat Mission",
+   "WHO/UNICEF Joint Monitoring Programme",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister of Canada",
+  "promise": "\"We are committed to ensuring that 2015 will be the last federal election conducted under the first-past-the-post electoral system.\"",
+  "date_promised": "2015-10-19",
+  "due_date": "2019-10-21",
+  "status": "broken",
+  "description": "Campaign pledge to replace first-past-the-post with a new voting system in time for the 2019 election. An all-party parliamentary committee reported in Dec 2016, and on Feb 1, 2017 Democratic Institutions Minister Karina Gould announced the government was abandoning reform because there was no consensus. The 2019 and 2021 elections were both held under first-past-the-post.",
+  "evidence": [
+   "Liberal Party 2015 platform language on electoral reform",
+   "Feb 1, 2017 minister announcement that the promise would not be kept",
+   "2019 federal election conducted under FPTP"
+  ],
+  "sources": [
+   "CBC News",
+   "The Globe and Mail",
+   "Wikipedia: Electoral reform in Canada"
+  ]
+ }
+]

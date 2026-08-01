@@ -1,0 +1,59 @@
+[
+ {
+  "person": "Sam Bankman-Fried",
+  "role": "Founder & CEO, FTX",
+  "promise": "FTX is fine. Assets are fine.",
+  "date_promised": "2022-11-08",
+  "due_date": "2022-11-11",
+  "status": "broken",
+  "description": "Three days before FTX collapsed, SBF tweeted 'FTX is fine. Assets are fine.' On November 11, 2022 — 72 hours later — FTX and its affiliates filed for Chapter 11 bankruptcy in Delaware after a bank run exposed that customer assets had been used to cover Alameda Research's positions. SBF was later convicted on seven counts of fraud and conspiracy. Prosecutors noted his statements were 'misleading' and technically framed around solvency rather than liquidity.",
+  "evidence": [
+   "Tweet posted November 8, 2022; bankruptcy filed November 11, 2022",
+   "Wikipedia: FTX executive described the statements as false / 'misleading but technically true'",
+   "SBF convicted Nov 2023 on seven counts including fraud and money laundering"
+  ],
+  "sources": [
+   "Wikipedia",
+   "SEC"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
+   "https://www.sec.gov/litigation/litreleases/lr-25619"
+  ]
+ },
+ {
+  "person": "Hassan Al Thawadi",
+  "role": "Secretary General, Qatar 2022 Supreme Committee",
+  "promise": "The labor reforms will be completed by the time of the 2022 World Cup (as reported).",
+  "date_promised": "2018-02-01",
+  "due_date": "2022-11-20",
+  "status": "partial",
+  "description": "Qatar's World Cup organizers repeatedly promised major labor reforms for migrant workers before the 2022 tournament. The kafala sponsorship system was abolished (Sept 2020) and minimum wages introduced, but Amnesty International documented continued wage theft, unpaid recruitment fees and unsafe conditions through 2022-2024, and FIFA's promised workers' compensation fund launched only in 2023 at a fraction of reported needs.",
+  "evidence": [
+   "Kafala abolished in September 2020 and wage protection reform passed",
+   "Amnesty International 2022 and 2024 reports document ongoing abuses and unpaid wages",
+   "FIFA announced a compensation fund for workers in 2022, but payouts were limited"
+  ],
+  "sources": [
+   "Amnesty International reports, 2022-2024",
+   "Reuters, 2018-2024"
+  ]
+ },
+ {
+  "person": "Reed Hastings",
+  "role": "Co-CEO, Netflix",
+  "promise": "Ad-free is a real part of the brand promise.",
+  "date_promised": "2021-10-19",
+  "due_date": "2022-11-03",
+  "status": "broken",
+  "description": "On Netflix's Q3 2021 earnings call, Hastings reiterated that Netflix would remain ad-free as 'a real part of the brand promise.' After subscriber losses, Netflix launched its ad-supported tier ('Basic with Ads') on November 3, 2022, and later killed its ad-free basic plan.",
+  "evidence": [
+   "Hastings' Q3 2021 earnings call statement on ad-free brand promise",
+   "Netflix launched ad-supported tier 2022-11-03 and phased out ad-free basic plan in 2023"
+  ],
+  "sources": [
+   "Netflix Q3 2021 earnings call, 2021-10-19",
+   "Netflix press release, 2022-11-03"
+  ]
+ }
+]

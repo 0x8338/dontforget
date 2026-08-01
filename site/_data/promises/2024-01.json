@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Joe Biden",
+  "role": "US President",
+  "promise": "Executive Order 14110 (Oct 30, 2023): within 90 days, developers of frontier AI models must report red-team safety test results to the federal government",
+  "date_promised": "2023-10-30",
+  "due_date": "2024-01-28",
+  "status": "broken",
+  "description": "The EO required Commerce, within 90 days, to mandate reporting of red-team/safety-test results for frontier models above compute thresholds, plus watermarking guidance within 270 days (NIST issued that in July 2024). The reporting rule was never finalized, and President Trump rescinded the order on Jan 20, 2025, within hours of taking office.",
+  "evidence": [
+   "EO 14110 sections 4.2-4.3 set 90-day reporting deadlines (Federal Register, Nov 1, 2023)",
+   "US AI Safety Institute created (Nov 2023), but no reporting rule enforced",
+   "Trump EO rescinding 14110 (Jan 20, 2025); verified via Wikipedia: Executive Order 14110"
+  ],
+  "sources": [
+   "Federal Register 2023-24283",
+   "Wikipedia: Executive Order 14110",
+   "Reuters (Jan 20, 2025)"
+  ]
+ }
+]

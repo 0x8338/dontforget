@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Gianni Infantino",
+  "role": "FIFA President",
+  "promise": "We want to study whether we can have a World Cup every two years (as reported).",
+  "date_promised": "2021-05-21",
+  "due_date": "2022-09-30",
+  "status": "broken",
+  "description": "FIFA's biennial World Cup campaign (pushed with Arsene Wenger from 2021) was formally studied and proposed, with a vote expected at the 2022 FIFA Congress. UEFA and CONMEBOL campaigned against it, the vote was postponed, and FIFA quietly abandoned the plan in 2023 — the World Cup remains quadrennial.",
+  "evidence": [
+   "FIFA commissioned a feasibility study in 2021 and staged consultation sessions",
+   "Expected vote at 2022 FIFA Congress was dropped after UEFA/CONMEBOL opposition",
+   "No biennial World Cup adopted; 2026 and 2030 tournaments stay four years apart"
+  ],
+  "sources": [
+   "The Guardian, 2021-09-20",
+   "Reuters, 2022-03 / 2023-03"
+  ]
+ }
+]

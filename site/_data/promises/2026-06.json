@@ -1,0 +1,19 @@
+[
+ {
+  "person": "Gianni Infantino",
+  "role": "FIFA President",
+  "promise": "We are going to have a 48-team World Cup.",
+  "date_promised": "2017-01-10",
+  "due_date": "2026-06-11",
+  "status": "kept",
+  "description": "FIFA Council unanimously voted to expand the World Cup to 48 teams (announced for 2026 after the 2022 tournament stayed at 32). The expanded 48-team tournament kicked off June 11, 2026 in North America.",
+  "evidence": [
+   "FIFA Council unanimously voted for a 48-team format on 2017-01-10",
+   "2026 World Cup in USA/Canada/Mexico ran with 48 teams as promised"
+  ],
+  "sources": [
+   "FIFA.com press release, 2017-01-10",
+   "Reuters, 2017-01-10"
+  ]
+ }
+]

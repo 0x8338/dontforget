@@ -1,0 +1,326 @@
+[
+ {
+  "person": "Rishi Sunak",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Halve inflation during 2023",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "In his January 2023 speech Sunak made 'halve inflation' one of five pledges for the year, measured against the 10.7% peak of October 2022. CPI inflation fell to 4.0% by December 2023, meeting the target.",
+  "evidence": [
+   "CPI fell from 10.7% to 4.0% during 2023",
+   "Target of ~5.4% was comfortably beaten"
+  ],
+  "sources": [
+   "Office for National Statistics",
+   "Downing Street",
+   "BBC News"
+  ]
+ },
+ {
+  "person": "Rishi Sunak",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "'Stop the boats' — end illegal small boat Channel crossings in 2023",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Sunak made 'stop the boats' one of his five 2023 priorities and introduced the Illegal Migration Act to deliver it. 29,437 people crossed the Channel in small boats in 2023 — the second highest annual figure on record — and Sunak later admitted there was no 'firm date' for stopping crossings.",
+  "evidence": [
+   "29,437 arrivals in 2023, down only a third from 2022's record 45,755",
+   "Sunak admitted no firm target date in December 2023"
+  ],
+  "sources": [
+   "Home Office statistics",
+   "BBC News",
+   "Sky News"
+  ]
+ },
+ {
+  "person": "Anthony Albanese",
+  "role": "Prime Minister of Australia",
+  "promise": "We will hold a referendum to enshrine an Indigenous Voice to Parliament in the Constitution in our first term",
+  "date_promised": "2022-05-28",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Albanese promised in his election victory speech to hold a referendum on an Indigenous Voice to Parliament. The referendum was duly held on October 14, 2023, and was defeated, with roughly 60% of voters saying No in every state. The promise to hold the referendum was kept, but the substantive constitutional change it aimed at was rejected.",
+  "evidence": [
+   "Referendum held on October 14, 2023, as promised",
+   "Defeated: ~60% No vote, failed in all six states, so no constitutional change"
+  ],
+  "sources": [
+   "Australian Electoral Commission (October 2023 result)",
+   "The Guardian / ABC News (October 2023)"
+  ]
+ },
+ {
+  "person": "Recep Tayyip Erdogan",
+  "role": "President of Turkey",
+  "promise": "By 2023, Turkey will be among the world's ten largest economies",
+  "date_promised": "2011-06-12",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Erdogan set joining the world's top-10 economies as a centerpiece of his '2023 vision' for the Turkish republic's centennial, first announced after his 2011 election victory and repeatedly reaffirmed into the 2020s. Turkey's GDP of about $1.1 trillion in 2023 placed it around 17th-18th in the world, far from the top 10 (which required roughly $2 trillion at the time).",
+  "evidence": [
+   "Turkey ranked ~17th-18th by nominal GDP in 2023, not top 10",
+   "Top-10 threshold (~$2 trillion) was roughly double Turkey's actual 2023 output"
+  ],
+  "sources": [
+   "IMF World Economic Outlook (2023 GDP rankings)",
+   "Reuters / Bloomberg (2023 centennial assessments)"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO, Meta",
+  "promise": "Meta Quest 3... available this fall for $499.99",
+  "date_promised": "2023-06-01",
+  "due_date": "2023-12-21",
+  "status": "kept",
+  "description": "Zuckerberg announced the Quest 3 mixed-reality headset on June 1, 2023 at $499.99 with availability in fall 2023. Meta's blog repeated 'coming this fall', and the headset launched October 10, 2023 — comfortably inside the promised window.",
+  "evidence": [
+   "Meta press release (June 1, 2023): 'Meta Quest 3 Coming This Fall + Lower Prices for Quest 2'",
+   "Wikipedia: Quest 3 unveiled June 1, 2023, released October 10, 2023",
+   "Priced at $499.99 as announced"
+  ],
+  "sources": [
+   "Meta",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://about.fb.com/news/2023/06/meta-quest-3/",
+   "https://en.wikipedia.org/wiki/Meta_Quest_3"
+  ]
+ },
+ {
+  "person": "Jack Dorsey",
+  "role": "Block (Square)",
+  "promise": "Square would build a bitcoin hardware wallet and service to make bitcoin custody 'more mainstream' (July 2021)",
+  "date_promised": "2021-06-30",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Block launched the Bitkey self-custody hardware wallet in Dec 2023, fulfilling the promise (two years after the announcement).",
+  "evidence": [],
+  "sources": [
+   "Reuters",
+   "Block press release"
+  ],
+  "source_urls": [
+   null,
+   "https://block.xyz/inside/press-release-bitkey-launch"
+  ]
+ },
+ {
+  "person": "Mary Barra",
+  "role": "GM",
+  "promise": "GM would launch at least 20 all-electric vehicles globally by 2023 (announced Oct 2, 2017)",
+  "date_promised": "2017-06-30",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "GM delivered only about 10 EV nameplates by 2023 (Bolt, Lyriq, Hummer, Equinox, Silverado EV, etc., several in tiny volume), well short of 20; Barra later said the all-electric transition would play out 'over decades'.",
+  "evidence": [],
+  "sources": [
+   "Business Insider, Oct 2017"
+  ]
+ },
+ {
+  "person": "Jim Farley",
+  "role": "Ford",
+  "promise": "Ford to be producing 600,000 EVs annually by the end of 2023, and 2 million by 2026 (Ford+ event, May 26, 2021)",
+  "date_promised": "2021-06-30",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Ford sold only ~110,000 EVs globally in 2023; Farley pushed the 600K milestone to 2024 and delayed the 2 million-by-2026 goal indefinitely.",
+  "evidence": [],
+  "sources": [
+   "CNET, 2021",
+   "NPR"
+  ],
+  "source_urls": [
+   null,
+   "https://www.npr.org/2023/08/11/1193083777/ford-electric-vehicles-f150-lightning-jim-farley"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta (Facebook)",
+  "promise": "Facebook would not take a cut of creators' revenue until at least 2023 (June 7, 2021)",
+  "date_promised": "2021-06-30",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Meta held off on revenue sharing through 2023 (later extended), fulfilling the pledge.",
+  "evidence": [],
+  "sources": [
+   "CNBC"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister",
+  "promise": "Bring all 251 hostages home",
+  "date_promised": "2023-01-01",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "33 hostages returned in phase 1 of the Jan 2025 ceasefire (19 Jan – 27 Feb 2025), 20 more on 13 Oct 2025 under the Gaza peace plan, but phase 2 never started — Israel resumed the war on 18 Mar 2025 — and the promise of everyone returning was not fully met by mid-2026.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
+   "https://en.wikipedia.org/wiki/Gaza_peace_plan"
+  ]
+ },
+ {
+  "person": "Emmanuel Macron",
+  "role": "President",
+  "promise": "Pension reform raising the retirement age from 62 to 64",
+  "date_promised": "2023-01-01",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Passed on 16 Mar 2023 via Article 49.3 despite mass protests; the law remains in force through 2025–2026 despite repeal attempts.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes"
+  ]
+ },
+ {
+  "person": "Kathleen Kennedy",
+  "role": "President, Lucasfilm",
+  "promise": "Rogue Squadron, directed by Patty Jenkins, flies into theaters December 2023 (as announced).",
+  "date_promised": "2020-12-10",
+  "due_date": "2023-12-22",
+  "status": "broken",
+  "description": "At Disney's December 2020 Investor Day, Kennedy announced Patty Jenkins' Rogue Squadron for December 2023, the first of several Star Wars films in 2023-2025. The film was removed from the calendar in 2022 and never made; Jenkins later said her project was shelved.",
+  "evidence": [
+   "Disney Investor Day 2020 set Rogue Squadron for December 2023",
+   "Film dropped from release calendar in 2022; Jenkins departed the project; no Star Wars film released in the promised 2023-2025 window"
+  ],
+  "sources": [
+   "Disney Investor Day, 2020-12-10",
+   "Variety / The Hollywood Reporter, 2022-2023"
+  ]
+ },
+ {
+  "person": "PGA Tour & PIF (Yasir Al-Rumayyan / Jay Monahan)",
+  "role": "PGA Tour / Saudi PIF (LIV Golf) negotiators",
+  "promise": "We expect to finalize the agreement by the end of 2023.",
+  "date_promised": "2023-06-06",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "The PGA Tour, DP World Tour and Saudi Arabia's PIF announced a 'framework agreement' on June 6, 2023 to merge commercial operations under a new for-profit entity, with a stated target of finalizing by December 31, 2023. The deadline passed with no deal; talks stalled through 2024, and as of mid-2026 the tours remain separate despite a 2025 PIF equity investment agreement.",
+  "evidence": [
+   "Joint statement 2023-06-06 set end-of-2023 target",
+   "Deadline missed; merger not completed as of mid-2026",
+   "Feb 2025 PIF-PGA equity investment agreement did not constitute full merger"
+  ],
+  "sources": [
+   "PGA Tour joint statement, 2023-06-06",
+   "Reuters, 2024-01 and 2025-02"
+  ]
+ },
+ {
+  "person": "Arvind Krishna",
+  "role": "CEO, IBM",
+  "promise": "IBM's 2023 quantum roadmap: the 1,121-qubit Condor processor by end of 2023, followed by a 2,000-qubit 'Flamingo' in 2024 and 4,158-qubit 'Kookaburra' in 2025",
+  "date_promised": "2023-05-09",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "The headline promise — Condor, IBM's 1,121-qubit 'largest quantum processor ever', by the end of 2023 — was met (unveiled Dec 4, 2023). However, the follow-on roadmap (Flamingo 2,000 qubits in 2024, Kookaburra in 2025) slipped as IBM revised its roadmap in 2024-2025, so the overall multi-year plan is only partially on track.",
+  "evidence": [
+   "Condor (1,121 qubits) unveiled Dec 4, 2023 (IBM Newsroom)",
+   "IBM 2033 roadmap: Parrot 16,632 qubits (2028), Hummingbird 115,299 (2030), Bald Eagle 1,182,468 (2033)",
+   "Flamingo/Kookaburra milestones not met on original schedule; IBM reworked roadmap in 2025"
+  ],
+  "sources": [
+   "IBM Newsroom (Dec 4, 2023)",
+   "Wikipedia: IBM Quantum System Two",
+   "IBM Quantum roadmap (2023-2033)"
+  ]
+ },
+ {
+  "person": "Sultan Ahmed Al Jaber",
+  "role": "COP28 President / UAE Minister of Industry and Advanced Technology",
+  "promise": "Deliver a COP28 outcome that keeps 1.5°C within reach - tripling global renewable energy capacity by 2030 and doubling energy efficiency by 2030.",
+  "date_promised": "2023-07-01",
+  "due_date": "2023-12-13",
+  "status": "partial",
+  "description": "The UAE Consensus was adopted 13 December 2023 - the first COP text to call for 'transitioning away from fossil fuels in energy systems' - and the Global Renewables and Energy Efficiency Pledge drew 118+ signatories. But China and India did not sign the renewables pledge, and the fossil-fuel language was criticized as loophole-ridden, leaving the 1.5°C trajectory unsecured.",
+  "evidence": [
+   "UAE Consensus (13 Dec 2023): 'transitioning away from fossil fuels in energy systems, in a just, orderly and equitable manner'",
+   "No full fossil phase-out/phase-down wording; AOSIS and scientists called the deal insufficient",
+   "Tripling renewables by 2030 pledge not signed by China and India"
+  ],
+  "sources": [
+   "Wikipedia",
+   "UNFCCC"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2023_United_Nations_Climate_Change_Conference",
+   "https://unfccc.int/cop28"
+  ]
+ },
+ {
+  "person": "Henrik Poulsen / Mads Nipper",
+  "role": "CEO, Ørsted",
+  "promise": "Phase out coal completely by 2023 - a decade ahead of the Danish government's 2030 deadline.",
+  "date_promised": "2017-11-01",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Ørsted decided in 2017 to abandon coal and confirmed a 2023 exit. It closed its last coal unit (Studstrupværket) in August 2023, on schedule - the first major energy company to complete the coal-to-renewables transition.",
+  "evidence": [
+   "Last coal-fired unit shut down August 2023, meeting the pledged deadline",
+   "Coal share of generation fell from ~50% (2006) to zero by 2023",
+   "Wikipedia Ørsted: coal phase-out decision taken in 2017"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
+   "https://www.reuters.com/business/energy/orsted-close-last-coal-fired-power-plant-2023-08-21/"
+  ]
+ },
+ {
+  "person": "COP28 parties (Loss and Damage Fund)",
+  "role": "United Nations climate conference parties",
+  "promise": "Operationalize the Loss and Damage Fund at COP28",
+  "date_promised": "2022-11-20",
+  "due_date": "2023-12-12",
+  "status": "kept",
+  "description": "The COP27 summit in Sharm el-Sheikh agreed to establish a fund to help vulnerable developing countries respond to loss and damage from climate change, with the aim of operationalizing it at COP28. On 30 November 2023, the opening day of COP28 in Dubai, parties adopted the decision to operationalize the fund, with the World Bank serving as host; pledges of seed funding followed from developed countries.",
+  "evidence": [
+   "Fund operationalized by consensus on the first day of COP28, 30 November 2023",
+   "COP27 (November 2022) had agreed to establish the fund",
+   "World Bank hosts the Fund for Responding to Loss and Damage"
+  ],
+  "sources": [
+   "World Bank",
+   "UN News",
+   "China Daily / Reuters"
+  ]
+ },
+ {
+  "person": "OECD Inclusive Framework on BEPS (Pillar Two)",
+  "role": "138+ jurisdictions, G20-endorsed",
+  "promise": "Implement a 15% global minimum tax on large multinationals by 2023",
+  "date_promised": "2021-10-08",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "In October 2021 the OECD/G20 Inclusive Framework agreed Pillar Two, a 15% global minimum tax, with implementation expected by 2023. The EU directive required transposition by the end of 2023, but several member states missed that deadline (Spain adopted rules in December 2024), and the rules only became effective in most major jurisdictions from 2024. Pillar One, the related reallocation of taxing rights, was not finalised by 2023.",
+  "evidence": [
+   "EU transposition deadline of December 2023 missed by several member states",
+   "Pillar Two top-up rules became effective in many jurisdictions only from January 2024",
+   "Pillar One agreement not finalised by the end of 2023"
+  ],
+  "sources": [
+   "OECD",
+   "Funcas",
+   "Osler"
+  ]
+ }
+]

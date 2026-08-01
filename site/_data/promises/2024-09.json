@@ -1,0 +1,74 @@
+[
+ {
+  "person": "Andrés Manuel López Obrador",
+  "role": "President of Mexico",
+  "promise": "We will achieve annual GDP growth of 4 percent",
+  "date_promised": "2018-12-01",
+  "due_date": "2024-09-30",
+  "status": "broken",
+  "description": "AMLO repeatedly promised that his government would deliver 4% annual GDP growth, making it a central claim of his 'Fourth Transformation'. Growth averaged only about 1% per year across his six-year term (2019-2024, including the -8% COVID crash of 2020), making it one of the most-cited unfulfilled promises of his presidency.",
+  "evidence": [
+   "Average annual GDP growth ~1% over 2019-2024, far below the 4% promise",
+   "2020 GDP contracted 8.2% and no year during his term reached 4% growth"
+  ],
+  "sources": [
+   "INEGI GDP data (2019-2024)",
+   "Reuters / El Financiero (2024 end-of-term assessments)"
+  ]
+ },
+ {
+  "person": "Bob Chapek",
+  "role": "CEO, The Walt Disney Company",
+  "promise": "We expect Disney+ to reach 230 million to 260 million paid subscribers by fiscal 2024 (as reported).",
+  "date_promised": "2020-12-10",
+  "due_date": "2024-09-28",
+  "status": "broken",
+  "description": "At Disney's December 2020 Investor Day, the company guided Disney+ to 230-260 million subscribers by fiscal 2024 (ending Sept 2024). Disney+ ended fiscal 2024 at roughly 150 million core subscribers — a shortfall of about 80-110 million; Chapek had been ousted in November 2022.",
+  "evidence": [
+   "Investor Day guidance of 230-260M Disney+ subs by FY2024",
+   "Disney+ core ended FY2024 at ~150M subscribers"
+  ],
+  "sources": [
+   "Disney 2020 Investor Day, 2020-12-10",
+   "Disney Q4 FY2024 earnings, 2024-11-14"
+  ]
+ },
+ {
+  "person": "United Nations member states (Pact for the Future)",
+  "role": "UN General Assembly",
+  "promise": "Adopt the Pact for the Future at the Summit of the Future in September 2024",
+  "date_promised": "2023-09-01",
+  "due_date": "2024-09-22",
+  "status": "kept",
+  "description": "UN General Assembly resolution 77/335 decided to convene the Summit of the Future on 22-23 September 2024 and to adopt a concise, action-oriented Pact for the Future. On 22 September 2024, member states adopted the Pact by consensus, together with its annexes, the Global Digital Compact and the Declaration on Future Generations.",
+  "evidence": [
+   "Pact for the Future adopted by consensus on 22 September 2024",
+   "Adoption included the Global Digital Compact and Declaration on Future Generations",
+   "UN describes it as the most wide-ranging international agreement in recent years"
+  ],
+  "sources": [
+   "United Nations",
+   "UNSDG",
+   "Government of Mexico"
+  ]
+ },
+ {
+  "person": "Paris 2024 organising committee",
+  "role": "Olympic and Paralympic Games organisers",
+  "promise": "Cut Games carbon emissions by 50% compared with the London 2012 and Rio 2016 average",
+  "date_promised": "2017-09-13",
+  "due_date": "2024-09-08",
+  "status": "kept",
+  "description": "Paris 2024 pledged in its bid and delivery plans to be the greenest Games in history, cutting greenhouse gas emissions by 50% compared with the average of London 2012 (about 3.3 million tonnes) and Rio 2016 (about 3.6 million tonnes). The organising committee's final carbon report put Paris 2024 emissions at roughly 1.6 million tonnes of CO2 equivalent, about 54% below the reference average, though organisers did not claim full carbon neutrality.",
+  "evidence": [
+   "Final Paris 2024 emissions reported at about 1.6 Mt CO2e, ~54% below the London/Rio average",
+   "London 2012 was estimated at 3.3 Mt and Rio 2016 at 3.6 Mt",
+   "CBC reported the Games cut carbon by over half compared with 2012 and 2016"
+  ],
+  "sources": [
+   "CBC News",
+   "French Ministry of Ecological Transition",
+   "RNZ"
+  ]
+ }
+]

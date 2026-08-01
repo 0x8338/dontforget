@@ -1,0 +1,19 @@
+[
+ {
+  "person": "Lionel Messi",
+  "role": "Argentina captain",
+  "promise": "Se acabó la selección para mí — it's over for me with the national team.",
+  "date_promised": "2016-06-26",
+  "due_date": "2016-08-31",
+  "status": "broken",
+  "description": "After losing the Copa América Centenario final, Messi announced his international retirement. He reversed course and returned to the national team within weeks (August 2016), later captaining Argentina to the 2021 Copa América and 2022 World Cup titles.",
+  "evidence": [
+   "Messi's post-match retirement statement, 2016-06-26",
+   "He rejoined Argentina in August 2016 and won Copa América 2021 and World Cup 2022"
+  ],
+  "sources": [
+   "ESPN / BBC coverage, 2016-06-26",
+   "Reuters, 2016-08"
+  ]
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US presidential candidate",
+  "promise": "\"I will build a great, great wall on our southern border, and I will make Mexico pay for that wall.\"",
+  "date_promised": "2015-06-16",
+  "due_date": "2021-01-20",
+  "status": "broken",
+  "description": "Signature pledge from his June 16, 2015 campaign announcement, with Mexico to pay. Mexico refused to pay; the US funded the project, mostly by diverting about $15 billion in Pentagon and other funds. By January 2021 only about 458 miles of barriers existed, largely replacements/upgrades of existing fencing, not a full new wall.",
+  "evidence": [
+   "Mexico never contributed; CBP confirmed US-funded construction",
+   "~458 miles of border wall built by end of term, much of it replacement fencing",
+   "Pentagon funds diverted (~$15B) despite congressional objections"
+  ],
+  "sources": [
+   "AP",
+   "Washington Post",
+   "NBC News"
+  ]
+ }
+]

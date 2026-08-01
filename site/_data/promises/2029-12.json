@@ -1,0 +1,53 @@
+[
+ {
+  "person": "Keir Starmer",
+  "role": "UK Prime Minister",
+  "promise": "We will deliver the NHS 18-week waiting-time guarantee by 2029",
+  "date_promised": "2025-07-13",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Announced on the NHS's 77th anniversary that the government would restore the constitutional right to be treated within 18 weeks by 2029. NHS waiting lists remained above 7 million through 2025, so the guarantee is a long way off but formally remains the government's target.",
+  "evidence": [
+   "Announcement made July 13, 2025 alongside the NHS Constitution",
+   "Backlog remained ~7.5 million patients as of 2025"
+  ],
+  "sources": [
+   "BBC News (July 13, 2025)",
+   "NHS England data"
+  ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President (from 20 Oct 2024)",
+  "promise": "8% annual economic growth by the end of his term (2029)",
+  "date_promised": "2023-01-01",
+  "due_date": "2029-12-31",
+  "status": "broken",
+  "description": "Growth was 5.0% (2024) and ~5.1% (2025), with IMF forecasts of ~4.9–5.1% through 2029 — far below the 8% target.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Economy_of_Indonesia"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Deliver 1.5 million new homes over the parliament via radical planning reform",
+  "date_promised": "2023-01-01",
+  "due_date": "2029-12-31",
+  "status": "partial",
+  "description": "The planning reform was delivered — Planning and Infrastructure Act received royal assent 18 Dec 2025 — but housing delivery has not come close to the required pace, and the 1.5m target is widely regarded as at risk.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Planning_and_Infrastructure_Bill",
+   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
+  ]
+ }
+]

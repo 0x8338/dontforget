@@ -308,6 +308,31 @@ hr.rule {
   word-break: break-word;
 }
 
+/* ---- Load More ---- */
+#load-more-wrap {
+  text-align: center;
+  margin-top: 2.2rem;
+}
+
+.load-more {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--stone);
+  background: transparent;
+  border: 1px solid var(--stone-light);
+  border-radius: 3px;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.load-more:hover {
+  color: var(--ink);
+  border-color: var(--ink);
+}
+
 /* ---- Status Badges ---- */
 .badge {
   display: inline-block;

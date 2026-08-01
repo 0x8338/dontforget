@@ -1,0 +1,22 @@
+[
+ {
+  "person": "World Health Organization (Pandemic Agreement negotiations)",
+  "role": "WHO member states negotiating the pandemic accord",
+  "promise": "Conclude a global pandemic prevention, preparedness and response accord by May 2024",
+  "date_promised": "2021-12-01",
+  "due_date": "2024-05-24",
+  "status": "broken",
+  "description": "At a special World Health Assembly session in December 2021, WHO's 194 member states agreed to negotiate an international pandemic accord with the aim of concluding it before the May 2024 World Health Assembly. Negotiators missed the 24 May 2024 deadline after failing to reach consensus, and the Assembly extended the talks. The agreement was eventually adopted on 20 May 2025, but a key annex on pathogen access and benefit sharing remained unagreed as of 2026.",
+  "evidence": [
+   "Deadline of 24 May 2024 missed; talks continued into the World Health Assembly",
+   "Pandemic Agreement adopted 20 May 2025, one year after the original deadline",
+   "PABS annex still not concluded as of mid-2026, delaying signature and ratification"
+  ],
+  "sources": [
+   "Reuters",
+   "The Guardian",
+   "NPR",
+   "The Lancet"
+  ]
+ }
+]

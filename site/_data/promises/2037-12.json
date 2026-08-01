@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Friedrich Merz",
+  "role": "Chancellor-designate of Germany (CDU/CSU)",
+  "promise": "Create a €500 billion debt-financed infrastructure fund over the next ten to twelve years, with €100 billion earmarked for the climate transition",
+  "date_promised": "2025-03-04",
+  "due_date": "2037-12-31",
+  "status": "kept",
+  "description": "In March 2025, the CDU/CSU, SPD and Greens agreed on a historic fiscal package that created a €500 billion infrastructure fund and loosened the debt brake for defence spending. Parliament approved the package in the same month; €100 billion was channelled into the Climate Transition Fund.",
+  "evidence": [
+   "German parliament approved the €500bn infrastructure fund and debt-brake changes in March 2025",
+   "€100bn allocated to the Climate Transition Fund"
+  ],
+  "sources": [
+   "RTE News",
+   "Anadolu Agency",
+   "ING Economics"
+  ]
+ }
+]

@@ -1,0 +1,439 @@
+{
+  "total": 308,
+  "due_total": 245,
+  "due_status": {
+    "broken": 110,
+    "partial": 49,
+    "kept": 85,
+    "kept (delayed)": 1
+  },
+  "months": [
+    {
+      "key": "2060-12",
+      "file": "promises/2060-12.json",
+      "count": 1,
+      "due": false
+    },
+    {
+      "key": "2050-12",
+      "file": "promises/2050-12.json",
+      "count": 1,
+      "due": false
+    },
+    {
+      "key": "2037-12",
+      "file": "promises/2037-12.json",
+      "count": 1,
+      "due": false
+    },
+    {
+      "key": "2035-12",
+      "file": "promises/2035-12.json",
+      "count": 2,
+      "due": false
+    },
+    {
+      "key": "2030-12",
+      "file": "promises/2030-12.json",
+      "count": 13,
+      "due": false
+    },
+    {
+      "key": "2029-12",
+      "file": "promises/2029-12.json",
+      "count": 3,
+      "due": false
+    },
+    {
+      "key": "2029-02",
+      "file": "promises/2029-02.json",
+      "count": 1,
+      "due": false
+    },
+    {
+      "key": "2028-12",
+      "file": "promises/2028-12.json",
+      "count": 1,
+      "due": false
+    },
+    {
+      "key": "2027-12",
+      "file": "promises/2027-12.json",
+      "count": 8,
+      "due": false
+    },
+    {
+      "key": "2026-12",
+      "file": "promises/2026-12.json",
+      "count": 9,
+      "due": false
+    },
+    {
+      "key": "2026-07",
+      "file": "promises/2026-07.json",
+      "count": 5,
+      "due": true
+    },
+    {
+      "key": "2026-06",
+      "file": "promises/2026-06.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2026-03",
+      "file": "promises/2026-03.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2026-01",
+      "file": "promises/2026-01.json",
+      "count": 4,
+      "due": true
+    },
+    {
+      "key": "2025-12",
+      "file": "promises/2025-12.json",
+      "count": 41,
+      "due": true
+    },
+    {
+      "key": "2025-08",
+      "file": "promises/2025-08.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2025-07",
+      "file": "promises/2025-07.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2025-06",
+      "file": "promises/2025-06.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2025-03",
+      "file": "promises/2025-03.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2025-02",
+      "file": "promises/2025-02.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2025-01",
+      "file": "promises/2025-01.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2024-12",
+      "file": "promises/2024-12.json",
+      "count": 31,
+      "due": true
+    },
+    {
+      "key": "2024-11",
+      "file": "promises/2024-11.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2024-09",
+      "file": "promises/2024-09.json",
+      "count": 4,
+      "due": true
+    },
+    {
+      "key": "2024-08",
+      "file": "promises/2024-08.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2024-05",
+      "file": "promises/2024-05.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2024-04",
+      "file": "promises/2024-04.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2024-03",
+      "file": "promises/2024-03.json",
+      "count": 4,
+      "due": true
+    },
+    {
+      "key": "2024-02",
+      "file": "promises/2024-02.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2024-01",
+      "file": "promises/2024-01.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2023-12",
+      "file": "promises/2023-12.json",
+      "count": 18,
+      "due": true
+    },
+    {
+      "key": "2023-11",
+      "file": "promises/2023-11.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2023-10",
+      "file": "promises/2023-10.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2023-08",
+      "file": "promises/2023-08.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2023-07",
+      "file": "promises/2023-07.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2023-06",
+      "file": "promises/2023-06.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2023-03",
+      "file": "promises/2023-03.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2022-12",
+      "file": "promises/2022-12.json",
+      "count": 14,
+      "due": true
+    },
+    {
+      "key": "2022-11",
+      "file": "promises/2022-11.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2022-10",
+      "file": "promises/2022-10.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2022-09",
+      "file": "promises/2022-09.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2022-06",
+      "file": "promises/2022-06.json",
+      "count": 4,
+      "due": true
+    },
+    {
+      "key": "2022-05",
+      "file": "promises/2022-05.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2021-20",
+      "file": "promises/2021-20.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2021-12",
+      "file": "promises/2021-12.json",
+      "count": 9,
+      "due": true
+    },
+    {
+      "key": "2021-09",
+      "file": "promises/2021-09.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2021-07",
+      "file": "promises/2021-07.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2021-04",
+      "file": "promises/2021-04.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2021-01",
+      "file": "promises/2021-01.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2020-12",
+      "file": "promises/2020-12.json",
+      "count": 21,
+      "due": true
+    },
+    {
+      "key": "2020-06",
+      "file": "promises/2020-06.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2020-04",
+      "file": "promises/2020-04.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2019-12",
+      "file": "promises/2019-12.json",
+      "count": 4,
+      "due": true
+    },
+    {
+      "key": "2019-10",
+      "file": "promises/2019-10.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2019-07",
+      "file": "promises/2019-07.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2019-01",
+      "file": "promises/2019-01.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2018-12",
+      "file": "promises/2018-12.json",
+      "count": 6,
+      "due": true
+    },
+    {
+      "key": "2018-10",
+      "file": "promises/2018-10.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2018-08",
+      "file": "promises/2018-08.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2018-06",
+      "file": "promises/2018-06.json",
+      "count": 2,
+      "due": true
+    },
+    {
+      "key": "2018-05",
+      "file": "promises/2018-05.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2017-12",
+      "file": "promises/2017-12.json",
+      "count": 5,
+      "due": true
+    },
+    {
+      "key": "2016-12",
+      "file": "promises/2016-12.json",
+      "count": 5,
+      "due": true
+    },
+    {
+      "key": "2016-08",
+      "file": "promises/2016-08.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2015-12",
+      "file": "promises/2015-12.json",
+      "count": 3,
+      "due": true
+    },
+    {
+      "key": "2015-05",
+      "file": "promises/2015-05.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2013-09",
+      "file": "promises/2013-09.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2012-12",
+      "file": "promises/2012-12.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2010-09",
+      "file": "promises/2010-09.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2010-01",
+      "file": "promises/2010-01.json",
+      "count": 1,
+      "due": true
+    },
+    {
+      "key": "2009-12",
+      "file": "promises/2009-12.json",
+      "count": 2,
+      "due": true
+    }
+  ],
+  "unfiled": 25
+}

@@ -43,6 +43,10 @@
     </div>
   </div>
 
+  <div id="load-more-wrap" hidden>
+    <button id="load-more" class="load-more" type="button">Load earlier years</button>
+  </div>
+
 </main>
 
 <footer>
@@ -78,59 +82,81 @@
     'terrorism': 'terrorism', 'food-crisis': 'food crisis', 'industrial': 'industrial'
   };
 
-  fetch('_data/events.json')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      var events = data[today] || [];
-      var container = document.getElementById('events-container');
-      var total = events.reduce(function(s, e) { return s + (e.lives_lost || 0); }, 0);
+  var container = document.getElementById('events-container');
+  var loadMoreWrap = document.getElementById('load-more-wrap');
+  var loadMoreBtn = document.getElementById('load-more');
+  var windowsList = [];
+  var loadedEvents = [];
+  var nextWindow = 0;
+  var currentFilter = 'all';
 
-      document.getElementById('lives-total').textContent = total > 0 ? '~' + total.toLocaleString() : '—';
+  function renderEvents(filter) {
+    var html = '';
+    var filtered = filter === 'all' ? loadedEvents : loadedEvents.filter(function(e) { return e.category === filter; });
+    var livesTotal = filtered.reduce(function(s, e) { return s + (e.lives_lost || 0); }, 0);
+    document.getElementById('lives-total').textContent = livesTotal > 0 ? '~' + livesTotal.toLocaleString() : '—';
 
-      if (events.length === 0) {
-        container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;letter-spacing:0.02em;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;line-height:1.6;max-width:28rem;margin:0 auto;">Nothing recorded for this date. The archive is incomplete — absence here is not absence in the world.</div></div>';
-        return;
-      }
+    if (filtered.length === 0) {
+      var note = nextWindow >= windowsList.length
+        ? 'Nothing recorded for this date. The archive is incomplete — absence here is not absence in the world.'
+        : 'No events for the years loaded so far. Load earlier years to keep looking.';
+      container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;letter-spacing:0.02em;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;line-height:1.6;max-width:28rem;margin:0 auto;">' + note + '</div></div>';
+      return;
+    }
+    filtered.slice().sort(function(a, b) { return b.date.localeCompare(a.date); }).forEach(function(e) {
+      var cls = catClass[e.category] || 'war';
+      html += '<article class="card card-' + cls + '">' +
+        '<div class="year">' + e.date.slice(0, 4) + '</div>' +
+        '<h3>' + e.title + '</h3>' +
+        '<div class="meta-line">' + e.location + ' · <span class="badge badge-' + cls + '">' + (catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
+        '<p>' + e.description + '</p>' +
+        '<div class="sources">Sources: ' + e.sources.join(' · ') + '</div>' +
+        '</article>';
+    });
+    container.innerHTML = html;
+  }
 
-      var currentFilter = 'all';
-
-      function renderEvents(filter) {
-        var html = '';
-        var filtered = filter === 'all' ? events : events.filter(function(e) { return e.category === filter; });
-        var livesTotal = filtered.reduce(function(s, e) { return s + (e.lives_lost || 0); }, 0);
-        document.getElementById('lives-total').textContent = livesTotal > 0 ? '~' + livesTotal.toLocaleString() : '—';
-
-        if (filtered.length === 0) {
-          container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No events in this category for this date.</div></div>';
-          return;
-        }
-        filtered.sort(function(a, b) { return b.date.localeCompare(a.date); });
-        filtered.forEach(function(e) {
-          var cls = catClass[e.category] || 'war';
-          html += '<article class="card card-' + cls + '">' +
-            '<div class="year">' + e.date.slice(0, 4) + '</div>' +
-            '<h3>' + e.title + '</h3>' +
-            '<div class="meta-line">' + e.location + ' · <span class="badge badge-' + cls + '">' + (catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
-            '<p>' + e.description + '</p>' +
-            '<div class="sources">Sources: ' + e.sources.join(' · ') + '</div>' +
-            '</article>';
-        });
-        container.innerHTML = html;
-      }
-
-      renderEvents('all');
-
-      document.querySelectorAll('#event-filters .filter-chip').forEach(function(chip) {
-        chip.addEventListener('click', function() {
-          document.querySelectorAll('#event-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
-          this.classList.add('active');
-          renderEvents(this.dataset.filter);
-        });
+  function loadWindow() {
+    if (nextWindow >= windowsList.length) {
+      loadMoreWrap.hidden = true;
+      renderEvents(currentFilter);
+      return;
+    }
+    loadMoreBtn.textContent = 'Loading…';
+    fetch('_data/events/' + windowsList[nextWindow].file)
+      .then(function(r) { return r.json(); })
+      .then(function(windowEvents) {
+        loadedEvents = loadedEvents.concat(windowEvents.filter(function(e) { return e.date.slice(5) === today; }));
+        nextWindow += 1;
+        loadMoreBtn.textContent = 'Load earlier years';
+        loadMoreWrap.hidden = nextWindow >= windowsList.length;
+        renderEvents(currentFilter);
+      })
+      .catch(function() {
+        loadMoreBtn.textContent = 'Load earlier years';
+        container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
       });
+  }
+
+  fetch('_data/events/index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(index) {
+      windowsList = index.windows || [];
+      loadMoreBtn.addEventListener('click', loadWindow);
+      loadWindow();
     })
     .catch(function() {
-      document.getElementById('events-container').innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
+      container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
     });
+
+  document.querySelectorAll('#event-filters .filter-chip').forEach(function(chip) {
+    chip.addEventListener('click', function() {
+      document.querySelectorAll('#event-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
+      this.classList.add('active');
+      currentFilter = this.dataset.filter;
+      renderEvents(currentFilter);
+    });
+  });
 })();
 </script>
 </body>

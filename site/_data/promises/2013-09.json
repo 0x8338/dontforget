@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Elizabeth Holmes",
+  "role": "CEO, Theranos",
+  "promise": "Theranos would run up to 200 blood tests from a single finger-prick, with results in under four hours, ready to launch with Walgreens by September 2013",
+  "date_promised": "2013-01-01",
+  "due_date": "2013-09-30",
+  "status": "broken",
+  "description": "Theranos marketed a device claimed to run over 200 diagnostic tests on a few drops of blood and launched testing in Walgreens stores in September 2013. Investigations showed most tests were run on modified commercial analyzers and that the proprietary technology did not work as claimed. Holmes was convicted of investor fraud in 2022 after a jury found she knowingly made false statements about the technology.",
+  "evidence": [
+   "2015 Wall Street Journal investigation found tests were run largely on modified third-party machines",
+   "Holmes convicted on four counts of investor fraud, January 2022"
+  ],
+  "sources": [
+   "BMJ",
+   "Gizmodo",
+   "US Court of Appeals for the Ninth Circuit case filings"
+  ],
+  "source_urls": [
+   "https://www.bmj.com/content/376/bmj.o178)",
+   "https://gizmodo.com/the-makers-of-that-miracle-needle-free-blood-test-are-1738057269)",
+   null
+  ]
+ }
+]

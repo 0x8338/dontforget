@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Steve Jobs",
+  "role": "CEO, Apple",
+  "promise": "Every iPhone 4 user would get a free case (or refund) until at least 30 September 2010",
+  "date_promised": "2010-07-16",
+  "due_date": "2010-09-30",
+  "status": "kept",
+  "description": "At a 16 July 2010 press conference addressing iPhone 4 antenna reception problems, Jobs announced that Apple would give every iPhone 4 buyer a free case or bumper through 30 September 2010 and offered full refunds within 30 days to customers who remained unhappy. Apple delivered the free cases as announced and honored the refund window.",
+  "evidence": [
+   "Free bumper program ran through 30 September 2010 as announced",
+   "Apple also offered full refunds within 30 days"
+  ],
+  "sources": [
+   "BBC News",
+   "UPI (2010-07-16)",
+   "PCMag"
+  ],
+  "source_urls": [
+   "https://www.bbc.co.uk/news/technology-10665424)",
+   null,
+   "https://uk.pcmag.com/news/98220/apple-promises-free-bumpers-cases-for-iphone-4-buyers)"
+  ]
+ }
+]

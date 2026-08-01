@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Data center spend will double to $2 trillion — the world's installed data center base (~$1T) rebuilt as accelerated computing / 'AI factories' within 4-5 years",
+  "date_promised": "2024-02-14",
+  "due_date": "2029-02-14",
+  "status": "pending",
+  "description": "Huang repeatedly predicted the ~$1 trillion global data center installed base would convert to accelerated AI computing (his 'AI factory' thesis) and double to ~$2 trillion over four to five years. Spending has indeed surged (hyperscaler capex ~$600B/yr by late 2025), but the full conversion/doubling is a multi-year prediction that is still unfolding.",
+  "evidence": [
+   "Data Center Dynamics (Feb 14, 2024): 'Nvidia CEO predicts data center spend will double to $2 trillion'",
+   "Huang framed data centers as 'AI factories' in GTC 2024 keynote and 2025 earnings calls",
+   "CNBC (May 21, 2026): AI spending already topping $1T/yr, per Huang's framing"
+  ],
+  "sources": [
+   "Data Center Dynamics (Feb 14, 2024)",
+   "NVIDIA Q4 FY24 earnings call (Feb 2024)",
+   "CNBC (May 21, 2026)"
+  ]
+ }
+]

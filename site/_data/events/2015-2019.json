@@ -1,0 +1,1342 @@
+[
+ {
+  "date": "2019-02-14",
+  "title": "Pulwama attack",
+  "category": "terrorism",
+  "location": "Pulwama, Jammu and Kashmir, India",
+  "lives_lost": 40,
+  "description": "A suicide bomber rammed an explosives-laden vehicle into a convoy of the Central Reserve Police Force on the Srinagar-Jammu highway near Pulwama on 14 February 2019. Forty CRPF personnel were killed and dozens wounded in the deadliest attack on Indian security forces in Kashmir in decades. The Pakistan-based militant group Jaish-e-Mohammed claimed responsibility, and the attack triggered a major military escalation between India and Pakistan that included an Indian airstrike at Balakot and an aerial engagement between the two air forces.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2018-02-14",
+  "title": "Parkland School Shooting",
+  "category": "gun-violence",
+  "location": "Parkland, Florida, United States",
+  "lives_lost": 17,
+  "description": "A gunman opened fire at Marjory Stoneman Douglas High School, killing 17 people and injuring 17 others. The shooting sparked a nationwide student-led movement for gun control.",
+  "sources": [
+   "The New York Times",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2019-03-15",
+  "title": "Christchurch Mosque Shootings",
+  "category": "terrorism",
+  "location": "Christchurch, New Zealand",
+  "lives_lost": 51,
+  "description": "A gunman attacked two mosques during Friday prayers, killing 51 people and injuring 40. The attack was live-streamed. New Zealand subsequently banned most semi-automatic weapons.",
+  "sources": [
+   "The Guardian",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2015-05-12",
+  "title": "Nepal earthquake aftershock",
+  "category": "natural-disaster",
+  "location": "Nepal",
+  "lives_lost": 218,
+  "description": "A magnitude 7.3 aftershock struck Nepal east of Kathmandu less than three weeks after the Gorkha earthquake, killing at least 218 people, most of them in the Sindhupalchok and Dolakha districts, and injuring more than 3,500. The quake triggered fresh avalanches and building collapses in a country where millions were still living in temporary shelter.",
+  "sources": [
+   "USGS",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2016-06-12",
+  "title": "Orlando Pulse nightclub shooting",
+  "category": "gun-violence",
+  "location": "Orlando, Florida, USA",
+  "lives_lost": 49,
+  "description": "A gunman armed with a semiautomatic rifle and pistol opened fire at the Pulse nightclub in Orlando, Florida, during its weekly Latin night, killing 49 people and wounding 53 others before police killed him after a three-hour hostage standoff. The attack was the deadliest mass shooting by a single gunman in U.S. history at the time. The shooter, Omar Mateen, pledged allegiance to Islamic State during the attack.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2016-07-07",
+  "title": "Dallas police ambush",
+  "category": "gun-violence",
+  "location": "Dallas, Texas, USA",
+  "lives_lost": 5,
+  "description": "During a protest in downtown Dallas over the police shootings of Alton Sterling in Louisiana and Philando Castile in Minnesota, a lone gunman opened fire on responding officers, killing five officers and wounding nine others plus two civilians. The attacker, Micah Johnson, was killed by an explosive delivered by a police robot after a lengthy standoff, in the deadliest single attack on U.S. law enforcement since September 11, 2001.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2016-07-22",
+  "title": "Munich Olympia shopping mall shooting",
+  "category": "gun-violence",
+  "location": "Munich, Germany",
+  "lives_lost": 9,
+  "description": "An 18-year-old gunman opened fire at the Olympia-Einkaufszentrum shopping mall and a nearby McDonald's in Munich, killing nine people and wounding 35 before killing himself with a gunshot to the head. The attacker, David Sonboly, had right-wing extremist sympathies and had been treated for mental illness; it was Germany's deadliest shooting in decades. Police initially treated the incident as a possible terror attack but concluded it was not Islamist-related.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Der Spiegel"
+  ]
+ },
+ {
+  "date": "2018-08-09",
+  "title": "Saada school bus airstrike",
+  "category": "war",
+  "location": "Saada, Yemen",
+  "lives_lost": 51,
+  "description": "A Saudi-led coalition airstrike hit a school bus at a crowded market in Dahyan, Saada province, northern Yemen, while the bus was carrying children on a field trip during the Yemeni civil war. At least 51 people were killed and 79 wounded, with children accounting for roughly 40 of the dead, as reported by the International Committee of the Red Cross and UNICEF. The attack drew international condemnation and contributed to calls for an end to the conflict.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "UNICEF",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2015-09-11",
+  "title": "Mecca crane collapse",
+  "category": "industrial",
+  "location": "Mecca, Saudi Arabia",
+  "lives_lost": 111,
+  "description": "A construction crane toppled into the courtyard of the Grand Mosque (Masjid al-Haram) in Mecca during Friday prayers, amid a severe windstorm with gusts of up to 100 km/h, killing 111 people and injuring 394. The crane belonged to the company expanding the mosque; the official investigation attributed the collapse to the strong winds and the crane's positioning, and the manufacturer said it had not been secured for the conditions.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2017-10-01",
+  "title": "Las Vegas Route 91 Harvest festival shooting",
+  "category": "gun-violence",
+  "location": "Las Vegas, United States",
+  "lives_lost": 60,
+  "description": "On the night of 1 October 2017, a gunman opened fire with multiple rifles fitted with bump stocks from a hotel room on the 32nd floor of the Mandalay Bay resort into a crowd of about 22,000 attending the Route 91 Harvest country music festival on the Las Vegas Strip. The attack killed 60 people, including two victims who died of their injuries in 2019 and 2020, and wounded more than 850 others before the shooter killed himself; it remains the deadliest mass shooting in modern US history. No clear motive was established.",
+  "sources": [
+   "Las Vegas Metropolitan Police Department",
+   "Associated Press",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2015-11-13",
+  "title": "Paris Attacks",
+  "category": "terrorism",
+  "location": "Paris, France",
+  "lives_lost": 130,
+  "description": "Coordinated attacks across Paris — suicide bombings at the Stade de France, mass shootings at restaurants, and a hostage siege at the Bataclan theatre. 130 people were killed and over 400 injured.",
+  "sources": [
+   "Le Monde",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-03-20",
+  "title": "Peru floods and mudslides",
+  "category": "natural-disaster",
+  "location": "Lima and northern coastal Peru",
+  "lives_lost": 162,
+  "description": "Torrential rains linked to a coastal El Niño event from January through April 2017 caused catastrophic flooding and mudslides across Peru's coastal regions, overwhelming rivers in Lima and the northern departments of Piura, Lambayeque and La Libertad. The Peruvian government reported 162 deaths, with more than 270,000 people left homeless and about one million affected; the EM-DAT international disaster database records a toll of 177. Landslides buried villages and the flooding destroyed bridges, highways and thousands of homes, isolating communities for weeks.",
+  "sources": [
+   "Peruvian government / INDECI",
+   "Reuters",
+   "BBC News",
+   "EM-DAT"
+  ]
+ },
+ {
+  "date": "2018-09-15",
+  "title": "Typhoon Mangkhut",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 134,
+  "description": "Typhoon Mangkhut, the strongest storm of the year, made landfall in northern Luzon, Philippines, on September 15, 2018, with sustained winds of 205 km/h. The typhoon triggered landslides in mining and farming areas, destroyed over 400,000 homes, and killed at least 134 people in the Philippines, with additional deaths reported in Hong Kong and southern China. Storm surges and flooding affected millions across the region.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Philippine Daily Inquirer",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2018-09-28",
+  "title": "Sulawesi earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Palu, Indonesia",
+  "lives_lost": 4340,
+  "description": "A magnitude 7.5 earthquake struck the Indonesian island of Sulawesi, triggering a tsunami up to six meters high that hit Palu Bay, along with widespread soil liquefaction that swallowed entire neighborhoods. The disaster destroyed tens of thousands of buildings in Palu, Donggala, and Sigi and displaced over 200,000 people. Indonesia's disaster agency (BNPB) confirmed 4,340 deaths, more than 10,000 injured, and hundreds missing.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "The Jakarta Post"
+  ]
+ },
+ {
+  "date": "2019-10-12",
+  "title": "Typhoon Hagibis",
+  "category": "natural-disaster",
+  "location": "Honshu, Japan",
+  "lives_lost": 100,
+  "description": "Typhoon Hagibis, one of the most powerful typhoons to strike Japan in decades, made landfall on the Izu Peninsula near Tokyo on 12 October 2019, bringing record rainfall that caused more than 70 rivers to overflow and widespread landslides. Around 100 people were killed, more than 350 were injured and thousands of homes were flooded, with several prefectures including Nagano, Fukushima and Miyagi among the worst affected. The storm disrupted transport, power and the 2019 Rugby World Cup, and the government described the scale of damage as unprecedented.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "NHK World-Japan"
+  ]
+ },
+ {
+  "date": "2019-09-01",
+  "title": "Hurricane Dorian",
+  "category": "natural-disaster",
+  "location": "Abaco Islands and Grand Bahama, Bahamas",
+  "lives_lost": 84,
+  "description": "Hurricane Dorian, a Category 5 storm with sustained winds of 185 mph, devastated the northern Bahamas when it made landfall on 1 September 2019, stalling over the Abaco Islands and Grand Bahama for more than a day. The storm killed 84 people across all affected areas, including 74 in the Bahamas, where hundreds of people were initially reported missing and whole settlements were flattened by the storm surge. It was the strongest hurricane on record to hit the Bahamas and caused tens of thousands of people to be displaced or left homeless.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "NOAA"
+  ]
+ },
+ {
+  "date": "2017-10-23",
+  "title": "Siege of Marawi ends",
+  "category": "war",
+  "location": "Marawi, Philippines",
+  "lives_lost": 1233,
+  "description": "The five-month armed confrontation between Philippine security forces and the Maute and Abu Sayyaf groups loyal to the Islamic State over the city of Marawi, which began on 23 May 2017, ended on 23 October 2017 when the military announced full recapture of the city. The urban battle killed an estimated 1,233 people, including 978 militants, 168 government forces and 87 civilians, and left most of Marawi, the Philippines' only predominantly Muslim city, in ruins; hundreds of thousands of residents were displaced and reconstruction cost billions. It was the longest urban battle fought by the Philippine military since World War II.",
+  "sources": [
+   "Armed Forces of the Philippines",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2016-08-24",
+  "title": "Central Italy earthquake (Amatrice)",
+  "category": "natural-disaster",
+  "location": "Amatrice, Italy",
+  "lives_lost": 299,
+  "description": "A magnitude 6.2 earthquake struck central Italy at 3:36 a.m., leveling the hill towns of Amatrice, Accumoli, and Arquata del Tronto in the Apennines. Two hundred ninety-nine people were killed, including 234 in Amatrice, and about 388 were injured; most deaths occurred when old stone and unreinforced masonry buildings collapsed on sleeping residents. The quake also caused major damage in Norcia and triggered thousands of aftershocks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2015-08-12",
+  "title": "Tianjin warehouse explosions",
+  "category": "industrial",
+  "location": "Tianjin, China",
+  "lives_lost": 173,
+  "description": "A series of explosions at a hazardous-chemicals warehouse in the Binhai New Area of Tianjin, involving roughly 800 tonnes of ammonium nitrate and stored nitrocellulose, destroyed nearby buildings and killed 173 people, including 104 firefighters, injuring about 800. An official investigation attributed the first blast to the overheating and auto-ignition of dry nitrocellulose and noted that the depot was sited close to residential areas.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2018-04-22",
+  "title": "Kabul voter registration center bombing",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 57,
+  "description": "A suicide bomber attacked a voter registration center in the Dasht-e-Barchi district of western Kabul, a predominantly Shia Hazara area, during Afghanistan's parliamentary election registration process. The blast killed at least 57 people and wounded more than 100, mostly civilians queued to obtain voter cards. The Islamic State Khorasan Province claimed responsibility for the attack, one of a series targeting the 2018 election process.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera",
+   "AP News"
+  ]
+ },
+ {
+  "date": "2019-04-04",
+  "title": "Battle for Tripoli (Western Libya offensive)",
+  "category": "war",
+  "location": "Tripoli, Libya",
+  "lives_lost": 1000,
+  "description": "On 4 April 2019, forces of the Libyan National Army under Khalifa Haftar launched an offensive to capture Tripoli from the UN-backed Government of National Accord, setting off nearly 14 months of fighting in the capital's southern suburbs. By the end of 2019 the United Nations reported that more than 1,000 people had been killed and about 146,000 displaced, with civilian infrastructure including hospitals and residential areas hit by airstrikes and shelling. The campaign continued into 2020, when a ceasefire and UN-brokered political talks brought a halt to the offensive.",
+  "sources": [
+   "UN News",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-04-04",
+  "title": "Khan Sheikhoun chemical attack",
+  "category": "war",
+  "location": "Khan Sheikhoun, Syria",
+  "lives_lost": 89,
+  "description": "On 4 April 2017 an airstrike released sarin gas on the rebel-held town of Khan Sheikhoun in Idlib province. At least 89 people were killed and more than 500 injured, including many women and children, with victims showing classic nerve-agent symptoms; medical workers filmed victims convulsing and foaming at the mouth. The OPCW-UN Joint Investigative Mechanism concluded the Syrian air force dropped the sarin, a finding echoed by the UN Commission of Inquiry, the United States, France and the UK. The attack prompted a US Tomahawk missile strike on Syria's Shayrat air base days later.",
+  "sources": [
+   "OPCW-UN Joint Investigative Mechanism",
+   "UN Commission of Inquiry",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2017-02-20",
+  "title": "South Sudan famine declared",
+  "category": "food-crisis",
+  "location": "Unity State, South Sudan",
+  "lives_lost": 20000,
+  "description": "On 20 February 2017 the United Nations formally declared famine in parts of South Sudan's Unity State (Leer and Mayendit counties), the first famine declared anywhere since 2011. The UN estimated that 100,000 people were in famine conditions, with roughly 4.9 million people needing emergency food assistance and a further one million on the brink of famine. Armed conflict and a collapsed economy prevented aid access; famine-related excess deaths in 2017 were estimated in the tens of thousands (best estimate ~20,000), with UNICEF reporting severe acute malnutrition rates far above emergency thresholds. The famine officially subsided in mid-2017 but hunger conditions persisted across the country.",
+  "sources": [
+   "UN OCHA",
+   "UNICEF",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2019-07-01",
+  "title": "Majiya fuel tanker explosion",
+  "category": "industrial",
+  "location": "Majiya, Jigawa State, Nigeria",
+  "lives_lost": 48,
+  "description": "In early July 2019, a fuel tanker that had overturned near the village of Majiya in Jigawa State exploded, killing at least 48 people, many of whom had gathered to collect leaking fuel, and leaving dozens more hospitalised with severe burns. Local officials said most of the dead were burnt beyond recognition and the explosion also destroyed nearby properties. The incident highlighted the recurring danger of fuel collection at tanker crash sites across Nigeria, where fuel shortages have driven people to scoop up spilled petrol.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2019-07-01",
+  "title": "India monsoon floods",
+  "category": "natural-disaster",
+  "location": "India (Bihar, Maharashtra, Kerala, Karnataka)",
+  "lives_lost": 1600,
+  "description": "The 2019 southwest monsoon caused severe and prolonged flooding across much of India between June and October, with more than 1,600 people killed in rain-related incidents according to reports citing official data. Bihar was among the hardest-hit states, along with Maharashtra, Kerala, Karnataka and Assam, and heavy flooding in the south coincided with torrential rain in Maharashtra's coastal districts. More than a million people were displaced, crops were destroyed and the floods followed unusually heavy August rainfall that came within weeks of drought in parts of the country.",
+  "sources": [
+   "UN OCHA",
+   "The Hindu",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2018-07-01",
+  "title": "Yemen famine and cholera crisis",
+  "category": "food-crisis",
+  "location": "Yemen",
+  "lives_lost": 2315,
+  "description": "The war-ravaged country faced the world's worst humanitarian crisis in 2018: UN agencies reported 8.4 million people one step away from famine and over 22 million in need of assistance, while a massive cholera outbreak killed at least 2,315 people out of more than 1.1 million suspected cases recorded since the epidemic began in 2017. Port restrictions, collapsed health infrastructure, and food insecurity compounded the crisis, with the UN warning that parts of the country could slip into famine.",
+  "sources": [
+   "UN OCHA",
+   "World Health Organization",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-08-25",
+  "title": "Rohingya clearance operations, Myanmar",
+  "category": "war",
+  "location": "Rakhine State, Myanmar",
+  "lives_lost": 6700,
+  "description": "Following attacks on security posts on 25 August 2017, Myanmar's military launched 'clearance operations' in Rakhine State that combined mass killings, arson of villages, rape and mass displacement of the Rohingya Muslim population. Médecins Sans Frontières estimated at least 6,700 Rohingya, including 730 children, were killed in the first month alone, most by gunshots or burned in their homes, with later research suggesting 24,000 or more killed over the longer campaign. Over 700,000 Rohingya fled to Bangladesh, and UN investigators later concluded the military's acts constituted genocide and crimes against humanity.",
+  "sources": [
+   "Médecins Sans Frontières",
+   "UN Independent Fact-Finding Mission",
+   "Reuters",
+   "Amnesty International"
+  ]
+ },
+ {
+  "date": "2015-04-25",
+  "title": "Nepal earthquake (Gorkha)",
+  "category": "natural-disaster",
+  "location": "Kathmandu, Nepal",
+  "lives_lost": 8964,
+  "description": "A magnitude 7.8 earthquake struck the Gorkha district of central Nepal, about 80 km northwest of Kathmandu, triggering avalanches on Mount Everest and landslides across the Himalayas. The Nepal government confirmed 8,857 deaths in Nepal, with at least 107 more in India, China and Bangladesh, for a combined toll of roughly 8,960; more than 21,000 people were injured and over 600,000 buildings were destroyed or damaged. It was Nepal's deadliest earthquake in over 80 years.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "UN Office for the Coordination of Humanitarian Affairs (OCHA)"
+  ]
+ },
+ {
+  "date": "2016-07-23",
+  "title": "Kabul twin bombing of Hazara demonstration",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 97,
+  "description": "Two suicide bombers detonated at a demonstration of the Hazara community's Enlightenment Movement at Dehmazang Square in Kabul, where thousands had gathered to protest the rerouting of the TUTAP power transmission line away from Hazara-dominated areas. At least 97 people were killed and 260 wounded, making it the deadliest attack in Kabul since 2001 at the time. Islamic State's Khorasan branch claimed responsibility, its first major assault on the Afghan capital.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2016-10-08",
+  "title": "Sanaa funeral hall airstrike",
+  "category": "war",
+  "location": "Sanaa, Yemen",
+  "lives_lost": 155,
+  "description": "A Saudi-led coalition airstrike struck a large funeral hall in Sanaa's Sabeen district during a mourning ceremony for the father of Houthi-appointed Interior Minister Jalal al-Rowaishan. At least 155 people were killed and more than 525 wounded, including senior Houthi figures. The attack drew international condemnation, the United States said it would reassess support for the coalition, and the coalition later acknowledged an error in conducting the strike.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2015-10-08",
+  "title": "Yemen wedding party airstrike",
+  "category": "war",
+  "location": "Mokha, Yemen",
+  "lives_lost": 131,
+  "description": "A Saudi-led coalition airstrike hit a wedding party in a village near the Red Sea port of Mokha in Taiz governorate, Yemen, killing at least 131 people, including many women and children, and wounding hundreds. Yemeni officials and residents reported the toll, and Human Rights Watch documented the attack; the coalition later acknowledged the strike and said it had been a mistake.",
+  "sources": [
+   "Reuters",
+   "Human Rights Watch",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2018-10-29",
+  "title": "Lion Air Flight 610 crash",
+  "category": "industrial",
+  "location": "Java Sea, Indonesia",
+  "lives_lost": 189,
+  "description": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13 minutes after taking off from Jakarta en route to Pangkal Pinang, killing all 189 people on board. The aircraft had experienced airspeed and sensor problems on its previous flight. The crash was the first fatal accident involving the Boeing 737 MAX and led to investigations into the aircraft's Maneuvering Characteristics Augmentation System, which later factored into the worldwide grounding of the model.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "AP News"
+  ]
+ },
+ {
+  "date": "2015-12-01",
+  "title": "Chennai floods",
+  "category": "natural-disaster",
+  "location": "Chennai, India",
+  "lives_lost": 500,
+  "description": "Torrential northeast-monsoon rains, among the heaviest recorded in a century, flooded Chennai and surrounding districts of Tamil Nadu in late November and December 2015, killing more than 500 people, with at least 422 deaths officially recorded in Tamil Nadu alone. Much of the city remained submerged for weeks, and transport, power and communications were disrupted across a region home to tens of millions of people; neighboring Andhra Pradesh was also affected.",
+  "sources": [
+   "The Hindu",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2015-12-02",
+  "title": "San Bernardino shooting",
+  "category": "gun-violence",
+  "location": "San Bernardino, United States",
+  "lives_lost": 14,
+  "description": "A married couple, Syed Rizwan Farook and Tashfeen Malik, opened fire with assault rifles at a holiday gathering of county employees at the Inland Regional Center in San Bernardino, California, killing 14 people and seriously wounding 22. The attackers, who had pledged allegiance to the Islamic State, died in a shootout with police hours later.",
+  "sources": [
+   "Associated Press",
+   "The New York Times",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2018-03-25",
+  "title": "Kemerovo shopping mall fire",
+  "category": "industrial",
+  "location": "Kemerovo, Russia",
+  "lives_lost": 60,
+  "description": "A fire broke out at the Winter Cherry shopping and entertainment complex in Kemerovo, Siberia, Russia, trapping shoppers in the cinema and children's play areas. The blaze killed 60 people, 41 of them children, and injured dozens. Investigators found that fire alarms and exits were malfunctioning or locked, and security guards had failed to guide visitors out; more than 20 officials and private security personnel were later charged in connection with the disaster.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Moscow Times",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2016-03-27",
+  "title": "Lahore Easter park bombing",
+  "category": "terrorism",
+  "location": "Lahore, Pakistan",
+  "lives_lost": 75,
+  "description": "A suicide bomber detonated in the crowded Gulshan-e-Iqbal Park in Lahore on Easter Sunday, targeting Christian families gathered for the holiday. Seventy-five people were killed, including at least 29 children, and more than 300 were wounded. Jamaat-ul-Ahrar, a faction of the Pakistani Taliban, claimed responsibility for the attack.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2016-07-14",
+  "title": "Nice Bastille Day truck attack",
+  "category": "terrorism",
+  "location": "Nice, France",
+  "lives_lost": 86,
+  "description": "A 19-tonne cargo truck driven by Mohamed Lahouaiej-Bouhlel plowed through crowds celebrating Bastille Day on the Promenade des Anglais in Nice for nearly two kilometers before police shot the driver dead. Eighty-six people, including many children, were killed and 458 wounded. Islamic State claimed responsibility for the attack, one of the deadliest in modern French history.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2016-07-15",
+  "title": "Attempted coup in Turkey",
+  "category": "war",
+  "location": "Ankara and Istanbul, Turkey",
+  "lives_lost": 300,
+  "description": "A faction of the Turkish armed forces attempted to overthrow the government on the night of July 15, bombing the parliament building in Ankara, seizing bridges and key infrastructure in Istanbul, and announcing military control of the country. The government, aided by large pro-democracy street protests, regained control within about 24 hours. Estimates of the dead range from 270 to 350, with roughly 300 people killed including about 180 civilians, and more than 2,100 wounded.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2019-01-25",
+  "title": "Brumadinho dam disaster",
+  "category": "industrial",
+  "location": "Brumadinho, Minas Gerais, Brazil",
+  "lives_lost": 270,
+  "description": "A tailings dam at Vale's Feijão iron-ore mine collapsed on 25 January 2019, releasing a wave of mining waste that buried the mine's cafeteria, administrative buildings and nearby rural homes. The disaster killed 270 people, including 259 confirmed dead and 11 missing who were later declared dead, most of them mine workers and employees eating lunch at the time. It was one of the deadliest industrial accidents in Brazilian history and prompted investigations into dam safety standards at mining companies.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2016-04-16",
+  "title": "Ecuador earthquake (M7.8)",
+  "category": "natural-disaster",
+  "location": "Pedernales, Ecuador",
+  "lives_lost": 676,
+  "description": "A magnitude 7.8 earthquake struck off Ecuador's northern Pacific coast at a depth of about 20 kilometers, devastating coastal towns including Pedernales, Manta, and Portoviejo in Manabí Province, which accounted for more than three-quarters of casualties. At least 676 people were killed, about 27,700 were injured, and tens of thousands of buildings were destroyed or damaged, making it Ecuador's worst natural disaster since 1949.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "USGS"
+  ]
+ },
+ {
+  "date": "2016-04-16",
+  "title": "Kumamoto earthquakes",
+  "category": "natural-disaster",
+  "location": "Kumamoto Prefecture, Japan",
+  "lives_lost": 50,
+  "description": "A magnitude 7.0 earthquake struck Kumamoto Prefecture on the island of Kyushu on April 16, following a magnitude 6.2 foreshock two days earlier. At least 50 people were killed directly by the quakes, with more than 270 deaths attributed to the disaster once earthquake-related causes were counted, and 2,809 were injured. The quakes triggered landslides and damaged tens of thousands of structures across Kumamoto and Oita prefectures.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Japan Times"
+  ]
+ },
+ {
+  "date": "2017-05-22",
+  "title": "Manchester Arena bombing",
+  "category": "terrorism",
+  "location": "Manchester, United Kingdom",
+  "lives_lost": 22,
+  "description": "A suicide bomber detonated a homemade shrapnel-laden device in the foyer of Manchester Arena as thousands of mostly young fans were leaving an Ariana Grande concert on 22 May 2017. The blast killed 22 people, including a number of children and teenagers, and injured more than 1,000. The attacker, Salman Abedi, died in the explosion; the Islamic State claimed responsibility, and British authorities judged it a terrorist attack carried out by a local cell with support from his brother.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2018-07-13",
+  "title": "Mastung election rally bombing",
+  "category": "terrorism",
+  "location": "Mastung, Pakistan",
+  "lives_lost": 131,
+  "description": "A suicide bomber detonated an explosive vest at an election rally of Awami National Party candidate Siraj Raisani in Mastung, Balochistan province, days before Pakistan's general election. The attack killed 131 people and wounded over 100, including Raisani himself. The Islamic State Khorasan Province claimed responsibility, and it was the deadliest attack in Pakistan in several years, following a separate bombing the same day in Peshawar that killed over 20 people.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Dawn",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2017-08-14",
+  "title": "Freetown mudslide and floods, Sierra Leone",
+  "category": "natural-disaster",
+  "location": "Freetown, Sierra Leone",
+  "lives_lost": 1141,
+  "description": "After days of torrential rain, a hillside above the Babadorie River valley collapsed on 14 August 2017, sending a wall of mud and debris through the Regent district on the outskirts of Freetown, burying homes and residents as they slept. The final official death toll declared 1,141 dead or missing, with more than 3,000 people displaced and hundreds of children orphaned, according to the World Bank's damage and loss assessment. Deforestation and unregulated hillside construction were cited by authorities as factors amplifying the disaster.",
+  "sources": [
+   "World Bank / ReliefWeb",
+   "Government of Sierra Leone",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2016-07-05",
+  "title": "2016 China floods (Yangtze basin)",
+  "category": "natural-disaster",
+  "location": "Yangtze River basin, China",
+  "lives_lost": 449,
+  "description": "Torrential monsoon rains produced the worst flooding in China since 1998, hitting the Yangtze and Huai river basins across 26 provinces and affecting an estimated 32 million people, with hundreds of thousands left homeless. More than 350 people died in the floods, and a June 23 EF4 tornado in Jiangsu Province that killed at least 99 people brought the combined toll to more than 440. Rivers breached their banks in multiple provinces, including Hubei and Anhui, and damage was estimated in the tens of billions of dollars.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2015-10-26",
+  "title": "Hindu Kush earthquake",
+  "category": "natural-disaster",
+  "location": "Badakhshan, Afghanistan",
+  "lives_lost": 399,
+  "description": "A magnitude 7.5 earthquake centered in the Hindu Kush mountains of northeastern Afghanistan shook a wide area of South Asia, killing 399 people, including at least 280 in Pakistan, 115 in Afghanistan and 4 in India, and injuring about 2,500. Hundreds of homes collapsed across northern Pakistan and Afghanistan, and shaking was felt as far away as Delhi.",
+  "sources": [
+   "USGS",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2019-10-31",
+  "title": "Tezgam train fire",
+  "category": "industrial",
+  "location": "Rahim Yar Khan, Punjab, Pakistan",
+  "lives_lost": 74,
+  "description": "On 31 October 2019, a fire broke out on the Tezgam express train travelling from Karachi to Rawalpindi near Rahim Yar Khan in Punjab, after a gas canister used by passengers to cook food exploded, igniting fuel carried on board. At least 74 passengers were killed, many of them burned to death or killed jumping from the moving train, and dozens more were injured. Pakistan's railways minister acknowledged that cooking equipment and flammable materials were routinely carried on trains and ordered an inquiry into the deadliest rail accident in Pakistan in years.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2015-10-31",
+  "title": "Metrojet Flight 9268 bombing",
+  "category": "terrorism",
+  "location": "Sinai, Egypt",
+  "lives_lost": 224,
+  "description": "Metrojet Flight 9268, an Airbus A321 carrying 224 people from the Egyptian resort of Sharm el-Sheikh to Saint Petersburg, Russia, broke up in flight over the Sinai Peninsula about 23 minutes after takeoff, killing everyone on board, including 219 Russians. Investigators concluded that an improvised explosive device of about 1 kg of TNT destroyed the aircraft; the Islamic State's Sinai branch claimed responsibility, and Egypt and Russia ultimately acknowledged the cause as a terrorist bombing.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2018-09-20",
+  "title": "MV Nyerere ferry capsizing",
+  "category": "industrial",
+  "location": "Ukerewe Island, Lake Victoria, Tanzania",
+  "lives_lost": 228,
+  "description": "The passenger ferry MV Nyerere capsized minutes after leaving the dock at Ukerewe Island on Lake Victoria, Tanzania, on a journey to Bugolora in the Mwanza region. The vessel, with a listed capacity of about 100 people, was carrying a far larger number of passengers, many returning from the island's market day. At least 228 people drowned in the disaster, with hundreds of others rescued; officials later arrested ferry crew members over safety violations.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera",
+   "AP News"
+  ]
+ },
+ {
+  "date": "2017-09-20",
+  "title": "Hurricane Maria, Puerto Rico",
+  "category": "natural-disaster",
+  "location": "Puerto Rico",
+  "lives_lost": 2975,
+  "description": "Hurricane Maria, a Category 5 storm at peak intensity, made landfall in Puerto Rico on 20 September 2017, devastating the island with winds up to 175 mph and torrential rainfall. The storm destroyed the electric grid, knocked out water systems and communications, and left much of the island without power for months. Official estimates of direct and indirect deaths were later revised from 64 to 2,975 after a George Washington University study commissioned by the governor attributed the higher toll to the disruption of health care, medication and infrastructure, making it among the deadliest US hurricanes on record.",
+  "sources": [
+   "George Washington University study",
+   "Government of Puerto Rico",
+   "The New York Times",
+   "CBS News"
+  ]
+ },
+ {
+  "date": "2018-05-18",
+  "title": "Cubana de Aviación Flight 972 crash",
+  "category": "industrial",
+  "location": "Havana, Cuba",
+  "lives_lost": 112,
+  "description": "Cubana de Aviación Flight 972, a Boeing 737-200 leased by the national airline, crashed shortly after takeoff from Havana's José Martí International Airport on a domestic flight to Holguín. The aircraft struck a hillside in a rural area, killing 112 of the 113 people on board; one passenger survived with serious injuries. Cuba's government launched an investigation into the crash, the country's deadliest aviation disaster in decades, and declared two days of national mourning.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "AP News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2015-10-03",
+  "title": "Kunduz hospital airstrike",
+  "category": "war",
+  "location": "Kunduz, Afghanistan",
+  "lives_lost": 42,
+  "description": "A United States AC-130 gunship repeatedly struck the trauma hospital of Medecins Sans Frontieres (Doctors Without Borders) in Kunduz, Afghanistan, during fighting between Afghan forces and Taliban fighters who had seized the city days earlier. The airstrike killed 42 people, including 14 MSF staff, 24 patients and four caretakers, and wounded more than 30. The US military called the attack a mistake and later disciplined two officers by court-martial.",
+  "sources": [
+   "Medecins Sans Frontieres",
+   "The New York Times",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-11-05",
+  "title": "Sutherland Springs church shooting",
+  "category": "gun-violence",
+  "location": "Sutherland Springs, United States",
+  "lives_lost": 26,
+  "description": "On 5 November 2017 a gunman entered the First Baptist Church in Sutherland Springs, Texas, during Sunday service and opened fire with an assault rifle, killing 26 people including an unborn child and injuring more than 20; victims ranged in age from 18 months to 77 years. The attack ended when the shooter was wounded by a neighbor and fled, later dying of a self-inflicted gunshot. It was the deadliest mass shooting at a place of worship in US history, and investigators found the gunman had a history of domestic violence that was not flagged in federal background checks.",
+  "sources": [
+   "Texas Department of Public Safety",
+   "Associated Press",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2015-04-02",
+  "title": "Garissa University College attack",
+  "category": "terrorism",
+  "location": "Garissa, Kenya",
+  "lives_lost": 148,
+  "description": "Four gunmen from the Somali militant group al-Shabaab stormed Garissa University College at dawn, taking students hostage and executing many of them. The attack killed 148 people, comprising 142 students, three soldiers and three police officers, and wounded 79. Kenyan special forces ended the siege the same day, killing all four attackers.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2015-06-26",
+  "title": "Sousse beach attack",
+  "category": "terrorism",
+  "location": "Sousse, Tunisia",
+  "lives_lost": 38,
+  "description": "A gunman affiliated with the Islamic State opened fire on tourists at the Imperial Marhaba beach hotel in Sousse, a popular Tunisian coastal resort, killing 38 people, 30 of them British, and wounding 39. Security forces shot the attacker dead. It was Tunisia's deadliest terrorist attack.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2018-08-15",
+  "title": "Kerala floods",
+  "category": "natural-disaster",
+  "location": "Kerala, India",
+  "lives_lost": 483,
+  "description": "Unprecedented monsoon rainfall, the heaviest in the Indian state in nearly a century, caused catastrophic flooding and landslides across Kerala in August 2018. All 14 districts of the state were affected, with the Periyar and Pamba rivers overflowing and over 100 dams releasing water. The state disaster management authority confirmed 483 deaths, while over 1.5 million people were displaced into relief camps and property damage was estimated at billions of dollars.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Hindu",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2016-03-22",
+  "title": "Brussels airport and metro bombings",
+  "category": "terrorism",
+  "location": "Brussels, Belgium",
+  "lives_lost": 32,
+  "description": "Three coordinated suicide bombings struck Brussels on the morning of March 22: two at Zaventem airport's departure hall and one on a Maalbeek metro train near the European Commission headquarters. Islamic State claimed responsibility. Thirty-two civilians were killed and more than 300 wounded, in attacks that came days after the arrest in Brussels of Paris attacks suspect Salah Abdeslam.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2018-05-14",
+  "title": "Gaza border protest killings",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 60,
+  "description": "On May 14, 2018, during the Great March of Return protests marking the 70th anniversary of the Nakba, Israeli forces opened fire on Palestinian demonstrators near the Gaza-Israel border, killing at least 60 people and wounding about 2,700 in a single day. The protests, which began in March 2018, saw roughly 189 Palestinians killed by Israeli gunfire over the course of the year, according to UN figures, making it the deadliest period of the Israeli-Palestinian conflict in years.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The New York Times",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2019-08-03",
+  "title": "El Paso Walmart shooting",
+  "category": "gun-violence",
+  "location": "El Paso, Texas, United States",
+  "lives_lost": 23,
+  "description": "On 3 August 2019, a gunman opened fire at a Walmart store in El Paso, Texas, near the US-Mexico border, killing 23 people and wounding more than 20 others in an attack targeting Latinos. The suspect, who had posted an anti-immigrant manifesto online, was arrested at the scene and later pleaded guilty to 90 federal counts, receiving a sentence of 90 consecutive life terms. The shooting was the deadliest anti-Latino attack in modern US history and prompted federal charges treated as domestic terrorism.",
+  "sources": [
+   "BBC News",
+   "Associated Press",
+   "The Washington Post"
+  ]
+ },
+ {
+  "date": "2017-09-07",
+  "title": "Chiapas earthquake, Mexico",
+  "category": "natural-disaster",
+  "location": "Chiapas and Oaxaca, Mexico",
+  "lives_lost": 98,
+  "description": "A magnitude 8.2 earthquake struck off the Pacific coast of Chiapas state in the early hours of 7 September 2017, making it the strongest quake in Mexico in a century. The tremor killed at least 98 people, most in Oaxaca and Chiapas, and destroyed hundreds of homes, schools and churches across the southern states; damage was worsened by the region's adobe-built housing. It was followed on 19 September by a second major earthquake centered near Puebla that struck central Mexico.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "US Geological Survey"
+  ]
+ },
+ {
+  "date": "2019-12-28",
+  "title": "Mogadishu truck bombing",
+  "category": "terrorism",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 85,
+  "description": "On 28 December 2019, a truck bomb detonated at the Ex-Control Afgoye checkpoint on the outskirts of Mogadishu, followed by another blast at a bus station in the city, killing at least 85 people and injuring more than 140. The attack hit taxis, buses and minibuses collecting passengers at the checkpoint during rush hour, and al-Shabaab claimed responsibility. It was among the deadliest attacks in Mogadishu in years and targeted a route frequented by civilians travelling between the capital and surrounding towns.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-04-01",
+  "title": "Mocoa mudslide, Colombia",
+  "category": "natural-disaster",
+  "location": "Mocoa, Colombia",
+  "lives_lost": 336,
+  "description": "Heavy overnight rainfall on 31 March-1 April 2017 caused rivers to overflow and triggered massive mudslides that swept through the city of Mocoa in Putumayo department, burying neighborhoods as residents slept. At least 336 people were killed, including many children, and hundreds more were injured or missing; dozens of homes, schools and bridges were destroyed. Search-and-rescue operations continued for weeks, and the Colombian government declared a state of emergency in the affected region.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "El Espectador"
+  ]
+ },
+ {
+  "date": "2017-04-09",
+  "title": "Palm Sunday church bombings, Egypt",
+  "category": "terrorism",
+  "location": "Tanta and Alexandria, Egypt",
+  "lives_lost": 45,
+  "description": "On Palm Sunday, 9 April 2017, suicide bombers attacked two Coptic Orthodox churches during services: St. George's Church in Tanta and St. Mark's Cathedral in Alexandria, where Pope Tawadros II had just left. At least 45 people were killed and scores injured in the coordinated bombings, making it one of the deadliest attacks on Christians in Egypt's modern history. The Islamic State's Sinai branch claimed responsibility for both attacks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2017-06-14",
+  "title": "Grenfell Tower fire",
+  "category": "industrial",
+  "location": "London, United Kingdom",
+  "lives_lost": 72,
+  "description": "A fire broke out in a kitchen on the fourth floor of Grenfell Tower, a 24-storey social housing block in North Kensington, London, on 14 June 2017 and spread rapidly across the building's exterior cladding, engulfing the tower within minutes. Seventy-two people died, including two who later died in hospital, and more than 70 were injured; residents above the initial floors were trapped because the building had a single stairway and lacked a full sprinkler system. The public inquiry later found the deaths were caused by a combination of combustible aluminium composite cladding panels, polyisocyanurate insulation, and the fire-protection failures of the building's refurbishment. It remains the deadliest UK residential fire since the Second World War.",
+  "sources": [
+   "Grenfell Tower Inquiry",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2017-07-10",
+  "title": "Battle of Mosul ends",
+  "category": "war",
+  "location": "Mosul, Iraq",
+  "lives_lost": 10000,
+  "description": "The nine-month campaign by Iraqi security forces and the US-led coalition to retake Mosul from the Islamic State concluded with victory declared on 10 July 2017, after the final pockets of resistance fell in the Old City. The battle devastated Iraq's second-largest city, leaving entire districts in ruins. An Associated Press investigation estimated 9,000-11,000 civilians were killed during the campaign, many in coalition airstrikes and IS-held areas where residents were used as human shields; Amnesty International documented thousands of civilians killed by strikes, while UN figures recorded over 2,500 verified civilian deaths, making it one of the deadliest urban battles since World War II.",
+  "sources": [
+   "Associated Press",
+   "Amnesty International",
+   "UN Assistance Mission for Iraq"
+  ]
+ },
+ {
+  "date": "2017-08-28",
+  "title": "South Asia floods",
+  "category": "natural-disaster",
+  "location": "Bangladesh, India and Nepal",
+  "lives_lost": 1288,
+  "description": "Monsoon floods triggered by some of the heaviest rainfall in decades inundated large parts of Bangladesh, northern and northeastern India, and Nepal during August 2017, displacing more than 40 million people. Confirmed fatalities numbered 1,288 by 2 September 2017 (over 1,400 across the three countries per some tallies), with hundreds of thousands of homes destroyed, crops ruined and outbreaks of waterborne disease reported in relief camps. The flooding destroyed infrastructure on a massive scale, leaving millions dependent on emergency food and shelter aid from national governments, the UN and the Red Cross.",
+  "sources": [
+   "UN OCHA",
+   "UNICEF",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2017-09-19",
+  "title": "Puebla earthquake, Mexico",
+  "category": "natural-disaster",
+  "location": "Mexico City, Mexico",
+  "lives_lost": 370,
+  "description": "A magnitude 7.1 earthquake struck on 19 September 2017, coinciding with the anniversary of the 1985 Mexico City quake, with its epicenter near Puebla state. The shaking collapsed dozens of buildings in Mexico City and nearby states, including schools, apartment blocks and offices; 370 people were killed and more than 6,000 injured. Rescue workers and volunteers dug through rubble for weeks in a national mobilization, and the toll included 19 children and six adults killed when an elementary school collapsed in Mexico City's Roma Norte district.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2017-10-14",
+  "title": "Mogadishu truck bombing",
+  "category": "terrorism",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 587,
+  "description": "On 14 October 2017 a truck packed with explosives detonated at a busy intersection near the Safari Hotel in Mogadishu, followed shortly by a car bomb attack in the Madina district. The blasts killed at least 587 people and injured more than 300, according to a parliamentary investigative committee that concluded its count in March 2018, with hundreds of victims burned beyond recognition; a two-story building collapsed onto the truck's blast crater. No group claimed responsibility, though Somali officials attributed the attack to al-Shabaab. It was the deadliest bombing in Somalia's history.",
+  "sources": [
+   "Somali Parliamentary Committee",
+   "Reuters",
+   "BBC News",
+   "Hiiraan Online"
+  ]
+ },
+ {
+  "date": "2017-10-17",
+  "title": "Battle of Raqqa ends",
+  "category": "war",
+  "location": "Raqqa, Syria",
+  "lives_lost": 1800,
+  "description": "The Syrian Democratic Forces, backed by heavy US-led coalition airstrikes, captured the Islamic State's self-declared capital of Raqqa on 17 October 2017 after a four-month siege. The battle left the city largely destroyed, with most buildings ruined by bombing and street fighting, and tens of thousands of residents displaced. Estimates of civilians killed during the campaign range from about 1,300 to 1,873 (Airwars and Amnesty International: 1,300-1,600 from coalition airstrikes; local monitors: 1,854-1,873), including hundreds who died as IS used residents as human shields or as they fled through minefields; the Syrian Observatory for Human Rights counted 1,540 civilians dead.",
+  "sources": [
+   "Airwars",
+   "Amnesty International",
+   "Syrian Observatory for Human Rights"
+  ]
+ },
+ {
+  "date": "2017-11-12",
+  "title": "Iran-Iraq earthquake",
+  "category": "natural-disaster",
+  "location": "Sarpol-e Zahab, Iran",
+  "lives_lost": 630,
+  "description": "A magnitude 7.3 earthquake struck near the Iran-Iraq border on 12 November 2017, with its epicenter about 30 km southwest of Halabja in Iraqi Kurdistan. At least 630 people were killed and more than 8,100 injured, the vast majority in Iran's Kermanshah province, where the town of Sarpol-e Zahab was devastated; roughly 12,000 homes collapsed across 14 Iranian provinces, and thousands of people spent weeks in tents through the winter. It was the deadliest earthquake worldwide in 2017, with Iraqi casualties centered on the Halabja area.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2015-11-12",
+  "title": "Beirut suicide bombings",
+  "category": "terrorism",
+  "location": "Beirut, Lebanon",
+  "lives_lost": 43,
+  "description": "Two suicide bombers detonated explosives in the crowded Bourj el-Barajneh district of southern Beirut, a predominantly Shia area of the Lebanese capital, killing 43 people and wounding about 240. The Islamic State claimed responsibility for the attack, the deadliest in Beirut in years.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2017-11-24",
+  "title": "Bir al-Abed mosque attack, Egypt",
+  "category": "terrorism",
+  "location": "Bir al-Abed, Egypt",
+  "lives_lost": 311,
+  "description": "Gunmen detonated explosives and opened fire with automatic weapons on worshippers attending Friday prayers at the al-Rawda Sufi mosque in Bir al-Abed, North Sinai, on 24 November 2017. The attack killed 311 people, including 27 children, and wounded at least 128; attackers also fired on ambulances and vehicles carrying the wounded. No group formally claimed responsibility, but Egyptian authorities and analysis attributed it to the Islamic State's Sinai branch, targeting the local Sufi community; it remains the deadliest terrorist attack in Egypt's history.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2018-01-27",
+  "title": "Kabul ambulance bombing",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 103,
+  "description": "A suicide bomber drove an ambulance packed with explosives through a checkpoint and detonated it in a crowded district of central Kabul near the Ministry of Interior, targeting Afghan security personnel and civilians. The blast killed at least 103 people and injured more than 235, making it one of the deadliest attacks in Afghanistan in recent years. The Taliban claimed responsibility, and the attack underscored the deteriorating security situation in the capital.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "AP News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2018-07-06",
+  "title": "Western Japan floods and landslides",
+  "category": "natural-disaster",
+  "location": "Western Japan",
+  "lives_lost": 225,
+  "description": "Record-breaking rainfall, in some areas exceeding 180 millimeters per hour, triggered devastating flooding and landslides across western Japan in early July 2018, most severely in Hiroshima, Okayama, and Ehime prefectures. Rivers burst their banks, and landslides destroyed hillside homes. At least 225 people were killed and thousands displaced in Japan's worst weather disaster in decades, prompting the evacuation of millions of residents.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "NHK World",
+   "The Japan Times"
+  ]
+ },
+ {
+  "date": "2018-11-08",
+  "title": "Camp Fire wildfire",
+  "category": "natural-disaster",
+  "location": "Paradise, California, USA",
+  "lives_lost": 85,
+  "description": "The Camp Fire, ignited in Butte County, California, exploded into the state's most destructive and deadliest wildfire on record at the time, destroying the town of Paradise and surrounding communities. Fueled by drought and strong winds, it burned over 150,000 acres and destroyed 18,804 structures. Eighty-five people were killed, the vast majority in Paradise, with over 12,000 homes lost and thousands displaced.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "AP News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2016-02-06",
+  "title": "Meinong (Kaohsiung) earthquake",
+  "category": "natural-disaster",
+  "location": "Tainan, Taiwan",
+  "lives_lost": 117,
+  "description": "A magnitude 6.4 earthquake struck southern Taiwan at 3:57 a.m. local time with its epicenter near Meinong, Kaohsiung. The quake toppled several buildings, most notably the 17-story Weiguan Jinlong apartment complex in Tainan, where 115 of the 117 fatalities occurred. Around 550 people were injured, and the quake was the deadliest in Taiwan since the 1999 Jiji earthquake.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2016-02-25",
+  "title": "Severnaya coal mine explosions, Vorkuta",
+  "category": "industrial",
+  "location": "Vorkuta, Russia",
+  "lives_lost": 36,
+  "description": "Two methane gas explosions hit the Severnaya coal mine in Vorkuta, Komi Republic, on February 25 and 28, 2016. The first explosion killed four miners; a second explosion during the rescue effort killed a group of rescuers and trapped miners underground. In total, 31 miners and five rescue workers died, making it Russia's deadliest mine disaster in years; nine survivors were rescued.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "TASS"
+  ]
+ },
+ {
+  "date": "2019-06-28",
+  "title": "European heat waves",
+  "category": "natural-disaster",
+  "location": "France, Western Europe",
+  "lives_lost": 2500,
+  "description": "Record-breaking heat waves struck western Europe in late June and late July 2019, with France registering its highest-ever temperature of 45.9°C at Gallargues-le-Montueux on 28 June. France's public health agency attributed 1,435 excess deaths to the June heat wave, and a subsequent peer-reviewed study estimated roughly 2,500 deaths across Europe attributable to the summer's heat waves. Schools closed, rail services were suspended and cities opened cooling centres as authorities issued the highest heat alerts for the first time in several countries.",
+  "sources": [
+   "Santé publique France",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2016-06-28",
+  "title": "Atatürk Airport attack",
+  "category": "terrorism",
+  "location": "Istanbul, Turkey",
+  "lives_lost": 45,
+  "description": "Three suicide bombers opened fire with automatic weapons and then detonated explosives in the international arrivals terminal of Istanbul's Atatürk Airport. Forty-five people, including the attackers, were killed and more than 230 wounded. Turkish authorities identified Islamic State as responsible, making it the deadliest terror attack in Turkey in the year to that point.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2016-07-03",
+  "title": "Karrada shopping district bombing",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 324,
+  "description": "A suicide truck bomb exploded shortly after midnight in Baghdad's Karrada district, an area crowded with families shopping during Ramadan, setting several buildings ablaze. At least 292 people were killed in the immediate aftermath, with the final toll later placed at more than 320 dead and hundreds wounded. Islamic State claimed responsibility for the deadliest single attack in Iraq since 2003.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2016-08-30",
+  "title": "Typhoon Lionrock floods in North Korea",
+  "category": "natural-disaster",
+  "location": "North Hamgyong Province, North Korea",
+  "lives_lost": 550,
+  "description": "Typhoon Lionrock crossed Japan's Tohoku region on August 30 and produced torrential rains that caused devastating flash floods in North Korea's North Hamgyong Province along the Tumen River, washing away entire villages and leaving tens of thousands homeless. Initial UN assessments counted 133 dead and 395 missing in North Korea; later analyses put the country's death toll at more than 500, with about 550 total deaths when the 22 killed in Japan and 3 in Russia are included.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "UN OCHA",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2016-10-04",
+  "title": "Hurricane Matthew in Haiti",
+  "category": "natural-disaster",
+  "location": "Southern Haiti",
+  "lives_lost": 731,
+  "description": "Hurricane Matthew, a Category 4 storm with winds near 145 mph, struck southwestern Haiti on October 4, bringing torrential rain that triggered catastrophic flash floods and mudslides in Grand'Anse and Sud departments. The storm killed 674 people in Haiti and 731 across all affected countries, including 47 in the United States; it destroyed more than 200,000 homes and triggered a major surge in cholera cases. It was Haiti's worst humanitarian crisis since the 2010 earthquake.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "UN OCHA",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2016-10-24",
+  "title": "Quetta police training college attack",
+  "category": "terrorism",
+  "location": "Quetta, Pakistan",
+  "lives_lost": 61,
+  "description": "Three attackers stormed the Balochistan Police College in Quetta late on October 24, taking unarmed police recruits hostage and battling security forces for several hours before all three were killed. At least 61 people, mostly recruits, were killed and more than 165 wounded. Islamic State's Khorasan branch claimed responsibility for the deadliest attack in Pakistan since the 2014 Peshawar school massacre.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2018-08-05",
+  "title": "Lombok earthquake sequence",
+  "category": "natural-disaster",
+  "location": "Lombok, Indonesia",
+  "lives_lost": 563,
+  "description": "A series of major earthquakes struck the island of Lombok between July 29 and August 19, 2018, the strongest being a magnitude 7.0 quake on August 5. The quakes destroyed more than 70,000 homes, triggered landslides on Mount Rinjani, and killed at least 563 people, including tourists in the Gili Islands, with over 1,000 injured and roughly 350,000 displaced.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2015-01-03",
+  "title": "Baga massacre by Boko Haram",
+  "category": "war",
+  "location": "Baga, Nigeria",
+  "lives_lost": 2000,
+  "description": "Boko Haram militants seized the town of Baga in Borno State and attacked Baga and surrounding towns, setting homes and shops ablaze and killing civilians as they fled. Nigerian officials reported a toll of about 150, while Amnesty International estimated, based on witness accounts, that as many as 2,000 people were killed. Tens of thousands of residents fled across Lake Chad into Niger.",
+  "sources": [
+   "Amnesty International",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2015-01-07",
+  "title": "Charlie Hebdo shooting",
+  "category": "terrorism",
+  "location": "Paris, France",
+  "lives_lost": 12,
+  "description": "Two gunmen affiliated with al-Qaeda in the Arabian Peninsula stormed the office of the satirical weekly Charlie Hebdo during its morning editorial meeting, killing 12 people, including eight journalists and two police officers. The attackers, brothers Said and Cherif Kouachi, were killed in a standoff two days later; attacks by a related cell in the Paris region killed four more people in the same week.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2015-05-26",
+  "title": "Indian heat wave",
+  "category": "natural-disaster",
+  "location": "Andhra Pradesh, India",
+  "lives_lost": 2500,
+  "description": "An extreme heat wave with temperatures exceeding 47 degrees Celsius swept southern and eastern India in May 2015, killing at least 2,500 people. Andhra Pradesh, with about 1,735 deaths, and Telangana, with about 585, were hardest hit. It was India's deadliest heat wave since 1979.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2015-06-17",
+  "title": "Charleston church shooting",
+  "category": "gun-violence",
+  "location": "Charleston, United States",
+  "lives_lost": 9,
+  "description": "A 21-year-old white supremacist, Dylann Roof, opened fire during a Bible study at Emanuel African Methodist Episcopal Church, one of the oldest Black churches in the United States, killing nine parishioners and wounding one. Roof fled the scene but was arrested the following morning; he was later convicted on federal hate-crime and murder charges and sentenced to death.",
+  "sources": [
+   "Associated Press",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2015-06-24",
+  "title": "Karachi heat wave",
+  "category": "natural-disaster",
+  "location": "Karachi, Pakistan",
+  "lives_lost": 1265,
+  "description": "A heat wave with temperatures reaching 44-49 degrees Celsius struck Karachi and southern Pakistan during the Muslim fasting month of Ramadan, killing at least 1,265 people in the city, most of them poor residents without electricity or water, and about 2,000 across the country. Hospitals reported a surge in heat-stroke cases and morgues were overwhelmed as power outages worsened the crisis.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Dawn"
+  ]
+ },
+ {
+  "date": "2015-10-10",
+  "title": "Ankara peace rally bombing",
+  "category": "terrorism",
+  "location": "Ankara, Turkey",
+  "lives_lost": 102,
+  "description": "Two suicide bombers, later linked to the Islamic State, detonated bombs among crowds gathered for a peace rally near Ankara's central train station, killing at least 102 people, the figure given by Turkish prosecutors, and injuring more than 500. Some later counts put the death toll as high as 109. It was the deadliest terrorist attack in Turkey's history, surpassing the 2013 Reyhanli bombings.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2019-01-15",
+  "title": "DusitD2 complex attack",
+  "category": "terrorism",
+  "location": "Nairobi, Kenya",
+  "lives_lost": 21,
+  "description": "Four al-Shabaab gunmen stormed the DusitD2 hotel and office complex in Nairobi's Westlands district on 15 January 2019, detonating explosives and firing on guests and workers. Twenty-one people were killed and dozens wounded before the attackers were killed in a standoff that lasted nearly 20 hours. Al-Shabaab claimed responsibility, saying the attack targeted a US-run hotel and a Kenyan court complex nearby.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2019-06-03",
+  "title": "Khartoum massacre",
+  "category": "gun-violence",
+  "location": "Khartoum, Sudan",
+  "lives_lost": 128,
+  "description": "On 3 June 2019, Sudanese security forces, including the Rapid Support Forces, violently dispersed a civilian sit-in outside the army headquarters in Khartoum that had been demanding a transition to civilian rule. The Sudanese Doctors' Syndicate documented at least 104 deaths, with later tallies exceeding 128 including children, and hundreds of people wounded; an official inquiry reported 87 deaths. The crackdown followed the ouster of President Omar al-Bashir and preceded a power-sharing agreement that established a civilian-led transitional government later that year.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Amnesty International"
+  ]
+ },
+ {
+  "date": "2018-06-03",
+  "title": "Volcán de Fuego eruption",
+  "category": "natural-disaster",
+  "location": "Escuintla, Guatemala",
+  "lives_lost": 425,
+  "description": "Guatemala's Volcán de Fuego erupted violently, sending pyroclastic flows and ash that buried the villages of San Miguel Los Lotes and El Rodeo in mud and rock. The eruption killed 425 people according to Guatemala's disaster agency (CONRED), injured hundreds, destroyed thousands of homes, and forced the evacuation of over 12,000 people, while dozens of victims were never recovered from the deposits.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2018-04-07",
+  "title": "Douma chemical weapons attack",
+  "category": "war",
+  "location": "Douma, Syria",
+  "lives_lost": 43,
+  "description": "A suspected chemical weapons attack struck the town of Douma in Syria's Eastern Ghouta region during the Syrian civil war, the last rebel-held area near Damascus. Medical and rescue groups reported at least 43 people killed and hundreds suffering respiratory distress from what they described as exposure to chlorine and sarin gas. The Organization for the Prohibition of Chemical Weapons later confirmed the use of chlorine, and the attack prompted US-led airstrikes on Syrian facilities.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2018-10-27",
+  "title": "Pittsburgh synagogue shooting",
+  "category": "gun-violence",
+  "location": "Pittsburgh, Pennsylvania, USA",
+  "lives_lost": 11,
+  "description": "A gunman entered the Tree of Life synagogue in the Squirrel Hill neighborhood of Pittsburgh during Shabbat morning services and opened fire, killing 11 worshippers and wounding six others, including four police officers. The attacker, who expressed antisemitic views online, was arrested after a shootout with police. It was the deadliest antisemitic attack in US history, and the community later rebuilt and reopened the synagogue.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "AP News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2019-03-10",
+  "title": "Ethiopian Airlines Flight 302 crash",
+  "category": "industrial",
+  "location": "Bishoftu, Ethiopia",
+  "lives_lost": 157,
+  "description": "Ethiopian Airlines Flight 302, a Boeing 737 MAX 8 flying from Addis Ababa to Nairobi, crashed six minutes after takeoff on 10 March 2019, killing all 157 people on board, including 149 passengers and 8 crew from more than 30 countries. The crash bore close similarities to the Lion Air 737 MAX disaster five months earlier, and evidence of problems with the aircraft's automated MCAS flight-control system led authorities worldwide to ground the entire 737 MAX fleet for nearly two years.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2019-03-14",
+  "title": "Cyclone Idai",
+  "category": "natural-disaster",
+  "location": "Beira, Mozambique",
+  "lives_lost": 1593,
+  "description": "Cyclone Idai made landfall near the port city of Beira in central Mozambique on the night of 14-15 March 2019, bringing torrential rains and winds of up to 175 km/h that caused the Buzi and Pungwe rivers to burst their banks. More than 1,500 people died across Mozambique, Zimbabwe, Malawi and Madagascar, with the toll later confirmed at 1,593, and more than 2,000 people were reported missing. Hundreds of thousands were left stranded in floodwater, and the United Nations called it one of the worst weather-related disasters to hit the Southern Hemisphere.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2019-03-23",
+  "title": "Ogossagou massacre",
+  "category": "gun-violence",
+  "location": "Ogossagou, Mopti Region, Mali",
+  "lives_lost": 160,
+  "description": "On 23 March 2019, armed Dogon hunters attacked the Fulani herding village of Ogossagou in central Mali, killing 160 people, many of them women and children, and burning down the village. The massacre was one of the deadliest in Mali's recent history and followed a cycle of intercommunal violence between Dogon and Fulani communities that has been exploited by jihadist groups. Mali's government declared three days of national mourning and dissolved the local militia group accused of involvement.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "UN News"
+  ]
+ },
+ {
+  "date": "2019-04-21",
+  "title": "Sri Lanka Easter bombings",
+  "category": "terrorism",
+  "location": "Colombo, Sri Lanka",
+  "lives_lost": 269,
+  "description": "On Easter Sunday, 21 April 2019, a series of coordinated suicide bombings struck three churches and three luxury hotels in Colombo, Negombo and Batticaloa, with two further explosions occurring later in the day. A total of 269 people were killed, including dozens of foreign nationals, and more than 500 were injured, making it the deadliest act of violence in Sri Lanka since the end of the civil war. The Islamic State claimed responsibility, and investigations focused on the local group National Thowheeth Jama'ath and its links to international militant networks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2019-04-30",
+  "title": "Idlib offensive (Syria)",
+  "category": "war",
+  "location": "Idlib Governorate, Syria",
+  "lives_lost": 1043,
+  "description": "On 30 April 2019, the Syrian government, backed by Russian air power, launched a ground offensive against opposition-held areas of Idlib Governorate, the last major rebel stronghold. Between April and August, the Syrian Observatory for Human Rights recorded at least 1,043 civilian deaths and roughly 3,000 combatant deaths, while the United Nations reported more than 500 civilians killed in the first months and hundreds of thousands of people displaced, including repeated attacks on schools, hospitals and camps for displaced people.",
+  "sources": [
+   "Syrian Observatory for Human Rights",
+   "UN News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2019-12-09",
+  "title": "Whakaari/White Island eruption",
+  "category": "natural-disaster",
+  "location": "Whakaari/White Island, Bay of Plenty, New Zealand",
+  "lives_lost": 22,
+  "description": "New Zealand's Whakaari/White Island volcano erupted without warning on 9 December 2019 while dozens of tourists and guides were on the island, which had been a popular day-trip destination. Twenty-two people, mostly Australian and American tourists, died from the blast or from injuries sustained in the eruption, including two whose bodies were never recovered, and 25 survivors were treated for severe burns. Criminal charges were later brought against tour operators and the island's owner over safety failures in the management of visits to the active volcano.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "New Zealand Police"
+  ]
+ }
+]

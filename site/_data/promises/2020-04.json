@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Boris Johnson",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Reach 100,000 coronavirus tests per day by the end of April 2020",
+  "date_promised": "2020-04-02",
+  "due_date": "2020-04-30",
+  "status": "kept",
+  "description": "Facing criticism over testing capacity, Johnson and Health Secretary Hancock pledged 100,000 tests per day by end of April. The government announced 122,347 tests on April 30, hitting the target on the deadline day, though accuracy of the count was questioned.",
+  "evidence": [
+   "Government reported 122,347 tests on 2020-04-30",
+   "Target reached on the deadline date"
+  ],
+  "sources": [
+   "Downing Street press conference",
+   "NHS Test and Trace",
+   "BBC News"
+  ]
+ }
+]

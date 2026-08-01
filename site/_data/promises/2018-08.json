@@ -1,0 +1,19 @@
+[
+ {
+  "person": "LeBron James",
+  "role": "NBA player, Los Angeles Lakers",
+  "promise": "The I Promise School will open in Akron in fall 2018 — 'the most important thing I'll ever do' (as reported).",
+  "date_promised": "2018-07-30",
+  "due_date": "2018-08-31",
+  "status": "kept",
+  "description": "LeBron opened the I Promise School in his hometown Akron on July 30, 2018, pledged to keep it funded and to expand it. He added a second I Promise School in 2023 and a third in 2025, and has continued funding college scholarships for students.",
+  "evidence": [
+   "I Promise School opened 2018-07-30 for at-risk students",
+   "Expanded: second school opened Aug 2023, third Aug 2025; ongoing funding commitments"
+  ],
+  "sources": [
+   "ESPN / Akron Beacon Journal, 2018-07-30",
+   "ESPN, 2023-2025"
+  ]
+ }
+]

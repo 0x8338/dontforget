@@ -1,0 +1,270 @@
+[
+ {
+  "person": "Angela Merkel",
+  "role": "Chancellor of Germany",
+  "promise": "Complete Germany's nuclear phase-out by the end of 2022",
+  "date_promised": "2011-06-06",
+  "due_date": "2022-12-31",
+  "status": "partial",
+  "description": "After Fukushima, Merkel's government decided to shut all German nuclear plants by end of 2022. The last three reactors were not closed until April 15, 2023, after an energy-crisis delay of a few months — the phase-out was completed but past the deadline.",
+  "evidence": [
+   "Last three reactors shut on 2023-04-15",
+   "Phase-out completed, four months after the 2022 deadline"
+  ],
+  "sources": [
+   "Deutsche Welle",
+   "Reuters",
+   "German Federal Government"
+  ]
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Double farmers' income by 2022.",
+  "date_promised": "2016-02-29",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Target announced in Budget 2016 and repeatedly reaffirmed by PM Modi and his government. Required roughly 10.4% real annual income growth; actual growth was a few percent per year. NITI Aayog and a parliamentary panel said by 2021 the goal was not on track, and it was not met by the 2022 deadline.",
+  "evidence": [
+   "NITI Aayog and parliamentary panel assessments that the target was unachievable",
+   "Real farmer income growth far below the required ~10.4% per year",
+   "Government never claimed the target was met"
+  ],
+  "sources": [
+   "NITI Aayog",
+   "The Hindu",
+   "Mint"
+  ]
+ },
+ {
+  "person": "Joe Biden",
+  "role": "US President",
+  "promise": "Cancel $10,000 of federal student loan debt per borrower ($20,000 for Pell Grant recipients).",
+  "date_promised": "2020-10-15",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Campaign pledge to cancel $10,000 in student debt, delivered via executive action announced August 24, 2022 with discharges intended before January 2023. The Supreme Court struck it down in Biden v. Nebraska (June 30, 2023, 6-3), and no mass cancellation occurred.",
+  "evidence": [
+   "Aug 24, 2022 White House announcement of $10k/$20k cancellation",
+   "SCOTUS ruling in Biden v. Nebraska (June 30, 2023) blocked the program",
+   "Debt forgiveness never discharged before the ruling"
+  ],
+  "sources": [
+   "White House",
+   "SCOTUSblog",
+   "NPR"
+  ]
+ },
+ {
+  "person": "Gustavo Petro",
+  "role": "President of Colombia",
+  "promise": "We will not sign any new oil or coal exploration contracts",
+  "date_promised": "2022-08-07",
+  "due_date": "2022-12-31",
+  "status": "kept",
+  "description": "In his inaugural address Petro promised to halt new oil and coal exploration contracts to accelerate Colombia's energy transition. His government followed through: the national hydrocarbon agency stopped signing new exploration contracts, and no new ones were awarded during his presidency despite pressure from industry and falling oil revenues.",
+  "evidence": [
+   "ANH suspended new exploration contract rounds after Petro took office",
+   "No new exploration contracts signed through 2025-2026 despite fiscal pressure"
+  ],
+  "sources": [
+   "Reuters (August 2022 inauguration coverage)",
+   "El Tiempo (2023-2025 energy policy reporting)"
+  ]
+ },
+ {
+  "person": "Kristalina Georgieva",
+  "role": "Managing Director of the International Monetary Fund",
+  "promise": "We need to channel $100 billion of Special Drawing Rights from rich to vulnerable countries",
+  "date_promised": "2021-10-31",
+  "due_date": "2022-12-31",
+  "status": "partial",
+  "description": "After the IMF issued $650 billion in SDRs in August 2021, Georgieva pushed G20 leaders to on-lend $100 billion of unused SDRs from advanced economies to low-income and vulnerable countries, with 2022 as the working target. Pledges fell far short in 2022 (roughly $40 billion), and although commitments later reached about $80 billion, mostly via the new Resilience and Sustainability Trust, only a fraction was actually disbursed by the deadline.",
+  "evidence": [
+   "Only about $40 billion on-lending materialized by end-2022, well under the $100 billion goal",
+   "Pledges reached ~$80 billion by 2024 but disbursements lagged well behind"
+  ],
+  "sources": [
+   "IMF press conference / G20 Rome summit statements (October-November 2021)",
+   "Reuters / Financial Times (2022-2024 SDR rechanneling tracking)"
+  ]
+ },
+ {
+  "person": "Jack Dorsey",
+  "role": "Co-founder, Block (former CEO, Twitter)",
+  "promise": "Hyperinflation is going to happen soon in the US and the world, and it will hit the poorest hardest",
+  "date_promised": "2022-04-02",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Dorsey tweeted that hyperinflation would hit the US and the world 'soon'. US inflation instead peaked at 9.1% in June 2022 (the highest in 40 years but nowhere near hyperinflation) and fell to roughly 3% by mid-2023. No hyperinflation occurred in the US or globally, and Bitcoin — which Dorsey linked to inflation hedging — fell about 75% from its Nov 2021 peak across 2022.",
+  "evidence": [
+   "Tweet on @jack, April 2, 2022",
+   "US CPI peaked at 9.1% (June 2022) then declined to ~3% by mid-2023 — no hyperinflation",
+   "Global inflation also normalized through 2023"
+  ],
+  "sources": [
+   "Twitter",
+   "BLS"
+  ],
+  "source_urls": [
+   "https://twitter.com/jack/status/1510175549732569088",
+   "https://www.bls.gov/cpi/"
+  ]
+ },
+ {
+  "person": "Reed Hastings",
+  "role": "Netflix",
+  "promise": "'No advertising coming onto Netflix. Period.' (June 2015)",
+  "date_promised": "2015-06-30",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Netflix launched its ad-supported 'Basic with Ads' tier on Nov 3, 2022 while Hastings was still co-CEO, ending the ad-free stance.",
+  "evidence": [],
+  "sources": [
+   "Fast Company, 2015",
+   "NYT"
+  ],
+  "source_urls": [
+   null,
+   "https://www.nytimes.com/2022/10/13/business/media/netflix-ads-subscription.html"
+  ]
+ },
+ {
+  "person": "Marc Benioff",
+  "role": "Salesforce",
+  "promise": "Salesforce to reach $20 billion in revenue by fiscal 2022 (Dreamforce, Nov 2017)",
+  "date_promised": "2017-06-30",
+  "due_date": "2022-12-31",
+  "status": "kept",
+  "description": "Salesforce posted $26.5 billion revenue in FY2022, comfortably exceeding the $20 billion target ('comfortably crashed through' per diginomica).",
+  "evidence": [],
+  "sources": [
+   "Business Insider, Nov 2017",
+   "CNBC"
+  ],
+  "source_urls": [
+   null,
+   "https://www.cnbc.com/2018/02/28/salesforce-ceo-marc-benioff-bullish-on-20-billion-revenue-target.html"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "NVIDIA",
+  "promise": "NVIDIA's $40 billion acquisition of Arm (announced Sept 2020) expected to close by early 2022",
+  "date_promised": "2020-06-30",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "The deal was terminated on Feb 8, 2022 after failing to secure regulatory approval — one of the biggest failed deals in chip history.",
+  "evidence": [],
+  "sources": [
+   "New York Times",
+   "NVIDIA newsroom"
+  ],
+  "source_urls": [
+   null,
+   "https://nvidianews.nvidia.com/news/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited"
+  ]
+ },
+ {
+  "person": "Jason Kilar",
+  "role": "CEO, WarnerMedia",
+  "promise": "CNN+ will be the next generation of CNN — a premium streaming subscription service for news (as reported).",
+  "date_promised": "2021-11-17",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "WarnerMedia unveiled CNN+ as a major direct-to-consumer news subscription business, launched March 29, 2022. Warner Bros. Discovery shut it down 26 days later (April 21, 2022), writing off hundreds of millions; the service had roughly 150,000 subscribers at closure, and staff were laid off.",
+  "evidence": [
+   "CNN+ launched 2022-03-29 after $100M+ investment",
+   "WBD CEO David Zaslav ceased CNN+ operations on 2022-04-21; ~150K subscribers, product removed"
+  ],
+  "sources": [
+   "Variety, 2021-11-17",
+   "CNN Business, 2022-04-21",
+   "The New York Times, 2022-04-21"
+  ]
+ },
+ {
+  "person": "Angela Merkel (CDU/CSU/FDP government)",
+  "role": "Chancellor of Germany",
+  "promise": "Shut down all German nuclear power plants by 2022 (decision of 30 May 2011).",
+  "date_promised": "2011-05-30",
+  "due_date": "2022-12-31",
+  "status": "partial",
+  "description": "Post-Fukushima, Germany pledged to close all reactors by end-2022. The last three units (Emsland, Isar 2, Neckarwestheim 2) had to be extended through the winter due to the energy crisis and were finally shut down on 15 April 2023 - ~3.5 months past the statutory deadline.",
+  "evidence": [
+   "Wikipedia Nuclear power in Germany: final three plants 'shut down on 15 April 2023', extended by Scholz decree in late 2022",
+   "Eight of seventeen reactors had closed by August 2011; the phase-out was broadly achieved with a short delay"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Nuclear_power_in_Germany",
+   "https://www.reuters.com/business/energy/germany-shuts-down-last-nuclear-power-plants-2023-04-15/"
+  ]
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "India will install 175 GW of renewable energy by 2022, including 100 GW of solar.",
+  "date_promised": "2015-11-30",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Modi announced the 175 GW-by-2022 goal (100 GW solar) at COP21 and it became the JNNSM target. India reached only ~60-67 GW of solar by end-2022 (the 100 GW mark was hit only on 31 January 2025) and ~120 GW of total renewables - both targets missed by wide margins.",
+  "evidence": [
+   "Wikipedia Solar power in India: 66,780 MW solar by 31 March 2023 (~60 GW at end-2022) vs 100 GW; 'widely missed by 40,000 MW shortfall'",
+   "100 GW solar reached 31 January 2025 - over two years late; rooftop solar (40 GW of the target) badly underperformed",
+   "Total renewables ~120 GW at end-2022 vs 175 GW target"
+  ],
+  "sources": [
+   "Wikipedia",
+   "MNRE (India)"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Solar_power_in_India",
+   "https://mnre.gov.in/"
+  ]
+ },
+ {
+  "person": "G7 leaders (Carbis Bay Summit)",
+  "role": "G7 member states",
+  "promise": "Donate 1 billion COVID-19 vaccine doses to poorer countries by the end of 2022",
+  "date_promised": "2021-06-13",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "At the June 2021 G7 summit in Carbis Bay, leaders pledged to share 1 billion COVID-19 vaccine doses with low- and middle-income countries by the end of 2022 (870 million new doses plus earlier pledges), including 500 million from the United States. Delivery fell far short: Oxfam and the People's Vaccine Alliance found that less than half (49%) of the 2.1 billion doses promised globally by G7 countries had been delivered by June 2022, and the UK had delivered only 39% of its 100 million pledge by its own deadline.",
+  "evidence": [
+   "Oxfam/People's Vaccine Alliance: only 49% of promised G7 donations delivered by June 2022",
+   "UK delivered 39% of its pledged 100 million doses by its end-of-month deadline",
+   "Institute for Global Change found less than a third of G7 pledges reached Africa by mid-2022"
+  ],
+  "sources": [
+   "BBC News",
+   "Oxfam / People's Vaccine Alliance",
+   "UK Parliament",
+   "Institute for Global Change"
+  ]
+ },
+ {
+  "person": "Trevor Milton",
+  "role": "Founder and CEO, Nikola Corporation",
+  "promise": "Nikola Badger pickup would enter production in 2022 or earlier, with the truck built from the ground up by Nikola",
+  "date_promised": "2020-06-09",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "Milton repeatedly said the Badger pickup, announced alongside a partnership with General Motors, would reach production in 2022 or earlier and that Nikola had engineered the vehicle itself. Federal prosecutors later alleged the statements were false; the GM partnership collapsed in late 2020, the Badger was cancelled, and Nikola never produced the truck. Milton was convicted of fraud in 2022.",
+  "evidence": [
+   "US DOJ indictment (July 2021) alleged false statements about the Badger and its reservations",
+   "GM deal collapsed November 2020; Badger cancelled; no production vehicles ever built"
+  ],
+  "sources": [
+   "US DOJ",
+   "Reuters via Daily Mail (2020-06-09)"
+  ],
+  "source_urls": [
+   "https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)",
+   null
+  ]
+ }
+]

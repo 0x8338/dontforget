@@ -1,0 +1,1289 @@
+[
+ {
+  "date": "2010-01-12",
+  "title": "Haiti Earthquake",
+  "category": "natural-disaster",
+  "location": "Port-au-Prince, Haiti",
+  "lives_lost": 220000,
+  "description": "A magnitude 7.0 earthquake struck near Port-au-Prince, devastating the capital and surrounding areas. An estimated 220,000 people were killed and over 300,000 injured.",
+  "sources": [
+   "US Geological Survey",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2011-03-11",
+  "title": "Tohoku earthquake, tsunami and Fukushima disaster",
+  "category": "natural-disaster",
+  "location": "Tohoku, Japan",
+  "lives_lost": 19759,
+  "description": "A magnitude 9.0 earthquake struck off the Pacific coast of Japan on March 11, 2011, generating a massive tsunami that inundated the northeastern coastline. Waves up to 40 metres high destroyed entire towns in Iwate, Miyagi and Fukushima prefectures, and the tsunami caused a nuclear meltdown at the Fukushima Daiichi power plant. Japan's National Police Agency final figures record 19,759 deaths and 2,553 missing, with most victims drowned by the tsunami; the majority of the deceased were over 60 years old.",
+  "sources": [
+   "Japan National Police Agency (via Reuters)",
+   "BBC News",
+   "PreventionWeb"
+  ]
+ },
+ {
+  "date": "2011-03-15",
+  "title": "Syrian uprising and government crackdown",
+  "category": "war",
+  "location": "Syria",
+  "lives_lost": 5000,
+  "description": "Pro-democracy protests inspired by the Arab Spring began in the city of Daraa in mid-March 2011 and spread across Syria, where they were met with a violent government crackdown involving live fire, tanks, mass arrests and torture. The unrest progressively militarized into an armed insurgency as army defectors formed the Free Syrian Army in July. By December 13, 2011, UN High Commissioner for Human Rights Navi Pillay reported that more than 5,000 people, including over 300 children, had been killed in the uprising.",
+  "sources": [
+   "United Nations (OHCHR)",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2013-04-15",
+  "title": "Boston Marathon Bombing",
+  "category": "terrorism",
+  "location": "Boston, Massachusetts, United States",
+  "lives_lost": 3,
+  "description": "Two pressure-cooker bombs exploded near the finish line of the Boston Marathon, killing 3 people and injuring 264. An ensuing manhunt paralyzed the Boston area for days.",
+  "sources": [
+   "The Boston Globe",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2013-04-24",
+  "title": "Rana Plaza factory collapse",
+  "category": "industrial",
+  "location": "Savar, Bangladesh",
+  "lives_lost": 1134,
+  "description": "On April 24, 2013, the eight-story Rana Plaza commercial building in Savar, near Dhaka, Bangladesh, collapsed, killing 1,134 people and injuring about 2,500 in the deadliest garment-factory disaster in history. Thousands of garment workers had been ordered to return to work despite visible cracks in the building the day before; the collapse prompted international scrutiny and reform agreements within the apparel industry's supply chain.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-06-12",
+  "title": "Camp Speicher Massacre",
+  "category": "war",
+  "location": "Tikrit, Iraq",
+  "lives_lost": 1700,
+  "description": "On 12 June 2014, days after capturing the city of Tikrit, fighters of the Islamic State group captured and systematically executed hundreds of unarmed Iraqi Air Force cadets from Camp Speicher military base. Iraqi authorities put the death toll at about 1,700, while human rights investigators documented at least several hundred victims in mass graves. The United Nations described the massacre as a war crime and possible crime against humanity.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-07-31",
+  "title": "Kaohsiung Gas Explosions",
+  "category": "industrial",
+  "location": "Kaohsiung, Taiwan",
+  "lives_lost": 32,
+  "description": "A series of underground gas explosions ripped through streets in Kaohsiung, killing 32 people and injuring over 300. The blasts were caused by leaking propylene gas in sewer systems.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2012-07-07",
+  "title": "Krasnodar Krai flash floods",
+  "category": "natural-disaster",
+  "location": "Krymsk, Krasnodar Krai, Russia",
+  "lives_lost": 171,
+  "description": "Overnight on 6-7 July 2012, torrential rain triggered flash floods in the Krasnodar region of southern Russia. The flood wave hit the town of Krymsk around 2 a.m. while most residents slept, killing 171 people, the great majority in Krymsk, with additional deaths in Gelendzhik and Novorossiysk.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "RT",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2011-07-22",
+  "title": "Norway terror attacks (Oslo bombing and Utoya massacre)",
+  "category": "terrorism",
+  "location": "Oslo and Utoya, Norway",
+  "lives_lost": 77,
+  "description": "On July 22, 2011, a car bomb exploded outside government buildings in Oslo, killing 8 people, and roughly two hours later a gunman opened fire at a summer camp on Utoya island run by the governing Labour Party's youth wing, killing 69 people, most of them teenagers. The perpetrator, Anders Behring Breivik, was arrested on the island and later convicted and sentenced to 21 years in an extended prison sentence. With 77 dead, it was the deadliest attack in Norway since World War II.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2012-09-11",
+  "title": "Ali Enterprises factory fire",
+  "category": "industrial",
+  "location": "Baldia Town, Karachi, Pakistan",
+  "lives_lost": 289,
+  "description": "On the night of 11 September 2012, a fire swept through the Ali Enterprises garment factory in Baldia Town, Karachi, killing 289 workers, with more than 600 injured. Locked and barred exit doors and unsecured windows trapped workers on the upper floors; most victims suffocated. Some later official reports revised the toll to roughly 255-260.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "The Express Tribune"
+  ]
+ },
+ {
+  "date": "2012-10-01",
+  "title": "Nigeria floods — 2012",
+  "category": "natural-disaster",
+  "location": "Nigeria (30 of 36 states affected)",
+  "lives_lost": 363,
+  "description": "From July to October 2012, the worst flooding in Nigeria in four decades submerged large areas of the country, peaking in October. The National Emergency Management Agency reported 363 deaths and over 2.1 million people displaced, with 30 of Nigeria's 36 states affected; Kogi and Benue were the hardest hit, and more than 150,000 hectares of farmland were destroyed.",
+  "sources": [
+   "Nigeria National Emergency Management Agency (NEMA)",
+   "BBC News",
+   "Reuters",
+   "AFP"
+  ]
+ },
+ {
+  "date": "2012-12-14",
+  "title": "Sandy Hook Elementary School shooting",
+  "category": "gun-violence",
+  "location": "Newtown, Connecticut, United States",
+  "lives_lost": 27,
+  "description": "On 14 December 2012, a gunman killed 20 children aged six to seven and 6 adult staff members at Sandy Hook Elementary School in Newtown, Connecticut, after fatally shooting his mother at home, then killed himself — 28 total deaths including the shooter. It was the deadliest mass shooting at a US elementary school and prompted a national debate on gun control.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2011-02-22",
+  "title": "Christchurch earthquake",
+  "category": "natural-disaster",
+  "location": "Christchurch, New Zealand",
+  "lives_lost": 185,
+  "description": "A magnitude 6.3 earthquake struck near Christchurch, New Zealand's second-largest city, on February 22, 2011, at shallow depth. It killed 185 people and injured more than 7,000, with most fatalities caused by the collapse of the CTV building and other structures in the central business district. The quake destroyed much of the city centre, damaged around 100,000 buildings, and caused an estimated NZ$40 billion in economic losses. It was the deadliest natural disaster in New Zealand since 1931.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-03-01",
+  "title": "Kunming Railway Station Attack",
+  "category": "terrorism",
+  "location": "Kunming, China",
+  "lives_lost": 31,
+  "description": "On 1 March 2014, eight knife-wielding attackers stormed the Kunming Railway Station in Yunnan province, China, stabbing passengers in a coordinated assault. Thirty-one people were killed and more than 140 injured before police shot four of the attackers dead. Chinese authorities attributed the attack to Uyghur separatists from Xinjiang.",
+  "sources": [
+   "BBC News",
+   "Xinhua",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-05-13",
+  "title": "Soma Coal Mine Disaster",
+  "category": "industrial",
+  "location": "Soma, Turkey",
+  "lives_lost": 301,
+  "description": "An underground coal mine in Soma, Manisa Province, Turkey, caught fire and filled with toxic gas on 13 May 2014 after a power failure and fire in a transformer. The electrical outage stranded hundreds of miners underground, and 301 miners died, making it the worst mining disaster in Turkish history. The accident prompted widespread criticism of workplace safety rules and charges against mine operator officials.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2013-09-18",
+  "title": "Benisheik massacre",
+  "category": "terrorism",
+  "location": "Benisheik, Nigeria",
+  "lives_lost": 161,
+  "description": "On September 18, 2013, Boko Haram militants attacked Benisheik in Borno State, northeastern Nigeria, shooting and setting fire to vehicles along the highway and raiding the town, killing about 161 people, including travelers, police officers, and soldiers (some reports cited at least 143). It was among the deadliest single attacks by the insurgency in 2013, and the group claimed responsibility.",
+  "sources": [
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2011-09-18",
+  "title": "Sikkim earthquake",
+  "category": "natural-disaster",
+  "location": "Sikkim, India",
+  "lives_lost": 111,
+  "description": "A magnitude 6.9 earthquake struck on September 18, 2011 near the Nepal-Sikkim border in northeastern India, with the epicentre in the Kanchenjunga Conservation Area. At least 111 people were killed, including 97 in India (mostly in Sikkim), 7 in China's Tibet region, 6 in Nepal and 1 in Bhutan, and hundreds were injured. The quake, felt across northern India, Nepal, Bhutan, Bangladesh and Tibet, triggered landslides and rockfalls that cut off remote areas and damaged roughly 43,000 houses in Sikkim.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2011-10-23",
+  "title": "Van earthquake",
+  "category": "natural-disaster",
+  "location": "Van, Turkey",
+  "lives_lost": 604,
+  "description": "A magnitude 7.1 earthquake struck eastern Turkey near the city of Van on October 23, 2011, collapsing poorly constructed masonry and adobe buildings, particularly in the town of Ercis. It killed 604 people, injured about 4,152, and left roughly 60,000 people homeless, with 11,232 buildings damaged. A magnitude 5.7 aftershock on November 9 killed about 40 additional people, bringing the earthquake sequence's combined toll to approximately 644.",
+  "sources": [
+   "AFAD (Disaster and Emergency Management Presidency of Turkey)",
+   "EERI Reconnaissance Report",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2014-11-28",
+  "title": "Kano Central Mosque Attack",
+  "category": "terrorism",
+  "location": "Kano, Nigeria",
+  "lives_lost": 120,
+  "description": "Suicide bombers attacked the Central Mosque of Kano in northern Nigeria on 28 November 2014 during Friday prayers. The first bomb exploded during the imam's sermon, and gunmen opened fire on worshippers fleeing the blast, killing around 120 people. The Boko Haram insurgency was widely held responsible for the attack on the mosque of the Emir of Kano.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2010-10-20",
+  "title": "Haiti cholera outbreak",
+  "category": "natural-disaster",
+  "location": "Haiti",
+  "lives_lost": 9789,
+  "description": "A cholera epidemic, the largest in recent history, broke out in the Artibonite region of Haiti in October 2010, 10 months after the January earthquake, and spread nationwide within weeks. The World Health Organization and U.S. CDC recorded about 820,000 cases and 9,789 deaths through the epidemic's successive waves ending in 2019, with experts estimating the true toll was higher. Scientific studies traced the outbreak's origin to the introduction of cholera-contaminated waste from a U.N. peacekeepers' camp, and the United Nations acknowledged a role in the outbreak in 2016.",
+  "sources": [
+   "World Health Organization (WHO)",
+   "U.S. Centers for Disease Control and Prevention (CDC)",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2010-08-24",
+  "title": "San Fernando migrant massacre",
+  "category": "gun-violence",
+  "location": "San Fernando, Tamaulipas, Mexico",
+  "lives_lost": 72,
+  "description": "Mexican marines discovered the bodies of 72 Central and South American migrants, 58 men and 14 women, bound, blindfolded, and shot dead inside a grain barn on a ranch near San Fernando, Tamaulipas, on August 24, 2010. The sole survivor, an Ecuadorean who escaped by feigning death, told investigators that members of the Los Zetas drug cartel killed the migrants after they refused to be forcibly recruited to work for the gang. The massacre was the largest single mass killing of the Mexican drug war at the time and drew international condemnation, with U.N. human rights chief Navi Pillay demanding an end to impunity.",
+  "sources": [
+   "The New York Times",
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2010-02-27",
+  "title": "Chile earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Maule Region, Concepción, Chile",
+  "lives_lost": 525,
+  "description": "A magnitude 8.8 earthquake, one of the strongest ever recorded, struck off the coast of central Chile on February 27, 2010, generating a tsunami with waves up to 24 meters that destroyed coastal towns such as Dichato and Constitución. Authorities confirmed 525 deaths and 25 missing, about 800,000 people displaced, and roughly 370,000 homes damaged. The quake triggered over 1,000 landslides and a nationwide blackout affecting 93 percent of the population; the death toll was comparatively low due to Chile's stringent building codes adopted after the 1960 Valdivia earthquake.",
+  "sources": [
+   "United States Geological Survey (USGS)",
+   "OCHA ReliefWeb",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2013-04-04",
+  "title": "Thane building collapse",
+  "category": "industrial",
+  "location": "Thane, India",
+  "lives_lost": 74,
+  "description": "On April 4, 2013, an illegally constructed seven-story residential building under construction collapsed in Mumbra, in Thane district near Mumbai, India, killing 74 people and injuring more than 60, many of them construction workers and their families sleeping at the site. The building had been erected with substandard materials on unapproved land, and its collapse was among India's deadliest building failures in years.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2012-01-05",
+  "title": "Iraq insurgency attacks — 2012",
+  "category": "war",
+  "location": "Iraq (nationwide)",
+  "lives_lost": 4600,
+  "description": "Violence surged across Iraq in 2012 as Sunni insurgent groups intensified attacks, particularly bombings against Shiite civilians. Iraq Body Count documented 4,622 violent civilian deaths from about 2,100 incidents, the first year-over-year rise since 2009, with major coordinated bombings in January, February, March, and June each killing 50-90 people in a single day.",
+  "sources": [
+   "Iraq Body Count",
+   "Reuters",
+   "BBC News",
+   "United Nations"
+  ]
+ },
+ {
+  "date": "2014-07-08",
+  "title": "Gaza War (Operation Protective Edge)",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 2251,
+  "description": "Israel and Hamas fought a 50-day conflict in the Gaza Strip from 8 July to 26 August 2014. United Nations figures recorded 2,251 Palestinian deaths, including 1,462 civilians and 540 children, alongside 66 Israeli soldiers, six Israeli civilians and one foreign national. More than 11,000 people were injured and hundreds of thousands displaced by airstrikes, rocket fire and ground operations.",
+  "sources": [
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "BBC News",
+   "Human Rights Watch"
+  ]
+ },
+ {
+  "date": "2012-01-01",
+  "title": "Afghanistan conflict — 2012",
+  "category": "war",
+  "location": "Afghanistan (nationwide)",
+  "lives_lost": 2769,
+  "description": "UNAMA documented 2,769 civilian deaths and 4,821 injuries in Afghanistan during 2012, making it the first year of decline since UN casualty tracking began, though the toll remained among the highest of the war; several thousand Afghan security forces, international troops (about 400 coalition deaths) and insurgents were also killed. 2012 saw a record spike in insider 'green-on-blue' attacks on coalition personnel.",
+  "sources": [
+   "UNAMA Annual Report 2012",
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2014-07-24",
+  "title": "Air Algérie Flight 5017 Crash",
+  "category": "industrial",
+  "location": "Gossi, Mali",
+  "lives_lost": 116,
+  "description": "Air Algérie Flight 5017, an MD-83 flying from Ouagadougou to Algiers, crashed in the Gossi region of Mali on 24 July 2014 about an hour after takeoff. All 110 passengers and six crew members were killed, making it the deadliest accident in the airline's history. French investigators attributed the crash to ice accretion that triggered an aerodynamic stall.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "France 24"
+  ]
+ },
+ {
+  "date": "2013-09-09",
+  "title": "Zamboanga City siege",
+  "category": "war",
+  "location": "Zamboanga City, Philippines",
+  "lives_lost": 200,
+  "description": "From September 9 to 28, 2013, members of a faction of the Moro National Liberation Front (MNLF) seized coastal districts of Zamboanga City in the Philippines, holding dozens of residents hostage in a three-week standoff that ended in military operations. More than 200 people were killed, mostly MNLF fighters along with 20 soldiers, 5 policemen, and 13 civilians, and over 119,000 residents were displaced.",
+  "sources": [
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2012-05-25",
+  "title": "Houla massacre",
+  "category": "war",
+  "location": "Taldou, Homs Governorate, Syria",
+  "lives_lost": 108,
+  "description": "On 25 May 2012, during the Syrian civil war, at least 108 people were killed in the Houla area, including 49 children and 34 women. UN observers determined that most victims were summarily executed in two separate incidents rather than killed by artillery fire; international reaction led to the expulsion of Syrian diplomats from several countries.",
+  "sources": [
+   "United Nations",
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2014-09-26",
+  "title": "Iguala Mass Kidnapping of 43 Students",
+  "category": "gun-violence",
+  "location": "Iguala, Mexico",
+  "lives_lost": 43,
+  "description": "On 26 September 2014, municipal police in Iguala, Guerrero, Mexico, confronted students from the Ayotzinapa Rural Teachers' College who had commandeered buses to travel to a protest. Six people were killed and 43 students were abducted and have never been found; investigators concluded police handed them to a drug cartel, which killed them and burned most of the remains. The case triggered a national political crisis in Mexico.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-07-11",
+  "title": "Kampala World Cup bombings",
+  "category": "terrorism",
+  "location": "Kampala, Uganda",
+  "lives_lost": 74,
+  "description": "Three suicide bombs exploded in Kampala on July 11, 2010, while crowds watched the FIFA World Cup final, killing 74 people and injuring over 70. Two devices were detonated at the Kyadondo Rugby Club and one at the Ethiopian Village restaurant. The Somali militant group Al-Shabaab claimed responsibility, stating the attacks were retaliation for Uganda's participation in the African Union peacekeeping mission in Somalia (AMISOM), marking the first major Al-Shabaab attack outside Somalia.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "United Nations"
+  ]
+ },
+ {
+  "date": "2014-07-15",
+  "title": "Typhoon Rammasun",
+  "category": "natural-disaster",
+  "location": "Philippines, China and Vietnam",
+  "lives_lost": 190,
+  "description": "Typhoon Rammasun, the strongest typhoon to hit the Philippines in decades, made landfall on Luzon in mid-July 2014 before crossing southern China and northern Vietnam. Around 190 people were killed across the three countries, more than a hundred of them in the Philippines, and hundreds of thousands of homes were damaged or destroyed. It was among the deadliest typhoons of the year.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Rappler"
+  ]
+ },
+ {
+  "date": "2014-07-17",
+  "title": "Malaysia Airlines Flight MH17 Shootdown",
+  "category": "war",
+  "location": "Donetsk Oblast, Ukraine",
+  "lives_lost": 298,
+  "description": "Malaysia Airlines Flight MH17 was shot down over eastern Ukraine on 17 July 2014, killing all 298 passengers and crew, including 80 children. The Dutch-led Joint Investigation Team concluded the Boeing 777 was struck by a Russian-made Buk surface-to-air missile fired from territory controlled by pro-Russian separatists. A Dutch court later convicted three men for their roles in the downing.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Dutch Safety Board"
+  ]
+ },
+ {
+  "date": "2011-01-08",
+  "title": "Tucson mass shooting targeting Rep. Gabrielle Giffords",
+  "category": "gun-violence",
+  "location": "Tucson, Arizona, United States",
+  "lives_lost": 6,
+  "description": "On January 8, 2011, Jared Lee Loughner opened fire at a constituent event held by U.S. Representative Gabrielle Giffords in a Safeway parking lot in Tucson, Arizona. Six people were killed, including federal judge John Roll and nine-year-old Christina Taylor Green, and 13 others were wounded, including Giffords, who was shot in the head and survived. Loughner was subdued by bystanders and arrested at the scene; he pleaded guilty to 19 federal charges in 2012 and was sentenced to life in prison without parole.",
+  "sources": [
+   "Associated Press",
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2011-01-24",
+  "title": "Domodedovo International Airport suicide bombing",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 37,
+  "description": "On January 24, 2011, a suicide bomber detonated a shrapnel-packed device in the international arrivals hall of Domodedovo Airport, Moscow's busiest airport, killing 37 people and injuring more than 170. The bomber, Magomed Yevloyev, a 20-year-old from Ingushetia, was linked to the Caucasus Emirate insurgent network led by Doku Umarov, who claimed responsibility. Victims included citizens of Russia, Britain, Germany, Tajikistan, Uzbekistan and other countries. In 2013, four accomplices were sentenced to prison terms, including three life sentences.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "TASS"
+  ]
+ },
+ {
+  "date": "2011-01-25",
+  "title": "Egyptian Revolution of 2011",
+  "category": "war",
+  "location": "Cairo, Egypt",
+  "lives_lost": 846,
+  "description": "Mass protests against the rule of President Hosni Mubarak began across Egypt on January 25, 2011, and continued for 18 days until Mubarak's resignation on February 11. Security forces used live ammunition, tear gas and beatings against demonstrators, primarily in Cairo's Tahrir Square and other cities. Egypt's official fact-finding commission reported that 846 people were killed and 6,467 injured during the uprising, which it determined involved unlawful police use of lethal force against protesters.",
+  "sources": [
+   "Egyptian National Fact-Finding Commission",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2011-02-15",
+  "title": "Libyan civil war and NATO intervention",
+  "category": "war",
+  "location": "Libya",
+  "lives_lost": 25000,
+  "description": "Anti-government protests erupted in Benghazi on February 15, 2011, and escalated into a nationwide armed rebellion against the rule of Muammar Gaddafi. A UN-mandated NATO bombing campaign began in March, and fighting continued until the fall of Tripoli in August and Gaddafi's capture and killing on October 20, 2011. Estimates of the conflict's death toll range from about 20,000 to 30,000; a 2013 statistical study published by The New York Times estimated approximately 25,000 killed during the eight-month conflict, including thousands of civilians.",
+  "sources": [
+   "The New York Times",
+   "United Nations (OHCHR)",
+   "Human Rights Watch"
+  ]
+ },
+ {
+  "date": "2014-04-16",
+  "title": "Sewol Ferry Sinking",
+  "category": "industrial",
+  "location": "Jindo, South Korea",
+  "lives_lost": 304,
+  "description": "The South Korean ferry Sewol capsized and sank off the coast of Jindo on 16 April 2014 while carrying 476 people, most of them Danwon High School students on a field trip. The vessel listed sharply and sank within hours; 304 people died, including 250 students, while 172 survived. Overloading, improperly secured cargo and crew failures were blamed, leading to criminal convictions of the captain, crew and operator.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2011-04-16",
+  "title": "Nigeria post-election violence",
+  "category": "war",
+  "location": "Northern Nigeria",
+  "lives_lost": 800,
+  "description": "Following the April 16, 2011 presidential election, in which incumbent Goodluck Jonathan defeated northern candidate Muhammadu Buhari, riots and sectarian violence broke out across at least 12 northern states, including Kaduna, Kano, Bauchi and Borno. Human Rights Watch documented that more than 800 people were killed over roughly three days, with churches, mosques, homes and shops burned and more than 65,000 people displaced. Security forces were also documented as having unlawfully killed unarmed residents in several incidents.",
+  "sources": [
+   "Human Rights Watch",
+   "Reuters",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2011-04-27",
+  "title": "2011 Super Outbreak tornadoes",
+  "category": "natural-disaster",
+  "location": "Southeastern United States",
+  "lives_lost": 324,
+  "description": "Between April 25 and 28, 2011, a record outbreak of 360 tornadoes struck 21 US states from Texas to New York, with 216 tornadoes touching down on April 27 alone. The outbreak killed 324 people across six states, including 238 in Alabama, and injured more than 3,100; four tornadoes were rated EF5. The deadliest tornado, the Hackleburg-Phil Campbell EF5 in Alabama and Tennessee, killed 72 people. It was the deadliest US tornado outbreak since 1936, with damages exceeding US$10 billion.",
+  "sources": [
+   "NOAA/NWS",
+   "The Weather Channel",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2011-05-22",
+  "title": "Joplin tornado",
+  "category": "natural-disaster",
+  "location": "Joplin, Missouri, United States",
+  "lives_lost": 158,
+  "description": "On the evening of May 22, 2011, a violent EF5 tornado, the first to strike Missouri since 1957, carved a path roughly one mile wide and 22 miles long directly through the city of Joplin. It killed 158 people directly (with several additional indirect deaths), injured more than 1,000, destroyed over 4,000 homes and severely damaged St. John's Regional Medical Center. It was the deadliest single US tornado since 1947 and the costliest on record at the time, with damage estimated at US$2.8 billion.",
+  "sources": [
+   "NOAA/NWS Service Assessment",
+   "BBC News",
+   "The Weather Channel"
+  ]
+ },
+ {
+  "date": "2010-05-22",
+  "title": "Air India Express Flight 812 crash",
+  "category": "industrial",
+  "location": "Mangalore, India",
+  "lives_lost": 158,
+  "description": "Air India Express Flight 812, a Boeing 737-800 flying from Dubai to Mangalore, overshot the runway while landing on May 22, 2010, plunged down a gorge, and caught fire, killing 158 of the 166 people on board, in the deadliest aviation accident in India's history. The aircraft broke into pieces before sliding down the embankment into a valley near the end of the tabletop runway at Mangalore International Airport. India's Directorate General of Civil Aviation investigation cited pilot error in landing short of the designated touchdown zone.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Directorate General of Civil Aviation (DGCA), India"
+  ]
+ },
+ {
+  "date": "2011-07-13",
+  "title": "Mumbai triple bombings",
+  "category": "terrorism",
+  "location": "Mumbai, India",
+  "lives_lost": 26,
+  "description": "On July 13, 2011, three improvised explosive devices hidden on a parked motorcycle, in a tiffin box and on an electric pole exploded within 11 minutes at crowded commercial locations in Mumbai: Zaveri Bazaar, Opera House and Dadar. The blasts killed 26 people and injured more than 130 during evening rush hour. No group claimed responsibility initially; investigations linked the attack to the Indian Mujahideen network, and authorities later named co-founder Yasin Bhatkal as the alleged mastermind.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Times of India"
+  ]
+ },
+ {
+  "date": "2012-07-20",
+  "title": "Syrian civil war — 2012 escalation",
+  "category": "war",
+  "location": "Syria (nationwide)",
+  "lives_lost": 50000,
+  "description": "The Syrian civil war escalated dramatically in 2012, from protests to full-scale urban warfare including the Battle of Aleppo from July. Monitors estimated about 50,000 people were killed during the year alone (SOHR's year-by-year count was 52,916, including 22,663 civilians), and the UN reported more than 60,000 cumulative deaths since March 2011 by early 2013; massacres such as Houla and Daraya and indiscriminate shelling of civilian areas accounted for a large share of casualties.",
+  "sources": [
+   "United Nations",
+   "Syrian Observatory for Human Rights",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2012-07-20",
+  "title": "Aurora theater shooting",
+  "category": "gun-violence",
+  "location": "Aurora, Colorado, United States",
+  "lives_lost": 12,
+  "description": "On 20 July 2012, during a midnight premiere screening of 'The Dark Knight Rises' at a Cinemark theater in Aurora, Colorado, a gunman opened fire, killing 12 people and wounding 70 others (58 by gunfire). The shooter, James Holmes, was convicted and sentenced to 12 consecutive life terms. It was the deadliest mass shooting in the US at that time.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2011-07-20",
+  "title": "Horn of Africa famine in Somalia",
+  "category": "food-crisis",
+  "location": "Southern Somalia",
+  "lives_lost": 258000,
+  "description": "The UN declared famine in July 2011 in parts of southern Somalia following the Horn of Africa's worst drought in 60 years, as failed harvests, food price spikes, and the al-Shabaab insurgency's block on aid deliveries combined with underfunded relief efforts. A joint FAO/FEWS NET study published in May 2013 estimated that approximately 258,000 people died from famine and severe food insecurity in Somalia between October 2010 and April 2012, including about 133,000 children under five, with peak death rates of 30,000 per month between May and August 2011. The famine was declared over in February 2012.",
+  "sources": [
+   "FAO/FEWS NET",
+   "United Nations",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2011-07-25",
+  "title": "2011 Thailand floods",
+  "category": "natural-disaster",
+  "location": "Thailand",
+  "lives_lost": 815,
+  "description": "Torrential monsoon rains from late July 2011 triggered the worst flooding in Thailand in more than half a century, affecting 65 of the country's 77 provinces and about 13.6 million people over more than five months. Official figures recorded 815 deaths and three missing. Floodwaters inundated Bangkok's outskirts and submerged large parts of the central plains, destroying millions of acres of crops and crippling the country's industrial estates, including hard-disk drive and automobile factories, with total economic damages estimated at around US$45 billion.",
+  "sources": [
+   "Thai Department of Disaster Prevention and Mitigation",
+   "World Bank",
+   "Bangkok Post"
+  ]
+ },
+ {
+  "date": "2013-08-14",
+  "title": "Rabaa massacre",
+  "category": "gun-violence",
+  "location": "Cairo, Egypt",
+  "lives_lost": 1000,
+  "description": "On August 14, 2013, Egyptian security forces violently dispersed sit-in camps of supporters of deposed President Mohamed Morsi at Rabaa al-Adawiya and al-Nahda squares in Cairo. At least 817 people and more than 1,000 by some counts were killed (Human Rights Watch documented 904-1,000+, while the government reported 638), including four journalists; HRW called it one of the largest single-day killings of demonstrators in recent history.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2011-08-14",
+  "title": "2011 Pakistan monsoon floods",
+  "category": "natural-disaster",
+  "location": "Sindh, Pakistan",
+  "lives_lost": 520,
+  "description": "Heavy monsoon rains from mid-August to mid-September 2011 caused severe flooding across southern Pakistan, with the province of Sindh the hardest hit, followed by Balochistan. The official damage assessment recorded 520 deaths (497 in Sindh and 23 in Balochistan), about 9.6 million people affected, and more than 1.5 million homes damaged. The floods destroyed over a million acres of crops and livestock, compounding the effects of the record 2010 floods, and forced roughly 744,000 people to be displaced.",
+  "sources": [
+   "NDMA Pakistan",
+   "World Bank/ADB Assessment",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2011-11-10",
+  "title": "Shizong coal mine gas outburst",
+  "category": "industrial",
+  "location": "Shizong, Yunnan, China",
+  "lives_lost": 43,
+  "description": "On the morning of November 10, 2011, a methane gas outburst struck the Sizhuang coal mine in Shizong County, Yunnan Province, China, trapping 43 miners working underground. Rescue teams recovered 35 bodies, with 8 miners never found; the official toll is 43 trapped miners. The privately operated mine had its safety production license revoked in 2010 and had been ordered to stop production, and China's work safety administration said safety monitoring was very poor. Four mine bosses and four local officials were detained, and the accident was the deadliest in Yunnan in 15 years.",
+  "sources": [
+   "BBC News",
+   "China Daily",
+   "Xinhua"
+  ]
+ },
+ {
+  "date": "2014-12-16",
+  "title": "Army Public School Attack, Peshawar",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 141,
+  "description": "On 16 December 2014, nine gunmen from the Pakistani Taliban (Tehrik-i-Taliban Pakistan) stormed the Army Public School in Peshawar, going classroom to classroom and firing on students. The siege lasted about eight hours and killed 141 people, including 132 schoolchildren, with around 150 injured. It was one of the deadliest terrorist attacks in Pakistan's history and prompted a nationwide military crackdown on militant groups.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2011-12-16",
+  "title": "Typhoon Washi (Sendong) flash floods",
+  "category": "natural-disaster",
+  "location": "Cagayan de Oro and Iligan, Philippines",
+  "lives_lost": 1268,
+  "description": "Tropical Storm Washi (locally named Sendong) made landfall on Mindanao on the night of December 16-17, 2011, dumping up to 20 cm of rain in 24 hours and triggering flash floods that swept away thousands of sleeping residents in the riverside cities of Cagayan de Oro and Iligan. The Philippines' NDRRMC final count recorded 1,268 fatalities, 181 missing and 6,071 injured, with nearly 700,000 people affected and more than 11,000 homes destroyed. It was the deadliest tropical cyclone to hit Mindanao in recorded history.",
+  "sources": [
+   "NDRRMC (Philippines)",
+   "OCHA (ReliefWeb)",
+   "UNICEF"
+  ]
+ },
+ {
+  "date": "2011-12-23",
+  "title": "Damascus twin suicide bombings",
+  "category": "terrorism",
+  "location": "Damascus, Syria",
+  "lives_lost": 44,
+  "description": "On December 23, 2011, two suicide car bombers detonated devices within minutes of each other outside heavily guarded security compounds in the Kfar Sousa district of Damascus, one targeting the General Security Directorate and the second the nearby military intelligence building. At least 44 people were killed and 166 wounded, most of them civilians. It was the first suicide bombing since Syria's uprising began in March 2011; the government blamed al-Qaeda-linked 'terrorists', while opposition figures accused the regime of staging the attack, and no group claimed responsibility.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2010-03-26",
+  "title": "ROKS Cheonan sinking",
+  "category": "war",
+  "location": "Baengnyeong Island, Yellow Sea, South Korea",
+  "lives_lost": 46,
+  "description": "The South Korean corvette ROKS Cheonan broke in two and sank in the Yellow Sea near Baengnyeong Island on March 26, 2010, killing 46 of its 104 crew members. An international investigation team concluded the ship was split by a torpedo launched from a North Korean submarine; North Korea denied involvement. South Korea and the United States attributed the attack to North Korea and responded with joint military exercises, marking a major escalation of tensions on the Korean Peninsula in 2010.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2010-03-29",
+  "title": "Moscow Metro suicide bombings",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 40,
+  "description": "Two female suicide bombers detonated explosives on the Moscow Metro on the morning of March 29, 2010, during rush hour, first at Lubyanka station near the FSB headquarters and then at Park Kultury station. The attacks killed 40 people and injured more than 100. Russian authorities attributed the bombings to the Caucasus Emirate, an Islamist insurgency group based in the North Caucasus, which claimed responsibility.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-04-05",
+  "title": "Upper Big Branch Mine explosion",
+  "category": "industrial",
+  "location": "Montcoal, West Virginia, USA",
+  "lives_lost": 29,
+  "description": "A methane and coal dust explosion ripped through the Upper Big Branch Mine, operated by Massey Energy, on April 5, 2010, killing 29 of the 31 miners underground, making it the deadliest U.S. coal mining disaster in 40 years. A U.S. Mine Safety and Health Administration investigation determined the blast was preventable and resulted from systemic violations including inadequate ventilation and failure to control dust accumulations. The disaster led to a federal review of mine safety enforcement and congressional scrutiny of the industry.",
+  "sources": [
+   "Mine Safety and Health Administration (MSHA)",
+   "Associated Press",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2014-04-14",
+  "title": "Nyanya Bus Station Bombing",
+  "category": "terrorism",
+  "location": "Abuja, Nigeria",
+  "lives_lost": 75,
+  "description": "On 14 April 2014, a bomb exploded at the Nyanya bus station on the outskirts of Abuja, Nigeria, during the morning rush hour. Around 75 people were killed and more than 100 injured. Boko Haram claimed responsibility for the attack, which occurred on the same day the group abducted more than 270 schoolgirls in Chibok.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-04-14",
+  "title": "Yushu earthquake",
+  "category": "natural-disaster",
+  "location": "Yushu County, Qinghai, China",
+  "lives_lost": 2698,
+  "description": "A magnitude 6.9-7.1 earthquake struck Yushu Tibetan Autonomous Prefecture in Qinghai Province, China, on April 14, 2010, at an altitude of about 4,300 meters. The quake killed 2,698 people, left 270 missing and 12,135 injured, and destroyed an estimated 85 to 90 percent of buildings, primarily in Jiegu Town, leaving at least 100,000 residents homeless. Rescue and relief operations were hampered by the remote high-altitude terrain, harsh weather, and poor infrastructure.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2013-04-20",
+  "title": "Lushan earthquake",
+  "category": "natural-disaster",
+  "location": "Ya'an, Sichuan, China",
+  "lives_lost": 196,
+  "description": "On April 20, 2013, a magnitude 6.6 earthquake struck Lushan County in Ya'an, Sichuan Province, China, killing at least 193 people (196 in official tallies), with 23 missing and more than 11,000 injured. The shallow quake destroyed or severely damaged hundreds of thousands of rural homes and triggered landslides in the mountainous region, and it was the deadliest earthquake in China since the 2008 Wenchuan disaster.",
+  "sources": [
+   "Xinhua News Agency",
+   "USGS"
+  ]
+ },
+ {
+  "date": "2010-04-20",
+  "title": "Deepwater Horizon explosion and oil spill",
+  "category": "industrial",
+  "location": "Gulf of Mexico, USA",
+  "lives_lost": 11,
+  "description": "An explosion aboard the BP-operated drilling rig Deepwater Horizon on April 20, 2010 killed 11 workers and sank the rig two days later, rupturing the Macondo wellhead and releasing an estimated 4.9 million barrels of oil over 87 days in the largest marine oil spill in U.S. history. The spill devastated Gulf of Mexico fisheries, wildlife, and coastal economies along Louisiana, Mississippi, Alabama, and Florida, and triggered billions of dollars in cleanup, compensation, and legal settlements for BP and its contractors.",
+  "sources": [
+   "U.S. Coast Guard",
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2010-05-28",
+  "title": "Lahore Ahmadiyya mosque attacks",
+  "category": "terrorism",
+  "location": "Lahore, Pakistan",
+  "lives_lost": 94,
+  "description": "Gunmen from the Punjabi Taliban wing of Tehrik-e-Taliban Pakistan attacked two Ahmadiyya mosques in Lahore during Friday prayers on May 28, 2010, using automatic weapons, grenades, and suicide vests, and holding worshippers hostage for several hours. Human Rights Watch documented 94 people killed, 27 at the Baitul Nur mosque in Model Town and 67 at the Darul Zikr mosque in Garhi Shahu, with more than 100 wounded. The attacks were the deadliest assault on the Ahmadiyya religious minority in Pakistan's history.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-06-10",
+  "title": "Osh ethnic violence in southern Kyrgyzstan",
+  "category": "war",
+  "location": "Osh and Jalal-Abad, Kyrgyzstan",
+  "lives_lost": 470,
+  "description": "Four days of inter-ethnic violence between Kyrgyz and Uzbek communities erupted in Osh on June 10, 2010 and spread to Jalal-Abad, following the ouster of President Kurmanbek Bakiyev in April and a period of political instability. The Kyrgyz health ministry reported an official toll of about 312 dead and over 2,300 injured, while the International Crisis Group estimated up to 470 killed; interim leader Roza Otunbayeva said the true figure was likely around 2,000 because many victims were buried quickly per local tradition. Hundreds of thousands of ethnic Uzbeks fled across the border into Uzbekistan, and the U.N. reported whole districts of Osh burned to the ground.",
+  "sources": [
+   "United Nations",
+   "Human Rights Watch",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2010-07-28",
+  "title": "Pakistan floods",
+  "category": "natural-disaster",
+  "location": "Pakistan",
+  "lives_lost": 1985,
+  "description": "Unprecedented monsoon rains in late July and August 2010 caused the Indus River and its tributaries to burst their banks, flooding nearly one-fifth of Pakistan's land area across 78 of its 121 districts. Official figures recorded 1,985 deaths and 2,946 injuries, while more than 20 million people were affected, making it one of the largest humanitarian disasters in modern history. The floods destroyed roughly 1.7 million homes, submerged vast agricultural areas, and forced the U.N. to launch a $2 billion relief appeal for what it called the worst flood disaster in Pakistan's history.",
+  "sources": [
+   "UN OCHA",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-08-07",
+  "title": "Zhouqu mudslide",
+  "category": "natural-disaster",
+  "location": "Zhouqu County, Gansu, China",
+  "lives_lost": 1765,
+  "description": "A massive debris flow triggered by heavy rain swept through the mountain county town of Zhouqu in Gansu Province, China, on the night of August 7, 2010, burying about 2.4 square kilometers of the town under mud and rock and damming the Bailong River. Final official loss statistics recorded 1,557 confirmed dead and 284 missing, a combined toll of 1,765, with more than 2,300 injured or sick. It was described by Chinese authorities as the most severe debris-flow disaster since the founding of the People's Republic, with surges reported up to five storeys high.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-07-05",
+  "title": "Russian heatwave and wildfires",
+  "category": "natural-disaster",
+  "location": "Russia",
+  "lives_lost": 55000,
+  "description": "A record-breaking heatwave in July and August 2010, the hottest in eastern Europe in 500 years, combined with massive wildfires and dense smog across western Russia, causing an estimated 55,000 excess deaths nationwide, according to the Center for Research on the Epidemiology of Disasters and peer-reviewed studies. In Moscow alone, an estimated 10,900 to 11,300 excess deaths occurred during the 44-day heat wave and accompanying smog episode, largely from cardiovascular and respiratory failure. The fires destroyed about one-third of Russia's grain harvest and caused roughly $15 billion in economic losses.",
+  "sources": [
+   "Center for Research on the Epidemiology of Disasters (CRED)",
+   "Epidemiology (Shaposhnikov et al.)",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-10-25",
+  "title": "Mentawai Islands earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Mentawai Islands, Indonesia",
+  "lives_lost": 452,
+  "description": "A magnitude 7.7-7.8 earthquake struck beneath the Indian Ocean off the Mentawai Islands, west of Sumatra, Indonesia, on October 25, 2010, generating tsunami waves up to 3 meters that devastated low-lying coastal villages. The Indonesian disaster management agency and IFRC recorded 452 people dead and 76 missing, with nearly 15,000 displaced. The disaster struck the same week as the Mount Merapi eruption, and both events combined killed over 700 people, with many of the tsunami victims never recovered from the sea.",
+  "sources": [
+   "United States Geological Survey (USGS)",
+   "IFRC",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2010-10-26",
+  "title": "Mount Merapi eruption",
+  "category": "natural-disaster",
+  "location": "Yogyakarta, Indonesia",
+  "lives_lost": 273,
+  "description": "Mount Merapi in central Java began a series of violent eruptions on October 26, 2010, with major eruptions continuing through November 5, including a powerful blast that killed its spiritual guardian Mbah Maridjan and overwhelmed emergency shelters. The final toll recorded 273 deaths, 176 from pyroclastic flows on the spot and 97 from related causes after hospitalization, with 577 people injured and up to 300,000 displaced across Central Java and Yogyakarta. It was the volcano's most powerful eruption in over a century, its eruptive activity peaking in early November.",
+  "sources": [
+   "IFRC",
+   "BNPB (Indonesia National Disaster Management Agency)",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2010-10-31",
+  "title": "Our Lady of Salvation church siege",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 58,
+  "description": "Gunmen from the Islamic State of Iraq stormed Our Lady of Salvation, a Syriac Catholic church in Baghdad, during Sunday Mass on October 31, 2010, taking more than 100 worshippers hostage before Iraqi security forces stormed the building. The siege killed 58 people, including 44 worshippers, two priests, seven security personnel, and five attackers, and wounded more than 70. It was the deadliest attack on Iraq's Christian community since the 2003 invasion and prompted an exodus of Iraqi Christians, with many families fleeing the country.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2010-11-19",
+  "title": "Pike River Mine disaster",
+  "category": "industrial",
+  "location": "Greymouth, New Zealand",
+  "lives_lost": 29,
+  "description": "A methane explosion at the Pike River coal mine on the South Island of New Zealand on November 19, 2010 trapped 29 miners, all of whom were declared dead after a series of further explosions prevented rescue attempts and a subsequent fire forced the mine to be sealed. The victims' bodies were never recovered. A royal commission of inquiry found the explosion was preventable and identified systemic failures in mine management, gas monitoring, and safety culture, prompting a major overhaul of New Zealand's mining safety legislation.",
+  "sources": [
+   "BBC News",
+   "Associated Press",
+   "The New Zealand Herald"
+  ]
+ },
+ {
+  "date": "2012-02-03",
+  "title": "Somalia famine — 2011-2012 crisis",
+  "category": "food-crisis",
+  "location": "Southern Somalia",
+  "lives_lost": 260000,
+  "description": "A UN-declared famine that began in July 2011 in southern Somalia was declared over on 3 February 2012. A joint FSNAU/FEWS NET mortality study attributed about 258,000 excess deaths to the famine between October 2010 and April 2012, roughly half of them children under five, driven by drought, conflict, and obstruction of humanitarian access.",
+  "sources": [
+   "FSNAU/FEWS NET Mortality Study 2013",
+   "UN OCHA",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-03-08",
+  "title": "Malaysia Airlines Flight MH370 Disappearance",
+  "category": "industrial",
+  "location": "Indian Ocean",
+  "lives_lost": 239,
+  "description": "Malaysia Airlines Flight MH370, carrying 227 passengers and 12 crew, vanished from radar on 8 March 2014 shortly after departing Kuala Lumpur for Beijing. An extensive multinational search failed to locate the main wreckage for years, though debris washed ashore confirmed the aircraft crashed in the southern Indian Ocean. All 239 people on board are presumed dead.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2014-03-22",
+  "title": "Oso Mudslide",
+  "category": "natural-disaster",
+  "location": "Oso, Washington, United States",
+  "lives_lost": 43,
+  "description": "On 22 March 2014, a large hillside collapsed in the community of Oso, Washington, sending a debris-filled mudslide across the Stillaguamish River valley and destroying dozens of homes. Forty-three people were killed, making it the deadliest landslide in United States history, and two residents remain unaccounted for.",
+  "sources": [
+   "The New York Times",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2014-05-14",
+  "title": "Balkan Floods",
+  "category": "natural-disaster",
+  "location": "Serbia and Bosnia and Herzegovina",
+  "lives_lost": 80,
+  "description": "Record rainfall in mid-May 2014 triggered the worst floods in the Balkans in more than a century, inundating Serbia, Bosnia and Herzegovina, and parts of Croatia. At least 80 people died, hundreds of thousands were displaced, and landslides in Bosnia uncovered mass graves from the 1990s war. The floods caused billions of euros in damage across the region.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2014-08-03",
+  "title": "Ludian Earthquake",
+  "category": "natural-disaster",
+  "location": "Ludian County, China",
+  "lives_lost": 617,
+  "description": "A magnitude 6.1 earthquake struck Ludian County in Yunnan province, southwestern China, on 3 August 2014. The shallow quake triggered landslides that buried villages and destroyed tens of thousands of homes; 617 people were killed, more than 100 went missing and over 3,100 were injured. It was China's deadliest earthquake in several years.",
+  "sources": [
+   "Xinhua",
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2014-08-03",
+  "title": "ISIS Genocide of Yazidis in Sinjar",
+  "category": "war",
+  "location": "Sinjar, Iraq",
+  "lives_lost": 5000,
+  "description": "On 3 August 2014, fighters of the Islamic State group overran the Yazidi heartland of Sinjar in northern Iraq, forcing tens of thousands of people onto Mount Sinjar, where hundreds died of thirst and heat. Men and boys were executed, while women and girls were taken as sex slaves; the United Nations later estimated that about 5,000 Yazidis were killed in the 2014-2017 campaign. The UN formally declared the attacks on the Yazidis an act of genocide.",
+  "sources": [
+   "United Nations",
+   "Amnesty International",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2014-09-07",
+  "title": "Kashmir Floods",
+  "category": "natural-disaster",
+  "location": "Jammu and Kashmir, India",
+  "lives_lost": 500,
+  "description": "Torrential monsoon rains in the first half of September 2014 caused catastrophic flooding in Indian-administered Jammu and Kashmir and parts of Pakistan-administered Kashmir. The Jhelum River broke its banks and submerged much of Srinagar, killing around 500 people and stranding hundreds of thousands, with relief operations hampered by the scale of the flooding. It was the region's worst flooding in decades.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Hindu"
+  ]
+ },
+ {
+  "date": "2012-09-07",
+  "title": "Yunnan earthquakes",
+  "category": "natural-disaster",
+  "location": "Yiliang County, Yunnan, China",
+  "lives_lost": 81,
+  "description": "On 7 September 2012, a doublet of earthquakes (magnitudes 5.6 and 5.3) struck Yiliang County in Zhaotong, Yunnan, China. The quakes killed 81 people and injured 821, damaged more than 20,000 houses, and forced the evacuation of at least 100,000 residents from the mountainous, landslide-prone area.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2014-09-27",
+  "title": "Mount Ontake Eruption",
+  "category": "natural-disaster",
+  "location": "Nagano Prefecture, Japan",
+  "lives_lost": 63,
+  "description": "Mount Ontake in central Japan erupted without warning on 27 September 2014, sending an ash cloud over hundreds of hikers who had climbed the peak for the autumn colors. Fifty-seven people were killed on the day of the eruption and the toll later rose to 63, mostly from injuries caused by falling rocks. It was Japan's deadliest volcanic eruption in nearly 90 years.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Japan Times"
+  ]
+ },
+ {
+  "date": "2014-12-28",
+  "title": "Indonesia AirAsia Flight QZ8501 Crash",
+  "category": "industrial",
+  "location": "Java Sea, Indonesia",
+  "lives_lost": 162,
+  "description": "Indonesia AirAsia Flight QZ8501, an Airbus A320 flying from Surabaya to Singapore, crashed into the Java Sea on 28 December 2014 during stormy weather. All 155 passengers and seven crew members were killed; wreckage and bodies were recovered over the following weeks. Investigators concluded that an electrical fault in the flight-control system led the aircraft to stall after the pilots' responses.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2012-11-24",
+  "title": "Tazreen Fashion factory fire",
+  "category": "industrial",
+  "location": "Ashulia, Dhaka, Bangladesh",
+  "lives_lost": 117,
+  "description": "On 24 November 2012, a fire broke out in the Tazreen Fashion garment factory in Ashulia on the outskirts of Dhaka, killing at least 117 workers and injuring more than 200. Exit doors were locked, forcing workers to jump from upper floors; the disaster highlighted fire-safety failures in the Bangladeshi garment industry and preceded the larger Rana Plaza collapse in 2013.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2013-01-27",
+  "title": "Kiss nightclub fire",
+  "category": "industrial",
+  "location": "Santa Maria, Brazil",
+  "lives_lost": 242,
+  "description": "On January 27, 2013, pyrotechnics set off by the performing band ignited flammable acoustic foam on the ceiling of the Kiss nightclub in Santa Maria, Rio Grande do Sul, Brazil. The resulting fire, dense smoke, and stampede killed 242 people, mostly university students, and injured at least 630 others; the venue's single functioning exit and the absence of adequate fire safety systems contributed to the deaths, making it the second-deadliest fire in Brazilian history.",
+  "sources": [
+   "BBC News",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2013-02-16",
+  "title": "Quetta Hazara market bombing",
+  "category": "terrorism",
+  "location": "Quetta, Pakistan",
+  "lives_lost": 84,
+  "description": "On February 16, 2013, a suicide bomber detonated an explosives-laden vehicle at a vegetable market in Hazara Town, Quetta, Pakistan, in an attack targeting the Shia Hazara community. At least 84 people were killed and more than 170 were wounded; the Sunni militant group Lashkar-e-Jhangvi claimed responsibility, and the bombing was the latest in a series of attacks that year against Hazaras in Balochistan.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2013-06-16",
+  "title": "Uttarakhand floods and landslides",
+  "category": "natural-disaster",
+  "location": "Uttarakhand, India",
+  "lives_lost": 5700,
+  "description": "In mid-June 2013, exceptionally heavy monsoon rains caused flash floods, cloudbursts, and landslides across the Himalayan state of Uttarakhand, India, with the worst devastation around Kedarnath on June 16-17. More than 5,700 people were presumed dead in the state (over 6,000 including surrounding regions), and tens of thousands of pilgrims and tourists were stranded in the Kedarnath valley before rescue operations ended.",
+  "sources": [
+   "Reuters",
+   "United Nations"
+  ]
+ },
+ {
+  "date": "2013-07-06",
+  "title": "Lac-Mégantic rail disaster",
+  "category": "industrial",
+  "location": "Lac-Mégantic, Quebec, Canada",
+  "lives_lost": 47,
+  "description": "On July 6, 2013, an unattended 73-car freight train carrying crude oil rolled down a slope and derailed in downtown Lac-Mégantic, Quebec, Canada, exploding into fires that destroyed much of the town center and killed 47 people. Investigators found the train had been left with insufficiently secured brakes; the disaster became the deadliest rail accident in Canadian history.",
+  "sources": [
+   "CBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2013-08-21",
+  "title": "Ghouta chemical weapons attack",
+  "category": "war",
+  "location": "Damascus, Syria",
+  "lives_lost": 1400,
+  "description": "On August 21, 2013, rockets carrying the nerve agent sarin struck opposition-held suburbs of Damascus in the Ghouta region of Syria, killing an estimated 1,400 people (estimates range from 281 to 1,729, with the U.S. government assessing about 1,429). United Nations investigators confirmed the use of sarin, and the attack, attributed to Syrian government forces, was the deadliest chemical weapons use since the Iran-Iraq War and led to an international disarmament agreement.",
+  "sources": [
+   "United Nations",
+   "Human Rights Watch"
+  ]
+ },
+ {
+  "date": "2012-08-21",
+  "title": "Daraya massacre",
+  "category": "war",
+  "location": "Darayya, Rif Dimashq, Syria",
+  "lives_lost": 400,
+  "description": "Between 20 and 25 August 2012, Syrian government forces and allied militiamen carried out a mass killing in the town of Darayya near Damascus after a siege and an offer of safe passage. SOHR documented about 320 killed and the opposition reported up to 400 bodies found in homes, streets, and a mosque; a later UN Commission of Inquiry found reasonable grounds that the murders constituted war crimes.",
+  "sources": [
+   "Syrian Observatory for Human Rights",
+   "Reuters",
+   "The Guardian",
+   "UN Commission of Inquiry"
+  ]
+ },
+ {
+  "date": "2013-09-16",
+  "title": "Washington Navy Yard shooting",
+  "category": "gun-violence",
+  "location": "Washington, D.C., USA",
+  "lives_lost": 13,
+  "description": "On September 16, 2013, a former Navy reservist with a history of mental health problems opened fire at the Washington Navy Yard in Washington, D.C., killing 12 people and injuring at least 8 before being shot dead by police. The shooting was among the deadliest workplace and gun violence incidents in the United States in 2013.",
+  "sources": [
+   "CNN",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2013-09-21",
+  "title": "Westgate shopping mall attack",
+  "category": "terrorism",
+  "location": "Nairobi, Kenya",
+  "lives_lost": 71,
+  "description": "On September 21, 2013, gunmen from the al-Shabaab militant group attacked the upscale Westgate shopping mall in Nairobi, Kenya, firing on shoppers and staff in a four-day siege. At least 71 people were killed, including 62 civilians and 5 Kenyan soldiers, with 4 attackers also dead, and around 200 people were wounded; parts of the mall collapsed during the security operation.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2013-09-22",
+  "title": "Peshawar church bombing",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 85,
+  "description": "On September 22, 2013, two suicide bombers attacked All Saints Church in Peshawar, Pakistan, during Sunday services, killing at least 85 people and injuring more than 200 in the deadliest attack on Christians in Pakistan's history. A Taliban-linked group claimed responsibility; the official toll was later revised upward to as many as 127 in some tallies.",
+  "sources": [
+   "BBC News",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2013-09-24",
+  "title": "Balochistan earthquake",
+  "category": "natural-disaster",
+  "location": "Awaran, Pakistan",
+  "lives_lost": 825,
+  "description": "On September 24, 2013, a magnitude 7.7 earthquake struck Awaran District in Balochistan, Pakistan, killing at least 825 people (some tallies cite 840) and injuring about 600, with thousands of mud-brick homes destroyed in the remote region. The quake also thrust up a new island off the coast near Gwadar and was the deadliest earthquake in Pakistan since 2005.",
+  "sources": [
+   "USGS",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2013-11-08",
+  "title": "Typhoon Haiyan",
+  "category": "natural-disaster",
+  "location": "Philippines",
+  "lives_lost": 6300,
+  "description": "On November 8, 2013, Super Typhoon Haiyan (Yolanda), one of the most powerful tropical cyclones ever recorded, made landfall in the central Philippines with sustained winds near 315 km/h, killing 6,300 people across the country (more than 6,350 including Vietnam, China, and Taiwan) and injuring tens of thousands. Catastrophic storm surges devastated Tacloban City and neighboring islands, and around 4 million people were displaced.",
+  "sources": [
+   "NDRRMC",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2013-12-15",
+  "title": "Outbreak of the South Sudanese Civil War",
+  "category": "war",
+  "location": "Juba, South Sudan",
+  "lives_lost": 1000,
+  "description": "On December 15, 2013, fighting broke out in Juba, South Sudan, between forces loyal to President Salva Kiir and supporters of former Vice President Riek Machar following an alleged coup attempt, igniting a civil war. At least 1,000 people were killed in the initial outbreak by late December 2013, including civilians massacred along ethnic lines, and tens of thousands were displaced; the conflict subsequently spread nationwide.",
+  "sources": [
+   "United Nations",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2012-01-20",
+  "title": "Kano bombings",
+  "category": "terrorism",
+  "location": "Kano, Nigeria",
+  "lives_lost": 185,
+  "description": "Boko Haram militants launched coordinated attacks across Kano on 20 January 2012, attacking five police stations, two immigration offices and the State Security Service headquarters with bombs and gunfire, then shooting pedestrians in the streets. The government confirmed 185 killed, including about 150 civilians and at least 32 police officers, making it one of the deadliest single attacks of the insurgency.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "Amnesty International"
+  ]
+ },
+ {
+  "date": "2012-07-21",
+  "title": "Beijing floods",
+  "category": "natural-disaster",
+  "location": "Beijing, China",
+  "lives_lost": 79,
+  "description": "On 21 July 2012, an extreme rainstorm — the heaviest rainfall on record in Beijing — flooded the city over a 20-hour period, killing 79 people, many of whom drowned in flooded road underpasses and basements. More than 1.6 million people were affected and some 8,200 homes were destroyed, with damages estimated at about 10 billion yuan.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2012-08-05",
+  "title": "Wisconsin Sikh temple shooting",
+  "category": "gun-violence",
+  "location": "Oak Creek, Wisconsin, United States",
+  "lives_lost": 6,
+  "description": "On 5 August 2012, a gunman opened fire during a service at the Sikh Temple of Wisconsin in Oak Creek, killing six worshippers and wounding four others before taking his own life. The shooter, Wade Michael Page, a former US Army soldier with ties to white supremacist groups, died by suicide at the scene; a seventh victim later died of his injuries in 2020.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2012-08-11",
+  "title": "East Azerbaijan earthquakes",
+  "category": "natural-disaster",
+  "location": "Ahar and Varzaqan, East Azerbaijan, Iran",
+  "lives_lost": 306,
+  "description": "On 11 August 2012, twin earthquakes of magnitude 6.4 and 6.2 struck 11 minutes apart near the cities of Ahar and Varzaqan in northwestern Iran. At least 306 people were killed and more than 3,000 injured, with thousands of buildings destroyed or damaged in rural villages across the region and at least 80 aftershocks following.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2012-09-05",
+  "title": "Pakistan monsoon floods — 2012",
+  "category": "natural-disaster",
+  "location": "Sindh, Punjab, Khyber Pakhtunkhwa and Balochistan, Pakistan",
+  "lives_lost": 455,
+  "description": "Heavy monsoon rains from a low-pressure system that lingered over Pakistan from 3 to 12 September 2012 caused severe flooding across southern Punjab, upper Sindh, and parts of Khyber Pakhtunkhwa and Balochistan. The National Disaster Management Authority reported 455 deaths and some five million people affected, with record rainfall in several cities and widespread destruction of homes and crops.",
+  "sources": [
+   "Pakistan National Disaster Management Authority (NDMA)",
+   "Dawn",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2012-11-14",
+  "title": "Gaza conflict — Operation Pillar of Defense",
+  "category": "war",
+  "location": "Gaza Strip, Palestine / Israel",
+  "lives_lost": 180,
+  "description": "On 14 November 2012, Israel launched an eight-day military offensive against Gaza following rocket fire and the killing of Hamas military chief Ahmed Jabari. A UN Human Rights Council report recorded 174 Palestinians killed, 107 of them civilians, and B'Tselem counted 167; six Israelis were killed by Palestinian rockets, and hundreds more were wounded on both sides before a ceasefire took effect on 21 November.",
+  "sources": [
+   "United Nations Human Rights Council",
+   "B'Tselem",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2012-12-04",
+  "title": "Typhoon Bopha (Pablo)",
+  "category": "natural-disaster",
+  "location": "Mindanao, Philippines",
+  "lives_lost": 1900,
+  "description": "Typhoon Bopha, the strongest storm ever recorded to strike the Philippines at that time of year, made landfall on Mindanao late on 3 December / early 4 December 2012 as a Category 5-equivalent super typhoon. The NDRRMC's final toll was 1,901 dead, with widespread flash floods and landslides in Davao Oriental and Compostela Valley, where mudslides buried villages, including in New Bataan.",
+  "sources": [
+   "Philippines NDRRMC",
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ }
+]

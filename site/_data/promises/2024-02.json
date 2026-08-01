@@ -1,0 +1,24 @@
+[
+ {
+  "person": "Tim Cook",
+  "role": "CEO, Apple",
+  "promise": "Apple Vision Pro... will be available early next year",
+  "date_promised": "2023-06-05",
+  "due_date": "2024-02-29",
+  "status": "kept",
+  "description": "Cook closed Apple's WWDC 2023 keynote by announcing the $3,499 Vision Pro headset and promising availability 'early next year' (2024). It shipped in the US on February 2, 2024 — inside the promised window, though reviews were mixed and sales were weak.",
+  "evidence": [
+   "Announced at WWDC June 5, 2023 with 'available early next year'",
+   "Apple newsroom (Jan 8, 2024): 'Apple Vision Pro available in the U.S. on February 2'",
+   "Shipment occurred Feb 2, 2024 as promised"
+  ],
+  "sources": [
+   "Apple",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+   "https://en.wikipedia.org/wiki/Apple_Vision_Pro"
+  ]
+ }
+]

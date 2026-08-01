@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Sam Altman",
+  "role": "CEO, OpenAI; Chairman and lead investor, Helion",
+  "promise": "\"Helion will deliver 50 megawatts of fusion power to Microsoft starting in 2028\" — the first commercial fusion power agreement",
+  "date_promised": "2023-05-10",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "Altman backed Helion (chairman, led $500M round) and promoted its 2028 Microsoft power deal. Helion missed its own 2021 'net electricity by 2024' target and its 2025 Polaris net-electricity goal (unmet per Dec 2025 reporting; Polaris hit 150M°C D-T fusion in Feb 2026 but no net electricity). The 50MW Malaga, WA plant is still planned for 2028.",
+  "evidence": [
+   "Microsoft-Helion deal announced May 10, 2023: 50MW starting 2028",
+   "Helion's 2024 and 2025 net-electricity milestones were not met (Wikipedia)",
+   "Feb 2026: Polaris reached 150M°C D-T fusion, no net-electricity claim"
+  ],
+  "sources": [
+   "Wikipedia: Helion Energy",
+   "Helion/Microsoft press release (May 10, 2023)",
+   "Reuters (2024-2025 Helion coverage)"
+  ]
+ }
+]

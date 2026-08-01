@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Xi Jinping",
+  "role": "President of China",
+  "promise": "Peak carbon dioxide emissions before 2030 and achieve carbon neutrality by 2060",
+  "date_promised": "2020-09-22",
+  "due_date": "2060-12-31",
+  "status": "pending",
+  "description": "In a UN General Assembly speech Xi announced China would peak CO2 before 2030 and reach carbon neutrality by 2060, later interpreted as 2030 at the earliest for the peak. Both deadlines are in the future; implementation progress is mixed.",
+  "evidence": [
+   "Interim pledge to peak 'before 2030' not yet reached",
+   "2060 neutrality deadline is decades away"
+  ],
+  "sources": [
+   "United Nations General Assembly",
+   "Xinhua",
+   "Reuters"
+  ]
+ }
+]

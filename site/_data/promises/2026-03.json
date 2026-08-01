@@ -1,0 +1,57 @@
+[
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister of Canada",
+  "promise": "Cut regulated child-care fees to an average of $10 per day across Canada by 2026.",
+  "date_promised": "2021-04-19",
+  "due_date": "2026-03-31",
+  "status": "partial",
+  "description": "Budget 2021 announced C$30B over five years to bring average regulated child-care fees to $10/day by 2025-26, via agreements with provinces. Fees were roughly halved in most provinces, but by 2025 only about 150,000 of 250,000 promised spaces existed, Alberta and Saskatchewan refused to sign the renewal, and the $10 average was not reached in several provinces.",
+  "evidence": [
+   "Budget 2021 commitment of C$30B over five years",
+   "Only ~150,000 of 250,000 promised spaces created by March 2025",
+   "Alberta and Saskatchewan did not sign the March 2025 extension deal"
+  ],
+  "sources": [
+   "Government of Canada Budget 2021",
+   "CBC News",
+   "Wikipedia: Child care in Canada"
+  ]
+ },
+ {
+  "person": "Jim Ryan",
+  "role": "CEO, Sony Interactive Entertainment",
+  "promise": "We will launch more than 10 live service games by fiscal 2025 (as reported).",
+  "date_promised": "2021-05-26",
+  "due_date": "2026-03-31",
+  "status": "partial",
+  "description": "Sony's 2021 strategy meeting set a target of more than 10 PlayStation live-service titles by end of fiscal 2025. Only a handful shipped (Helldivers 2, MLB The Show, Concord), Concord was shut down within weeks, and several announced live-service projects (including Naughty Dog's The Last of Us Factions) were cancelled in 2023-2024.",
+  "evidence": [
+   "Sony IR presentation projected 10+ live service games by FY2025",
+   "The Last of Us Factions cancelled Dec 2023; multiple live service projects dropped 2024; Concord failed",
+   "Helldivers 2 (2024) succeeded as a live service title"
+  ],
+  "sources": [
+   "Sony Investor Relations briefing, 2021-05-26",
+   "Bloomberg / Reuters, 2023-12 and 2024"
+  ]
+ },
+ {
+  "person": "Mark Carney",
+  "role": "Prime Minister of Canada",
+  "promise": "Reduce growth in day-to-day federal government spending from about 9% per year to under 2%",
+  "date_promised": "2025-05-06",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "In the May 2025 throne speech, Carney promised measures to cut annual growth in the federal operating budget from about 9% under the previous government to below 2%. By September 2025 commentators reported the target had already been abandoned in the fall budget outlook, which projected spending growth well above 2%.",
+  "evidence": [
+   "September 2025 reports said the fall budget outlook abandoned the under-2% target",
+   "No implementing measures were presented"
+  ],
+  "sources": [
+   "Edmonton Sun",
+   "Kelowna Capital News",
+   "Dan Albas, MP"
+  ]
+ }
+]

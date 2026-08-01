@@ -1,0 +1,1234 @@
+[
+ {
+  "date": "2001-01-26",
+  "title": "Gujarat (Bhuj) Earthquake",
+  "category": "natural-disaster",
+  "location": "Bhuj, Gujarat, India",
+  "lives_lost": 20000,
+  "description": "A magnitude 7.7 earthquake struck near Bhuj in Kutch district on India's Republic Day, killing about 20,000 people and injuring more than 160,000 according to official figures. It was India's deadliest earthquake in half a century, destroying or damaging roughly a million buildings across Gujarat.",
+  "sources": [
+   "USGS",
+   "NOAA NCEI",
+   "Britannica",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2004-03-11",
+  "title": "Madrid Train Bombings",
+  "category": "terrorism",
+  "location": "Madrid, Spain",
+  "lives_lost": 193,
+  "description": "Coordinated bombings on four commuter trains during morning rush hour killed 193 people and wounded approximately 2,000. The deadliest terrorist attack in Spanish history.",
+  "sources": [
+   "BBC News",
+   "El País"
+  ]
+ },
+ {
+  "date": "2000-03-11",
+  "title": "Barakova coal mine explosion",
+  "category": "industrial",
+  "location": "Krasnodon, Ukraine",
+  "lives_lost": 80,
+  "description": "A methane gas explosion at the Barakova coal mine killed 80 miners. Ukraine's worst mining disaster since independence.",
+  "sources": [
+   "BBC News",
+   "Kyiv Post"
+  ]
+ },
+ {
+  "date": "2002-04-15",
+  "title": "Air China Flight 129 crash",
+  "category": "industrial",
+  "location": "Busan, South Korea",
+  "lives_lost": 129,
+  "description": "Air China Flight 129, a Boeing 767 flying from Beijing to Busan, crashed into a hillside while approaching Gimhae Airport in heavy weather during a go-around. All 129 people on board were killed.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "Aviation Safety Network"
+  ]
+ },
+ {
+  "date": "2003-05-12",
+  "title": "Znamenskoye truck bombing",
+  "category": "terrorism",
+  "location": "Znamenskoye, Chechnya, Russia",
+  "lives_lost": 59,
+  "description": "Suicide bombers drove an explosives-laden truck into the government administration compound in Znamenskoye, northern Chechnya, destroying the local FSB headquarters and killing about 59 people, including children. It was one of the deadliest attacks of the Chechen conflict, later claimed by rebel commander Shamil Basayev.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "OCHA"
+  ]
+ },
+ {
+  "date": "2003-05-12",
+  "title": "Riyadh compound bombings",
+  "category": "terrorism",
+  "location": "Riyadh, Saudi Arabia",
+  "lives_lost": 35,
+  "description": "Al-Qaeda suicide bombers attacked three foreign residential compounds in Riyadh with car bombs, killing 35 people including nine Americans and wounding more than 160. The attacks marked the beginning of a militant campaign inside Saudi Arabia.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Rewards for Justice"
+  ]
+ },
+ {
+  "date": "2001-08-09",
+  "title": "Sbarro Pizzeria Bombing",
+  "category": "terrorism",
+  "location": "Jerusalem, Israel",
+  "lives_lost": 15,
+  "description": "A Palestinian suicide bomber detonated a nail-packed bomb at the Sbarro pizzeria in central Jerusalem, killing 15 civilians, including several children, and wounding about 130. Hamas claimed responsibility for the attack, the deadliest in Jerusalem during the first year of the Second Intifada.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2001-09-11",
+  "title": "September 11 Attacks",
+  "category": "terrorism",
+  "location": "New York, Washington DC, Pennsylvania, United States",
+  "lives_lost": 2977,
+  "description": "Al-Qaeda hijackers flew commercial airliners into the World Trade Center towers and the Pentagon. A fourth plane crashed in Pennsylvania after passengers fought back. 2,977 people were killed.",
+  "sources": [
+   "9/11 Commission Report",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2001-10-01",
+  "title": "Srinagar Legislative Assembly Attack",
+  "category": "terrorism",
+  "location": "Srinagar, India",
+  "lives_lost": 38,
+  "description": "Jaish-e-Mohammed militants rammed a car bomb into the Jammu and Kashmir Legislative Assembly complex in Srinagar and stormed the building, killing 38 people and wounding about 60 during a gun battle lasting several hours. No legislators were in the building at the time of the attack.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "SATP"
+  ]
+ },
+ {
+  "date": "2001-10-07",
+  "title": "US-Led Invasion of Afghanistan",
+  "category": "war",
+  "location": "Afghanistan",
+  "lives_lost": 1000,
+  "description": "The United States and allied forces launched Operation Enduring Freedom with airstrikes against the Taliban regime on October 7, 2001, in response to the September 11 attacks. Estimates of Afghan civilian deaths from bombing in the first three months ranged from about 1,000 to over 3,000, with thousands more believed to have died from the disruption of food aid deliveries.",
+  "sources": [
+   "Project on Defense Alternatives",
+   "Associated Press",
+   "United Nations"
+  ]
+ },
+ {
+  "date": "2004-12-26",
+  "title": "Indian Ocean earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Banda Aceh, Indonesia",
+  "lives_lost": 227898,
+  "description": "A magnitude 9.1-9.3 undersea earthquake off the coast of northern Sumatra triggered a series of tsunamis that struck coastlines in 14 countries across the Indian Ocean, including Indonesia, Sri Lanka, India and Thailand. At least 227,898 people were killed or left missing and presumed dead, and about 1.7 million were displaced, making it the deadliest tsunami in recorded history.",
+  "sources": [
+   "USGS",
+   "NOAA",
+   "UNESCO-IOC"
+  ]
+ },
+ {
+  "date": "2003-12-26",
+  "title": "Bam earthquake",
+  "category": "natural-disaster",
+  "location": "Bam, Iran",
+  "lives_lost": 26271,
+  "description": "A magnitude 6.6 earthquake destroyed the ancient city of Bam in southeastern Iran, killing about 26,271 people and injuring roughly 30,000. More than 85% of the city's buildings collapsed, and the quake was Iran's deadliest disaster in decades.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2000-02-05",
+  "title": "Novye Aldi massacre",
+  "category": "war",
+  "location": "Grozny, Chechnya, Russia",
+  "lives_lost": 62,
+  "description": "Russian OMON police conducted a house-to-house purge of the Novye Aldi suburb of Grozny, summarily executing at least 62 civilians. The European Court of Human Rights later ruled Russia responsible.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-02-21",
+  "title": "Kaduna religious riots",
+  "category": "war",
+  "location": "Kaduna, Nigeria",
+  "lives_lost": 1295,
+  "description": "Clashes between Christian and Muslim communities broke out after Kaduna State announced the adoption of Sharia law. A state commission recorded 1,295 deaths; Human Rights Watch estimated 2,000 to 5,000 total.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-02-22",
+  "title": "Mozambique floods and Cyclone Eline",
+  "category": "natural-disaster",
+  "location": "Mozambique",
+  "lives_lost": 700,
+  "description": "Cyclone Eline made landfall unleashing the worst floods in Mozambique's recorded history. Approximately 700 people died and up to 2 million were displaced.",
+  "sources": [
+   "BBC News",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2000-03-01",
+  "title": "Ethiopia drought and food crisis",
+  "category": "food-crisis",
+  "location": "Ogaden region, Ethiopia",
+  "lives_lost": 2000,
+  "description": "After years of failed rains, a severe drought gripped southeastern Ethiopia with 8 million facing severe food shortages. Malnutrition-related deaths ran into the low thousands before international relief averted a repeat of the 1984-85 famine.",
+  "sources": [
+   "BBC News",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2003-03-20",
+  "title": "US-led invasion of Iraq",
+  "category": "war",
+  "location": "Iraq",
+  "lives_lost": 7000,
+  "description": "A US-led coalition invaded Iraq on March 20, 2003, and toppled the government of Saddam Hussein within roughly three weeks. Iraq Body Count estimated that between 5,000 and 7,000 Iraqi civilians were killed during the invasion phase, with higher figures proposed by some academic studies.",
+  "sources": [
+   "Iraq Body Count",
+   "The Lancet",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-03-20",
+  "title": "Chattisinghpora massacre",
+  "category": "terrorism",
+  "location": "Anantnagar, Jammu and Kashmir, India",
+  "lives_lost": 35,
+  "description": "Armed gunmen rounded up Sikh men and boys in the village of Chattisinghpora and shot them. The attack came on the eve of US President Bill Clinton's visit to India.",
+  "sources": [
+   "BBC News",
+   "The Hindu"
+  ]
+ },
+ {
+  "date": "2000-05-13",
+  "title": "Enschede fireworks disaster",
+  "category": "industrial",
+  "location": "Enschede, Netherlands",
+  "lives_lost": 23,
+  "description": "A fire at a fireworks depot escalated into massive explosions, killing 23 people including four firefighters. The blasts destroyed around 400 homes.",
+  "sources": [
+   "BBC News",
+   "DutchNews.nl"
+  ]
+ },
+ {
+  "date": "2000-05-23",
+  "title": "Poso sectarian riots",
+  "category": "war",
+  "location": "Poso, Central Sulawesi, Indonesia",
+  "lives_lost": 300,
+  "description": "The third and deadliest phase of the Poso riots between Christian and Muslim communities. An estimated 300 people were killed.",
+  "sources": [
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2000-08-08",
+  "title": "Pushkin Square bombing",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 13,
+  "description": "A bomb exploded in a crowded underground passageway beneath Pushkin Square during rush hour, killing 13 people. Linked to Chechen separatists.",
+  "sources": [
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2000-08-22",
+  "title": "Typhoon Bilis",
+  "category": "natural-disaster",
+  "location": "Taiwan and Fujian Province, China",
+  "lives_lost": 71,
+  "description": "Super Typhoon Bilis, the strongest typhoon on record to strike Taiwan at the time, made landfall with winds over 200 km/h. It killed 71 people across Taiwan and mainland China.",
+  "sources": [
+   "Taiwan Central Weather Administration",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2000-09-10",
+  "title": "Mekong Delta floods",
+  "category": "natural-disaster",
+  "location": "Mekong Delta, Vietnam",
+  "lives_lost": 482,
+  "description": "The worst flooding in the Mekong Delta in decades inundated more than 825,000 homes and affected over 5 million people. 482 people died, most of them children.",
+  "sources": [
+   "UN OCHA",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-09-13",
+  "title": "Jakarta Stock Exchange bombing",
+  "category": "terrorism",
+  "location": "Jakarta, Indonesia",
+  "lives_lost": 15,
+  "description": "A car bomb exploded in the underground car park of the Jakarta Stock Exchange building, killing 15 people. Three Indonesian soldiers were later convicted.",
+  "sources": [
+   "BBC News",
+   "CBS News"
+  ]
+ },
+ {
+  "date": "2000-09-15",
+  "title": "Bangladesh floods",
+  "category": "natural-disaster",
+  "location": "Khulna Division, Bangladesh",
+  "lives_lost": 150,
+  "description": "The worst floods in more than 20 years hit southwestern Bangladesh, drowning over 2 million people across border districts. 130-150 people died from drowning, snakebites, and disease.",
+  "sources": [
+   "BBC News",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2000-09-28",
+  "title": "Start of the Second Intifada",
+  "category": "war",
+  "location": "Israel and the Palestinian territories",
+  "lives_lost": 300,
+  "description": "The Second Intifada began after Israeli opposition leader Ariel Sharon visited the Temple Mount compound. By end of 2000, roughly 300 people had been killed.",
+  "sources": [
+   "B'Tselem",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2002-10-12",
+  "title": "Bali bombings",
+  "category": "terrorism",
+  "location": "Kuta, Indonesia",
+  "lives_lost": 202,
+  "description": "Three bombs exploded in Kuta and Denpasar on Bali, including a large car bomb outside the Sari Club nightclub, in an attack linked to Jemaah Islamiyah. The bombings killed 202 people, mostly foreign tourists, and injured more than 200.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2000-10-12",
+  "title": "USS Cole bombing",
+  "category": "terrorism",
+  "location": "Aden, Yemen",
+  "lives_lost": 17,
+  "description": "Al-Qaeda suicide bombers rammed an explosive-laden boat into the USS Cole as it refuelled. Seventeen American sailors were killed and 39 wounded.",
+  "sources": [
+   "FBI",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-12-25",
+  "title": "Luoyang Dongdu commercial building fire",
+  "category": "industrial",
+  "location": "Luoyang, Henan, China",
+  "lives_lost": 309,
+  "description": "A fire started by illegal welding spread toxic smoke through the Dongdu commercial building into a packed dance hall. All 309 victims died of smoke inhalation.",
+  "sources": [
+   "Xinhua",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2000-12-30",
+  "title": "Rizal Day bombings",
+  "category": "terrorism",
+  "location": "Metro Manila, Philippines",
+  "lives_lost": 22,
+  "description": "Coordinated bombings struck five locations across Metro Manila on a national holiday, killing 22 people. The deadliest blast hit a crowded LRT train.",
+  "sources": [
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2004-09-01",
+  "title": "Beslan school siege",
+  "category": "terrorism",
+  "location": "Beslan, Russia",
+  "lives_lost": 334,
+  "description": "Armed Chechen separatist militants seized School Number One in Beslan on the first day of the academic year, holding more than 1,000 hostages, mostly children, in the school gymnasium for three days. The siege ended when Russian security forces stormed the school; 334 people were killed, including 186 children.",
+  "sources": [
+   "TASS",
+   "CNN",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2004-09-18",
+  "title": "Hurricane Jeanne flooding in Haiti",
+  "category": "natural-disaster",
+  "location": "Gonaives, Haiti",
+  "lives_lost": 3006,
+  "description": "Torrential rains from Tropical Storm Jeanne triggered catastrophic flash flooding and mudslides in Haiti, most severely in the coastal city of Gonaives, which was left largely submerged. The Haitian government's final tally recorded 3,006 deaths, including 2,826 in Gonaives, with about 200,000 people affected.",
+  "sources": [
+   "The New York Times",
+   "Reuters",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2001-09-18",
+  "title": "2001 Anthrax Attacks",
+  "category": "terrorism",
+  "location": "United States",
+  "lives_lost": 5,
+  "description": "Letters containing weaponized anthrax spores were mailed to news media offices and two US senators, killing five people and infecting 17 others between September and November 2001, and forcing about 35,000 people onto antibiotics. The FBI concluded in 2010 that biodefense researcher Bruce Ivins acted alone, a finding later questioned in part by the National Academies of Sciences.",
+  "sources": [
+   "FBI",
+   "CNN",
+   "NPR",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2004-02-24",
+  "title": "Al Hoceima earthquake",
+  "category": "natural-disaster",
+  "location": "Al Hoceima, Morocco",
+  "lives_lost": 628,
+  "description": "A magnitude 6.5 earthquake struck near the Mediterranean port city of Al Hoceima in northern Morocco, destroying about 2,500 homes and leaving more than 15,000 people homeless. The final death toll was 628, with 926 people injured.",
+  "sources": [
+   "UN OCHA",
+   "NOAA NGDC",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2003-02-24",
+  "title": "Bogoro massacre",
+  "category": "war",
+  "location": "Bogoro, Ituri, Democratic Republic of the Congo",
+  "lives_lost": 200,
+  "description": "Fighters of the FNI and FRPI militias, many of them child soldiers under age 15, attacked the village of Bogoro in Ituri Province, killing at least 200 civilians with machetes, guns, and fire. Two rebel commanders were later convicted by the International Criminal Court for the attack.",
+  "sources": [
+   "International Criminal Court",
+   "BBC News",
+   "France 24"
+  ]
+ },
+ {
+  "date": "2004-10-23",
+  "title": "Niigata Chuetsu earthquake",
+  "category": "natural-disaster",
+  "location": "Ojiya, Japan",
+  "lives_lost": 68,
+  "description": "A magnitude 6.6 earthquake struck the Chuetsu region of Niigata Prefecture, triggering landslides and destroying about 3,100 homes. The earthquake and its aftershocks killed 68 people and injured nearly 5,000, forcing over 100,000 residents to evacuate.",
+  "sources": [
+   "Japan Meteorological Agency",
+   "Fire and Disaster Management Agency",
+   "UNEP"
+  ]
+ },
+ {
+  "date": "2002-10-23",
+  "title": "Moscow theater siege (Nord-Ost)",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 130,
+  "description": "Chechen militants seized the Dubrovka theater in Moscow on October 23, taking more than 900 hostages. Russian security forces pumped an incapacitating gas into the building on October 26; at least 130 hostages died, most of them from the gas.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Human Rights Watch"
+  ]
+ },
+ {
+  "date": "2004-03-02",
+  "title": "Ashura bombings in Karbala and Baghdad",
+  "category": "terrorism",
+  "location": "Karbala, Iraq",
+  "lives_lost": 182,
+  "description": "Coordinated suicide bombings, car bombs and small-arms attacks struck Shia worshippers commemorating Ashura at shrines in Karbala and Baghdad, killing at least 182 people and wounding more than 550. It was one of the deadliest attacks in Iraq since the fall of Saddam Hussein.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Xinhua"
+  ]
+ },
+ {
+  "date": "2004-11-28",
+  "title": "Chenjiashan coal mine gas explosion",
+  "category": "industrial",
+  "location": "Tongchuan, China",
+  "lives_lost": 166,
+  "description": "A gas explosion at the Chenjiashan coal mine in Tongchuan, Shaanxi Province, trapped 166 miners, all of whom were confirmed dead, making it China's worst mining accident in 44 years. High temperatures and repeated underground blasts hampered recovery efforts for weeks.",
+  "sources": [
+   "China Daily",
+   "Xinhua",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2004-10-20",
+  "title": "Daping coal mine gas explosion",
+  "category": "industrial",
+  "location": "Xinmi, China",
+  "lives_lost": 148,
+  "description": "A gas explosion at the Daping coal mine in Xinmi, Henan Province, killed all 148 miners trapped underground, making it China's deadliest mine accident of 2004. The blast pushed hot, toxic fumes through the shaft and could be heard several kilometers away.",
+  "sources": [
+   "Reuters",
+   "China Daily",
+   "Xinhua"
+  ]
+ },
+ {
+  "date": "2004-10-20",
+  "title": "Typhoon Tokage",
+  "category": "natural-disaster",
+  "location": "Kochi, Japan",
+  "lives_lost": 95,
+  "description": "Typhoon Tokage, the record tenth typhoon to strike Japan in 2004, crossed Shikoku and Honshu with torrential rain that triggered more than 700 landslides. It killed 95 people and left three missing, making it Japan's deadliest typhoon since 1979.",
+  "sources": [
+   "Japan Cabinet Office",
+   "UNEP",
+   "Asian Disaster Reduction Center"
+  ]
+ },
+ {
+  "date": "2004-08-24",
+  "title": "Russian passenger plane bombings",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 90,
+  "description": "Explosives were detonated aboard two Russian domestic passenger flights that departed Moscow's Domodedovo Airport minutes apart on the evening of August 24, downing both aircraft over Tula and Rostov oblasts and killing all 90 people on board. Investigators found traces of RDX explosives, and two Chechen female suicide bombers were identified as the perpetrators.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Radio Free Europe/Radio Liberty"
+  ]
+ },
+ {
+  "date": "2004-02-27",
+  "title": "SuperFerry 14 bombing",
+  "category": "terrorism",
+  "location": "Manila, Philippines",
+  "lives_lost": 116,
+  "description": "A bomb planted aboard the SuperFerry 14 exploded in Manila Bay about an hour after departure, setting the ferry ablaze and killing 116 people. The Abu Sayyaf group claimed responsibility, and the attack remains the deadliest terrorist attack at sea.",
+  "sources": [
+   "The Guardian",
+   "BBC News",
+   "U.S. Department of State"
+  ]
+ },
+ {
+  "date": "2002-02-27",
+  "title": "Godhra train burning",
+  "category": "terrorism",
+  "location": "Godhra, India",
+  "lives_lost": 59,
+  "description": "A mob set fire to the Sabarmati Express at Godhra station in Gujarat, killing 59 passengers, most of them Hindu pilgrims returning from Ayodhya. The attack triggered weeks of retaliatory communal violence across the state.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2004-08-12",
+  "title": "Typhoon Rananim",
+  "category": "natural-disaster",
+  "location": "Wenzhou, China",
+  "lives_lost": 164,
+  "description": "Typhoon Rananim, the strongest typhoon to hit the Chinese mainland since 1956, made landfall in Zhejiang Province, collapsing thousands of homes and triggering floods and landslides. At least 164 people were killed and 24 reported missing in Zhejiang, with nearly 13 million people affected.",
+  "sources": [
+   "China Daily",
+   "UPI",
+   "UN OCHA"
+  ]
+ },
+ {
+  "date": "2004-11-07",
+  "title": "Second Battle of Fallujah",
+  "category": "war",
+  "location": "Fallujah, Iraq",
+  "lives_lost": 1000,
+  "description": "US, British and Iraqi forces launched Operation Phantom Fury to recapture the insurgent-held city, in the bloodiest battle of the Iraq War up to that point. More than 1,000 people were killed overall, including roughly 1,200-1,500 insurgents, 107 coalition troops, and an estimated 581-670 civilians per Iraq Body Count (about 800 per the Red Cross), and most of the city was destroyed.",
+  "sources": [
+   "Iraq Body Count",
+   "Reuters",
+   "International Committee of the Red Cross"
+  ]
+ },
+ {
+  "date": "2004-04-22",
+  "title": "Ryongchon train explosion",
+  "category": "industrial",
+  "location": "Ryongchon, North Korea",
+  "lives_lost": 161,
+  "description": "Two freight wagons loaded with ammonium nitrate exploded at Ryongchon railway station near the Chinese border, flattening the town center and destroying nearly 1,800 homes. The officially confirmed death toll was 161, including 76 schoolchildren, with about 1,300 people injured.",
+  "sources": [
+   "UN OCHA",
+   "Xinhua",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2004-07-30",
+  "title": "Darfur genocide (2004 killings)",
+  "category": "war",
+  "location": "Darfur, Sudan",
+  "lives_lost": 70000,
+  "description": "The armed conflict in Darfur, in which the Sudanese government and allied Janjaweed militias systematically attacked civilian villages, killed tens of thousands of people and displaced more than a million during 2004. United Nations and WHO estimates of deaths in 2004 ranged from about 30,000 to 71,000, mostly from violence, starvation and disease.",
+  "sources": [
+   "United Nations",
+   "World Health Organization",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2004-08-31",
+  "title": "Rizhskaya metro station bombing",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 10,
+  "description": "A female suicide bomber detonated an explosive device near the Rizhskaya metro station in Moscow, killing 10 people and wounding more than 50. The attack, linked to Chechen separatist militants, came one week after the bombing of two Russian passenger planes.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2002-08-31",
+  "title": "Typhoon Rusa",
+  "category": "natural-disaster",
+  "location": "South Korea",
+  "lives_lost": 238,
+  "description": "Typhoon Rusa, the strongest typhoon to strike South Korea in more than four decades, made landfall near Goheung on August 31, 2002. It killed 238 people across South Korea, Japan and North Korea and caused about $4.2 billion in damage.",
+  "sources": [
+   "Reuters",
+   "ReliefWeb",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2004-04-04",
+  "title": "First Battle of Fallujah",
+  "category": "war",
+  "location": "Fallujah, Iraq",
+  "lives_lost": 800,
+  "description": "US Marines besieged Fallujah in response to the killing of four American private security contractors, in the first major battle of the Iraq insurgency. Approximately 800 Iraqis were killed, including an estimated 572-616 civilians per Iraq Body Count, more than 300 of them women and children.",
+  "sources": [
+   "Iraq Body Count",
+   "Encyclopaedia Britannica"
+  ]
+ },
+ {
+  "date": "2004-11-30",
+  "title": "Philippines typhoon series and Quezon floods",
+  "category": "natural-disaster",
+  "location": "Quezon Province, Philippines",
+  "lives_lost": 1060,
+  "description": "A series of four typhoons and tropical storms, including Tropical Depression Winnie and Typhoon Nanmadol, brought torrential rain to the Philippines in late November and early December, triggering massive floods and landslides in Quezon Province. The storms killed 1,060 people and left 566 missing, according to the World Health Organization, with most deaths caused by Winnie.",
+  "sources": [
+   "World Health Organization",
+   "UN OCHA",
+   "Japan Ministry of Foreign Affairs"
+  ]
+ },
+ {
+  "date": "2003-01-05",
+  "title": "Tel Aviv Central Bus Station double suicide bombing",
+  "category": "terrorism",
+  "location": "Tel Aviv, Israel",
+  "lives_lost": 23,
+  "description": "Two Palestinian suicide bombers detonated explosives about 600 feet apart near the old central bus station in Tel Aviv during the evening rush hour, killing 23 civilians and wounding more than 100, most of them foreign workers. The al-Aqsa Martyrs Brigade claimed responsibility.",
+  "sources": [
+   "US State Department",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2003-02-18",
+  "title": "Daegu subway fire",
+  "category": "industrial",
+  "location": "Daegu, South Korea",
+  "lives_lost": 192,
+  "description": "An arsonist set flammable liquid ablaze aboard a train at Jungangno Station, and the fire spread to a second train pulling into the station, killing 192 people and injuring more than 140. Most victims died of asphyxiation after the second train's doors were sealed when power was cut.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2003-02-19",
+  "title": "Iran Ilyushin Il-76 military plane crash",
+  "category": "industrial",
+  "location": "Kerman, Iran",
+  "lives_lost": 275,
+  "description": "An Iranian Revolutionary Guards Ilyushin Il-76 military transport crashed into Mount Sirach in heavy snow and high winds while descending to land near Kerman, killing all 275 people aboard, mostly Guards personnel returning from leave. Investigators attributed the crash to controlled flight into terrain during the descent.",
+  "sources": [
+   "Reuters",
+   "The New York Times",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2003-02-20",
+  "title": "The Station nightclub fire",
+  "category": "industrial",
+  "location": "West Warwick, Rhode Island, United States",
+  "lives_lost": 100,
+  "description": "Pyrotechnics ignited flammable polyurethane soundproofing foam during a concert at The Station nightclub, engulfing the building within minutes and killing 100 people. More than 200 others were injured, making it one of the deadliest nightclub fires in US history.",
+  "sources": [
+   "Associated Press",
+   "CBS News",
+   "NIST"
+  ]
+ },
+ {
+  "date": "2003-02-26",
+  "title": "Outbreak of the Darfur conflict",
+  "category": "war",
+  "location": "Darfur, Sudan",
+  "lives_lost": 3000,
+  "description": "Rebel groups attacked a government air base in North Darfur, triggering a counterinsurgency campaign by the Sudanese government and allied Janjaweed militias that killed an estimated 3,000 civilians and displaced more than 600,000 people by the end of 2003. The conflict escalated into a sustained campaign of attacks on civilian villages.",
+  "sources": [
+   "International Crisis Group",
+   "US State Department",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2003-05-16",
+  "title": "Casablanca bombings",
+  "category": "terrorism",
+  "location": "Casablanca, Morocco",
+  "lives_lost": 45,
+  "description": "Thirteen suicide bombers attacked Jewish, Spanish, and Italian targets across Casablanca, killing 45 people, including 12 bombers, and wounding more than 100. The attacks were the deadliest in Moroccan history and prompted a large-scale crackdown on Islamist networks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2003-05-21",
+  "title": "Boumerdès earthquake",
+  "category": "natural-disaster",
+  "location": "Boumerdès, Algeria",
+  "lives_lost": 2266,
+  "description": "A magnitude 6.8 earthquake struck offshore near Zemmouri in Boumerdès Province, northern Algeria, killing about 2,266 people and injuring more than 10,000. It was the strongest earthquake to hit Algeria since 1980 and left roughly 200,000 people homeless.",
+  "sources": [
+   "BBC News",
+   "USGS",
+   "UNICEF"
+  ]
+ },
+ {
+  "date": "2003-07-01",
+  "title": "Yangtze and Huaihe river floods",
+  "category": "natural-disaster",
+  "location": "Anhui, China",
+  "lives_lost": 1551,
+  "description": "Seasonal floods along the Huaihe and Yangtze river basins in central and eastern China inundated large areas of Anhui, Jiangsu, and Henan provinces during the summer, killing about 1,551 people and affecting more than 100 million. It was the worst flooding in China since the 1998 Yangtze floods.",
+  "sources": [
+   "OCHA",
+   "Red Cross Society of China",
+   "CGTN"
+  ]
+ },
+ {
+  "date": "2002-07-01",
+  "title": "Uberlingen mid-air collision",
+  "category": "industrial",
+  "location": "Uberlingen, Germany",
+  "lives_lost": 71,
+  "description": "A Bashkirian Airlines Tupolev Tu-154 carrying 69 people, including many children en route to a Spanish holiday, collided with a DHL cargo Boeing 757 over southern Germany. All 71 people on both aircraft died.",
+  "sources": [
+   "BBC News",
+   "Deutsche Welle",
+   "Aviation Safety Network"
+  ]
+ },
+ {
+  "date": "2003-07-08",
+  "title": "Sudan Airways Flight 139 crash",
+  "category": "industrial",
+  "location": "Port Sudan, Sudan",
+  "lives_lost": 116,
+  "description": "A Sudan Airways Boeing 737 crashed into terrain near Port Sudan shortly after takeoff following an engine failure, killing 116 of the 117 people on board. The crew missed the runway on the emergency approach in poor visibility.",
+  "sources": [
+   "Aviation Safety Network",
+   "Reuters",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2003-07-18",
+  "title": "Second siege of Monrovia",
+  "category": "war",
+  "location": "Monrovia, Liberia",
+  "lives_lost": 1500,
+  "description": "LURD rebels besieged the Liberian capital Monrovia from June to August 2003, shelling civilian neighborhoods, churches, and schools and killing an estimated 1,000 to 1,500 civilians. The siege ended when President Charles Taylor went into exile and international peacekeepers arrived.",
+  "sources": [
+   "UN Office of the High Commissioner for Human Rights",
+   "ACT Alliance",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2003-08-01",
+  "title": "European heat wave",
+  "category": "natural-disaster",
+  "location": "Western Europe",
+  "lives_lost": 70000,
+  "description": "An extreme heat wave across Western and Central Europe, peaking in the first half of August, caused an estimated 70,000 excess deaths, including about 15,000 in France. Temperatures exceeded 40 degrees Celsius for consecutive days, and most victims were elderly people living without air conditioning.",
+  "sources": [
+   "French Institute for Public Health Surveillance (InVS)",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2003-08-19",
+  "title": "Canal Hotel (UN Baghdad headquarters) bombing",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 22,
+  "description": "A suicide truck bomb destroyed the Canal Hotel, the UN headquarters in Baghdad, killing 22 people, including the UN special representative Sergio Vieira de Mello and other UN staff. It remains one of the deadliest attacks ever directed at the United Nations.",
+  "sources": [
+   "UN News",
+   "BBC News",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2003-08-25",
+  "title": "Mumbai twin bomb blasts",
+  "category": "terrorism",
+  "location": "Mumbai, India",
+  "lives_lost": 52,
+  "description": "Twin car bombs exploded at the Gateway of India and the Zaveri Bazaar jewellery market during the lunch hour, killing 52 people and injuring more than 200. Pakistan-based Lashkar-e-Taiba was suspected, and three people were later convicted for the attack.",
+  "sources": [
+   "Times of India",
+   "NDTV",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2003-08-29",
+  "title": "Imam Ali Mosque bombing in Najaf",
+  "category": "terrorism",
+  "location": "Najaf, Iraq",
+  "lives_lost": 95,
+  "description": "A car bomb exploded outside the Imam Ali Mosque in Najaf as worshippers left Friday prayers, killing Ayatollah Mohammed Baqir al-Hakim and about 95 people and wounding more than 200. It was one of the deadliest attacks in Iraq since the fall of Baghdad.",
+  "sources": [
+   "PBS NewsHour",
+   "Al Jazeera",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2003-11-15",
+  "title": "Istanbul bombings",
+  "category": "terrorism",
+  "location": "Istanbul, Turkey",
+  "lives_lost": 57,
+  "description": "Al-Qaeda truck bombers attacked two synagogues in Istanbul on November 15 and the British Consulate and HSBC headquarters on November 20, killing 57 people and wounding more than 700. They were the deadliest terrorist attacks in Turkish history.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2001-11-15",
+  "title": "Podi Coal Mine Explosion",
+  "category": "industrial",
+  "location": "Jiaocheng County, Shanxi, China",
+  "lives_lost": 33,
+  "description": "A gas explosion at the Podi coal mine in Shanxi Province killed 33 miners, part of a series of five blasts that killed 99 miners in the province within two weeks in November 2001. The mine had been ordered to fix safety problems after an earlier accident, and its owner was arrested, with China's government subsequently suspending small mines nationwide for safety checks.",
+  "sources": [
+   "BBC News",
+   "People's Daily",
+   "China Daily"
+  ]
+ },
+ {
+  "date": "2002-02-28",
+  "title": "2002 Gujarat riots",
+  "category": "war",
+  "location": "Gujarat, India",
+  "lives_lost": 1000,
+  "description": "Weeks of communal rioting followed the Godhra train burning, with violence concentrated in Ahmedabad and other Gujarat cities. The official death toll was about 1,000, while independent estimates range up to 2,000, most of them Muslims.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "The Guardian"
+  ]
+ },
+ {
+  "date": "2001-01-13",
+  "title": "El Salvador Earthquake",
+  "category": "natural-disaster",
+  "location": "El Salvador (Pacific coast)",
+  "lives_lost": 944,
+  "description": "A magnitude 7.6 earthquake struck off the Pacific coast of El Salvador, killing 944 people and injuring more than 4,700, with a massive landslide in Santa Tecla burying hundreds. The quake displaced more than one million people and destroyed or damaged over 100,000 homes.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "BBC News",
+   "UNICEF"
+  ]
+ },
+ {
+  "date": "2001-02-13",
+  "title": "Second El Salvador Earthquake",
+  "category": "natural-disaster",
+  "location": "San Salvador, El Salvador",
+  "lives_lost": 315,
+  "description": "A magnitude 6.6 aftershock earthquake struck near San Salvador one month after the January quake, killing 315 people and injuring more than 3,000. Thousands of people in and around the capital were left homeless.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "USAID"
+  ]
+ },
+ {
+  "date": "2002-06-01",
+  "title": "Southern Africa food crisis",
+  "category": "food-crisis",
+  "location": "Southern Africa",
+  "lives_lost": 300000,
+  "description": "A regional drought, compounded by failed harvests and high HIV/AIDS prevalence, created a severe food crisis across Malawi, Zimbabwe, Zambia and neighboring countries, leaving more than 10 million people in need of emergency food aid. The WHO projected up to 300,000 excess deaths from hunger and related disease in the worst-affected countries.",
+  "sources": [
+   "World Health Organization",
+   "UN World Food Programme",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2001-06-01",
+  "title": "Nepalese Royal Palace Massacre",
+  "category": "gun-violence",
+  "location": "Kathmandu, Nepal",
+  "lives_lost": 10,
+  "description": "Crown Prince Dipendra shot and killed nine members of Nepal's royal family, including King Birendra and Queen Aishwarya, at the Narayanhity Royal Palace before shooting himself. Dipendra died of his wounds on June 4, and his uncle Gyanendra assumed the throne, with an official inquiry attributing the killings to Dipendra.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2001-06-01",
+  "title": "Dolphinarium Discotheque Bombing",
+  "category": "terrorism",
+  "location": "Tel Aviv, Israel",
+  "lives_lost": 21,
+  "description": "A Hamas suicide bomber detonated an explosive device outside the Dolphinarium discotheque in Tel Aviv, killing 21 people, most of them teenagers, and wounding about 120. It was one of the deadliest attacks of the Second Intifada.",
+  "sources": [
+   "BBC News",
+   "The Guardian",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2001-06-21",
+  "title": "Afghanistan Drought and Famine Crisis",
+  "category": "food-crisis",
+  "location": "Afghanistan (nationwide)",
+  "lives_lost": 5000,
+  "description": "Afghanistan's third consecutive year of severe drought brought the country to the brink of famine, with FAO and WFP reporting that about 5.5 million people faced severe food shortages by mid-2001. World Bank and UN officials warned of famine conditions and reported thousands of deaths from starvation and exposure, though the total death toll was never precisely counted.",
+  "sources": [
+   "FAO",
+   "World Food Programme",
+   "World Bank",
+   "BBC News"
+  ]
+ },
+ {
+  "date": "2001-06-23",
+  "title": "Southern Peru Earthquake",
+  "category": "natural-disaster",
+  "location": "Arequipa, Peru",
+  "lives_lost": 100,
+  "description": "A magnitude 8.4 earthquake struck off the coast of southern Peru, killing roughly 100 people and injuring more than 1,300, with most deaths in the Arequipa region. The quake triggered a tsunami that killed about two dozen people in the Camaná area and damaged or destroyed thousands of buildings, including historic structures in Arequipa.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "MSF"
+  ]
+ },
+ {
+  "date": "2001-07-04",
+  "title": "Typhoon Utor (Feria)",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 168,
+  "description": "Typhoon Utor struck northern Luzon in early July 2001, killing at least 168 people in the Philippines and dozens more in southern China, with most fatalities caused by landslides and flooding around Baguio City. Nearly one million people across about 20 provinces were affected, and tens of thousands of homes were destroyed.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2001-07-24",
+  "title": "Colombo Airport Attack",
+  "category": "terrorism",
+  "location": "Colombo, Sri Lanka",
+  "lives_lost": 18,
+  "description": "LTTE suicide commandos attacked Bandaranaike International Airport and the adjoining air force base near Colombo, killing at least 18 people and destroying or damaging 11-13 aircraft, including several SriLankan Airlines jets. The attack caused an estimated $350 million in losses to the national carrier alone.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ]
+ },
+ {
+  "date": "2001-09-09",
+  "title": "Assassination of Ahmad Shah Massoud",
+  "category": "terrorism",
+  "location": "Takhar Province, Afghanistan",
+  "lives_lost": 2,
+  "description": "Two al-Qaeda operatives posing as journalists detonated a bomb hidden in a camera while interviewing Ahmad Shah Massoud, the military leader of the Afghan Northern Alliance, killing him and one other person. The assassination came two days before the September 11 attacks and removed the alliance's most effective commander ahead of the US invasion.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2001-11-25",
+  "title": "Qala-i-Jangi Fortress Uprising",
+  "category": "war",
+  "location": "Mazar-i-Sharif, Afghanistan",
+  "lives_lost": 400,
+  "description": "Taliban and al-Qaeda prisoners revolted at the Qala-i-Jangi fortress near Mazar-i-Sharif, triggering a six-day battle in which up to 400 prisoners, about 73 Northern Alliance fighters, and CIA officer Johnny Spann — the first American killed in combat in the war — died. Only 86 of the more than 400 prisoners survived, including American Taliban fighter John Walker Lindh.",
+  "sources": [
+   "BBC News",
+   "The Guardian",
+   "Los Angeles Times"
+  ]
+ },
+ {
+  "date": "2001-12-01",
+  "title": "Ben Yehuda Street Bombings",
+  "category": "terrorism",
+  "location": "Jerusalem, Israel",
+  "lives_lost": 11,
+  "description": "Two Palestinian suicide bombers detonated explosives on Ben Yehuda Street in central Jerusalem, killing 11 civilians, mostly teenagers, and wounding about 180, with a car bomb exploding nearby about 20 minutes later. Hamas claimed responsibility for the attacks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Jerusalem Post"
+  ]
+ },
+ {
+  "date": "2001-12-02",
+  "title": "Haifa Bus 16 Bombing",
+  "category": "terrorism",
+  "location": "Haifa, Israel",
+  "lives_lost": 15,
+  "description": "A Hamas suicide bomber detonated a nail-studded explosives belt aboard bus 16 in Haifa, killing 15 people and wounding about 40. The attack came about 12 hours after the Ben Yehuda Street bombings and was one of the deadliest attacks of the Second Intifada.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Amnesty International",
+   "Government of Israel"
+  ]
+ },
+ {
+  "date": "2001-12-13",
+  "title": "Indian Parliament Attack",
+  "category": "terrorism",
+  "location": "New Delhi, India",
+  "lives_lost": 9,
+  "description": "Five gunmen from the Pakistan-based groups Lashkar-e-Taiba and Jaish-e-Mohammed attacked the Indian Parliament complex in New Delhi, killing nine security personnel and a gardener before being shot dead. The attack brought India and Pakistan to the brink of war, with both sides mobilizing troops along the border.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2002-01-17",
+  "title": "Mount Nyiragongo eruption",
+  "category": "natural-disaster",
+  "location": "Goma, Democratic Republic of the Congo",
+  "lives_lost": 100,
+  "description": "Mount Nyiragongo erupted on January 17, 2002, sending lava flows through the city of Goma and forcing hundreds of thousands of residents to flee into Rwanda. Estimates of the death toll range from about 45 to 147, with more than 12,000 homes destroyed and roughly 100,000 people displaced.",
+  "sources": [
+   "BBC News",
+   "ReliefWeb",
+   "USGS"
+  ]
+ },
+ {
+  "date": "2002-03-25",
+  "title": "Nahrin earthquake",
+  "category": "natural-disaster",
+  "location": "Baghlan Province, Afghanistan",
+  "lives_lost": 1800,
+  "description": "A magnitude 6.1 earthquake struck the Nahrin district of Baghlan Province, collapsing thousands of mud-brick homes in remote villages. Afghan authorities and the UN estimated about 1,800 people killed and up to 4,000 injured.",
+  "sources": [
+   "USGS",
+   "UN News",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2002-03-27",
+  "title": "Park Hotel Passover massacre",
+  "category": "terrorism",
+  "location": "Netanya, Israel",
+  "lives_lost": 30,
+  "description": "A Hamas suicide bomber attacked the Park Hotel in Netanya during the Passover seder, killing 30 people and wounding about 140. It was one of the deadliest attacks of the Second Intifada and a trigger for Operation Defensive Shield.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "New York Times"
+  ]
+ },
+ {
+  "date": "2002-05-02",
+  "title": "Bojaya massacre",
+  "category": "war",
+  "location": "Bojaya, Colombia",
+  "lives_lost": 119,
+  "description": "During a battle between FARC and right-wing paramilitaries in Bellavista, a gas-cylinder mortar fired by FARC struck the town church where about 300 civilians had taken refuge. The attack killed 119 people, including roughly 45 children, in the deadliest single incident of Colombia's civil war.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2002-05-25",
+  "title": "China Airlines Flight 611 disaster",
+  "category": "industrial",
+  "location": "Taiwan Strait",
+  "lives_lost": 225,
+  "description": "China Airlines Flight 611, a Boeing 747 traveling from Taipei to Hong Kong, broke up in mid-air about 20 minutes after takeoff and crashed into the Taiwan Strait. All 225 passengers and crew were killed.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Aviation Safety Network"
+  ]
+ },
+ {
+  "date": "2002-06-18",
+  "title": "Jerusalem bus 32A bombing",
+  "category": "terrorism",
+  "location": "Jerusalem, Israel",
+  "lives_lost": 19,
+  "description": "A Palestinian suicide bomber detonated a device aboard Egged bus 32A in Jerusalem during the morning rush hour, killing 19 people and wounding more than 70. It was the deadliest bus bombing in Jerusalem during the Second Intifada.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Haaretz"
+  ]
+ },
+ {
+  "date": "2002-06-22",
+  "title": "Bou'in-Zahra earthquake",
+  "category": "natural-disaster",
+  "location": "Qazvin Province, Iran",
+  "lives_lost": 261,
+  "description": "A magnitude 6.5 earthquake struck near Bou'in-Zahra in northwestern Iran, destroying virtually all of the region's single-story masonry houses. At least 261 people were killed and about 1,500 injured.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "ReliefWeb"
+  ]
+ },
+ {
+  "date": "2002-07-27",
+  "title": "Sknyliv air show disaster",
+  "category": "industrial",
+  "location": "Lviv, Ukraine",
+  "lives_lost": 85,
+  "description": "A Ukrainian Air Force Su-27 fighter crashed into a crowd during an aerobatics display at Sknyliv airfield near Lviv. The crash killed 85 people and injured more than 100 spectators.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "Kyiv Post"
+  ]
+ },
+ {
+  "date": "2002-08-13",
+  "title": "Central European floods",
+  "category": "natural-disaster",
+  "location": "Germany, Czech Republic, Austria",
+  "lives_lost": 110,
+  "description": "Days of record rainfall in August 2002 caused catastrophic flooding along the Elbe, Danube and Vltava rivers, inundating Dresden, Prague and other cities. About 110 people died across central Europe and Russia, with damages exceeding $15 billion.",
+  "sources": [
+   "BBC News",
+   "Deutsche Welle",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2002-09-26",
+  "title": "MV Le Joola capsizing",
+  "category": "industrial",
+  "location": "Atlantic Ocean, off Senegal",
+  "lives_lost": 1863,
+  "description": "The Senegalese ferry MV Le Joola, severely overloaded with an estimated 1,900 people aboard, capsized in a storm off the coast of The Gambia en route to Dakar. Only 64 survivors were rescued, making it one of the deadliest peacetime maritime disasters in history.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Le Monde"
+  ]
+ },
+ {
+  "date": "2002-10-02",
+  "title": "Beltway sniper attacks",
+  "category": "gun-violence",
+  "location": "Washington, D.C., United States",
+  "lives_lost": 10,
+  "description": "Over three weeks in October 2002, John Allen Muhammad and Lee Boyd Malvo killed 10 people and wounded 3 in seemingly random shootings across the Washington, D.C., region. The pair killed a total of 17 people during the broader multi-state crime spree.",
+  "sources": [
+   "BBC News",
+   "The Washington Post",
+   "FBI"
+  ]
+ },
+ {
+  "date": "2002-12-27",
+  "title": "Grozny government headquarters bombing",
+  "category": "terrorism",
+  "location": "Grozny, Russia",
+  "lives_lost": 83,
+  "description": "Chechen suicide bombers drove explosive-laden vehicles into the pro-Russian Chechen government headquarters in Grozny. The blast killed 83 people and injured 210 in one of the deadliest attacks of the Second Chechen War.",
+  "sources": [
+   "BBC News",
+   "Dawn",
+   "Reuters"
+  ]
+ }
+]

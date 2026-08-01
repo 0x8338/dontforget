@@ -1,0 +1,41 @@
+[
+ {
+  "person": "Barack Obama",
+  "role": "President of the United States",
+  "promise": "Pass comprehensive health care reform legislation in 2009",
+  "date_promised": "2009-09-09",
+  "due_date": "2009-12-31",
+  "status": "partial",
+  "description": "In a joint session address Obama told Congress reform 'must happen this year.' The Affordable Care Act was not signed until March 23, 2010, several months after the promised timeline.",
+  "evidence": [
+   "ACA signed 2010-03-23, not in 2009",
+   "Reform did ultimately pass, fulfilling the substance of the promise"
+  ],
+  "sources": [
+   "C-SPAN",
+   "White House Archives",
+   "The New York Times"
+  ]
+ },
+ {
+  "person": "Bali Action Plan / UNFCCC",
+  "role": "COP13 Bali Roadmap decision (1/CP.13)",
+  "promise": "A legally binding post-Kyoto climate agreement to be concluded at COP15 in Copenhagen by the end of 2009.",
+  "date_promised": "2007-12-15",
+  "due_date": "2009-12-18",
+  "status": "broken",
+  "description": "The Bali Roadmap set COP15 as the deadline for a post-2012 agreement. COP15 ended without a binding treaty - only the non-binding Copenhagen Accord was 'taken note of'. A binding successor came only with the Paris Agreement in December 2015, six years late.",
+  "evidence": [
+   "COP15 (Dec 2009) produced no legally binding instrument; the Copenhagen Accord was a 2-page political deal 'taken note of' by the COP",
+   "Binding post-Kyoto regime only adopted at Paris, 12 December 2015"
+  ],
+  "sources": [
+   "UNFCCC",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf",
+   "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference"
+  ]
+ }
+]

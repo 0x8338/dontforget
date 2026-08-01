@@ -23,3 +23,5 @@ UTC for everything. Each event has ≥2 public sources. No commentary — what h
 | Range | 2000–2026 | 2000–2026 |
 
 Updated daily via agent — events plus promise expansion. Each change is validated, committed with a UTC timestamp, and pushed to the repo. Checkpoint prevents gaps if a day is skipped.
+
+The pages stay light for slow connections: events load in five-year windows and promises load month by month, so a visit never downloads the full archive.

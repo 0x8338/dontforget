@@ -1,0 +1,57 @@
+[
+ {
+  "person": "United Nations",
+  "role": "189 UN member states (Millennium Development Goals)",
+  "promise": "Halve the proportion of people living in extreme poverty between 1990 and 2015",
+  "date_promised": "2000-09-08",
+  "due_date": "2015-12-31",
+  "status": "kept",
+  "description": "The Millennium Declaration committed the world to halving the 1990 extreme poverty rate by 2015. The UN declared the goal met: the global poverty rate fell from 47% in 1990 to 14% in 2015, driven heavily by growth in China and India.",
+  "evidence": [
+   "UN declared MDG1 achieved in the 2015 MDG Report",
+   "Poverty rate fell from 47% (1990) to 14% (2015)"
+  ],
+  "sources": [
+   "United Nations Millennium Development Goals Report",
+   "World Bank"
+  ]
+ },
+ {
+  "person": "Muhammadu Buhari",
+  "role": "President of Nigeria",
+  "promise": "We will end Boko Haram by December",
+  "date_promised": "2015-07-14",
+  "due_date": "2015-12-31",
+  "status": "broken",
+  "description": "In July 2015, shortly after his inauguration, Buhari promised that the Boko Haram insurgency would be 'technically ended' by December 2015, saying the military had been ordered to defeat the group within months. The insurgency continued throughout his entire eight-year presidency, with attacks and kidnapping persisting long after the deadline.",
+  "evidence": [
+   "Boko Haram attacks continued past the December 2015 deadline and throughout Buhari's term",
+   "Buhari's own defense officials later abandoned the 'technical defeat' claim"
+  ],
+  "sources": [
+   "BBC News (July 2015)",
+   "Reuters (2015-2016 Nigeria security reporting)"
+  ]
+ },
+ {
+  "person": "Meg Whitman",
+  "role": "CEO, Hewlett-Packard",
+  "promise": "HP revenue would stabilize in 2014, with growth accelerating again in 2015",
+  "date_promised": "2013-10-01",
+  "due_date": "2015-12-31",
+  "status": "partial",
+  "description": "Whitman told investors in late 2013 to expect revenue stability in 2014 with pockets of growth before acceleration in 2015. HP posted quarterly revenue growth in the second half of fiscal 2014, but full-year fiscal 2014 revenue was roughly flat or slightly down, and the 2015 plan was overtaken by the company's split into HP Inc. and Hewlett Packard Enterprise.",
+  "evidence": [
+   "Q3 and Q4 FY2014 quarterly revenue grew year over year",
+   "Full-year FY2014 revenue still declined slightly; 2015 split disrupted the growth plan"
+  ],
+  "sources": [
+   "Fox Business (2013)",
+   "New York Times"
+  ],
+  "source_urls": [
+   null,
+   "http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
+  ]
+ }
+]

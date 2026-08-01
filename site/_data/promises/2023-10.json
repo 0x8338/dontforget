@@ -1,0 +1,19 @@
+[
+ {
+  "person": "Rob Manfred",
+  "role": "MLB Commissioner",
+  "promise": "We believe this will reduce average game time by roughly 25 minutes (pitch clock, as reported).",
+  "date_promised": "2022-09-13",
+  "due_date": "2023-10-01",
+  "status": "kept",
+  "description": "MLB adopted the pitch clock and other pace-of-play rules for the 2023 season, with Manfred promising dramatically shorter games. Average nine-inning game time fell from 3:04 in 2022 to 2:40 in 2023 — a 24-minute reduction.",
+  "evidence": [
+   "Pitch clock implemented from opening day 2023",
+   "Average game time dropped 24 minutes from 3:04 (2022) to 2:40 (2023)"
+  ],
+  "sources": [
+   "MLB.com, 2022-09-13",
+   "AP, 2023-10 season review"
+  ]
+ }
+]

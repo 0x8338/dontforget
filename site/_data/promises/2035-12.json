@@ -1,0 +1,43 @@
+[
+ {
+  "person": "Demis Hassabis",
+  "role": "CEO, Google DeepMind",
+  "promise": "\"AI that can match humans at any task will be here in five to 10 years\"",
+  "date_promised": "2025-03-17",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "Hassabis repeatedly predicted AGI in roughly a 5-10 year window, later tightening to 'around 2030, possibly as early as 2029' (May 2026 interviews). Long-dated timeline, still pending and unverifiable.",
+  "evidence": [
+   "CNBC headline quote (Mar 17, 2025)",
+   "Nov 2025: Hassabis reiterated 5-10 years (Times of India)",
+   "May 2026: 'DeepMind CEO predicts AGI in 2030' (Axios); 'as early as 2029' (GIGAZINE)"
+  ],
+  "sources": [
+   "CNBC (Mar 17, 2025)",
+   "Axios (May 26, 2026)",
+   "Times of India (Nov 24, 2025)"
+  ]
+ },
+ {
+  "person": "Ben van Beurden / Wael Sawan",
+  "role": "Shell CEO (2014-2022) / CEO (2023-)",
+  "promise": "Reduce the net carbon intensity of our energy products by 20% by 2030 and 45% by 2035, versus 2016 (net zero by 2050).",
+  "date_promised": "2021-04-01",
+  "due_date": "2035-12-31",
+  "status": "broken",
+  "description": "Shell's 2021 Energy Transition Strategy set 20% (2030) and 45% (2035) intensity cuts. On 14 June 2023 CEO Wael Sawan scrapped the 2035 target outright and cut the 2030 target to 9-12% - the most high-profile corporate climate target reversal of its era (reneged before the deadline).",
+  "evidence": [
+   "14 June 2023 update: 2035 target removed; 2030 target weakened from 20% to 9-12%",
+   "Sawan also dropped Shell's plan to reduce oil production every year through the decade (Wikipedia: Wael Sawan)",
+   "Court-ordered 45% cut (Milieudefensie) later overturned on appeal, Nov 2024"
+  ],
+  "sources": [
+   "Reuters",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/sustainability/climate-energy/shell-softens-carbon-targets-2023-06-14/",
+   "https://en.wikipedia.org/wiki/Wael_Sawan"
+  ]
+ }
+]

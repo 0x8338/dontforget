@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "End the Russia-Ukraine war within 24 hours of becoming president",
+  "date_promised": "2025-01-07",
+  "due_date": "2025-01-21",
+  "status": "broken",
+  "description": "Trump promised repeatedly, including at a January 7, 2025 press conference, that he would have the war 'solved within 24 hours' of returning to office. The war continued throughout 2025 and remained active in 2026.",
+  "evidence": [
+   "No ceasefire or peace deal within 24 hours of inauguration",
+   "Fighting continued through 2025 and 2026"
+  ],
+  "sources": [
+   "White House press conference",
+   "AP News",
+   "Reuters"
+  ]
+ }
+]

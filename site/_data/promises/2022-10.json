@@ -1,0 +1,19 @@
+[
+ {
+  "person": "Roger Goodell",
+  "role": "NFL Commissioner",
+  "promise": "I think that will happen and I believe it will happen in the next five to ten years (London franchise, as reported).",
+  "date_promised": "2017-10-02",
+  "due_date": "2022-10-31",
+  "status": "broken",
+  "description": "Goodell repeatedly called an NFL franchise in London 'inevitable' with a five-to-ten-year window from 2017. By the midpoint (2022) and through 2026, no London franchise has been awarded; the league has held International Series games but expansion remains undecided.",
+  "evidence": [
+   "Goodell's 2017 comments at NFL owners meetings called London franchise inevitable",
+   "No expansion franchise awarded as of mid-2026; London team still 'under consideration'"
+  ],
+  "sources": [
+   "NFL.com / AP, 2017-10",
+   "ESPN, 2022-2026"
+  ]
+ }
+]

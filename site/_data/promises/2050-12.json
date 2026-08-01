@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Larry Fink",
+  "role": "CEO, BlackRock",
+  "promise": "Achieve net zero across BlackRock by 2050 or sooner and launch investment products aligned to a net-zero pathway",
+  "date_promised": "2021-01-26",
+  "due_date": "2050-12-31",
+  "status": "partial",
+  "description": "In his January 2021 annual letter to CEOs and clients, Fink committed BlackRock to supporting a net-zero economy by 2050 or sooner, saying the firm would use its investment weight to press companies to cut carbon emissions and would introduce products with explicit temperature-alignment goals.",
+  "evidence": [
+   "Commitment made in the 2021 annual letter to CEOs",
+   "BlackRock continued to hold major fossil-fuel assets, making full achievement uncertain as of 2026"
+  ],
+  "sources": [
+   "New York Times",
+   "Business Insider",
+   "S&P Global"
+  ]
+ }
+]

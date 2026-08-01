@@ -45,6 +45,10 @@
     </div>
   </div>
 
+  <div id="load-more-wrap" hidden>
+    <button id="load-more" class="load-more" type="button">Show more months</button>
+  </div>
+
 </main>
 
 <footer>
@@ -55,71 +59,101 @@
 (function() {
   var statusClass = { kept: 'kept', broken: 'broken', partial: 'pending', pending: 'pending' };
   var statusMark = { kept: '&#10003;', broken: '&#10007;', partial: '&#9675;', pending: '&#9675;' };
+  var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var container = document.getElementById('promises-container');
+  var loadMoreWrap = document.getElementById('load-more-wrap');
+  var loadMoreBtn = document.getElementById('load-more');
+  var monthsList = [];
+  var loadedPromises = [];
+  var nextMonth = 0;
+  var PAGE = 3;
+  var currentFilter = 'all';
 
-  fetch('../_data/promises.json')
+  function renderPromises(filter) {
+    var groups = {};
+    loadedPromises.forEach(function(p) {
+      var ym = p.due_date.slice(0, 7);
+      if (!groups[ym]) groups[ym] = [];
+      groups[ym].push(p);
+    });
+    var html = '';
+    Object.keys(groups).sort().reverse().forEach(function(ym) {
+      var parts = ym.split('-');
+      var label = months[parseInt(parts[1]) - 1] + ' ' + parts[0];
+      var items = filter === 'all' ? groups[ym] : groups[ym].filter(function(p) { return p.status === filter; });
+      if (items.length === 0) return;
+      html += '<div class="eyebrow">' + label + '</div>';
+      items.forEach(function(p) {
+        var cls = statusClass[p.status] || 'pending';
+        html += '<article class="card card-' + cls + '">' +
+          '<h3>' + p.promise + '</h3>' +
+          '<div class="meta-line">' +
+            '<span class="status-mark status-' + cls + '">' + statusMark[p.status] + '</span> ' +
+            p.person + ', ' + p.role + ' · Due: ' + p.due_date +
+            '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + p.status + '</span>' +
+          '</div>' +
+          '<p>' + p.description + '</p>' +
+          '<div class="sources">Sources: ' + p.sources.join(' · ') + '</div>' +
+          '</article>';
+      });
+    });
+    if (!html) html = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No promises in this category.</div></div>';
+    container.innerHTML = html;
+    loadMoreWrap.hidden = nextMonth >= monthsList.length;
+  }
+
+  function loadMonths() {
+    if (nextMonth >= monthsList.length) {
+      renderPromises(currentFilter);
+      return;
+    }
+    loadMoreBtn.textContent = 'Loading…';
+    var batch = monthsList.slice(nextMonth, nextMonth + PAGE);
+    nextMonth += batch.length;
+    Promise.all(batch.map(function(m) {
+      return fetch('../_data/' + m.file).then(function(r) { return r.json(); });
+    }))
+    .then(function(arrays) {
+      arrays.forEach(function(a) { loadedPromises = loadedPromises.concat(a); });
+      loadMoreBtn.textContent = 'Show more months';
+      renderPromises(currentFilter);
+    })
+    .catch(function() {
+      loadMoreBtn.textContent = 'Show more months';
+      container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
+    });
+  }
+
+  fetch('../_data/promises/index.json')
     .then(function(r) { return r.json(); })
-    .then(function(promises) {
-      var today = new Date().toISOString().slice(0, 10);
-      var due = promises.filter(function(p) { return p.due_date <= today; });
-
-      document.getElementById('promise-count').textContent = due.length;
-      document.getElementById('stat-kept').textContent = due.filter(function(p) { return p.status === 'kept'; }).length;
-      document.getElementById('stat-broken').textContent = due.filter(function(p) { return p.status === 'broken'; }).length;
-      document.getElementById('stat-partial').textContent = due.filter(function(p) { return p.status === 'partial'; }).length;
-      document.getElementById('stat-pending').textContent = due.filter(function(p) { return p.status === 'pending'; }).length;
+    .then(function(index) {
+      var st = index.due_status || {};
+      document.getElementById('promise-count').textContent = index.due_total || 0;
+      document.getElementById('stat-kept').textContent = st.kept || 0;
+      document.getElementById('stat-broken').textContent = st.broken || 0;
+      document.getElementById('stat-partial').textContent = st.partial || 0;
+      document.getElementById('stat-pending').textContent = st.pending || 0;
       document.getElementById('stat-kept').className = 'stat-num kept';
       document.getElementById('stat-broken').className = 'stat-num broken';
       document.getElementById('stat-partial').className = 'stat-num partial';
       document.getElementById('stat-pending').className = 'stat-num pending';
 
-      // Group past-due promises by due month
-      var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-      var groups = {};
-      due.forEach(function(p) {
-        var ym = p.due_date.slice(0, 7);
-        if (!groups[ym]) groups[ym] = [];
-        groups[ym].push(p);
-      });
-
-      function renderPromises(filter) {
-        var html = '';
-        Object.keys(groups).sort().reverse().forEach(function(ym) {
-          var parts = ym.split('-');
-          var label = months[parseInt(parts[1]) - 1] + ' ' + parts[0];
-          var items = filter === 'all' ? groups[ym] : groups[ym].filter(function(p) { return p.status === filter; });
-          if (items.length === 0) return;
-          html += '<div class="eyebrow">' + label + '</div>';
-          items.forEach(function(p) {
-            var cls = statusClass[p.status] || 'pending';
-            html += '<article class="card card-' + cls + '">' +
-              '<h3>' + p.promise + '</h3>' +
-              '<div class="meta-line">' +
-                '<span class="status-mark status-' + cls + '">' + statusMark[p.status] + '</span> ' +
-                p.person + ', ' + p.role + ' · Due: ' + p.due_date +
-                '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + p.status + '</span>' +
-              '</div>' +
-              '<p>' + p.description + '</p>' +
-              '<div class="sources">Sources: ' + p.sources.join(' · ') + '</div>' +
-              '</article>';
-          });
-        });
-        if (!html) html = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No promises in this category.</div></div>';
-        document.getElementById('promises-container').innerHTML = html;
-      }
-
-      renderPromises('all');
-
-      document.querySelectorAll('#promise-filters .filter-chip').forEach(function(chip) {
-        chip.addEventListener('click', function() {
-          document.querySelectorAll('#promise-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
-          this.classList.add('active');
-          renderPromises(this.dataset.filter);
-        });
-      });
+      monthsList = (index.months || []).filter(function(m) { return m.due; });
+      loadMoreBtn.addEventListener('click', loadMonths);
+      loadMonths();
     })
     .catch(function() {
-      document.getElementById('promises-container').innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
+      container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
     });
+
+  document.querySelectorAll('#promise-filters .filter-chip').forEach(function(chip) {
+    chip.addEventListener('click', function() {
+      document.querySelectorAll('#promise-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
+      this.classList.add('active');
+      currentFilter = this.dataset.filter;
+      renderPromises(currentFilter);
+    });
+  });
 })();
 </script>
 </body>

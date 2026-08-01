@@ -1,0 +1,43 @@
+[
+ {
+  "person": "Mohammed bin Salman",
+  "role": "Crown Prince and Prime Minister of Saudi Arabia",
+  "promise": "Saudi Arabia will allow women to drive, effective June 2018",
+  "date_promised": "2017-09-26",
+  "due_date": "2018-06-24",
+  "status": "kept",
+  "description": "In September 2017, MBS and King Salman issued a royal decree ending the world's only ban on women driving, with the policy taking effect in June 2018 as part of the Vision 2030 modernization drive. Women began driving legally on June 24, 2018, exactly as announced — one of the most visible kept promises of the Saudi reform agenda.",
+  "evidence": [
+   "Driving ban lifted on schedule on June 24, 2018, nationwide",
+   "First women drivers on the roads within hours of the decree taking effect"
+  ],
+  "sources": [
+   "Reuters / BBC (September 2017 and June 2018)",
+   "Saudi Press Agency (royal decree, September 26, 2017)"
+  ]
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "We expect Windows 10 to be running on over one billion devices within two to three years",
+  "date_promised": "2015-04-29",
+  "due_date": "2018-06-30",
+  "status": "broken",
+  "description": "At BUILD 2015, Nadella set a public target of 1 billion Windows 10 devices within 2-3 years of the July 2015 release. Microsoft quietly abandoned the goal — Windows 10 only passed 1 billion active devices in March 2020, almost five years after launch. It remains one of the most cited missed CEO targets in tech.",
+  "evidence": [
+   "ZDNet (Apr 30, 2015): 'Microsoft's big Windows 10 goal: one billion or bust'",
+   "Wikipedia: Microsoft 'aimed to have Windows 10 installed on over a billion devices within three years of release; ultimately, that goal was reached in March 2020, almost five years later'",
+   "The Verge (Mar 16, 2020): 'Microsoft hits its goal of 1 billion devices running Windows 10'"
+  ],
+  "sources": [
+   "ZDNet",
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.zdnet.com/article/microsofts-big-windows-10-goal-one-billion-or-bust/",
+   "https://www.theverge.com/2020/3/16/21116762/microsoft-windows-10-active-devices-billion-7-support",
+   "https://en.wikipedia.org/wiki/Windows_10"
+  ]
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "person": "Satya Nadella",
+  "role": "Microsoft CEO",
+  "promise": "We plan to invest about $80 billion in AI-enabled data centers in fiscal 2025",
+  "date_promised": "2025-01-03",
+  "due_date": "2025-06-30",
+  "status": "kept",
+  "description": "Announced in a January 2025 blog that Microsoft would spend ~$80 billion on AI infrastructure in FY2025 (ending June 2025). Microsoft's actual fiscal-2025 AI capex landed in line with or above the target, backing the 'largest AI infrastructure buildout' claim.",
+  "evidence": [
+   "Microsoft FY2025 (ended June 30, 2025) AI capex matched the ~$80B plan",
+   "Company confirmed more than half of capex directed at AI infrastructure"
+  ],
+  "sources": [
+   "Microsoft blog (Jan 3, 2025)",
+   "Microsoft FY25 earnings (July 2025)"
+  ]
+ },
+ {
+  "person": "World Bank (IDA20)",
+  "role": "International Development Association",
+  "promise": "A record $93 billion package to support the world's poorest countries over the next three years",
+  "date_promised": "2021-12-15",
+  "due_date": "2025-06-30",
+  "status": "kept",
+  "description": "In December 2021, the World Bank announced the largest replenishment in the history of its fund for the poorest countries, IDA20, with $93 billion in grants and low-interest loans for fiscal years 2022-2025. The full financing package was delivered over the three-year cycle, financing operations across Africa and Asia as promised.",
+  "evidence": [
+   "IDA20 donors pledged the record $93 billion at the December 2021 launch in Seoul",
+   "IDA20 resources fully committed and operationalized over FY2022-FY2025, including crisis windows"
+  ],
+  "sources": [
+   "World Bank Group press release (December 15, 2021)",
+   "World Bank IDA20 mid-term review (2024)"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Joe Biden",
+  "role": "President of the United States",
+  "promise": "Have 70% of American adults at least partly vaccinated by July 4, 2021",
+  "date_promised": "2021-05-04",
+  "due_date": "2021-07-04",
+  "status": "broken",
+  "description": "Biden set a national goal of 70% of adults with at least one dose by Independence Day 2021. Only about 67% had a first dose by July 4; the goal was not reached until early August 2021, and Biden conceded it 'was a tough month.'",
+  "evidence": [
+   "Only ~67.1% of adults had a first dose by 2021-07-04",
+   "Target reached roughly one month late"
+  ],
+  "sources": [
+   "White House",
+   "CDC",
+   "The Washington Post"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Joe Biden",
+  "role": "President of the United States",
+  "promise": "Deliver 100 million COVID-19 vaccine doses in the first 100 days",
+  "date_promised": "2020-12-08",
+  "due_date": "2021-04-30",
+  "status": "kept",
+  "description": "Biden announced the goal of 100 million shots in his first 100 days before taking office. The administration hit the target on day 92 (April 21, 2021), ahead of the deadline, and raised the goal to 200 million.",
+  "evidence": [
+   "100 millionth shot administered on day 92",
+   "Goal beaten ahead of the 100-day deadline"
+  ],
+  "sources": [
+   "White House",
+   "CDC",
+   "AP News"
+  ]
+ }
+]

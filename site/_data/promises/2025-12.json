@@ -1,0 +1,721 @@
+[
+ {
+  "person": "Jeff Bezos",
+  "role": "Amazon founder and CEO (until 2021)",
+  "promise": "Amazon would power 100% of its operations with renewable energy by 2025.",
+  "date_promised": "2020-07-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "After pledging 100% renewables by 2030 in the 2019 Climate Pledge, Amazon announced in mid-2020 it would reach the goal by 2025, five years early, backed by hundreds of wind and solar projects. In July 2023 Amazon announced it had already achieved 100% renewable energy matching for 2023.",
+  "evidence": [
+   "Amazon announced July 2023 that it matched 100% of electricity with renewables",
+   "Hundreds of utility-scale wind/solar projects procured across 20+ countries",
+   "Goal reached two years ahead of the 2025 deadline"
+  ],
+  "sources": [
+   "Amazon press release",
+   "Reuters",
+   "CNBC"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "\"We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.\"",
+  "date_promised": "2025-01-10",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Written in Altman's \"Reflections\" blog post in January 2025. During 2025 OpenAI shipped Operator, Deep Research, ChatGPT agent payments and Codex, and enterprises began deploying agents — but agents' workforce integration remained largely assistive and limited, not the material, autonomous workforce transformation predicted.",
+  "evidence": [
+   "OpenAI launched Operator (Jan 2025), Deep Research (Feb 2025), agent payments (Mar 2025)",
+   "2025 enterprise adoption of agents grew rapidly but remained supervised/limited",
+   "Altman's own 2025 statements characterized agents as a decade-scale transition"
+  ],
+  "sources": [
+   "OpenAI blog 'Reflections'",
+   "CNBC",
+   "TechCrunch"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "We're taking it back (the Panama Canal)",
+  "date_promised": "2025-03-04",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "In his joint address to Congress Trump vowed the US would 'take back' the Panama Canal, escalating against Panamanian control. Under pressure, Hong Kong's CK Hutchison sold its Panama port stakes to a US-led BlackRock consortium (June 2025), which Trump hailed as victory, but the canal itself remains under Panamanian sovereignty and tolls were not materially changed.",
+  "evidence": [
+   "BlackRock/Bezos consortium acquired the two Panama port terminals in June 2025",
+   "Canal remains operated by Panama; Trump claimed vindication over the port deal"
+  ],
+  "sources": [
+   "Reuters (June 2025 port deal)",
+   "Wikipedia: Second presidency of Donald Trump"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "The US will take over the Gaza Strip, and we will do a job with it, too",
+  "date_promised": "2025-02-04",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Announced at a press conference with Netanyahu that the US would take over and redevelop Gaza. No US takeover ever occurred; the initiative was superseded by the Trump-brokered Gaza ceasefire/peace framework signed in October 2025, which involved a US 'guarantee' role, not a takeover.",
+  "evidence": [
+   "No US administration of Gaza was ever established",
+   "October 2025 Trump peace plan signed by Israel, Hamas and Gazan representatives instead"
+  ],
+  "sources": [
+   "White House press conference transcript (Feb 4, 2025)",
+   "Reuters (Oct 2025)"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "UK Prime Minister",
+  "promise": "We will smash the gangs",
+  "date_promised": "2024-09-24",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Starmer promised at Labour conference to 'smash' the people-smuggling gangs to stop small-boat Channel crossings. Crossings instead hit a record annual high in 2025, rising year on year, despite the new Border Security Command and a France 'one-in, one-out' returns deal that began in August 2025.",
+  "evidence": [
+   "2025 saw a record number of Channel crossings, up on 2024",
+   "First France returns flights were cancelled in Sept 2025 amid legal challenges"
+  ],
+  "sources": [
+   "Home Office statistics (Jan 2026)",
+   "Wikipedia: Premiership of Keir Starmer"
+  ]
+ },
+ {
+  "person": "Rachel Reeves",
+  "role": "UK Chancellor of the Exchequer",
+  "promise": "We will deliver the fastest growth in the G7",
+  "date_promised": "2024-07-08",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Reeves repeatedly promised the UK would become the fastest-growing G7 economy under Labour. Through 2025 the UK was instead one of the slowest-growing G7 economies, with near-flat quarterly growth, and the target was quietly dropped.",
+  "evidence": [
+   "UK growth lagged most G7 peers through 2025",
+   "Quarterly growth often 0.1-0.4%, repeatedly below the G7 average"
+  ],
+  "sources": [
+   "ONS GDP data (2025)",
+   "Financial Times (2025)"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta CEO",
+  "promise": "Meta AI will be the most used AI assistant in the world, with 1 billion users, by the end of 2025",
+  "date_promised": "2025-01-29",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "On the Q4 2024 earnings call Zuckerberg said Meta AI was on track to be the world's most-used assistant by end of 2025, targeting 1 billion users. Meta reported roughly 700-800 million monthly users by late 2025 - strong growth but short of the 1 billion goal and still contesting ChatGPT for the top spot.",
+  "evidence": [
+   "Meta AI reached ~800M MAU (Oct 2025), below the 1B target",
+   "'Most used assistant' claim disputed by ChatGPT's similar user base"
+  ],
+  "sources": [
+   "Meta Q4 2024 earnings call (Jan 29, 2025)",
+   "Reuters (Oct 2025)"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "OpenAI CEO",
+  "promise": "GPT-5 will be released this year (2025)",
+  "date_promised": "2025-03-15",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Altman and OpenAI promised GPT-5 would ship in 2025. It launched on August 7, 2025 via livestream event, with 'thinking' and 'mini' variants, marking OpenAI's first true multi-modal model release of the year - on schedule versus the stated 2025 window.",
+  "evidence": [
+   "GPT-5 launched August 7, 2025",
+   "Shipped before the promised end-of-2025 deadline"
+  ],
+  "sources": [
+   "OpenAI (Aug 7, 2025)",
+   "Wikipedia: GPT-5"
+  ]
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple CEO",
+  "promise": "Siri gets a major overhaul... coming next year (2025)",
+  "date_promised": "2024-06-10",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At WWDC 2024 Apple (with Cook's backing) promised a new conversational Siri powered by Apple Intelligence arriving 'next year'. In March 2025 Apple admitted the overhaul would take 'longer than expected', and it was later pushed to 2026 or beyond - the most public delayed feature in Apple's AI rollout.",
+  "evidence": [
+   "Apple admitted delay in March 2025 statement",
+   "Bloomberg reported the revamp slipped to 2026; WWDC June 2025 showed no new Siri"
+  ],
+  "sources": [
+   "Apple WWDC 2024 keynote",
+   "Bloomberg (May 2025)"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "The currency controls (cepo) will be eliminated in 2025",
+  "date_promised": "2025-03-15",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Milei promised to end Argentina's capital controls in 2025. After an IMF $20 billion program was secured (April 2025) ending most controls, the remaining restrictions were lifted in December 2025 and the peso was floated, devaluing sharply - the long-promised exit from the cepo was delivered within the year.",
+  "evidence": [
+   "IMF $20B deal (April 2025) accompanied by removal of most capital controls (AP)",
+   "Remaining controls lifted and peso floated in December 2025"
+  ],
+  "sources": [
+   "AP News (April 2025)",
+   "Reuters (December 2025)"
+  ]
+ },
+ {
+  "person": "Pedro Sanchez",
+  "role": "Prime Minister of Spain",
+  "promise": "The working week will be reduced to 37.5 hours by the end of 2025",
+  "date_promised": "2024-04-30",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Sanchez's coalition committed to cutting the legal work week from 40 to 37.5 hours by end-2025 without loss of pay. Spain's Congress approved the 37.5-hour week law in September 2025, with implementation rolling out through 2026 - the deadline was met.",
+  "evidence": [
+   "Congress approved the 37.5-hour law in September 2025",
+   "Law retains no wage-loss clause for affected workers"
+  ],
+  "sources": [
+   "Reuters (Sept 2025)",
+   "Government of Spain (Sept 2025)"
+  ]
+ },
+ {
+  "person": "Anthony Albanese",
+  "role": "Prime Minister of Australia",
+  "promise": "Power bills will be $275 lower by 2025",
+  "date_promised": "2022-05-10",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Labor's 2022 election platform, costed by the Parliamentary Budget Office, promised household power bills would be $275 a year lower by 2025 under its 82% renewables target. Electricity prices instead rose sharply after the 2022 energy crisis; wholesale prices fell from 2024 but retail bills remained well above 2022 levels, and Albanese himself acknowledged by 2024 that bills had not fallen as promised.",
+  "evidence": [
+   "Retail electricity prices rose, not fell, over 2022-2024 in most states",
+   "Albanese conceded in 2024 that power bills had not come down $275 as promised"
+  ],
+  "sources": [
+   "ABC News (May 2022 election costings)",
+   "The Guardian (2024-2025 promise-tracking coverage)"
+  ]
+ },
+ {
+  "person": "Jonas Gahr Støre",
+  "role": "Prime Minister of Norway",
+  "promise": "From 2025, all new passenger cars sold in Norway will be zero-emission",
+  "date_promised": "2021-10-14",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Norway's cross-party national target — reaffirmed in Støre's government platform in October 2021 — was that all new passenger cars sold from 2025 would be zero-emission, backed by tax incentives. The target was met: zero-emission vehicles (almost all battery electric) accounted for about 96% of new passenger car sales in Norway in 2025.",
+  "evidence": [
+   "BEV share of new car sales reached ~95.9% in January 2025 and ~96% for the year",
+   "Norway became the first country to effectively complete the switch to electric new-car sales"
+  ],
+  "sources": [
+   "Norwegian Road Federation (OFV) 2025 sales data",
+   "Reuters (January 2025)"
+  ]
+ },
+ {
+  "person": "Pat Gelsinger",
+  "role": "CEO, Intel",
+  "promise": "We expect to regain process leadership by 2025",
+  "date_promised": "2021-03-23",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "At the 'Intel Unleashed' IDM 2.0 event, Gelsinger promised a 5-nodes-in-4-years roadmap (Intel 7/4/3/20A/18A) that would restore Intel's chipmaking lead over TSMC by 2025. Intel 18A was delayed from H2 2024 to 2025, TSMC's N2 kept the process lead, and Gelsinger was ousted as CEO in December 2024 before the goal was reached; Intel's first 18A product (Panther Lake) only shipped in late 2025. Process leadership was not regained in the promised window.",
+  "evidence": [
+   "IDM 2.0 announced March 23, 2021 with 'regain process leadership' from TSMC as the goal",
+   "Intel delayed 18A (originally 2024 target) into 2025",
+   "Gelsinger removed as CEO December 2, 2024",
+   "TSMC (N2, 2025) retained the process lead; Panther Lake (18A) shipped late 2025"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Stratechery"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Intel",
+   "https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/"
+  ]
+ },
+ {
+  "person": "Dara Khosrowshahi",
+  "role": "Uber",
+  "promise": "London to be Uber's first net-zero city — the entire London fleet electric by the end of 2025",
+  "date_promised": "2020-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Uber backtracked in 2025 — with latest figures showing it 'less than halfway' to the goal; the pledge was effectively abandoned.",
+  "evidence": [],
+  "sources": [
+   "The Telegraph"
+  ]
+ },
+ {
+  "person": "Mary Barra",
+  "role": "GM (Cruise)",
+  "promise": "Cruise robotaxi unit to generate $1 billion in annual revenue by 2025",
+  "date_promised": "2021-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Cruise paused robotaxi operations in Oct 2023 after an accident, pulled in only ~$500M cumulative with over $10B in losses, and GM shut down the unit in Dec 2024.",
+  "evidence": [],
+  "sources": [
+   "NPR"
+  ]
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple",
+  "promise": "Self-driving 'Apple Car' to launch around 2025 (reported internal target, Bloomberg, Dec 2020)",
+  "date_promised": "2020-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Apple canceled its electric car project in February 2024 after a decade of effort, with team members reassigned to AI work.",
+  "evidence": [],
+  "sources": [
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta (Facebook)",
+  "promise": "'We want to get a billion people in virtual reality' (Oculus Connect 5, Oct 2017)",
+  "date_promised": "2017-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "By 2025 the global active VR headset install base was still roughly 30-50 million — orders of magnitude short of the billion-user goal.",
+  "evidence": [],
+  "sources": [
+   "The Verge"
+  ]
+ },
+ {
+  "person": "JD Vance",
+  "role": "Vice-President (elected Nov 2024)",
+  "promise": "Raise the child tax credit from $2,000 to $5,000 per child (Aug 2024 campaign pledge)",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "The One Big Beautiful Bill Act (signed 4 Jul 2025) raised the credit only to $2,200, inflation-indexed, with the refundable portion unchanged — no $5,000 credit was ever enacted.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
+   "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+  ]
+ },
+ {
+  "person": "Volodymyr Zelenskyy",
+  "role": "President",
+  "promise": "That the war would end in 2025 if his Victory Plan was implemented (plan's geopolitical goal: 'end of the Russo-Ukrainian war')",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "The war continued through all of 2025 and into 2026 — US–Russia and European peace drafts were still circulating in Nov 2025 and no final settlement had been reached by mid-2026.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Victory_Plan_for_Ukraine"
+  ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President (from 20 Oct 2024)",
+  "promise": "Free nutritious meals (Makan Bergizi Gratis) for schoolchildren, pregnant women and toddlers — targeting 82.9 million beneficiaries",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Launched on schedule (6 Jan 2025) but scaled back: per-meal budget cut to Rp10,000 (from Rp15–20,000), only ~30 million recipients reached by Sept 2025, Rp171trn budget vs Rp420trn needed for full-year operation, 20,000+ food-poisoning cases in 2025, and corruption arrests at the program body in June 2026.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://id.wikipedia.org/wiki/Makan_Bergizi_Gratis"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Reduce poverty",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Poverty first spiked from 41.7% to a peak of 57.4% (Jan 2024) after the shock, then fell to 31.6% in H1 2025 (lowest since 2018, below the 2023 starting point); extreme poverty fell from 18.2% to 7.4%.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Campaign pledge (2023): dollarize the economy and abolish the central bank",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Dollarization was abandoned — instead of dollarizing, the government kept the peso, dismantled the 'cepo' capital controls on 14 Apr 2025 and moved to a managed float in a ~1,000–1,400 ARS/USD band under a US$20bn IMF agreement.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei_2023_presidential_campaign",
+   "https://en.wikipedia.org/wiki/Economic_reforms_of_Javier_Milei"
+  ]
+ },
+ {
+  "person": "Yoon Suk Yeol",
+  "role": "President (2022 – removed Apr 2025)",
+  "promise": "Increase medical school admissions by 2,000 per year to fix the doctor shortage (announced 6 Feb 2024)",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "The quota increase triggered a mass doctors' strike; the 2025 increase was cut to +1,500 (May 2024) and in April 2025 the government reverted the 2026 quota to the original 3,058 — the promise largely unravelled before his removal.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis"
+  ]
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister (2015–Mar 2025)",
+  "promise": "Keep the federal carbon price as the cornerstone of climate policy",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "He carved out home heating oil (Oct 2023), and the consumer carbon tax was repealed outright on 1 Apr 2025 (prime-ministerial directive signed by Carney on 14 Mar 2025, weeks after Trudeau left office).",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Carbon_tax_in_Canada"
+  ]
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister (2015–Mar 2025)",
+  "promise": "Cut immigration levels to ease housing and social pressures",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Permanent-resident targets were cut from 500,000 to 395,000 (2025), 380,000 (2026) and 365,000 (2027), and the plans were implemented.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Immigration_to_Canada"
+  ]
+ },
+ {
+  "person": "Ursula von der Leyen",
+  "role": "European Commission President (re-elected Jul 2024)",
+  "promise": "Present major European defence funding proposals within 100 days of her second Commission — delivered as ReArm Europe",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "ReArm Europe was announced 4 Mar 2025: up to €800bn for defence, including a €150bn joint-loans facility, endorsed by the European Council on 6 Mar 2025 (later rebranded Readiness 2030).",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/ReArm_Europe"
+  ]
+ },
+ {
+  "person": "Mark Rutte",
+  "role": "NATO Secretary General (from Oct 2024)",
+  "promise": "Allies must move to a 'wartime mindset' and raise defence spending far above 2% of GDP",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The Hague Summit Declaration (25 Jun 2025) set a new 5%-of-GDP target for 2035 (at least 3.5% core defence + up to 1.5% defence-related spending), replacing the 2014 2% benchmark — all members except Spain signed on.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2025_NATO_summit"
+  ]
+ },
+ {
+  "person": "Bob Bakish",
+  "role": "CEO, Paramount Global",
+  "promise": "We're targeting 150 million DTC subscribers by 2025 (as reported).",
+  "date_promised": "2022-02-15",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At its February 2022 investor day, Paramount projected 150 million global direct-to-consumer subscribers by 2025. Paramount+ ended 2025 with roughly 70-75 million subscribers; the company was sold to Skydance in 2025, far short of target.",
+  "evidence": [
+   "Investor Day guidance of 150M DTC subs by 2025 reported by Variety/CNBC",
+   "Paramount+ subscriber base stayed near 70M through 2024-2025"
+  ],
+  "sources": [
+   "Variety, 2022-02-15",
+   "Paramount Global quarterly reports, 2024-2025"
+  ]
+ },
+ {
+  "person": "Meredith Kopit Levien",
+  "role": "CEO, The New York Times Company",
+  "promise": "We intend to reach 10 million subscriptions by 2025 (as reported).",
+  "date_promised": "2020-05-07",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "NYT's May 2020 strategic report set a goal of 10 million total subscriptions by 2025, powered by digital growth. The company passed 10.5 million subscriptions in Q4 2024, ahead of the deadline.",
+  "evidence": [
+   "NYT 2020 strategy report set 10M subscription goal by 2025",
+   "Company reported ~10.5M subscriptions in Q4 2024"
+  ],
+  "sources": [
+   "NYT Co. strategic report, 2020-05-07",
+   "NYT Co. Q4 2024 earnings release, 2025-02-05"
+  ]
+ },
+ {
+  "person": "Strauss Zelnick",
+  "role": "CEO, Take-Two Interactive",
+  "promise": "Grand Theft Auto VI — coming 2025.",
+  "date_promised": "2023-12-05",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Rockstar's trailer (Dec 2023) and Take-Two's guidance repeatedly confirmed GTA VI for fall 2025. In May 2025, Take-Two announced a delay of the game to fall 2026, breaking the two-years-stated release window.",
+  "evidence": [
+   "Rockstar trailer 2023-12-05: 'Grand Theft Auto VI... Coming 2025'",
+   "Zelnick confirmed fall 2025 guidance through February 2025 earnings",
+   "Delay to fall 2026 announced 2025-05-15"
+  ],
+  "sources": [
+   "Rockstar Games trailer, 2023-12-05",
+   "Take-Two Q4 FY2025 earnings call, 2025-05-15"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO, OpenAI",
+  "promise": "OpenAI projected ~$11.6 billion in annualized revenue for 2025",
+  "date_promised": "2024-09-28",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Investor-facing projections (reported Sept 2024) put OpenAI at $11.6B in 2025 revenue; Altman later pushed higher targets in internal letters (reported Dec 2024) and 2025 guidance reached $17B. Reported 2025 revenue of ~$13.1B beat the $11.6B projection (though it fell short of the later $17B stretch target).",
+  "evidence": [
+   "The Hindu/Reuters: 'OpenAI sees $11.6 billion revenue next year' (Sep 28, 2024)",
+   "OpenAI 2025 revenue $13.1B (Wikipedia infobox)",
+   "CFO Sarah Friar signaled ~$11B (Feb 2025); Mar 2025 reports cited $17B target"
+  ],
+  "sources": [
+   "The Hindu (Sep 28, 2024)",
+   "Reuters (Mar 26, 2025)",
+   "Wikipedia: OpenAI"
+  ]
+ },
+ {
+  "person": "Demis Hassabis",
+  "role": "CEO, Google DeepMind / Isomorphic Labs",
+  "promise": "\"AI-designed drugs will enter clinical trials this year\" (2025)",
+  "date_promised": "2025-01-21",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "At Davos 2025 Hassabis said AI-designed drugs would reach clinical trials in 2025. Isomorphic Labs said it was 'very close' (July 2025), then Reuters reported a delay (Jan 20, 2026); human trials for AI-designed drugs launched around April 2026. So the milestone arrived roughly a year late.",
+  "evidence": [
+   "Bloomberg: 'DeepMind Expects Clinical Trials for AI-Designed Drugs This Year' (Jan 21, 2025)",
+   "Isomorphic 'very close' to human trials (Fast Company, Jul 7, 2025)",
+   "Reuters: 'Isomorphic Labs delays clinical trial timeline' (Jan 20, 2026)",
+   "WIRED: 'AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials' (Apr 24, 2026)"
+  ],
+  "sources": [
+   "Bloomberg (Jan 21, 2025)",
+   "Reuters (Jan 20, 2026)",
+   "WIRED (Apr 24, 2026)"
+  ]
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "\"It's a new day in search\" / \"The race starts today, and we're going to move and move fast\" — AI-powered Bing would challenge Google and win users (\"we made them come to Bing and see it\")",
+  "date_promised": "2023-02-07",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At the AI-Bing launch (Feb 7, 2023) and in The Verge interviews the same day, Nadella vowed to take search share from Google with the new AI assistant. Bing's share stayed stuck around 3-4% through 2025-2026 (Google ~90%); the promised search-share shift never materialized. Exact launch quotes verified from The Verge article text.",
+  "evidence": [
+   "Verbatim quotes verified via The Verge (Feb 7, 2023)",
+   "Bing share ~3-4% vs Google ~90% through 2025-2026 (Statcounter)",
+   "Microsoft later folded Copilot into Windows/Office rather than search displacement"
+  ],
+  "sources": [
+   "The Verge (Feb 7, 2023)",
+   "Statcounter GlobalStats",
+   "The Verge Nilay Patel interview (Feb 7, 2023)"
+  ]
+ },
+ {
+  "person": "Sundar Pichai",
+  "role": "CEO, Alphabet/Google",
+  "promise": "\"Gemini 3 will be released later this year\" (2025)",
+  "date_promised": "2025-07-22",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "On the Q2 2025 earnings call Pichai said Gemini 3 would arrive later in 2025 (reiterated in Oct 2025: 'Gemini 3.0 will release this year'). Google shipped Gemini 3 Pro on November 18, 2025, with Deep Think and Flash versions following in Dec 2025 — a rare on-time flagship promise.",
+  "evidence": [
+   "Pichai remarks on Alphabet Q2 2025 earnings call (Jul 22, 2025)",
+   "Techzine Global (Oct 17, 2025): 'Sundar Pichai: Gemini 3.0 will release this year'",
+   "Gemini 3 Pro released Nov 18, 2025 (Wikipedia: Gemini)"
+  ],
+  "sources": [
+   "Alphabet Q2 2025 earnings call",
+   "Techzine Global (Oct 17, 2025)",
+   "Wikipedia: Gemini (language model)"
+  ]
+ },
+ {
+  "person": "Marc Benioff",
+  "role": "CEO, Salesforce",
+  "promise": "Salesforce aimed to 'empower a billion AI agents by 2025' via Agentforce",
+  "date_promised": "2024-09-12",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "At Agentforce's launch/Dreamforce 2024, Benioff predicted a billion AI agents would be deployed by end of 2025. Agentforce grew fast (8,000+ customers by May 2025; Salesforce later touted 'billions of conversations' handled), but no verifiable metric of 1 billion deployed agents emerged; Salesforce reframed success around customers and conversations instead.",
+  "evidence": [
+   "Salesforce press release (Sep 12, 2024); Mi-3.com.au (Sep 16, 2024): 'aim to empower a billion AI agents by 2025'",
+   "CFO Dive (May 29, 2025): 'over 8,000 customers using new agentic AI tool'",
+   "No public accounting of 1B agents as of end-2025"
+  ],
+  "sources": [
+   "Salesforce press release (Sep 12, 2024)",
+   "M (Sep 16, 2024)",
+   "CFO Dive (May 29, 2025)"
+  ]
+ },
+ {
+  "person": "Fatih Birol",
+  "role": "IEA Executive Director",
+  "promise": "Renewables are set to overtake coal as the largest source of global electricity generation by 2025.",
+  "date_promised": "2021-12-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "IEA's Renewables 2021 report (Dec 2021) predicted renewables would surpass coal in global power generation by 2025 - and ahead of coal-skeptic commentary. Ember's data show it happened in 2024, a year early.",
+  "evidence": [
+   "Ember Global Electricity Review 2025: renewables ~32% of global electricity in 2024 vs coal ~28%",
+   "Solar became the largest single electricity source by 2025; IEA Renewables 2024 confirmed 'renewables to overtake coal by early 2025'"
+  ],
+  "sources": [
+   "IEA",
+   "Ember"
+  ],
+  "source_urls": [
+   "https://www.iea.org/reports/renewables-2021",
+   "https://ember-energy.org/latest-insights/global-electricity-review-2025/"
+  ]
+ },
+ {
+  "person": "Patrick Pouyanné",
+  "role": "Chairman & CEO, TotalEnergies",
+  "promise": "Reach 35 GW of gross renewable electricity capacity by 2025 (raised to 60 GW at COP26), heading toward 100 GW by 2030.",
+  "date_promised": "2021-02-09",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "TotalEnergies pledged 35 GW of renewables by 2025 in February 2021 and raised this to 60 GW at COP26 (November 2021). Actual gross installed capacity was ~30 GW at end-2024 and ~35 GW around end-2025 - the original 35 GW was met only at the deadline, and the raised 60 GW target was clearly missed.",
+  "evidence": [
+   "~30 GW gross renewables at end-2024 (TotalEnergies Q4 2024 release) vs 60 GW raised target",
+   "Original 35 GW target reached only around the December 2025 deadline",
+   "100 GW by 2030 target also re-scoped as the company pivoted back toward LNG"
+  ],
+  "sources": [
+   "TotalEnergies",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://totalenergies.com/media/news/press-releases",
+   "https://www.reuters.com/business/energy/totalenergies-raises-2025-renewables-target-60gw-2021-11-09/"
+  ]
+ },
+ {
+  "person": "Henrik Poulsen",
+  "role": "CEO, Ørsted (until 2021)",
+  "promise": "Be carbon neutral in own operations and energy generation by 2025, with 95% of energy from renewables by 2023 and 99% by 2025.",
+  "date_promised": "2018-01-08",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Ørsted's 2018 strategy ('Making Green Energy Affordable') set carbon-neutral operations by 2025 and a 99% green share by 2025. The company reported achieving ~99% green generation and carbon-neutral status by 2024-2025, hitting both milestones.",
+  "evidence": [
+   "Wikipedia Ørsted: target of >95% green energy by 2023 and 99% by 2025; achieved",
+   "Ørsted 2024/2025 reporting confirms carbon neutrality in own operations and generation, with carbon intensity down ~99% vs 2006"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Orsted"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
+   "https://www.orsted.com/en/annual-report"
+  ]
+ },
+ {
+  "person": "Amber Rudd (UK Government)",
+  "role": "Secretary of State for Energy and Climate Change, UK",
+  "promise": "Phase out unabated coal-fired power generation by 2025.",
+  "date_promised": "2015-11-18",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The UK announced in November 2015 (first G7 country to do so) that it would end coal power by 2025, later legislated. Ratcliffe-on-Soar - the last plant - closed on 30 September 2024, about 15 months early.",
+  "evidence": [
+   "Ratcliffe-on-Soar closed 30 September 2024 at midnight, ending 142 years of UK coal (Wikipedia)",
+   "Closure came ahead of the 2025 pledge; coal's share of UK power fell from ~23% (2015) to zero"
+  ],
+  "sources": [
+   "UK Government",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward",
+   "https://en.wikipedia.org/wiki/Ratcliffe-on-Soar_Power_Station"
+  ]
+ },
+ {
+  "person": "Extinction Rebellion",
+  "role": "Climate protest movement (founded 2018)",
+  "promise": "The Government must act now to halt biodiversity loss and reduce net greenhouse gas emissions to zero by 2025.",
+  "date_promised": "2018-10-31",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Extinction Rebellion's founding demand (UK, Oct 2018) was net-zero UK emissions by 2025. The UK remained at roughly 370-380 MtCO2e in 2024-2025 with a legal net-zero date of 2050 - the 2025 demand was never adopted or met.",
+  "evidence": [
+   "Wikipedia Extinction Rebellion: Demand 2 = 'reduce greenhouse gas emissions to net-zero by 2025' (Oct 2018)",
+   "UK 2024/2025 emissions still ~370 MtCO2e, far from zero (DESNZ statistics)",
+   "UK net-zero law targets 2050, not 2025; XR later softened the demand"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Rebellion"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Extinction_Rebellion",
+   "https://rebellion.global/"
+  ]
+ }
+]

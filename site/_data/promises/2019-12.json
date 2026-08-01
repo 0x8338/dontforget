@@ -1,0 +1,68 @@
+[
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "\"Tesla will be feature complete for Full Self-Driving by the end of this year.\"",
+  "date_promised": "2019-08-16",
+  "due_date": "2019-12-31",
+  "status": "broken",
+  "description": "Tweeted in August 2019, part of a long series of FSD deadline promises (2019, 2020, 2021, 2024...). Full Self-Driving remained an incomplete beta in 2024-2025, requiring driver supervision and lacking regulatory certification — it was nowhere near feature-complete or autonomous by end of 2019.",
+  "evidence": [
+   "FSD remained a supervised beta system through 2025",
+   "Musk's own later statements pushed deadlines to 2020 and beyond",
+   "No driverless/robotaxi FSD deployment existed by end of 2019"
+  ],
+  "sources": [
+   "The Verge",
+   "CNBC",
+   "Electrek"
+  ]
+ },
+ {
+  "person": "Mauricio Macri",
+  "role": "President of Argentina",
+  "promise": "Pobreza cero - we are going to end poverty",
+  "date_promised": "2015-09-01",
+  "due_date": "2019-12-10",
+  "status": "broken",
+  "description": "Macri campaigned in 2015 on the slogan 'pobreza cero' (zero poverty), promising to end poverty during his presidency. Poverty instead rose from roughly 29% when he took office to around 35% by the end of his term in December 2019, with some projections above 40% at his worst point, making the pledge a symbol of broken campaign promises in Argentina.",
+  "evidence": [
+   "Poverty rate rose to ~35.5% at end-2019, up from ~29% in 2015",
+   "INDEC poverty figures peaked above 40% during his term (2020 readings for 2019-2020)"
+  ],
+  "sources": [
+   "INDEC poverty statistics (2016-2020)",
+   "La Nación / BBC Mundo (2019 end-of-term assessments)"
+  ]
+ },
+ {
+  "person": "Abiy Ahmed",
+  "role": "Prime Minister of Ethiopia",
+  "promise": "We will plant 4 billion trees this rainy season",
+  "date_promised": "2019-05-10",
+  "due_date": "2019-12-31",
+  "status": "kept",
+  "description": "Abiy launched the Green Legacy Initiative in May 2019 with a target of planting 4 billion seedlings during the 2019 rainy season, including a single-day mass planting event. The government announced the target was met, claiming over 4 billion seedlings planted (350 million in one day on July 29, 2019), though independent verification of survival rates was limited.",
+  "evidence": [
+   "Government reported the 4 billion target achieved by end of the 2019 rainy season",
+   "Single-day planting of ~350 million seedlings on July 29, 2019 set a record, though survival rates were disputed"
+  ],
+  "sources": [
+   "Reuters / BBC (July 2019)",
+   "Ethiopian Ministry of Environment (2019 Green Legacy reports)"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Tesla Semi truck to enter production and start deliveries in 2019",
+  "date_promised": "2017-06-30",
+  "due_date": "2019-12-31",
+  "status": "broken",
+  "description": "First deliveries to PepsiCo only happened Dec 1, 2022 — three years late; Reuters noted the timeline 'has been pushed multiple times' since the 2019 target set at the Nov 2017 unveiling.",
+  "evidence": [],
+  "sources": [
+   "Reuters"
+  ]
+ }
+]

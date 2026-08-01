@@ -1,0 +1,557 @@
+[
+ {
+  "person": "Jeff Bezos",
+  "role": "Founder of Amazon and Blue Origin",
+  "promise": "Land humans on the Moon by 2024 with the Blue Moon lander",
+  "date_promised": "2019-05-09",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At the Blue Moon unveiling, Bezos said 'we can go to the Moon by 2024' and framed it as his generation's challenge. No Blue Origin crewed Moon landing occurred by the deadline; the uncrewed Blue Moon Mk1 lander had not even flown as of 2026.",
+  "evidence": [
+   "No Blue Origin lunar mission flown by end of 2024",
+   "Blue Moon Mk1 first launch slipped to 2026 and beyond"
+  ],
+  "sources": [
+   "Blue Origin presentation",
+   "Reuters",
+   "Ars Technica"
+  ]
+ },
+ {
+  "person": "Vladimir Putin",
+  "role": "President of Russia",
+  "promise": "Russia will enter the world's top five largest economies by 2024.",
+  "date_promised": "2018-05-07",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Set in the May 7, 2018 decree \"On national goals and strategic objectives of the development of the Russian Federation for the period up to 2024.\" Russia ranked about 11th in the world by GDP at purchasing power parity in 2024, and its economy contracted in 2022 following sanctions, making the target impossible.",
+  "evidence": [
+   "Decree No. 204 of May 7, 2018 set the top-5 economy target",
+   "Russia ranked ~11th globally by GDP in 2024 (IMF)",
+   "War in Ukraine and sanctions reversed growth"
+  ],
+  "sources": [
+   "Reuters",
+   "The Moscow Times",
+   "IMF WEO data"
+  ]
+ },
+ {
+  "person": "Vladimir Putin",
+  "role": "President of Russia",
+  "promise": "Raise average life expectancy in Russia to 78 years by 2024.",
+  "date_promised": "2018-05-07",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Also from the May 2018 national-goals decree. Russian life expectancy fell to about 70 in 2020-21 due to COVID excess deaths, recovered to roughly 73.2 by 2024 — well below the 78 target.",
+  "evidence": [
+   "Decree No. 204 set life expectancy of 78 by 2024",
+   "Rosstat data showed life expectancy ~73.2 in 2024"
+  ],
+  "sources": [
+   "Reuters",
+   "Rosstat",
+   "The Moscow Times"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "\"We are going to land Starships on Mars as early as 2024.\"",
+  "date_promised": "2020-10-16",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Tweeted in October 2020, when Starship was still flying low-altitude hops. By the end of 2024 no Starship had reached orbit with a successful landing, let alone landed on Mars; the first uncrewed Mars landing is now targeted for the late 2020s, and the date was later revised to 2026 and beyond.",
+  "evidence": [
+   "No Starship had landed on Mars by end of 2024",
+   "First orbital Starship flight only occurred April 2023 (exploded before separation)",
+   "SpaceX later revised Mars landing targets to the late 2020s"
+  ],
+  "sources": [
+   "CNBC",
+   "Space.com",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Giorgia Meloni",
+  "role": "Prime Minister of Italy",
+  "promise": "We will stop the departures of illegal migrants from the Libyan coast",
+  "date_promised": "2022-09-25",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Meloni campaigned on ending irregular migration, promising to halt boat departures from North Africa after taking office in October 2022. Sea arrivals to Italy fell from about 157,000 in 2023 to roughly 66,000 in 2024 (a drop of about 58%) following EU-Tunisia and EU-Libya deals her government pursued, but departures and arrivals continued and rebounded somewhat in 2025, so the promise was only partially delivered.",
+  "evidence": [
+   "2024 sea arrivals fell to ~66,000 from ~157,000 in 2023",
+   "Irregular arrivals persisted and rose again in 2025, so departures were not 'stopped'"
+  ],
+  "sources": [
+   "Reuters / ANSA (2024 migration data)",
+   "UNHCR Italy statistics (2024-2025)"
+  ]
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister of Poland",
+  "promise": "I will unlock the European funds for Poland as quickly as possible",
+  "date_promised": "2023-12-13",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "On returning to power in December 2023, Tusk promised to quickly unlock Poland's frozen EU money — about €59.8 billion in recovery funds (KPO) plus roughly €76 billion in cohesion funds blocked over rule-of-law disputes. The first KPO disbursement (about €6.3 billion) was approved in December 2024 and paid in April 2025, and further tranches followed, but the unblocking took more than a year longer than Tusk's 'as soon as possible' promise suggested.",
+  "evidence": [
+   "First €6.3 billion RRF payment approved December 2024, disbursed April 2025",
+   "Cohesion funds and remaining KPO tranches only fully unlocked gradually through 2025-2026"
+  ],
+  "sources": [
+   "European Commission / Reuters (April 2025 payment news)",
+   "PAP (December 2023-January 2024 statements)"
+  ]
+ },
+ {
+  "person": "Cyril Ramaphosa",
+  "role": "President of South Africa",
+  "promise": "We will end load shedding this year",
+  "date_promised": "2024-02-08",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "In his 2024 State of the Nation address, Ramaphosa promised to end the rolling blackouts (load shedding) that had crippled South Africa for years, saying the energy crisis would be resolved as new capacity came online. Load shedding indeed stopped from late March 2024, giving South Africa more than a year of uninterrupted supply, but a stage-6 crisis returned briefly in July 2025 during a cold snap, so the ending was not permanent.",
+  "evidence": [
+   "No load shedding from late March 2024 for over 400 days (record stretch)",
+   "Stage 6 load shedding returned in July 2025, showing the crisis is not permanently resolved"
+  ],
+  "sources": [
+   "South African Presidency (SONA February 2024)",
+   "Eskom / News24 (2024-2025 load shedding records)"
+  ]
+ },
+ {
+  "person": "Joko Widodo",
+  "role": "President of Indonesia",
+  "promise": "The new capital Nusantara will be moved to East Kalimantan by 2024",
+  "date_promised": "2019-08-26",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "In his 2019 State of the Nation address Jokowi announced the relocation of Indonesia's capital from Jakarta to the new city of Nusantara in East Kalimantan, promising the move would begin in 2024. The first Independence Day ceremony was held in Nusantara on August 17, 2024 and some officials moved, but the actual transfer of government functions remains incomplete, with Jokowi's successor inheriting a partially built city.",
+  "evidence": [
+   "August 17, 2024 Independence Day ceremony held in Nusantara, but most ministries remain in Jakarta",
+   "Official government relocation not completed by end of Jokowi's term (October 2024)"
+  ],
+  "sources": [
+   "Reuters / BBC (August 2024)",
+   "Jakarta Post (2024-2025 Nusantara progress reporting)"
+  ]
+ },
+ {
+  "person": "NATO Allies (Wales Summit)",
+  "role": "Member states of the North Atlantic Treaty Organization",
+  "promise": "We have agreed that all Allies will aim to move towards the 2% of GDP defence spending guideline within a decade",
+  "date_promised": "2014-09-05",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "At the 2014 Wales Summit, NATO allies pledged that those below the 2% of GDP defence spending guideline would move toward it within a decade, after years of declining budgets. By 2024, the deadline year, NATO reported that 23 of 32 allies met or exceeded 2% (up from just 3 in 2014) and the European average had roughly doubled — a major turnaround, though the pledge was only partially met since nine allies still fell short.",
+  "evidence": [
+   "23 of 32 Allies reached 2% of GDP by 2024, vs 3 in 2014",
+   "Nine allies remained below 2% in 2024, so the 'all Allies' pledge was not fully kept"
+  ],
+  "sources": [
+   "NATO Wales Summit Declaration (September 5, 2014)",
+   "NATO Secretary General's annual defence expenditure report (June 2024)"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Blackwell is coming later this year",
+  "date_promised": "2024-03-18",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "At GTC 2024 Huang promised that the Blackwell GPU platform announced that day would ship in 2024. After reports in Aug 2024 of a possible 3-month slip and an Oct 2024 report of a design flaw that 'caused the yields to be low' (fixed with TSMC), NVIDIA shipped Blackwell systems in Q4 2024 and reported $11B of Blackwell revenue in its fiscal Q4 2025 (quarter ended Jan 2025).",
+  "evidence": [
+   "Blackwell was announced at GTC keynote on March 18, 2024",
+   "October 2024 reports of a functional design flaw fixed with TSMC; Huang called it 'functional' with low yields",
+   "By November 2024 Morgan Stanley reported entire 2025 Blackwell production sold out",
+   "NVIDIA posted $11 billion in Blackwell revenue in fiscal Q4 2025, confirming 2024 shipments"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)",
+   "https://en.wikipedia.org/wiki/Nvidia"
+  ]
+ },
+ {
+  "person": "Andy Jassy",
+  "role": "CEO, Amazon",
+  "promise": "Amazon's all-new Alexa voice assistant is coming soon, powered by a new Alexa LLM",
+  "date_promised": "2023-09-20",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At Amazon's Sept 2023 devices event, Jassy's team said the generative-AI Alexa would arrive 'in the coming months' via a US preview. The launch was repeatedly delayed through all of 2024 (Business Insider reported in June 2024 that it had slipped to 2025), and Alexa+ was not introduced until February 26, 2025 — roughly 17 months after the promise.",
+  "evidence": [
+   "The Verge (Sept 20, 2023): new Alexa to roll out 'in the coming months' via preview, US only",
+   "Business Insider (June 2024): Amazon's new generative AI Alexa delayed to 2025",
+   "Wikipedia: 'In February 2025, Amazon introduced Alexa+, the latest version of their voice assistant'",
+   "No commercial launch occurred in 2024 as promised"
+  ],
+  "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home",
+   "https://en.wikipedia.org/wiki/Amazon_Alexa"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO, Meta",
+  "promise": "Meta AI is on track to be the most used AI assistant in the world by the end of the year",
+  "date_promised": "2024-07-31",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "On Meta's Q2 2024 earnings call Zuckerberg said Meta AI would become the most-used AI assistant worldwide by end of 2024. Meta AI reached 500M monthly users (Oct 2024) and 1B monthly users (May 2025) per Zuckerberg — beating ChatGPT on monthly users — but ChatGPT had ~700M weekly active users by Dec 2024 and remains ahead on engagement, so the 'most used' claim is disputed depending on the metric.",
+  "evidence": [
+   "The Verge (Jul 31, 2024): 'He again telegraphed that the Meta AI assistant is on track to be the most used in the world before the end of the year'",
+   "Meta AI hit ~500M MAU by Oct 2024 and ~1B MAU by May 2025 (Zuckerberg claims)",
+   "ChatGPT passed 700M weekly active users in Dec 2024 — lead contested on WAU vs MAU basis"
+  ],
+  "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg",
+   "https://en.wikipedia.org/wiki/ChatGPT"
+  ]
+ },
+ {
+  "person": "Bob Iger",
+  "role": "Disney",
+  "promise": "Disney+ to reach 60-90 million subscribers by 2024 (April 2019 investor day)",
+  "date_promised": "2019-06-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "Disney+ surpassed 100 million subscribers by 2021 — hitting the 2024 goal about four years early.",
+  "evidence": [],
+  "sources": [
+   "CNBC"
+  ]
+ },
+ {
+  "person": "Bob Iger",
+  "role": "Disney",
+  "promise": "Combined streaming business (Disney+) would break even by the end of fiscal 2024 (pledge after Iger's return, late 2022)",
+  "date_promised": "2022-06-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "Disney's DTC segment reported profitability in Q4 fiscal 2024, meeting the deadline.",
+  "evidence": [],
+  "sources": [
+   "Fortune"
+  ]
+ },
+ {
+  "person": "David Zaslav",
+  "role": "Warner Bros. Discovery",
+  "promise": "Merger with Discovery would generate $3 billion in annual cost synergies (2022)",
+  "date_promised": "2022-06-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "WBD achieved the $3 billion run-rate target and later raised it to more than $5 billion.",
+  "evidence": [],
+  "sources": [
+   "Hollywood Reporter, 2024"
+  ]
+ },
+ {
+  "person": "Volodymyr Zelenskyy",
+  "role": "President",
+  "promise": "Victory Plan (presented 16 Oct 2024) demanded an immediate NATO membership invitation as point one, i.e., an invitation before the war's end",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "No invitation was issued. Scholz publicly opposed a wartime invite (24 Oct 2024); the US administration said in March 2025 it does not support NATO membership for Ukraine; by 2026 Ukraine remained outside NATO.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Victory_Plan_for_Ukraine",
+   "https://en.wikipedia.org/wiki/Ukraine%E2%80%93NATO_relations"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister",
+  "promise": "Total victory and destruction/elimination of Hamas — 'we will not stop the war before achieving all of its goals' (April 2024), vowing to continue 'until victory'",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Hamas survived as a negotiating party: it signed the US-led Gaza peace plan (Oct 2025), released hostages, refused to disarm (3 Oct 2025), and phase 2 (disarmament) was stalled as of May 2026. 64% of Gaza was under Israeli military control as of April 2026, but 'total victory' was not achieved.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
+   "https://en.wikipedia.org/wiki/Gaza_peace_plan",
+   "https://en.wikipedia.org/wiki/Gaza_war"
+  ]
+ },
+ {
+  "person": "Claudia Sheinbaum",
+  "role": "President (from 1 Oct 2024)",
+  "promise": "Pass 'Plan C' judicial reform — election of judges by popular vote — during her first months",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "The constitutional judicial reform passed both chambers in Sept 2024 and was published; Sheinbaum rejected a Supreme Court bid to strike it down and enacted a constitutional-supremacy law limiting challenges.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
+  ]
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister (from Dec 2023)",
+  "promise": "Unblock Poland's EU Recovery funds (KPO, ~€59.8bn) 'within weeks' of taking office",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "First tranche of PLN 27bn (~€6.3bn) arrived 15 Apr 2024 after the Commission's positive assessment of 29 Feb 2024; further payments followed through 2025, though the full €59.8bn had not all been disbursed.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://pl.wikipedia.org/wiki/Krajowy_Plan_Odbudowy"
+  ]
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister (from Dec 2023)",
+  "promise": "Liberalize the abortion law — legal abortion on request up to 12 weeks of pregnancy",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "The liberalization bill was rejected by the Sejm on 12 Jul 2024 (218 votes against, 215 for); the restrictive law remained unchanged and President-elect Nawrocki (2025) opposes liberalization.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Abortion_in_Poland"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Create Great British Energy, a publicly owned energy company",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "Great British Energy Act received royal assent 15 May 2025; the company is operational with up to £8.3bn of backing and its first projects announced (rooftop solar on 200 schools and 200 NHS sites).",
+  "evidence": [],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Great_British_Energy",
+   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
+  ]
+ },
+ {
+  "person": "Olaf Scholz",
+  "role": "Chancellor (2021–2025)",
+  "promise": "Zeitenwende (27 Feb 2022): €100bn Bundeswehr special fund and reaching NATO's 2% of GDP defence spending",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Germany met 2% of GDP in 2024 (first time since 1992) and 2.22% in 2025, but only about half of the €100bn fund had been drawn down by end-2025 and the Bundeswehr's readiness gaps (munitions, equipment) persisted, with the rebuild continuing under Merz.",
+  "evidence": [],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Bundeswehr"
+  ]
+ },
+ {
+  "person": "Jeff Shell",
+  "role": "CEO, NBCUniversal",
+  "promise": "We expect Peacock to reach 30 to 35 million subscribers by 2024 (as reported).",
+  "date_promised": "2021-06-22",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "At Comcast's June 2021 investor day, NBCUniversal guided Peacock to 30-35 million paid subscribers by end of 2024. Peacock finished 2024 with roughly 36 million paid subscribers, meeting the target.",
+  "evidence": [
+   "Comcast Investor Day 2021 guidance of 30-35M Peacock subs by 2024",
+   "Peacock reported ~36M paid subscribers at end of 2024"
+  ],
+  "sources": [
+   "Comcast 2021 Investor Day presentation",
+   "Comcast Q4 2024 earnings release, 2025-01-30"
+  ]
+ },
+ {
+  "person": "Lucian Grainge",
+  "role": "Chairman/CEO, Universal Music Group",
+  "promise": "The artist-centric model will rebalance streaming economics so genuine artists earn more from every stream (as announced).",
+  "date_promised": "2023-03-21",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "UMG announced its 'artist-centric' streaming model in March 2023, promising fairer royalty distribution and higher per-stream rates for professional artists. UMG signed artist-centric agreements with Amazon (2023), Deezer (2023 rollout) and Apple (Feb 2025), but the model was only partially adopted industry-wide and its revenue impact for artists remains limited.",
+  "evidence": [
+   "Artist-centric agreements signed with Amazon (2023), Deezer and Apple (2025)",
+   "Model applied only where negotiated; Spotify has not adopted full artist-centric royalties"
+  ],
+  "sources": [
+   "UMG announcement, 2023-03-21",
+   "Billboard coverage of UMG-Apple deal, 2025-02"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO, Anthropic",
+  "promise": "A 'Claude 3.5 Opus' flagship was expected later in 2024, following Claude 3.5 Sonnet",
+  "date_promised": "2024-06-20",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Anthropic's June 2024 launch of Claude 3.5 Sonnet teed up a 3.5 Opus flagship within the year, and Amodei publicly discussed it through late 2024 while the model was repeatedly delayed. It never shipped: Anthropic skipped straight to Claude 4 (Opus 4/Sonnet 4, May 22, 2025) with a redesigned architecture.",
+  "evidence": [
+   "Claude 3.5 Sonnet launched June 20, 2024 as 'first in the 3.5 family'",
+   "Delays reported through 2H 2024 (The Information, Sept 2024)",
+   "No 3.5 Opus ever released; Claude 4 launched May 22, 2025 (Wikipedia: Claude)"
+  ],
+  "sources": [
+   "Wikipedia: Claude (language model)",
+   "Anthropic blog (Jun 20, 2024)",
+   "The Information (Sept 2024)"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, xAI",
+  "promise": "Grok 3, 'the most powerful AI in the world', would be released by December 2024",
+  "date_promised": "2024-07-01",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Musk announced in July 2024 that Grok 3 would launch by end of December 2024 and repeated 'next week'-style promises into December. It actually shipped on February 17, 2025 — roughly two months late, but delivered.",
+  "evidence": [
+   "DW News (Oct 28, 2024): 'xAI would release... Grok 3, by December 2024'",
+   "Grok 3 released Feb 17, 2025 (Wikipedia: Grok; Evening Standard Feb 18, 2025)",
+   "Launch featured 'the smartest AI on Earth' claims"
+  ],
+  "sources": [
+   "DW News (Oct 28, 2024)",
+   "Wikipedia: Grok (chatbot)",
+   "London Evening Standard (Feb 18, 2025)"
+  ]
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "\"Our AI business is on track to surpass an annual revenue run rate of $10 billion next quarter.\"",
+  "date_promised": "2024-10-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "On the Q1 FY25 earnings call, Nadella promised the AI business (Azure AI + Copilot) would exceed a $10B annual run rate in the very next quarter. Microsoft confirmed the milestone: by the Jan 2025 Q2 FY25 report the AI business run rate had passed ~$13B.",
+  "evidence": [
+   "Exact quote verified from Q1 FY25 earnings call transcript (Oct 30, 2024)",
+   "Microsoft Q2 FY25 (Jan 29, 2025) reported AI business run rate above $13B",
+   "M365 Copilot billed as 'fastest growing product in our history'"
+  ],
+  "sources": [
+   "Microsoft Q1 FY25 earnings call transcript (Motley Fool, Oct 30, 2024)",
+   "Microsoft Q2 FY25 earnings (Jan 29, 2025)"
+  ]
+ },
+ {
+  "person": "Mary Barra",
+  "role": "CEO, General Motors (Cruise)",
+  "promise": "GM expected Cruise to resume robotaxi operations in 2024 after the 2023 pause",
+  "date_promised": "2024-01-30",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "After the Oct 2023 pedestrian-dragging incident and permit suspensions, Barra signaled Cruise would relaunch driverless operations in 2024 (succeeding Kyle Vogt's earlier goals, including Cruise's 'adding $1 billion in revenue by 2025' target from Sept 2022). Instead, GM stopped funding the Cruise robotaxi program on Dec 10, 2024, folding the unit into GM's driver-assistance work; robotaxis never resumed under Cruise.",
+  "evidence": [
+   "Reuters (Jan 2024): GM expected Cruise relaunch during 2024",
+   "GM stopped funding Cruise robotaxi program Dec 2024 (Wikipedia: Cruise)",
+   "Vogt-era goal: '$1 billion in revenue by 2025 and $50 billion by 2030' (The Verge, 2022) never approached"
+  ],
+  "sources": [
+   "Reuters (Jan 30, 2024)",
+   "Wikipedia: Cruise (autonomous vehicle)",
+   "The Verge (Sept 2022)"
+  ]
+ },
+ {
+  "person": "Mark Carney",
+  "role": "UN Special Envoy for Climate Action, co-chair of GFANZ (COP26)",
+  "promise": "GFANZ firms representing $130 trillion in assets commit to net zero by 2050, with 2030 interim targets and credible transition plans within 12 months.",
+  "date_promised": "2021-11-03",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Carney unveiled the Glasgow Financial Alliance for Net Zero at COP26 (450+ firms, ~$130tn claimed; Wikipedia puts the core group at 160+ companies/~$70tn). Members were required to set 2030 interim targets within 12 months and publish transition plans. Instead the alliance collapsed: Vanguard left in 2022, and BlackRock, JPMorgan, Goldman Sachs and State Street exited the Net-Zero Asset Managers initiative in Dec 2024-Jan 2025.",
+  "evidence": [
+   "Wikipedia GFANZ: Race to Zero membership required '2030 interim target setting'; first defections over fossil-fuel rules in 2022",
+   "NZAM exodus Dec 2024-Jan 2025: BlackRock, JPMorgan, Goldman Sachs, State Street quit; hundreds of managers left in 2024",
+   "Carney's $130tn commitment figure widely reported at COP26 (Reuters/FT); GFANZ membership shrank sharply by 2025"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Glasgow_Financial_Alliance_for_Net_Zero",
+   "https://www.reuters.com/business/sustainable-business/carney-says-130-trillion-now-committed-net-zero-2021-11-03/"
+  ]
+ },
+ {
+  "person": "UN Environment Assembly (plastics treaty negotiations)",
+  "role": "UNEA resolution 5/14 signatories",
+  "promise": "Conclude a global legally binding plastics treaty by the end of 2024",
+  "date_promised": "2022-03-02",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "In March 2022 the UN Environment Assembly adopted resolution 5/14 mandating negotiations for a legally binding global treaty on plastic pollution 'with the ambition' of completing them by the end of 2024. The fifth negotiating session (INC-5) in Busan, South Korea, ended on 1 December 2024 without an agreement, forcing a resumed session (INC-5.2) in Geneva in August 2025. The deadline was missed.",
+  "evidence": [
+   "INC-5 in Busan suspended on 1 December 2024 without a final treaty",
+   "Negotiations continued at INC-5.2 in Geneva in August 2025",
+   "EIA and others describe the 2024 conclusion as an 'aspirational mandate' that was missed"
+  ],
+  "sources": [
+   "The Peninsula (Reuters)",
+   "Springer / Journal of Environmental Studies and Sciences",
+   "EIA International"
+  ]
+ },
+ {
+  "person": "G20 (Common Framework for Debt Treatments)",
+  "role": "G20 member states and Paris Club",
+  "promise": "Deliver timely and orderly debt restructuring for eligible low-income countries",
+  "date_promised": "2020-11-22",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At the November 2020 G20 Riyadh Summit, G20 leaders endorsed the Common Framework for Debt Treatments beyond the DSSI to deliver timely, orderly debt restructuring for pandemic-hit low-income countries. By 2025 only four countries — Chad, Ethiopia, Ghana and Zambia — had applied, three had completed restructurings, and analyses found the framework delivered only modest relief, cutting high-risk debt by about 7%.",
+  "evidence": [
+   "Only 4 of 69 eligible countries applied under the framework by 2025",
+   "3 countries completed the process; only 2 received debt relief",
+   "ONE analysis found the framework cut high-risk debt by only ~7%"
+  ],
+  "sources": [
+   "ONE Campaign",
+   "tralac",
+   "Ecofin Agency"
+  ]
+ }
+]

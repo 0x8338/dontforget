@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Barack Obama",
+  "role": "President of the United States",
+  "promise": "Close the Guantánamo Bay detention camp within one year",
+  "date_promised": "2009-01-22",
+  "due_date": "2010-01-22",
+  "status": "broken",
+  "description": "Obama signed Executive Order 13492 on his second day in office ordering the detention facility closed within one year. Congress blocked transfers of detainees and the prison remains open as of 2026.",
+  "evidence": [
+   "Guantánamo remains operational with detainees in 2026",
+   "Congress repeatedly passed provisions barring transfer of detainees"
+  ],
+  "sources": [
+   "White House Archives",
+   "BBC News",
+   "Reuters"
+  ]
+ }
+]

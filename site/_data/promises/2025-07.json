@@ -1,0 +1,55 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "No tax on tips, overtime, or Social Security benefits",
+  "date_promised": "2024-06-15",
+  "due_date": "2025-07-04",
+  "status": "partial",
+  "description": "Campaign pledge to end taxes on tips, overtime pay and Social Security income. The One Big Beautiful Bill Act (signed July 4, 2025) delivered only temporary tax deductions for tips, overtime and auto loans, all expiring in 2028; the Social Security tax exemption was never included, so the promise was only partially fulfilled.",
+  "evidence": [
+   "OBBBA creates deductions for tips/overtime/auto loans rather than full exemptions (per Wikipedia, Second presidency of Donald Trump)",
+   "Deductions expire in 2028; no Social Security exemption was enacted"
+  ],
+  "sources": [
+   "Wikipedia: Second presidency of Donald Trump",
+   "Reuters coverage of One Big Beautiful Bill Act"
+  ]
+ },
+ {
+  "person": "James Gunn",
+  "role": "Co-CEO, DC Studios",
+  "promise": "Superman: Legacy — July 11, 2025 (as announced).",
+  "date_promised": "2023-01-31",
+  "due_date": "2025-07-11",
+  "status": "kept",
+  "description": "Gunn's 'Chapter One: Gods and Monsters' slate announcement set Superman: Legacy for July 11, 2025, kicking off the new DCU. The film (titled 'Superman') opened July 11, 2025 exactly as promised, on the announced date.",
+  "evidence": [
+   "Slate announced 2023-01-31 with Superman: Legacy dated 2025-07-11",
+   "Superman released July 11, 2025 as scheduled"
+  ],
+  "sources": [
+   "DC Studios announcement, 2023-01-31",
+   "Box Office Mojo / WB release data, 2025-07"
+  ]
+ },
+ {
+  "person": "NATO Allies (Washington Summit)",
+  "role": "NATO member states",
+  "promise": "Provide Ukraine with a minimum of 40 billion euros in military aid within a year",
+  "date_promised": "2024-07-10",
+  "due_date": "2025-07-10",
+  "status": "kept",
+  "description": "At the NATO Washington Summit in July 2024, the 32 allies committed to a minimum baseline funding of 40 billion euros in security assistance for Ukraine within the next year, to be sustained at future summits. According to NATO and member-state statements, allies delivered over 50 billion euros of military aid to Ukraine in 2024, exceeding the pledge, with about 60% provided by European allies and Canada.",
+  "evidence": [
+   "NATO and UK Parliament statements confirm over €50bn delivered in 2024",
+   "Target was a minimum of €40bn within one year of the July 2024 summit",
+   "European allies and Canada supplied about 60% of 2024 military aid"
+  ],
+  "sources": [
+   "NATO",
+   "UK Parliament",
+   "Estonian Ministry of Defence"
+  ]
+ }
+]

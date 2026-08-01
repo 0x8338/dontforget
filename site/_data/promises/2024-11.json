@@ -1,0 +1,21 @@
+[
+ {
+  "person": "Boris Johnson",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "\"50,000 more nurses\" in the NHS.",
+  "date_promised": "2019-11-24",
+  "due_date": "2024-11-24",
+  "status": "broken",
+  "description": "Conservative manifesto pledge at the 2019 election to recruit 50,000 more nurses over five years. Independent analysis (Nuffield Trust, Health Foundation) found the net increase by 2024 was only about 20,000-21,000, and even that figure was inflated by counting existing NHS nurses; targets were missed.",
+  "evidence": [
+   "Nuffield Trust analysis showed a shortfall of ~20,000+ nurses",
+   "NHS headcount data showed nursing numbers fell in 2022 and rose slowly",
+   "Health Foundation called the pledge \"very much on the verge\" of being missed"
+  ],
+  "sources": [
+   "Nuffield Trust",
+   "BBC News",
+   "Health Foundation"
+  ]
+ }
+]

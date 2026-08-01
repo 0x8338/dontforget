@@ -1,0 +1,46 @@
+[
+ {
+  "person": "Emmanuel Macron",
+  "role": "President of France",
+  "promise": "Close the Fessenheim nuclear plant in early 2020.",
+  "date_promised": "2018-11-27",
+  "due_date": "2020-06-30",
+  "status": "kept",
+  "description": "Macron announced in November 2018 that both Fessenheim units would close in early 2020. Unit 1 shut on 22 February 2020 and Unit 2 on 29 June 2020 - delivered despite union opposition and legal challenges.",
+  "evidence": [
+   "Wikipedia Fessenheim: 'In November 2018, President Macron announced that both units would close in early 2020'",
+   "Unit 1 closed 22 February 2020; Unit 2 closed 29 June 2020"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Fessenheim_Nuclear_Power_Plant",
+   "https://www.reuters.com/article/us-france-nuclear-fessenheim/france-closes-fessenheim-nuclear-plant-after-decades-of-protests-idUSKBN2401Z3"
+  ]
+ },
+ {
+  "person": "Dennis Muilenburg",
+  "role": "CEO, Boeing",
+  "promise": "737 MAX would be back in the skies by year end (2019), later revised to mid-2020",
+  "date_promised": "2019-10-23",
+  "due_date": "2020-06-30",
+  "status": "partial",
+  "description": "Muilenburg told investors and airlines on 23 October 2019 that the grounded 737 MAX would return to service by the end of the year. After the FAA called the forecast unrealistic, Boeing revised the target to mid-2020 on 21 January 2020. The FAA lifted the grounding on 18 November 2020 and US airlines resumed flights in December 2020, months after every stated target; Muilenburg had been dismissed in December 2019.",
+  "evidence": [
+   "FAA approval came 18 November 2020, not year-end 2019 or mid-2020",
+   "Muilenburg was fired on 23 December 2019"
+  ],
+  "sources": [
+   "AeroTime",
+   "NPR",
+   "Puget Sound Business Journal"
+  ],
+  "source_urls": [
+   "https://www.aerotime.aero/articles/24475-boeing-return-to-service-update)",
+   "https://www.npr.org/2020/01/21/798312515/boeing-737-max-may-stay-grounded-into-summer)",
+   "https://www.bizjournals.com/seattle/news/2020/10/20/the-maxs-many-returns.html)"
+  ]
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "person": "Mark Rutte",
+  "role": "Prime Minister of the Netherlands",
+  "promise": "The government will halve nitrogen emissions by 2030",
+  "date_promised": "2021-12-15",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Rutte's fourth coalition agreement pledged to halve nitrogen emissions in the Netherlands by 2030 to resolve the country's long-running nitrogen crisis, prompting an ambitious livestock reduction plan. The program sparked farmer protests and was later softened, and with the 2030 deadline still ahead the 50% reduction looks unlikely to be met at the current pace.",
+  "evidence": [
+   "Target of 50% nitrogen reduction by 2030 written into the December 2021 coalition agreement",
+   "Implementation scaled back after 2023 election losses; 2030 goal at risk per government advisory body (PBL) estimates"
+  ],
+  "sources": [
+   "Dutch government coalition agreement (December 2021)",
+   "NRC / Reuters (2023-2025 nitrogen policy coverage)"
+  ]
+ },
+ {
+  "person": "Sundar Pichai",
+  "role": "CEO, Alphabet and Google",
+  "promise": "We are committed to operating on 100% carbon-free energy by 2030",
+  "date_promised": "2020-09-14",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Pichai announced that Google would run its data centers and offices entirely on carbon-free energy by 2030, the first major corporate pledge of its kind. Google's own 2024 Environmental Report shows total greenhouse gas emissions rose 48% from 2019 to 2023, driven by AI data center electricity use, with 2024 emissions up another 13% — putting the 2030 goal far out of reach on current trajectory.",
+  "evidence": [
+   "Announced Sept 14, 2020, with Pichai calling it 'the biggest sustainability moonshot we've pursued'",
+   "Google 2024 Environmental Report: emissions +48% vs 2019 baseline",
+   "2024 emissions rose another ~13% as AI compute demand surged",
+   "Deadline (2030) not yet passed, but trend is opposite of pledge"
+  ],
+  "sources": [
+   "CNBC",
+   "Google"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2020/09/14/google-aims-to-run-on-carbon-free-energy-by-2030.html",
+   "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf"
+  ]
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "Microsoft will be carbon negative by 2030",
+  "date_promised": "2020-01-16",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Nadella pledged Microsoft would remove more carbon than it emits by 2030 and eliminate all its historical emissions by 2050. Microsoft's own 2024 Environmental Sustainability Report shows Scope 1-3 emissions rose ~29% from the 2020 baseline, driven largely by data center construction for AI, making the 2030 target increasingly unlikely on the current trajectory.",
+  "evidence": [
+   "Announced Jan 16, 2020 on Microsoft blog",
+   "Microsoft 2024 sustainability report: emissions up ~29% vs 2020 baseline",
+   "AI data center buildout is the main driver of the increase",
+   "Deadline (2030) not yet passed; trajectory currently incompatible"
+  ],
+  "sources": [
+   "Microsoft",
+   "Microsoft"
+  ],
+  "source_urls": [
+   "https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/",
+   "https://www.microsoft.com/en-us/sustainability/"
+  ]
+ },
+ {
+  "person": "Tim Cook",
+  "role": "CEO, Apple",
+  "promise": "Apple will be 100 percent carbon neutral for its supply chain and products by 2030",
+  "date_promised": "2020-07-21",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Cook announced that by 2030 every Apple product sold would have net-zero climate impact across its entire supply chain and product life cycle. Apple has cut absolute gross emissions and added supplier commitments, but the 2030 deadline has not passed and the supply chain (Scope 3) transition is incomplete, so the pledge remains in progress.",
+  "evidence": [
+   "Press release: 'Apple commits to be 100 percent carbon neutral for its supply chain and products by 2030' (July 21, 2020)",
+   "Apple reports emissions reductions since the pledge and ~340+ suppliers committed to clean energy",
+   "Deadline (2030) not yet passed; status is in-progress"
+  ],
+  "sources": [
+   "Apple",
+   "Apple"
+  ],
+  "source_urls": [
+   "https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/",
+   "https://www.apple.com/environment/"
+  ]
+ },
+ {
+  "person": "Bernard Looney",
+  "role": "BP CEO (2020-2023)",
+  "promise": "BP will reduce oil and gas production by 40% by 2030 versus 2019.",
+  "date_promised": "2020-02-12",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "Looney's February 2020 'reinvent BP' strategy committed to a 40% oil and gas production cut by 2030. In February 2023, citing energy security and profits, BP abandoned the target and said it would grow oil and gas production through the decade (reneged before the deadline).",
+  "evidence": [
+   "Feb 2023: Looney scrapped the 40% cut, saying BP would 'invest more in oil and gas than previously planned'",
+   "Feb 2025 reset under Auchincloss: oil & gas spending raised ~20% to ~$10bn/yr",
+   "Greenpeace called the reversal 'proof that fossil fuel companies can't or won't be part of climate crisis solutions' (Wikipedia BP)"
+  ],
+  "sources": [
+   "BP",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bernard-looney-announces-new-ambition-for-bp.html",
+   "https://en.wikipedia.org/wiki/BP"
+  ]
+ },
+ {
+  "person": "Bernard Looney / Murray Auchincloss",
+  "role": "BP CEO (2020-2023) / CEO (2024-)",
+  "promise": "Increase annual low carbon investment tenfold to around $5 billion a year by 2030.",
+  "date_promised": "2020-02-12",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "BP's 2020 strategy promised $5bn/yr low-carbon spend by 2030. On 26 February 2025 CEO Murray Auchincloss cut planned low-carbon investment by more than $5bn/yr to $1.5-2bn/yr and dropped the renewable power and EV-charging targets entirely - abandoning the trajectory mid-course.",
+  "evidence": [
+   "Feb 2025: low-carbon spend cut to $1.5-2bn/yr, >$5bn reduction vs previous plan (Wikipedia BP)",
+   "BP's 2030 renewables generation and 10x EV-charging targets dropped in the same reset",
+   "Transition spending in 2023-2024 had already run well below the $5bn trajectory"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/BP",
+   "https://www.reuters.com/business/energy/bp-resets-strategy-slashes-renewables-spending-2025-02-26/"
+  ]
+ },
+ {
+  "person": "World Health Organization (cervical cancer elimination strategy)",
+  "role": "WHO global strategy signatories",
+  "promise": "Meet 90-70-90 cervical cancer elimination targets by 2030",
+  "date_promised": "2020-11-17",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "In November 2020 the World Health Assembly endorsed the global strategy to eliminate cervical cancer, setting targets for 2030: 90% of girls fully vaccinated against HPV by age 15, 70% of women screened with a high-precision test, and 90% of women with pre-cancer or invasive cancer treated. Global HPV vaccination coverage remains far below the target: analyses published in 2025 found that only about 21% of girls had received at least one dose by age 15, against the 90% target.",
+  "evidence": [
+   "Global HPV coverage for girls by age 15 was about 21% as of 2024, versus the 90% target",
+   "WHO strategy adopted by the World Health Assembly in November 2020",
+   "Coverage rose from roughly 4% in 2010 but stalled during the COVID-19 pandemic"
+  ],
+  "sources": [
+   "World Health Organization",
+   "CIDRAP / University of Minnesota",
+   "The Lancet"
+  ]
+ },
+ {
+  "person": "Global Methane Pledge signatories",
+  "role": "US, EU and 150+ countries",
+  "promise": "Reduce global methane emissions by at least 30% from 2020 levels by 2030",
+  "date_promised": "2021-11-02",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Launched by the United States and the European Union at COP26 in Glasgow in November 2021, the Global Methane Pledge commits signatories to cut global methane emissions by at least 30% from 2020 levels by 2030. The pledge has catalysed new policies and the IEA's Global Methane Tracker 2026 found that regulations in place would cut oil and gas emissions by only around 20% by 2030 — well short of the 30% economy-wide target, with agriculture lagging furthest.",
+  "evidence": [
+   "IEA 2026 analysis: current policies cut oil and gas methane by only ~20% by 2030",
+   "Pledge signed by more than 150 countries at COP26",
+   "Agriculture, the largest methane source, remains the biggest policy gap"
+  ],
+  "sources": [
+   "IEA Global Methane Tracker 2026",
+   "European Commission",
+   "Environment Journal"
+  ]
+ },
+ {
+  "person": "Glasgow Leaders' Declaration on Forests and Land Use signatories",
+  "role": "140+ countries at COP26",
+  "promise": "Halt and reverse forest loss and land degradation by 2030",
+  "date_promised": "2021-11-02",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "At COP26 in Glasgow, more than 140 countries covering over 90% of global forest area signed a declaration committing to halt and reverse forest loss and land degradation by 2030. Independent assessments through 2025 found the world falling behind: roughly 6.6 million hectares of primary forest were lost in 2022 alone, and reports concluded the pledge was about 21% off track, with fires and agricultural expansion accelerating losses.",
+  "evidence": [
+   "Reports in 2025 concluded the world is 'far off track' on the 2030 pledge",
+   "About 6.6 million hectares of primary forest lost in 2022, 33% above a sustainable path",
+   "UK government regulations in 2026 still cite the pledge as the basis for forest-risk rules"
+  ],
+  "sources": [
+   "IPSN / Global Forest Watch analysis",
+   "Climate Fact Checks",
+   "UK Parliament"
+  ]
+ },
+ {
+  "person": "European Union (EU Chips Act)",
+  "role": "European Commission and member states",
+  "promise": "Double Europe's share of global semiconductor production to 20% by 2030",
+  "date_promised": "2023-09-21",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The EU Chips Act, in force since September 2023, set the goal of raising Europe's share of global semiconductor production to 20% by 2030, backed by over 43 billion euros in public and private investment. Commission projections and independent analyses as of 2025-2026 put Europe's share on course to stagnate at roughly 10-12% by 2030, well short of the target, though the act has catalysed new fabs and investment.",
+  "evidence": [
+   "Europe's share projected at ~11.7% by 2030, versus the 20% target",
+   "Europe currently holds around 10% of the global semiconductor market",
+   "EU Chips Act entered into force 21 September 2023"
+  ],
+  "sources": [
+   "Globsec",
+   "European Commission",
+   "FundsTech"
+  ]
+ },
+ {
+  "person": "António Guterres",
+  "role": "UN Secretary-General",
+  "promise": "Deliver an SDG Stimulus of $500 billion per year in additional development finance",
+  "date_promised": "2023-02-16",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "In February 2023 Guterres called for an SDG Stimulus delivering at least $500 billion per year in affordable, long-term financing for developing countries through multilateral development banks and other mechanisms, and later announced a Leaders Group to push the initiative forward. The stimulus remains a proposal: as of 2026 no binding mechanism delivering the $500 billion annual level has been established.",
+  "evidence": [
+   "Guterres called for the $500bn-a-year stimulus in February 2023",
+   "A Leaders Group was announced to implement the initiative",
+   "No mechanism delivering the annual $500bn level existed as of 2026"
+  ],
+  "sources": [
+   "UN News",
+   "United Nations Secretary-General statements",
+   "UNCTAD"
+  ]
+ },
+ {
+  "person": "Jane Fraser",
+  "role": "CEO, Citigroup",
+  "promise": "Deploy $1 trillion in sustainable finance by 2030, including $500 billion for climate and $500 billion for health care and affordable housing",
+  "date_promised": "2021-04-21",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "At the Leaders Summit on Climate in April 2021, Fraser announced Citi's $1 trillion sustainable-finance goal for 2030, building on its earlier $500 billion climate-finance target. From 2020 through 2022 the bank reported $348.5 billion financed toward the goal, which it said put it on track.",
+  "evidence": [
+   "Citi reported $348.5 billion financed toward the goal from 2020-2022",
+   "Goal runs to 2030; progress reported in annual ESG reports"
+  ],
+  "sources": [
+   "Citigroup press release",
+   "MarketWatch",
+   "Euromoney"
+  ]
+ },
+ {
+  "person": "Pony Ma",
+  "role": "CEO, Tencent",
+  "promise": "Achieve carbon neutrality across Tencent's own operations and supply chain by no later than 2030, with 100% green power by 2030",
+  "date_promised": "2022-02-24",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "In February 2022 Tencent announced a plan to become carbon neutral in its own operations and supply chain by no later than 2030, including using green power for 100 percent of electricity consumed by the end of the decade. The company has published annual ESG reports tracking progress.",
+  "evidence": [
+   "Plan announced February 2022 with 2030 targets",
+   "Tencent publishes ESG progress reports, target not yet reached"
+  ],
+  "sources": [
+   "Tencent",
+   "South China Morning Post",
+   "China Daily"
+  ]
+ }
+]

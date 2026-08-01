@@ -1,0 +1,38 @@
+[
+ {
+  "person": "Emmanuel Macron",
+  "role": "President of France",
+  "promise": "The Seine will be swimmable for the 2024 Paris Olympics, and \"we will swim in it\" (I will swim in the Seine in 2024).",
+  "date_promised": "2023-09-01",
+  "due_date": "2024-08-11",
+  "status": "partial",
+  "description": "Following a 2018 EUR1.4B cleanup plan, Macron repeatedly pledged in 2023-2024 that the Seine would host Olympic swimming and that he would personally swim in it. His planned July 31, 2024 swim was cancelled, the men's triathlon was postponed a day over water quality, and several athletes fell ill — but the triathlons and marathon swimming were ultimately held in the river, and the Seine reopened to public swimming in 2025.",
+  "evidence": [
+   "Macron's planned July 2024 Seine swim was cancelled",
+   "Men's triathlon postponed due to bacterial contamination (July 30, 2024)",
+   "Marathon swimming events took place in the Seine in August 2024; river reopened to swimmers July 2025"
+  ],
+  "sources": [
+   "AP",
+   "Le Monde",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Thomas Bach",
+  "role": "IOC President",
+  "promise": "Paris 2024 will be the first Olympic Games with full gender parity on the field of play (as reported).",
+  "date_promised": "2019-03-08",
+  "due_date": "2024-08-11",
+  "status": "kept",
+  "description": "IOC pledged that Paris 2024 would be the first fully gender-balanced Games. The Paris 2024 Games fielded exactly 5,250 women and 5,250 men (50/50), fulfilling the target.",
+  "evidence": [
+   "IOC confirmed equal number of female and male athlete slots at Paris 2024",
+   "Final quota breakdown: 5,250 women / 5,250 men"
+  ],
+  "sources": [
+   "Olympics.com, 2019-03 and 2024-07",
+   "IOC press releases 2024"
+  ]
+ }
+]

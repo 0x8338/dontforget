@@ -1,0 +1,60 @@
+[
+ {
+  "person": "Joe Biden",
+  "role": "President of the United States",
+  "promise": "Withdraw all US troops from Afghanistan by September 11, 2021",
+  "date_promised": "2021-04-14",
+  "due_date": "2021-09-11",
+  "status": "kept",
+  "description": "Biden announced the full withdrawal of US forces would be complete by the 20th anniversary of 9/11. The last troops departed on August 30, 2021 — ahead of the deadline, though the chaotic Kabul evacuation drew sharp criticism.",
+  "evidence": [
+   "Last US troops left Kabul on 2021-08-30",
+   "Withdrawal completed before the September 11 deadline"
+  ],
+  "sources": [
+   "White House",
+   "US Central Command",
+   "BBC News"
+  ]
+ },
+ {
+  "person": "Ursula von der Leyen",
+  "role": "President of the European Commission",
+  "promise": "By the end of the summer, I want 70% of the adult population in the EU to be vaccinated",
+  "date_promised": "2021-02-17",
+  "due_date": "2021-09-21",
+  "status": "kept",
+  "description": "In her February 2021 European Parliament speech, von der Leyen set a target of fully vaccinating 70% of the EU's adult population by the end of summer 2021, despite a slow start to the bloc's rollout. The target was hit ahead of the autumn deadline: the EU reached 70% of adults fully vaccinated in late August 2021, thanks to a rapid acceleration of deliveries from the second quarter onward.",
+  "evidence": [
+   "EU crossed the 70% of adults fully vaccinated mark on August 25, 2021",
+   "Over 200 million EU adults fully vaccinated before the end of September 2021"
+  ],
+  "sources": [
+   "European Commission statement (August 2021)",
+   "Reuters / EURACTIV (August-September 2021)"
+  ]
+ },
+ {
+  "person": "Steve Burns",
+  "role": "CEO, Lordstown Motors",
+  "promise": "Endurance electric pickup would begin production in September 2021, with deliveries starting the same month",
+  "date_promised": "2020-11-16",
+  "due_date": "2021-09-30",
+  "status": "partial",
+  "description": "Lordstown repeatedly told investors it was on track to start production of the Endurance in September 2021, even after Burns resigned in June 2021. Production did not begin in September 2021; limited production started only after a 2022 Foxconn agreement, and the company filed for Chapter 11 bankruptcy in June 2023 with only a small number of trucks delivered.",
+  "evidence": [
+   "No production began in September 2021; company acknowledged needing capital in May 2021",
+   "Chapter 11 filing June 2023 after limited 2022 production"
+  ],
+  "sources": [
+   "GlobeNewswire",
+   "Yahoo Autos",
+   "Reuters, June 2023"
+  ],
+  "source_urls": [
+   "https://www.globenewswire.com/en/news-release/2020/11/16/2127140/0/en/Lordstown-Motors-Releases-Business-Updates-Remains-on-Track-to-Begin-Production-of-the-Lordstown-Endurance-in-September-2021.html)",
+   "https://autos.yahoo.com/lordstown-promises-endurance-ev-pickup-140000045.html)",
+   null
+  ]
+ }
+]

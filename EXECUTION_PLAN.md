@@ -37,11 +37,12 @@ Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or ca
 
 After the events + promises update:
 
-1. Run `python3 site/_data/validate.py`; fix errors before continuing.
-2. If `events.json`, `promises.json`, or `checkpoint.json` changed, commit with a UTC timestamp:
+1. Run `python3 site/_data/split_data.py` to regenerate the lightweight pages data (events in 5-year windows, promises by due month + manifest).
+2. Run `python3 site/_data/validate.py`; fix errors before continuing.
+3. If `events.json`, `promises.json`, `checkpoint.json`, or generated split files changed, commit with a UTC timestamp:
    `git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) — events +N, promises +M"`
-3. Push to origin: `git push origin main` (repo: `0x8338/dontforget`).
-4. If a same-day re-run produced no changes, skip the commit.
+4. Push to origin: `git push origin main` (repo: `0x8338/dontforget`).
+5. If a same-day re-run produced no changes, skip the commit.
 
 ## Historical Backfill (one-time, already done)
 

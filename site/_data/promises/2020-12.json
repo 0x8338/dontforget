@@ -1,0 +1,394 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Have a COVID-19 vaccine by the end of 2020 (Operation Warp Speed)",
+  "date_promised": "2020-05-15",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "At a May 2020 Rose Garden event Trump predicted a vaccine would be available 'by the end of the year.' The FDA granted emergency use authorization for the Pfizer vaccine on December 11, 2020, meeting the deadline.",
+  "evidence": [
+   "Pfizer EUA granted 2020-12-11, Moderna 2020-12-18",
+   "First doses administered in the US in December 2020"
+  ],
+  "sources": [
+   "White House press conference",
+   "FDA",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Xi Jinping",
+  "role": "President of China",
+  "promise": "Lift all rural poor out of poverty by 2020",
+  "date_promised": "2017-10-18",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Xi promised at the 19th Party Congress that China would eradicate poverty by 2020. The government declared success on February 25, 2021, saying 98.99 million rural residents had been lifted out of poverty. World Bank data broadly supports a dramatic reduction, though the official 'zero poverty' figure is contested.",
+  "evidence": [
+   "Official declaration of poverty elimination 2021-02-25",
+   "World Bank data confirms extreme poverty fell to under 1% under China's standard"
+  ],
+  "sources": [
+   "Xinhua",
+   "State Council of China",
+   "World Bank"
+  ]
+ },
+ {
+  "person": "United Nations Framework Convention on Climate Change (UNFCCC) parties",
+  "role": "International agreement signatories (Copenhagen Accord / Paris Agreement)",
+  "promise": "Mobilise $100 billion per year in climate finance for developing countries by 2020",
+  "date_promised": "2009-12-18",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Rich countries pledged in Copenhagen (2009), reaffirmed in Paris (2015), to mobilise $100 billion per year by 2020. OECD data shows only $83 billion was delivered in 2020 and $89.6 billion in 2021; the level was first reached in 2022, two years late.",
+  "evidence": [
+   "OECD: $100bn first delivered in 2022, not 2020",
+   "COP26 in 2021 acknowledged the 2020 target was missed"
+  ],
+  "sources": [
+   "OECD",
+   "UNFCCC",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "One million Tesla robotaxis on the road by 2020",
+  "date_promised": "2019-04-22",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "At Autonomy Day Musk said Tesla would launch a robotaxi network and that there would be one million robotaxis on the road in 2020. No Tesla robotaxi service existed by the deadline, and even a limited robotaxi launch only arrived in pilot form in 2025.",
+  "evidence": [
+   "Zero robotaxis deployed by end of 2020",
+   "Autonomous ride-hail pilots did not start until 2025"
+  ],
+  "sources": [
+   "Tesla Autonomy Day",
+   "Bloomberg",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Xi Jinping",
+  "role": "President of China",
+  "promise": "\"To double the 2010 GDP and the per capita income of urban and rural residents by 2020.\"",
+  "date_promised": "2012-11-08",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Announced in Xi's report to the 18th Party Congress in November 2012 as a first-centenary-goal target. China's GDP grew from about $6.1 trillion in 2010 to about $14.7 trillion in 2020 (more than doubled), and per capita income doubled in real terms per official statistics; the government declared the goal achieved.",
+  "evidence": [
+   "China's GDP ~$14.7T in 2020 vs ~$6.1T in 2010",
+   "National Bureau of Statistics confirmed doubling of per-capita income",
+   "Achievement declared at the 2021 centenary celebrations"
+  ],
+  "sources": [
+   "Xinhua",
+   "World Bank",
+   "China National Bureau of Statistics"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Facebook/Meta",
+  "promise": "Libra cryptocurrency would launch in 2020 (subject to US regulatory approval).",
+  "date_promised": "2019-10-23",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "In congressional testimony on October 23, 2019, Zuckerberg committed to a 2020 launch window for the Libra stablecoin announced June 18, 2019. Regulatory pushback never cleared, the project was rebranded Diem in December 2020, and the Diem Association shut down in January 2022, selling assets to Silvergate.",
+  "evidence": [
+   "Zuckerberg's Oct 23, 2019 House testimony naming 2020 as launch target",
+   "Libra rebranded Diem in Dec 2020 after regulators balked",
+   "Diem Association wound down Jan 2022 and sold to Silvergate"
+  ],
+  "sources": [
+   "Reuters",
+   "The Verge",
+   "CNBC"
+  ]
+ },
+ {
+  "person": "Jeff Bezos",
+  "role": "Founder and CEO of Blue Origin",
+  "promise": "New Glenn rocket's inaugural flight \"no earlier than 2020.\"",
+  "date_promised": "2016-09-12",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "At the September 2016 unveiling, Blue Origin and Bezos set the orbital rocket's first launch for 2020 (reaffirmed through 2017-2019 as the target slipped). The first New Glenn launch did not occur until January 16, 2025 — five years late, and its booster was lost on reentry.",
+  "evidence": [
+   "Sept 12, 2016 announcement of inaugural flight \"no earlier than 2020\"",
+   "First launch (NG-1) occurred Jan 16, 2025",
+   "Repeated launch delays in 2021-2024 (ULA-78 launch slot disputes etc.)"
+  ],
+  "sources": [
+   "Reuters",
+   "Ars Technica",
+   "Wikipedia: New Glenn"
+  ]
+ },
+ {
+  "person": "United Nations (CBD COP 10)",
+  "role": "Convention on Biological Diversity",
+  "promise": "Achieve the 20 Aichi Biodiversity Targets by 2020.",
+  "date_promised": "2010-10-29",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Adopted at COP 10 in Nagoya, October 2010, as a 20-target plan to 2020 covering habitat protection, species loss, pollution and sustainable use. The 2020 Global Biodiversity Outlook 5 reported that most targets were not met (and none fully achieved in the world at large), with biodiversity declining faster than ever.",
+  "evidence": [
+   "Global Biodiversity Outlook 5 (2020) found most Aichi targets missed",
+   "Zero of 20 targets fully achieved at the global level per CBD",
+   "2024 study found countries failed to meet the targets due to weak implementation and funding"
+  ],
+  "sources": [
+   "Convention on Biological Diversity (GBO-5)",
+   "Wikipedia: Aichi Biodiversity Targets",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Shinzo Abe",
+  "role": "Prime Minister of Japan",
+  "promise": "We will expand Japan's nominal GDP from 500 trillion yen to 600 trillion yen by 2020",
+  "date_promised": "2015-09-24",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Abe set a nominal GDP target of ¥600 trillion as the centerpiece of his 'one hundred million active society' agenda, promised in his Diet policy speech and repeatedly reaffirmed until he left office in 2020. Japan's nominal GDP in fiscal 2020 was about ¥539 trillion, roughly ¥60 trillion short, and Abe admitted in 2019 that reaching the goal was difficult.",
+  "evidence": [
+   "Fiscal 2020 nominal GDP came in at approximately ¥539 trillion, well below ¥600 trillion",
+   "Abe acknowledged in late 2019 that the ¥600 trillion goal was 'difficult' due to weak growth"
+  ],
+  "sources": [
+   "Reuters (September 2015)",
+   "Japan Times / Kyodo (2019-2021 coverage of GDP figures)"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "New Tesla Roadster supercar (unveiled Nov 2017) to start production in 2020",
+  "date_promised": "2017-06-30",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Still not in production as of 2026; the 2020 target has been moved at least eight times, with reveal dates pushed to 2025-2026.",
+  "evidence": [],
+  "sources": [
+   "CNET, 2025"
+  ]
+ },
+ {
+  "person": "Brian Chesky",
+  "role": "Airbnb",
+  "promise": "Pledge of $250 million to compensate hosts for COVID-19 cancellations (March 30, 2020)",
+  "date_promised": "2020-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Airbnb paid out the $250 million, covering 25% of normal cancellation payouts for cancellations between March 14 and May 31, 2020.",
+  "evidence": [],
+  "sources": [
+   "USA Today"
+  ]
+ },
+ {
+  "person": "Daniel Ek",
+  "role": "Spotify",
+  "promise": "'Audio-first' prediction that more than 20% of all Spotify listening would be non-music content (podcasts, etc.)",
+  "date_promised": "2019-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Non-music listening (podcasts, audiobooks, video) grew to roughly a quarter of listening hours by 2024-2025, clearing the 20% threshold.",
+  "evidence": [],
+  "sources": [
+   "Spotify Newsroom",
+   "The Verge"
+  ],
+  "source_urls": [
+   null,
+   "https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai"
+  ]
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple",
+  "promise": "Apple's services business would grow to the size of a Fortune 100 company (July 2016; reiterated in Jan 2017 with a 2020 timeframe)",
+  "date_promised": "2016-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Services revenue hit $53.8 billion in FY2020 — larger than the typical Fortune 100 company's annual revenue.",
+  "evidence": [],
+  "sources": [
+   "Yahoo Finance, July 2016"
+  ]
+ },
+ {
+  "person": "Christiana Figueres",
+  "role": "Former UNFCCC Executive Secretary, convenor of Mission 2020",
+  "promise": "Global greenhouse gas emissions must peak by 2020 and decline rapidly thereafter.",
+  "date_promised": "2016-11-01",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Figueres launched Mission 2020 at COP22 (2016), arguing 2020 was 'the turning point'. Emissions dipped with COVID in 2020 but rebounded to record highs in 2021-2024 - no peak was achieved.",
+  "evidence": [
+   "Global CO2 emissions set new records: ~37.4 GtCO2 in 2023 and ~41.6 GtCO2 incl. LULUCF in 2024 (Global Carbon Budget)",
+   "Figueres et al., 'Three years to safeguard our climate', Nature 546 (2017): peaking by 2020 was 'a prerequisite' for 1.5°C"
+  ],
+  "sources": [
+   "Nature",
+   "Global Carbon Budget"
+  ],
+  "source_urls": [
+   "https://www.nature.com/articles/546593a",
+   "https://globalcarbonbudget.org/"
+  ]
+ },
+ {
+  "person": "IEA (Nobuo Tanaka, Executive Director)",
+  "role": "IEA CCS Technology Roadmap (2009)",
+  "promise": "Around 100 large-scale carbon capture and storage projects operating by 2020, rising to 3,000+ by 2050.",
+  "date_promised": "2009-10-13",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "The IEA's 2009 CCS roadmap called for roughly 100 large-scale CCS projects by 2020 to hold warming near 2°C. Only about two dozen large-scale facilities operated by 2020, capturing a small fraction of the envisioned volumes - one of the most-cited missed clean-tech targets.",
+  "evidence": [
+   "Roadmap: growth 'from a handful of large-scale projects today to over three thousand projects by 2050' with ~100 needed by 2020",
+   "Wikipedia CCS: of 149 projects proposed to be operational by 2020, ~70% were not implemented; only ~26 large-scale plants operating in 2020 (~40 Mt CO2/yr)"
+  ],
+  "sources": [
+   "IEA",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.iea.org/reports/technology-roadmap-carbon-capture-and-storage-2009",
+   "https://en.wikipedia.org/wiki/Carbon_capture_and_storage"
+  ]
+ },
+ {
+  "person": "High-Level Commission on Carbon Prices (Nicholas Stern, Joseph Stiglitz)",
+  "role": "Independent commission, COP22 mandate (2017)",
+  "promise": "Explicit carbon prices need to be at least $40-80 per tonne of CO2 by 2020 and $50-100 per tonne by 2030 to meet the Paris temperature goal.",
+  "date_promised": "2017-05-29",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "The Stern-Stiglitz Commission report (May 2017) set a $40-80/tCO2 price corridor by 2020. In 2020 the EU ETS averaged ~€25 (~$28)/tCO2 - below the corridor - and the global average price was a few dollars per tonne, with most emissions unpriced.",
+  "evidence": [
+   "EU ETS averaged ~€25/tCO2 in 2020, below the $40 floor (Refinitiv/EEX data)",
+   "World Bank Carbon Pricing Dashboard 2021: global average price ~$3/tCO2; <10% of global emissions priced at $40 or above"
+  ],
+  "sources": [
+   "World Bank",
+   "World Bank"
+  ],
+  "source_urls": [
+   "https://openknowledge.worldbank.org/handle/10986/32455",
+   "https://www.worldbank.org/en/programs/pricing-carbon"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, Tesla",
+  "promise": "Gigafactory 1 to reach a projected capacity of 35 GWh per year of battery cells (50 GWh/yr of packs) by 2020.",
+  "date_promised": "2016-05-04",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Tesla's 2014-2016 Gigafactory plans projected 35 GWh/yr of cell capacity by 2020. Panasonic confirmed the theoretical 35 GWh/yr capacity was reached by May 2019, with run-rate ~30 GWh/yr by end-2019 - on track and eventually far exceeded.",
+  "evidence": [
+   "Panasonic President Kazuhiro Tsuga (May 2019): factory achieved theoretical capacity of 35 GWh/yr, with 24 GWh utilization at the time",
+   "Wikipedia Gigafactory Nevada: 35 GWh/yr cells / 50 GWh/yr packs was the projected 2020 capacity",
+   "Capacity expanded beyond 100 GWh/yr by 2022-2023"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Tesla"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Gigafactory_Nevada",
+   "https://tesla.gcs-web.com/static-files/8b230e63-5c6a-4c12-a209-33e0f1d7e223"
+  ]
+ },
+ {
+  "person": "Angela Merkel",
+  "role": "Chancellor of Germany",
+  "promise": "One million electric vehicles on German roads by 2020.",
+  "date_promised": "2010-05-03",
+  "due_date": "2020-12-31",
+  "status": "partial",
+  "description": "Germany's 2010 National Electromobility Development Plan (championed by Merkel) targeted 1 million EVs by 2020. Only ~589,000 plug-in cars were on the road on 1 January 2021; the millionth EV was registered in July 2021 - about six months late.",
+  "evidence": [
+   "588,944 plug-in electric cars in circulation on 1 January 2021 (KBA) vs 1 million target",
+   "Wikipedia: target 'achieved with a six months delay in July 2021'",
+   "Roughly 40% shortfall at the actual deadline"
+  ],
+  "sources": [
+   "Wikipedia",
+   "KBA"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_Germany",
+   "https://www.kba.de/DE/Home/home_node.html"
+  ]
+ },
+ {
+  "person": "Arnold Schwarzenegger (State of California)",
+  "role": "Governor of California - AB 32 (2006)",
+  "promise": "Reduce California's greenhouse gas emissions to 1990 levels by 2020 (statutory deadline 31 December 2020).",
+  "date_promised": "2006-09-27",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "California's landmark AB 32 set a 2020 target of returning to 1990 emission levels (431 MMTCO2e). CARB data show California met the target in 2016 - four years early - while the economy grew.",
+  "evidence": [
+   "CARB: 2016 emissions fell below the 431 MMTCO2e 2020 cap, four years ahead of deadline",
+   "Wikipedia AB 32: statutory deadline 31 December 2020; goal met on schedule/early"
+  ],
+  "sources": [
+   "Wikipedia",
+   "California Air Resources Board"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/California_Global_Warming_Solutions_Act_of_2006",
+   "https://ww2.arb.ca.gov/our-work/programs/ab-32-climate-change-scoping-plan"
+  ]
+ },
+ {
+  "person": "Richard Branson",
+  "role": "Founder, Virgin Galactic",
+  "promise": "Virgin Galactic would begin commercial space tourism flights in 2020",
+  "date_promised": "2019-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept (delayed)",
+  "description": "After years of delays, Virgin Galactic targeted commercial space tourism in 2020; by December 2020 the company said flights would begin in 2021. The first commercial mission, Galactic 01, flew three paying Italian customers to the edge of space on 29 June 2023, roughly three years after the stated target.",
+  "evidence": [
+   "Galactic 01 commercial flight took place 29 June 2023",
+   "BBC reported in December 2020 that flights would begin in 2021"
+  ],
+  "sources": [
+   "BBC News",
+   "AeroTime"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/science-environment-55279067)",
+   "https://www.aerotime.aero/articles/virgin-galactic-completes-its-first-commercial-flight)"
+  ]
+ },
+ {
+  "person": "Kevin Johnson",
+  "role": "CEO, Starbucks",
+  "promise": "Starbucks would eliminate single-use plastic straws from all stores globally by 2020",
+  "date_promised": "2018-07-09",
+  "due_date": "2020-12-31",
+  "status": "partial",
+  "description": "Starbucks announced in July 2018 that it would eliminate single-use plastic straws from its more than 28,000 stores worldwide by 2020, replacing them with strawless lids and alternative materials. The company completed the strawless-lid rollout across the US and Canada in September 2020, but the global phase-out continued beyond the 2020 deadline in many markets.",
+  "evidence": [
+   "US and Canada rollout of strawless lids completed September 2020",
+   "Global elimination extended past 2020 in other markets"
+  ],
+  "sources": [
+   "Starbucks Stories",
+   "Starbucks Stories"
+  ],
+  "source_urls": [
+   "https://stories.starbucks.com/press/2018/starbucks-to-eliminate-plastic-straws-globally-by-2020/)",
+   "https://stories.starbucks.com/press/2020/starbucks-strawless-lids-now-available-across-the-u-s-and-canada/)"
+  ]
+ }
+]

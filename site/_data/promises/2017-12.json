@@ -1,0 +1,90 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Repeal and replace Obamacare 'very quickly' in 2017",
+  "date_promised": "2017-01-20",
+  "due_date": "2017-12-31",
+  "status": "broken",
+  "description": "Trump repeatedly promised the Affordable Care Act would be repealed and replaced 'very quickly' after taking office. The Senate repeal effort collapsed on July 28, 2017 with John McCain's decisive vote, and the ACA remained law.",
+  "evidence": [
+   "Senate rejected repeal 2017-07-28",
+   "ACA remains in force through 2026"
+  ],
+  "sources": [
+   "C-SPAN",
+   "The New York Times",
+   "AP News"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla and SpaceX",
+  "promise": "Drive a Tesla fully autonomously from Los Angeles to New York by the end of 2017",
+  "date_promised": "2017-04-28",
+  "due_date": "2017-12-31",
+  "status": "broken",
+  "description": "At his 2017 TED interview Musk promised a cross-country demonstration of full self-driving, from a parking lot in LA to one in NYC 'without touching the controls' by the end of 2017. The demonstration never happened, and full self-driving still had not been delivered as of 2026.",
+  "evidence": [
+   "No cross-country autonomous demo ever took place",
+   "FSD features remained supervised and incomplete through 2026"
+  ],
+  "sources": [
+   "TED interview",
+   "Tesla shareholder communications",
+   "Reuters"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Produce 5,000 Model 3 cars per week by the end of 2017",
+  "date_promised": "2017-05-03",
+  "due_date": "2017-12-31",
+  "status": "partial",
+  "description": "Musk promised Model 3 production would reach 5,000 units per week in late 2017, then by Q1 2018 after 'production hell.' The rate was finally reached in the last week of June 2018, about six months late, after a frantic overnight shutdown push.",
+  "evidence": [
+   "5,000/week achieved only in the final week of June 2018",
+   "Target missed by roughly six months but eventually met"
+  ],
+  "sources": [
+   "Tesla shareholder letters",
+   "Reuters",
+   "AP News"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Solar Roof tiles (unveiled Oct 28, 2016) to begin installations by summer 2017",
+  "date_promised": "2016-06-30",
+  "due_date": "2017-12-31",
+  "status": "broken",
+  "description": "First customer installs did not begin until 2018, and the product scaled only slowly; the 'installations by summer next year' target was missed by roughly a year.",
+  "evidence": [],
+  "sources": [
+   "TechCrunch"
+  ]
+ },
+ {
+  "person": "Ginni Rometty",
+  "role": "CEO, IBM",
+  "promise": "IBM would return to revenue growth in 2017",
+  "date_promised": "2017-01-01",
+  "due_date": "2017-12-31",
+  "status": "partial",
+  "description": "Rometty promised investors that IBM would return to revenue growth as its strategic imperatives scaled. IBM grew in the fourth quarter of 2017, but full-year 2017 revenue still declined slightly year over year (roughly $79.1 billion versus about $79.9 billion in 2016); sustained full-year growth resumed only in 2018.",
+  "evidence": [
+   "Q4 2017 returned to growth, but FY2017 revenue was still down ~1%",
+   "IBM reported full-year revenue growth again in 2018"
+  ],
+  "sources": [
+   "Silicon Republic (2017-04-18)",
+   "S"
+  ],
+  "source_urls": [
+   null,
+   "https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
+  ]
+ }
+]

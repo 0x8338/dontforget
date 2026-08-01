@@ -1,0 +1,75 @@
+[
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "\"We have set a target to make India a $5 trillion economy\" by 2024.",
+  "date_promised": "2019-08-15",
+  "due_date": "2024-03-31",
+  "status": "broken",
+  "description": "Announced in his 2019 Independence Day address and repeated through 2019, promising India would be a $5 trillion economy by 2024-25. India's nominal GDP was about $3.6 trillion in FY2023-24 and about $4.3 trillion in FY2024-25 — well short of $5 trillion at the target date (only surpassed ~$4 trillion territory in 2025).",
+  "evidence": [
+   "India nominal GDP ~$3.6T (FY2023-24) vs $5T target",
+   "IMF and government estimates put FY2024-25 GDP near $4.3T",
+   "2019 Independence Day speech set the $5T target"
+  ],
+  "sources": [
+   "Reuters",
+   "The Economic Times",
+   "World Bank/IMF data"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US presidential candidate",
+  "promise": "\"I would eliminate the $19 trillion national debt in eight years.\"",
+  "date_promised": "2016-03-01",
+  "due_date": "2024-03-01",
+  "status": "broken",
+  "description": "Made during a March 2016 campaign interview, claiming he could get rid of the debt in eight years, partly through growth and trade deals. The national debt instead rose from about $19.9 trillion when he took office to about $27.8 trillion when he left, and to roughly $34 trillion by early 2024.",
+  "evidence": [
+   "US national debt ~$19.9T (Jan 2017) rising to ~$27.8T (Jan 2021) and ~$34T by 2024",
+   "Treasury debt-to-GDP data contradict the elimination claim"
+  ],
+  "sources": [
+   "CNBC",
+   "US Treasury Fiscal Data",
+   "Forbes"
+  ]
+ },
+ {
+  "person": "Ulf Kristersson",
+  "role": "Prime Minister of Sweden",
+  "promise": "Sweden will become a member of NATO as soon as possible",
+  "date_promised": "2022-10-17",
+  "due_date": "2024-03-31",
+  "status": "kept",
+  "description": "Kristersson made NATO membership the centerpiece of his government after forming a coalition in October 2022, pledging to join 'as soon as possible' following the application submitted with Finland in May 2022. After ratification delays by Turkey and Hungary, Sweden formally joined NATO on March 7, 2024, ending its two centuries of military non-alignment.",
+  "evidence": [
+   "Sweden's accession instruments deposited March 7, 2024, in Washington",
+   "Ratification completed by all member states after Türkiye and Hungary lifted objections"
+  ],
+  "sources": [
+   "NATO (March 2024 accession announcement)",
+   "Reuters / BBC (March 7, 2024)"
+  ]
+ },
+ {
+  "person": "European Commission (Digital Markets Act gatekeepers)",
+  "role": "Designated gatekeeper platforms",
+  "promise": "Comply with Digital Markets Act obligations by 7 March 2024",
+  "date_promised": "2022-11-01",
+  "due_date": "2024-03-07",
+  "status": "kept",
+  "description": "The Digital Markets Act, in force from November 2022, required platforms designated as gatekeepers (designations made on 5 September 2023) to comply with its obligations by 7 March 2024. All six gatekeepers submitted their compliance reports on that deadline, beginning the Commission's enforcement phase; the Commission subsequently opened several investigations into non-compliance.",
+  "evidence": [
+   "All designated gatekeepers submitted compliance reports by 7 March 2024",
+   "Commission published its first annual DMA report covering the compliance phase",
+   "Multiple investigations opened into suspected non-compliance after the deadline"
+  ],
+  "sources": [
+   "European Commission",
+   "Slaughter and May",
+   "EUR-Lex"
+  ]
+ }
+]

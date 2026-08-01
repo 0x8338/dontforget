@@ -1,0 +1,74 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "End inflation within the first year of his second term",
+  "date_promised": "2024-08-14",
+  "due_date": "2026-01-20",
+  "status": "broken",
+  "description": "In an August 2024 economic address Trump pledged to use 'every tool' to defeat inflation within the first year of a second term. US CPI inflation remained positive at roughly 2.5-3% through 2025, and prices never fell.",
+  "evidence": [
+   "CPI remained around 2.5-3% throughout 2025",
+   "Trump later said lowering prices was 'hard' and 'can't guarantee anything'"
+  ],
+  "sources": [
+   "Trump campaign rally speech",
+   "Bureau of Labor Statistics",
+   "Meet the Press"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Energy prices will come down 50% or more within a year",
+  "date_promised": "2025-01-20",
+  "due_date": "2026-01-20",
+  "status": "broken",
+  "description": "Trump promised during his inauguration week that 'drill, baby, drill' policies would halve energy prices within 12 months. Gasoline and electricity prices did not fall by half; regular gas stayed around $3.10-3.30/gal and electricity costs rose, making the 50% target widely treated as a failed pledge.",
+  "evidence": [
+   "US average gas prices stayed near $3/gal through 2025-2026, far from a 50% cut",
+   "AP/PolitiFact fact-checked the 50% energy claim as lacking evidence in early 2025"
+  ],
+  "sources": [
+   "AP News fact check (Jan-Feb 2025)",
+   "Reuters US energy price data"
+  ]
+ },
+ {
+  "person": "High Seas Treaty (BBNJ Agreement) parties",
+  "role": "United Nations member states ratifying the BBNJ Agreement",
+  "promise": "Bring the High Seas Treaty into force after 60 ratifications",
+  "date_promised": "2023-06-19",
+  "due_date": "2026-01-17",
+  "status": "kept",
+  "description": "The Agreement under UNCLOS on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction (BBNJ) was adopted in June 2023 after nearly two decades of negotiations. The 60th ratification was deposited in September 2025, triggering entry into force 120 days later on 17 January 2026; more than 80 countries had ratified by early 2026.",
+  "evidence": [
+   "60th ratification reached in September 2025",
+   "Treaty entered into force on 17 January 2026",
+   "Over 80 ratifications by January 2026, with first Conference of the Parties expected in 2026"
+  ],
+  "sources": [
+   "IUCN",
+   "UNESCO IOC",
+   "WWF"
+  ]
+ },
+ {
+  "person": "Anura Kumara Dissanayake",
+  "role": "President of Sri Lanka",
+  "promise": "Initiate talks on a new Constitution in January 2026",
+  "date_promised": "2025-11-19",
+  "due_date": "2026-01-31",
+  "status": "partial",
+  "description": "Dissanayake told the Ilankai Tamil Arasu Kadchi that his government would begin talks on a promised new Constitution in January 2026. A multisectoral dialogue on the new constitution was held in January 2026, and the government continued to accelerate the reform process, though the constitution had not been finalised by mid-2026.",
+  "evidence": [
+   "Multisectoral dialogue on a new constitution held January 2026",
+   "Constitutional reform process ongoing as of July 2026"
+  ],
+  "sources": [
+   "The Hindu",
+   "The Morning (Sri Lanka)",
+   "LankaLeader"
+  ]
+ }
+]

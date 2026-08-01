@@ -1,0 +1,21 @@
+[
+ {
+  "person": "European Commission (Digital Services Act)",
+  "role": "Very large online platforms and search engines",
+  "promise": "Meet Digital Services Act obligations for very large platforms by 25 August 2023",
+  "date_promised": "2022-11-16",
+  "due_date": "2023-08-25",
+  "status": "kept",
+  "description": "The Digital Services Act, in force from November 2022, set 25 August 2023 as the compliance deadline for platforms designated as very large online platforms or search engines, covering risk assessments and new systemic-risk obligations. The Commission had designated the first 19 very large platforms in April 2023, and the obligations took effect on the scheduled date, with broader intermediary-service obligations following on 17 February 2024.",
+  "evidence": [
+   "First 19 VLOPs/VLOSEs designated in April 2023",
+   "Obligations applied from 25 August 2023 as scheduled",
+   "Full DSA application to all intermediary services followed on 17 February 2024"
+  ],
+  "sources": [
+   "Bird & Bird",
+   "HÄRTING",
+   "Lexology"
+  ]
+ }
+]

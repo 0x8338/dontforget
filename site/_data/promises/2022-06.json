@@ -1,0 +1,77 @@
+[
+ {
+  "person": "António Guterres",
+  "role": "UN Secretary-General",
+  "promise": "Vaccinate 70% of the world's population against COVID-19 by mid-2022",
+  "date_promised": "2021-10-01",
+  "due_date": "2022-06-30",
+  "status": "broken",
+  "description": "Guterres made the WHO's 70%-by-mid-2022 goal a personal campaign, repeatedly calling for global vaccination as the way to end the pandemic. The goal was badly missed: about 60% of humanity was fully vaccinated by mid-2022, and in low-income countries fewer than one in five people had a dose.",
+  "evidence": [
+   "Guterres admitted the world was 'nowhere near' the target by mid-2022",
+   "About 60% global coverage at deadline; low-income countries under 20%"
+  ],
+  "sources": [
+   "United Nations press releases",
+   "World Health Organization",
+   "Our World in Data"
+  ]
+ },
+ {
+  "person": "Tim Cook",
+  "role": "CEO of Apple",
+  "promise": "\"We expect to complete the transition\" of all Macs to Apple Silicon \"in about two years.\"",
+  "date_promised": "2020-06-22",
+  "due_date": "2022-06-22",
+  "status": "kept",
+  "description": "Announced at WWDC 2020 when introducing the M1 chip. Apple replaced Intel across the Mac line within about two years — by WWDC June 2022 every Mac sold new was Apple Silicon except the Mac Pro, which arrived a year later in June 2023.",
+  "evidence": [
+   "M1 launched Nov 2020; full line (iMac, MacBook Pro, Mac Pro roadmap) converted by mid-2022",
+   "Apple stated at WWDC 2022 the transition was nearly complete",
+   "Final Mac Pro (M2 Ultra) shipped June 2023"
+  ],
+  "sources": [
+   "Apple WWDC 2020 keynote",
+   "The Verge",
+   "Ars Technica"
+  ]
+ },
+ {
+  "person": "Tom Brady",
+  "role": "NFL quarterback, Tampa Bay Buccaneers",
+  "promise": "I'm not going to make that competitive commitment anymore.",
+  "date_promised": "2022-02-01",
+  "due_date": "2022-06-30",
+  "status": "broken",
+  "description": "Brady announced his NFL retirement on February 1, 2022. Forty days later (March 13, 2022) he reversed course — 'I'm coming back for my 23rd season in Tampa' — returning for the 2022 season before retiring 'for good' in February 2023.",
+  "evidence": [
+   "Retirement statement posted 2022-02-01",
+   "Unretired 2022-03-13 and played the 2022 season"
+  ],
+  "sources": [
+   "Brady Instagram, 2022-02-01 and 2022-03-13",
+   "NFL.com, 2022-03-14"
+  ]
+ },
+ {
+  "person": "Alex Mashinsky",
+  "role": "CEO, Celsius Network",
+  "promise": "Celsius customers could withdraw their crypto at any time and their funds were safe",
+  "date_promised": "2022-06-12",
+  "due_date": "2022-06-30",
+  "status": "broken",
+  "description": "Hours before Celsius halted withdrawals on 12 June 2022, Mashinsky posted on Twitter that there was no issue withdrawing from the platform, and the company had long claimed deposits were available at any time. Celsius froze withdrawals that same night and filed for Chapter 11 bankruptcy in July 2022; Mashinsky was later charged with fraud over misleading customers about the platform's safety.",
+  "evidence": [
+   "Withdrawals halted the night of 12 June 2022, hours after Mashinsky's assurance",
+   "Celsius filed Chapter 11 on 13 July 2022"
+  ],
+  "sources": [
+   "Bloomberg",
+   "US Bankruptcy Court for the Southern District of New York filings"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
+   null
+  ]
+ }
+]
