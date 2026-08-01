@@ -101,6 +101,11 @@ for p in promises:
         for u in p["source_urls"]:
             check(u is None or u.startswith("http"), f"promise {label}: bad source_url entry {u}")
 
+# Promises: overdue but still pending
+for p in promises:
+    if p.get("due_date", "") <= TODAY and p.get("status") == "pending":
+        warn(f"overdue pending promise: {p['person']!r} due {p['due_date']}: {p['promise'][:70]}")
+
 # Promises: duplicates
 exact_p = [k for k, v in Counter(
     (p["person"].strip().lower(), p["promise"].strip().lower()) for p in promises

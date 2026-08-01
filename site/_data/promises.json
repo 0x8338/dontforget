@@ -972,11 +972,11 @@
   "promise": "I'm going to go to Fort Knox and check the gold",
   "date_promised": "2025-02-26",
   "due_date": "2026-07-31",
-  "status": "pending",
-  "description": "At his first cabinet meeting Trump said he would visit Fort Knox to verify US gold reserves, and Elon Musk offered to livestream an audit. As of mid-2026 no presidential visit or independent public audit had occurred; the Treasury only reiterated that the gold was secure.",
+  "status": "partial",
+  "description": "At his first cabinet meeting Trump said he would visit Fort Knox to verify US gold reserves, and Elon Musk offered to livestream an audit. Treasury Secretary Scott Bessent confirmed in July 2026 that the gold is 'present and accounted for', based on an audit dated September 2024 and a visit by the US Treasurer, but Trump had not personally visited Fort Knox by the deadline and the livestreamed audit never happened.",
   "evidence": [
-   "No public Fort Knox visit or audit results published as of mid-2026",
-   "Musk offered to livestream the audit; never happened"
+   "Bessent confirmed all gold reserves 'present and accounted for' (July 2026, based on a September 2024 audit)",
+   "Trump said in July 2026 that Musk would inspect Fort Knox; no confirmed personal visit by Trump"
   ],
   "sources": [
    "Reuters (Feb 26, 2025 cabinet meeting coverage)",
@@ -1006,11 +1006,12 @@
   "promise": "We're going to build an Iron Dome for America",
   "date_promised": "2025-01-20",
   "due_date": "2026-07-31",
-  "status": "pending",
-  "description": "Promised in his inaugural address and enacted via the March 14, 2025 executive order 'Iron Dome for America' calling for a nationwide missile defense shield. By mid-2026 the program was still in the planning/contract phase (interceptor demonstration contracts awarded in 2025), with no system deployed.",
+  "status": "partial",
+  "description": "Promised in his inaugural address and enacted via Executive Order 14186 of 27 January 2025, calling for a next-generation missile defense shield. The program (Golden Dome) advanced through DoD planning and interceptor demonstration contracts, and the FY2026 NDAA required annual reporting, but no operational nationwide shield existed by the July 2026 deadline; cost estimates reached $175-185 billion with delivery projected into the 2030s.",
   "evidence": [
-   "Executive Order signed March 14, 2025",
-   "2025 contracts awarded for interceptor demos; no deployed shield as of mid-2026"
+   "Executive Order 14186 signed January 27, 2025",
+   "FY2026 NDAA requires annual Golden Dome reports; system not operational as of July 2026",
+   "Cost estimates of $175-185B with delivery projected 2030s (CRS testimony)"
   ],
   "sources": [
    "White House Executive Order (March 14, 2025)",
@@ -1159,11 +1160,11 @@
   "promise": "I think we will have AGI by 2025",
   "date_promised": "2025-01-10",
   "due_date": "2026-07-31",
-  "status": "pending",
-  "description": "In a January 2025 Stratechery interview Altman suggested AGI could arrive by 2025. OpenAI instead defined a 5-level AGI rubric in July 2025 and by late 2025 claimed only 'AGI-3' (autonomous agents) had been reached; general-purpose AGI had still not been publicly demonstrated by mid-2026.",
+  "status": "broken",
+  "description": "In a January 2025 Stratechery interview Altman suggested AGI could arrive by 2025. OpenAI instead defined a five-level AGI rubric in July 2025 and placed achieved capability at level 3 (agents) by the end of 2025. By the due date no generally recognised AGI existed, and Altman continued to push the timeline, saying in late 2025 that the next breakthrough required 'infinite and perfect memory' and in 2026 that AGI was 'very close'.",
   "evidence": [
    "OpenAI's own scale put achieved level at 3 (agents), not AGI-5, by end-2025",
-   "Altman later pushed his AGI timeline further out"
+   "Altman pushed the timeline further in late 2025 and 2026; no AGI by July 2026"
   ],
   "sources": [
    "Stratechery interview (Jan 2025)",

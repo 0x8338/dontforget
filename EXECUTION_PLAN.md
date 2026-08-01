@@ -19,10 +19,11 @@ Append to events.json keyed by MM-DD
 Set events.last_date = today
 ```
 
-**Promises — every run does BOTH:**
+**Promises — every run does ALL THREE:**
 
 1. **Daily check:** new public commitments since `promises.last_date`; update statuses of due promises when new evidence exists.
-2. **Expansion sweep (always):** research NEW untracked promises and add 3–10 verified entries per run. Rotate focus across the three tracks below so coverage grows evenly.
+2. **Overdue review (always):** find promises with `due_date <= today UTC` still marked `pending`, research evidence for each, and set the status to `kept`, `broken`, or `partial`. Do not leave an overdue promise `pending` without a documented reason.
+3. **Expansion sweep:** research NEW untracked promises and add 3–10 verified entries per run. Rotate focus across the three tracks below so coverage grows evenly. A same-day re-run may skip this if the sweep already ran that day.
 
 ### Promise expansion tracks (rotate per run)
 
