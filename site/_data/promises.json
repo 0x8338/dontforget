@@ -1712,6 +1712,10 @@
    "NVIDIA posted $11 billion in Blackwell revenue in fiscal Q4 2025, confirming 2024 shipments"
   ],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)",
    "https://en.wikipedia.org/wiki/Nvidia"
   ]
@@ -1731,6 +1735,10 @@
    "Rubin Ultra promised for 2027 at GTC 2025"
   ],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Rubin_(microarchitecture)",
    "https://en.wikipedia.org/wiki/Nvidia"
   ]
@@ -1749,6 +1757,10 @@
    "Google employees were asked to test Bard internally for 2-4 hours before launch"
   ],
   "sources": [
+   "Google",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://blog.google/technology/ai/bard-google-ai-search-updates/",
    "https://en.wikipedia.org/wiki/Gemini_(chatbot)"
   ]
@@ -1768,6 +1780,10 @@
    "Deadline (2030) not yet passed, but trend is opposite of pledge"
   ],
   "sources": [
+   "CNBC",
+   "Google"
+  ],
+  "source_urls": [
    "https://www.cnbc.com/2020/09/14/google-aims-to-run-on-carbon-free-energy-by-2030.html",
    "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf"
   ]
@@ -1787,6 +1803,10 @@
    "No commercial launch occurred in 2024 as promised"
   ],
   "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home",
    "https://en.wikipedia.org/wiki/Amazon_Alexa"
   ]
@@ -1805,6 +1825,11 @@
    "The Verge (Mar 16, 2020): 'Microsoft hits its goal of 1 billion devices running Windows 10'"
   ],
   "sources": [
+   "ZDNet",
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.zdnet.com/article/microsofts-big-windows-10-goal-one-billion-or-bust/",
    "https://www.theverge.com/2020/3/16/21116762/microsoft-windows-10-active-devices-billion-7-support",
    "https://en.wikipedia.org/wiki/Windows_10"
@@ -1825,6 +1850,10 @@
    "Deadline (2030) not yet passed; trajectory currently incompatible"
   ],
   "sources": [
+   "Microsoft",
+   "Microsoft"
+  ],
+  "source_urls": [
    "https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/",
    "https://www.microsoft.com/en-us/sustainability/"
   ]
@@ -1844,6 +1873,10 @@
    "Missed the promised fiscal 2023 close date by ~3.5 months"
   ],
   "sources": [
+   "SEC",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/msft-10q_20221231.htm",
    "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft"
   ]
@@ -1862,6 +1895,10 @@
    "Shipment occurred Feb 2, 2024 as promised"
   ],
   "sources": [
+   "Apple",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
    "https://en.wikipedia.org/wiki/Apple_Vision_Pro"
   ]
@@ -1880,6 +1917,10 @@
    "Deadline (2030) not yet passed; status is in-progress"
   ],
   "sources": [
+   "Apple",
+   "Apple"
+  ],
+  "source_urls": [
    "https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/",
    "https://www.apple.com/environment/"
   ]
@@ -1898,6 +1939,10 @@
    "Priced at $499.99 as announced"
   ],
   "sources": [
+   "Meta",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://about.fb.com/news/2023/06/meta-quest-3/",
    "https://en.wikipedia.org/wiki/Meta_Quest_3"
   ]
@@ -1916,6 +1961,10 @@
    "ChatGPT passed 700M weekly active users in Dec 2024 — lead contested on WAU vs MAU basis"
   ],
   "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg",
    "https://en.wikipedia.org/wiki/ChatGPT"
   ]
@@ -1934,6 +1983,10 @@
    "SBF convicted Nov 2023 on seven counts including fraud and money laundering"
   ],
   "sources": [
+   "Wikipedia",
+   "SEC"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
    "https://www.sec.gov/litigation/litreleases/lr-25619"
   ]
@@ -1952,6 +2005,10 @@
    "Dimon kept warning of recession through 2023; none occurred"
   ],
   "sources": [
+   "Bloomberg",
+   "BEA"
+  ],
+  "source_urls": [
    "https://www.bloomberg.com/news/articles/2022-10-10/jpmorgan-ceo-dimon-expects-us-recession-in-six-to-nine-months",
    "https://www.bea.gov/news/2024/gross-domestic-product-4th-quarter-and-year-2023-advance-estimate"
   ]
@@ -1970,6 +2027,10 @@
    "FY2021 10-K: 'approximately 807 million of those doses shipped in 2021'"
   ],
   "sources": [
+   "SEC",
+   "SEC"
+  ],
+  "source_urls": [
    "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/0001682852-21-000006.txt",
    "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/0001682852-22-000012.txt"
   ]
@@ -1988,6 +2049,10 @@
    "Pfizer/BioNTech reported manufacturing ~3 billion doses in 2021, surpassing the target"
   ],
   "sources": [
+   "Bloomberg",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.bloomberg.com/news/articles/2021-03-30/biontech-raises-2021-covid-vaccine-target-to-2-5-billion-doses",
    "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
   ]
@@ -2006,6 +2071,10 @@
    "Global inflation also normalized through 2023"
   ],
   "sources": [
+   "Twitter",
+   "BLS"
+  ],
+  "source_urls": [
    "https://twitter.com/jack/status/1510175549732569088",
    "https://www.bls.gov/cpi/"
   ]
@@ -2025,6 +2094,10 @@
    "TSMC (N2, 2025) retained the process lead; Panther Lake (18A) shipped late 2025"
   ],
   "sources": [
+   "Wikipedia",
+   "Stratechery"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Intel",
    "https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/"
   ]
@@ -2039,7 +2112,7 @@
   "description": "First deliveries to PepsiCo only happened Dec 1, 2022 — three years late; Reuters noted the timeline 'has been pushed multiple times' since the 2019 target set at the Nov 2017 unveiling.",
   "evidence": [],
   "sources": [
-   "Reuters, Oct 7, 2022"
+   "Reuters"
   ]
  },
  {
@@ -2065,7 +2138,7 @@
   "description": "First customer installs did not begin until 2018, and the product scaled only slowly; the 'installations by summer next year' target was missed by roughly a year.",
   "evidence": [],
   "sources": [
-   "TechCrunch, Oct 28, 2016"
+   "TechCrunch"
   ]
  },
  {
@@ -2078,7 +2151,7 @@
   "description": "4680 volume production only ramped in 2023-2024; the ~$25,000 car never shipped — Reuters reported in April 2024 that Tesla scrapped its low-cost car plans.",
   "evidence": [],
   "sources": [
-   "New York Times, Sept 22, 2020"
+   "New York Times"
   ]
  },
  {
@@ -2092,7 +2165,11 @@
   "evidence": [],
   "sources": [
    "Fast Company, 2015",
-   " NYT, Oct 13, 2022: https://www.nytimes.com/2022/10/13/business/media/netflix-ads-subscription.html"
+   "NYT"
+  ],
+  "source_urls": [
+   null,
+   "https://www.nytimes.com/2022/10/13/business/media/netflix-ads-subscription.html"
   ]
  },
  {
@@ -2105,7 +2182,7 @@
   "description": "Airbnb paid out the $250 million, covering 25% of normal cancellation payouts for cancellations between March 14 and May 31, 2020.",
   "evidence": [],
   "sources": [
-   "USA Today, March 30, 2020"
+   "USA Today"
   ]
  },
  {
@@ -2118,7 +2195,7 @@
   "description": "Uber reported its first profitable quarter on an adjusted EBITDA basis in Q4 2021, meeting the pledge.",
   "evidence": [],
   "sources": [
-   "CNBC, Nov 4, 2019"
+   "CNBC"
   ]
  },
  {
@@ -2131,7 +2208,7 @@
   "description": "Uber backtracked in 2025 — with latest figures showing it 'less than halfway' to the goal; the pledge was effectively abandoned.",
   "evidence": [],
   "sources": [
-   "The Telegraph, March 23, 2025"
+   "The Telegraph"
   ]
  },
  {
@@ -2144,8 +2221,12 @@
   "description": "Non-music listening (podcasts, audiobooks, video) grew to roughly a quarter of listening hours by 2024-2025, clearing the 20% threshold.",
   "evidence": [],
   "sources": [
-   "Spotify Newsroom, Feb 6, 2019",
-   " The Verge, Oct 25, 2023: https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai"
+   "Spotify Newsroom",
+   "The Verge"
+  ],
+  "source_urls": [
+   null,
+   "https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai"
   ]
  },
  {
@@ -2159,7 +2240,11 @@
   "evidence": [],
   "sources": [
    "Variety, 2016",
-   " TechRadar, 2018: https://www.techradar.com/news/snapchat-admits-it-made-the-wrong-decision-on-its-spectacles"
+   "TechRadar, 2018"
+  ],
+  "source_urls": [
+   null,
+   "https://www.techradar.com/news/snapchat-admits-it-made-the-wrong-decision-on-its-spectacles"
   ]
  },
  {
@@ -2172,8 +2257,12 @@
   "description": "Block launched the Bitkey self-custody hardware wallet in Dec 2023, fulfilling the promise (two years after the announcement).",
   "evidence": [],
   "sources": [
-   "Reuters, July 9, 2021",
-   " Block press release: https://block.xyz/inside/press-release-bitkey-launch"
+   "Reuters",
+   "Block press release"
+  ],
+  "source_urls": [
+   null,
+   "https://block.xyz/inside/press-release-bitkey-launch"
   ]
  },
  {
@@ -2187,7 +2276,11 @@
   "evidence": [],
   "sources": [
    "Business Insider, Nov 2017",
-   " CNBC, Feb 28, 2018: https://www.cnbc.com/2018/02/28/salesforce-ceo-marc-benioff-bullish-on-20-billion-revenue-target.html"
+   "CNBC"
+  ],
+  "source_urls": [
+   null,
+   "https://www.cnbc.com/2018/02/28/salesforce-ceo-marc-benioff-bullish-on-20-billion-revenue-target.html"
   ]
  },
  {
@@ -2213,7 +2306,7 @@
   "description": "Cruise paused robotaxi operations in Oct 2023 after an accident, pulled in only ~$500M cumulative with over $10B in losses, and GM shut down the unit in Dec 2024.",
   "evidence": [],
   "sources": [
-   "NPR, Dec 11, 2024"
+   "NPR"
   ]
  },
  {
@@ -2227,7 +2320,11 @@
   "evidence": [],
   "sources": [
    "CNET, 2021",
-   " NPR, Aug 11, 2023: https://www.npr.org/2023/08/11/1193083777/ford-electric-vehicles-f150-lightning-jim-farley"
+   "NPR"
+  ],
+  "source_urls": [
+   null,
+   "https://www.npr.org/2023/08/11/1193083777/ford-electric-vehicles-f150-lightning-jim-farley"
   ]
  },
  {
@@ -2240,8 +2337,12 @@
   "description": "The deal was terminated on Feb 8, 2022 after failing to secure regulatory approval — one of the biggest failed deals in chip history.",
   "evidence": [],
   "sources": [
-   "New York Times, Feb 7, 2022",
-   " NVIDIA newsroom: https://nvidianews.nvidia.com/news/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited"
+   "New York Times",
+   "NVIDIA newsroom"
+  ],
+  "source_urls": [
+   null,
+   "https://nvidianews.nvidia.com/news/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited"
   ]
  },
  {
@@ -2267,7 +2368,7 @@
   "description": "Apple canceled its electric car project in February 2024 after a decade of effort, with team members reassigned to AI work.",
   "evidence": [],
   "sources": [
-   "Reuters, Feb 27, 2024"
+   "Reuters"
   ]
  },
  {
@@ -2280,7 +2381,7 @@
   "description": "By 2025 the global active VR headset install base was still roughly 30-50 million — orders of magnitude short of the billion-user goal.",
   "evidence": [],
   "sources": [
-   "The Verge, Oct 11, 2017"
+   "The Verge"
   ]
  },
  {
@@ -2293,7 +2394,7 @@
   "description": "Meta held off on revenue sharing through 2023 (later extended), fulfilling the pledge.",
   "evidence": [],
   "sources": [
-   "CNBC, June 7, 2021"
+   "CNBC"
   ]
  },
  {
@@ -2306,7 +2407,7 @@
   "description": "Disney+ surpassed 100 million subscribers by 2021 — hitting the 2024 goal about four years early.",
   "evidence": [],
   "sources": [
-   "CNBC, Aug 5, 2020"
+   "CNBC"
   ]
  },
  {
@@ -2319,7 +2420,7 @@
   "description": "Disney's DTC segment reported profitability in Q4 fiscal 2024, meeting the deadline.",
   "evidence": [],
   "sources": [
-   "Fortune, Nov 15, 2024"
+   "Fortune"
   ]
  },
  {
@@ -2358,7 +2459,7 @@
   "description": "The Rift shipped at $599 in January 2016 — about 70% above the promised ~$350 price point, sparking wide backlash.",
   "evidence": [],
   "sources": [
-   "The Verge, Jan 6, 2016"
+   "The Verge"
   ]
  },
  {
@@ -2371,6 +2472,10 @@
   "description": "The One Big Beautiful Bill Act (signed 4 Jul 2025) raised the credit only to $2,200, inflation-indexed, with the refundable portion unchanged — no $5,000 credit was ever enacted.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
   ]
@@ -2385,6 +2490,10 @@
   "description": "No invitation was issued. Scholz publicly opposed a wartime invite (24 Oct 2024); the US administration said in March 2025 it does not support NATO membership for Ukraine; by 2026 Ukraine remained outside NATO.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Victory_Plan_for_Ukraine",
    "https://en.wikipedia.org/wiki/Ukraine%E2%80%93NATO_relations"
   ]
@@ -2399,6 +2508,9 @@
   "description": "The war continued through all of 2025 and into 2026 — US–Russia and European peace drafts were still circulating in Nov 2025 and no final settlement had been reached by mid-2026.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Victory_Plan_for_Ukraine"
   ]
  },
@@ -2412,6 +2524,11 @@
   "description": "Hamas survived as a negotiating party: it signed the US-led Gaza peace plan (Oct 2025), released hostages, refused to disarm (3 Oct 2025), and phase 2 (disarmament) was stalled as of May 2026. 64% of Gaza was under Israeli military control as of April 2026, but 'total victory' was not achieved.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
    "https://en.wikipedia.org/wiki/Gaza_peace_plan",
    "https://en.wikipedia.org/wiki/Gaza_war"
@@ -2427,6 +2544,10 @@
   "description": "33 hostages returned in phase 1 of the Jan 2025 ceasefire (19 Jan – 27 Feb 2025), 20 more on 13 Oct 2025 under the Gaza peace plan, but phase 2 never started — Israel resumed the war on 18 Mar 2025 — and the promise of everyone returning was not fully met by mid-2026.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
    "https://en.wikipedia.org/wiki/Gaza_peace_plan"
   ]
@@ -2441,6 +2562,9 @@
   "description": "The constitutional judicial reform passed both chambers in Sept 2024 and was published; Sheinbaum rejected a Supreme Court bid to strike it down and enacted a constitutional-supremacy law limiting challenges.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
   ]
  },
@@ -2454,6 +2578,9 @@
   "description": "The anti-re-election rule was published 1 Apr 2025, but its implementation was postponed from 2027 to 2030.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
   ]
  },
@@ -2467,6 +2594,9 @@
   "description": "Launched on schedule (6 Jan 2025) but scaled back: per-meal budget cut to Rp10,000 (from Rp15–20,000), only ~30 million recipients reached by Sept 2025, Rp171trn budget vs Rp420trn needed for full-year operation, 20,000+ food-poisoning cases in 2025, and corruption arrests at the program body in June 2026.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://id.wikipedia.org/wiki/Makan_Bergizi_Gratis"
   ]
  },
@@ -2480,6 +2610,9 @@
   "description": "Growth was 5.0% (2024) and ~5.1% (2025), with IMF forecasts of ~4.9–5.1% through 2029 — far below the 8% target.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Economy_of_Indonesia"
   ]
  },
@@ -2493,6 +2626,10 @@
   "description": "Annual inflation fell from 211.4% (2023) and 254.2% (first month) to 117.8% (2024) and ~31.8% by Sept 2025, with monthly inflation at a five-year low of 1.5% (June 2025) — a huge reduction, though inflation was not eliminated.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Javier_Milei",
    "https://en.wikipedia.org/wiki/Economy_of_Argentina"
   ]
@@ -2507,6 +2644,9 @@
   "description": "Poverty first spiked from 41.7% to a peak of 57.4% (Jan 2024) after the shock, then fell to 31.6% in H1 2025 (lowest since 2018, below the 2023 starting point); extreme poverty fell from 18.2% to 7.4%.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Javier_Milei"
   ]
  },
@@ -2520,6 +2660,10 @@
   "description": "Dollarization was abandoned — instead of dollarizing, the government kept the peso, dismantled the 'cepo' capital controls on 14 Apr 2025 and moved to a managed float in a ~1,000–1,400 ARS/USD band under a US$20bn IMF agreement.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Javier_Milei_2023_presidential_campaign",
    "https://en.wikipedia.org/wiki/Economic_reforms_of_Javier_Milei"
   ]
@@ -2534,6 +2678,9 @@
   "description": "First tranche of PLN 27bn (~€6.3bn) arrived 15 Apr 2024 after the Commission's positive assessment of 29 Feb 2024; further payments followed through 2025, though the full €59.8bn had not all been disbursed.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://pl.wikipedia.org/wiki/Krajowy_Plan_Odbudowy"
   ]
  },
@@ -2547,6 +2694,9 @@
   "description": "The liberalization bill was rejected by the Sejm on 12 Jul 2024 (218 votes against, 215 for); the restrictive law remained unchanged and President-elect Nawrocki (2025) opposes liberalization.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Abortion_in_Poland"
   ]
  },
@@ -2560,6 +2710,10 @@
   "description": "Great British Energy Act received royal assent 15 May 2025; the company is operational with up to £8.3bn of backing and its first projects announced (rooftop solar on 200 schools and 200 NHS sites).",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Great_British_Energy",
    "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
   ]
@@ -2574,6 +2728,9 @@
   "description": "The 2.5%-by-2027 pledge was confirmed, funded by cutting international aid from 0.5% to 0.3% of GNI.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
   ]
  },
@@ -2587,6 +2744,10 @@
   "description": "The planning reform was delivered — Planning and Infrastructure Act received royal assent 18 Dec 2025 — but housing delivery has not come close to the required pace, and the 1.5m target is widely regarded as at risk.",
   "evidence": [],
   "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Planning_and_Infrastructure_Bill",
    "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
   ]
@@ -2601,6 +2762,9 @@
   "description": "Germany met 2% of GDP in 2024 (first time since 1992) and 2.22% in 2025, but only about half of the €100bn fund had been drawn down by end-2025 and the Bundeswehr's readiness gaps (munitions, equipment) persisted, with the rebuild continuing under Merz.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Bundeswehr"
   ]
  },
@@ -2614,6 +2778,9 @@
   "description": "Passed on 16 Mar 2023 via Article 49.3 despite mass protests; the law remains in force through 2025–2026 despite repeal attempts.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes"
   ]
  },
@@ -2627,6 +2794,9 @@
   "description": "The deficit was 5.8% of GDP in 2024 (up from 5.4% in 2023 and at risk of exceeding 6%), public debt reached 116.5% of GDP in 2025, and the 3% target is far out of reach.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Economy_of_France"
   ]
  },
@@ -2640,6 +2810,9 @@
   "description": "The quota increase triggered a mass doctors' strike; the 2025 increase was cut to +1,500 (May 2024) and in April 2025 the government reverted the 2026 quota to the original 3,058 — the promise largely unravelled before his removal.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis"
   ]
  },
@@ -2653,6 +2826,9 @@
   "description": "He carved out home heating oil (Oct 2023), and the consumer carbon tax was repealed outright on 1 Apr 2025 (prime-ministerial directive signed by Carney on 14 Mar 2025, weeks after Trudeau left office).",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Carbon_tax_in_Canada"
   ]
  },
@@ -2666,6 +2842,9 @@
   "description": "Permanent-resident targets were cut from 500,000 to 395,000 (2025), 380,000 (2026) and 365,000 (2027), and the plans were implemented.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Immigration_to_Canada"
   ]
  },
@@ -2679,6 +2858,9 @@
   "description": "ReArm Europe was announced 4 Mar 2025: up to €800bn for defence, including a €150bn joint-loans facility, endorsed by the European Council on 6 Mar 2025 (later rebranded Readiness 2030).",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/ReArm_Europe"
   ]
  },
@@ -2692,6 +2874,9 @@
   "description": "The Hague Summit Declaration (25 Jun 2025) set a new 5%-of-GDP target for 2035 (at least 3.5% core defence + up to 1.5% defence-related spending), replacing the 2014 2% benchmark — all members except Spain signed on.",
   "evidence": [],
   "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/2025_NATO_summit"
   ]
  },
@@ -3236,6 +3421,9 @@
    "No human-level general AI shipped by mid-2026"
   ],
   "sources": [
+   "Dario Amodei"
+  ],
+  "source_urls": [
    "https://darioamodei.com/machines-of-loving-grace"
   ]
  },
@@ -3441,7 +3629,7 @@
   ],
   "sources": [
    "Salesforce press release (Sep 12, 2024)",
-   "Mi-3.com.au (Sep 16, 2024)",
+   "M (Sep 16, 2024)",
    "CFO Dive (May 29, 2025)"
   ]
  },
@@ -3610,6 +3798,10 @@
    "Binding post-Kyoto regime only adopted at Paris, 12 December 2015"
   ],
   "sources": [
+   "UNFCCC",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf",
    "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference"
   ]
@@ -3627,6 +3819,10 @@
    "Delivery exceeded the $30bn pledge even by conservative donor-accounting measures"
   ],
   "sources": [
+   "Wikipedia",
+   "OECD"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference",
    "https://www.oecd.org/en/publications/climate-finance-in-2013-14-and-the-usd-100-billion-goal_9789264249424-en.html"
   ]
@@ -3644,6 +3840,10 @@
    "Global installed coal capacity grew in 2022-2025; Guterres had to repeat the demand at COP26 and COP27"
   ],
   "sources": [
+   "United Nations",
+   "Global Energy Monitor"
+  ],
+  "source_urls": [
    "https://www.un.org/sg/en/content/sg/statement/2020-12-12/secretary-generals-remarks-climate-ambition-summit",
    "https://globalenergymonitor.org/projects/global-coal-plant-tracker/"
   ]
@@ -3661,6 +3861,10 @@
    "Figueres et al., 'Three years to safeguard our climate', Nature 546 (2017): peaking by 2020 was 'a prerequisite' for 1.5°C"
   ],
   "sources": [
+   "Nature",
+   "Global Carbon Budget"
+  ],
+  "source_urls": [
    "https://www.nature.com/articles/546593a",
    "https://globalcarbonbudget.org/"
   ]
@@ -3679,6 +3883,10 @@
    "Wikipedia (COP26): 39 countries and institutions signed; ~$28bn/yr in international fossil fuel public finance targeted"
   ],
   "sources": [
+   "UK COP26",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://ukcop26.org/statement-on-international-public-support-for-the-clean-energy-transition/",
    "https://en.wikipedia.org/wiki/2021_United_Nations_Climate_Change_Conference"
   ]
@@ -3697,6 +3905,10 @@
    "Tripling renewables by 2030 pledge not signed by China and India"
   ],
   "sources": [
+   "Wikipedia",
+   "UNFCCC"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/2023_United_Nations_Climate_Change_Conference",
    "https://unfccc.int/cop28"
   ]
@@ -3714,6 +3926,10 @@
    "Found 1.5°C requires 45% CO2 cuts by 2030 and net zero by ~2050 - figures that shaped NDCs and net-zero pledges"
   ],
   "sources": [
+   "IPCC",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.ipcc.ch/sr15/",
    "https://en.wikipedia.org/wiki/Special_Report_on_Global_Warming_of_1.5_%C2%B0C"
   ]
@@ -3731,6 +3947,10 @@
    "Solar became the largest single electricity source by 2025; IEA Renewables 2024 confirmed 'renewables to overtake coal by early 2025'"
   ],
   "sources": [
+   "IEA",
+   "Ember"
+  ],
+  "source_urls": [
    "https://www.iea.org/reports/renewables-2021",
    "https://ember-energy.org/latest-insights/global-electricity-review-2025/"
   ]
@@ -3748,6 +3968,10 @@
    "Wikipedia CCS: of 149 projects proposed to be operational by 2020, ~70% were not implemented; only ~26 large-scale plants operating in 2020 (~40 Mt CO2/yr)"
   ],
   "sources": [
+   "IEA",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.iea.org/reports/technology-roadmap-carbon-capture-and-storage-2009",
    "https://en.wikipedia.org/wiki/Carbon_capture_and_storage"
   ]
@@ -3765,6 +3989,10 @@
    "World Bank Carbon Pricing Dashboard 2021: global average price ~$3/tCO2; <10% of global emissions priced at $40 or above"
   ],
   "sources": [
+   "World Bank",
+   "World Bank"
+  ],
+  "source_urls": [
    "https://openknowledge.worldbank.org/handle/10986/32455",
    "https://www.worldbank.org/en/programs/pricing-carbon"
   ]
@@ -3783,6 +4011,10 @@
    "Court-ordered 45% cut (Milieudefensie) later overturned on appeal, Nov 2024"
   ],
   "sources": [
+   "Reuters",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.reuters.com/sustainability/climate-energy/shell-softens-carbon-targets-2023-06-14/",
    "https://en.wikipedia.org/wiki/Wael_Sawan"
   ]
@@ -3801,6 +4033,10 @@
    "Greenpeace called the reversal 'proof that fossil fuel companies can't or won't be part of climate crisis solutions' (Wikipedia BP)"
   ],
   "sources": [
+   "BP",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bernard-looney-announces-new-ambition-for-bp.html",
    "https://en.wikipedia.org/wiki/BP"
   ]
@@ -3819,6 +4055,10 @@
    "Transition spending in 2023-2024 had already run well below the $5bn trajectory"
   ],
   "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/BP",
    "https://www.reuters.com/business/energy/bp-resets-strategy-slashes-renewables-spending-2025-02-26/"
   ]
@@ -3837,6 +4077,10 @@
    "100 GW by 2030 target also re-scoped as the company pivoted back toward LNG"
   ],
   "sources": [
+   "TotalEnergies",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://totalenergies.com/media/news/press-releases",
    "https://www.reuters.com/business/energy/totalenergies-raises-2025-renewables-target-60gw-2021-11-09/"
   ]
@@ -3855,6 +4099,10 @@
    "Capacity expanded beyond 100 GWh/yr by 2022-2023"
   ],
   "sources": [
+   "Wikipedia",
+   "Tesla"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Gigafactory_Nevada",
    "https://tesla.gcs-web.com/static-files/8b230e63-5c6a-4c12-a209-33e0f1d7e223"
   ]
@@ -3873,6 +4121,10 @@
    "Wikipedia Ørsted: coal phase-out decision taken in 2017"
   ],
   "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
    "https://www.reuters.com/business/energy/orsted-close-last-coal-fired-power-plant-2023-08-21/"
   ]
@@ -3890,6 +4142,10 @@
    "Ørsted 2024/2025 reporting confirms carbon neutrality in own operations and generation, with carbon intensity down ~99% vs 2006"
   ],
   "sources": [
+   "Wikipedia",
+   "Orsted"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
    "https://www.orsted.com/en/annual-report"
   ]
@@ -3908,6 +4164,10 @@
    "Roughly 40% shortfall at the actual deadline"
   ],
   "sources": [
+   "Wikipedia",
+   "KBA"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_Germany",
    "https://www.kba.de/DE/Home/home_node.html"
   ]
@@ -3925,6 +4185,10 @@
    "Eight of seventeen reactors had closed by August 2011; the phase-out was broadly achieved with a short delay"
   ],
   "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Nuclear_power_in_Germany",
    "https://www.reuters.com/business/energy/germany-shuts-down-last-nuclear-power-plants-2023-04-15/"
   ]
@@ -3942,6 +4206,10 @@
    "Closure came ahead of the 2025 pledge; coal's share of UK power fell from ~23% (2015) to zero"
   ],
   "sources": [
+   "UK Government",
+   "Wikipedia"
+  ],
+  "source_urls": [
    "https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward",
    "https://en.wikipedia.org/wiki/Ratcliffe-on-Soar_Power_Station"
   ]
@@ -3959,6 +4227,10 @@
    "Unit 1 closed 22 February 2020; Unit 2 closed 29 June 2020"
   ],
   "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Fessenheim_Nuclear_Power_Plant",
    "https://www.reuters.com/article/us-france-nuclear-fessenheim/france-closes-fessenheim-nuclear-plant-after-decades-of-protests-idUSKBN2401Z3"
   ]
@@ -3976,6 +4248,10 @@
    "Wikipedia AB 32: statutory deadline 31 December 2020; goal met on schedule/early"
   ],
   "sources": [
+   "Wikipedia",
+   "California Air Resources Board"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/California_Global_Warming_Solutions_Act_of_2006",
    "https://ww2.arb.ca.gov/our-work/programs/ab-32-climate-change-scoping-plan"
   ]
@@ -3994,6 +4270,10 @@
    "Total renewables ~120 GW at end-2022 vs 175 GW target"
   ],
   "sources": [
+   "Wikipedia",
+   "MNRE (India)"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Solar_power_in_India",
    "https://mnre.gov.in/"
   ]
@@ -4012,6 +4292,10 @@
    "UK net-zero law targets 2050, not 2025; XR later softened the demand"
   ],
   "sources": [
+   "Wikipedia",
+   "Rebellion"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Extinction_Rebellion",
    "https://rebellion.global/"
   ]
@@ -4030,6 +4314,10 @@
    "Carney's $130tn commitment figure widely reported at COP26 (Reuters/FT); GFANZ membership shrank sharply by 2025"
   ],
   "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
    "https://en.wikipedia.org/wiki/Glasgow_Financial_Alliance_for_Net_Zero",
    "https://www.reuters.com/business/sustainable-business/carney-says-130-trillion-now-committed-net-zero-2021-11-03/"
   ]
@@ -4045,7 +4333,7 @@
   "evidence": [],
   "sources": [
    "FOMC press conference transcript, Jun 19, 2013, federalreserve.gov/mediacenter/files/FOMCpresconf20130619.pdf",
-   "FOMC statement, Dec 18, 2013"
+   "FOMC statement"
   ]
  },
  {
@@ -4059,7 +4347,7 @@
   "evidence": [],
   "sources": [
    "FOMC statement, Sep 17, 2015, federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
-   "FOMC statement, Dec 16, 2015"
+   "FOMC statement"
   ]
  },
  {
@@ -4073,7 +4361,7 @@
   "evidence": [],
   "sources": [
    "Fed SEP June 2021, federalreserve.gov/monetarypolicy/fomcprojtabl20210616.htm",
-   "FOMC decision, Mar 16, 2022"
+   "FOMC decision"
   ]
  },
  {
@@ -4086,8 +4374,8 @@
   "description": "ECB raised rates by 50bp on July 21, 2022 — first hike since 2011 — then 425bp more",
   "evidence": [],
   "sources": [
-   "ECB monetary policy statement/press conference, Oct 28, 2021, ecb.europa.eu",
-   "ECB press release, Jul 21, 2022"
+   "ECB monetary policy statement/press conference, Oct 28, 2021,",
+   "ECB press release"
   ]
  },
  {
@@ -4100,8 +4388,8 @@
   "description": "OMT programme announced Sep 6, 2012; peripheral spreads collapsed and the euro was preserved",
   "evidence": [],
   "sources": [
-   "Draghi speech 'Global Investment Conference', Jul 26, 2012, ecb.europa.eu/press/key/date/2012/html/sp120726.en.html",
-   "ECB OMT announcement, Sep 6, 2012"
+   "Draghi speech 'Global Investment Conference', Jul 26, 2012,",
+   "ECB OMT announcement"
   ]
  },
  {
@@ -4114,7 +4402,7 @@
   "description": "UK GDP grew 1.7% in 2017; unemployment fell to ~4.3%",
   "evidence": [],
   "sources": [
-   "BOE Inflation Report, Nov 3, 2016, bankofengland.co.uk",
+   "BOE Inflation Report, Nov 3, 2016,",
    "ONS GDP/unemployment data 2017-18"
   ]
  },
@@ -4128,7 +4416,7 @@
   "description": "Unemployment peaked at 5.1% (Q4 2020) and fell to ~4.1% by late 2021",
   "evidence": [],
   "sources": [
-   "BOE Monetary Policy Report, Feb 4, 2021, bankofengland.co.uk",
+   "BOE Monetary Policy Report, Feb 4, 2021,",
    "ONS labour market statistics"
   ]
  },
@@ -4142,7 +4430,7 @@
   "description": "Core CPI averaged ~0.5% in 2015 (negative for part of the year); 2% inflation was not sustainedly reached until 2022-2024",
   "evidence": [],
   "sources": [
-   "BOJ announcement 'Introduction of Quantitative and Qualitative Monetary Easing', Apr 4, 2013, boj.or.jp",
+   "BOJ announcement 'Introduction of Quantitative and Qualitative Monetary Easing', Apr 4, 2013,",
    "BOJ CPI statistics"
   ]
  },
@@ -4170,7 +4458,7 @@
   "description": "FY2012 deficit was $1.09tn / 6.8% of GDP vs FY2009 $1.41tn / 9.8% — reduced by roughly a third, not half",
   "evidence": [],
   "sources": [
-   "Geithner Senate Finance Committee confirmation testimony, Jan 21, 2009",
+   "Geithner Senate Finance Committee confirmation testimony",
    "CBO historical budget data (2009-2012)"
   ]
  },
@@ -4184,8 +4472,8 @@
   "description": "Tax Cuts and Jobs Act not signed until Dec 22, 2017 — ~4 months past the promised deadline (delivered in substance)",
   "evidence": [],
   "sources": [
-   "Mnuchin CNBC interview, Apr 26, 2017",
-   "White House signing statement, Dec 22, 2017"
+   "Mnuchin CNBC interview",
+   "White House signing statement"
   ]
  },
  {
@@ -4254,7 +4542,7 @@
   "description": "Actual FY2016-17 deficit was 3.5% of GDP",
   "evidence": [],
   "sources": [
-   "Union Budget 2014-15, Jul 2014, indiabudget.gov.in",
+   "Union Budget 2014-15, Jul 2014,",
    "Controller General of Accounts fiscal data, FY 2016-17"
   ]
  },
@@ -4310,7 +4598,7 @@
   "evidence": [],
   "sources": [
    "ARK Invest analyst research, Feb 2021 (ark-invest.com)",
-   "NASDAQ/TSLA year-end closing price, Dec 31, 2025"
+   "NASDAQ/TSLA year-end closing price"
   ]
  },
  {
@@ -4323,7 +4611,7 @@
   "description": "Merge executed Sept 15, 2022 — delivered after a ~3-month slip from the announced Q2 target",
   "evidence": [],
   "sources": [
-   "Ethereum Foundation blog, Feb 2022 (blog.ethereum.org)",
+   "Ethereum Foundation blog, Feb 2022",
    "ethereum.org upgrade timeline; CoinDesk, Jun 2022"
   ]
  },
@@ -4337,8 +4625,8 @@
   "description": "Only partial self-reported Merkle-tree proof with Mazars' limited verification (Dec 7, 2022); Mazars suspended crypto work Dec 16, 2022 and no full audit was ever delivered",
   "evidence": [],
   "sources": [
-   "CZ tweets, Nov 2022; Binance PoR announcement, Dec 7, 2022",
-   "Reuters, 'Mazars pauses work for crypto firms including Binance', Dec 16, 2022"
+   "CZ tweets, Nov 2022; Binance PoR announcement",
+   "Reuters, 'Mazars pauses work for crypto firms including Binance'"
   ]
  },
  {
@@ -4379,7 +4667,7 @@
   "description": "Divestment completed by 2022; NBIM confirmed full exit from E&P sector in its 2022 reporting",
   "evidence": [],
   "sources": [
-   "Reuters, 'Norway's $1tn wealth fund to sell oil and gas stocks', Jun 8, 2019",
+   "Reuters, 'Norway's $1tn wealth fund to sell oil and gas stocks'",
    "NBIM annual report 2022, nbim.no"
   ]
  },
@@ -4778,9 +5066,14 @@
    "Muilenburg was fired on 23 December 2019"
   ],
   "sources": [
-   "AeroTime (https://www.aerotime.aero/articles/24475-boeing-return-to-service-update)",
-   "NPR (https://www.npr.org/2020/01/21/798312515/boeing-737-max-may-stay-grounded-into-summer)",
-   "Puget Sound Business Journal (https://www.bizjournals.com/seattle/news/2020/10/20/the-maxs-many-returns.html)"
+   "AeroTime",
+   "NPR",
+   "Puget Sound Business Journal"
+  ],
+  "source_urls": [
+   "https://www.aerotime.aero/articles/24475-boeing-return-to-service-update)",
+   "https://www.npr.org/2020/01/21/798312515/boeing-737-max-may-stay-grounded-into-summer)",
+   "https://www.bizjournals.com/seattle/news/2020/10/20/the-maxs-many-returns.html)"
   ]
  },
  {
@@ -4796,9 +5089,14 @@
    "Holmes convicted on four counts of investor fraud, January 2022"
   ],
   "sources": [
-   "BMJ (https://www.bmj.com/content/376/bmj.o178)",
-   "Gizmodo (https://gizmodo.com/the-makers-of-that-miracle-needle-free-blood-test-are-1738057269)",
+   "BMJ",
+   "Gizmodo",
    "US Court of Appeals for the Ninth Circuit case filings"
+  ],
+  "source_urls": [
+   "https://www.bmj.com/content/376/bmj.o178)",
+   "https://gizmodo.com/the-makers-of-that-miracle-needle-free-blood-test-are-1738057269)",
+   null
   ]
  },
  {
@@ -4814,8 +5112,12 @@
    "GM deal collapsed November 2020; Badger cancelled; no production vehicles ever built"
   ],
   "sources": [
-   "US DOJ (https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)",
+   "US DOJ",
    "Reuters via Daily Mail (2020-06-09)"
+  ],
+  "source_urls": [
+   "https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)",
+   null
   ]
  },
  {
@@ -4831,9 +5133,14 @@
    "Chapter 11 filing June 2023 after limited 2022 production"
   ],
   "sources": [
-   "GlobeNewswire (https://www.globenewswire.com/en/news-release/2020/11/16/2127140/0/en/Lordstown-Motors-Releases-Business-Updates-Remains-on-Track-to-Begin-Production-of-the-Lordstown-Endurance-in-September-2021.html)",
-   "Yahoo Autos (https://autos.yahoo.com/lordstown-promises-endurance-ev-pickup-140000045.html)",
+   "GlobeNewswire",
+   "Yahoo Autos",
    "Reuters, June 2023"
+  ],
+  "source_urls": [
+   "https://www.globenewswire.com/en/news-release/2020/11/16/2127140/0/en/Lordstown-Motors-Releases-Business-Updates-Remains-on-Track-to-Begin-Production-of-the-Lordstown-Endurance-in-September-2021.html)",
+   "https://autos.yahoo.com/lordstown-promises-endurance-ev-pickup-140000045.html)",
+   null
   ]
  },
  {
@@ -4849,8 +5156,12 @@
    "Luna Foundation Guard moved 52,189 BTC to counterparties during the collapse"
   ],
   "sources": [
-   "CNBC (https://www.cnbc.com/2022/05/09/what-is-terrausd-ust-and-how-does-it-affect-bitcoin.html)",
-   "NBC News (https://www.nbcwashington.com/news/business/money-report/3-billion-in-bitcoin-was-sold-in-a-last-ditch-attempt-to-save-ust-stablecoin/3052446/)"
+   "CNBC",
+   "NBC News"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2022/05/09/what-is-terrausd-ust-and-how-does-it-affect-bitcoin.html)",
+   "https://www.nbcwashington.com/news/business/money-report/3-billion-in-bitcoin-was-sold-in-a-last-ditch-attempt-to-save-ust-stablecoin/3052446/)"
   ]
  },
  {
@@ -4866,8 +5177,12 @@
    "Celsius filed Chapter 11 on 13 July 2022"
   ],
   "sources": [
-   "Bloomberg (https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
+   "Bloomberg",
    "US Bankruptcy Court for the Southern District of New York filings"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
+   null
   ]
  },
  {
@@ -4883,7 +5198,10 @@
    "GE cut its dividend and was dropped from the Dow in 2018"
   ],
   "sources": [
-   "Nasdaq / Motley Fool (https://www.nasdaq.com/articles/5-takeaways-general-electric-companys-latest-presentation-2017-05-31)"
+   "Nasdaq / Motley Fool"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/5-takeaways-general-electric-companys-latest-presentation-2017-05-31)"
   ]
  },
  {
@@ -4916,9 +5234,14 @@
    "Ghosn admitted the 2016 target would be missed (November 2013)"
   ],
   "sources": [
-   "The Guardian (https://www.theguardian.com/environment/2015/jul/01/are-we-on-the-brink-of-an-electric-car-revolution)",
+   "The Guardian",
    "NBC News (2013-11-10)",
    "Autoblog (2013-11-12)"
+  ],
+  "source_urls": [
+   "https://www.theguardian.com/environment/2015/jul/01/are-we-on-the-brink-of-an-electric-car-revolution)",
+   null,
+   null
   ]
  },
  {
@@ -4934,8 +5257,12 @@
    "BBC reported in December 2020 that flights would begin in 2021"
   ],
   "sources": [
-   "BBC News (https://www.bbc.com/news/science-environment-55279067)",
-   "AeroTime (https://www.aerotime.aero/articles/virgin-galactic-completes-its-first-commercial-flight)"
+   "BBC News",
+   "AeroTime"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/science-environment-55279067)",
+   "https://www.aerotime.aero/articles/virgin-galactic-completes-its-first-commercial-flight)"
   ]
  },
  {
@@ -4952,7 +5279,11 @@
   ],
   "sources": [
    "Silicon Republic (2017-04-18)",
-   "Silicon.co.uk (https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
+   "S"
+  ],
+  "source_urls": [
+   null,
+   "https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
   ]
  },
  {
@@ -4969,7 +5300,11 @@
   ],
   "sources": [
    "Fox Business (2013)",
-   "New York Times (http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
+   "New York Times"
+  ],
+  "source_urls": [
+   null,
+   "http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
   ]
  },
  {
@@ -4985,8 +5320,12 @@
    "Annual net losses continued; Chapter 11 filing October 2018"
   ],
   "sources": [
-   "WWD (https://wwd.com/business-news/retail/feature/edward-lamperts-sears-profitable-10125012/)",
-   "Forbes (https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/)"
+   "WWD",
+   "Forbes"
+  ],
+  "source_urls": [
+   "https://wwd.com/business-news/retail/feature/edward-lamperts-sears-profitable-10125012/)",
+   "https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/)"
   ]
  },
  {
@@ -5002,9 +5341,14 @@
    "Apple also offered full refunds within 30 days"
   ],
   "sources": [
-   "BBC News (https://www.bbc.co.uk/news/technology-10665424)",
+   "BBC News",
    "UPI (2010-07-16)",
-   "PCMag (https://uk.pcmag.com/news/98220/apple-promises-free-bumpers-cases-for-iphone-4-buyers)"
+   "PCMag"
+  ],
+  "source_urls": [
+   "https://www.bbc.co.uk/news/technology-10665424)",
+   null,
+   "https://uk.pcmag.com/news/98220/apple-promises-free-bumpers-cases-for-iphone-4-buyers)"
   ]
  },
  {
@@ -5020,8 +5364,12 @@
    "Global elimination extended past 2020 in other markets"
   ],
   "sources": [
-   "Starbucks Stories (https://stories.starbucks.com/press/2018/starbucks-to-eliminate-plastic-straws-globally-by-2020/)",
-   "Starbucks Stories (https://stories.starbucks.com/press/2020/starbucks-strawless-lids-now-available-across-the-u-s-and-canada/)"
+   "Starbucks Stories",
+   "Starbucks Stories"
+  ],
+  "source_urls": [
+   "https://stories.starbucks.com/press/2018/starbucks-to-eliminate-plastic-straws-globally-by-2020/)",
+   "https://stories.starbucks.com/press/2020/starbucks-strawless-lids-now-available-across-the-u-s-and-canada/)"
   ]
  },
  {
@@ -5037,8 +5385,12 @@
    "VW retained the top spot in 2017, ahead of the 2018 deadline"
   ],
   "sources": [
-   "Autocar (https://open.em.autocar.co.uk/car-news/business/volkswagen-overtakes-toyota-worlds-best-selling-car-maker)",
-   "Quartz (https://qz.com/897951/volkswagen-has-overtaken-toyota-to-become-the-worlds-biggest-carmaker)"
+   "Autocar",
+   "Quartz"
+  ],
+  "source_urls": [
+   "https://open.em.autocar.co.uk/car-news/business/volkswagen-overtakes-toyota-worlds-best-selling-car-maker)",
+   "https://qz.com/897951/volkswagen-has-overtaken-toyota-to-become-the-worlds-biggest-carmaker)"
   ]
  },
  {
@@ -5054,8 +5406,12 @@
    "Chapter 11 filing November 2023"
   ],
   "sources": [
-   "Business Insider (https://www.businessinsider.com/wework-occupacy-projections-profitability-spac-going-public-flex-office-space-2021-4)",
-   "Crunchbase News (https://news.crunchbase.com/public/wework-to-go-public-via-spac/)"
+   "Business Insider",
+   "Crunchbase News"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/wework-occupacy-projections-profitability-spac-going-public-flex-office-space-2021-4)",
+   "https://news.crunchbase.com/public/wework-to-go-public-via-spac/)"
   ]
  },
  {

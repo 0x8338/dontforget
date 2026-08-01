@@ -33,9 +33,12 @@ status: kept | broken | partial | pending | kept (delayed)
 description/evidence/sources
 ```
 
+`sources` are short publication names only — never URLs. Full links go in the optional `source_urls` array (same order, `null` where no URL exists).
+
 ## Key rules
 - **All dates UTC.** No local timezone. Date range: 2000 to present.
 - **≥2 public sources per event.** Double-source before writing. Never scrape.
+- **Sources are short names only** (e.g. "BBC News"), never URLs; keep links in `source_urls` when available.
 - **Factual, no commentary.** What happened / what was promised / outcome.
 - **Promises expansion is priority.** Always look for new targets: world leaders, CEOs, UN orgs, NATO, IMF, World Bank, more countries.
 - **"Died by suicide"** — never "committed." No method details. Content warnings on high death tolls.

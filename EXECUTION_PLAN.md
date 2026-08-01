@@ -30,7 +30,7 @@ Set events.last_date = today
 - **Track B — CEOs & corporate:** AI labs, big tech, pharma, finance, energy, autos; commitments with explicit deadlines (safety, net-zero, hiring, investment, product rollouts).
 - **Track C — International orgs & treaties:** UN agencies, NATO, IMF/World Bank, WHO, EU, G7/G20/COP decisions, treaty deadlines.
 
-Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix).
+Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix). `sources` are short names only — never URLs; put full links in the optional `source_urls` array.
 
 ### Finish: validate, commit, push
 
