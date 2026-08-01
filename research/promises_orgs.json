@@ -1,0 +1,384 @@
+[
+  {
+    "person": "World Health Organization (Pandemic Agreement negotiations)",
+    "role": "WHO member states negotiating the pandemic accord",
+    "promise": "Conclude a global pandemic prevention, preparedness and response accord by May 2024",
+    "date_promised": "2021-12-01",
+    "due_date": "2024-05-24",
+    "status": "broken",
+    "description": "At a special World Health Assembly session in December 2021, WHO's 194 member states agreed to negotiate an international pandemic accord with the aim of concluding it before the May 2024 World Health Assembly. Negotiators missed the 24 May 2024 deadline after failing to reach consensus, and the Assembly extended the talks. The agreement was eventually adopted on 20 May 2025, but a key annex on pathogen access and benefit sharing remained unagreed as of 2026.",
+    "evidence": [
+      "Deadline of 24 May 2024 missed; talks continued into the World Health Assembly",
+      "Pandemic Agreement adopted 20 May 2025, one year after the original deadline",
+      "PABS annex still not concluded as of mid-2026, delaying signature and ratification"
+    ],
+    "sources": [
+      "Reuters",
+      "The Guardian",
+      "NPR",
+      "The Lancet"
+    ]
+  },
+  {
+    "person": "World Health Organization (cervical cancer elimination strategy)",
+    "role": "WHO global strategy signatories",
+    "promise": "Meet 90-70-90 cervical cancer elimination targets by 2030",
+    "date_promised": "2020-11-17",
+    "due_date": "2030-12-31",
+    "status": "pending",
+    "description": "In November 2020 the World Health Assembly endorsed the global strategy to eliminate cervical cancer, setting targets for 2030: 90% of girls fully vaccinated against HPV by age 15, 70% of women screened with a high-precision test, and 90% of women with pre-cancer or invasive cancer treated. Global HPV vaccination coverage remains far below the target: analyses published in 2025 found that only about 21% of girls had received at least one dose by age 15, against the 90% target.",
+    "evidence": [
+      "Global HPV coverage for girls by age 15 was about 21% as of 2024, versus the 90% target",
+      "WHO strategy adopted by the World Health Assembly in November 2020",
+      "Coverage rose from roughly 4% in 2010 but stalled during the COVID-19 pandemic"
+    ],
+    "sources": [
+      "World Health Organization",
+      "CIDRAP / University of Minnesota",
+      "The Lancet"
+    ]
+  },
+  {
+    "person": "Global Methane Pledge signatories",
+    "role": "US, EU and 150+ countries",
+    "promise": "Reduce global methane emissions by at least 30% from 2020 levels by 2030",
+    "date_promised": "2021-11-02",
+    "due_date": "2030-12-31",
+    "status": "pending",
+    "description": "Launched by the United States and the European Union at COP26 in Glasgow in November 2021, the Global Methane Pledge commits signatories to cut global methane emissions by at least 30% from 2020 levels by 2030. The pledge has catalysed new policies and the IEA's Global Methane Tracker 2026 found that regulations in place would cut oil and gas emissions by only around 20% by 2030 — well short of the 30% economy-wide target, with agriculture lagging furthest.",
+    "evidence": [
+      "IEA 2026 analysis: current policies cut oil and gas methane by only ~20% by 2030",
+      "Pledge signed by more than 150 countries at COP26",
+      "Agriculture, the largest methane source, remains the biggest policy gap"
+    ],
+    "sources": [
+      "IEA Global Methane Tracker 2026",
+      "European Commission",
+      "Environment Journal"
+    ]
+  },
+  {
+    "person": "Glasgow Leaders' Declaration on Forests and Land Use signatories",
+    "role": "140+ countries at COP26",
+    "promise": "Halt and reverse forest loss and land degradation by 2030",
+    "date_promised": "2021-11-02",
+    "due_date": "2030-12-31",
+    "status": "pending",
+    "description": "At COP26 in Glasgow, more than 140 countries covering over 90% of global forest area signed a declaration committing to halt and reverse forest loss and land degradation by 2030. Independent assessments through 2025 found the world falling behind: roughly 6.6 million hectares of primary forest were lost in 2022 alone, and reports concluded the pledge was about 21% off track, with fires and agricultural expansion accelerating losses.",
+    "evidence": [
+      "Reports in 2025 concluded the world is 'far off track' on the 2030 pledge",
+      "About 6.6 million hectares of primary forest lost in 2022, 33% above a sustainable path",
+      "UK government regulations in 2026 still cite the pledge as the basis for forest-risk rules"
+    ],
+    "sources": [
+      "IPSN / Global Forest Watch analysis",
+      "Climate Fact Checks",
+      "UK Parliament"
+    ]
+  },
+  {
+    "person": "UN Environment Assembly (plastics treaty negotiations)",
+    "role": "UNEA resolution 5/14 signatories",
+    "promise": "Conclude a global legally binding plastics treaty by the end of 2024",
+    "date_promised": "2022-03-02",
+    "due_date": "2024-12-31",
+    "status": "broken",
+    "description": "In March 2022 the UN Environment Assembly adopted resolution 5/14 mandating negotiations for a legally binding global treaty on plastic pollution 'with the ambition' of completing them by the end of 2024. The fifth negotiating session (INC-5) in Busan, South Korea, ended on 1 December 2024 without an agreement, forcing a resumed session (INC-5.2) in Geneva in August 2025. The deadline was missed.",
+    "evidence": [
+      "INC-5 in Busan suspended on 1 December 2024 without a final treaty",
+      "Negotiations continued at INC-5.2 in Geneva in August 2025",
+      "EIA and others describe the 2024 conclusion as an 'aspirational mandate' that was missed"
+    ],
+    "sources": [
+      "The Peninsula (Reuters)",
+      "Springer / Journal of Environmental Studies and Sciences",
+      "EIA International"
+    ]
+  },
+  {
+    "person": "High Seas Treaty (BBNJ Agreement) parties",
+    "role": "United Nations member states ratifying the BBNJ Agreement",
+    "promise": "Bring the High Seas Treaty into force after 60 ratifications",
+    "date_promised": "2023-06-19",
+    "due_date": "2026-01-17",
+    "status": "kept",
+    "description": "The Agreement under UNCLOS on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction (BBNJ) was adopted in June 2023 after nearly two decades of negotiations. The 60th ratification was deposited in September 2025, triggering entry into force 120 days later on 17 January 2026; more than 80 countries had ratified by early 2026.",
+    "evidence": [
+      "60th ratification reached in September 2025",
+      "Treaty entered into force on 17 January 2026",
+      "Over 80 ratifications by January 2026, with first Conference of the Parties expected in 2026"
+    ],
+    "sources": [
+      "IUCN",
+      "UNESCO IOC",
+      "WWF"
+    ]
+  },
+  {
+    "person": "COP28 parties (Loss and Damage Fund)",
+    "role": "United Nations climate conference parties",
+    "promise": "Operationalize the Loss and Damage Fund at COP28",
+    "date_promised": "2022-11-20",
+    "due_date": "2023-12-12",
+    "status": "kept",
+    "description": "The COP27 summit in Sharm el-Sheikh agreed to establish a fund to help vulnerable developing countries respond to loss and damage from climate change, with the aim of operationalizing it at COP28. On 30 November 2023, the opening day of COP28 in Dubai, parties adopted the decision to operationalize the fund, with the World Bank serving as host; pledges of seed funding followed from developed countries.",
+    "evidence": [
+      "Fund operationalized by consensus on the first day of COP28, 30 November 2023",
+      "COP27 (November 2022) had agreed to establish the fund",
+      "World Bank hosts the Fund for Responding to Loss and Damage"
+    ],
+    "sources": [
+      "World Bank",
+      "UN News",
+      "China Daily / Reuters"
+    ]
+  },
+  {
+    "person": "NATO Allies (Washington Summit)",
+    "role": "NATO member states",
+    "promise": "Provide Ukraine with a minimum of 40 billion euros in military aid within a year",
+    "date_promised": "2024-07-10",
+    "due_date": "2025-07-10",
+    "status": "kept",
+    "description": "At the NATO Washington Summit in July 2024, the 32 allies committed to a minimum baseline funding of 40 billion euros in security assistance for Ukraine within the next year, to be sustained at future summits. According to NATO and member-state statements, allies delivered over 50 billion euros of military aid to Ukraine in 2024, exceeding the pledge, with about 60% provided by European allies and Canada.",
+    "evidence": [
+      "NATO and UK Parliament statements confirm over €50bn delivered in 2024",
+      "Target was a minimum of €40bn within one year of the July 2024 summit",
+      "European allies and Canada supplied about 60% of 2024 military aid"
+    ],
+    "sources": [
+      "NATO",
+      "UK Parliament",
+      "Estonian Ministry of Defence"
+    ]
+  },
+  {
+    "person": "European Union (REPowerEU)",
+    "role": "European Commission and member states",
+    "promise": "Make Europe independent from Russian fossil fuels, ending reliance on Russian gas by 2027",
+    "date_promised": "2022-05-18",
+    "due_date": "2027-12-31",
+    "status": "pending",
+    "description": "The European Commission's REPowerEU plan, presented in May 2022 after Russia's invasion of Ukraine, set the goal of ending the EU's dependence on Russian fossil fuels, including a full phase-out of Russian gas, well before 2030 and by 2027 at the latest. The EU cut Russian gas imports by roughly 75% between 2021 and 2025, and in January 2026 adopted legislation banning Russian LNG imports from the start of 2027 and pipeline gas from autumn 2027.",
+    "evidence": [
+      "Russian gas imports cut by about 75% between 2021 and 2025",
+      "EU regulation banning Russian LNG from January 2027 and pipeline gas from autumn 2027 approved in January 2026",
+      "National phase-out plans were due to the Commission by 1 March 2026"
+    ],
+    "sources": [
+      "Kyiv Post",
+      "PubAffairs Bruxelles / Council of the EU",
+      "TASS (Greece plan reporting)"
+    ]
+  },
+  {
+    "person": "European Union (EU Chips Act)",
+    "role": "European Commission and member states",
+    "promise": "Double Europe's share of global semiconductor production to 20% by 2030",
+    "date_promised": "2023-09-21",
+    "due_date": "2030-12-31",
+    "status": "pending",
+    "description": "The EU Chips Act, in force since September 2023, set the goal of raising Europe's share of global semiconductor production to 20% by 2030, backed by over 43 billion euros in public and private investment. Commission projections and independent analyses as of 2025-2026 put Europe's share on course to stagnate at roughly 10-12% by 2030, well short of the target, though the act has catalysed new fabs and investment.",
+    "evidence": [
+      "Europe's share projected at ~11.7% by 2030, versus the 20% target",
+      "Europe currently holds around 10% of the global semiconductor market",
+      "EU Chips Act entered into force 21 September 2023"
+    ],
+    "sources": [
+      "Globsec",
+      "European Commission",
+      "FundsTech"
+    ]
+  },
+  {
+    "person": "European Commission (Digital Markets Act gatekeepers)",
+    "role": "Designated gatekeeper platforms",
+    "promise": "Comply with Digital Markets Act obligations by 7 March 2024",
+    "date_promised": "2022-11-01",
+    "due_date": "2024-03-07",
+    "status": "kept",
+    "description": "The Digital Markets Act, in force from November 2022, required platforms designated as gatekeepers (designations made on 5 September 2023) to comply with its obligations by 7 March 2024. All six gatekeepers submitted their compliance reports on that deadline, beginning the Commission's enforcement phase; the Commission subsequently opened several investigations into non-compliance.",
+    "evidence": [
+      "All designated gatekeepers submitted compliance reports by 7 March 2024",
+      "Commission published its first annual DMA report covering the compliance phase",
+      "Multiple investigations opened into suspected non-compliance after the deadline"
+    ],
+    "sources": [
+      "European Commission",
+      "Slaughter and May",
+      "EUR-Lex"
+    ]
+  },
+  {
+    "person": "European Commission (Digital Services Act)",
+    "role": "Very large online platforms and search engines",
+    "promise": "Meet Digital Services Act obligations for very large platforms by 25 August 2023",
+    "date_promised": "2022-11-16",
+    "due_date": "2023-08-25",
+    "status": "kept",
+    "description": "The Digital Services Act, in force from November 2022, set 25 August 2023 as the compliance deadline for platforms designated as very large online platforms or search engines, covering risk assessments and new systemic-risk obligations. The Commission had designated the first 19 very large platforms in April 2023, and the obligations took effect on the scheduled date, with broader intermediary-service obligations following on 17 February 2024.",
+    "evidence": [
+      "First 19 VLOPs/VLOSEs designated in April 2023",
+      "Obligations applied from 25 August 2023 as scheduled",
+      "Full DSA application to all intermediary services followed on 17 February 2024"
+    ],
+    "sources": [
+      "Bird & Bird",
+      "HÄRTING",
+      "Lexology"
+    ]
+  },
+  {
+    "person": "G20 (Common Framework for Debt Treatments)",
+    "role": "G20 member states and Paris Club",
+    "promise": "Deliver timely and orderly debt restructuring for eligible low-income countries",
+    "date_promised": "2020-11-22",
+    "due_date": "2024-12-31",
+    "status": "broken",
+    "description": "At the November 2020 G20 Riyadh Summit, G20 leaders endorsed the Common Framework for Debt Treatments beyond the DSSI to deliver timely, orderly debt restructuring for pandemic-hit low-income countries. By 2025 only four countries — Chad, Ethiopia, Ghana and Zambia — had applied, three had completed restructurings, and analyses found the framework delivered only modest relief, cutting high-risk debt by about 7%.",
+    "evidence": [
+      "Only 4 of 69 eligible countries applied under the framework by 2025",
+      "3 countries completed the process; only 2 received debt relief",
+      "ONE analysis found the framework cut high-risk debt by only ~7%"
+    ],
+    "sources": [
+      "ONE Campaign",
+      "tralac",
+      "Ecofin Agency"
+    ]
+  },
+  {
+    "person": "OECD Inclusive Framework on BEPS (Pillar Two)",
+    "role": "138+ jurisdictions, G20-endorsed",
+    "promise": "Implement a 15% global minimum tax on large multinationals by 2023",
+    "date_promised": "2021-10-08",
+    "due_date": "2023-12-31",
+    "status": "partial",
+    "description": "In October 2021 the OECD/G20 Inclusive Framework agreed Pillar Two, a 15% global minimum tax, with implementation expected by 2023. The EU directive required transposition by the end of 2023, but several member states missed that deadline (Spain adopted rules in December 2024), and the rules only became effective in most major jurisdictions from 2024. Pillar One, the related reallocation of taxing rights, was not finalised by 2023.",
+    "evidence": [
+      "EU transposition deadline of December 2023 missed by several member states",
+      "Pillar Two top-up rules became effective in many jurisdictions only from January 2024",
+      "Pillar One agreement not finalised by the end of 2023"
+    ],
+    "sources": [
+      "OECD",
+      "Funcas",
+      "Osler"
+    ]
+  },
+  {
+    "person": "G7 leaders (Carbis Bay Summit)",
+    "role": "G7 member states",
+    "promise": "Donate 1 billion COVID-19 vaccine doses to poorer countries by the end of 2022",
+    "date_promised": "2021-06-13",
+    "due_date": "2022-12-31",
+    "status": "broken",
+    "description": "At the June 2021 G7 summit in Carbis Bay, leaders pledged to share 1 billion COVID-19 vaccine doses with low- and middle-income countries by the end of 2022 (870 million new doses plus earlier pledges), including 500 million from the United States. Delivery fell far short: Oxfam and the People's Vaccine Alliance found that less than half (49%) of the 2.1 billion doses promised globally by G7 countries had been delivered by June 2022, and the UK had delivered only 39% of its 100 million pledge by its own deadline.",
+    "evidence": [
+      "Oxfam/People's Vaccine Alliance: only 49% of promised G7 donations delivered by June 2022",
+      "UK delivered 39% of its pledged 100 million doses by its end-of-month deadline",
+      "Institute for Global Change found less than a third of G7 pledges reached Africa by mid-2022"
+    ],
+    "sources": [
+      "BBC News",
+      "Oxfam / People's Vaccine Alliance",
+      "UK Parliament",
+      "Institute for Global Change"
+    ]
+  },
+  {
+    "person": "United Nations member states (Pact for the Future)",
+    "role": "UN General Assembly",
+    "promise": "Adopt the Pact for the Future at the Summit of the Future in September 2024",
+    "date_promised": "2023-09-01",
+    "due_date": "2024-09-22",
+    "status": "kept",
+    "description": "UN General Assembly resolution 77/335 decided to convene the Summit of the Future on 22-23 September 2024 and to adopt a concise, action-oriented Pact for the Future. On 22 September 2024, member states adopted the Pact by consensus, together with its annexes, the Global Digital Compact and the Declaration on Future Generations.",
+    "evidence": [
+      "Pact for the Future adopted by consensus on 22 September 2024",
+      "Adoption included the Global Digital Compact and Declaration on Future Generations",
+      "UN describes it as the most wide-ranging international agreement in recent years"
+    ],
+    "sources": [
+      "United Nations",
+      "UNSDG",
+      "Government of Mexico"
+    ]
+  },
+  {
+    "person": "António Guterres",
+    "role": "UN Secretary-General",
+    "promise": "Deliver an SDG Stimulus of $500 billion per year in additional development finance",
+    "date_promised": "2023-02-16",
+    "due_date": "2030-12-31",
+    "status": "pending",
+    "description": "In February 2023 Guterres called for an SDG Stimulus delivering at least $500 billion per year in affordable, long-term financing for developing countries through multilateral development banks and other mechanisms, and later announced a Leaders Group to push the initiative forward. The stimulus remains a proposal: as of 2026 no binding mechanism delivering the $500 billion annual level has been established.",
+    "evidence": [
+      "Guterres called for the $500bn-a-year stimulus in February 2023",
+      "A Leaders Group was announced to implement the initiative",
+      "No mechanism delivering the annual $500bn level existed as of 2026"
+    ],
+    "sources": [
+      "UN News",
+      "United Nations Secretary-General statements",
+      "UNCTAD"
+    ]
+  },
+  {
+    "person": "FIFA (Gianni Infantino)",
+    "role": "FIFA president and member associations",
+    "promise": "Deliver equal prize money for the men's and women's World Cups by 2027",
+    "date_promised": "2023-08-20",
+    "due_date": "2027-12-31",
+    "status": "pending",
+    "description": "FIFA president Gianni Infantino said in 2023 that FIFA's goal was equal prize money for the men's and women's World Cups by 2027, a pledge widely reported at the 2023 Women's World Cup. FIFA announced a record $655 million prize pool for the 2026 men's World Cup (up from $440 million in 2022) and has stated its intent to reach parity for the 2027 Women's World Cup, which remains forthcoming.",
+    "evidence": [
+      "Infantino pledged parity 'by 2027' in 2023",
+      "2026 men's prize pool is a record $655m, nearly six times the 2023 women's $110m pool",
+      "US men's and women's teams agreed to share 80% of 2026/2027 prize earnings equally"
+    ],
+    "sources": [
+      "USA Today",
+      "Yahoo Sports",
+      "UPI"
+    ]
+  },
+  {
+    "person": "Paris 2024 organising committee",
+    "role": "Olympic and Paralympic Games organisers",
+    "promise": "Cut Games carbon emissions by 50% compared with the London 2012 and Rio 2016 average",
+    "date_promised": "2017-09-13",
+    "due_date": "2024-09-08",
+    "status": "kept",
+    "description": "Paris 2024 pledged in its bid and delivery plans to be the greenest Games in history, cutting greenhouse gas emissions by 50% compared with the average of London 2012 (about 3.3 million tonnes) and Rio 2016 (about 3.6 million tonnes). The organising committee's final carbon report put Paris 2024 emissions at roughly 1.6 million tonnes of CO2 equivalent, about 54% below the reference average, though organisers did not claim full carbon neutrality.",
+    "evidence": [
+      "Final Paris 2024 emissions reported at about 1.6 Mt CO2e, ~54% below the London/Rio average",
+      "London 2012 was estimated at 3.3 Mt and Rio 2016 at 3.6 Mt",
+      "CBC reported the Games cut carbon by over half compared with 2012 and 2016"
+    ],
+    "sources": [
+      "CBC News",
+      "French Ministry of Ecological Transition",
+      "RNZ"
+    ]
+  },
+  {
+    "person": "Montreal Protocol parties (Kigali Amendment)",
+    "role": "197 parties to the Montreal Protocol",
+    "promise": "Bring the Kigali Amendment phasing down HFCs into force on 1 January 2019",
+    "date_promised": "2016-10-15",
+    "due_date": "2019-01-01",
+    "status": "kept",
+    "description": "Adopted in Kigali in October 2016, the Kigali Amendment to the Montreal Protocol commits parties to phase down hydrofluorocarbons (HFCs) by more than 80% over 30 years. The ratification threshold of 20 parties was reached on 17 November 2017, and the amendment entered into force on 1 January 2019 as scheduled, with more than 150 parties ratifying in the following years.",
+    "evidence": [
+      "Entered into force on 1 January 2019 after 20 ratifications in November 2017",
+      "Projected to reduce HFC-driven warming by 2100 from 0.3-0.5°C to under 0.1°C",
+      "Over 150 parties ratified within years of entry into force"
+    ],
+    "sources": [
+      "UNEP Ozone Secretariat",
+      "UNDP",
+      "Fluorocarbons.org"
+    ]
+  }
+]

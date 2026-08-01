@@ -1,0 +1,58 @@
+# Agent Execution Plan — dontforget
+
+## Checkpoint
+
+`_data/checkpoint.json`:
+```json
+{"events": {"last_date": "2026-07-31"}, "promises": {"last_date": "2026-07-31"}}
+```
+
+**Update = collect from last_date+1d to today UTC.** Advance checkpoint after success. Skip = no gap.
+
+## Daily Update (only mode)
+
+```
+READ checkpoint → last_date
+TARGET: last_date+1d through today UTC
+Research events for each target date (≥2 sources, lives>0, date≥2000)
+Append to events.json keyed by MM-DD
+Set events.last_date = today
+```
+
+**Promises — every run does BOTH:**
+
+1. **Daily check:** new public commitments since `promises.last_date`; update statuses of due promises when new evidence exists.
+2. **Expansion sweep (always):** research NEW untracked promises and add 3–10 verified entries per run. Rotate focus across the three tracks below so coverage grows evenly.
+
+### Promise expansion tracks (rotate per run)
+
+- **Track A — World leaders:** G20 gaps and newly elected heads of government (e.g. 2025–26 transitions: Germany/Merz, Japan/Ishiba, Canada/Carney, Ghana/Mahama, Sri Lanka/Dissanayake, Singapore/Wong).
+- **Track B — CEOs & corporate:** AI labs, big tech, pharma, finance, energy, autos; commitments with explicit deadlines (safety, net-zero, hiring, investment, product rollouts).
+- **Track C — International orgs & treaties:** UN agencies, NATO, IMF/World Bank, WHO, EU, G7/G20/COP decisions, treaty deadlines.
+
+Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix).
+
+## Historical Backfill (one-time, already done)
+
+2000-2026 fully populated (536 events, 273 dates). No backfill needed.
+
+## Promises Expansion (ongoing)
+
+Priority — runs with every daily update, rotating focus. Target sources:
+- World leaders (all G20 countries, not just US/UK/FR/DE/CN/IN/RU)
+- CEOs (tech, pharma, finance, energy)
+- International orgs (UN agencies, NATO, IMF, World Bank, WHO, EU)
+- Commitments with specific deadlines that have passed (so status is known)
+
+Agent prompt pattern:
+```
+Research NEW promises not already in promises.json.
+Return JSON array. Mix kept/broken/partial. ≥1 source.
+Focus on: [specific targets].
+```
+
+Track the last focus in `checkpoint.json` under `promises_expansion.last_focus` and pick the next track in rotation.
+
+## Merge
+
+Run `python3 site/_data/validate.py` (date≥2000, lives>0, ≥2 sources, duplicates, checkpoint totals). Merge script deduplicates by date+title; promises by person+promise prefix.

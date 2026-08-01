@@ -1,0 +1,405 @@
+/* ================================================
+   dontforget — "Stone + Ink + Correction"
+   Event categories: natural-disaster, war,
+   gun-violence, terrorism, food-crisis, industrial
+   Promise statuses: kept (green), broken (red),
+   pending (amber)
+   ================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,12..72,300..500;0,12..72,600;1,12..72,400&family=Space+Mono&display=swap');
+
+:root {
+  --paper: #faf8f5;
+  --ink: #1a1a18;
+  --stone: #94908a;
+  --stone-light: #d4d0c8;
+  --stone-bg: #f0ede6;
+  --blue: #4a5a7a;
+  /* Category colors */
+  --c-natural: #c47040;  --c-natural-bg: #fdf3ed;
+  --c-war:     #c84040;  --c-war-bg:     #fdf0ed;
+  --c-gun:     #a04050;  --c-gun-bg:     #fdf0f2;
+  --c-terror:  #7040a0;  --c-terror-bg:  #f5f0fa;
+  --c-food:    #b8942a;  --c-food-bg:    #fdf8ed;
+  --c-ind:     #4060a0;  --c-ind-bg:     #edf2fa;
+  /* Promise status */
+  --kept:    #3a6b4a;  --kept-bg:    #edf5ef;
+  --broken:  #c84040;  --broken-bg:  #fdf0ed;
+  --pending: #b8942a;  --pending-bg: #fdf8ed;
+  /* Scale */
+  --day-size: clamp(5rem, 14vw, 12rem);
+  --body-size: clamp(1.05rem, 1.05rem + 0.25vw, 1.25rem);
+  --col-width: clamp(20rem, 90vw, 48rem);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1a1a18;
+    --ink: #e8e4dd;
+    --stone: #7a7670;
+    --stone-light: #3a3834;
+    --stone-bg: #242420;
+    --blue: #8a9aba;
+    --c-natural: #d48560;  --c-natural-bg: #2a2018;
+    --c-war:     #d46565;  --c-war-bg:     #2a1c1a;
+    --c-gun:     #c06070;  --c-gun-bg:     #2a1c20;
+    --c-terror:  #9060c0;  --c-terror-bg:  #201c2a;
+    --c-food:    #c4a44a;  --c-food-bg:    #2a2418;
+    --c-ind:     #6080c0;  --c-ind-bg:     #1a2030;
+    --kept:    #5a8a6a;  --kept-bg:    #1a2a1e;
+    --broken:  #d46565;  --broken-bg:  #2a1c1a;
+    --pending: #c4a44a;  --pending-bg: #2a2418;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Newsreader', Georgia, 'Times New Roman', serif;
+  font-optical-sizing: auto;
+  font-size: var(--body-size);
+  font-weight: 420;
+  line-height: 1.65;
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Nav ---- */
+nav.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  max-width: var(--col-width);
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 1rem;
+  border-bottom: 1px solid var(--stone-light);
+  margin-bottom: 3rem;
+}
+
+nav.topbar .logo {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+nav.topbar .logo span { color: var(--c-war); }
+
+nav.topbar .links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav.topbar .links a {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.72rem;
+  color: var(--stone);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: color 0.15s;
+}
+
+nav.topbar .links a:hover,
+nav.topbar .links a.active { color: var(--ink); }
+
+/* ---- Main ---- */
+main {
+  max-width: var(--col-width);
+  margin: 0 auto;
+  padding: 0 1.25rem 3rem;
+}
+
+/* ---- Date Hero — THE SIGNATURE ---- */
+.date-hero {
+  text-align: center;
+  margin-bottom: 1rem;
+  padding: 2rem 0 1.5rem;
+}
+
+.date-hero .lives-count {
+  font-family: 'Newsreader', Georgia, serif;
+  font-optical-sizing: auto;
+  font-size: clamp(4rem, 12vw, 10rem);
+  font-weight: 280;
+  line-height: 0.9;
+  color: var(--c-war);
+  letter-spacing: -0.03em;
+  font-variant-numeric: oldstyle-nums;
+}
+
+.date-hero .lives-label {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: clamp(0.6rem, 1.5vw, 0.72rem);
+  color: var(--stone);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 0.4rem;
+}
+
+.date-hero .date-line {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: clamp(1rem, 3vw, 1.4rem);
+  font-weight: 400;
+  color: var(--ink);
+  margin-top: 1.2rem;
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* ---- Filter Bar ---- */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.filter-chip {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--stone-light);
+  border-radius: 3px;
+  cursor: pointer;
+  color: var(--stone);
+  transition: all 0.15s;
+  user-select: none;
+}
+
+.filter-chip:hover { border-color: var(--stone); color: var(--ink); }
+.filter-chip.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+/* ---- Stats Row ---- */
+.date-hero .stats {
+  display: flex;
+  justify-content: center;
+  gap: clamp(1.5rem, 6vw, 3rem);
+  margin-top: 1rem;
+}
+
+.date-hero .stat { text-align: center; }
+
+.date-hero .stat-num {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: clamp(1.6rem, 4vw, 2.5rem);
+  font-weight: 320;
+  line-height: 1.1;
+  color: var(--ink);
+  font-variant-numeric: oldstyle-nums;
+}
+
+.date-hero .stat-label {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: clamp(0.6rem, 1.4vw, 0.7rem);
+  color: var(--stone);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 0.2rem;
+}
+
+/* ---- Hairline Rule ---- */
+hr.rule {
+  border: none;
+  border-top: 1px solid var(--stone-light);
+  margin: 1.5rem auto;
+  max-width: var(--col-width);
+}
+
+/* ---- Section Eyebrow ---- */
+.eyebrow {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--stone);
+  margin: 2.5rem 0 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.eyebrow::after {
+  content: '';
+  flex: 1;
+  border-top: 1px solid var(--stone-light);
+}
+
+/* ---- Event & Promise Cards ---- */
+.card {
+  padding: 1.5rem 1.25rem;
+  border-left: 3px solid var(--stone-light);
+  margin-bottom: 0.6rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.card:nth-child(even) { background: var(--stone-bg); }
+
+.card.card-natural  { border-left-color: var(--c-natural); }
+.card.card-war      { border-left-color: var(--c-war); }
+.card.card-gun      { border-left-color: var(--c-gun); }
+.card.card-terror   { border-left-color: var(--c-terror); }
+.card.card-food     { border-left-color: var(--c-food); }
+.card.card-ind      { border-left-color: var(--c-ind); }
+.card.card-kept     { border-left-color: var(--kept); }
+.card.card-broken   { border-left-color: var(--broken); }
+.card.card-pending  { border-left-color: var(--pending); }
+
+.card .year {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.85rem;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.04em;
+}
+
+.card h3 {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 520;
+  line-height: 1.35;
+  margin-bottom: 0.4rem;
+  color: var(--ink);
+}
+
+.card .meta-line {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 1.05rem;
+  color: var(--ink);
+  margin-bottom: 0.6rem;
+}
+
+.card p {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--ink);
+}
+
+.card .sources {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.8rem;
+  color: var(--stone);
+  margin-top: 0.6rem;
+}
+
+/* ---- Status Badges ---- */
+.badge {
+  display: inline-block;
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.75rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15em 0.5em;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+
+.badge-natural  { background: var(--c-natural-bg); color: var(--c-natural); }
+.badge-war      { background: var(--c-war-bg);     color: var(--c-war); }
+.badge-gun      { background: var(--c-gun-bg);     color: var(--c-gun); }
+.badge-terror   { background: var(--c-terror-bg);  color: var(--c-terror); }
+.badge-food     { background: var(--c-food-bg);    color: var(--c-food); }
+.badge-ind      { background: var(--c-ind-bg);     color: var(--c-ind); }
+.badge-kept     { background: var(--kept-bg);      color: var(--kept); }
+.badge-broken   { background: var(--broken-bg);    color: var(--broken); }
+.badge-pending  { background: var(--pending-bg);   color: var(--pending); }
+
+/* ---- Status Markers (✗ ○ ✓) ---- */
+.status-mark { font-family: 'Space Mono', monospace; margin-right: 0.3em; }
+.status-broken  { color: var(--broken); }
+.status-kept    { color: var(--kept); }
+.status-pending { color: var(--pending); }
+
+/* ---- Content Warning ---- */
+.content-warning {
+  background: var(--c-food-bg);
+  border-left: 2px solid var(--c-food);
+  padding: 0.6rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.82rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.content-warning summary {
+  cursor: pointer;
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.68rem;
+  color: var(--c-food);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.content-warning .hidden-content {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--stone-light);
+}
+
+/* ---- About Page ---- */
+/* ---- About ---- */
+.about-main {
+  min-height: calc(100vh - 12rem);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 1.25rem 3rem;
+  text-align: center;
+}
+
+.about-eyebrow {
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--stone);
+}
+
+.about-statement {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: clamp(1.6rem, 4.5vw, 2.5rem);
+  font-weight: 380;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  max-width: 30rem;
+  margin: 1.6rem auto 0;
+  text-wrap: balance;
+}
+
+.about-note {
+  margin-top: 3.5rem;
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.68rem;
+  color: var(--stone);
+}
+
+/* ---- Footer ---- */
+footer {
+  text-align: center;
+  padding: 2rem 1.25rem;
+  font-family: 'Space Mono', 'Courier New', monospace;
+  font-size: 0.65rem;
+  color: var(--stone);
+  max-width: var(--col-width);
+  margin: 0 auto;
+  border-top: 1px solid var(--stone-light);
+}
+
+footer a { color: var(--blue); text-decoration: none; }
+
+/* ---- Keyboard & Motion ---- */
+:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

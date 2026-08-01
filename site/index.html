@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>dontforget — Today in History</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="topbar">
+  <a href="/" class="logo">dont<span>.</span>forget</a>
+  <div class="links">
+    <a href="/" class="active">Today</a>
+    <a href="promises/">Promises</a>
+    <a href="about.html">About</a>
+  </div>
+</nav>
+
+<main>
+
+  <div class="date-hero">
+    <div class="lives-count" id="lives-total">—</div>
+    <div class="lives-label">lives taken on this day since 2000</div>
+    <div class="date-line" id="today-date"></div>
+  </div>
+
+  <hr class="rule">
+
+  <div class="filter-bar" id="event-filters">
+    <span class="filter-chip active" data-filter="all">all</span>
+    <span class="filter-chip" data-filter="natural-disaster">natural disaster</span>
+    <span class="filter-chip" data-filter="war">war</span>
+    <span class="filter-chip" data-filter="terrorism">terrorism</span>
+    <span class="filter-chip" data-filter="gun-violence">gun violence</span>
+    <span class="filter-chip" data-filter="industrial">industrial</span>
+    <span class="filter-chip" data-filter="food-crisis">food crisis</span>
+  </div>
+
+  <div id="events-container">
+    <div class="date-hero" style="padding-top:3rem;">
+      <div class="lives-label" style="color:var(--stone);">Loading…</div>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <p>UTC &middot; Each event sourced from &ge;2 public records &middot; <a href="about.html">About</a></p>
+</footer>
+
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var dateParam = params.get('date');  // ?date=MM-DD or ?date=08-06
+  var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+  var today, displayDate;
+  if (dateParam && /^\d{2}-\d{2}$/.test(dateParam)) {
+    today = dateParam;
+    var m = parseInt(dateParam.slice(0,2)) - 1;
+    var d = parseInt(dateParam.slice(3,5));
+    displayDate = d + ' ' + months[m];
+    document.title = dateParam + ' — dontforget';
+  } else {
+    var now = new Date();
+    today = String(now.getUTCMonth() + 1).padStart(2, '0') + '-' + String(now.getUTCDate()).padStart(2, '0');
+    displayDate = now.getUTCDate() + ' ' + months[now.getUTCMonth()] + ' ' + now.getUTCFullYear();
+  }
+  document.getElementById('today-date').textContent = displayDate;
+
+  var catClass = {
+    'natural-disaster': 'natural', 'war': 'war', 'gun-violence': 'gun',
+    'terrorism': 'terror', 'food-crisis': 'food', 'industrial': 'ind'
+  };
+  var catLabel = {
+    'natural-disaster': 'natural disaster', 'war': 'war', 'gun-violence': 'gun violence',
+    'terrorism': 'terrorism', 'food-crisis': 'food crisis', 'industrial': 'industrial'
+  };
+
+  fetch('_data/events.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      var events = data[today] || [];
+      var container = document.getElementById('events-container');
+      var total = events.reduce(function(s, e) { return s + (e.lives_lost || 0); }, 0);
+
+      document.getElementById('lives-total').textContent = total > 0 ? '~' + total.toLocaleString() : '—';
+
+      if (events.length === 0) {
+        container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;letter-spacing:0.02em;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;line-height:1.6;max-width:28rem;margin:0 auto;">Nothing recorded for this date. The archive is incomplete — absence here is not absence in the world.</div></div>';
+        return;
+      }
+
+      var currentFilter = 'all';
+
+      function renderEvents(filter) {
+        var html = '';
+        var filtered = filter === 'all' ? events : events.filter(function(e) { return e.category === filter; });
+        var livesTotal = filtered.reduce(function(s, e) { return s + (e.lives_lost || 0); }, 0);
+        document.getElementById('lives-total').textContent = livesTotal > 0 ? '~' + livesTotal.toLocaleString() : '—';
+
+        if (filtered.length === 0) {
+          container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No events in this category for this date.</div></div>';
+          return;
+        }
+        filtered.sort(function(a, b) { return b.date.localeCompare(a.date); });
+        filtered.forEach(function(e) {
+          var cls = catClass[e.category] || 'war';
+          html += '<article class="card card-' + cls + '">' +
+            '<div class="year">' + e.date.slice(0, 4) + '</div>' +
+            '<h3>' + e.title + '</h3>' +
+            '<div class="meta-line">' + e.location + ' · <span class="badge badge-' + cls + '">' + (catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
+            '<p>' + e.description + '</p>' +
+            '<div class="sources">Sources: ' + e.sources.join(' · ') + '</div>' +
+            '</article>';
+        });
+        container.innerHTML = html;
+      }
+
+      renderEvents('all');
+
+      document.querySelectorAll('#event-filters .filter-chip').forEach(function(chip) {
+        chip.addEventListener('click', function() {
+          document.querySelectorAll('#event-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
+          this.classList.add('active');
+          renderEvents(this.dataset.filter);
+        });
+      });
+    })
+    .catch(function() {
+      document.getElementById('events-container').innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
+    });
+})();
+</script>
+</body>
+</html>

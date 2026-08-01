@@ -1,0 +1,15 @@
+{
+  "events": {
+    "last_date": "2026-08-01",
+    "total": 536
+  },
+  "promises": {
+    "last_date": "2026-08-01",
+    "total": 305
+  },
+  "last_updated": "2026-08-01T00:45:00Z",
+  "update_policy": "daily-incremental",
+  "promises_expansion": {
+    "last_focus": "leaders"
+  }
+}

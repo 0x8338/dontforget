@@ -1,0 +1,295 @@
+[
+  {
+    "person": "Dennis Muilenburg",
+    "role": "CEO, Boeing",
+    "promise": "737 MAX would be back in the skies by year end (2019), later revised to mid-2020",
+    "date_promised": "2019-10-23",
+    "due_date": "2020-06-30",
+    "status": "partial",
+    "description": "Muilenburg told investors and airlines on 23 October 2019 that the grounded 737 MAX would return to service by the end of the year. After the FAA called the forecast unrealistic, Boeing revised the target to mid-2020 on 21 January 2020. The FAA lifted the grounding on 18 November 2020 and US airlines resumed flights in December 2020, months after every stated target; Muilenburg had been dismissed in December 2019.",
+    "evidence": [
+      "FAA approval came 18 November 2020, not year-end 2019 or mid-2020",
+      "Muilenburg was fired on 23 December 2019"
+    ],
+    "sources": [
+      "AeroTime (https://www.aerotime.aero/articles/24475-boeing-return-to-service-update)",
+      "NPR (https://www.npr.org/2020/01/21/798312515/boeing-737-max-may-stay-grounded-into-summer)",
+      "Puget Sound Business Journal (https://www.bizjournals.com/seattle/news/2020/10/20/the-maxs-many-returns.html)"
+    ]
+  },
+  {
+    "person": "Elizabeth Holmes",
+    "role": "CEO, Theranos",
+    "promise": "Theranos would run up to 200 blood tests from a single finger-prick, with results in under four hours, ready to launch with Walgreens by September 2013",
+    "date_promised": "2013-01-01",
+    "due_date": "2013-09-30",
+    "status": "broken",
+    "description": "Theranos marketed a device claimed to run over 200 diagnostic tests on a few drops of blood and launched testing in Walgreens stores in September 2013. Investigations showed most tests were run on modified commercial analyzers and that the proprietary technology did not work as claimed. Holmes was convicted of investor fraud in 2022 after a jury found she knowingly made false statements about the technology.",
+    "evidence": [
+      "2015 Wall Street Journal investigation found tests were run largely on modified third-party machines",
+      "Holmes convicted on four counts of investor fraud, January 2022"
+    ],
+    "sources": [
+      "BMJ (https://www.bmj.com/content/376/bmj.o178)",
+      "Gizmodo (https://gizmodo.com/the-makers-of-that-miracle-needle-free-blood-test-are-1738057269)",
+      "US Court of Appeals for the Ninth Circuit case filings"
+    ]
+  },
+  {
+    "person": "Trevor Milton",
+    "role": "Founder and CEO, Nikola Corporation",
+    "promise": "Nikola Badger pickup would enter production in 2022 or earlier, with the truck built from the ground up by Nikola",
+    "date_promised": "2020-06-09",
+    "due_date": "2022-12-31",
+    "status": "broken",
+    "description": "Milton repeatedly said the Badger pickup, announced alongside a partnership with General Motors, would reach production in 2022 or earlier and that Nikola had engineered the vehicle itself. Federal prosecutors later alleged the statements were false; the GM partnership collapsed in late 2020, the Badger was cancelled, and Nikola never produced the truck. Milton was convicted of fraud in 2022.",
+    "evidence": [
+      "US DOJ indictment (July 2021) alleged false statements about the Badger and its reservations",
+      "GM deal collapsed November 2020; Badger cancelled; no production vehicles ever built"
+    ],
+    "sources": [
+      "US DOJ (https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)",
+      "Reuters via Daily Mail (2020-06-09)"
+    ]
+  },
+  {
+    "person": "Steve Burns",
+    "role": "CEO, Lordstown Motors",
+    "promise": "Endurance electric pickup would begin production in September 2021, with deliveries starting the same month",
+    "date_promised": "2020-11-16",
+    "due_date": "2021-09-30",
+    "status": "partial",
+    "description": "Lordstown repeatedly told investors it was on track to start production of the Endurance in September 2021, even after Burns resigned in June 2021. Production did not begin in September 2021; limited production started only after a 2022 Foxconn agreement, and the company filed for Chapter 11 bankruptcy in June 2023 with only a small number of trucks delivered.",
+    "evidence": [
+      "No production began in September 2021; company acknowledged needing capital in May 2021",
+      "Chapter 11 filing June 2023 after limited 2022 production"
+    ],
+    "sources": [
+      "GlobeNewswire (https://www.globenewswire.com/en/news-release/2020/11/16/2127140/0/en/Lordstown-Motors-Releases-Business-Updates-Remains-on-Track-to-Begin-Production-of-the-Lordstown-Endurance-in-September-2021.html)",
+      "Yahoo Autos (https://autos.yahoo.com/lordstown-promises-endurance-ev-pickup-140000045.html)",
+      "Reuters, June 2023"
+    ]
+  },
+  {
+    "person": "Do Kwon",
+    "role": "Co-founder, Terraform Labs",
+    "promise": "TerraUSD (UST) would always trade at $1, supported by billions of dollars in bitcoin reserves",
+    "date_promised": "2022-03-20",
+    "due_date": "2022-05-31",
+    "status": "broken",
+    "description": "Kwon promoted UST as a stablecoin that would hold its dollar peg, backed in part by a bitcoin reserve that the Luna Foundation Guard built up to about $3.5 billion. When UST depegged in May 2022, the foundation sold roughly 52,000 bitcoins trying to defend the peg; UST fell to about 9 cents and the Terra ecosystem collapsed. Kwon was later held liable for fraud by US regulators.",
+    "evidence": [
+      "UST fell to ~$0.09 in May 2022 after weeks of trading below $1",
+      "Luna Foundation Guard moved 52,189 BTC to counterparties during the collapse"
+    ],
+    "sources": [
+      "CNBC (https://www.cnbc.com/2022/05/09/what-is-terrausd-ust-and-how-does-it-affect-bitcoin.html)",
+      "NBC News (https://www.nbcwashington.com/news/business/money-report/3-billion-in-bitcoin-was-sold-in-a-last-ditch-attempt-to-save-ust-stablecoin/3052446/)"
+    ]
+  },
+  {
+    "person": "Alex Mashinsky",
+    "role": "CEO, Celsius Network",
+    "promise": "Celsius customers could withdraw their crypto at any time and their funds were safe",
+    "date_promised": "2022-06-12",
+    "due_date": "2022-06-30",
+    "status": "broken",
+    "description": "Hours before Celsius halted withdrawals on 12 June 2022, Mashinsky posted on Twitter that there was no issue withdrawing from the platform, and the company had long claimed deposits were available at any time. Celsius froze withdrawals that same night and filed for Chapter 11 bankruptcy in July 2022; Mashinsky was later charged with fraud over misleading customers about the platform's safety.",
+    "evidence": [
+      "Withdrawals halted the night of 12 June 2022, hours after Mashinsky's assurance",
+      "Celsius filed Chapter 11 on 13 July 2022"
+    ],
+    "sources": [
+      "Bloomberg (https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
+      "US Bankruptcy Court for the Southern District of New York filings"
+    ]
+  },
+  {
+    "person": "Jeff Immelt",
+    "role": "CEO, General Electric",
+    "promise": "GE would earn $2 per share in operating earnings by 2018",
+    "date_promised": "2015-05-20",
+    "due_date": "2018-12-31",
+    "status": "broken",
+    "description": "At GE's 2015 investor meeting, Immelt set a target of $2 in operating earnings per share by 2018, which he also linked to a higher stock price. By May 2017 analysts described the target as a stretch, and GE's 2018 results fell far short: the company reported heavy losses and an adjusted operating EPS well below $2, cut its dividend, and was removed from the Dow Jones Industrial Average in June 2018.",
+    "evidence": [
+      "GE reported a net loss in 2018 and adjusted EPS far below the $2 target",
+      "GE cut its dividend and was dropped from the Dow in 2018"
+    ],
+    "sources": [
+      "Nasdaq / Motley Fool (https://www.nasdaq.com/articles/5-takeaways-general-electric-companys-latest-presentation-2017-05-31)"
+    ]
+  },
+  {
+    "person": "Jeff Bezos",
+    "role": "CEO, Amazon",
+    "promise": "Prime Air would deliver packages by drone in 30 minutes or less, starting within four to five years",
+    "date_promised": "2013-12-01",
+    "due_date": "2018-12-31",
+    "status": "broken",
+    "description": "On CBS '60 Minutes' in December 2013, Bezos unveiled Prime Air and predicted drone deliveries within four to five years, i.e. around 2018. Commercial 30-minute drone delivery had not launched by that deadline; Amazon ran only limited trial services starting in 2022, with a small Prime Air program in California and Texas in 2024.",
+    "evidence": [
+      "No commercial Prime Air deliveries by 2018; AP reported the blown deadline in December 2018",
+      "Limited drone trials began only in 2022-2024"
+    ],
+    "sources": [
+      "AP via Daily Mail (2018-12-02)",
+      "Nasdaq / Motley Fool (2018-03-15)"
+    ]
+  },
+  {
+    "person": "Carlos Ghosn",
+    "role": "CEO, Renault-Nissan Alliance",
+    "promise": "The alliance would sell 1.5 million electric vehicles cumulatively by 2016",
+    "date_promised": "2011-03-01",
+    "due_date": "2016-12-31",
+    "status": "broken",
+    "description": "Ghosn predicted in 2011 that Renault-Nissan would sell 1.5 million electric vehicles by 2016, a target reiterated through 2013. By mid-2015 cumulative sales had passed only about 250,000 units, and Ghosn himself acknowledged in November 2013 that the goal would be missed by a wide margin.",
+    "evidence": [
+      "Cumulative EV sales around 250,000 by mid-2015, far below the 1.5 million pace",
+      "Ghosn admitted the 2016 target would be missed (November 2013)"
+    ],
+    "sources": [
+      "The Guardian (https://www.theguardian.com/environment/2015/jul/01/are-we-on-the-brink-of-an-electric-car-revolution)",
+      "NBC News (2013-11-10)",
+      "Autoblog (2013-11-12)"
+    ]
+  },
+  {
+    "person": "Richard Branson",
+    "role": "Founder, Virgin Galactic",
+    "promise": "Virgin Galactic would begin commercial space tourism flights in 2020",
+    "date_promised": "2019-06-30",
+    "due_date": "2020-12-31",
+    "status": "kept (delayed)",
+    "description": "After years of delays, Virgin Galactic targeted commercial space tourism in 2020; by December 2020 the company said flights would begin in 2021. The first commercial mission, Galactic 01, flew three paying Italian customers to the edge of space on 29 June 2023, roughly three years after the stated target.",
+    "evidence": [
+      "Galactic 01 commercial flight took place 29 June 2023",
+      "BBC reported in December 2020 that flights would begin in 2021"
+    ],
+    "sources": [
+      "BBC News (https://www.bbc.com/news/science-environment-55279067)",
+      "AeroTime (https://www.aerotime.aero/articles/virgin-galactic-completes-its-first-commercial-flight)"
+    ]
+  },
+  {
+    "person": "Ginni Rometty",
+    "role": "CEO, IBM",
+    "promise": "IBM would return to revenue growth in 2017",
+    "date_promised": "2017-01-01",
+    "due_date": "2017-12-31",
+    "status": "partial",
+    "description": "Rometty promised investors that IBM would return to revenue growth as its strategic imperatives scaled. IBM grew in the fourth quarter of 2017, but full-year 2017 revenue still declined slightly year over year (roughly $79.1 billion versus about $79.9 billion in 2016); sustained full-year growth resumed only in 2018.",
+    "evidence": [
+      "Q4 2017 returned to growth, but FY2017 revenue was still down ~1%",
+      "IBM reported full-year revenue growth again in 2018"
+    ],
+    "sources": [
+      "Silicon Republic (2017-04-18)",
+      "Silicon.co.uk (https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
+    ]
+  },
+  {
+    "person": "Meg Whitman",
+    "role": "CEO, Hewlett-Packard",
+    "promise": "HP revenue would stabilize in 2014, with growth accelerating again in 2015",
+    "date_promised": "2013-10-01",
+    "due_date": "2015-12-31",
+    "status": "partial",
+    "description": "Whitman told investors in late 2013 to expect revenue stability in 2014 with pockets of growth before acceleration in 2015. HP posted quarterly revenue growth in the second half of fiscal 2014, but full-year fiscal 2014 revenue was roughly flat or slightly down, and the 2015 plan was overtaken by the company's split into HP Inc. and Hewlett Packard Enterprise.",
+    "evidence": [
+      "Q3 and Q4 FY2014 quarterly revenue grew year over year",
+      "Full-year FY2014 revenue still declined slightly; 2015 split disrupted the growth plan"
+    ],
+    "sources": [
+      "Fox Business (2013)",
+      "New York Times (http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
+    ]
+  },
+  {
+    "person": "Eddie Lampert",
+    "role": "CEO, Sears Holdings",
+    "promise": "Sears would return to profitability",
+    "date_promised": "2015-05-06",
+    "due_date": "2016-12-31",
+    "status": "partial",
+    "description": "At the 6 May 2015 shareholder meeting, Lampert vowed that Sears would eventually be profitable. The company reported its first quarterly profit under Lampert in August 2015 (about $155-205 million for the quarter ending 1 August 2015), but annual losses continued every year, and Sears Holdings filed for Chapter 11 bankruptcy in October 2018.",
+    "evidence": [
+      "First quarterly profit under Lampert reported August 2015",
+      "Annual net losses continued; Chapter 11 filing October 2018"
+    ],
+    "sources": [
+      "WWD (https://wwd.com/business-news/retail/feature/edward-lamperts-sears-profitable-10125012/)",
+      "Forbes (https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/)"
+    ]
+  },
+  {
+    "person": "Steve Jobs",
+    "role": "CEO, Apple",
+    "promise": "Every iPhone 4 user would get a free case (or refund) until at least 30 September 2010",
+    "date_promised": "2010-07-16",
+    "due_date": "2010-09-30",
+    "status": "kept",
+    "description": "At a 16 July 2010 press conference addressing iPhone 4 antenna reception problems, Jobs announced that Apple would give every iPhone 4 buyer a free case or bumper through 30 September 2010 and offered full refunds within 30 days to customers who remained unhappy. Apple delivered the free cases as announced and honored the refund window.",
+    "evidence": [
+      "Free bumper program ran through 30 September 2010 as announced",
+      "Apple also offered full refunds within 30 days"
+    ],
+    "sources": [
+      "BBC News (https://www.bbc.co.uk/news/technology-10665424)",
+      "UPI (2010-07-16)",
+      "PCMag (https://uk.pcmag.com/news/98220/apple-promises-free-bumpers-cases-for-iphone-4-buyers)"
+    ]
+  },
+  {
+    "person": "Kevin Johnson",
+    "role": "CEO, Starbucks",
+    "promise": "Starbucks would eliminate single-use plastic straws from all stores globally by 2020",
+    "date_promised": "2018-07-09",
+    "due_date": "2020-12-31",
+    "status": "partial",
+    "description": "Starbucks announced in July 2018 that it would eliminate single-use plastic straws from its more than 28,000 stores worldwide by 2020, replacing them with strawless lids and alternative materials. The company completed the strawless-lid rollout across the US and Canada in September 2020, but the global phase-out continued beyond the 2020 deadline in many markets.",
+    "evidence": [
+      "US and Canada rollout of strawless lids completed September 2020",
+      "Global elimination extended past 2020 in other markets"
+    ],
+    "sources": [
+      "Starbucks Stories (https://stories.starbucks.com/press/2018/starbucks-to-eliminate-plastic-straws-globally-by-2020/)",
+      "Starbucks Stories (https://stories.starbucks.com/press/2020/starbucks-strawless-lids-now-available-across-the-u-s-and-canada/)"
+    ]
+  },
+  {
+    "person": "Volkswagen Group (Martin Winterkorn)",
+    "role": "CEO, Volkswagen Group",
+    "promise": "Become the world's largest automaker by 2018 (Strategy 2018)",
+    "date_promised": "2007-01-01",
+    "due_date": "2018-12-31",
+    "status": "kept",
+    "description": "Volkswagen's Strategy 2018, launched in 2007 under CEO Martin Winterkorn, aimed to make VW the world's largest automaker by unit sales by 2018. After the 2015 diesel emissions scandal, management publicly disavowed the goal, but the group nonetheless overtook Toyota in 2016, selling 10.3 million vehicles versus Toyota's 10.2 million, and retained the sales crown in 2017.",
+    "evidence": [
+      "VW became the world's best-selling automaker in 2016 (10.3M vs Toyota 10.2M vehicles)",
+      "VW retained the top spot in 2017, ahead of the 2018 deadline"
+    ],
+    "sources": [
+      "Autocar (https://open.em.autocar.co.uk/car-news/business/volkswagen-overtakes-toyota-worlds-best-selling-car-maker)",
+      "Quartz (https://qz.com/897951/volkswagen-has-overtaken-toyota-to-become-the-worlds-biggest-carmaker)"
+    ]
+  },
+  {
+    "person": "Adam Neumann",
+    "role": "Co-founder, WeWork",
+    "promise": "WeWork would be profitable by the end of 2021",
+    "date_promised": "2021-03-25",
+    "due_date": "2021-12-31",
+    "status": "broken",
+    "description": "WeWork projected in its March 2021 SPAC filing that it would be profitable by the end of 2021, a forecast analysts called aggressive. The company went public via SPAC at about $9 billion, far below the $47 billion valuation of 2019, remained loss-making through 2021 and 2022, and filed for Chapter 11 bankruptcy protection in November 2023.",
+    "evidence": [
+      "WeWork was still loss-making at the end of 2021",
+      "Chapter 11 filing November 2023"
+    ],
+    "sources": [
+      "Business Insider (https://www.businessinsider.com/wework-occupacy-projections-profitability-spac-going-public-flex-office-space-2021-4)",
+      "Crunchbase News (https://news.crunchbase.com/public/wework-to-go-public-via-spac/)"
+    ]
+  }
+]
