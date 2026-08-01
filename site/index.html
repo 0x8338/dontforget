@@ -43,10 +43,6 @@
     </div>
   </div>
 
-  <div id="load-more-wrap" hidden>
-    <button id="load-more" class="load-more" type="button">Load earlier years</button>
-  </div>
-
 </main>
 
 <footer>
@@ -83,14 +79,9 @@
   };
 
   var container = document.getElementById('events-container');
-  var loadMoreWrap = document.getElementById('load-more-wrap');
-  var loadMoreBtn = document.getElementById('load-more');
   var windowsList = [];
   var loadedEvents = [];
-  var nextWindow = 0;
   var currentFilter = 'all';
-  var observer = null;
-  var loading = false;
 
   function renderEvents(filter) {
     var html = '';
@@ -99,9 +90,9 @@
     document.getElementById('lives-total').textContent = livesTotal > 0 ? '~' + livesTotal.toLocaleString() : '—';
 
     if (filtered.length === 0) {
-      var note = nextWindow >= windowsList.length
+      var note = loadedEvents.length === 0
         ? 'Nothing recorded for this date. The archive is incomplete — absence here is not absence in the world.'
-        : 'No events for the years loaded so far. Load earlier years to keep looking.';
+        : 'No events in this category for this date.';
       container.innerHTML = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;letter-spacing:0.02em;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;line-height:1.6;max-width:28rem;margin:0 auto;">' + note + '</div></div>';
       return;
     }
@@ -118,60 +109,37 @@
     container.innerHTML = html;
   }
 
-  function loadWindow() {
-    if (loading) return;
-    if (nextWindow >= windowsList.length) {
+  function loadEvents() {
+    var relevant = windowsList.filter(function(w) { return w.days && w.days[today]; });
+    if (relevant.length === 0) {
       renderEvents(currentFilter);
-      updateLoadMore();
       return;
     }
-    loading = true;
-    loadMoreBtn.textContent = 'Loading…';
-    fetch('_data/' + windowsList[nextWindow].file)
-      .then(function(r) { return r.json(); })
-      .then(function(windowEvents) {
-        loading = false;
-        loadedEvents = loadedEvents.concat(windowEvents.filter(function(e) { return e.date.slice(5) === today; }));
-        nextWindow += 1;
-        loadMoreBtn.textContent = 'Load earlier years';
-        renderEvents(currentFilter);
-        updateLoadMore();
-      })
-      .catch(function() {
-        loading = false;
-        loadMoreBtn.textContent = 'Load earlier years';
-        updateLoadMore();
-        if (loadedEvents.length === 0) {
-          container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
-        }
-      });
-  }
-
-  function updateLoadMore() {
-    var more = nextWindow < windowsList.length;
-    loadMoreWrap.hidden = !more;
-    if (!more) {
-      if (observer) observer.disconnect();
-      return;
+    var remaining = relevant.slice();
+    function next() {
+      if (remaining.length === 0) return;
+      var w = remaining.shift();
+      fetch('_data/' + w.file)
+        .then(function(r) { return r.json(); })
+        .then(function(items) {
+          loadedEvents = loadedEvents.concat(items.filter(function(e) { return e.date.slice(5) === today; }));
+          renderEvents(currentFilter);
+          next();
+        })
+        .catch(function() {
+          if (loadedEvents.length === 0) {
+            container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
+          }
+        });
     }
-    if (observer) {
-      observer.observe(loadMoreWrap);
-      return;
-    }
-    if ('IntersectionObserver' in window) {
-      observer = new IntersectionObserver(function(entries) {
-        if (!loading && entries[0].isIntersecting) loadWindow();
-      }, { rootMargin: '300px' });
-      observer.observe(loadMoreWrap);
-    }
+    next();
   }
 
   fetch('_data/events/index.json')
     .then(function(r) { return r.json(); })
     .then(function(index) {
       windowsList = index.windows || [];
-      loadMoreBtn.addEventListener('click', loadWindow);
-      loadWindow();
+      loadEvents();
     })
     .catch(function() {
       container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';

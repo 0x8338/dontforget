@@ -45,10 +45,6 @@
     </div>
   </div>
 
-  <div id="load-more-wrap" hidden>
-    <button id="load-more" class="load-more" type="button">Show more months</button>
-  </div>
-
 </main>
 
 <footer>
@@ -61,13 +57,9 @@
   var statusMark = { kept: '&#10003;', broken: '&#10007;', partial: '&#9675;', pending: '&#9675;' };
   var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   var container = document.getElementById('promises-container');
-  var loadMoreWrap = document.getElementById('load-more-wrap');
-  var loadMoreBtn = document.getElementById('load-more');
   var monthsList = [];
   var loadedPromises = [];
   var nextMonth = 0;
-  var PAGE = 3;
-  var initialBatch = 3;
   var currentFilter = 'all';
 
   function renderPromises(filter) {
@@ -100,31 +92,20 @@
     });
     if (!html) html = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No promises in this category.</div></div>';
     container.innerHTML = html;
-    loadMoreWrap.hidden = nextMonth >= monthsList.length;
   }
 
-  function loadMonths() {
-    if (nextMonth >= monthsList.length) {
-      renderPromises(currentFilter);
-      return;
-    }
-    loadMoreBtn.textContent = 'Loading…';
+  function loadNextMonth() {
+    if (nextMonth >= monthsList.length) return;
     var month = monthsList[nextMonth];
     nextMonth += 1;
     fetch('../_data/' + month.file)
       .then(function(r) { return r.json(); })
       .then(function(items) {
         loadedPromises = loadedPromises.concat(items);
-        loadMoreBtn.textContent = 'Show more months';
         renderPromises(currentFilter);
-        // Keep fetching the initial batch one at a time, rendering as each arrives.
-        if (initialBatch > 1) {
-          initialBatch -= 1;
-          loadMonths();
-        }
+        loadNextMonth();
       })
       .catch(function() {
-        loadMoreBtn.textContent = 'Show more months';
         if (loadedPromises.length === 0) {
           container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
         }
@@ -146,8 +127,7 @@
       document.getElementById('stat-pending').className = 'stat-num pending';
 
       monthsList = (index.months || []).filter(function(m) { return m.due; });
-      loadMoreBtn.addEventListener('click', loadMonths);
-      loadMonths();
+      loadNextMonth();
     })
     .catch(function() {
       container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';

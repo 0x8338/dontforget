@@ -35,9 +35,13 @@ windows = []
 for start in range(2000, max_year + 1, 5):
     end = min(start + 4, max_year)
     items = [e for e in all_events if start <= int(e["date"][:4]) <= end]
+    days = {}
+    for e in items:
+        day = e["date"][5:]
+        days[day] = days.get(day, 0) + 1
     key = f"{start}-{end}"
     (EVENTS_DIR / f"{key}.json").write_text(json.dumps(items, ensure_ascii=False, indent=1))
-    windows.append({"key": key, "file": f"events/{key}.json", "count": len(items)})
+    windows.append({"key": key, "file": f"events/{key}.json", "count": len(items), "days": days})
 
 windows.sort(key=lambda w: w["key"], reverse=True)
 (EVENTS_DIR / "index.json").write_text(json.dumps({"windows": windows}, ensure_ascii=False, indent=2))

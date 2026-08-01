@@ -139,6 +139,9 @@ if events_index.exists():
     check(total == len(all_events), f"events split index count {total} != {len(all_events)}")
     for w in idx.get("windows", []):
         check((BASE / w["file"]).exists(), f"missing events split file {w['file']}")
+        if w.get("days"):
+            check(sum(w["days"].values()) == w.get("count"),
+                  f"events split days mismatch in window {w['key']}")
 
 promises_index = BASE / "promises" / "index.json"
 if promises_index.exists():
