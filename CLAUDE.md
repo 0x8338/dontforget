@@ -5,11 +5,10 @@ Daily calendar of lives taken by violence and disaster since 2000, plus public p
 
 ## Update workflow
 - `_data/checkpoint.json` has `events.last_date` and `promises.last_date`
-- **Events** = collect from last_date+1d to today UTC. Single agent. Advance checkpoint on success.
-- Never batch-process already-covered dates. Checkpoint prevents gaps if a day is skipped.
-- **Promises expansion runs on EVERY update.** Each run does both: (1) check for new commitments/status changes since `promises.last_date`; (2) research NEW untracked promises — add 3–10 verified entries per run, rotating focus across leaders / CEOs / international orgs (see EXECUTION_PLAN.md). This keeps the dataset growing even on quiet news days.
-- Promise quality gates: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, no duplicates vs existing (person + promise prefix).
-- Run `python3 site/_data/validate.py` after every update; fix errors before advancing the checkpoint.
+1. **Events:** collect from last_date+1d to today UTC, append verified events, advance `events.last_date`. Never batch-process already-covered dates; checkpoint prevents gaps if a day is skipped.
+2. **Promises:** expansion runs on EVERY update — check for new commitments/status changes since `promises.last_date`, plus research 3–10 NEW untracked promises, rotating focus across leaders / CEOs / international orgs (see EXECUTION_PLAN.md). Advance `promises.last_date`. Quality gates: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, no duplicates vs existing (person + promise prefix).
+3. **Validate:** run `python3 site/_data/validate.py`; fix errors before proceeding.
+4. **Commit & push if changed:** if `events.json`, `promises.json`, or `checkpoint.json` changed, commit with a UTC timestamp in the message (e.g. `data: 2026-08-01T01:10:00Z — events +4, promises +4`) and push to origin (`0x8338/dontforget`, branch `main`). If a same-day re-run changes nothing, skip the commit.
 
 ## Data models
 

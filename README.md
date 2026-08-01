@@ -20,4 +20,4 @@ UTC for everything. Each event has ≥2 public sources. No commentary — what h
 | Lives | ~4.2M | — |
 | Range | 2000–2026 | 2000–2026 |
 
-Updated daily via agent — events plus promise expansion. Checkpoint prevents gaps if a day is skipped.
+Updated daily via agent — events plus promise expansion. Each change is validated, committed with a UTC timestamp, and pushed to the repo. Checkpoint prevents gaps if a day is skipped.

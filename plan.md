@@ -7,6 +7,6 @@
 - [x] Checkpoint: daily incremental updates, no gap risk
 
 ## Ongoing
-- [ ] Daily event updates (single agent, from checkpoint+1d to today)
-- [ ] Promises expansion with every daily update (rotate leaders / CEOs / orgs)
+- [x] Daily update workflow: events + promises, validate, timestamped commit & push
+- [ ] Daily updates actually running every day
 - [ ] Custom domain (buy → Settings → Pages → CNAME → enforce HTTPS)

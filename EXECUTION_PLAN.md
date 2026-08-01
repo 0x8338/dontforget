@@ -32,6 +32,16 @@ Set events.last_date = today
 
 Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix).
 
+### Finish: validate, commit, push
+
+After the events + promises update:
+
+1. Run `python3 site/_data/validate.py`; fix errors before continuing.
+2. If `events.json`, `promises.json`, or `checkpoint.json` changed, commit with a UTC timestamp:
+   `git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) — events +N, promises +M"`
+3. Push to origin: `git push origin main` (repo: `0x8338/dontforget`).
+4. If a same-day re-run produced no changes, skip the commit.
+
 ## Historical Backfill (one-time, already done)
 
 2000-2026 fully populated (536 events, 273 dates). No backfill needed.
