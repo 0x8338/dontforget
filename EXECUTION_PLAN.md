@@ -44,6 +44,8 @@ After the events + promises update:
 4. Push to origin: `git push origin main` (repo: `0x8338/dontforget`).
 5. If a same-day re-run produced no changes, skip the commit.
 
+Page loading: the homepage reads the events window manifest (`events/index.json`) and fetches only windows whose `days` map contains the displayed date; the promises page streams due-month files one by one. Both render incrementally and have no load-more buttons.
+
 ## Historical Backfill (one-time, already done)
 
 2000-2026 fully populated (536 events, 273 dates). No backfill needed.

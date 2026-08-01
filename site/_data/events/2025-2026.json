@@ -58,12 +58,12 @@
   "title": "Russian ballistic missile attack on Kyiv",
   "category": "war",
   "location": "Kyiv, Ukraine",
-  "lives_lost": 3,
-  "description": "Russian forces launched a ballistic missile attack on Kyiv shortly after midnight on 1 August local time, killing at least three people and injuring more than a dozen. Fires broke out across four districts and rescue operations continued through the night.",
+  "lives_lost": 9,
+  "description": "Russian forces launched a ballistic missile attack on Kyiv shortly after midnight on 1 August local time, killing at least nine people and injuring more than 20, including children. Fires broke out across four districts and rescue operations continued through the night.",
   "sources": [
+   "AFP",
    "Kyiv Post",
-   "Kyiv Independent",
-   "The New Voice of Ukraine"
+   "Vanguard"
   ]
  },
  {
@@ -77,6 +77,19 @@
    "PTI",
    "All India Radio News",
    "The Telegraph India"
+  ]
+ },
+ {
+  "date": "2026-07-31",
+  "title": "Calabar flood and landslide crisis",
+  "category": "natural-disaster",
+  "location": "Calabar, Cross River State, Nigeria",
+  "lives_lost": 10,
+  "description": "Weeks of torrential rain in July 2026 caused flooding and landslides across Calabar, killing at least 10 people, including a baby swept away by floodwater and a father buried in mud. The rains destroyed homes, triggered landslides that killed families, and cut off access roads; the toll was cumulative through the end of July.",
+  "sources": [
+   "Vanguard",
+   "Premium Times",
+   "Newsweek Nigeria"
   ]
  },
  {

@@ -1,0 +1,16 @@
+[
+ {
+  "person": "Haruhiko Kuroda",
+  "role": "BOJ Governor",
+  "promise": "April 4, 2013 QQE launch: achieve the 2% CPI target 'at the earliest possible time, with a time horizon of about two years'",
+  "date_promised": "2020-01-01",
+  "due_date": "2015-04-28",
+  "status": "broken",
+  "description": "Core CPI averaged ~0.5% in 2015 (negative for part of the year); 2% inflation was not sustainedly reached until 2022-2024",
+  "evidence": [],
+  "sources": [
+   "BOJ announcement 'Introduction of Quantitative and Qualitative Monetary Easing', Apr 4, 2013,",
+   "BOJ CPI statistics"
+  ]
+ }
+]

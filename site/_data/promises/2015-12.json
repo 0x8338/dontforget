@@ -34,6 +34,34 @@
   ]
  },
  {
+  "person": "Janet Yellen",
+  "role": "Fed Chair",
+  "promise": "Sept 17, 2015 FOMC statement: 'most participants currently expect that it will be appropriate to raise the target range... by the end of the year' (first hike since 2006)",
+  "date_promised": "2020-01-01",
+  "due_date": "2015-12-28",
+  "status": "kept",
+  "description": "Rates raised 25bp on Dec 16, 2015",
+  "evidence": [],
+  "sources": [
+   "FOMC statement, Sep 17, 2015, federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
+   "FOMC statement"
+  ]
+ },
+ {
+  "person": "Wolfgang Schäuble",
+  "role": "German Finance Minister",
+  "promise": "2013-2014: Germany would take on no new net federal debt from 2015 (the 'Schwarze Null' balanced-budget pledge)",
+  "date_promised": "2020-01-01",
+  "due_date": "2015-12-31",
+  "status": "kept",
+  "description": "Federal budget balanced in 2014 (first time since 1969) and maintained through 2019",
+  "evidence": [],
+  "sources": [
+   "Reuters reporting of Schäuble's balanced-budget pledge, 2013",
+   "German federal budget documents, 2014-2015"
+  ]
+ },
+ {
   "person": "Meg Whitman",
   "role": "CEO, Hewlett-Packard",
   "promise": "HP revenue would stabilize in 2014, with growth accelerating again in 2015",

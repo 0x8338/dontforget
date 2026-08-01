@@ -350,6 +350,34 @@
   ]
  },
  {
+  "person": "Zhou Xiaochuan",
+  "role": "PBOC Governor",
+  "promise": "2015-2016: China would achieve 'basic RMB capital-account convertibility' within five years, codified as a goal of the 13th Five-Year Plan (2016-2020)",
+  "date_promised": "2020-01-01",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "After the Aug 2015 devaluation, capital controls were tightened instead (outflow curbs, QFII limits); full or even basic convertibility was not achieved by 2020",
+  "evidence": [],
+  "sources": [
+   "State Council 'Outline of the 13th Five-Year Plan', Mar 2016, gov.cn",
+   "Reuters coverage of PBOC convertibility goal, 2015-2016"
+  ]
+ },
+ {
+  "person": "Ray Dalio",
+  "role": "Bridgewater Associates founder",
+  "promise": "Feb-Mar 2019: the US economy would likely enter a recession 'by 2020' (within ~2 years) due to the business cycle",
+  "date_promised": "2020-01-01",
+  "due_date": "2020-12-28",
+  "status": "kept",
+  "description": "NBER dated the recession start to Feb 2020 (triggered by COVID-19, but on Dalio's stated timeline)",
+  "evidence": [],
+  "sources": [
+   "CNBC interview, Feb-Mar 2019",
+   "NBER Business Cycle Dating Committee, Jun 2020, nber.org"
+  ]
+ },
+ {
   "person": "Richard Branson",
   "role": "Founder, Virgin Galactic",
   "promise": "Virgin Galactic would begin commercial space tourism flights in 2020",

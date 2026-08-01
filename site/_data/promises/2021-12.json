@@ -148,6 +148,34 @@
   ]
  },
  {
+  "person": "Andrew Bailey",
+  "role": "BOE Governor",
+  "promise": "Feb 4, 2021 Monetary Policy Report: unemployment would peak at 7.75% in H2 2021 as furlough ended",
+  "date_promised": "2020-01-01",
+  "due_date": "2021-12-28",
+  "status": "broken",
+  "description": "Unemployment peaked at 5.1% (Q4 2020) and fell to ~4.1% by late 2021",
+  "evidence": [],
+  "sources": [
+   "BOE Monetary Policy Report, Feb 4, 2021,",
+   "ONS labour market statistics"
+  ]
+ },
+ {
+  "person": "Norwegian Ministry of Finance / Norges Bank",
+  "role": "Sovereign wealth fund",
+  "promise": "June 2019: GPFG would divest all oil & gas exploration/production stocks (~$7.5bn), to be executed 'gradually' starting immediately",
+  "date_promised": "2020-01-01",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Divestment completed by 2022; NBIM confirmed full exit from E&P sector in its 2022 reporting",
+  "evidence": [],
+  "sources": [
+   "Reuters, 'Norway's $1tn wealth fund to sell oil and gas stocks'",
+   "NBIM annual report 2022, nbim.no"
+  ]
+ },
+ {
   "person": "Adam Neumann",
   "role": "Co-founder, WeWork",
   "promise": "WeWork would be profitable by the end of 2021",

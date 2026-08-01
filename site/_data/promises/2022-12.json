@@ -227,6 +227,48 @@
   ]
  },
  {
+  "person": "Christine Lagarde",
+  "role": "ECB President",
+  "promise": "Oct 28, 2021 press conference: 'we are very unlikely to raise interest rates in 2022'",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-12-28",
+  "status": "broken",
+  "description": "ECB raised rates by 50bp on July 21, 2022 — first hike since 2011 — then 425bp more",
+  "evidence": [],
+  "sources": [
+   "ECB monetary policy statement/press conference, Oct 28, 2021,",
+   "ECB press release"
+  ]
+ },
+ {
+  "person": "Changpeng Zhao (CZ)",
+  "role": "Binance CEO",
+  "promise": "Nov-Dec 2022 (post-FTX collapse): Binance would publish proof of reserves and complete a full independent audit 'in coming weeks' (by end of 2022)",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-12-28",
+  "status": "broken",
+  "description": "Only partial self-reported Merkle-tree proof with Mazars' limited verification (Dec 7, 2022); Mazars suspended crypto work Dec 16, 2022 and no full audit was ever delivered",
+  "evidence": [],
+  "sources": [
+   "CZ tweets, Nov 2022; Binance PoR announcement",
+   "Reuters, 'Mazars pauses work for crypto firms including Binance'"
+  ]
+ },
+ {
+  "person": "Gary Gensler",
+  "role": "SEC Chair",
+  "promise": "May 2022: SEC would finalize its climate-disclosure rule 'by the end of the year' (2022)",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-12-28",
+  "status": "broken",
+  "description": "Final rule not adopted until Apr 2024, then stayed (2024) and formally rescinded by the SEC on Mar 27, 2025",
+  "evidence": [],
+  "sources": [
+   "Reuters/WSJ reports of Gensler's timing, May 2022",
+   "SEC press releases: final rule Apr 4, 2024 (sec.gov/newsroom/press-releases/2024-31); rescission Mar 27, 2025"
+  ]
+ },
+ {
   "person": "G7 leaders (Carbis Bay Summit)",
   "role": "G7 member states",
   "promise": "Donate 1 billion COVID-19 vaccine doses to poorer countries by the end of 2022",

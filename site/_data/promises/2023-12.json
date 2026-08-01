@@ -286,6 +286,34 @@
   ]
  },
  {
+  "person": "Jerome Powell",
+  "role": "Fed Chair",
+  "promise": "June 2021 SEP/dot plot: median dots showed policy rate staying near zero (0.1%) through end-2023, i.e., no rate hikes before 2024; Powell: 'we're not thinking about thinking about raising rates'",
+  "date_promised": "2020-01-01",
+  "due_date": "2023-12-28",
+  "status": "broken",
+  "description": "First hike came Mar 16, 2022 (25bp), with 425bp of hikes by end-2023",
+  "evidence": [],
+  "sources": [
+   "Fed SEP June 2021, federalreserve.gov/monetarypolicy/fomcprojtabl20210616.htm",
+   "FOMC decision"
+  ]
+ },
+ {
+  "person": "Jeremy Hunt",
+  "role": "UK Chancellor",
+  "promise": "Nov 17, 2022 Autumn Statement: government would 'halve inflation' by the end of 2023 (from 11.1% in Oct 2022 to ~5.5%)",
+  "date_promised": "2020-01-01",
+  "due_date": "2023-12-28",
+  "status": "kept",
+  "description": "CPI fell to 4.0% by Dec 2023 (Q4 2023 avg 4.2%) — better than the halving pledge",
+  "evidence": [],
+  "sources": [
+   "Autumn Statement 2022, Nov 17, 2022, gov.uk/government/publications/autumn-statement-2022",
+   "ONS CPI, Dec 2023"
+  ]
+ },
+ {
   "person": "COP28 parties (Loss and Damage Fund)",
   "role": "United Nations climate conference parties",
   "promise": "Operationalize the Loss and Damage Fund at COP28",

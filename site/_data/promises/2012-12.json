@@ -19,5 +19,33 @@
    "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference",
    "https://www.oecd.org/en/publications/climate-finance-in-2013-14-and-the-usd-100-billion-goal_9789264249424-en.html"
   ]
+ },
+ {
+  "person": "Mario Draghi",
+  "role": "ECB President",
+  "promise": "July 26, 2012, London speech: 'Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough'",
+  "date_promised": "2020-01-01",
+  "due_date": "2012-12-31",
+  "status": "kept",
+  "description": "OMT programme announced Sep 6, 2012; peripheral spreads collapsed and the euro was preserved",
+  "evidence": [],
+  "sources": [
+   "Draghi speech 'Global Investment Conference', Jul 26, 2012,",
+   "ECB OMT announcement"
+  ]
+ },
+ {
+  "person": "Timothy Geithner",
+  "role": "US Treasury Secretary",
+  "promise": "Jan 21, 2009 confirmation hearing: the administration would 'cut the deficit in half by the end of the president's first term'",
+  "date_promised": "2020-01-01",
+  "due_date": "2012-12-28",
+  "status": "broken",
+  "description": "FY2012 deficit was $1.09tn / 6.8% of GDP vs FY2009 $1.41tn / 9.8% — reduced by roughly a third, not half",
+  "evidence": [],
+  "sources": [
+   "Geithner Senate Finance Committee confirmation testimony",
+   "CBO historical budget data (2009-2012)"
+  ]
  }
 ]

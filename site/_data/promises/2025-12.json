@@ -717,5 +717,19 @@
    "https://en.wikipedia.org/wiki/Extinction_Rebellion",
    "https://rebellion.global/"
   ]
+ },
+ {
+  "person": "Cathie Wood",
+  "role": "ARK Invest CEO",
+  "promise": "Feb 2021 ARK TSLA model: base-case price target of $3,000/share for Tesla by 2025",
+  "date_promised": "2020-01-01",
+  "due_date": "2025-12-28",
+  "status": "broken",
+  "description": "Tesla closed 2025 at ~$400 (post-split; ~$1,200 on ARK's then-basis) — roughly 60-85% below target",
+  "evidence": [],
+  "sources": [
+   "ARK Invest analyst research, Feb 2021 (ark-invest.com)",
+   "NASDAQ/TSLA year-end closing price"
+  ]
  }
 ]

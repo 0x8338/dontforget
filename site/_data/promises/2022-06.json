@@ -54,6 +54,20 @@
   ]
  },
  {
+  "person": "Vitalik Buterin",
+  "role": "Ethereum co-founder",
+  "promise": "Ethereum 'Merge' (proof-of-stake transition) would be completed in Q2 2022 per the official roadmap",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-06-28",
+  "status": "kept (delayed)",
+  "description": "Merge executed Sept 15, 2022 — delivered after a ~3-month slip from the announced Q2 target",
+  "evidence": [],
+  "sources": [
+   "Ethereum Foundation blog, Feb 2022",
+   "ethereum.org upgrade timeline; CoinDesk, Jun 2022"
+  ]
+ },
+ {
   "person": "Alex Mashinsky",
   "role": "CEO, Celsius Network",
   "promise": "Celsius customers could withdraw their crypto at any time and their funds were safe",

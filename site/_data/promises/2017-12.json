@@ -67,6 +67,47 @@
   ]
  },
  {
+  "person": "Mark Carney",
+  "role": "BOE Governor",
+  "promise": "Nov 3, 2016 Inflation Report: if Brexit proceeded as planned, 2017 UK growth would slow to 0.4% (slowest in the G7) and unemployment would rise",
+  "date_promised": "2020-01-01",
+  "due_date": "2017-12-28",
+  "status": "broken",
+  "description": "UK GDP grew 1.7% in 2017; unemployment fell to ~4.3%",
+  "evidence": [],
+  "sources": [
+   "BOE Inflation Report, Nov 3, 2016,",
+   "ONS GDP/unemployment data 2017-18"
+  ]
+ },
+ {
+  "person": "Bruno Le Maire",
+  "role": "French Finance Minister",
+  "promise": "2017: France would bring its public deficit back below 3% of GDP in 2017 (after 3.4% in 2016)",
+  "date_promised": "2020-01-01",
+  "due_date": "2017-12-28",
+  "status": "kept",
+  "description": "Deficit came in at 2.9% of GDP in 2017, then 2.3% in 2018",
+  "evidence": [],
+  "sources": [
+   "INSEE public finance accounts, 2017-2018, insee.fr",
+   "Le Maire statements, 2017"
+  ]
+ },
+ {
+  "person": "Warren Buffett",
+  "role": "Investor, Berkshire Hathaway CEO",
+  "promise": "2007 bet with Protégé Partners: over Jan 1, 2008 - Dec 31, 2017, an S&P 500 index fund would beat a fund-of-funds portfolio of hedge funds",
+  "date_promised": "2020-01-01",
+  "due_date": "2017-12-28",
+  "status": "kept",
+  "description": "S&P 500 returned 125.8% cumulative (~7.1%/yr) vs 36.3% (~2.2%/yr) for the hedge funds; Buffett donated the $2.2m prize",
+  "evidence": [],
+  "sources": [
+   "Berkshire Hathaway 2017 annual shareholder letter, berkshirehathaway.com/letters/2017ltr.pdf"
+  ]
+ },
+ {
   "person": "Ginni Rometty",
   "role": "CEO, IBM",
   "promise": "IBM would return to revenue growth in 2017",

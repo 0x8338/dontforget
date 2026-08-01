@@ -96,6 +96,23 @@
   ]
  },
  {
+  "person": "Elon Musk",
+  "role": "CEO, xAI",
+  "promise": "\"xAI's ultimate goal is to understand the true nature of the universe.\"",
+  "date_promised": "2023-07-12",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "Open-ended mission statement from xAI's launch (July 12, 2023) — an explicit research goal, not a dated deliverable. No deadline was ever attached; the mission remains xAI's stated purpose as of 2026, so it is recorded as kept on a year-end assessment horizon.",
+  "evidence": [
+   "xAI launch announcement and FAQ (July 2023) defined the goal as 'understanding the universe'",
+   "Mission restated by Musk in xAI interviews through 2025 and remained xAI's stated purpose through 2026"
+  ],
+  "sources": [
+   "xAI launch materials (Jul 12, 2023)",
+   "Wikipedia: xAI"
+  ]
+ },
+ {
   "person": "Jensen Huang",
   "role": "CEO, NVIDIA",
   "promise": "\"There will be a new architecture every year\" — Rubin shipping in the second half of 2026, Rubin Ultra in 2027",

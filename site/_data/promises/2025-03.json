@@ -32,5 +32,19 @@
    "Nintendo IR Q&A, 2024-05-07",
    "Nintendo press release, 2025-01-16"
   ]
+ },
+ {
+  "person": "Nirmala Sitharaman",
+  "role": "Indian Finance Minister",
+  "promise": "Aug 2019: India would become a '$5 trillion economy' by 2024-25",
+  "date_promised": "2020-01-01",
+  "due_date": "2025-03-28",
+  "status": "broken",
+  "description": "FY2024-25 nominal GDP was roughly $4.0-4.3tn — well short of $5tn",
+  "evidence": [],
+  "sources": [
+   "Sitharaman remarks, Aug 2019",
+   "IMF World Economic Outlook, Oct 2025, imf.org"
+  ]
  }
 ]

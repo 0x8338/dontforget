@@ -1,0 +1,16 @@
+[
+ {
+  "person": "Basel Committee on Banking Supervision",
+  "role": "Global banking regulator",
+  "promise": "Dec 7, 2017: final Basel III reforms ('Basel IV') would be implemented 'as of 1 January 2022'",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-01-28",
+  "status": "broken",
+  "description": "Delayed to Jan 1, 2023 (Mar 2020, COVID), then Jan 1, 2025; the US still has not implemented as of end-2025 (July 2023 proposal targeted 2027-28; scaled back and redrafted in Dec 2025)",
+  "evidence": [],
+  "sources": [
+   "BIS press release, Dec 7, 2017, bis.org/press/p171207.htm",
+   "BIS Governors and Heads of Supervision statement, Mar 27, 2020, bis.org"
+  ]
+ }
+]

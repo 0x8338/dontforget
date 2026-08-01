@@ -1,0 +1,16 @@
+[
+ {
+  "person": "Steven Mnuchin",
+  "role": "US Treasury Secretary",
+  "promise": "April 26, 2017 (CNBC): tax reform would be completed 'by August' (2017 congressional recess)",
+  "date_promised": "2020-01-01",
+  "due_date": "2017-08-28",
+  "status": "broken",
+  "description": "Tax Cuts and Jobs Act not signed until Dec 22, 2017 — ~4 months past the promised deadline (delivered in substance)",
+  "evidence": [],
+  "sources": [
+   "Mnuchin CNBC interview",
+   "White House signing statement"
+  ]
+ }
+]

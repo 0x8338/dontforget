@@ -1,0 +1,16 @@
+[
+ {
+  "person": "George Osborne",
+  "role": "UK Chancellor",
+  "promise": "March 18, 2015 Budget: UK would run a budget surplus of £5.4bn in 2018-19 and ~£23bn by 2019-20",
+  "date_promised": "2020-01-01",
+  "due_date": "2020-03-28",
+  "status": "broken",
+  "description": "2019-20 ended in deficit (~2.5% of GDP, over £40bn of borrowing); surplus never delivered",
+  "evidence": [],
+  "sources": [
+   "OBR Economic and Fiscal Outlook, Mar 2015, obr.uk",
+   "ONS Public Sector Finances, 2019-20"
+  ]
+ }
+]

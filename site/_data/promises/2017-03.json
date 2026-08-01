@@ -1,0 +1,16 @@
+[
+ {
+  "person": "Arun Jaitley",
+  "role": "Indian Finance Minister",
+  "promise": "July 2014 Budget: FRBM consolidation path with fiscal deficit of 3.0% of GDP in 2016-17",
+  "date_promised": "2020-01-01",
+  "due_date": "2017-03-28",
+  "status": "broken",
+  "description": "Actual FY2016-17 deficit was 3.5% of GDP",
+  "evidence": [],
+  "sources": [
+   "Union Budget 2014-15, Jul 2014,",
+   "Controller General of Accounts fiscal data, FY 2016-17"
+  ]
+ }
+]

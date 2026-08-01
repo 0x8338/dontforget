@@ -1,0 +1,16 @@
+[
+ {
+  "person": "Ben Bernanke",
+  "role": "Fed Chairman",
+  "promise": "June 19, 2013: if the labor market improved as forecast, the Fed would 'moderate the monthly pace of purchases later this year' and 'likely conclude purchases around the middle of 2014' (QE3 taper guidance)",
+  "date_promised": "2020-01-01",
+  "due_date": "2014-12-31",
+  "status": "kept",
+  "description": "Taper announced Dec 18, 2013; QE3 asset purchases ended Oct 29, 2014",
+  "evidence": [],
+  "sources": [
+   "FOMC press conference transcript, Jun 19, 2013, federalreserve.gov/mediacenter/files/FOMCpresconf20130619.pdf",
+   "FOMC statement"
+  ]
+ }
+]
