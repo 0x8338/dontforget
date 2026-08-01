@@ -5,11 +5,11 @@
   },
   "promises": {
     "last_date": "2026-08-01",
-    "total": 305
+    "total": 308
   },
-  "last_updated": "2026-08-01T00:45:00Z",
+  "last_updated": "2026-08-01T01:15:00Z",
   "update_policy": "daily-incremental",
   "promises_expansion": {
-    "last_focus": "leaders"
+    "last_focus": "ceos"
   }
 }

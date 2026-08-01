@@ -3,7 +3,7 @@
 ## Done
 - [x] Site: UTC date detection, dark/light mode
 - [x] Events: 536 events, 2000-2026 dense, 273 dates
-- [x] Promises: 305 tracked, past-due grouped by month
+- [x] Promises: 308 tracked, past-due grouped by month
 - [x] Checkpoint: daily incremental updates, no gap risk
 
 ## Ongoing

@@ -1,11 +1,13 @@
 # dontforget
 
-Daily calendar of lives taken by violence and disaster since 2000. Plus: public promise tracking.
+A belief that some things shouldn't be forgotten.
+
+This is a quiet archive of lives taken by violence and disaster since 2000 — and of the promises the world made, kept, and broken along the way. Every event is recorded with care: dated, sourced from at least two public records, and written without commentary. The numbers exist so the people behind them are not forgotten.
 
 ## What it shows
 
-- **Today page** — lives taken on this date across history, loaded from 536 verified events
-- **Promises page** — 305 public commitments tracked, grouped by due date, with outcomes (kept/broken/partial)
+- **Today page** — lives taken on this date across history
+- **Promises page** — public commitments, grouped by due date, with outcomes (kept/broken/partial)
 
 ## How it works
 
@@ -15,7 +17,7 @@ UTC for everything. Each event has ≥2 public sources. No commentary — what h
 
 | | Events | Promises |
 |---|---|---|
-| Count | 536 | 305 |
+| Count | 536 | 308 |
 | Dates | 273 | — |
 | Lives | ~4.2M | — |
 | Range | 2000–2026 | 2000–2026 |

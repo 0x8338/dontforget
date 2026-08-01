@@ -5128,5 +5128,59 @@
    "The Morning (Sri Lanka)",
    "LankaLeader"
   ]
+ },
+ {
+  "person": "Larry Fink",
+  "role": "CEO, BlackRock",
+  "promise": "Achieve net zero across BlackRock by 2050 or sooner and launch investment products aligned to a net-zero pathway",
+  "date_promised": "2021-01-26",
+  "due_date": "2050-12-31",
+  "status": "partial",
+  "description": "In his January 2021 annual letter to CEOs and clients, Fink committed BlackRock to supporting a net-zero economy by 2050 or sooner, saying the firm would use its investment weight to press companies to cut carbon emissions and would introduce products with explicit temperature-alignment goals.",
+  "evidence": [
+   "Commitment made in the 2021 annual letter to CEOs",
+   "BlackRock continued to hold major fossil-fuel assets, making full achievement uncertain as of 2026"
+  ],
+  "sources": [
+   "New York Times",
+   "Business Insider",
+   "S&P Global"
+  ]
+ },
+ {
+  "person": "Jane Fraser",
+  "role": "CEO, Citigroup",
+  "promise": "Deploy $1 trillion in sustainable finance by 2030, including $500 billion for climate and $500 billion for health care and affordable housing",
+  "date_promised": "2021-04-21",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "At the Leaders Summit on Climate in April 2021, Fraser announced Citi's $1 trillion sustainable-finance goal for 2030, building on its earlier $500 billion climate-finance target. From 2020 through 2022 the bank reported $348.5 billion financed toward the goal, which it said put it on track.",
+  "evidence": [
+   "Citi reported $348.5 billion financed toward the goal from 2020-2022",
+   "Goal runs to 2030; progress reported in annual ESG reports"
+  ],
+  "sources": [
+   "Citigroup press release",
+   "MarketWatch",
+   "Euromoney"
+  ]
+ },
+ {
+  "person": "Pony Ma",
+  "role": "CEO, Tencent",
+  "promise": "Achieve carbon neutrality across Tencent's own operations and supply chain by no later than 2030, with 100% green power by 2030",
+  "date_promised": "2022-02-24",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "In February 2022 Tencent announced a plan to become carbon neutral in its own operations and supply chain by no later than 2030, including using green power for 100 percent of electricity consumed by the end of the decade. The company has published annual ESG reports tracking progress.",
+  "evidence": [
+   "Plan announced February 2022 with 2030 targets",
+   "Tencent publishes ESG progress reports, target not yet reached"
+  ],
+  "sources": [
+   "Tencent",
+   "South China Morning Post",
+   "China Daily"
+  ]
  }
 ]
