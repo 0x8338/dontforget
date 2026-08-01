@@ -65,6 +65,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+html,
+body {
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
 /* ---- Nav ---- */
 nav.topbar {
   display: flex;
@@ -285,6 +291,8 @@ hr.rule {
   font-size: 0.8rem;
   color: var(--stone);
   margin-top: 0.6rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 /* ---- Status Badges ---- */
