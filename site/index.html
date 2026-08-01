@@ -89,6 +89,8 @@
   var loadedEvents = [];
   var nextWindow = 0;
   var currentFilter = 'all';
+  var observer = null;
+  var loading = false;
 
   function renderEvents(filter) {
     var html = '';
@@ -117,25 +119,51 @@
   }
 
   function loadWindow() {
+    if (loading) return;
     if (nextWindow >= windowsList.length) {
-      loadMoreWrap.hidden = true;
       renderEvents(currentFilter);
+      updateLoadMore();
       return;
     }
+    loading = true;
     loadMoreBtn.textContent = 'Loading…';
-    fetch('_data/events/' + windowsList[nextWindow].file)
+    fetch('_data/' + windowsList[nextWindow].file)
       .then(function(r) { return r.json(); })
       .then(function(windowEvents) {
+        loading = false;
         loadedEvents = loadedEvents.concat(windowEvents.filter(function(e) { return e.date.slice(5) === today; }));
         nextWindow += 1;
         loadMoreBtn.textContent = 'Load earlier years';
-        loadMoreWrap.hidden = nextWindow >= windowsList.length;
         renderEvents(currentFilter);
+        updateLoadMore();
       })
       .catch(function() {
+        loading = false;
         loadMoreBtn.textContent = 'Load earlier years';
-        container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
+        updateLoadMore();
+        if (loadedEvents.length === 0) {
+          container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
+        }
       });
+  }
+
+  function updateLoadMore() {
+    var more = nextWindow < windowsList.length;
+    loadMoreWrap.hidden = !more;
+    if (!more) {
+      if (observer) observer.disconnect();
+      return;
+    }
+    if (observer) {
+      observer.observe(loadMoreWrap);
+      return;
+    }
+    if ('IntersectionObserver' in window) {
+      observer = new IntersectionObserver(function(entries) {
+        if (!loading && entries[0].isIntersecting) loadWindow();
+      }, { rootMargin: '300px' });
+      observer.observe(loadMoreWrap);
+    }
   }
 
   fetch('_data/events/index.json')
