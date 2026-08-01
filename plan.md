@@ -10,4 +10,4 @@
 ## Ongoing
 - [x] Daily update workflow: events + promises, validate, timestamped commit & push
 - [ ] Daily updates actually running every day
-- [ ] Custom domain (buy → Settings → Pages → CNAME → enforce HTTPS)
+- [ ] Custom domain — see [CUSTOM_DOMAIN.md](CUSTOM_DOMAIN.md) (pending: user buys domain + DNS)
