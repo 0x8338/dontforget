@@ -258,5 +258,28 @@
    "South China Morning Post",
    "China Daily"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will sell 20 million vehicles per year by 2030",
+  "date_promised": "2020-09-22",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "At Battery Day (September 2020) and in later shareholder meetings Musk promised Tesla would reach annual sales of 20 million vehicles by 2030, a goal he abandoned in the mid-2020s as sales slowed; Tesla's impact report dropped the target by 2024. Tesla produced its 10 millionth EV in July 2026, and reports note Musk's $1 trillion pay package relies on watered-down versions of the goal.",
+  "evidence": [
+   "Tesla omitted the 20-million target from its 2023 impact report",
+   "TechCrunch (July 2026): Musk 'abandoned that idea a few years ago'; Tesla made its 10 millionth EV"
+  ],
+  "sources": [
+   "TechCrunch",
+   "Carscoops",
+   "Politico"
+  ],
+  "source_urls": [
+   "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+   "https://www.carscoops.com/2024/05/tesla-doesnt-appear-to-be-chasing-20-million-annual-sales-anymore/",
+   "https://www.politico.com/newsletters/power-switch/2025/09/09/tesla-veers-away-from-ev-dominance-00551709"
+  ]
  }
 ]

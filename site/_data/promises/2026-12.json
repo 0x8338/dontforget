@@ -185,5 +185,51 @@
    "Prime Minister of Japan (PMO)",
    "IDSA Japan Digest"
   ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "The United States will acquire Greenland — \"we need it for international security.\"",
+  "date_promised": "2019-08-18",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "Trump first floated buying Greenland in August 2019 and revived the push after returning to office, saying in early 2026 that the US should control the island and threatening economic consequences if Denmark refused to negotiate. Denmark and Greenland's leaders repeatedly rejected the proposal — 'Greenland is not for sale' — including at a July 2026 NATO leaders' meeting.",
+  "evidence": [
+   "Denmark and Greenland rejected the proposal again at the July 2026 NATO summit",
+   "No purchase or transfer agreement exists as of mid-2026"
+  ],
+  "sources": [
+   "India Today",
+   "WION",
+   "Vietnam News (AP)"
+  ],
+  "source_urls": [
+   "https://www.indiatoday.in/world/story/greenland-trump-nato-us-president-says-island-should-be-under-american-control-not-denmark-2942687-2026-07-07",
+   "https://www.wionews.com/world/trump-says-greenland-should-be-under-us-control-denmark-rejects-claim-at-nato-summit-1783452522464",
+   "https://www.vietnam.vn/en/dan-mach-bac-yeu-cau-cua-ong-trump-khang-dinh-greenland-khong-de-ban"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Jetson Thor, NVIDIA's humanoid-robot computer, will arrive in 2026",
+  "date_promised": "2025-01-06",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "At CES 2025 Huang said NVIDIA's Jetson Thor platform for humanoid robots would arrive in 2026. At GTC Taipei on June 1, 2026, NVIDIA launched the Isaac GR00T reference humanoid robot built on the Jetson AGX Thor T5000 (Blackwell architecture), with a Unitree H2 body and Sharpa dexterous hands — delivering the platform within the promised year.",
+  "evidence": [
+   "Jetson AGX Thor T5000 launched in the Isaac GR00T reference robot, June 2026",
+   "GTC Taipei keynote confirmed the 'physical AI' platform in 2026"
+  ],
+  "sources": [
+   "CGTN",
+   "TechFundingNews",
+   "Inc."
+  ],
+  "source_urls": [
+   "https://news.cgtn.com/news/2026-06-01/NVIDIA-Unitree-unveil-new-humanoid-powered-by-Isaac-GR00T-1NCWlv6VRde/index.html",
+   "https://techfundingnews.com/nvidia-launches-its-first-open-humanoid-robot/",
+   "https://www.inc.com/connor-jewiss/how-nvidias-new-humanoid-machine-solves-the-robot-industrys-biggest-problem/91361759"
+  ]
  }
 ]

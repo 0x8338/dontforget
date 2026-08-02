@@ -553,5 +553,28 @@
    "tralac",
    "Ecofin Agency"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Sora, OpenAI's text-to-video generator, will be available later this year",
+  "date_promised": "2024-02-15",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "After OpenAI's February 2024 Sora demonstration, Altman said the AI video generator would ship later that year. Sora launched on December 9, 2024 for ChatGPT users in most countries, meeting the year-end target.",
+  "evidence": [
+   "Sora.com launched December 9, 2024",
+   "Altman announced access for users in 'most countries' via ChatGPT accounts"
+  ],
+  "sources": [
+   "Reuters",
+   "ABP Live",
+   "AITopics"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/technology/openai-unveils-ai-video-generator-sora-2024-02-15/",
+   "https://news.abplive.com/technology/sora-launched-complete-guide-top-features-specifications-price-and-everything-you-need-to-know-1736733",
+   "https://aitopics.org/mlt?cdid=news%3AB9E07B37&dimension=pagetext"
+  ]
  }
 ]

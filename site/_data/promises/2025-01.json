@@ -16,5 +16,26 @@
    "AP News",
    "Reuters"
   ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"When I win, I will immediately bring prices down, starting on Day One.\"",
+  "date_promised": "2024-08-15",
+  "due_date": "2025-01-31",
+  "status": "broken",
+  "description": "At an August 2024 campaign press conference surrounded by groceries, Trump pledged to bring prices down immediately, starting on Day One of his presidency. Instead, consumer prices and egg prices rose through January 2025, and Democratic lawmakers wrote that his price-related promises had gone unfulfilled.",
+  "evidence": [
+   "No Day One price drop; food and egg prices rose in January 2025",
+   "Democratic lawmakers' January 2025 letter cited unfulfilled price promises"
+  ],
+  "sources": [
+   "CNN",
+   "Newsweek"
+  ],
+  "source_urls": [
+   "https://edition.cnn.com/2025/01/28/economy/trump-inflation-price-promises",
+   "https://www.newsweek.com/trump-promised-cheaper-eggscan-he-crack-it-2020449"
+  ]
  }
 ]

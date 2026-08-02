@@ -5539,5 +5539,277 @@
    "South China Morning Post",
    "China Daily"
   ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"When I win, I will immediately bring prices down, starting on Day One.\"",
+  "date_promised": "2024-08-15",
+  "due_date": "2025-01-31",
+  "status": "broken",
+  "description": "At an August 2024 campaign press conference surrounded by groceries, Trump pledged to bring prices down immediately, starting on Day One of his presidency. Instead, consumer prices and egg prices rose through January 2025, and Democratic lawmakers wrote that his price-related promises had gone unfulfilled.",
+  "evidence": [
+   "No Day One price drop; food and egg prices rose in January 2025",
+   "Democratic lawmakers' January 2025 letter cited unfulfilled price promises"
+  ],
+  "sources": [
+   "CNN",
+   "Newsweek"
+  ],
+  "source_urls": [
+   "https://edition.cnn.com/2025/01/28/economy/trump-inflation-price-promises",
+   "https://www.newsweek.com/trump-promised-cheaper-eggscan-he-crack-it-2020449"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"We will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars.\"",
+  "date_promised": "2025-01-20",
+  "due_date": "2029-01-20",
+  "status": "pending",
+  "description": "In his second inaugural address Trump pledged to launch American astronauts to plant the US flag on Mars, a goal he first tied to the end of his term at an October 2024 rally. As of August 2026 no crewed Mars mission was scheduled, and orbital dynamics mean a landing could not occur before 2029 at the earliest.",
+  "evidence": [
+   "No crewed Mars mission approved or scheduled as of mid-2026",
+   "NYT analysis: a Mars landing cannot happen before 2029 due to orbital windows"
+  ],
+  "sources": [
+   "The New York Times",
+   "Newsweek",
+   "Euronews"
+  ],
+  "source_urls": [
+   "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
+   "https://www.newsweek.com/2025/04/11/donald-trump-elon-musk-space-mission-mars-experts-2053151.html",
+   "https://www.euronews.com/next/2025/02/20/the-red-planet-or-bust-can-the-us-get-humans-to-mars-in-donald-trumps-second-term"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "The United States will acquire Greenland — \"we need it for international security.\"",
+  "date_promised": "2019-08-18",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "Trump first floated buying Greenland in August 2019 and revived the push after returning to office, saying in early 2026 that the US should control the island and threatening economic consequences if Denmark refused to negotiate. Denmark and Greenland's leaders repeatedly rejected the proposal — 'Greenland is not for sale' — including at a July 2026 NATO leaders' meeting.",
+  "evidence": [
+   "Denmark and Greenland rejected the proposal again at the July 2026 NATO summit",
+   "No purchase or transfer agreement exists as of mid-2026"
+  ],
+  "sources": [
+   "India Today",
+   "WION",
+   "Vietnam News (AP)"
+  ],
+  "source_urls": [
+   "https://www.indiatoday.in/world/story/greenland-trump-nato-us-president-says-island-should-be-under-american-control-not-denmark-2942687-2026-07-07",
+   "https://www.wionews.com/world/trump-says-greenland-should-be-under-us-control-denmark-rejects-claim-at-nato-summit-1783452522464",
+   "https://www.vietnam.vn/en/dan-mach-bac-yeu-cau-cua-ong-trump-khang-dinh-greenland-khong-de-ban"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will sell 20 million vehicles per year by 2030",
+  "date_promised": "2020-09-22",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "At Battery Day (September 2020) and in later shareholder meetings Musk promised Tesla would reach annual sales of 20 million vehicles by 2030, a goal he abandoned in the mid-2020s as sales slowed; Tesla's impact report dropped the target by 2024. Tesla produced its 10 millionth EV in July 2026, and reports note Musk's $1 trillion pay package relies on watered-down versions of the goal.",
+  "evidence": [
+   "Tesla omitted the 20-million target from its 2023 impact report",
+   "TechCrunch (July 2026): Musk 'abandoned that idea a few years ago'; Tesla made its 10 millionth EV"
+  ],
+  "sources": [
+   "TechCrunch",
+   "Carscoops",
+   "Politico"
+  ],
+  "source_urls": [
+   "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+   "https://www.carscoops.com/2024/05/tesla-doesnt-appear-to-be-chasing-20-million-annual-sales-anymore/",
+   "https://www.politico.com/newsletters/power-switch/2025/09/09/tesla-veers-away-from-ev-dominance-00551709"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla Robotaxi will be unveiled on 8/8/24",
+  "date_promised": "2024-04-05",
+  "due_date": "2024-08-08",
+  "status": "kept (delayed)",
+  "description": "Musk announced in April 2024 that Tesla would unveil its Robotaxi on 8/8/24. The reveal was postponed for design changes and finally took place on October 10, 2024, when Tesla introduced the Cybercab robotaxi and Robovan at its 'We, Robot' event in Burbank, California.",
+  "evidence": [
+   "Reveal moved from August 8 to October 10, 2024",
+   "Cybercab unveiled at the 'We, Robot' event on October 10, 2024"
+  ],
+  "sources": [
+   "CarExpert",
+   "PCMag",
+   "GuruFocus"
+  ],
+  "source_urls": [
+   "https://www.carexpert.com.au/car-news/tesla-sets-new-robotaxi-reveal-date-teases-more-announcements",
+   "https://uk.pcmag.com/ai/154778/what-to-expect-at-teslas-oct-10-cybercab-robotaxi-reveal",
+   "https://www.gurufocus.com/news/2552083/tesla-unveils-robotaxi-and-robovan-with-fully-autonomous-driving"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Neuralink",
+  "promise": "Neuralink will implant its device in a human patient within six months",
+  "date_promised": "2023-06-16",
+  "due_date": "2023-12-31",
+  "status": "kept (delayed)",
+  "description": "At VivaTech in Paris (June 2023), months after FDA approval of human trials, Musk said Neuralink hoped to implant its brain-computer interface in a human patient within six months. The first implant — announced as the 'Telepathy' product — was performed on January 28, 2024, about one month past the target, with initial results showing neuron spike detection.",
+  "evidence": [
+   "First human implant on January 28, 2024, roughly a month late",
+   "Musk confirmed the implant on X and said initial results showed promising neuron spike detection"
+  ],
+  "sources": [
+   "AP News",
+   "The Guardian",
+   "The New York Times"
+  ],
+  "source_urls": [
+   "https://hosted.ap.org/theunion/article/e92ca9621c9331487c94e9b537c2d537/elon-musk-says-first-human-has-received-implant-neuralink",
+   "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
+   "https://www.nytimes.com/2024/01/29/business/elon-musk-neuralink.html"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Sora, OpenAI's text-to-video generator, will be available later this year",
+  "date_promised": "2024-02-15",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "After OpenAI's February 2024 Sora demonstration, Altman said the AI video generator would ship later that year. Sora launched on December 9, 2024 for ChatGPT users in most countries, meeting the year-end target.",
+  "evidence": [
+   "Sora.com launched December 9, 2024",
+   "Altman announced access for users in 'most countries' via ChatGPT accounts"
+  ],
+  "sources": [
+   "Reuters",
+   "ABP Live",
+   "AITopics"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/technology/openai-unveils-ai-video-generator-sora-2024-02-15/",
+   "https://news.abplive.com/technology/sora-launched-complete-guide-top-features-specifications-price-and-everything-you-need-to-know-1736733",
+   "https://aitopics.org/mlt?cdid=news%3AB9E07B37&dimension=pagetext"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "A GPT-6-level model will be released in Q1 2026",
+  "date_promised": "2025-12-20",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "In a December 2025 interview Altman said OpenAI's next GPT-6-level model upgrade was expected in the first quarter of 2026, and he repeated that timing in a January 2026 roadmap discussion. Q1 passed without a release; OpenAI shipped GPT-5.5 on April 23, 2026 instead. As of early August 2026 GPT-6 (reportedly codenamed 'Astra') had not been released, and reports said it could be named GPT-5.7.",
+  "evidence": [
+   "No GPT-6 release in Q1 2026; GPT-5.5 shipped April 23, 2026",
+   "July-August 2026 reports: GPT-6/Astra not yet public, naming unresolved (GPT-6 vs GPT-5.7)"
+  ],
+  "sources": [
+   "Voiceflow",
+   "The Paper",
+   "Tencent Cloud"
+  ],
+  "source_urls": [
+   "https://www.voiceflow.com/blog/gpt-6-what-we-already-know-and-what-to-expect",
+   "https://www.thepaper.cn/newsDetail_forward_32923894",
+   "https://cloud.tencent.cn/developer/article/2625007"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will surpass \"almost all humans at almost everything\" shortly after 2027",
+  "date_promised": "2025-01-21",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "In a Wall Street Journal interview at Davos (January 2025), Amodei predicted AI models would surpass human capabilities 'in almost everything' within two to three years — 'shortly after 2027'. As of August 2026 the milestone had not been reached, though MIT research on AI and work notes capabilities continue to improve rapidly.",
+  "evidence": [
+   "Amodei: milestone expected 'shortly after 2027', exact timing uncertain",
+   "Milestone not publicly demonstrated as of mid-2026"
+  ],
+  "sources": [
+   "Ars Technica",
+   "The Express Tribune",
+   "MIT CSAIL"
+  ],
+  "source_urls": [
+   "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/",
+   "https://tribune.com.pk/story/2530190/entertainment",
+   "https://www.csail.mit.edu/news/new-mit-research-overturns-prior-view-about-how-ai-capabilities-could-overtake-human-workers"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Within 6-12 months, AI models will be capable of most, maybe all, end-to-end software engineering tasks",
+  "date_promised": "2026-01-20",
+  "due_date": "2027-01-31",
+  "status": "pending",
+  "description": "In a January 2026 interview Amodei predicted that within six to twelve months AI models could perform 'most, maybe all' of the end-to-end tasks currently handled by software engineers, and said he expected Nobel-level AI capability in multiple fields in 2026-2027. As of August 2026 the claim had not been demonstrated at scale.",
+  "evidence": [
+   "Prediction made January 2026 with a 6-12 month window",
+   "No large-scale replacement of software engineers reported as of August 2026"
+  ],
+  "sources": [
+   "Digit.in",
+   "36Kr"
+  ],
+  "source_urls": [
+   "https://www.digit.in/features/general/anthropic-ceo-ai-will-replace-every-software-engineer-by-2027.html",
+   "https://eu.36kr.com/zh/p/3648851352018565"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Jetson Thor, NVIDIA's humanoid-robot computer, will arrive in 2026",
+  "date_promised": "2025-01-06",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "At CES 2025 Huang said NVIDIA's Jetson Thor platform for humanoid robots would arrive in 2026. At GTC Taipei on June 1, 2026, NVIDIA launched the Isaac GR00T reference humanoid robot built on the Jetson AGX Thor T5000 (Blackwell architecture), with a Unitree H2 body and Sharpa dexterous hands — delivering the platform within the promised year.",
+  "evidence": [
+   "Jetson AGX Thor T5000 launched in the Isaac GR00T reference robot, June 2026",
+   "GTC Taipei keynote confirmed the 'physical AI' platform in 2026"
+  ],
+  "sources": [
+   "CGTN",
+   "TechFundingNews",
+   "Inc."
+  ],
+  "source_urls": [
+   "https://news.cgtn.com/news/2026-06-01/NVIDIA-Unitree-unveil-new-humanoid-powered-by-Isaac-GR00T-1NCWlv6VRde/index.html",
+   "https://techfundingnews.com/nvidia-launches-its-first-open-humanoid-robot/",
+   "https://www.inc.com/connor-jewiss/how-nvidias-new-humanoid-machine-solves-the-robot-industrys-biggest-problem/91361759"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA will open the Boston-based Accelerated Quantum Research Center (NVAQC) and begin operations later in 2025",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "At GTC 2025 Huang announced the NVIDIA Accelerated Quantum Research Center in Boston, saying it would begin operations later that year. NVIDIA now lists NVAQC as an operating facility integrating quantum hardware with DGX Quantum systems, but the center was still hiring its Boston engineering team in March 2026, indicating full operations slipped past the 2025 target.",
+  "evidence": [
+   "NVAQC announced March 2025 with a 'later this year' start",
+   "NVIDIA NVAQC page active in 2026; senior Boston engineering hires posted March 2026"
+  ],
+  "sources": [
+   "NVIDIA press release",
+   "Forbes",
+   "NVIDIA NVAQC"
+  ],
+  "source_urls": [
+   "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-to-Build-Accelerated-Quantum-Computing-Research-Center/default.aspx",
+   "https://www.forbes.com/sites/gilpress/2025/05/05/nvidia-builds-an-ai-superhighway-to-practical-quantum-computing/",
+   "https://www.nvidia.com/en-gb/solutions/quantum-computing/accelerated-quantum-center/"
+  ]
  }
 ]

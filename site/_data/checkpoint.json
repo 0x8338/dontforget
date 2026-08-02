@@ -1,15 +1,15 @@
 {
   "events": {
-    "last_date": "2026-08-01",
-    "total": 537
+    "last_date": "2026-08-02",
+    "total": 545
   },
   "promises": {
-    "last_date": "2026-08-01",
-    "total": 308
+    "last_date": "2026-08-02",
+    "total": 320
   },
-  "last_updated": "2026-08-01T15:14:50Z",
+  "last_updated": "2026-08-02T08:21:46Z",
   "update_policy": "daily-incremental",
   "promises_expansion": {
-    "last_focus": "ceos"
+    "last_focus": "trump-musk-altman-amodei-huang"
   }
 }

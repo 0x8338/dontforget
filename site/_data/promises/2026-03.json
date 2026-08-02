@@ -53,5 +53,28 @@
    "Kelowna Capital News",
    "Dan Albas, MP"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "A GPT-6-level model will be released in Q1 2026",
+  "date_promised": "2025-12-20",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "In a December 2025 interview Altman said OpenAI's next GPT-6-level model upgrade was expected in the first quarter of 2026, and he repeated that timing in a January 2026 roadmap discussion. Q1 passed without a release; OpenAI shipped GPT-5.5 on April 23, 2026 instead. As of early August 2026 GPT-6 (reportedly codenamed 'Astra') had not been released, and reports said it could be named GPT-5.7.",
+  "evidence": [
+   "No GPT-6 release in Q1 2026; GPT-5.5 shipped April 23, 2026",
+   "July-August 2026 reports: GPT-6/Astra not yet public, naming unresolved (GPT-6 vs GPT-5.7)"
+  ],
+  "sources": [
+   "Voiceflow",
+   "The Paper",
+   "Tencent Cloud"
+  ],
+  "source_urls": [
+   "https://www.voiceflow.com/blog/gpt-6-what-we-already-know-and-what-to-expect",
+   "https://www.thepaper.cn/newsDetail_forward_32923894",
+   "https://cloud.tencent.cn/developer/article/2625007"
+  ]
  }
 ]

@@ -34,5 +34,28 @@
    "Olympics.com, 2019-03 and 2024-07",
    "IOC press releases 2024"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla Robotaxi will be unveiled on 8/8/24",
+  "date_promised": "2024-04-05",
+  "due_date": "2024-08-08",
+  "status": "kept (delayed)",
+  "description": "Musk announced in April 2024 that Tesla would unveil its Robotaxi on 8/8/24. The reveal was postponed for design changes and finally took place on October 10, 2024, when Tesla introduced the Cybercab robotaxi and Robovan at its 'We, Robot' event in Burbank, California.",
+  "evidence": [
+   "Reveal moved from August 8 to October 10, 2024",
+   "Cybercab unveiled at the 'We, Robot' event on October 10, 2024"
+  ],
+  "sources": [
+   "CarExpert",
+   "PCMag",
+   "GuruFocus"
+  ],
+  "source_urls": [
+   "https://www.carexpert.com.au/car-news/tesla-sets-new-robotaxi-reveal-date-teases-more-announcements",
+   "https://uk.pcmag.com/ai/154778/what-to-expect-at-teslas-oct-10-cybercab-robotaxi-reveal",
+   "https://www.gurufocus.com/news/2552083/tesla-unveils-robotaxi-and-robovan-with-fully-autonomous-driving"
+  ]
  }
 ]

@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Within 6-12 months, AI models will be capable of most, maybe all, end-to-end software engineering tasks",
+  "date_promised": "2026-01-20",
+  "due_date": "2027-01-31",
+  "status": "pending",
+  "description": "In a January 2026 interview Amodei predicted that within six to twelve months AI models could perform 'most, maybe all' of the end-to-end tasks currently handled by software engineers, and said he expected Nobel-level AI capability in multiple fields in 2026-2027. As of August 2026 the claim had not been demonstrated at scale.",
+  "evidence": [
+   "Prediction made January 2026 with a 6-12 month window",
+   "No large-scale replacement of software engineers reported as of August 2026"
+  ],
+  "sources": [
+   "Digit.in",
+   "36Kr"
+  ],
+  "source_urls": [
+   "https://www.digit.in/features/general/anthropic-ceo-ai-will-replace-every-software-engineer-by-2027.html",
+   "https://eu.36kr.com/zh/p/3648851352018565"
+  ]
+ }
+]

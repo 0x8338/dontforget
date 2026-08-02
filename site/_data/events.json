@@ -2290,6 +2290,82 @@
     "BBC News",
     "Reuters"
    ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Bombing at Moscow restaurant kills three",
+   "category": "terrorism",
+   "location": "Moscow, Russia",
+   "lives_lost": 3,
+   "description": "An improvised explosive device detonated on Saturday evening near a restaurant on Kudrinskaya Square in central Moscow, killing three people and injuring 21. Russia's National Anti-Terrorism Committee said a woman carrying the device was killed in the blast; a security guard who had stopped her from entering the restaurant and a restaurant visitor were the other two fatalities.",
+   "sources": [
+    "Xinhua",
+    "TBS News"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Plane crash near Nazca kills 13",
+   "category": "industrial",
+   "location": "Nazca, Ica Region, Peru",
+   "lives_lost": 13,
+   "description": "A small plane crashed in farmland about 6 km from the city of Nazca in Peru's southern Ica region on Saturday, killing all 13 on board — 11 tourists plus the pilot and co-pilot. Local media reported that seven Italians, two Germans and two Spaniards were among the dead; the flight was on a tour route over the Nazca Lines.",
+   "sources": [
+    "Xinhua",
+    "BSS (AFP)",
+    "RPP"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Shooting at In-N-Out restaurant in Twin Falls",
+   "category": "gun-violence",
+   "location": "Twin Falls, Idaho, United States",
+   "lives_lost": 3,
+   "description": "A gunman opened fire in the area of an In-N-Out restaurant in Twin Falls, Idaho, shortly before 2:30 p.m. local time on Saturday, killing at least three people and wounding two. Officials said the gunman was no longer considered a threat, and the investigation remained active.",
+   "sources": [
+    "CNN",
+    "CBS News",
+    "TASS"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Israeli strikes kill at least seven in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 7,
+   "description": "Israeli airstrikes and shelling across the Gaza Strip killed at least seven Palestinians on Saturday, according to Gaza's civil defence, and strikes near Al-Aqsa Martyrs Hospital destroyed two warehouses storing medical supplies and damaged the outpatient clinic. The attacks came a day after Hamas said it agreed to the next stage of a US-backed ceasefire plan.",
+   "sources": [
+    "Express Tribune (AFP)",
+    "BSS (AFP)",
+    "The New Arab"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Seven armed robbers killed in Kabul police operation",
+   "category": "gun-violence",
+   "location": "Kabul, Afghanistan",
+   "lives_lost": 7,
+   "description": "Seven armed robbers were killed in an exchange of fire with Afghan police in Police District 8 of Kabul on Saturday night, and 16 people were arrested on suspicion of armed robbery, the Taliban-run police said. The group was accused of earlier storming a residence in the Beni Hisar area and fatally shooting two members of a family.",
+   "sources": [
+    "Xinhua",
+    "Jomhor News"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Assam flood death toll reaches 82",
+   "category": "natural-disaster",
+   "location": "Assam, India",
+   "lives_lost": 82,
+   "description": "The death toll in ongoing monsoon floods in India's northeastern state of Assam rose to 82 on Saturday, with two people still missing. Chief Minister Himanta Biswa Sarma said the floods hit 2,251 villages and affected more than 1.1 million people; Sivasagar district reported the highest toll with 42 deaths, followed by Charaideo with 21 and Jorhat with 9.",
+   "sources": [
+    "Xinhua",
+    "India Today NE",
+    "News18"
+   ]
   }
  ],
  "08-19": [
@@ -2636,6 +2712,18 @@
     "BBC News",
     "Reuters",
     "India Meteorological Department"
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "title": "Gansu flash flood at Weiyuan scenic area",
+   "category": "natural-disaster",
+   "location": "Weiyuan County, Dingxi, Gansu, China",
+   "lives_lost": 25,
+   "description": "A flash flood struck a scenic area in Weiyuan County, Dingxi City, on the afternoon of 26 July 2026, killing 25 people and injuring 23. China's national disaster commission said it would oversee an investigation into the disaster and urged Gansu Province to strengthen disaster prevention, mitigation and relief capacity.",
+   "sources": [
+    "Xinhua",
+    "People's Daily"
    ]
   }
  ],
@@ -4554,12 +4642,13 @@
    "title": "Kumamoto earthquake",
    "category": "natural-disaster",
    "location": "Kumamoto, Japan",
-   "lives_lost": 36,
-   "description": "On 28 July 2026, a magnitude 6.8 earthquake (M7.1 on the Japanese scale) struck Kumamoto Prefecture on the Hinagu Fault, killing 36 people and injuring 129. The second floor of Aeon Mall Kumamoto collapsed and later exploded, a chimney collapse at a paper factory in Yatsushiro killed nine workers, and about 10,000 people were displaced, with the Kyushu Shinkansen damaged at more than 200 locations.",
+   "lives_lost": 38,
+   "description": "On 28 July 2026, a magnitude 6.8 earthquake (M7.1 on the Japanese scale) struck Kumamoto Prefecture on the Hinagu Fault, killing 38 people and injuring 129. The second floor of Aeon Mall Kumamoto collapsed and later exploded, a chimney collapse at a paper factory in Yatsushiro killed nine workers, and the Kyushu Shinkansen was damaged at more than 200 locations. The toll rose from 36 to 38 on 2 August, with more than 9,200 residents still in evacuation shelters.",
    "sources": [
     "Reuters",
     "NHK",
-    "Kyodo News"
+    "Kyodo News",
+    "Xinhua"
    ]
   },
   {
@@ -7559,6 +7648,21 @@
     "Euronews",
     "New Straits Times",
     "Free Press Journal"
+   ]
+  }
+ ],
+ "08-02": [
+  {
+   "date": "2026-08-02",
+   "title": "Israeli strikes kill eight in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 8,
+   "description": "Overnight Israeli strikes on the Gaza Strip hit multiple residential buildings and killed at least eight Palestinians on Sunday, including two children, Gaza's civil defence said. A man and his wife were killed when an Israeli military helicopter struck an apartment in the central Gaza Strip; an elderly man and a child were killed west of Gaza City; and three people, including a child, died in a strike northwest of Khan Younis. The strikes came despite Hamas agreeing to the next stage of a US-backed ceasefire plan.",
+   "sources": [
+    "Anadolu Agency",
+    "BSS (AFP)",
+    "WAFA"
    ]
   }
  ]

@@ -350,5 +350,28 @@
    "Funcas",
    "Osler"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Neuralink",
+  "promise": "Neuralink will implant its device in a human patient within six months",
+  "date_promised": "2023-06-16",
+  "due_date": "2023-12-31",
+  "status": "kept (delayed)",
+  "description": "At VivaTech in Paris (June 2023), months after FDA approval of human trials, Musk said Neuralink hoped to implant its brain-computer interface in a human patient within six months. The first implant — announced as the 'Telepathy' product — was performed on January 28, 2024, about one month past the target, with initial results showing neuron spike detection.",
+  "evidence": [
+   "First human implant on January 28, 2024, roughly a month late",
+   "Musk confirmed the implant on X and said initial results showed promising neuron spike detection"
+  ],
+  "sources": [
+   "AP News",
+   "The Guardian",
+   "The New York Times"
+  ],
+  "source_urls": [
+   "https://hosted.ap.org/theunion/article/e92ca9621c9331487c94e9b537c2d537/elon-musk-says-first-human-has-received-implant-neuralink",
+   "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
+   "https://www.nytimes.com/2024/01/29/business/elon-musk-neuralink.html"
+  ]
  }
 ]

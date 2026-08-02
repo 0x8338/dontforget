@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"We will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars.\"",
+  "date_promised": "2025-01-20",
+  "due_date": "2029-01-20",
+  "status": "pending",
+  "description": "In his second inaugural address Trump pledged to launch American astronauts to plant the US flag on Mars, a goal he first tied to the end of his term at an October 2024 rally. As of August 2026 no crewed Mars mission was scheduled, and orbital dynamics mean a landing could not occur before 2029 at the earliest.",
+  "evidence": [
+   "No crewed Mars mission approved or scheduled as of mid-2026",
+   "NYT analysis: a Mars landing cannot happen before 2029 due to orbital windows"
+  ],
+  "sources": [
+   "The New York Times",
+   "Newsweek",
+   "Euronews"
+  ],
+  "source_urls": [
+   "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
+   "https://www.newsweek.com/2025/04/11/donald-trump-elon-musk-space-mission-mars-experts-2053151.html",
+   "https://www.euronews.com/next/2025/02/20/the-red-planet-or-bust-can-the-us-get-humans-to-mars-in-donald-trumps-second-term"
+  ]
+ }
+]

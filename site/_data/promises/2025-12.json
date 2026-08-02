@@ -731,5 +731,28 @@
    "ARK Invest analyst research, Feb 2021 (ark-invest.com)",
    "NASDAQ/TSLA year-end closing price"
   ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA will open the Boston-based Accelerated Quantum Research Center (NVAQC) and begin operations later in 2025",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "At GTC 2025 Huang announced the NVIDIA Accelerated Quantum Research Center in Boston, saying it would begin operations later that year. NVIDIA now lists NVAQC as an operating facility integrating quantum hardware with DGX Quantum systems, but the center was still hiring its Boston engineering team in March 2026, indicating full operations slipped past the 2025 target.",
+  "evidence": [
+   "NVAQC announced March 2025 with a 'later this year' start",
+   "NVIDIA NVAQC page active in 2026; senior Boston engineering hires posted March 2026"
+  ],
+  "sources": [
+   "NVIDIA press release",
+   "Forbes",
+   "NVIDIA NVAQC"
+  ],
+  "source_urls": [
+   "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-to-Build-Accelerated-Quantum-Computing-Research-Center/default.aspx",
+   "https://www.forbes.com/sites/gilpress/2025/05/05/nvidia-builds-an-ai-superhighway-to-practical-quantum-computing/",
+   "https://www.nvidia.com/en-gb/solutions/quantum-computing/accelerated-quantum-center/"
+  ]
  }
 ]

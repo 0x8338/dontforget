@@ -17,5 +17,28 @@
    "Helion/Microsoft press release (May 10, 2023)",
    "Reuters (2024-2025 Helion coverage)"
   ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will surpass \"almost all humans at almost everything\" shortly after 2027",
+  "date_promised": "2025-01-21",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "In a Wall Street Journal interview at Davos (January 2025), Amodei predicted AI models would surpass human capabilities 'in almost everything' within two to three years — 'shortly after 2027'. As of August 2026 the milestone had not been reached, though MIT research on AI and work notes capabilities continue to improve rapidly.",
+  "evidence": [
+   "Amodei: milestone expected 'shortly after 2027', exact timing uncertain",
+   "Milestone not publicly demonstrated as of mid-2026"
+  ],
+  "sources": [
+   "Ars Technica",
+   "The Express Tribune",
+   "MIT CSAIL"
+  ],
+  "source_urls": [
+   "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/",
+   "https://tribune.com.pk/story/2530190/entertainment",
+   "https://www.csail.mit.edu/news/new-mit-research-overturns-prior-view-about-how-ai-capabilities-could-overtake-human-workers"
+  ]
  }
 ]
