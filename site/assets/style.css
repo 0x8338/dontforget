@@ -398,13 +398,6 @@ hr.rule {
   text-wrap: balance;
 }
 
-.about-note {
-  margin-top: 3.5rem;
-  font-family: 'Space Mono', 'Courier New', monospace;
-  font-size: 0.68rem;
-  color: var(--stone);
-}
-
 /* ---- Footer ---- */
 footer {
   text-align: center;
