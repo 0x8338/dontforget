@@ -112,6 +112,11 @@ nav.topbar .links a {
 nav.topbar .links a:hover,
 nav.topbar .links a.active { color: var(--ink); }
 
+nav.topbar .links a.org {
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
 @media (max-width: 560px) {
   nav.topbar {
     flex-wrap: wrap;
