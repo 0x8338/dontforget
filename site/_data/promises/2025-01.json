@@ -37,5 +37,28 @@
    "https://edition.cnn.com/2025/01/28/economy/trump-inflation-price-promises",
    "https://www.newsweek.com/trump-promised-cheaper-eggscan-he-crack-it-2020449"
   ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"If the hostages are not released prior to January 20, 2025, there will be all hell to pay.\"",
+  "date_promised": "2024-12-02",
+  "due_date": "2025-01-20",
+  "status": "partial",
+  "description": "In December 2024 Trump warned there would be 'all hell to pay' if Hamas did not release hostages before his January 20, 2025 inauguration. Not all hostages were freed by that date, but his pressure contributed to the ceasefire deal announced January 19, under which hostages were released in phases through the following months.",
+  "evidence": [
+   "Not all hostages were released by January 20, 2025",
+   "Ceasefire deal led to phased releases starting January 19, 2025; Trump credited his envoy with the deal"
+  ],
+  "sources": [
+   "The Jerusalem Post",
+   "Times of Israel",
+   "Fox News"
+  ],
+  "source_urls": [
+   "https://www.jpost.com/israel-news/article-842394",
+   "https://www.timesofisrael.com/trump-looks-to-ride-on-success-of-hostage-deal-as-he-readies-to-take-oath-of-office/",
+   "https://noticias.foxnews.com/opinion/hostage-deal-shows-hamas-took-trumps-hell-pay-threat-seriously.print"
+  ]
  }
 ]

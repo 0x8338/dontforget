@@ -308,5 +308,28 @@
    "https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)",
    null
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "\"I would be shocked if we do not achieve Full Self-Driving safer than a human this year.\"",
+  "date_promised": "2022-01-26",
+  "due_date": "2022-12-31",
+  "status": "broken",
+  "description": "On Tesla's Q4 2021 earnings call Musk said he would be 'shocked' if Full Self-Driving was not safer than a human driver by the end of 2022. FSD remained a supervised beta at the end of 2022 and for years after; it never met the promised safety threshold or achieved autonomous operation.",
+  "evidence": [
+   "FSD still required driver supervision at the end of 2022",
+   "No independent validation that FSD was safer than human drivers by the deadline"
+  ],
+  "sources": [
+   "InsideEVs",
+   "MarketWatch",
+   "Carscoops"
+  ],
+  "source_urls": [
+   "https://insideevs.com/news/563531/60000-teslas-running-fsd-beta/",
+   "https://www.marketwatch.com/story/why-isnt-profit-enough-for-elon-musk-11643254721",
+   "https://www.carscoops.com/2023/03/tesla-says-its-autonomous-systems-are-safer-than-a-human-but-is-it-really-so/"
+  ]
  }
 ]

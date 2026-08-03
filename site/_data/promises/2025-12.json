@@ -892,5 +892,120 @@
    "https://www.tweaktown.com/news/107280/nvidia-ceo-says-new-blackwell-ultra-gb300-ai-platform-is-in-full-scale-mass-production/index.html",
    "https://www.cnstock.com/commonDetail/377435"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "SpaceX will perform up to 25 Starship orbital launches in 2025",
+  "date_promised": "2024-11-23",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "An FAA filing detailed SpaceX plans for up to 25 Starship orbital launches, 25 Super Heavy booster landings and 25 Starship landings in 2025, a goal echoed by SpaceX executives as '25 in 25'. The company fell far short: launch records show a total of 12 Starship flights through mid-2026, including earlier test flights, and the target was carried forward to 2026.",
+  "evidence": [
+   "Only a single-digit number of Starship flights occurred in 2025",
+   "Launch-count trackers list 12 total Starship launches through July 2026; '25 in 25' goal not met"
+  ],
+  "sources": [
+   "Digital Trends",
+   "The Motley Fool",
+   "Orbital Radar"
+  ],
+  "source_urls": [
+   "https://www.digitaltrends.com/space/spacex-starship-launch-target-2025/",
+   "https://www.fool.com/investing/2025/01/12/spacex-missed-its-launch-goal-in-2024-2025-goals/",
+   "https://orbitalradar.com/launch-database/vehicle/starship"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "OpenAI will restructure into a public benefit corporation",
+  "date_promised": "2024-12-26",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "OpenAI announced plans in late December 2024 to restructure its nonprofit-for-profit hybrid into a public benefit corporation (PBC) to attract the investment needed for frontier AI. The long-delayed restructuring completed on October 28, 2025, when OpenAI announced it had become a PBC and signed a new agreement with Microsoft.",
+  "evidence": [
+   "OpenAI announced completion of the restructuring on October 28, 2025",
+   "NYT: OpenAI 'had become a public benefit corporation' after 18+ months of effort"
+  ],
+  "sources": [
+   "The New York Times",
+   "Yahoo Finance",
+   "36Kr"
+  ],
+  "source_urls": [
+   "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
+   "https://finance.yahoo.com/news/openai-completes-long-awaited-restructuring-133108861.html",
+   "https://eu.36kr.com/en/p/3531019314568324"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Claude 4, including the flagship Opus 4 model, will be released in 2025",
+  "date_promised": "2025-01-15",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "After months of delays and statements that the next-generation Claude flagship was coming, Anthropic launched Claude 4 on May 22, 2025 with two models — Opus 4, described as the world's best coding model at launch, and Sonnet 4 — well within the year.",
+  "evidence": [
+   "Claude Opus 4 and Sonnet 4 launched May 22, 2025",
+   "The Opus release was described as 'long-delayed', indicating it was expected earlier but still delivered in 2025"
+  ],
+  "sources": [
+   "AI Wiki",
+   "Deccan Chronicle",
+   "Anthropic"
+  ],
+  "source_urls": [
+   "https://aiwiki.ai/wiki/claude_4",
+   "https://www.deccanchronicle.com/technology/ai-startup-anthropic-set-to-roll-out-more-powerful-opus-model-1880762",
+   "https://www.anthropic.com/claude/opus"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA will release Isaac GR00T N1, the first open humanoid-robot foundation model",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "At GTC 2025 Huang announced NVIDIA Isaac GR00T N1, the world's first open foundation model for generalized humanoid robot reasoning and skills, available immediately. The model was demonstrated running on 1X's NEO Gamma humanoid and has since become the basis of NVIDIA's GR00T humanoid program, including the 2026 reference robot built with Unitree.",
+  "evidence": [
+   "GR00T N1 released at GTC on March 18, 2025 as open weights",
+   "Demonstrated on 1X's NEO Gamma at launch; used in NVIDIA's later humanoid reference designs"
+  ],
+  "sources": [
+   "NVIDIA blog",
+   "The Verge",
+   "TrendForce"
+  ],
+  "source_urls": [
+   "https://blogs.nvidia.cn/blog/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks/",
+   "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
+   "https://www.trendforce.cn/analysis/ai-robots/20250910-290.html"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Meta",
+  "promise": "\"In 2025, I expect Meta AI will be the leading assistant serving more than 1 billion people.\"",
+  "date_promised": "2025-01-24",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "In a January 2025 Facebook post announcing Meta's $60-65 billion AI investment year, Zuckerberg said he expected Meta AI to become the leading assistant serving more than 1 billion people in 2025. Meta AI passed the milestone early: Zuckerberg said at the May 2025 shareholder meeting that the assistant had reached 1 billion monthly active users in Q1 2025, up from roughly 600 million in 2024.",
+  "evidence": [
+   "Meta AI reached ~1 billion monthly actives in Q1 2025 (Meta Q1 earnings: 'almost 1 billion')",
+   "Zuckerberg announced the 1B milestone at the May 2025 shareholder meeting"
+  ],
+  "sources": [
+   "Mint",
+   "Meta SEC filing",
+   "Silicon UK"
+  ],
+  "source_urls": [
+   "https://www.livemint.com/technology/tech-news/mark-zuckerberg-reveals-metas-ai-roadmap-for-2025-pledges-to-extend-american-technology-leadership-donald-trump-11737780227664.html",
+   "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000050/meta-03312025xexhibit991.htm",
+   "https://www.silicon.co.uk/news/e-innovation/artificial-intelligence/page/9"
+  ]
  }
 ]

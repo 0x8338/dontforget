@@ -443,6 +443,19 @@
     "Premium Times",
     "Newsweek Nigeria"
    ]
+  },
+  {
+   "date": "2026-07-31",
+   "title": "Apartment building fire kills four in Changsha",
+   "category": "industrial",
+   "location": "Changsha, Hunan, China",
+   "lives_lost": 4,
+   "description": "A fire broke out at 03:54 local time on 1 August at a high-rise residential building in the Poly Lugu Linyu compound, Yuelu District, Changsha, killing four people and injuring two. Firefighters rescued six people from the building, but four later died of their injuries in hospital.",
+   "sources": [
+    "Xinhua",
+    "China Daily",
+    "CCTV"
+   ]
   }
  ],
  "07-07": [
@@ -5632,6 +5645,18 @@
     "Amnesty International",
     "BBC News"
    ]
+  },
+  {
+   "date": "2026-08-03",
+   "title": "Israeli strike kills two in Gaza City",
+   "category": "war",
+   "location": "Gaza City, Gaza Strip, Palestine",
+   "lives_lost": 2,
+   "description": "An Israeli airstrike targeted a vehicle southwest of Gaza City on Monday evening, killing two Palestinians in the Sheikh Ajlin area, in another violation of the ceasefire that took effect in October 2025, medical sources said.",
+   "sources": [
+    "WAFA",
+    "Anadolu Agency"
+   ]
   }
  ],
  "09-07": [
@@ -7654,18 +7679,18 @@
  "08-02": [
   {
    "date": "2026-08-02",
-   "title": "Israeli strikes kill 13 in Gaza",
+   "title": "Israeli strikes kill 18 in Gaza",
    "category": "war",
    "location": "Gaza Strip, Palestine",
-   "lives_lost": 13,
-   "description": "Israeli airstrikes and shelling continued across the Gaza Strip for a second straight day on Sunday, killing at least 13 Palestinians, including two children, Gaza medics and civil defence officials said. Overnight strikes around midnight hit multiple residential buildings; later strikes on Deir al-Balah killed at least four more people, and an Israeli minister said there was no deal to halt the attacks despite President Trump's announcement of a breakthrough in implementing the ceasefire agreement.",
+   "lives_lost": 18,
+   "description": "Israeli airstrikes and shelling continued across the Gaza Strip for a second straight day on Sunday, killing at least 18 Palestinians, including children, Gaza medics and civil defence officials said. Strikes hit multiple residential buildings, killed four people in Deir al-Balah and three near Saraya Square in Gaza City, and an Israeli minister said there was no deal to halt the attacks despite President Trump's announcement of a roadmap to implement the ceasefire agreement.",
    "sources": [
     "Anadolu Agency",
     "BSS (AFP)",
     "WAFA",
     "Xinhua",
-    "Al-Monitor",
-    "Express Tribune (AFP)"
+    "Dawn",
+    "TBS News"
    ]
   },
   {
@@ -7708,6 +7733,19 @@
     "VOV",
     "Deutschlandfunk",
     "Alquds"
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "title": "Russian glide bombs kill one in Zaporizhzhia",
+   "category": "war",
+   "location": "Zaporizhzhia, Ukraine",
+   "lives_lost": 1,
+   "description": "Russian aircraft dropped eight glide bombs on residential districts of Zaporizhzhia within 90 minutes on Sunday evening, killing a 71-year-old woman, wounding 31 people — including a 16-year-old girl — and damaging 22 apartment buildings in four districts of the city.",
+   "sources": [
+    "AP News",
+    "Daily Herald",
+    "Ukrinform"
    ]
   }
  ]
