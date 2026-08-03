@@ -38,5 +38,28 @@
    "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/msft-10q_20221231.htm",
    "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Owner of X (formerly Twitter)",
+  "promise": "X will be cash-flow positive by the second quarter of 2023",
+  "date_promised": "2023-03-07",
+  "due_date": "2023-06-30",
+  "status": "broken",
+  "description": "At a Morgan Stanley conference in March 2023 Musk said Twitter could become cash-flow positive 'next quarter', and in April he said the company could reach it 'as soon as this quarter'. In July 2023 he admitted cash flow was still negative because of a nearly 50% drop in advertising revenue and heavy debt load.",
+  "evidence": [
+   "Musk admitted in July 2023 that Twitter/X cash flow remained negative",
+   "Ad revenue fell ~50% in 2023; X later wrote down value sharply"
+  ],
+  "sources": [
+   "LA Times",
+   "The Guardian",
+   "RTE"
+  ],
+  "source_urls": [
+   "https://www.latimes.com/business/story/2023-04-12/musk-twitter-cash-flow-positive-this-quarter",
+   "https://amp.theguardian.com/technology/2023/jul/16/elon-musk-says-twitter-cash-flow-negative",
+   "https://www.rte.ie/news/business/2023/0717/1394888-twitters-cash-flow/"
+  ]
  }
 ]

@@ -1,11 +1,11 @@
 {
-  "total": 320,
-  "due_total": 273,
+  "total": 334,
+  "due_total": 285,
   "due_status": {
-    "broken": 126,
-    "partial": 49,
-    "kept": 93,
-    "kept (delayed)": 5
+    "broken": 132,
+    "partial": 50,
+    "kept": 95,
+    "kept (delayed)": 8
   },
   "months": [
     {
@@ -53,7 +53,7 @@
     {
       "key": "2029-01",
       "file": "promises/2029-01.json",
-      "count": 1,
+      "count": 2,
       "due": false
     },
     {
@@ -65,7 +65,7 @@
     {
       "key": "2027-12",
       "file": "promises/2027-12.json",
-      "count": 8,
+      "count": 9,
       "due": false
     },
     {
@@ -95,7 +95,7 @@
     {
       "key": "2026-03",
       "file": "promises/2026-03.json",
-      "count": 4,
+      "count": 5,
       "due": true
     },
     {
@@ -107,7 +107,7 @@
     {
       "key": "2025-12",
       "file": "promises/2025-12.json",
-      "count": 43,
+      "count": 49,
       "due": true
     },
     {
@@ -119,19 +119,19 @@
     {
       "key": "2025-07",
       "file": "promises/2025-07.json",
-      "count": 3,
+      "count": 4,
       "due": true
     },
     {
       "key": "2025-06",
       "file": "promises/2025-06.json",
-      "count": 2,
+      "count": 4,
       "due": true
     },
     {
       "key": "2025-03",
       "file": "promises/2025-03.json",
-      "count": 3,
+      "count": 4,
       "due": true
     },
     {
@@ -233,7 +233,7 @@
     {
       "key": "2023-06",
       "file": "promises/2023-06.json",
-      "count": 2,
+      "count": 3,
       "due": true
     },
     {

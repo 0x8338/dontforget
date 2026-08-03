@@ -76,5 +76,28 @@
    "https://www.thepaper.cn/newsDetail_forward_32923894",
    "https://cloud.tencent.cn/developer/article/2625007"
   ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will be writing 90% of code within 3-6 months, and essentially all code within 12 months",
+  "date_promised": "2025-03-13",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "At a Council on Foreign Relations forum (March 2025), Amodei said AI would be writing 90% of the code software developers were in charge of within three to six months, and 'essentially all of the code' within twelve months. The 90% milestone was not reached by September 2025; independent researchers estimated in 2026 that it would take 9-15 months beyond the prediction even inside Anthropic, let alone industry-wide.",
+  "evidence": [
+   "90% milestone not met by the September 2025 target",
+   "2026 assessments: goal still 9-15 months away by reasonable operational definitions"
+  ],
+  "sources": [
+   "Business Insider",
+   "Fortune",
+   "Gate TV"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3",
+   "https://alten.capital/blog/amodei-and-the-innovators-dilemma",
+   "http://gate.tv/zh/news/detail/anthropic-ceo-predicts-that-ai-will-handle-all-code-within-a-yearindustry-19924614"
+  ]
  }
 ]

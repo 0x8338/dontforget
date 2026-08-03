@@ -140,5 +140,28 @@
    "Yahoo Sports",
    "UPI"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Optimus robots will be produced en masse at a cost below $20,000, available in three to five years",
+  "date_promised": "2022-09-30",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "At AI Day (September 30, 2022) Musk said Tesla would produce the Optimus humanoid robot en masse at a cost lower than $20,000 and that it would be available in three to five years. As of August 2026 Optimus remained in factory-trial and prototype stages with no consumer availability or announced price — the sub-$20,000 mass-produced robot had not materialized.",
+  "evidence": [
+   "No Optimus consumer sales or price announced as of mid-2026",
+   "Optimus still demonstrated only in factory-trial footage"
+  ],
+  "sources": [
+   "BBC News",
+   "ZDNet",
+   "Business Insider"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/technology-63100636",
+   "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/",
+   "https://www2.businessinsider.com/elon-musk-tesla-robot-optimus-cost-less-than-car-2022-9"
+  ]
  }
 ]

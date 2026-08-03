@@ -5811,5 +5811,327 @@
    "https://www.forbes.com/sites/gilpress/2025/05/05/nvidia-builds-an-ai-superhighway-to-practical-quantum-computing/",
    "https://www.nvidia.com/en-gb/solutions/quantum-computing/accelerated-quantum-center/"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla's robotaxi service will cover half of the US population by the end of 2025",
+  "date_promised": "2025-05-15",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Throughout 2025 Musk promised that Tesla's robotaxi service would expand far beyond its June 2025 Austin launch — claiming the fleet in Austin would reach 500 vehicles and that the service would 'cover half the US population' by the end of the year. By December 2025 the service remained a small, geofenced Austin operation with safety monitors in cars; an eight-month status check found roughly 19% availability and most of Musk's milestones unmet.",
+  "evidence": [
+   "Austin fleet far below 500 vehicles; service never expanded beyond limited geofenced areas in 2025",
+   "Electrek (Dec 2025): 19% availability, all major 2025 robotaxi promises missing"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Electrek",
+   "Fortune"
+  ],
+  "source_urls": [
+   "https://ca.finance.yahoo.com/news/elon-musk-made-lot-promises-094401000.html",
+   "https://electrek.co/2025/12/22/tesla-robotaxi-project-austin-much-smaller-than-musk-claims/",
+   "https://fortune.com/2025/06/22/elon-musk-tesla-robotaxi-service-launch-austin-420-flat-fee/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will offer fully autonomous rides with no one in the car by June 2025",
+  "date_promised": "2025-01-29",
+  "due_date": "2025-06-30",
+  "status": "partial",
+  "description": "On Tesla's Q4 2024 earnings call Musk promised 'fully autonomous' rides with no one in the vehicle by June 2025. The robotaxi service launched in Austin on June 22, 2025, but with a safety monitor in the passenger seat and only 10-12 Model Ys in a tightly geofenced area — a real launch, but short of the driverless rides he promised.",
+  "evidence": [
+   "Austin robotaxi launch June 22, 2025 with safety monitors still in cars",
+   "Fleet of 10-12 vehicles, geofenced to a small area"
+  ],
+  "sources": [
+   "Electrek",
+   "Fortune",
+   "SyzGroup"
+  ],
+  "source_urls": [
+   "https://electrek.co/2026/02/16/tesla-robotaxi-status-check-8-months-in/",
+   "https://fortune.com/2025/06/22/elon-musk-tesla-robotaxi-service-launch-austin-420-flat-fee/",
+   "https://blog.syzgroup.com/hubfs/Focus_250722_Robotaxis.pdf"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will reach production capacity of 250,000 Cybertrucks per year by 2025",
+  "date_promised": "2023-07-15",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At the Cybertruck delivery event (July 2023) Musk said Tesla could reach annual production capacity of about 250,000 Cybertrucks by 2025. Actual results were a fraction of the target: roughly 39,000 units in 2024, falling to about 20,200 in 2025 as sales dropped 68% year-on-year in the final quarter — barely 8% of the promised rate.",
+  "evidence": [
+   "2025 Cybertruck sales ~20,200, about 8% of the 250,000 target",
+   "Production capacity settled at 125,000 units, well below the promised 250,000"
+  ],
+  "sources": [
+   "Inc.",
+   "Business Insider Africa",
+   "Electrive"
+  ],
+  "source_urls": [
+   "https://www.inc.com/fast-company-2/2026-cybertruck-tesla-saleselon-musk-ev-market/91292190",
+   "https://africa.businessinsider.com/transportation/teslas-cybertruck-is-falling-far-short-of-elon-musks-ambitious-sales-targets/gwcft7m",
+   "https://www.electrive.com/2026/01/21/tesla-cybertruck-sales-plummet/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Optimus robots will be produced en masse at a cost below $20,000, available in three to five years",
+  "date_promised": "2022-09-30",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "At AI Day (September 30, 2022) Musk said Tesla would produce the Optimus humanoid robot en masse at a cost lower than $20,000 and that it would be available in three to five years. As of August 2026 Optimus remained in factory-trial and prototype stages with no consumer availability or announced price — the sub-$20,000 mass-produced robot had not materialized.",
+  "evidence": [
+   "No Optimus consumer sales or price announced as of mid-2026",
+   "Optimus still demonstrated only in factory-trial footage"
+  ],
+  "sources": [
+   "BBC News",
+   "ZDNet",
+   "Business Insider"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/technology-63100636",
+   "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/",
+   "https://www2.businessinsider.com/elon-musk-tesla-robot-optimus-cost-less-than-car-2022-9"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Owner of X (formerly Twitter)",
+  "promise": "X will be cash-flow positive by the second quarter of 2023",
+  "date_promised": "2023-03-07",
+  "due_date": "2023-06-30",
+  "status": "broken",
+  "description": "At a Morgan Stanley conference in March 2023 Musk said Twitter could become cash-flow positive 'next quarter', and in April he said the company could reach it 'as soon as this quarter'. In July 2023 he admitted cash flow was still negative because of a nearly 50% drop in advertising revenue and heavy debt load.",
+  "evidence": [
+   "Musk admitted in July 2023 that Twitter/X cash flow remained negative",
+   "Ad revenue fell ~50% in 2023; X later wrote down value sharply"
+  ],
+  "sources": [
+   "LA Times",
+   "The Guardian",
+   "RTE"
+  ],
+  "source_urls": [
+   "https://www.latimes.com/business/story/2023-04-12/musk-twitter-cash-flow-positive-this-quarter",
+   "https://amp.theguardian.com/technology/2023/jul/16/elon-musk-says-twitter-cash-flow-negative",
+   "https://www.rte.ie/news/business/2023/0717/1394888-twitters-cash-flow/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of xAI",
+  "promise": "Grok 4 will be released just after July 4, 2025",
+  "date_promised": "2025-06-29",
+  "due_date": "2025-07-07",
+  "status": "kept (delayed)",
+  "description": "Musk announced in late June 2025 that xAI was in the final stages of preparing Grok 4 for release 'just after July 4'. The model was unveiled on July 9, 2025 via a livestream, only a few days past the stated window, and was later made available free to all users.",
+  "evidence": [
+   "Grok 4 launched July 9, 2025, two days past the 'just after July 4' window",
+   "Musk: 'We're in the final stages of prepping Grok 4, set for release just after July 4'"
+  ],
+  "sources": [
+   "AIBusiness",
+   "ET Edge Insights",
+   "DNA India"
+  ],
+  "source_urls": [
+   "https://aibusiness.com/chatbot/elon-musk-xai-slates-post-july-4-release-for-grok-4",
+   "https://etedge-insights.com/technology/artificial-intelligence/elon-musks-xai-to-launch-grok-4-this-week-what-to-expect-from-the-latest-ai-model/",
+   "https://www.dnaindia.com/business/report-elon-musk-to-launch-grok-4-livestream-on-know-timing-features-why-it-could-beat-chatgpt-google-gemini-3166807"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"I'll demand that interest rates drop immediately.\"",
+  "date_promised": "2025-01-23",
+  "due_date": "2025-06-30",
+  "status": "broken",
+  "description": "In a video address to the World Economic Forum at Davos, Trump said he would 'demand that interest rates drop immediately, and likewise they should be dropping all over the world'. The Federal Reserve held its policy rate at 4.25-4.50% through the first half of 2025, and the US president has no authority to set interest rates.",
+  "evidence": [
+   "Fed held rates at 4.25-4.50% until September 2025 — no immediate drop",
+   "Analysts noted the president cannot order the Fed to cut rates"
+  ],
+  "sources": [
+   "Nasdaq",
+   "Barron's",
+   "Kenyan Wallstreet"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/can-trump-really-demand-interest-rates-go-down",
+   "https://www.barrons.com/livecoverage/stock-market-today-012325/card/treasury-yields-fall-during-trump-remarks-9Cu2hho4FChCaF841gfj",
+   "https://kenyanwallstreet.com/trump-pushes-for-lower-interest-rates-globally"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Executive order ending birthright citizenship — \"This is a big one.\"",
+  "date_promised": "2025-01-20",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "On his first day back in office Trump signed Executive Order 14160, 'Protecting the Meaning and Value of American Citizenship', seeking to end birthright citizenship for children of undocumented or temporary residents. Federal courts blocked it, and in June 2026 the US Supreme Court struck it down by a 6-3 vote, holding that children born on US soil are citizens regardless of their parents' status.",
+  "evidence": [
+   "Supreme Court struck down EO 14160 in a 6-3 ruling in June 2026",
+   "Order never took effect; courts blocked it from the start"
+  ],
+  "sources": [
+   "TASS",
+   "Fragomen",
+   "CNN"
+  ],
+  "source_urls": [
+   "https://tass.com/world/2153679",
+   "https://www.fragomen.com/insights/united-states-supreme-court-strikes-down-effort-to-limit-birthright-citizenship.html",
+   "https://us.cnn.com/2026/07/01/politics/trump-supreme-court-birthright-citizenship-major-accomplishment-analysis"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Stargate will invest up to $500 billion in US AI infrastructure, with $100 billion starting immediately",
+  "date_promised": "2025-01-21",
+  "due_date": "2029-01-20",
+  "status": "partial",
+  "description": "At the White House, Altman — with SoftBank's Masayoshi Son and Oracle's Larry Ellison — announced Stargate, a partnership to invest up to $500 billion in US AI data centres over four years, promising 10 gigawatts of computing capacity and $100 billion in near-immediate spending. Construction advanced across multiple states, but by 2026 funding questions persisted (Musk publicly said 'they don't have money'), and Reuters reported OpenAI widening the project's scope and pursuing debt financing to pay for chips.",
+  "evidence": [
+   "Multiple Stargate data centre projects under construction by 2025-2026",
+   "Reuters (Sept 2025): scope widened, debt financing sought; Musk's 'they don't have money' criticism echoed by analysts"
+  ],
+  "sources": [
+   "Anadolu Agency",
+   "Reuters",
+   "Times of India"
+  ],
+  "source_urls": [
+   "https://aa.com.tr/en/artificial-intelligence/us-tech-giants-teaming-up-to-invest-up-to-500b-into-ai/3459120",
+   "https://www.reuters.com/business/media-telecom/openai-under-pressure-meet-demand-widens-scope-stargate-eyes-debt-finance-chips-2025-09-24/",
+   "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-they-dont-have-money-for-sam-altmans-openai-may-be-coming-true-and-it-may-be-affecting-two-of-its-biggest-partners-oracle-and-softbank/articleshow/128706216.cms"
+  ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "OpenAI's o3 reasoning model will be released in early 2025",
+  "date_promised": "2024-12-20",
+  "due_date": "2025-03-31",
+  "status": "kept (delayed)",
+  "description": "When OpenAI announced o3 in December 2024 it said the reasoning model would be available to users in 'early 2025'. OpenAI shipped o3 and o4-mini to the API on April 16, 2025 — about two weeks past the first quarter, but delivered.",
+  "evidence": [
+   "o3 and o4-mini released to the API on April 16, 2025",
+   "OpenAI's December 2024 announcement targeted 'early 2025' availability"
+  ],
+  "sources": [
+   "OpenAI",
+   "TechCrunch",
+   "The Verge"
+  ],
+  "source_urls": [
+   "https://openai.com/index/introducing-o3-and-o4-mini/",
+   "https://techcrunch.com/2025/04/16/openai-releases-o3-and-o4-mini/",
+   "https://www.theverge.com/2025/4/16/24464022/openai-o3-o4-mini-release"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will be writing 90% of code within 3-6 months, and essentially all code within 12 months",
+  "date_promised": "2025-03-13",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "At a Council on Foreign Relations forum (March 2025), Amodei said AI would be writing 90% of the code software developers were in charge of within three to six months, and 'essentially all of the code' within twelve months. The 90% milestone was not reached by September 2025; independent researchers estimated in 2026 that it would take 9-15 months beyond the prediction even inside Anthropic, let alone industry-wide.",
+  "evidence": [
+   "90% milestone not met by the September 2025 target",
+   "2026 assessments: goal still 9-15 months away by reasonable operational definitions"
+  ],
+  "sources": [
+   "Business Insider",
+   "Fortune",
+   "Gate TV"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3",
+   "https://alten.capital/blog/amodei-and-the-innovators-dilemma",
+   "http://gate.tv/zh/news/detail/anthropic-ceo-predicts-that-ai-will-handle-all-code-within-a-yearindustry-19924614"
+  ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Claude Opus 4.5 will arrive later in 2025",
+  "date_promised": "2025-09-29",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "After Anthropic released Claude Sonnet 4.5 in September 2025, the company said the flagship Opus 4.5 would follow later that year. Claude Opus 4.5 launched on November 24, 2025, touted as the best model for coding, agents and computer use, and scoring 80.9% on SWE-bench Verified.",
+  "evidence": [
+   "Claude Opus 4.5 released November 24, 2025",
+   "Announcement followed Sonnet 4.5 (Sept 2025) and Haiku 4.5 (Oct 2025), matching the promised cadence"
+  ],
+  "sources": [
+   "CNBC",
+   "Anthropic",
+   "LLM Stats"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2025/11/24/anthropic-unveils-claude-opus-4point5-its-latest-ai-model.html",
+   "https://www.anthropic.com/news/claude-opus-4-5",
+   "https://llm-stats.com/blog/research/claude-opus-4.5-launch"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "DGX Spark, the $3,999 personal AI supercomputer, will be available in 2025",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "At GTC 2025 Huang introduced DGX Spark, a GB10 Grace Blackwell desktop AI supercomputer priced at $3,999, saying it would be available later in the year. After months of delay, NVIDIA began selling DGX Spark on October 15, 2025 through Nvidia.com and third-party retailers.",
+  "evidence": [
+   "DGX Spark went on sale October 15, 2025 at $3,999",
+   "Launch came after several months of delays from the initially expected mid-2025 availability"
+  ],
+  "sources": [
+   "36Kr",
+   "VideoCardz",
+   "ZOL"
+  ],
+  "source_urls": [
+   "https://eu.36kr.com/en/p/3509594242685826",
+   "https://videocardz.com/newz/nvidia-renames-project-digits-to-dgx-spark-mini-pc-with-gb10-grace-blackwell-superchip-to-launch-at-3999",
+   "https://ai.zol.com.cn/1063/10635641.html"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Blackwell Ultra (GB300) platforms will start shipping in the second half of 2025",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "At GTC 2025 Huang announced the Blackwell Ultra GPU and the GB300 NVL72 and B300 NVL16 platforms, saying shipments would begin in the second half of 2025. In August 2025 Huang confirmed the Blackwell Ultra GB300 AI platform was in full-scale mass production with output ramping successfully, meeting the H2 2025 window.",
+  "evidence": [
+   "GB300 NVL72 entered full-scale mass production by August 2025",
+   "Shipments began in H2 2025 as promised at GTC"
+  ],
+  "sources": [
+   "CRN",
+   "TweakTown",
+   "CNStock"
+  ],
+  "source_urls": [
+   "https://www.crn.com/news/ai/2025/10-big-nvidia-gtc-2025-announcements-blackwell-ultra-rubin-ultra-dgx-spark-and-more",
+   "https://www.tweaktown.com/news/107280/nvidia-ceo-says-new-blackwell-ultra-gb300-ai-platform-is-in-full-scale-mass-production/index.html",
+   "https://www.cnstock.com/commonDetail/377435"
+  ]
  }
 ]

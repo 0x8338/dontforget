@@ -703,15 +703,60 @@
  },
  {
   "date": "2026-08-02",
-  "title": "Israeli strikes kill eight in Gaza",
+  "title": "Israeli strikes kill 13 in Gaza",
   "category": "war",
   "location": "Gaza Strip, Palestine",
-  "lives_lost": 8,
-  "description": "Overnight Israeli strikes on the Gaza Strip hit multiple residential buildings and killed at least eight Palestinians on Sunday, including two children, Gaza's civil defence said. A man and his wife were killed when an Israeli military helicopter struck an apartment in the central Gaza Strip; an elderly man and a child were killed west of Gaza City; and three people, including a child, died in a strike northwest of Khan Younis. The strikes came despite Hamas agreeing to the next stage of a US-backed ceasefire plan.",
+  "lives_lost": 13,
+  "description": "Israeli airstrikes and shelling continued across the Gaza Strip for a second straight day on Sunday, killing at least 13 Palestinians, including two children, Gaza medics and civil defence officials said. Overnight strikes around midnight hit multiple residential buildings; later strikes on Deir al-Balah killed at least four more people, and an Israeli minister said there was no deal to halt the attacks despite President Trump's announcement of a breakthrough in implementing the ceasefire agreement.",
   "sources": [
    "Anadolu Agency",
    "BSS (AFP)",
-   "WAFA"
+   "WAFA",
+   "Xinhua",
+   "Al-Monitor",
+   "Express Tribune (AFP)"
+  ]
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Firefighting helicopters collide in Greece killing two",
+  "category": "industrial",
+  "location": "Western Attica, Greece",
+  "lives_lost": 2,
+  "description": "Two firefighting helicopters collided in mid-air on Sunday while battling a wind-driven wildfire west of Athens, and one caught fire and crashed. A Greek and a Danish crew member died; the two survivors — a Greek and a British national — were taken to hospital in Athens.",
+  "sources": [
+   "Xinhua",
+   "TASS",
+   "CTV News",
+   "Anadolu Agency"
+  ]
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Suicide bombing at anti-militant rally kills 14 in Swat",
+  "category": "terrorism",
+  "location": "Kabal, Swat, Khyber Pakhtunkhwa, Pakistan",
+  "lives_lost": 14,
+  "description": "A suicide bomber targeted protesters gathered outside a police station in Kabal, Swat, on Sunday, killing at least 14 people — including eight police officers — and wounding more than two dozen others, officials said. The rally was part of an anti-militant peace campaign in northwestern Pakistan.",
+  "sources": [
+   "AP News",
+   "CNN",
+   "South China Morning Post",
+   "LA Times"
+  ]
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Ukraine strikes deep inside Russia kill eight",
+  "category": "war",
+  "location": "Belgorod and Moscow regions, Russia",
+  "lives_lost": 8,
+  "description": "Large-scale Ukrainian drone strikes on targets deep inside Russia on Sunday killed at least eight people, including at logistics warehouses of retailer Wildberries in the Moscow region. Russia said it shot down 635 UAVs overnight, and the acting governor of the border Belgorod region reported four dead in strikes on civilian areas.",
+  "sources": [
+   "Tempo (Reuters)",
+   "VOV",
+   "Deutschlandfunk",
+   "Alquds"
   ]
  }
 ]

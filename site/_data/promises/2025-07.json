@@ -51,5 +51,28 @@
    "UK Parliament",
    "Estonian Ministry of Defence"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of xAI",
+  "promise": "Grok 4 will be released just after July 4, 2025",
+  "date_promised": "2025-06-29",
+  "due_date": "2025-07-07",
+  "status": "kept (delayed)",
+  "description": "Musk announced in late June 2025 that xAI was in the final stages of preparing Grok 4 for release 'just after July 4'. The model was unveiled on July 9, 2025 via a livestream, only a few days past the stated window, and was later made available free to all users.",
+  "evidence": [
+   "Grok 4 launched July 9, 2025, two days past the 'just after July 4' window",
+   "Musk: 'We're in the final stages of prepping Grok 4, set for release just after July 4'"
+  ],
+  "sources": [
+   "AIBusiness",
+   "ET Edge Insights",
+   "DNA India"
+  ],
+  "source_urls": [
+   "https://aibusiness.com/chatbot/elon-musk-xai-slates-post-july-4-release-for-grok-4",
+   "https://etedge-insights.com/technology/artificial-intelligence/elon-musks-xai-to-launch-grok-4-this-week-what-to-expect-from-the-latest-ai-model/",
+   "https://www.dnaindia.com/business/report-elon-musk-to-launch-grok-4-livestream-on-know-timing-features-why-it-could-beat-chatgpt-google-gemini-3166807"
+  ]
  }
 ]

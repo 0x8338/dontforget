@@ -21,5 +21,28 @@
    "https://www.newsweek.com/2025/04/11/donald-trump-elon-musk-space-mission-mars-experts-2053151.html",
    "https://www.euronews.com/next/2025/02/20/the-red-planet-or-bust-can-the-us-get-humans-to-mars-in-donald-trumps-second-term"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Stargate will invest up to $500 billion in US AI infrastructure, with $100 billion starting immediately",
+  "date_promised": "2025-01-21",
+  "due_date": "2029-01-20",
+  "status": "partial",
+  "description": "At the White House, Altman — with SoftBank's Masayoshi Son and Oracle's Larry Ellison — announced Stargate, a partnership to invest up to $500 billion in US AI data centres over four years, promising 10 gigawatts of computing capacity and $100 billion in near-immediate spending. Construction advanced across multiple states, but by 2026 funding questions persisted (Musk publicly said 'they don't have money'), and Reuters reported OpenAI widening the project's scope and pursuing debt financing to pay for chips.",
+  "evidence": [
+   "Multiple Stargate data centre projects under construction by 2025-2026",
+   "Reuters (Sept 2025): scope widened, debt financing sought; Musk's 'they don't have money' criticism echoed by analysts"
+  ],
+  "sources": [
+   "Anadolu Agency",
+   "Reuters",
+   "Times of India"
+  ],
+  "source_urls": [
+   "https://aa.com.tr/en/artificial-intelligence/us-tech-giants-teaming-up-to-invest-up-to-500b-into-ai/3459120",
+   "https://www.reuters.com/business/media-telecom/openai-under-pressure-meet-demand-widens-scope-stargate-eyes-debt-finance-chips-2025-09-24/",
+   "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-they-dont-have-money-for-sam-altmans-openai-may-be-coming-true-and-it-may-be-affecting-two-of-its-biggest-partners-oracle-and-softbank/articleshow/128706216.cms"
+  ]
  }
 ]

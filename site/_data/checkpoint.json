@@ -1,13 +1,13 @@
 {
   "events": {
-    "last_date": "2026-08-02",
-    "total": 545
+    "last_date": "2026-08-03",
+    "total": 548
   },
   "promises": {
-    "last_date": "2026-08-02",
-    "total": 320
+    "last_date": "2026-08-03",
+    "total": 334
   },
-  "last_updated": "2026-08-02T08:21:46Z",
+  "last_updated": "2026-08-03T02:05:52Z",
   "update_policy": "daily-incremental",
   "promises_expansion": {
     "last_focus": "trump-musk-altman-amodei-huang"

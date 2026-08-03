@@ -46,5 +46,28 @@
    "Sitharaman remarks, Aug 2019",
    "IMF World Economic Outlook, Oct 2025, imf.org"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "OpenAI's o3 reasoning model will be released in early 2025",
+  "date_promised": "2024-12-20",
+  "due_date": "2025-03-31",
+  "status": "kept (delayed)",
+  "description": "When OpenAI announced o3 in December 2024 it said the reasoning model would be available to users in 'early 2025'. OpenAI shipped o3 and o4-mini to the API on April 16, 2025 — about two weeks past the first quarter, but delivered.",
+  "evidence": [
+   "o3 and o4-mini released to the API on April 16, 2025",
+   "OpenAI's December 2024 announcement targeted 'early 2025' availability"
+  ],
+  "sources": [
+   "OpenAI",
+   "TechCrunch",
+   "The Verge"
+  ],
+  "source_urls": [
+   "https://openai.com/index/introducing-o3-and-o4-mini/",
+   "https://techcrunch.com/2025/04/16/openai-releases-o3-and-o4-mini/",
+   "https://www.theverge.com/2025/4/16/24464022/openai-o3-o4-mini-release"
+  ]
  }
 ]

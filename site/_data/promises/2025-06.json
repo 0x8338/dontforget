@@ -32,5 +32,51 @@
    "World Bank Group press release (December 15, 2021)",
    "World Bank IDA20 mid-term review (2024)"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will offer fully autonomous rides with no one in the car by June 2025",
+  "date_promised": "2025-01-29",
+  "due_date": "2025-06-30",
+  "status": "partial",
+  "description": "On Tesla's Q4 2024 earnings call Musk promised 'fully autonomous' rides with no one in the vehicle by June 2025. The robotaxi service launched in Austin on June 22, 2025, but with a safety monitor in the passenger seat and only 10-12 Model Ys in a tightly geofenced area — a real launch, but short of the driverless rides he promised.",
+  "evidence": [
+   "Austin robotaxi launch June 22, 2025 with safety monitors still in cars",
+   "Fleet of 10-12 vehicles, geofenced to a small area"
+  ],
+  "sources": [
+   "Electrek",
+   "Fortune",
+   "SyzGroup"
+  ],
+  "source_urls": [
+   "https://electrek.co/2026/02/16/tesla-robotaxi-status-check-8-months-in/",
+   "https://fortune.com/2025/06/22/elon-musk-tesla-robotaxi-service-launch-austin-420-flat-fee/",
+   "https://blog.syzgroup.com/hubfs/Focus_250722_Robotaxis.pdf"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"I'll demand that interest rates drop immediately.\"",
+  "date_promised": "2025-01-23",
+  "due_date": "2025-06-30",
+  "status": "broken",
+  "description": "In a video address to the World Economic Forum at Davos, Trump said he would 'demand that interest rates drop immediately, and likewise they should be dropping all over the world'. The Federal Reserve held its policy rate at 4.25-4.50% through the first half of 2025, and the US president has no authority to set interest rates.",
+  "evidence": [
+   "Fed held rates at 4.25-4.50% until September 2025 — no immediate drop",
+   "Analysts noted the president cannot order the Fed to cut rates"
+  ],
+  "sources": [
+   "Nasdaq",
+   "Barron's",
+   "Kenyan Wallstreet"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/can-trump-really-demand-interest-rates-go-down",
+   "https://www.barrons.com/livecoverage/stock-market-today-012325/card/treasury-yields-fall-during-trump-remarks-9Cu2hho4FChCaF841gfj",
+   "https://kenyanwallstreet.com/trump-pushes-for-lower-interest-rates-globally"
+  ]
  }
 ]
