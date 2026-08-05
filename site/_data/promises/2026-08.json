@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Sanae Takaichi",
+  "role": "Prime Minister of Japan",
+  "promise": "\"We intend to designate this disaster as an 'Extremely Severe Disaster'\" - all-out government support for Kumamoto earthquake recovery, including Cabinet reserve funds",
+  "date_promised": "2026-08-03",
+  "due_date": "2026-08-31",
+  "status": "partial",
+  "description": "On her first visit to quake-hit Kumamoto since the July 28 earthquake, Prime Minister Takaichi pledged all-out government support, said the government would designate the quake an 'extremely severe disaster' to raise state aid, and announced Cabinet approval of more than 20 billion yen in reserve funds on August 4. The Cabinet approved 24.2 billion yen in contingency spending on August 4, while the formal designation was still being prepared days later.",
+  "evidence": [
+   "Cabinet approved 24.2bn yen in reserve-fund spending on Aug 4, 2026",
+   "Extremely severe disaster designation still being prepared as of Aug 5, 2026"
+  ],
+  "sources": [
+   "Asahi Shimbun",
+   "Nippon.com",
+   "Manila Bulletin"
+  ],
+  "source_urls": [
+   "https://www.asahi.com/ajw/articles/16782772",
+   "https://www.nippon.com/en/news/yjj2026080400096/",
+   "https://mb.com.ph/2026/08/04/kumamoto-quake-to-be-designated-disaster-of-extreme-severity-for-more-state-aid"
+  ]
+ }
+]

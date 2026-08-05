@@ -39,5 +39,28 @@
    "https://www.reuters.com/sustainability/climate-energy/shell-softens-carbon-targets-2023-06-14/",
    "https://en.wikipedia.org/wiki/Wael_Sawan"
   ]
+ },
+ {
+  "person": "NATO Allies (The Hague Summit)",
+  "role": "Alliance members",
+  "promise": "Raise defence spending to 5% of GDP by 2035 (3.5% core defence plus 1.5% for defence-related projects)",
+  "date_promised": "2025-06-25",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "At the June 2025 summit in The Hague, NATO leaders replaced the 2% Wales target with a 5%-of-GDP target to be achieved by 2035, split into 3.5% for core defence and 1.5% for defence-related projects. As of mid-2026, five Allies were projected to already exceed the 3.5% core target, while most remained below it and one Ally still spent under 2%.",
+  "evidence": [
+   "Target of 5% of GDP by 2035 adopted at The Hague Summit (June 2025)",
+   "July 2026 NATO figures: only five Allies projected above the 3.5% core target"
+  ],
+  "sources": [
+   "ICDS",
+   "Ahram",
+   "United24 Media"
+  ],
+  "source_urls": [
+   "https://icds.ee/en/defence-spending-who-is-doing-what-july-2026/",
+   "https://english.ahram.org.eg/NewsContentMulti/548672/Multimedia.aspx",
+   "https://united24media.com/world/five-nato-members-hit-gdp-35-defense-spending-target-nearly-decade-early-20572"
+  ]
  }
 ]

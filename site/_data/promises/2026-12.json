@@ -231,5 +231,49 @@
    "https://techfundingnews.com/nvidia-launches-its-first-open-humanoid-robot/",
    "https://www.inc.com/connor-jewiss/how-nvidias-new-humanoid-machine-solves-the-robot-industrys-biggest-problem/91361759"
   ]
+ },
+ {
+  "person": "Anura Kumara Dissanayake",
+  "role": "President of Sri Lanka",
+  "promise": "Repeal the Prevention of Terrorism Act before the end of 2026",
+  "date_promised": "2026-06-25",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "President Dissanayake told Parliament that the Prevention of Terrorism Act (PTA), in force since 1979 as a temporary measure, would be repealed within 2026 and replaced with a targeted organised-crime law, saying final discussions had concluded and the government would move swiftly.",
+  "evidence": [
+   "PTA repeal pledged in Parliament on June 25, 2026",
+   "Replacement targeted organised-crime legislation announced as the vehicle"
+  ],
+  "sources": [
+   "Daily FT",
+   "The Morning",
+   "Sri Lanka Mirror"
+  ],
+  "source_urls": [
+   "https://www.ft.lk/news/AKD-vows-to-scrap-PTA-this-year-replace-with-targeted-organised-crime-law/56-793829",
+   "https://www.themorning.lk/articles/u2lZ3uVpmvG0d5Aas7kj",
+   "https://srilankamirror.com/news/prevention-of-terrorism-act-to-be-repealed-president/"
+  ]
+ },
+ {
+  "person": "John Dramani Mahama",
+  "role": "President of Ghana",
+  "promise": "Complete the Kasoa-Winneba highway by December 31, 2026",
+  "date_promised": "2026-04-22",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "During an inspection of the Kasoa-Winneba dualisation project, President Mahama said the government was working with the contractor to complete the highway by December 31, 2026 - three months ahead of schedule - or shortly into the first quarter of 2027.",
+  "evidence": [
+   "Target date of December 31, 2026 restated in April 2026",
+   "Completion may slip into Q1 2027 per the president's own caveat"
+  ],
+  "sources": [
+   "Citi Newsroom",
+   "The Vaultz News"
+  ],
+  "source_urls": [
+   "https://www.citinewsroom.com/2026/04/mahama-kasoa-winneba-highway-to-be-completed-by-end-2026/",
+   "https://thevaultznews.com/2026/04/23/mahama-inspects-kasoa-winneba-dualisation-projects-targets-december-2026-completion/"
+  ]
  }
 ]

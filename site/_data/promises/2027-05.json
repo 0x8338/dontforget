@@ -1,0 +1,25 @@
+[
+ {
+  "person": "WHO Pandemic Agreement negotiators (IGWG)",
+  "role": "World Health Assembly intergovernmental negotiating group",
+  "promise": "Conclude the Pathogen Access and Benefit-Sharing (PABS) annex to the Pandemic Agreement by the 80th World Health Assembly (May 2027)",
+  "date_promised": "2026-06-03",
+  "due_date": "2027-05-31",
+  "status": "pending",
+  "description": "Negotiations on the Pandemic Agreement's PABS annex did not conclude at the 79th World Health Assembly in 2026. The deadline for the intergovernmental working group to submit its final outcome was extended to the 80th WHA in May 2027, with one additional negotiating session scheduled for July 2026.",
+  "evidence": [
+   "Deadline extended to the 80th WHA (May 2027) per a UK Parliament written statement",
+   "Only one further negotiating session (July 2026) was scheduled as of mid-2026"
+  ],
+  "sources": [
+   "UK Parliament",
+   "The Lancet",
+   "EpiNews"
+  ],
+  "source_urls": [
+   "https://questions-statements.parliament.uk/written-statements/detail/2026-06-03/HCWS82",
+   "https://www.thelancet.com/latest-news-comment",
+   "https://epinews.emphnet.net/en/news/countries-to-reconvene-sooner-to-accelerate-progress-on-who-pathogen-access-and-benefit-sharing-system-negotiations"
+  ]
+ }
+]

@@ -1,0 +1,25 @@
+[
+ {
+  "person": "World Bank (IDA21)",
+  "role": "International Development Association donors",
+  "promise": "Provide a record $100 billion package to support the world's poorest countries over fiscal years 2026-2028",
+  "date_promised": "2024-12-04",
+  "due_date": "2028-06-30",
+  "status": "pending",
+  "description": "The 21st replenishment of the World Bank's International Development Association, finalized in December 2024, produced a record financing package of up to $100 billion for fiscal years 2026-2028. Donors including the UK, which pledged £1.98 billion, committed during the replenishment; delivery runs through June 30, 2028.",
+  "evidence": [
+   "IDA21 replenishment finalized December 2024 at up to $100bn for FY2026-28",
+   "UK pledged £1.98bn; disbursement cycle runs to June 30, 2028"
+  ],
+  "sources": [
+   "World Bank",
+   "Uzbekistan Government",
+   "UK Parliament"
+  ],
+  "source_urls": [
+   "https://www.worldbank.org/en/news/speech/2024/12/04/opening-remarks-by-axel-van-trotsenburg-at-the-ida21-final-replenishment-meeting-opening-session",
+   "https://gov.uz/en/imv/news/view/178888",
+   "https://questions-statements.parliament.uk/written-questions/detail/2026-04-24/129668"
+  ]
+ }
+]

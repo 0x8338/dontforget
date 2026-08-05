@@ -1,5 +1,5 @@
 {
-  "total": 341,
+  "total": 348,
   "due_total": 292,
   "due_status": {
     "broken": 134,
@@ -29,7 +29,7 @@
     {
       "key": "2035-12",
       "file": "promises/2035-12.json",
-      "count": 2,
+      "count": 3,
       "due": false
     },
     {
@@ -63,9 +63,21 @@
       "due": false
     },
     {
+      "key": "2028-06",
+      "file": "promises/2028-06.json",
+      "count": 1,
+      "due": false
+    },
+    {
       "key": "2027-12",
       "file": "promises/2027-12.json",
-      "count": 9,
+      "count": 10,
+      "due": false
+    },
+    {
+      "key": "2027-05",
+      "file": "promises/2027-05.json",
+      "count": 1,
       "due": false
     },
     {
@@ -77,8 +89,14 @@
     {
       "key": "2026-12",
       "file": "promises/2026-12.json",
-      "count": 12,
+      "count": 14,
       "due": false
+    },
+    {
+      "key": "2026-08",
+      "file": "promises/2026-08.json",
+      "count": 1,
+      "due": true
     },
     {
       "key": "2026-07",

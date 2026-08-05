@@ -106,6 +106,57 @@
   ]
  },
  {
+  "date": "2026-08-04",
+  "title": "Ukrainian drone strike on Moscow region kills five",
+  "category": "war",
+  "location": "Chekhov district, Moscow Oblast, Russia",
+  "lives_lost": 5,
+  "description": "A Ukrainian drone strike on an industrial zone in Novoselki near Chekhov, outside Moscow, started fires at an industrial site and killed five people, wounding at least six others, Moscow Region Governor Andrei Vorobyov said. The attack was part of an escalation of long-range drone strikes exchanged between Russia and Ukraine.",
+  "sources": [
+   "SANA",
+   "The News (AFP)"
+  ]
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Russian guided bombs kill three in Sumy",
+  "category": "war",
+  "location": "Sumy, Ukraine",
+  "lives_lost": 3,
+  "description": "Russian forces struck Sumy with six guided aerial bombs between 2:08 and 2:17 a.m., hitting civilian infrastructure. One bomb struck a residential area, killing three civilians - two girls aged 5 and 10 and a 76-year-old woman - and injuring four others, according to the Sumy City Council.",
+  "sources": [
+   "Ukrinform",
+   "SANA",
+   "Albawabh News"
+  ]
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Serviceman kills four in shooting near Sevastopol",
+  "category": "gun-violence",
+  "location": "Khmelnitskoye, Sevastopol, Crimea",
+  "lives_lost": 4,
+  "description": "A Russian serviceman opened fire on fellow soldiers and civilians in the village of Khmelnitskoye near Sevastopol, killing four people - one soldier and three civilians aged 59, 64 and 71 - and wounding four others before being detained, Sevastopol Governor Mikhail Razvozhayev said.",
+  "sources": [
+   "Xinhua",
+   "AP News",
+   "The Canadian Press"
+  ]
+ },
+ {
+  "date": "2026-08-04",
+  "title": "CRPF officer shooting in Assam kills four",
+  "category": "gun-violence",
+  "location": "Nagaon, Assam, India",
+  "lives_lost": 4,
+  "description": "A CRPF officer shot two colleagues dead and seriously wounded another at the 34th Battalion camp in Katimari, Nagaon, before killing himself; the wounded personnel member later died in hospital, bringing the death toll to four, police said.",
+  "sources": [
+   "Deccan Herald",
+   "Asianet News",
+   "Pratidin Time"
+  ]
+ },
+ {
   "date": "2026-03-01",
   "title": "Abiemnom massacre",
   "category": "war",
@@ -433,6 +484,45 @@
   ]
  },
  {
+  "date": "2026-08-03",
+  "title": "Israeli fire kills 19 Palestinians in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 19,
+  "description": "At least 19 Palestinians were killed by Israeli fire over 24 hours, including 18 killed by Israeli forces and one who died of wounds from an earlier attack, according to the Gaza Health Ministry. The deaths brought the number of Palestinians killed since the ceasefire to more than 1,250.",
+  "sources": [
+   "Express Tribune",
+   "Anadolu Agency",
+   "SANA"
+  ]
+ },
+ {
+  "date": "2026-08-03",
+  "title": "Ukrainian drone strike on Gelendzhik beach kills seven",
+  "category": "war",
+  "location": "Arkhipo-Osipovka, Krasnodar Krai, Russia",
+  "lives_lost": 7,
+  "description": "During a Ukrainian drone attack on Russia's Krasnodar Krai on August 3, a drone fell onto a crowded beach at Arkhipo-Osipovka near Gelendzhik, killing at least seven people, including four children, and injuring more than 50. Ukrainian officials said the deaths were caused by Russian air-defence debris.",
+  "sources": [
+   "CNN",
+   "TASS",
+   "Ukrinform"
+  ]
+ },
+ {
+  "date": "2026-08-03",
+  "title": "Landslide kills 14 at Ethiopian monastery",
+  "category": "natural-disaster",
+  "location": "North Shewa Zone, Amhara, Ethiopia",
+  "lives_lost": 14,
+  "description": "Heavy rainfall triggered a landslide that buried worshippers gathered at Tsadqane Debre Mitmaq St. Mary Monastery in Amhara's North Shewa Zone, killing 14 people and injuring at least seven, with an unknown number still missing as search and rescue efforts continued.",
+  "sources": [
+   "AP News",
+   "Xinhua",
+   "EFE"
+  ]
+ },
+ {
   "date": "2025-06-14",
   "title": "Shooting of Minnesota state legislators",
   "category": "gun-violence",
@@ -473,6 +563,19 @@
   ]
  },
  {
+  "date": "2026-08-05",
+  "title": "Russian missile strikes on Kyiv kill two",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 2,
+  "description": "Russia attacked Kyiv with waves of ballistic missiles after midnight, killing a woman in the city and one person in the surrounding region, injuring more than 30, and starting fires that damaged warehouses. Air defences were active for more than an hour and an ammonia leak was reported.",
+  "sources": [
+   "Reuters",
+   "Deutschlandfunk",
+   "Tagesspiegel"
+  ]
+ },
+ {
   "date": "2025-01-07",
   "title": "Los Angeles wildfires (Palisades and Eaton fires)",
   "category": "natural-disaster",
@@ -491,12 +594,14 @@
   "title": "2026 Venezuela earthquakes",
   "category": "natural-disaster",
   "location": "La Guaira and Yaracuy, Venezuela",
-  "lives_lost": 5546,
-  "description": "On 24 June 2026, a doublet of earthquakes — an Mw 7.2 foreshock followed roughly 30 seconds later by an Mw 7.5 mainshock — struck the central Venezuelan coast, with epicenters in Yaracuy state and offshore La Guaira state. At least 5,546 people were killed and 16,740 injured, with tens of thousands initially missing; nearly 800 buildings collapsed and about 590,000 were damaged, and the worst-hit communities in La Guaira lost roughly 80% of their buildings. The UN Office for Disaster Risk Reduction estimated US$37 billion in direct damage.",
+  "lives_lost": 6125,
+  "description": "On 24 June 2026, a doublet of earthquakes — an Mw 7.2 foreshock followed roughly 30 seconds later by an Mw 7.5 mainshock — struck the central Venezuelan coast, with epicenters in Yaracuy state and offshore La Guaira state. At least 5,546 people were killed and 16,740 injured, with tens of thousands initially missing; nearly 800 buildings collapsed and about 590,000 were damaged, and the worst-hit communities in La Guaira lost roughly 80% of their buildings. The UN Office for Disaster Risk Reduction estimated US$37 billion in direct damage. The death toll rose to 6,125 by August 4, 2026, with nearly 17,000 people injured, as rescue and recovery operations continued.",
   "sources": [
    "Associated Press",
    "BBC News",
-   "The Guardian"
+   "The Guardian",
+   "RTE",
+   "SANA"
   ]
  },
  {
@@ -795,6 +900,19 @@
    "AP News",
    "Daily Herald",
    "Ukrinform"
+  ]
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Sudanese army drone strike on Darfur court kills 35",
+  "category": "war",
+  "location": "Al-Zawiya Gharra, North Darfur, Sudan",
+  "lives_lost": 35,
+  "description": "A drone strike attributed to the Sudanese Armed Forces hit a community court in Al-Zawiya Gharra, North Darfur, at about 1 p.m., killing at least 35 civilians during a court session. Rights groups called the attack a grave violation of international humanitarian law and demanded an independent investigation.",
+  "sources": [
+   "Gulf Today",
+   "Committee for Justice",
+   "GBC Ghana Online"
   ]
  }
 ]

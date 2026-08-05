@@ -163,5 +163,28 @@
    "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/",
    "https://www2.businessinsider.com/elon-musk-tesla-robot-optimus-cost-less-than-car-2022-9"
   ]
+ },
+ {
+  "person": "Lawrence Wong",
+  "role": "Prime Minister of Singapore",
+  "promise": "Open selected sectors and occupations to workers from Timor-Leste from 2027",
+  "date_promised": "2026-07-03",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "During his visit to Dili, PM Wong announced that Singapore would open selected sectors and occupations to workers from Timor-Leste from 2027. From the second half of 2027, Timor-Leste will be an approved non-traditional source country for Work Permit holders, with construction and marine shipyard among the sectors opened.",
+  "evidence": [
+   "Announced July 2-3, 2026 in Dili alongside PM Xanana Gusmão",
+   "Timor-Leste to become approved non-traditional source country from H2 2027"
+  ],
+  "sources": [
+   "Channel News Asia",
+   "The Star",
+   "The Straits Times"
+  ],
+  "source_urls": [
+   "https://www.channelnewsasia.com/singapore/lawrence-wong-timor-leste-workers-singapore-6229181",
+   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/singapore-firms-can-hire-timorese-work-permit-holders-from-mid-2027-in-sectors-like-construction",
+   "https://www.magzter.com/tr/stories/newspaper/The-Straits-Times/SINGAPORE-TIMORLESTE-AGREE-TO-STRENGTHEN-THEIR-ECONOMIC-TIES-840021"
+  ]
  }
 ]
