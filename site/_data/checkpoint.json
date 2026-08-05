@@ -1,15 +1,15 @@
 {
-  "events": {
-    "last_date": "2026-08-05",
-    "total": 560
-  },
-  "promises": {
-    "last_date": "2026-08-05",
-    "total": 348
-  },
-  "last_updated": "2026-08-05T01:57:53Z",
-  "update_policy": "daily-incremental",
-  "promises_expansion": {
-    "last_focus": "nato-ida21-who-pabs + takaichi-dissanayake-mahama-wong"
-  }
+ "events": {
+  "last_date": "2026-08-05",
+  "total": 560
+ },
+ "promises": {
+  "last_date": "2026-08-05",
+  "total": 348
+ },
+ "last_updated": "2026-08-05T01:57:53Z",
+ "update_policy": "daily-incremental",
+ "promises_expansion": {
+  "last_focus": "nato-ida21-who-pabs + takaichi-dissanayake-mahama-wong"
+ }
 }
