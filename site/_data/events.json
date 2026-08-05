@@ -604,6 +604,19 @@
     "Asianet News",
     "Pratidin Time"
    ]
+  },
+  {
+   "date": "2026-08-04",
+   "title": "Russian drone strike on Mykolaiv kills elderly woman",
+   "category": "war",
+   "location": "Mykolaiv, Ukraine",
+   "lives_lost": 1,
+   "description": "Russian drones attacked the southern port city of Mykolaiv overnight, killing an 89-year-old woman and injuring seven people, including two children. Two private houses were destroyed and several other buildings were damaged.",
+   "sources": [
+    "Georgia Today",
+    "News18",
+    "Daily Times"
+   ]
   }
  ],
  "08-06": [
@@ -2429,6 +2442,19 @@
     "Xinhua",
     "India Today NE",
     "News18"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "title": "Russian missile barrage on Kyiv kills ten",
+   "category": "war",
+   "location": "Kyiv, Ukraine",
+   "lives_lost": 10,
+   "description": "In a heavy ballistic missile attack early on Saturday, Russia struck Kyiv and the surrounding region, killing 10 people and wounding more than 30. It was the second major attack on the capital that week; President Volodymyr Zelensky said Ukraine had run out of Patriot interceptor missiles.",
+   "sources": [
+    "The Moscow Times",
+    "RTE",
+    "New Straits Times"
    ]
   }
  ],
@@ -7858,12 +7884,14 @@
    "title": "Sudanese army drone strike on Darfur court kills 35",
    "category": "war",
    "location": "Al-Zawiya Gharra, North Darfur, Sudan",
-   "lives_lost": 35,
-   "description": "A drone strike attributed to the Sudanese Armed Forces hit a community court in Al-Zawiya Gharra, North Darfur, at about 1 p.m., killing at least 35 civilians during a court session. Rights groups called the attack a grave violation of international humanitarian law and demanded an independent investigation.",
+   "lives_lost": 45,
+   "description": "A drone strike attributed to the Sudanese Armed Forces hit a customary court in Al-Zawiya Gharra, west of Kabkabiya, North Darfur, on Sunday afternoon, killing at least 35 people during a court session. Medical sources and eyewitnesses later revised the death toll to more than 45, with dozens wounded and several missing.",
    "sources": [
     "Gulf Today",
     "Committee for Justice",
-    "GBC Ghana Online"
+    "GBC Ghana Online",
+    "Darfur24",
+    "The Sudan Times"
    ]
   }
  ]

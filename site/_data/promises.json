@@ -6453,5 +6453,120 @@
    "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/singapore-firms-can-hire-timorese-work-permit-holders-from-mid-2027-in-sectors-like-construction",
    "https://www.magzter.com/tr/stories/newspaper/The-Straits-Times/SINGAPORE-TIMORLESTE-AGREE-TO-STRENGTHEN-THEIR-ECONOMIC-TIES-840021"
   ]
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Anthropic will release its Claude 5 line (Mythos class) in 2026",
+  "date_promised": "2026-01-15",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "Anthropic's Claude 5 generation was expected to arrive in 2026 after the Opus 4 line. On June 9, 2026, the company launched Claude Fable 5, its first commercially available Mythos-class model, described as exceeding the capabilities of every previously released model, together with Claude Mythos 5.",
+  "evidence": [
+   "Claude Fable 5 released June 9, 2026 as the first public Mythos-class model",
+   "Claude Mythos 5 unveiled alongside it; Claude 5 line confirmed as Anthropic's 2026 generation"
+  ],
+  "sources": [
+   "Inc",
+   "IntelliNews",
+   "Crypto Briefing"
+  ],
+  "source_urls": [
+   "https://www.inc.com/ben-sherry/anthropic-just-released-claude-fable-5-mythos-class-model-to-the-public-with-key-restrictions/91357769",
+   "https://www.intellinews.com/anthropic-releases-public-version-of-its-most-powerful-ai-model-in-the-us-citing-new-safeguards-447739/",
+   "https://cryptobriefing.com/anthropic-ceo-warns-ai-powerful-new-model/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Neuralink and Tesla",
+  "promise": "Neuralink could have over 1,000 brain-chip implants in human patients by 2026",
+  "date_promised": "2026-01-01",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Musk said Neuralink could probably have over 1,000 implants in human patients in 2026, and that the company would ramp up production of its brain-chip devices and automate surgical procedures that year, supported by $650 million raised in June to expand patient access.",
+  "evidence": [
+   "Musk repeatedly cited a 1,000+ patient target for 2026",
+   "Neuralink announced high-volume production plans and automated surgery for 2026"
+  ],
+  "sources": [
+   "Business Insider",
+   "Mashable",
+   "Teslarati"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/neuralink-elon-musk-expanding-production-brain-chips-automated-procedure-2026-1",
+   "https://in.mashable.com/tech/104154/elon-musk-says-neuralink-will-automate-brain-surgery-in-2026",
+   "https://www.teslarati.com/elon-musk-over-1000-humans-neuralink-implants-2026/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "SpaceX will land its first uncrewed Starship on Mars as soon as late 2026",
+  "date_promised": "2025-05-01",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "Musk said in May 2025 that SpaceX was working to land its first uncrewed Starship on Mars as soon as late 2026, with crewed flights four years later if landings succeeded. By February 2026 he had clipped the Mars ambition in favor of the Moon, and analysts said the 2026 Mars launch window was likely to be missed; no uncrewed Starship has reached Mars.",
+  "evidence": [
+   "Musk walked back the late-2026 Mars target in February 2026, pivoting to the Moon",
+   "No uncrewed Starship has reached Mars and the 2026 launch window is expected to pass unused"
+  ],
+  "sources": [
+   "CNN",
+   "The Standard",
+   "Bol News"
+  ],
+  "source_urls": [
+   "https://www.cnn.com/2026/02/08/science/elon-musk-spacex-priorities-moon-intl-hnk",
+   "https://www.thestandard.com.hk/insights/article/324772/Mars-on-Hold-How-SpaceX-Justifies-a-Trillion-Dollar-Valuation-Zero-Shot-Inference-Allen-Au",
+   "https://www.bolnews.com/technology/first-private-starship-launch-set-for-2026/"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA will invest up to $100 billion in OpenAI, starting in 2026",
+  "date_promised": "2025-09-15",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "Under a letter of intent signed in September 2025, NVIDIA planned to invest up to $100 billion in OpenAI over several years, starting in 2026, for AI supercomputing centres and infrastructure. When OpenAI's $110 billion funding round arrived in February 2026, NVIDIA invested only $30 billion, and Huang said the $100 billion figure was 'never a commitment.'",
+  "evidence": [
+   "NVIDIA invested $30bn of the pledged $100bn in OpenAI's February 2026 round",
+   "Huang publicly walked back the figure as 'never a commitment' in February 2026"
+  ],
+  "sources": [
+   "Bloomberg",
+   "Yahoo Finance",
+   "The Straits Times"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-02-01/openai-investment-was-never-a-commitment-nvidia-s-huang-says",
+   "https://finance.yahoo.com/news/nvidia-ceo-caps-openai-investment-153302677.html",
+   "https://www.straitstimes.com/business/companies-markets/nvidia-ceo-says-pledge-to-invest-us100-billion-in-openai-never-a-commitment-korea-stocks-sink"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Save TikTok: keep the app running in the US and broker a deal for American ownership",
+  "date_promised": "2025-04-04",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "In April 2025, Trump signed an executive order keeping TikTok running in the United States for an additional 75 days while his administration worked on a deal to save it. In September 2025 he signed a further order advancing the sale of TikTok's US assets, with Oracle handling US data security, after reaching an agreement with China's Xi Jinping.",
+  "evidence": [
+   "Executive order of April 4, 2025 kept TikTok operational while a US sale was brokered",
+   "September 2025 order advanced the sale with Oracle responsible for US data security"
+  ],
+  "sources": [
+   "GovInfo",
+   "News 12",
+   "Qazinform"
+  ],
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/DCPD-202500434/html/DCPD-202500434.htm",
+   "https://newyork.news12.com/president-trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer",
+   "https://qazinform.com/news/trumps-executive-order-advances-tiktok-sale-oracle-to-handle-us-data-security-a64fe5"
+  ]
  }
 ]

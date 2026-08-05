@@ -1007,5 +1007,28 @@
    "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000050/meta-03312025xexhibit991.htm",
    "https://www.silicon.co.uk/news/e-innovation/artificial-intelligence/page/9"
   ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Save TikTok: keep the app running in the US and broker a deal for American ownership",
+  "date_promised": "2025-04-04",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "In April 2025, Trump signed an executive order keeping TikTok running in the United States for an additional 75 days while his administration worked on a deal to save it. In September 2025 he signed a further order advancing the sale of TikTok's US assets, with Oracle handling US data security, after reaching an agreement with China's Xi Jinping.",
+  "evidence": [
+   "Executive order of April 4, 2025 kept TikTok operational while a US sale was brokered",
+   "September 2025 order advanced the sale with Oracle responsible for US data security"
+  ],
+  "sources": [
+   "GovInfo",
+   "News 12",
+   "Qazinform"
+  ],
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/DCPD-202500434/html/DCPD-202500434.htm",
+   "https://newyork.news12.com/president-trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer",
+   "https://qazinform.com/news/trumps-executive-order-advances-tiktok-sale-oracle-to-handle-us-data-security-a64fe5"
+  ]
  }
 ]
