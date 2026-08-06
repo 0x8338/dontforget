@@ -44,7 +44,37 @@ def similar_enough(a: str, b: str, threshold: float) -> bool:
     total = len(a) + len(b)
     if total == 0 or 2 * min(len(a), len(b)) / total < threshold:
         return False
-    return SequenceMatcher(None, a, b).ratio() > threshold
+    # autojunk=False keeps the ratio symmetric and order-independent.
+    return SequenceMatcher(None, a, b, autojunk=False).ratio() > threshold
+
+
+def token_jaccard(a: str, b: str) -> float:
+    """Fraction of shared significant tokens (plural-normalized)."""
+    def toks(s):
+        out = set()
+        for w in re.findall(r"[a-z0-9]+", s.lower()):
+            if w.endswith("s") and len(w) > 4 and not w.endswith("ss"):
+                w = w[:-1]
+            out.add(w)
+        return out
+    sa, sb = toks(a), toks(b)
+    if not sa or not sb:
+        return 0.0
+    return len(sa & sb) / len(sa | sb)
+
+
+def event_duplicate(a: str, b: str) -> bool:
+    """True for real near-duplicate event titles, not merely same-topic ones.
+
+    High character similarity alone flags false positives that only share
+    generic words ('bombings', 'earthquake', 'drone strike'), so also require
+    a substantial overlap of distinctive tokens unless the titles are nearly
+    identical.
+    """
+    ratio = SequenceMatcher(None, a, b, autojunk=False).ratio()
+    if ratio > 0.8:
+        return True
+    return ratio > 0.6 and token_jaccard(a, b) >= 0.5
 
 
 events = json.loads((BASE / "events.json").read_text())
@@ -93,7 +123,7 @@ for dkey, lst in events.items():
     for e in lst:
         norm = e["title"].lower()
         for other in seen:
-            if similar_enough(norm, other, 0.6):
+            if event_duplicate(norm, other):
                 warn(f"possible duplicate on {dkey}: {norm!r} ~ {other!r}")
         seen.append(norm)
 
