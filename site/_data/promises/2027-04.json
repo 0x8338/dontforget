@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Raise defence spending to 2.5% of GDP by April 2027, with an ambition of 3% in the next parliament",
+  "date_promised": "2025-02-25",
+  "due_date": "2027-04-30",
+  "status": "pending",
+  "description": "In February 2025 Starmer committed the UK to raising Nato-qualifying defence spending to 2.5% of GDP by April 2027 and set out an ambition to reach 3% in the next parliament. As of 2026 the UK was still below 2.5%, and the government was considering whether to bring forward the increase.",
+  "evidence": [
+   "Commitment restated in the 2025 Defence Investment Plan",
+   "2026 reports said the government was weighing an accelerated increase"
+  ],
+  "sources": [
+   "BBC News",
+   "Arise TV",
+   "Morning Star"
+  ],
+  "source_urls": [
+   "https://www.bbc.co.uk/news/articles/cn07ey43xpeo",
+   "https://www.arise.tv/uk-weighs-major-boost-to-defence-budget/",
+   "https://morningstaronline.co.uk/article/starmer-backs-plans-hike-military-spending"
+  ]
+ }
+]

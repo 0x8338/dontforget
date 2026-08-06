@@ -1030,5 +1030,28 @@
    "https://newyork.news12.com/president-trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer",
    "https://qazinform.com/news/trumps-executive-order-advances-tiktok-sale-oracle-to-handle-us-data-security-a64fe5"
   ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "Eliminate all remaining capital and currency controls by the end of 2025",
+  "date_promised": "2025-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The Milei administration announced its intention to eliminate all remaining capital controls by the end of 2025. On April 14, 2025, Argentina lifted most currency controls - the 'cepo cambiario' - allowing individuals and businesses to buy US dollars without restrictions, ahead of the target, backstopped by a $20 billion IMF agreement.",
+  "evidence": [
+   "Most capital controls lifted on April 14, 2025, months ahead of the year-end target",
+   "Remaining restrictions phased out through 2025; IMF agreement supported the liberalisation"
+  ],
+  "sources": [
+   "US State Department",
+   "Trade.gov",
+   "The Conversation"
+  ],
+  "source_urls": [
+   "https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Argentina-Investment-Climate-Statement.pdf",
+   "https://www.trade.gov/market-intelligence/argentina-eliminates-capital-controls-and-payment-timelines",
+   "https://theconversation.com/topics/imf-loans-119599/articles.atom"
+  ]
  }
 ]

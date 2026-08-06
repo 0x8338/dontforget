@@ -6568,5 +6568,95 @@
    "https://newyork.news12.com/president-trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer",
    "https://qazinform.com/news/trumps-executive-order-advances-tiktok-sale-oracle-to-handle-us-data-security-a64fe5"
   ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Raise defence spending to 2.5% of GDP by April 2027, with an ambition of 3% in the next parliament",
+  "date_promised": "2025-02-25",
+  "due_date": "2027-04-30",
+  "status": "pending",
+  "description": "In February 2025 Starmer committed the UK to raising Nato-qualifying defence spending to 2.5% of GDP by April 2027 and set out an ambition to reach 3% in the next parliament. As of 2026 the UK was still below 2.5%, and the government was considering whether to bring forward the increase.",
+  "evidence": [
+   "Commitment restated in the 2025 Defence Investment Plan",
+   "2026 reports said the government was weighing an accelerated increase"
+  ],
+  "sources": [
+   "BBC News",
+   "Arise TV",
+   "Morning Star"
+  ],
+  "source_urls": [
+   "https://www.bbc.co.uk/news/articles/cn07ey43xpeo",
+   "https://www.arise.tv/uk-weighs-major-boost-to-defence-budget/",
+   "https://morningstaronline.co.uk/article/starmer-backs-plans-hike-military-spending"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "Eliminate all remaining capital and currency controls by the end of 2025",
+  "date_promised": "2025-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The Milei administration announced its intention to eliminate all remaining capital controls by the end of 2025. On April 14, 2025, Argentina lifted most currency controls - the 'cepo cambiario' - allowing individuals and businesses to buy US dollars without restrictions, ahead of the target, backstopped by a $20 billion IMF agreement.",
+  "evidence": [
+   "Most capital controls lifted on April 14, 2025, months ahead of the year-end target",
+   "Remaining restrictions phased out through 2025; IMF agreement supported the liberalisation"
+  ],
+  "sources": [
+   "US State Department",
+   "Trade.gov",
+   "The Conversation"
+  ],
+  "source_urls": [
+   "https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Argentina-Investment-Climate-Statement.pdf",
+   "https://www.trade.gov/market-intelligence/argentina-eliminates-capital-controls-and-payment-timelines",
+   "https://theconversation.com/topics/imf-loans-119599/articles.atom"
+  ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President of Indonesia",
+  "promise": "Achieve 8% economic growth by 2029, after 5.8-6.5% growth in 2027",
+  "date_promised": "2026-05-20",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Presenting the macroeconomic framework to Parliament in May 2026, President Prabowo said he was confident Indonesia's economy could grow between 5.8% and 6.5% in 2027, heading toward 8% growth by 2029. Analysts warned the 8% target would be hard to reach after Q2 2026 growth slowed.",
+  "evidence": [
+   "8% growth by 2029 restated in the May 2026 macroeconomic framework",
+   "Q2 2026 growth slowed, with experts doubting the trajectory"
+  ],
+  "sources": [
+   "Antara News",
+   "Tempo",
+   "RRI"
+  ],
+  "source_urls": [
+   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
+   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
+   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
+  ]
+ },
+ {
+  "person": "Claudia Sheinbaum",
+  "role": "President of Mexico",
+  "promise": "Present a national proposal to regulate cell phone and social media use in schools by the end of August 2026",
+  "date_promised": "2026-08-03",
+  "due_date": "2026-08-31",
+  "status": "pending",
+  "description": "The Sheinbaum government said it would define a national proposal by the end of August 2026 to regulate cell phone and social media use in schools, aimed at recovering attention, reading and learning in classrooms for the 2026-2027 school cycle.",
+  "evidence": [
+   "Government timeline of 'end of August' set in early August 2026",
+   "Proposal tied to the 2026-2027 school cycle"
+  ],
+  "sources": [
+   "Debate",
+   "Quadratín"
+  ],
+  "source_urls": [
+   "https://www.debate.com.mx/politica/gobierno-de-sheinbaum-definira-a-finales-de-agosto-propuesta-sobre-celulares-y-redes-sociales-20260803-0123.html",
+   "https://mexico.quadratin.com.mx/anuncia-sheinbaum-jornada-de-reforestacion-en-todo-mexico/"
+  ]
  }
 ]

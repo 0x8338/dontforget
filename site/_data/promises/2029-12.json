@@ -49,5 +49,28 @@
    "https://en.wikipedia.org/wiki/Planning_and_Infrastructure_Bill",
    "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
   ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President of Indonesia",
+  "promise": "Achieve 8% economic growth by 2029, after 5.8-6.5% growth in 2027",
+  "date_promised": "2026-05-20",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Presenting the macroeconomic framework to Parliament in May 2026, President Prabowo said he was confident Indonesia's economy could grow between 5.8% and 6.5% in 2027, heading toward 8% growth by 2029. Analysts warned the 8% target would be hard to reach after Q2 2026 growth slowed.",
+  "evidence": [
+   "8% growth by 2029 restated in the May 2026 macroeconomic framework",
+   "Q2 2026 growth slowed, with experts doubting the trajectory"
+  ],
+  "sources": [
+   "Antara News",
+   "Tempo",
+   "RRI"
+  ],
+  "source_urls": [
+   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
+   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
+   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
+  ]
  }
 ]

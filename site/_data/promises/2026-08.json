@@ -21,5 +21,26 @@
    "https://www.nippon.com/en/news/yjj2026080400096/",
    "https://mb.com.ph/2026/08/04/kumamoto-quake-to-be-designated-disaster-of-extreme-severity-for-more-state-aid"
   ]
+ },
+ {
+  "person": "Claudia Sheinbaum",
+  "role": "President of Mexico",
+  "promise": "Present a national proposal to regulate cell phone and social media use in schools by the end of August 2026",
+  "date_promised": "2026-08-03",
+  "due_date": "2026-08-31",
+  "status": "pending",
+  "description": "The Sheinbaum government said it would define a national proposal by the end of August 2026 to regulate cell phone and social media use in schools, aimed at recovering attention, reading and learning in classrooms for the 2026-2027 school cycle.",
+  "evidence": [
+   "Government timeline of 'end of August' set in early August 2026",
+   "Proposal tied to the 2026-2027 school cycle"
+  ],
+  "sources": [
+   "Debate",
+   "Quadratín"
+  ],
+  "source_urls": [
+   "https://www.debate.com.mx/politica/gobierno-de-sheinbaum-definira-a-finales-de-agosto-propuesta-sobre-celulares-y-redes-sociales-20260803-0123.html",
+   "https://mexico.quadratin.com.mx/anuncia-sheinbaum-jornada-de-reforestacion-en-todo-mexico/"
+  ]
  }
 ]

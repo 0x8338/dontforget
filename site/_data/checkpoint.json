@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-05",
-  "total": 562
+  "last_date": "2026-08-06",
+  "total": 567
  },
  "promises": {
-  "last_date": "2026-08-05",
-  "total": 353
+  "last_date": "2026-08-06",
+  "total": 357
  },
- "last_updated": "2026-08-05T04:36:31Z",
+ "last_updated": "2026-08-06T00:45:43Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "musk-neuralink-starship + huang-openai + amodei-claude5 + trump-tiktok"
+  "last_focus": "track-a leaders: starmer-milei-prabowo-sheinbaum"
  }
 }

@@ -617,6 +617,19 @@
     "News18",
     "Daily Times"
    ]
+  },
+  {
+   "date": "2026-08-04",
+   "title": "Israeli fire kills two in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 2,
+   "description": "Two more Palestinians were killed by Israeli fire in Gaza over 24 hours, with ten others injured, according to the Gaza Health Ministry, bringing the death toll since October 7, 2023 to 73,377. Some victims remained trapped under rubble beyond the reach of rescue crews.",
+   "sources": [
+    "ABNA",
+    "SABA",
+    "SANA"
+   ]
   }
  ],
  "08-06": [
@@ -6566,12 +6579,66 @@
    "title": "Russian missile strikes on Kyiv kill two",
    "category": "war",
    "location": "Kyiv, Ukraine",
-   "lives_lost": 2,
-   "description": "Russia attacked Kyiv with waves of ballistic missiles after midnight, killing a woman in the city and one person in the surrounding region, injuring more than 30, and starting fires that damaged warehouses. Air defences were active for more than an hour and an ammonia leak was reported.",
+   "lives_lost": 21,
+   "description": "Russia attacked Kyiv with waves of ballistic missiles and drones after midnight, killing at least 21 people - three in the capital and 18 in the surrounding region - and injuring more than 45. The assault used 24 ballistic missiles, four Zircon/Onyx missiles and 115 drones, hitting warehouses, a railway station and other civilian infrastructure; air defences intercepted 98 drones.",
    "sources": [
     "Reuters",
     "Deutschlandfunk",
-    "Tagesspiegel"
+    "Tagesspiegel",
+    "Daily Times",
+    "Ukrinform",
+    "Anadolu Agency"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "title": "Israeli fire kills four in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 4,
+   "description": "Israel killed four more Palestinians in Gaza over 24 hours, bringing the war's death toll to 73,381, the Gaza Health Ministry said. Since the ceasefire took effect in October 2025, Israeli violations have killed 1,254 Palestinians and injured 4,121.",
+   "sources": [
+    "Anadolu Agency",
+    "SANA",
+    "SABA"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "title": "Israeli airstrike on south Lebanon kills one",
+   "category": "war",
+   "location": "Tebnine, Bint Jbeil, Lebanon",
+   "lives_lost": 1,
+   "description": "An Israeli airstrike targeted a prayer hall in the southern Lebanese town of Tebnine in the Bint Jbeil district, killing one Lebanese civilian and wounding 11 to 12 others, Lebanon's National News Agency and the Health Ministry reported. The strike came as a new round of Rome talks on the border was under way.",
+   "sources": [
+    "Xinhua",
+    "Anadolu Agency",
+    "CCTV"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "title": "Sri Lanka floods and mudslides kill seven",
+   "category": "natural-disaster",
+   "location": "Central highlands, Sri Lanka",
+   "lives_lost": 7,
+   "description": "Torrential rains triggered floods and mudslides across Sri Lanka's central highlands, killing at least seven people - five buried when mudslides destroyed two houses and two killed by flooding - and displacing thousands. Authorities closed schools in the affected areas.",
+   "sources": [
+    "Al Jazeera",
+    "Mid-Day",
+    "RSOE-EDIS"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "title": "India monsoon floods and landslides kill more than 100 since July",
+   "category": "natural-disaster",
+   "location": "India",
+   "lives_lost": 100,
+   "description": "Official data released on August 5 showed that floods and landslides triggered by monsoon rains had killed more than 100 people across India since July, forcing thousands from their homes. Lightning strikes killed at least 22 people in the eastern states of Bihar and Jharkhand in the preceding days.",
+   "sources": [
+    "Express Tribune",
+    "Vietnam.vn"
    ]
   }
  ],
