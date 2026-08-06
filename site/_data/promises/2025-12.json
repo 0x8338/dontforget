@@ -1076,5 +1076,28 @@
    "https://capetimes.co.za/g20/2025-11-23-g20-summit-in-south-africa-focus-on-critical-minerals-debt-relief-and-climate-action/",
    "https://www.lokmattimes.com/international/g20-2025-critical-minerals-to-drive-inclusive-economic-growth-resilience-and-global-south-benefits/"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "ChatGPT will reach 1 billion users",
+  "date_promised": "2025-02-01",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "Altman set a public goal of ChatGPT reaching 1 billion users. Weekly active users grew from about 400 million in February 2025 to 800 million in October, passed 900 million in February 2026, and reached the billion-user mark in 2026 - about seven months later than targeted. ChatGPT also became the fastest app in history to reach 1 billion monthly users in June 2026.",
+  "evidence": [
+   "ChatGPT hit 1 billion weekly active users in mid-2026, about seven months late",
+   "Reached 1 billion monthly active users in June 2026 (fastest app ever)"
+  ],
+  "sources": [
+   "The Next Web",
+   "ARY News",
+   "TheBlockBeats"
+  ],
+  "source_urls": [
+   "https://thenextweb.com/news/chatgpt-1-billion-weekly-active-users-openai-target",
+   "https://arynews.tv/chatgpt-becomes-fastest-app-in-history-to-reach-1-billion-monthly-users",
+   "https://en.theblockbeats.news/flash/344104"
+  ]
  }
 ]

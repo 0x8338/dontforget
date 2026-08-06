@@ -209,5 +209,28 @@
    "https://www.aa.com.tr/en/europe/nato-emerges-stronger-and-more-united-after-ankara-summit-says-uk-premier/3991784",
    "https://www.usnews.com/news/world/articles/2026-07-06/nato-chief-demands-allies-present-credible-plans-to-reach-defense-spending-targets"
   ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA's combined Blackwell and Vera Rubin order pipeline will reach $1 trillion through 2027",
+  "date_promised": "2026-03-16",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At GTC 2026, Huang said NVIDIA's combined Blackwell and Vera Rubin purchase-order pipeline now targets $1 trillion through 2027 - double the $500 billion opportunity projected a year earlier - as Rubin began shipping in 2026 and Feynman was scheduled for 2028.",
+  "evidence": [
+   "$1 trillion pipeline target stated at GTC 2026 (March 2026)",
+   "Pipeline doubles the $500bn projected at GTC 2025"
+  ],
+  "sources": [
+   "Fortune India",
+   "Jon Peddie",
+   "The Standard"
+  ],
+  "source_urls": [
+   "https://www.fortuneindia.com/technology/gtc-2026-nvidia-pegs-1-trillion-ai-opportunity-as-jensen-huang-outlines-next-phase/131331",
+   "https://www.jonpeddie.com/news/nvidia-gtc-2026-keynote/",
+   "https://www.thestandard.com.hk/innovation/article/324775/Nvidia-CEO-Jensen-Huang-says-to-unveil-world-surprising-new-chip"
+  ]
  }
 ]

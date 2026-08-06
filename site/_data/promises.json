@@ -6773,5 +6773,97 @@
    "https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/",
    "https://tech.yahoo.com/transportation/articles/japanese-billionaire-just-canceled-private-220000132.html"
   ]
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "ChatGPT will reach 1 billion users",
+  "date_promised": "2025-02-01",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "Altman set a public goal of ChatGPT reaching 1 billion users. Weekly active users grew from about 400 million in February 2025 to 800 million in October, passed 900 million in February 2026, and reached the billion-user mark in 2026 - about seven months later than targeted. ChatGPT also became the fastest app in history to reach 1 billion monthly users in June 2026.",
+  "evidence": [
+   "ChatGPT hit 1 billion weekly active users in mid-2026, about seven months late",
+   "Reached 1 billion monthly active users in June 2026 (fastest app ever)"
+  ],
+  "sources": [
+   "The Next Web",
+   "ARY News",
+   "TheBlockBeats"
+  ],
+  "source_urls": [
+   "https://thenextweb.com/news/chatgpt-1-billion-weekly-active-users-openai-target",
+   "https://arynews.tv/chatgpt-becomes-fastest-app-in-history-to-reach-1-billion-monthly-users",
+   "https://en.theblockbeats.news/flash/344104"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Meta",
+  "promise": "\"We're on track to deliver personal superintelligence to billions of people\"",
+  "date_promised": "2026-04-29",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "On Meta's Q1 2026 earnings call, Zuckerberg pledged to deliver personal superintelligence to billions of users, raising 2026 capex to $145 billion and citing Muse Spark, Meta's first superintelligence model. By mid-2026 he acknowledged agentic AI was not progressing as fast as hoped, with advanced agents expected only late in 2026 or later.",
+  "evidence": [
+   "Pledge made on the Q1 2026 earnings call with $145bn 2026 capex",
+   "July 2026: Zuckerberg conceded agentic AI efforts lagged his hopes"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Nasdaq",
+   "SiliconANGLE"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
+   "https://www.nasdaq.com/articles/mark-zuckerberg-wrote-ai-may-soon-deliver-personal-superintelligence-everyone-just-metas",
+   "https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/"
+  ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "NVIDIA's combined Blackwell and Vera Rubin order pipeline will reach $1 trillion through 2027",
+  "date_promised": "2026-03-16",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At GTC 2026, Huang said NVIDIA's combined Blackwell and Vera Rubin purchase-order pipeline now targets $1 trillion through 2027 - double the $500 billion opportunity projected a year earlier - as Rubin began shipping in 2026 and Feynman was scheduled for 2028.",
+  "evidence": [
+   "$1 trillion pipeline target stated at GTC 2026 (March 2026)",
+   "Pipeline doubles the $500bn projected at GTC 2025"
+  ],
+  "sources": [
+   "Fortune India",
+   "Jon Peddie",
+   "The Standard"
+  ],
+  "source_urls": [
+   "https://www.fortuneindia.com/technology/gtc-2026-nvidia-pegs-1-trillion-ai-opportunity-as-jensen-huang-outlines-next-phase/131331",
+   "https://www.jonpeddie.com/news/nvidia-gtc-2026-keynote/",
+   "https://www.thestandard.com.hk/innovation/article/324775/Nvidia-CEO-Jensen-Huang-says-to-unveil-world-surprising-new-chip"
+  ]
+ },
+ {
+  "person": "Jeff Bezos",
+  "role": "Founder of Blue Origin",
+  "promise": "New Glenn will return to flight before the end of 2026",
+  "date_promised": "2026-06-11",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "After an explosion during a static-fire test at Cape Canaveral, Bezos promised Blue Origin's New Glenn rocket would return to flight before the end of 2026. Company officials said they would be ready to launch again from Launch Complex 36 before year's end.",
+  "evidence": [
+   "Bezos promised a return to flight by end-2026 in a June 2026 interview",
+   "Blue Origin officials reaffirmed a 2026 relaunch plan in July 2026"
+  ],
+  "sources": [
+   "USA Today",
+   "Times of India",
+   "Detroit News"
+  ],
+  "source_urls": [
+   "https://www.usatoday.com/story/tech/science/space/2026/07/08/explosion-blue-origin-new-glenn-return-cape-canaveral/90846982007/",
+   "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-recalls-the-very-bad-day-for-blue-origin-with-a-promise-by-the-end-of-the-year-we-will-be-/articleshow/131672014.cms",
+   "https://www.detroitnews.com/story/tech/space/2026/07/08/blue-origin-new-glenn-rocket-explosion-launch-2026/90836170007/"
+  ]
  }
 ]

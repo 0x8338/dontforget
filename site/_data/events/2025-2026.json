@@ -183,28 +183,29 @@
   ]
  },
  {
+  "date": "2026-08-04",
+  "title": "Lightning strike kills footballer in Thailand",
+  "category": "natural-disaster",
+  "location": "Sungai Golok, Narathiwat, Thailand",
+  "lives_lost": 1,
+  "description": "A 24-year-old Thai footballer, Safwan Awae of Yala FC, was killed and nine to twelve others injured when lightning struck the pitch during a lower-league match at Santiphap Stadium in southern Thailand.",
+  "sources": [
+   "Gulf News",
+   "Sinar Daily",
+   "The Star"
+  ]
+ },
+ {
   "date": "2026-08-06",
   "title": "Russian drone attacks across Ukraine kill six",
   "category": "war",
   "location": "Kharkiv and Sumy regions, Ukraine",
   "lives_lost": 6,
-  "description": "At least six people were killed in Russian drone attacks on Thursday: three in Balakliia in the Kharkiv region and three in residential areas of the Sumy region, where at least 21 people were injured. Six more people were injured in the Kherson region when a drone struck a van.",
+  "description": "At least six people were killed in Russian drone attacks on Thursday: three in Balakliia in the Kharkiv region and three in residential areas of the Sumy region, with dozens injured across the affected regions, including 13 in Sumy city after a series of guided bombs. Six more people were injured in the Kherson region when a drone struck a van.",
   "sources": [
    "SANA",
    "Reuters",
    "Ukrinform"
-  ]
- },
- {
-  "date": "2026-08-06",
-  "title": "Hezbollah blast kills two Israeli soldiers in southern Lebanon",
-  "category": "war",
-  "location": "Southern Lebanon",
-  "lives_lost": 2,
-  "description": "Two Israeli soldiers - a company commander and a soldier of the 55th Armored Brigade - were killed and four others seriously wounded when an explosive device detonated in southern Lebanon, the Israeli military said.",
-  "sources": [
-   "Xinhua",
-   "Anadolu Agency"
   ]
  },
  {
@@ -718,6 +719,31 @@
   "sources": [
    "Ukrinform",
    "RBC Ukraine"
+  ]
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Hezbollah blast kills two Israeli soldiers in southern Lebanon",
+  "category": "war",
+  "location": "Majdal Zoun, southern Lebanon",
+  "lives_lost": 2,
+  "description": "Two Israeli soldiers - a company commander and a soldier of the 55th Armored Brigade - were killed and four others seriously wounded when an explosive device blasted in the southern Lebanese village of Majdal Zoun on Wednesday, the Israeli military said Thursday.",
+  "sources": [
+   "Xinhua",
+   "Anadolu Agency"
+  ]
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Mass shooting in Caswell County, North Carolina kills three",
+  "category": "gun-violence",
+  "location": "Caswell County, North Carolina, United States",
+  "lives_lost": 3,
+  "description": "A mass shooting at a rural home in Caswell County, North Carolina, left three family members dead - including the suspected shooter - and a fourth relative hospitalized, according to the Caswell County Sheriff's Office and the North Carolina State Bureau of Investigation.",
+  "sources": [
+   "Xinhua",
+   "WCVB",
+   "Telangana Today"
   ]
  },
  {
