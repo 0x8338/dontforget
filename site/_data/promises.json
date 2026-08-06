@@ -6658,5 +6658,120 @@
    "https://www.debate.com.mx/politica/gobierno-de-sheinbaum-definira-a-finales-de-agosto-propuesta-sobre-celulares-y-redes-sociales-20260803-0123.html",
    "https://mexico.quadratin.com.mx/anuncia-sheinbaum-jornada-de-reforestacion-en-todo-mexico/"
   ]
+ },
+ {
+  "person": "COP29 parties (NCQG)",
+  "role": "Parties to the UNFCCC Paris Agreement",
+  "promise": "Provide at least $300 billion per year in climate finance to developing countries by 2035, with $1.3 trillion as the overall ambition",
+  "date_promised": "2024-11-24",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "At COP29 in Baku, parties adopted a New Collective Quantified Goal (NCQG) on climate finance: at least $300 billion per year by 2035, with developed countries taking the lead and a wider goal of $1.3 trillion annually from all sources, tripling the previous $100 billion goal.",
+  "evidence": [
+   "NCQG decision adopted at COP29 (Nov 2024): at least $300bn/year by 2035",
+   "Aspirational goal of $1.3 trillion per year from all sources set alongside the floor"
+  ],
+  "sources": [
+   "UNFCCC",
+   "European Parliament",
+   "Green Climate Fund"
+  ],
+  "source_urls": [
+   "https://unfccc.int/sites/default/files/resource/COP-29_CF-Outcomes_Samah.pdf",
+   "https://www.europarl.europa.eu/RegData/etudes/ATAG/2024/766266/EPRS_ATA(2024)766266_EN.pdf",
+   "https://www.greenclimate.fund/about/news-and-updates/gcf-cop29-summary"
+  ]
+ },
+ {
+  "person": "European Union (SAFE / ReArm Europe)",
+  "role": "European Commission and member states",
+  "promise": "Provide up to €150 billion in defence-industry loans to member states through the SAFE instrument",
+  "date_promised": "2025-03-04",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "Under the ReArm Europe plan, the EU created the Security Action for Europe (SAFE) instrument to raise up to €150 billion on the markets and lend it to member states for defence capabilities. First payments were planned for March 2026, but as of mid-2026 some member states had still not signed agreements and unused funds faced a year-end reallocation deadline.",
+  "evidence": [
+   "SAFE established with a €150bn loan envelope; first payments planned March 2026",
+   "July 2026: Commission pressed Italy to sign; unused funds must be reallocated by end of year"
+  ],
+  "sources": [
+   "Eunews",
+   "EuToday",
+   "Deluair"
+  ],
+  "source_urls": [
+   "https://www.eunews.it/en/2026/07/02/eu-urges-italy-to-sign-safe-defence-funds-agreement/",
+   "https://eutoday.net/march-launch-for-eu-safe-defence-lending/",
+   "https://deluair.com/consultancy/insights/eu-safe-defense-2026"
+  ]
+ },
+ {
+  "person": "NATO Allies (Ankara Summit)",
+  "role": "Alliance members",
+  "promise": "Provide at least €70 billion in military support for Ukraine in 2026, with an equivalent level planned for 2027",
+  "date_promised": "2026-07-08",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At the Ankara Summit in July 2026, NATO allies agreed on major new defence investments including at least €70 billion in military support for Ukraine in 2026, with an equivalent level planned for 2027. The summit also demanded allies present credible plans toward the 5%-of-GDP spending target.",
+  "evidence": [
+   "Ankara Summit (July 8, 2026) committed at least €70bn for Ukraine in 2026",
+   "Equivalent level planned for 2027; delivery still in progress"
+  ],
+  "sources": [
+   "Radio Moldova",
+   "Anadolu Agency",
+   "US News"
+  ],
+  "source_urls": [
+   "https://www.radiomoldova.md/p/80474/nato-pledges-70b-ukraine-aid-boosts-defense-at-ankara",
+   "https://www.aa.com.tr/en/europe/nato-emerges-stronger-and-more-united-after-ankara-summit-says-uk-premier/3991784",
+   "https://www.usnews.com/news/world/articles/2026-07-06/nato-chief-demands-allies-present-credible-plans-to-reach-defense-spending-targets"
+  ]
+ },
+ {
+  "person": "G20 leaders (Johannesburg Declaration)",
+  "role": "G20 members",
+  "promise": "Adopt a Critical Minerals Framework for sustainable, transparent, stable and resilient mineral value chains",
+  "date_promised": "2025-11-23",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "At the Johannesburg Summit in November 2025, G20 leaders endorsed a voluntary Critical Minerals Framework describing it as a guide for sustainable, transparent, stable and resilient critical minerals value chains, supporting increased exploration particularly in developing countries and value addition at home.",
+  "evidence": [
+   "G20 Critical Minerals Framework endorsed in the Johannesburg declaration (Nov 2025)",
+   "Framework adopted by consensus despite the US boycott"
+  ],
+  "sources": [
+   "Xinhua",
+   "Cape Times",
+   "Lokmat Times"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2025-11/23/content_118190485.shtml",
+   "https://capetimes.co.za/g20/2025-11-23-g20-summit-in-south-africa-focus-on-critical-minerals-debt-relief-and-climate-action/",
+   "https://www.lokmattimes.com/international/g20-2025-critical-minerals-to-drive-inclusive-economic-growth-resilience-and-global-south-benefits/"
+  ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "Fly the first private crewed Starship mission around the Moon (dearMoon) by 2023",
+  "date_promised": "2018-09-17",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "In September 2018, SpaceX announced Yusaku Maezawa as the first private Starship customer for a circumlunar 'dearMoon' mission with a target of 2023. After being delayed indefinitely in November 2023, Maezawa cancelled the mission in June 2024 citing Starship development delays.",
+  "evidence": [
+   "dearMoon delayed indefinitely in November 2023",
+   "Mission cancelled by Maezawa on June 1, 2024"
+  ],
+  "sources": [
+   "SpaceNews",
+   "SpacePolicyOnline",
+   "Yahoo Tech"
+  ],
+  "source_urls": [
+   "https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/",
+   "https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/",
+   "https://tech.yahoo.com/transportation/articles/japanese-billionaire-just-canceled-private-220000132.html"
+  ]
  }
 ]

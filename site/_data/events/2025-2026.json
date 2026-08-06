@@ -183,6 +183,43 @@
   ]
  },
  {
+  "date": "2026-08-06",
+  "title": "Russian drone attacks across Ukraine kill six",
+  "category": "war",
+  "location": "Kharkiv and Sumy regions, Ukraine",
+  "lives_lost": 6,
+  "description": "At least six people were killed in Russian drone attacks on Thursday: three in Balakliia in the Kharkiv region and three in residential areas of the Sumy region, where at least 21 people were injured. Six more people were injured in the Kherson region when a drone struck a van.",
+  "sources": [
+   "SANA",
+   "Reuters",
+   "Ukrinform"
+  ]
+ },
+ {
+  "date": "2026-08-06",
+  "title": "Hezbollah blast kills two Israeli soldiers in southern Lebanon",
+  "category": "war",
+  "location": "Southern Lebanon",
+  "lives_lost": 2,
+  "description": "Two Israeli soldiers - a company commander and a soldier of the 55th Armored Brigade - were killed and four others seriously wounded when an explosive device detonated in southern Lebanon, the Israeli military said.",
+  "sources": [
+   "Xinhua",
+   "Anadolu Agency"
+  ]
+ },
+ {
+  "date": "2026-08-06",
+  "title": "Israeli fire kills one in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 1,
+  "description": "One Palestinian died of wounds from an earlier attack and five others were injured over 24 hours, according to the Gaza Health Ministry, bringing the death toll since October 7, 2023 to 73,382.",
+  "sources": [
+   "Safa",
+   "Naba TV"
+  ]
+ },
+ {
   "date": "2026-03-01",
   "title": "Abiemnom massacre",
   "category": "war",
@@ -648,12 +685,14 @@
   "title": "Sri Lanka floods and mudslides kill seven",
   "category": "natural-disaster",
   "location": "Central highlands, Sri Lanka",
-  "lives_lost": 7,
-  "description": "Torrential rains triggered floods and mudslides across Sri Lanka's central highlands, killing at least seven people - five buried when mudslides destroyed two houses and two killed by flooding - and displacing thousands. Authorities closed schools in the affected areas.",
+  "lives_lost": 8,
+  "description": "Torrential rains triggered floods and mudslides across Sri Lanka's central highlands, killing at least eight people - six in Nuwara Eliya, one in Kandy and one in Puttalam - and affecting more than 16,000 people, with nearly 11,000 evacuated. Authorities closed schools in the affected areas.",
   "sources": [
    "Al Jazeera",
    "Mid-Day",
-   "RSOE-EDIS"
+   "RSOE-EDIS",
+   "Sharjah24 (AFP)",
+   "The Morning Telegraph"
   ]
  },
  {
@@ -661,11 +700,24 @@
   "title": "India monsoon floods and landslides kill more than 100 since July",
   "category": "natural-disaster",
   "location": "India",
-  "lives_lost": 100,
-  "description": "Official data released on August 5 showed that floods and landslides triggered by monsoon rains had killed more than 100 people across India since July, forcing thousands from their homes. Lightning strikes killed at least 22 people in the eastern states of Bihar and Jharkhand in the preceding days.",
+  "lives_lost": 133,
+  "description": "An official tally released on August 5 showed that floods and landslides triggered by monsoon rains had killed at least 133 people across India since the beginning of July: 87 in Assam (47 in Sivasagar district alone), 31 in Jammu and Kashmir, and 15 in Kerala, with seven people still missing and more than 10,000 in relief camps.",
   "sources": [
    "Express Tribune",
-   "Vietnam.vn"
+   "Vietnam.vn",
+   "Sharjah24 (AFP)"
+  ]
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Russian strike on grain ship in Odesa region kills one",
+  "category": "war",
+  "location": "Black Sea, Odesa region, Ukraine",
+  "lives_lost": 1,
+  "description": "Russian forces attacked a merchant dry cargo ship flying the flag of Guinea-Bissau and loaded with Ukrainian wheat, damaging the hull and starting a fire. One Ukrainian sailor was killed and three crew members were injured; the crew was evacuated to shore.",
+  "sources": [
+   "Ukrinform",
+   "RBC Ukraine"
   ]
  },
  {

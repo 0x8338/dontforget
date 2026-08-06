@@ -186,5 +186,28 @@
    "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/singapore-firms-can-hire-timorese-work-permit-holders-from-mid-2027-in-sectors-like-construction",
    "https://www.magzter.com/tr/stories/newspaper/The-Straits-Times/SINGAPORE-TIMORLESTE-AGREE-TO-STRENGTHEN-THEIR-ECONOMIC-TIES-840021"
   ]
+ },
+ {
+  "person": "NATO Allies (Ankara Summit)",
+  "role": "Alliance members",
+  "promise": "Provide at least €70 billion in military support for Ukraine in 2026, with an equivalent level planned for 2027",
+  "date_promised": "2026-07-08",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At the Ankara Summit in July 2026, NATO allies agreed on major new defence investments including at least €70 billion in military support for Ukraine in 2026, with an equivalent level planned for 2027. The summit also demanded allies present credible plans toward the 5%-of-GDP spending target.",
+  "evidence": [
+   "Ankara Summit (July 8, 2026) committed at least €70bn for Ukraine in 2026",
+   "Equivalent level planned for 2027; delivery still in progress"
+  ],
+  "sources": [
+   "Radio Moldova",
+   "Anadolu Agency",
+   "US News"
+  ],
+  "source_urls": [
+   "https://www.radiomoldova.md/p/80474/nato-pledges-70b-ukraine-aid-boosts-defense-at-ankara",
+   "https://www.aa.com.tr/en/europe/nato-emerges-stronger-and-more-united-after-ankara-summit-says-uk-premier/3991784",
+   "https://www.usnews.com/news/world/articles/2026-07-06/nato-chief-demands-allies-present-credible-plans-to-reach-defense-spending-targets"
+  ]
  }
 ]

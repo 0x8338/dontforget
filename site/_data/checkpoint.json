@@ -1,15 +1,15 @@
 {
  "events": {
   "last_date": "2026-08-06",
-  "total": 567
+  "total": 571
  },
  "promises": {
   "last_date": "2026-08-06",
-  "total": 357
+  "total": 362
  },
- "last_updated": "2026-08-06T00:45:43Z",
+ "last_updated": "2026-08-06T10:48:44Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a leaders: starmer-milei-prabowo-sheinbaum"
+  "last_focus": "track-c: cop29-ncqg, eu-safe, nato-ankara-70b, g20-minerals + musk-dearmoon"
  }
 }

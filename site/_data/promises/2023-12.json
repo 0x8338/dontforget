@@ -373,5 +373,28 @@
    "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
    "https://www.nytimes.com/2024/01/29/business/elon-musk-neuralink.html"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "Fly the first private crewed Starship mission around the Moon (dearMoon) by 2023",
+  "date_promised": "2018-09-17",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "In September 2018, SpaceX announced Yusaku Maezawa as the first private Starship customer for a circumlunar 'dearMoon' mission with a target of 2023. After being delayed indefinitely in November 2023, Maezawa cancelled the mission in June 2024 citing Starship development delays.",
+  "evidence": [
+   "dearMoon delayed indefinitely in November 2023",
+   "Mission cancelled by Maezawa on June 1, 2024"
+  ],
+  "sources": [
+   "SpaceNews",
+   "SpacePolicyOnline",
+   "Yahoo Tech"
+  ],
+  "source_urls": [
+   "https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/",
+   "https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/",
+   "https://tech.yahoo.com/transportation/articles/japanese-billionaire-just-canceled-private-220000132.html"
+  ]
  }
 ]

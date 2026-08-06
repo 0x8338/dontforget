@@ -62,5 +62,28 @@
    "https://english.ahram.org.eg/NewsContentMulti/548672/Multimedia.aspx",
    "https://united24media.com/world/five-nato-members-hit-gdp-35-defense-spending-target-nearly-decade-early-20572"
   ]
+ },
+ {
+  "person": "COP29 parties (NCQG)",
+  "role": "Parties to the UNFCCC Paris Agreement",
+  "promise": "Provide at least $300 billion per year in climate finance to developing countries by 2035, with $1.3 trillion as the overall ambition",
+  "date_promised": "2024-11-24",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "At COP29 in Baku, parties adopted a New Collective Quantified Goal (NCQG) on climate finance: at least $300 billion per year by 2035, with developed countries taking the lead and a wider goal of $1.3 trillion annually from all sources, tripling the previous $100 billion goal.",
+  "evidence": [
+   "NCQG decision adopted at COP29 (Nov 2024): at least $300bn/year by 2035",
+   "Aspirational goal of $1.3 trillion per year from all sources set alongside the floor"
+  ],
+  "sources": [
+   "UNFCCC",
+   "European Parliament",
+   "Green Climate Fund"
+  ],
+  "source_urls": [
+   "https://unfccc.int/sites/default/files/resource/COP-29_CF-Outcomes_Samah.pdf",
+   "https://www.europarl.europa.eu/RegData/etudes/ATAG/2024/766266/EPRS_ATA(2024)766266_EN.pdf",
+   "https://www.greenclimate.fund/about/news-and-updates/gcf-cop29-summary"
+  ]
  }
 ]

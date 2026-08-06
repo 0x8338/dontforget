@@ -281,5 +281,28 @@
    "https://www.carscoops.com/2024/05/tesla-doesnt-appear-to-be-chasing-20-million-annual-sales-anymore/",
    "https://www.politico.com/newsletters/power-switch/2025/09/09/tesla-veers-away-from-ev-dominance-00551709"
   ]
+ },
+ {
+  "person": "European Union (SAFE / ReArm Europe)",
+  "role": "European Commission and member states",
+  "promise": "Provide up to €150 billion in defence-industry loans to member states through the SAFE instrument",
+  "date_promised": "2025-03-04",
+  "due_date": "2030-12-31",
+  "status": "partial",
+  "description": "Under the ReArm Europe plan, the EU created the Security Action for Europe (SAFE) instrument to raise up to €150 billion on the markets and lend it to member states for defence capabilities. First payments were planned for March 2026, but as of mid-2026 some member states had still not signed agreements and unused funds faced a year-end reallocation deadline.",
+  "evidence": [
+   "SAFE established with a €150bn loan envelope; first payments planned March 2026",
+   "July 2026: Commission pressed Italy to sign; unused funds must be reallocated by end of year"
+  ],
+  "sources": [
+   "Eunews",
+   "EuToday",
+   "Deluair"
+  ],
+  "source_urls": [
+   "https://www.eunews.it/en/2026/07/02/eu-urges-italy-to-sign-safe-defence-funds-agreement/",
+   "https://eutoday.net/march-launch-for-eu-safe-defence-lending/",
+   "https://deluair.com/consultancy/insights/eu-safe-defense-2026"
+  ]
  }
 ]

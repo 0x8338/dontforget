@@ -1053,5 +1053,28 @@
    "https://www.trade.gov/market-intelligence/argentina-eliminates-capital-controls-and-payment-timelines",
    "https://theconversation.com/topics/imf-loans-119599/articles.atom"
   ]
+ },
+ {
+  "person": "G20 leaders (Johannesburg Declaration)",
+  "role": "G20 members",
+  "promise": "Adopt a Critical Minerals Framework for sustainable, transparent, stable and resilient mineral value chains",
+  "date_promised": "2025-11-23",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "At the Johannesburg Summit in November 2025, G20 leaders endorsed a voluntary Critical Minerals Framework describing it as a guide for sustainable, transparent, stable and resilient critical minerals value chains, supporting increased exploration particularly in developing countries and value addition at home.",
+  "evidence": [
+   "G20 Critical Minerals Framework endorsed in the Johannesburg declaration (Nov 2025)",
+   "Framework adopted by consensus despite the US boycott"
+  ],
+  "sources": [
+   "Xinhua",
+   "Cape Times",
+   "Lokmat Times"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2025-11/23/content_118190485.shtml",
+   "https://capetimes.co.za/g20/2025-11-23-g20-summit-in-south-africa-focus-on-critical-minerals-debt-relief-and-climate-action/",
+   "https://www.lokmattimes.com/international/g20-2025-critical-minerals-to-drive-inclusive-economic-growth-resilience-and-global-south-benefits/"
+  ]
  }
 ]
