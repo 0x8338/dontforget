@@ -35,6 +35,18 @@ def warn(msg: str) -> None:
     warnings.append(msg)
 
 
+def similar_enough(a: str, b: str, threshold: float) -> bool:
+    """Cheap pre-filter before the expensive SequenceMatcher ratio.
+
+    ratio = 2*M/(len(a)+len(b)) with M <= min(len(a), len(b)), so if the
+    theoretical maximum is below the threshold the pair cannot match.
+    """
+    total = len(a) + len(b)
+    if total == 0 or 2 * min(len(a), len(b)) / total < threshold:
+        return False
+    return SequenceMatcher(None, a, b).ratio() > threshold
+
+
 events = json.loads((BASE / "events.json").read_text())
 promises = json.loads((BASE / "promises.json").read_text())
 checkpoint = json.loads((BASE / "checkpoint.json").read_text())
@@ -77,12 +89,13 @@ for k in exact:
 
 by_key = {}
 for dkey, lst in events.items():
+    seen = by_key.setdefault(dkey, [])
     for e in lst:
         norm = e["title"].lower()
-        for other in by_key.get(dkey, []):
-            if SequenceMatcher(None, norm, other).ratio() > 0.6:
+        for other in seen:
+            if similar_enough(norm, other, 0.6):
                 warn(f"possible duplicate on {dkey}: {norm!r} ~ {other!r}")
-        by_key.setdefault(dkey, []).append(norm)
+        seen.append(norm)
 
 # Promises
 check(isinstance(promises, list), "promises.json must be a list")
@@ -113,13 +126,14 @@ exact_p = [k for k, v in Counter(
 for k in exact_p:
     errors.append(f"duplicate promise: {k}")
 
-seen_p = []
+seen_p = {}
 for p in promises:
-    norm_p = f"{p['person'].strip().lower()} :: {p['promise'].strip().lower()}"
-    for other in seen_p:
-        if SequenceMatcher(None, norm_p, other).ratio() > 0.82:
+    person = p["person"].strip().lower()
+    norm_p = f"{person} :: {p['promise'].strip().lower()}"
+    for other in seen_p.get(person, ()):
+        if similar_enough(norm_p, other, 0.82):
             warn(f"possible duplicate promise: {p['person']!r} ~ {other!r}")
-    seen_p.append(norm_p)
+    seen_p.setdefault(person, []).append(norm_p)
 
 # Checkpoint consistency
 ev_cp = checkpoint.get("events", {})
