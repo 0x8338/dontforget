@@ -5,9 +5,9 @@
  },
  "promises": {
   "last_date": "2026-08-07",
-  "total": 378
+  "total": 379
  },
- "last_updated": "2026-08-07T11:44:55Z",
+ "last_updated": "2026-08-07T15:03:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-b: ceos-corporate (musk-optimus-cybercab-moon, apple-600b-broadcom, nvidia-500b, amazon-meta-capex)"

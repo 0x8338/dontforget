@@ -7125,5 +7125,28 @@
    "https://www.investing.com/news/stock-market-news/meta-narrows-annual-capex-forecast-as-ai-buildout-grows-4821581",
    "https://finance.yahoo.com/technology/ai/articles/meta-lifts-2026-capex-floor-203035634.html"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX and Tesla",
+  "promise": "\"The Terafab is bringing cutting-edge manufacturing to America, creating thousands of high-paying jobs in the Lone Star State, and enabling us to produce AI chips at scale for use on Earth and in space.\"",
+  "date_promised": "2026-08-06",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "SpaceX and Tesla committed an initial $16.8 billion to build Terafab, a vertically integrated semiconductor plant in Grimes County, Texas, with over 100 million square feet of manufacturing space and at least 3,000 jobs. The facility is expected to produce chips for Tesla's Optimus robots and Cybercabs and for SpaceX's space-based data centers, with production expected to begin in 2027.",
+  "evidence": [
+   "SpaceX and Tesla confirmed the $16.8 billion phase-1 commitment on August 6, 2026",
+   "Local reporting says production at the Grimes County plant is expected to begin in 2027"
+  ],
+  "sources": [
+   "Reuters",
+   "Evertiq",
+   "WTAW"
+  ],
+  "source_urls": [
+   "https://www.thestar.com.my/tech/tech-news/2026/08/06/spacex-tesla-to-initially-spend-168-billion-on-terafab-chip-plant-in-texas",
+   "https://evertiq.com/news/2026-08-07-spacex-tesla-to-initially-spend-168-billion-on-texas-chip-plant",
+   "https://wtaw.com/its-official-the-spacex-terafab-facility-in-grimes-county-is-go-for-launch/"
+  ]
  }
 ]
