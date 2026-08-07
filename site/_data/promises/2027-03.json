@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "SpaceX will conduct an uncrewed lunar landing by March 2027",
+  "date_promised": "2026-02-08",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "The Wall Street Journal reported that SpaceX told investors it will prioritise the Moon before Mars and target an uncrewed lunar landing in March 2027. Musk publicly confirmed the Moon-first strategy, saying SpaceX aims to build a 'self-growing city' on the Moon within 10 years while still intending a city on Mars.",
+  "evidence": [
+   "WSJ report on SpaceX investor communication, February 6, 2026",
+   "Musk posts on X confirming the Moon-first strategy, February 8, 2026"
+  ],
+  "sources": [
+   "The Wall Street Journal",
+   "The News International"
+  ],
+  "source_urls": [
+   null,
+   "https://www.thenews.com.pk/amp/1391597-elon-musk-unveils-spacexs-moon-first-strategy-with-self-growing-lunar-city"
+  ]
+ }
+]

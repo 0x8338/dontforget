@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Tim Cook",
+  "role": "CEO of Apple",
+  "promise": "Apple will spend more than $30 billion with Broadcom, producing at least 15 billion U.S.-made chips through 2031",
+  "date_promised": "2026-07-08",
+  "due_date": "2031-12-31",
+  "status": "pending",
+  "description": "Apple announced a multiyear agreement with Broadcom expected to exceed $30 billion and result in the production of more than 15 billion U.S.-made chips, including expansion of Broadcom's Fort Collins, Colorado facility. Broadcom disclosed the long-term supply deal runs through 2031.",
+  "evidence": [
+   "Apple Newsroom press release, July 8, 2026",
+   "Reuters: agreement runs through 2031"
+  ],
+  "sources": [
+   "Apple Newsroom",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+   "https://www.reuters.com/business/apple-spend-30-billion-broadcom-chips-deal-that-will-see-colorado-factory-expand-2026-07-08/"
+  ]
+ }
+]

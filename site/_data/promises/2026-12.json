@@ -413,5 +413,68 @@
    "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-recalls-the-very-bad-day-for-blue-origin-with-a-promise-by-the-end-of-the-year-we-will-be-/articleshow/131672014.cms",
    "https://www.detroitnews.com/story/tech/space/2026/07/08/blue-origin-new-glenn-rocket-explosion-launch-2026/90836170007/"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Production of the Cybercab robotaxi will begin some time \"before 2027\"",
+  "date_promised": "2024-10-10",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At Tesla's 'We, Robot' event on October 10, 2024, Musk unveiled the Cybercab robotaxi and predicted production would begin before 2027 at a cost under $30,000. The first production unit was reported to have rolled off the Giga Texas line on February 17, 2026, with mass production and rollout still ahead.",
+  "evidence": [
+   "Robotaxi unveiling, October 10, 2024",
+   "First Cybercab production unit at Giga Texas reported February 17, 2026"
+  ],
+  "sources": [
+   "BBC News",
+   "Evening Standard"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/articles/cm29x5ke9jdo",
+   "https://www.standard.co.uk/news/tech/tesla-cybercab-unveiled-elon-musk-robotax-driverless-car-b1187228.html"
+  ]
+ },
+ {
+  "person": "Andy Jassy",
+  "role": "CEO of Amazon",
+  "promise": "Amazon expects 2026 capital expenditure of approximately $220 billion",
+  "date_promised": "2026-07-30",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "On Amazon's Q2 2026 earnings call, Jassy raised 2026 capex guidance from about $200 billion to approximately $220 billion, citing higher memory-chip costs, and said AI capacity would remain constrained through 2027 with contracted demand already extending into 2028.",
+  "evidence": [
+   "Q2 2026 earnings call, July 30, 2026",
+   "Reuters and Data Center Knowledge coverage"
+  ],
+  "sources": [
+   "Reuters",
+   "Data Center Knowledge"
+  ],
+  "source_urls": [
+   "https://www.usnews.com/news/top-news/articles/2026-07-30/amazon-beats-estimates-for-quarterly-cloud-revenue-growth",
+   "https://www.datacenterknowledge.com/infrastructure/amazon-lifts-ai-infrastructure-spending-to-220b-as-demand-outpaces-capacity"
+  ]
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Meta",
+  "promise": "Meta expects 2026 capital expenditure of $130 billion to $145 billion",
+  "date_promised": "2026-07-29",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "On Meta's Q2 2026 earnings call, the company raised the floor of its 2026 capex forecast by $5 billion, narrowing guidance to $130-145 billion for the year, mostly for AI infrastructure.",
+  "evidence": [
+   "Q2 2026 earnings call, July 29, 2026",
+   "Reuters: Meta narrowed its annual capex forecast"
+  ],
+  "sources": [
+   "Reuters",
+   "Yahoo Finance"
+  ],
+  "source_urls": [
+   "https://www.investing.com/news/stock-market-news/meta-narrows-annual-capex-forecast-as-ai-buildout-grows-4821581",
+   "https://finance.yahoo.com/technology/ai/articles/meta-lifts-2026-capex-floor-203035634.html"
+  ]
  }
 ]

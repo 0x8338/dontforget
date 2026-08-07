@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of Nvidia",
+  "promise": "Nvidia will manufacture up to $500 billion of AI chips and supercomputers in the U.S. over the next four years",
+  "date_promised": "2025-04-14",
+  "due_date": "2029-04-30",
+  "status": "pending",
+  "description": "Nvidia announced it will build AI supercomputers entirely on U.S. soil for the first time, producing up to $500 billion of domestic AI infrastructure over four years with partners such as TSMC, including Blackwell chip production in Arizona and new supercomputer manufacturing plants in Texas.",
+  "evidence": [
+   "Nvidia announcement, April 14, 2025",
+   "Reuters and AP coverage of the $500 billion four-year commitment"
+  ],
+  "sources": [
+   "Reuters",
+   "AP News"
+  ],
+  "source_urls": [
+   "https://www.investing.com/news/stock-market-news/nvidia-says-working-with-partners-to-make-ai-supercomputers-in-us-3983693",
+   "https://finance.yahoo.com/news/nvidia-pledges-500-billion-manufacture-164913589.html"
+  ]
+ }
+]

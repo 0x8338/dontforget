@@ -232,5 +232,26 @@
    "https://www.jonpeddie.com/news/nvidia-gtc-2026-keynote/",
    "https://www.thestandard.com.hk/innovation/article/324775/Nvidia-CEO-Jensen-Huang-says-to-unveil-world-surprising-new-chip"
   ]
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "\"We're planning to make Optimus robots available for sale to the public by the end of 2027\"",
+  "date_promised": "2026-01-22",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Speaking at the World Economic Forum in Davos, Musk said Tesla plans to begin selling Optimus humanoid robots to the public by the end of 2027, at a price of $20,000-$30,000, once reliability and safety are high enough. He predicted there will eventually be more robots than people.",
+  "evidence": [
+   "WEF Davos panel, January 22, 2026",
+   "Axios and Entrepreneur reported the end-2027 public sales timeline"
+  ],
+  "sources": [
+   "Axios",
+   "Entrepreneur"
+  ],
+  "source_urls": [
+   "https://www.axios.com/2026/01/22/elon-musk-tesla-optimus-robots",
+   "https://www.entrepreneur.com/business-news/elon-musk-tesla-sell-optimus-humanoid-robots"
+  ]
  }
 ]

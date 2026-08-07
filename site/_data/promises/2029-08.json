@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Tim Cook",
+  "role": "CEO of Apple",
+  "promise": "Apple's commitment to invest $600 billion in the U.S. economy over four years",
+  "date_promised": "2025-08-06",
+  "due_date": "2029-08-31",
+  "status": "pending",
+  "description": "At the White House on August 6, 2025, Cook joined President Trump to raise Apple's U.S. investment commitment from $500 billion to $600 billion over four years, including plans to directly hire 20,000 people and the new American Manufacturing Program. Apple reaffirmed the pledge in July 2026 when announcing its Broadcom agreement.",
+  "evidence": [
+   "White House announcement, August 6, 2025",
+   "Apple Newsroom, July 2026: Broadcom deal is part of the $600 billion four-year U.S. commitment"
+  ],
+  "sources": [
+   "Reuters",
+   "Business Wire"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/business/retail-consumer/trump-announces-100-billion-new-investment-pledge-apple-2025-08-06/",
+   "https://investor.wedbush.com/wedbush/article/bizwire-2025-8-6-apple-increases-us-commitment-to-600-billion-announces-american-manufacturing-program"
+  ]
+ }
+]
