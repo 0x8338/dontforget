@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-06",
-  "total": 574
+  "last_date": "2026-08-07",
+  "total": 577
  },
  "promises": {
-  "last_date": "2026-08-06",
-  "total": 366
+  "last_date": "2026-08-07",
+  "total": 370
  },
- "last_updated": "2026-08-06T14:21:03Z",
+ "last_updated": "2026-08-07T09:56:07Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: altman-1b-users, zuckerberg-superintelligence, huang-1t-pipeline, bezos-new-glenn"
+  "last_focus": "track-a: modi-3rd-economy, paetongtarn-wallet, starmer-nhs, trump-bitcoin"
  }
 }

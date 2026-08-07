@@ -696,6 +696,19 @@
     "Ouest-France",
     "Philippine News Agency"
    ]
+  },
+  {
+   "date": "2026-08-06",
+   "title": "Minibus bomb blast near Damascus kills three",
+   "category": "terrorism",
+   "location": "Jaramana, Rif Dimashq, Syria",
+   "lives_lost": 3,
+   "description": "An explosive device detonated aboard a public transport minibus in the Damascus suburb of Jaramana on Thursday evening, killing three people and injuring 13 to 14 others, according to Syria's health authorities, state media and the Syrian Observatory for Human Rights.",
+   "sources": [
+    "Xinhua",
+    "Anadolu Agency",
+    "EFE"
+   ]
   }
  ],
  "08-09": [
@@ -4844,6 +4857,32 @@
     "BBC News",
     "Human Rights Watch",
     "Amnesty International"
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Russian drone strike on Lozova train station kills two",
+   "category": "war",
+   "location": "Lozova, Kharkiv region, Ukraine",
+   "lives_lost": 2,
+   "description": "A morning Russian drone attack on the train station in Lozova, Kharkiv region, killed two men aged 52 and 59 and injured 11 other people, according to the Kharkiv Regional Police Directorate.",
+   "sources": [
+    "Interfax-Ukraine",
+    "Dawn",
+    "Deutschlandfunk"
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Thailand school shooting kills seven",
+   "category": "gun-violence",
+   "location": "Debsirin Nonthaburi School, Nonthaburi, Thailand",
+   "lives_lost": 7,
+   "description": "A student opened fire at Debsirin Nonthaburi School in Bang Kruai district, Nonthaburi, killing three teachers and three students before taking his own life, and wounding 15 other people, police said.",
+   "sources": [
+    "AP News",
+    "Xinhua",
+    "China Daily"
    ]
   }
  ],

@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "By July 2029, 92% of NHS patients will be seen within 18 weeks for routine hospital treatment",
+  "date_promised": "2025-12-05",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "Starmer's 'plan for change' pledged that by July 2029, 92 per cent of patients would be seen within 18 weeks for routine elective care such as hip and knee replacements. In March 2026, analysis suggested the NHS would miss the target.",
+  "evidence": [
+   "18-week target with 92% coverage pledged for July 2029",
+   "March 2026 reporting said the NHS was not on track to deliver it"
+  ],
+  "sources": [
+   "LBC",
+   "The Guardian",
+   "Express"
+  ],
+  "source_urls": [
+   "https://www.lbc.co.uk/article/labour-facing-failure-on-key-pledge-to-cut-nhs-waiting-lists-5HjdN4y_2/",
+   "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
+   "https://www.express.co.uk/news/politics/2135782/nhs-labour-waiting-list-targets-at-risk"
+  ]
+ }
+]

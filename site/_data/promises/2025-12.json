@@ -1099,5 +1099,51 @@
    "https://arynews.tv/chatgpt-becomes-fastest-app-in-history-to-reach-1-billion-monthly-users",
    "https://en.theblockbeats.news/flash/344104"
   ]
+ },
+ {
+  "person": "Paetongtarn Shinawatra",
+  "role": "Prime Minister of Thailand",
+  "promise": "Distribute the 10,000-baht digital wallet handout to about 50 million Thais",
+  "date_promised": "2024-09-04",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Paetongtarn reaffirmed her party's campaign promise to give 10,000 baht in digital money to about 50 million Thais aged 16 and older. Phase 1 (late September 2024) covered welfare card holders and people with disabilities, phase 2 reached the general public, but the third phase remained under review into 2025-2026.",
+  "evidence": [
+   "Phase 1 delivered September 2024; phase 2 delivered in early 2025",
+   "Third phase still under review as of 2025, with funds later slated for Q2 2026"
+  ],
+  "sources": [
+   "Nation Thailand",
+   "Bangkok Post",
+   "China Daily"
+  ],
+  "source_urls": [
+   "https://www.nationthailand.com/business/economy/40050011",
+   "https://www.bangkokpost.com/thailand/politics/2922227/court-rejects-complaint-against-pms-handout-policy",
+   "http://www.chinadaily.com.cn/a/202409/13/WS66e423cba3103711928a7ee0.html"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Establish a Strategic Bitcoin Reserve and never sell the US government's bitcoin",
+  "date_promised": "2025-03-06",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Trump signed an executive order on March 6, 2025 establishing a Strategic Bitcoin Reserve and a U.S. Digital Asset Stockpile, retaining the roughly 200,000 bitcoin the government already held and committing that bitcoin deposited in the reserve would not be sold.",
+  "evidence": [
+   "Executive Order signed March 6, 2025 created the reserve",
+   "Order committed the US to not sell bitcoin deposited in the reserve"
+  ],
+  "sources": [
+   "White House",
+   "The Hindu",
+   "VOA"
+  ],
+  "source_urls": [
+   "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/",
+   "https://www.thehindu.com/news/international/trump-signs-executive-order-to-establish-government-bitcoin-reserve/article69301281.ece",
+   "https://editorials.voa.gov/a/making-the-u-s-the-bitcoin-superpower/8007190.html"
+  ]
  }
 ]

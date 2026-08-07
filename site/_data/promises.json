@@ -6865,5 +6865,97 @@
    "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-recalls-the-very-bad-day-for-blue-origin-with-a-promise-by-the-end-of-the-year-we-will-be-/articleshow/131672014.cms",
    "https://www.detroitnews.com/story/tech/space/2026/07/08/blue-origin-new-glenn-rocket-explosion-launch-2026/90836170007/"
   ]
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "India will become the world's third-largest economy by 2029 (end of his third term)",
+  "date_promised": "2025-01-15",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Modi guaranteed India would become the world's third-largest economy by the end of his third term in 2029. As of mid-2026, analysts said the targets were off track, with projections for India overtaking Germany and Japan slipping toward 2028-2030.",
+  "evidence": [
+   "Third-largest economy pledge tied to the end of Modi's third term (2029)",
+   "2026 analysis said the target was off track; Morgan Stanley projected 2028"
+  ],
+  "sources": [
+   "The Quint",
+   "PIB",
+   "NewsOnAir"
+  ],
+  "source_urls": [
+   "https://www.thequint.com/opinion/modis-third-largest-and-5-trillion-economy-targets-are-off-track-india",
+   "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2136365",
+   "https://newsonair.gov.in/india-to-become-worlds-third-largest-economy-by-2028-overtaking-germany-says-morgan-stanley/"
+  ]
+ },
+ {
+  "person": "Paetongtarn Shinawatra",
+  "role": "Prime Minister of Thailand",
+  "promise": "Distribute the 10,000-baht digital wallet handout to about 50 million Thais",
+  "date_promised": "2024-09-04",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Paetongtarn reaffirmed her party's campaign promise to give 10,000 baht in digital money to about 50 million Thais aged 16 and older. Phase 1 (late September 2024) covered welfare card holders and people with disabilities, phase 2 reached the general public, but the third phase remained under review into 2025-2026.",
+  "evidence": [
+   "Phase 1 delivered September 2024; phase 2 delivered in early 2025",
+   "Third phase still under review as of 2025, with funds later slated for Q2 2026"
+  ],
+  "sources": [
+   "Nation Thailand",
+   "Bangkok Post",
+   "China Daily"
+  ],
+  "source_urls": [
+   "https://www.nationthailand.com/business/economy/40050011",
+   "https://www.bangkokpost.com/thailand/politics/2922227/court-rejects-complaint-against-pms-handout-policy",
+   "http://www.chinadaily.com.cn/a/202409/13/WS66e423cba3103711928a7ee0.html"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "By July 2029, 92% of NHS patients will be seen within 18 weeks for routine hospital treatment",
+  "date_promised": "2025-12-05",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "Starmer's 'plan for change' pledged that by July 2029, 92 per cent of patients would be seen within 18 weeks for routine elective care such as hip and knee replacements. In March 2026, analysis suggested the NHS would miss the target.",
+  "evidence": [
+   "18-week target with 92% coverage pledged for July 2029",
+   "March 2026 reporting said the NHS was not on track to deliver it"
+  ],
+  "sources": [
+   "LBC",
+   "The Guardian",
+   "Express"
+  ],
+  "source_urls": [
+   "https://www.lbc.co.uk/article/labour-facing-failure-on-key-pledge-to-cut-nhs-waiting-lists-5HjdN4y_2/",
+   "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
+   "https://www.express.co.uk/news/politics/2135782/nhs-labour-waiting-list-targets-at-risk"
+  ]
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Establish a Strategic Bitcoin Reserve and never sell the US government's bitcoin",
+  "date_promised": "2025-03-06",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Trump signed an executive order on March 6, 2025 establishing a Strategic Bitcoin Reserve and a U.S. Digital Asset Stockpile, retaining the roughly 200,000 bitcoin the government already held and committing that bitcoin deposited in the reserve would not be sold.",
+  "evidence": [
+   "Executive Order signed March 6, 2025 created the reserve",
+   "Order committed the US to not sell bitcoin deposited in the reserve"
+  ],
+  "sources": [
+   "White House",
+   "The Hindu",
+   "VOA"
+  ],
+  "source_urls": [
+   "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/",
+   "https://www.thehindu.com/news/international/trump-signs-executive-order-to-establish-government-bitcoin-reserve/article69301281.ece",
+   "https://editorials.voa.gov/a/making-the-u-s-the-bitcoin-superpower/8007190.html"
+  ]
  }
 ]
