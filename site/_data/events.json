@@ -686,28 +686,17 @@
   },
   {
    "date": "2026-08-06",
-   "title": "Landslides kill four in northern Philippines",
+   "title": "Storm deaths in northern Philippines reach six",
    "category": "natural-disaster",
    "location": "Northern Luzon, Philippines",
-   "lives_lost": 4,
-   "description": "Landslides triggered by heavy rains from a tropical depression killed at least four people in the northern Philippines, including two people in La Trinidad, Benguet when a landslide buried part of a restaurant kitchen. Heavy rain forced school closures across the north.",
+   "lives_lost": 6,
+   "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least six people in the northern Philippines: two in a rockslide in Rodriguez, Rizal, two in a landslide in La Trinidad, Benguet, and two in La Union. Landslides and flooding forced school closures and opened evacuation centers across the north.",
    "sources": [
     "The Peninsula Qatar",
     "Ouest-France",
-    "Philippine News Agency"
-   ]
-  },
-  {
-   "date": "2026-08-06",
-   "title": "Minibus bomb blast near Damascus kills three",
-   "category": "terrorism",
-   "location": "Jaramana, Rif Dimashq, Syria",
-   "lives_lost": 3,
-   "description": "An explosive device detonated aboard a public transport minibus in the Damascus suburb of Jaramana on Thursday evening, killing three people and injuring 13 to 14 others, according to Syria's health authorities, state media and the Syrian Observatory for Human Rights.",
-   "sources": [
-    "Xinhua",
-    "Anadolu Agency",
-    "EFE"
+    "Philippine News Agency",
+    "GMA News",
+    "Office of Civil Defense"
    ]
   },
   {
@@ -1228,6 +1217,18 @@
    "sources": [
     "BBC News",
     "CNN"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "title": "Russian drone and missile attack on Kyiv region kills three, including child",
+   "category": "war",
+   "location": "Brovary district, Kyiv Oblast, Ukraine",
+   "lives_lost": 3,
+   "description": "Russia attacked Kyiv and the surrounding region overnight on August 8, killing three people, including a child, in strikes on the Brovary district east of Kyiv. Three more people were injured, including another child, and the attack damaged a residential building, cars and outbuildings.",
+   "sources": [
+    "Kyiv Independent",
+    "RBC Ukraine"
    ]
   }
  ],

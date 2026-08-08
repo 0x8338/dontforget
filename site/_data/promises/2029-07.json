@@ -21,5 +21,28 @@
    "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
    "https://www.express.co.uk/news/politics/2135782/nhs-labour-waiting-list-targets-at-risk"
   ]
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Bolivia Extended Fund Facility program",
+  "promise": "Provide Bolivia a $1.9 billion, 36-month Extended Fund Facility program to restore macroeconomic stability and rebuild foreign reserves",
+  "date_promised": "2026-07-29",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "The IMF and Bolivia reached a staff-level agreement on July 29, 2026, for a 36-month, about $1.9 billion financing program under the Extended Fund Facility, pending approval by the IMF Executive Board. The program aims to restore macroeconomic stability and rebuild depleted foreign reserves.",
+  "evidence": [
+   "Staff-level agreement announced July 29, 2026; board approval still pending",
+   "36-month program implies completion around mid-2029"
+  ],
+  "sources": [
+   "Reuters",
+   "Bloomberg",
+   "bne IntelliNews"
+  ],
+  "source_urls": [
+   "https://in.marketscreener.com/news/bolivia-and-imf-reach-1-9-billion-loan-agreement-political-hurdles-remain-ce7f51d3da8cf422",
+   "https://www.bloomberg.com/news/articles/2026-07-29/bolivia-imf-agree-on-new-1-9-billion-financing-program",
+   "https://www.intellinews.com/imf-strikes-1-9bn-loan-deal-with-bolivia-457838/"
+  ]
  }
 ]

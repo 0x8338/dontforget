@@ -1,0 +1,25 @@
+[
+ {
+  "person": "International Monetary Fund",
+  "role": "Ukraine Extended Fund Facility arrangement",
+  "promise": "Provide Ukraine an $8.1 billion, 48-month Extended Fund Facility arrangement approved in February 2026",
+  "date_promised": "2026-02-26",
+  "due_date": "2030-02-28",
+  "status": "pending",
+  "description": "The IMF Executive Board approved a new 48-month Extended Fund Facility arrangement for Ukraine of about $8.1 billion on February 26, 2026. The first review was completed on July 20, 2026, with about $690 million disbursed, bringing total disbursements to about $2.2 billion.",
+  "evidence": [
+   "Executive Board approval on February 26, 2026",
+   "First review completed July 20, 2026 with about $690 million disbursed"
+  ],
+  "sources": [
+   "IMF",
+   "Interfax",
+   "National Bank of Ukraine"
+  ],
+  "source_urls": [
+   "https://www.imf.org/en/news/articles/2026/02/26/pr-26066-ukraine-imf-executive-board-approves-usd-8point1-billion-under-an-eff-arrangement",
+   "https://interfax.com/newsroom/top-stories/117586/",
+   "https://finclusion.bank.gov.ua/en/news/all/rada-mvf-shvalila-pershiy-pereglyad-programi-rozshirenogo-finansuvannya-ta-zatverdila-vidilennya-transhu-obsyagom-690-mln-dol-ssha"
+  ]
+ }
+]

@@ -7148,5 +7148,97 @@
    "https://evertiq.com/news/2026-08-07-spacex-tesla-to-initially-spend-168-billion-on-texas-chip-plant",
    "https://wtaw.com/its-official-the-spacex-terafab-facility-in-grimes-county-is-go-for-launch/"
   ]
+ },
+ {
+  "person": "United Nations member states",
+  "role": "UN General Assembly High-Level Meeting on HIV/AIDS",
+  "promise": "Political Declaration on HIV/AIDS: 'United to End AIDS by 2030' - end AIDS as a public health threat by 2030",
+  "date_promised": "2026-06-23",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "At the 2026 UN General Assembly High-Level Meeting on HIV and AIDS, member states adopted a political declaration reaffirming their collective commitment to end AIDS as a public health threat by 2030 and setting strategic priorities and targets for accelerated action over the next five years.",
+  "evidence": [
+   "Declaration adopted by the General Assembly on June 23, 2026 (A/80/PV.92)",
+   "WHO called it the final push to accelerate progress towards ending AIDS by 2030"
+  ],
+  "sources": [
+   "World Health Organization",
+   "UN Digital Library",
+   "EpiNews"
+  ],
+  "source_urls": [
+   "https://www.who.int/philippines/news/detail-global/24-06-2026-united-to-end-aids--new-political-declaration-launches-final-push-to-accelerate-progress-towards-ending-aids-as-a-public-health-threat-by-2030",
+   "https://digitallibrary.un.org/record/4119691",
+   "https://epinews.emphnet.net/en/news/united-to-end-aids-new-political-declaration-launches-final-push-to-accelerate-progress-towards-ending-aids-as-a-public-health-threat-by-2030"
+  ]
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Bolivia Extended Fund Facility program",
+  "promise": "Provide Bolivia a $1.9 billion, 36-month Extended Fund Facility program to restore macroeconomic stability and rebuild foreign reserves",
+  "date_promised": "2026-07-29",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "The IMF and Bolivia reached a staff-level agreement on July 29, 2026, for a 36-month, about $1.9 billion financing program under the Extended Fund Facility, pending approval by the IMF Executive Board. The program aims to restore macroeconomic stability and rebuild depleted foreign reserves.",
+  "evidence": [
+   "Staff-level agreement announced July 29, 2026; board approval still pending",
+   "36-month program implies completion around mid-2029"
+  ],
+  "sources": [
+   "Reuters",
+   "Bloomberg",
+   "bne IntelliNews"
+  ],
+  "source_urls": [
+   "https://in.marketscreener.com/news/bolivia-and-imf-reach-1-9-billion-loan-agreement-political-hurdles-remain-ce7f51d3da8cf422",
+   "https://www.bloomberg.com/news/articles/2026-07-29/bolivia-imf-agree-on-new-1-9-billion-financing-program",
+   "https://www.intellinews.com/imf-strikes-1-9bn-loan-deal-with-bolivia-457838/"
+  ]
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Ukraine Extended Fund Facility arrangement",
+  "promise": "Provide Ukraine an $8.1 billion, 48-month Extended Fund Facility arrangement approved in February 2026",
+  "date_promised": "2026-02-26",
+  "due_date": "2030-02-28",
+  "status": "pending",
+  "description": "The IMF Executive Board approved a new 48-month Extended Fund Facility arrangement for Ukraine of about $8.1 billion on February 26, 2026. The first review was completed on July 20, 2026, with about $690 million disbursed, bringing total disbursements to about $2.2 billion.",
+  "evidence": [
+   "Executive Board approval on February 26, 2026",
+   "First review completed July 20, 2026 with about $690 million disbursed"
+  ],
+  "sources": [
+   "IMF",
+   "Interfax",
+   "National Bank of Ukraine"
+  ],
+  "source_urls": [
+   "https://www.imf.org/en/news/articles/2026/02/26/pr-26066-ukraine-imf-executive-board-approves-usd-8point1-billion-under-an-eff-arrangement",
+   "https://interfax.com/newsroom/top-stories/117586/",
+   "https://finclusion.bank.gov.ua/en/news/all/rada-mvf-shvalila-pershiy-pereglyad-programi-rozshirenogo-finansuvannya-ta-zatverdila-vidilennya-transhu-obsyagom-690-mln-dol-ssha"
+  ]
+ },
+ {
+  "person": "Gavi, the Vaccine Alliance",
+  "role": "International vaccine alliance",
+  "promise": "Raise at least $9 billion for 2026-2030 to immunise 500 million children and save over 8 million lives by 2030",
+  "date_promised": "2025-06-25",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Gavi launched its 2026-2030 replenishment strategy calling for at least $9 billion in new funding to immunise 500 million children and save more than 8 million lives by 2030, with the high-level replenishment conference held on June 25, 2025.",
+  "evidence": [
+   "Replenishment strategy for 2026-2030 launched with a $9 billion ask",
+   "Replenishment summit held June 25, 2025 in Brussels"
+  ],
+  "sources": [
+   "Gavi",
+   "Devex",
+   "Global Health Hub"
+  ],
+  "source_urls": [
+   "https://www.gavi.org/sites/default/files/%20/board/minutes/2025/24-25-july04%20-%20Update%20from%20the%20Global%20Summit%20-%20Health%20and%20Prosperity%20Through%20Immunisation.pdf",
+   "https://www.devex.com/news/gavi-delays-9b-replenishment-event-amid-tough-fundraising-environment-109597",
+   "https://www.globalhealthhub.de/en/news/detail/brussels-becomes-the-global-health-capital-gavi-replenishment-conference-2025"
+  ]
  }
 ]

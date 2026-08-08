@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-07",
+  "last_date": "2026-08-08",
   "total": 579
  },
  "promises": {
-  "last_date": "2026-08-07",
-  "total": 379
+  "last_date": "2026-08-08",
+  "total": 383
  },
- "last_updated": "2026-08-07T15:03:00Z",
+ "last_updated": "2026-08-08T01:58:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos-corporate (musk-optimus-cybercab-moon, apple-600b-broadcom, nvidia-500b, amazon-meta-capex)"
+  "last_focus": "track-c: international-orgs-treaties (un-aids-2030, imf-bolivia-eff, imf-ukraine-eff, gavi-replenishment)"
  }
 }
