@@ -85,5 +85,28 @@
    "https://www.europarl.europa.eu/RegData/etudes/ATAG/2024/766266/EPRS_ATA(2024)766266_EN.pdf",
    "https://www.greenclimate.fund/about/news-and-updates/gcf-cop29-summary"
   ]
+ },
+ {
+  "person": "Mark Carney",
+  "role": "Prime Minister of Canada",
+  "promise": "Canada will meet NATO's new Defence Investment Pledge of 5% of GDP by 2035, and double defence expenditures with an additional C$80 billion over five years",
+  "date_promised": "2025-06-25",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "Canada joined the NATO Defence Investment Pledge agreed at the 2025 Hague Summit to invest 5% of annual GDP in defence and defence-related spending by 2035. Prime Minister Mark Carney reaffirmed the commitment in February 2026, pledging to double defence expenditures by the end of the decade with an additional C$80 billion over five years, and Canada said it would hit NATO's 2% target in 2026.",
+  "evidence": [
+   "Canada joined the new NATO Defence Investment Pledge on June 25, 2025",
+   "Carney reaffirmed doubling defence spending and the 5% by 2035 target in February 2026"
+  ],
+  "sources": [
+   "Government of Canada (PMO)",
+   "Politico",
+   "New Age"
+  ],
+  "source_urls": [
+   "https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg",
+   "https://www.politico.com/news/2026/02/17/canada-defense-reduce-us-dependency-00784190",
+   "https://www.newagebd.net/print/post/272580"
+  ]
  }
 ]

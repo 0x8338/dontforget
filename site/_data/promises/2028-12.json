@@ -40,5 +40,28 @@
    "https://tribune.com.pk/story/2530190/entertainment",
    "https://www.csail.mit.edu/news/new-mit-research-overturns-prior-view-about-how-ai-capabilities-could-overtake-human-workers"
   ]
+ },
+ {
+  "person": "William Ruto",
+  "role": "President of Kenya",
+  "promise": "Launch the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028, pledging KES 7.5 billion (about $58 million) to end preventable maternal and newborn deaths",
+  "date_promised": "2026-06-02",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "President William Ruto launched the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028 and the Maternal and Newborn Health Rapid Results Initiative at State House, Nairobi, pledging KES 7.5 billion (about $58 million) towards maternal, newborn and reproductive health services, including an additional KSh4 billion through the Social Health Authority.",
+  "evidence": [
+   "EWENE Acceleration Plan 2026-2028 launched at State House, Nairobi",
+   "KES 7.5 billion pledged, with additional KSh4 billion via the Social Health Authority"
+  ],
+  "sources": [
+   "WHO Partnership for Maternal, Newborn & Child Health",
+   "Ecofin Agency",
+   "The Star"
+  ],
+  "source_urls": [
+   "https://pmnch.who.int/news-and-events/news/item/02-06-2026-president-ruto-launches-national-drive-to-end-preventable-maternal-and-newborn-deaths",
+   "https://www.ecofinagency.com/news/2905-56001-kenya-pledges-58-million-to-combat-preventable-maternal-and-newborn-deaths",
+   "https://www.the-star.co.ke/counties/2026-06-02-shas-sh4bn-jackpot-for-pregnant-women"
+  ]
  }
 ]

@@ -7240,5 +7240,97 @@
    "https://www.devex.com/news/gavi-delays-9b-replenishment-event-amid-tough-fundraising-environment-109597",
    "https://www.globalhealthhub.de/en/news/detail/brussels-becomes-the-global-health-capital-gavi-replenishment-conference-2025"
   ]
+ },
+ {
+  "person": "Mark Carney",
+  "role": "Prime Minister of Canada",
+  "promise": "Canada will meet NATO's new Defence Investment Pledge of 5% of GDP by 2035, and double defence expenditures with an additional C$80 billion over five years",
+  "date_promised": "2025-06-25",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "Canada joined the NATO Defence Investment Pledge agreed at the 2025 Hague Summit to invest 5% of annual GDP in defence and defence-related spending by 2035. Prime Minister Mark Carney reaffirmed the commitment in February 2026, pledging to double defence expenditures by the end of the decade with an additional C$80 billion over five years, and Canada said it would hit NATO's 2% target in 2026.",
+  "evidence": [
+   "Canada joined the new NATO Defence Investment Pledge on June 25, 2025",
+   "Carney reaffirmed doubling defence spending and the 5% by 2035 target in February 2026"
+  ],
+  "sources": [
+   "Government of Canada (PMO)",
+   "Politico",
+   "New Age"
+  ],
+  "source_urls": [
+   "https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg",
+   "https://www.politico.com/news/2026/02/17/canada-defense-reduce-us-dependency-00784190",
+   "https://www.newagebd.net/print/post/272580"
+  ]
+ },
+ {
+  "person": "Cyril Ramaphosa",
+  "role": "President of South Africa",
+  "promise": "\"I am pleased to announce that South Africa is increasing its pledge to 13.5 million U.S. dollars as our commitment to solidarity and sovereignty for the people of this continent.\"",
+  "date_promised": "2026-06-16",
+  "due_date": "2026-11-30",
+  "status": "pending",
+  "description": "President Cyril Ramaphosa increased South Africa's financial contribution to the Ebola response for the outbreaks in DR Congo and Uganda to US$13.5 million, part of a broader African Union plan running from June to November 2026 to strengthen outbreak control and preparedness in at least ten high-risk states.",
+  "evidence": [
+   "Pledge increased to $13.5 million announced June 16, 2026",
+   "Funding forms part of the African Union Ebola plan running June-November 2026"
+  ],
+  "sources": [
+   "SAnews",
+   "Xinhua",
+   "Africa News"
+  ],
+  "source_urls": [
+   "https://www.sanews.gov.za/index.ph%70/south-africa/sa-increases-pledge-response-ebola-outbreak",
+   "https://english.news.cn/africa/20260617/7c6446739d304ba7af9aaabb6e393a79/c.html",
+   "https://apanews.net/south-africa-pledges-5m-for-continental-ebola-plan/"
+  ]
+ },
+ {
+  "person": "William Ruto",
+  "role": "President of Kenya",
+  "promise": "Launch the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028, pledging KES 7.5 billion (about $58 million) to end preventable maternal and newborn deaths",
+  "date_promised": "2026-06-02",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "President William Ruto launched the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028 and the Maternal and Newborn Health Rapid Results Initiative at State House, Nairobi, pledging KES 7.5 billion (about $58 million) towards maternal, newborn and reproductive health services, including an additional KSh4 billion through the Social Health Authority.",
+  "evidence": [
+   "EWENE Acceleration Plan 2026-2028 launched at State House, Nairobi",
+   "KES 7.5 billion pledged, with additional KSh4 billion via the Social Health Authority"
+  ],
+  "sources": [
+   "WHO Partnership for Maternal, Newborn & Child Health",
+   "Ecofin Agency",
+   "The Star"
+  ],
+  "source_urls": [
+   "https://pmnch.who.int/news-and-events/news/item/02-06-2026-president-ruto-launches-national-drive-to-end-preventable-maternal-and-newborn-deaths",
+   "https://www.ecofinagency.com/news/2905-56001-kenya-pledges-58-million-to-combat-preventable-maternal-and-newborn-deaths",
+   "https://www.the-star.co.ke/counties/2026-06-02-shas-sh4bn-jackpot-for-pregnant-women"
+  ]
+ },
+ {
+  "person": "Abelardo de la Espriella",
+  "role": "President of Colombia",
+  "promise": "\"Submit to the rule of law or face the firm response of the Colombian state and its security forces\" - launch an uncompromising crackdown on armed groups and drug cartels",
+  "date_promised": "2026-08-07",
+  "due_date": "2026-11-14",
+  "status": "pending",
+  "description": "In his inaugural address on August 7, 2026, President Abelardo de la Espriella vowed a fierce crackdown on drug trafficking and armed groups, declaring that the option of peace talks was 'completely exhausted' and that it was 'time to permanently eradicate the scourge of illicit crops'. Analysts expect the new administration to focus its first 100 days on security and anti-corruption measures.",
+  "evidence": [
+   "Inaugural address pledges crackdown on armed groups and drug cartels",
+   "First-100-days focus on security expected, running to mid-November 2026"
+  ],
+  "sources": [
+   "Reuters",
+   "Daily News Egypt",
+   "Leadership"
+  ],
+  "source_urls": [
+   "https://www.investing.com/news/commodities-news/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown-4845932",
+   "https://www.dailynewsegypt.com/2026/08/08/colombia-shifts-right-as-de-la-espriella-assumes-presidency-with-hardline-security-and-economic-pledges/",
+   "https://leadership.ng/colombias-new-president-vows-crackdown-on-armed-groups-drug-cartels/"
+  ]
  }
 ]

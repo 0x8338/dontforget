@@ -1230,6 +1230,44 @@
     "Kyiv Independent",
     "RBC Ukraine"
    ]
+  },
+  {
+   "date": "2026-08-08",
+   "title": "IS-linked militants kill at least 13 in eastern Congo village attack",
+   "category": "terrorism",
+   "location": "Banana École, Mambasa, Ituri, DR Congo",
+   "lives_lost": 13,
+   "description": "Militants affiliated with the Islamic State group attacked the village of Banana École, a suburb of the territorial capital of Mambasa in eastern DR Congo near the border with Uganda, early Saturday, killing at least 13 people and burning and looting homes, a local civil society group said.",
+   "sources": [
+    "AP News",
+    "Times of Israel",
+    "TRT Afrika"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "title": "Helicopter crash in Rio de Janeiro kills four",
+   "category": "industrial",
+   "location": "Alto da Boa Vista, Rio de Janeiro, Brazil",
+   "lives_lost": 4,
+   "description": "A Robinson 44 helicopter crashed in a forested area near Vista Chinesa in the Tijuca National Park in Rio de Janeiro on Saturday morning, killing all four people on board, firefighters said.",
+   "sources": [
+    "Xinhua",
+    "Agência Brasil"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "title": "Explosive drone attack on police substation kills officer in northern Colombia",
+   "category": "terrorism",
+   "location": "Curumaní, Cesar, Colombia",
+   "lives_lost": 1,
+   "description": "A non-commissioned police officer died after a drone loaded with explosives attacked the San Roque police substation in Curumaní, Cesar department, on the first day of President Abelardo de la Espriella's term. The attack came alongside a separate explosion that damaged the Mondomo tollgate on the Pan-American Highway in Cauca, injuring two guards.",
+   "sources": [
+    "AP News",
+    "La Crónica",
+    "TV Perú"
+   ]
   }
  ],
  "08-22": [
@@ -4887,18 +4925,44 @@
   },
   {
    "date": "2026-08-07",
-   "title": "Thailand school shooting kills eight",
+   "title": "Thailand school shooting kills nine",
    "category": "gun-violence",
    "location": "Debsirin Nonthaburi School, Nonthaburi, Thailand",
-   "lives_lost": 8,
-   "description": "A 14-year-old student shot and killed his grandparents at home before opening fire at Debsirin Nonthaburi School in Bang Kruai district, Nonthaburi, killing teachers and students and wounding 15 other people before taking his own life. Thai Prime Minister Anutin Charnvirakul confirmed the death toll rose to eight, including the shooter.",
+   "lives_lost": 9,
+   "description": "A 14-year-old student shot and killed his grandparents at home before opening fire at Debsirin Nonthaburi School in Bang Kruai district, Nonthaburi, killing teachers and students and wounding more than 20 other people before taking his own life. Authorities said the death toll rose to nine, including the shooter, as of August 8.",
    "sources": [
     "AP News",
     "Xinhua",
     "China Daily",
     "Anadolu Agency",
     "Canberra Times",
-    "Novinite"
+    "Novinite",
+    "bdnews24"
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Firefighting helicopter crash near Utah wildfire kills two",
+   "category": "industrial",
+   "location": "Richfield, Utah, USA",
+   "lives_lost": 2,
+   "description": "A Sikorsky S-64 heavy-lift helicopter supporting firefighting operations on the Widemouth 2 Fire in central Utah crashed near Richfield on Friday morning, killing a pilot and a crewmember, authorities confirmed.",
+   "sources": [
+    "KSL",
+    "Associated Press",
+    "Xinhua"
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Wildfire kills bulldozer operator in Oregon",
+   "category": "natural-disaster",
+   "location": "South-central Oregon, USA",
+   "lives_lost": 1,
+   "description": "A 47-year-old bulldozer operator, Jason Ensign, died after being trapped when fire rapidly overran his position while he helped forestry crews battle an uncontained wildfire in south-central Oregon on Friday.",
+   "sources": [
+    "Associated Press",
+    "Firehouse"
    ]
   }
  ],
