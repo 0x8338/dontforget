@@ -752,6 +752,57 @@
     "Human Rights Watch",
     "Reuters"
    ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Russian missile strike on Kharkiv apartment block kills two",
+   "category": "war",
+   "location": "Kharkiv, Ukraine",
+   "lives_lost": 2,
+   "description": "Russian missiles struck a high-rise apartment block in Kharkiv's Saltivskyi district on Sunday morning, August 9, killing two people, two men aged 50 and 66, and injuring more than a dozen others, according to regional head Oleh Syniehubov.",
+   "sources": [
+    "AP News",
+    "RBC Ukraine",
+    "Kyiv Independent"
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Ukrainian drone strikes kill five in Russia's Belgorod region",
+   "category": "war",
+   "location": "Belgorod, Russia",
+   "lives_lost": 5,
+   "description": "Ukrainian drone strikes on Sunday killed five people and injured two dozen others, including a 4-year-old boy, in Russia's border region of Belgorod, according to the regional administration. The strikes damaged apartment blocks, private houses and administrative buildings.",
+   "sources": [
+    "AP News",
+    "Anadolu Agency",
+    "Xinhua"
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Israeli strikes kill three Palestinians in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 3,
+   "description": "Israeli strikes across the Gaza Strip killed three Palestinians and wounded nine others on August 9, targeting civilian neighborhoods, displacement camps and areas previously designated as safe, amid ongoing violations of the ceasefire agreement. Gaza's Health Ministry put the cumulative death toll at 73,386.",
+   "sources": [
+    "Radio Pakistan",
+    "Bernama",
+    "Saba"
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Habagat floods and landslides kill three in Batangas, Philippines",
+   "category": "natural-disaster",
+   "location": "Batangas, Philippines",
+   "lives_lost": 3,
+   "description": "Widespread flooding and multiple landslides triggered by the southwest monsoon (habagat) killed three people and left one fisherman missing in Batangas province. One victim, 69-year-old construction worker Teodoro Latumbo, died when a landslide buried his barracks in Barangay Calumala, Santa Teresita, late Saturday night.",
+   "sources": [
+    "ABS-CBN News",
+    "Manila Bulletin"
+   ]
   }
  ],
  "09-11": [

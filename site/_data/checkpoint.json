@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-09",
-  "total": 584
+  "total": 588
  },
  "promises": {
   "last_date": "2026-08-09",
   "total": 387
  },
- "last_updated": "2026-08-09T00:15:00Z",
+ "last_updated": "2026-08-09T14:10:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-a: world-leaders (carney-nato-5pct-2035, ramaphosa-ebola-13.5m, ruto-ewene-2026-2028, de-la-espriella-security-100-days)"
