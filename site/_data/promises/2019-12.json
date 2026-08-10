@@ -64,5 +64,26 @@
   "sources": [
    "Reuters"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Apply Israeli sovereignty over the Jordan Valley immediately if re-elected",
+  "date_promised": "2019-09-10",
+  "due_date": "2019-12-31",
+  "status": "broken",
+  "description": "Days before the September 17, 2019 election, Netanyahu promised to quickly apply Israeli sovereignty over the Jordan Valley in the occupied West Bank if he formed a new government. Israeli sovereignty was never applied over the Jordan Valley, and the pledge was not fulfilled.",
+  "evidence": [
+   "Annexation pledge made September 10, 2019, ahead of the September 17 election",
+   "Israeli sovereignty was never applied over the Jordan Valley"
+  ],
+  "sources": [
+   "Times of Israel",
+   "New Age"
+  ],
+  "source_urls": [
+   "https://www.timesofisrael.com/in-campaign-pitch-netanyahu-vows-to-annex-jordan-valley-if-reelected",
+   "https://newagebd.net/article/84198/article"
+  ]
  }
 ]

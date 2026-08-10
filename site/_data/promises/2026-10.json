@@ -1,0 +1,67 @@
+[
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"As long as I am Prime Minister, a Palestinian state will not be established, neither in Gaza nor in Judea and Samaria\"",
+  "date_promised": "2026-08-09",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "At the start of the government's weekly meeting on August 9, 2026, Netanyahu said there would be no Palestinian state as long as he is in office, rejecting the 15-point Gaza plan put forward by a peace committee. The due date reflects the general election scheduled no later than October 27, 2026, which defines his current term horizon.",
+  "evidence": [
+   "Statement at the weekly government meeting, August 9, 2026",
+   "Israeli general election scheduled no later than October 27, 2026"
+  ],
+  "sources": [
+   "TASS",
+   "Voice of Emirates"
+  ],
+  "source_urls": [
+   "https://tass.com/world/2170697",
+   "https://www.voiceofemirates.com/en/politics/reports-and-investigations/2026/08/09/netanyahu-israel-rejects-the-15-point-document-and-the-army-will-not-withdraw-from-gaza-until-hamas-is-completely-disarmed/"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"With an agreement or without an agreement, as long as I am prime minister, Iran will not have nuclear weapons\"",
+  "date_promised": "2026-08-09",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "Netanyahu vowed on August 9, 2026 that Iran will not have nuclear weapons regardless of whether a US-Iran agreement is reached, repeating his long-standing pledge to block Iran's nuclear ambitions. The due date reflects the general election scheduled no later than October 27, 2026, which defines his current term horizon.",
+  "evidence": [
+   "Statement at the weekly government meeting, August 9, 2026",
+   "Same pledge reaffirmed in June 2026 amid US-Iran deal negotiations"
+  ],
+  "sources": [
+   "AFP",
+   "LBC Group",
+   "TASS"
+  ],
+  "source_urls": [
+   "https://www.bssnews.net/international/413157",
+   "https://www.lbcgroup.tv/news/middleeastnews/951554/netanyahu-vows-iran-will-not-have-nuclear-weapons-with-or-without-deal/en",
+   "https://tass.com/world/2170691"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "The IDF will not withdraw from Gaza until Hamas is completely disarmed",
+  "date_promised": "2026-08-05",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "Netanyahu said Israel's military will not withdraw from its current lines in Gaza until Hamas has completely disarmed, rejecting the US-led ceasefire roadmap's disarmament approach. He reaffirmed the position on August 9, 2026 while rejecting the 15-point Gaza plan. The due date reflects the general election scheduled no later than October 27, 2026.",
+  "evidence": [
+   "Statement that the IDF will not withdraw until Hamas disarms, August 5, 2026",
+   "Reaffirmed at the weekly government meeting on August 9, 2026"
+  ],
+  "sources": [
+   "ABC News (Australia)",
+   "TASS"
+  ],
+  "source_urls": [
+   "https://newsapp.abc.net.au/news/2026-08-05/netanyahu-says-no-idf-withdrawal-from-gaza-until-hamas-disarms/106997846",
+   "https://tass.com/world/2170691"
+  ]
+ }
+]

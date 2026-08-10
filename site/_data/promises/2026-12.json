@@ -476,5 +476,28 @@
    "https://www.investing.com/news/stock-market-news/meta-narrows-annual-capex-forecast-as-ai-buildout-grows-4821581",
    "https://finance.yahoo.com/technology/ai/articles/meta-lifts-2026-capex-floor-203035634.html"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"I will work to establish a broad national government, a stable government that will ensure our security and future\"",
+  "date_promised": "2026-06-27",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Netanyahu said at a June 27, 2026 press conference that after the general election expected in October 2026 he wants to form a broad national government, and repeated the pledge in his Tisha B'Av message. The general election is scheduled no later than October 27, 2026.",
+  "evidence": [
+   "Announcement at press conference on June 27, 2026",
+   "Pledge repeated in July 2026 campaign messaging"
+  ],
+  "sources": [
+   "Xinhua",
+   "The Hindu",
+   "Times of Israel"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2026-06/28/content_118571440.shtml",
+   "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
+   "https://www.timesofisrael.com/netanyahu-promises-to-unite-country-in-campaign-video-ahead-of-tisha-bav-fast/"
+  ]
  }
 ]
