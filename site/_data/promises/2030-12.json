@@ -350,5 +350,72 @@
    "https://www.devex.com/news/gavi-delays-9b-replenishment-event-amid-tough-fundraising-environment-109597",
    "https://www.globalhealthhub.de/en/news/detail/brussels-becomes-the-global-health-capital-gavi-replenishment-conference-2025"
   ]
+ },
+ {
+  "person": "Lisa Su",
+  "role": "CEO of AMD",
+  "promise": "\"Looking beyond Helios, we plan to launch a new rack-scale AI platform every year\"",
+  "date_promised": "2026-08-04",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "On AMD's Q2 2026 earnings call on August 4, 2026, CEO Lisa Su said the company plans to launch a new rack-scale AI platform every year, following the Helios system that is on pace to ship before Q3 2026. Reports characterized the commitment as annual rack-scale AI launches through 2030.",
+  "evidence": [
+   "Lisa Su's statement on AMD's Q2 2026 earnings call, August 4, 2026",
+   "Helios rack-scale system on pace to ship before Q3 2026"
+  ],
+  "sources": [
+   "Shacknews",
+   "NewsBreak"
+  ],
+  "source_urls": [
+   "https://www.shacknews.com/article/150248/amd-rack-scale-ai-platforms-lisa-su",
+   "https://www.newsbreak.com/news/4809521974037-amd-plans-to-launch-new-rack-scale-ai-platforms-every-year-says-lisa-su"
+  ]
+ },
+ {
+  "person": "General Motors (Cadillac)",
+  "role": "Automaker",
+  "promise": "\"We will be leaving this decade as an [electric vehicle] brand... we will not be selling [internal combustion engine] vehicles by 2030\"",
+  "date_promised": "2021-04-21",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "Cadillac announced in April 2021 that it would become an all-electric brand and stop selling internal-combustion vehicles by 2030. In July 2026, General Motors reversed course, confirming plans to introduce three new gasoline-powered Cadillac models (CT5, XT5 and XT6) because EV demand fell short of expectations.",
+  "evidence": [
+   "Cadillac's all-electric-by-2030 pledge announced April 2021",
+   "July 2026 announcement of three new gas-powered Cadillac models reverses the pledge"
+  ],
+  "sources": [
+   "Car Magazine",
+   "The Edge",
+   "Daily Mail"
+  ],
+  "source_urls": [
+   "https://www.carmagazine.co.uk/electric/cadillac/",
+   "https://www.edgen.tech/zh/news/post/gm-adds-3-gas-cadillac-models-in-reversal-of-ev-only-pledge",
+   "https://www.dailymail.com/yourmoney/article-15995713/gm-gas-powered-version-america-suv-ev-boom.html"
+  ]
+ },
+ {
+  "person": "Rolls-Royce Motor Cars",
+  "role": "BMW-owned luxury automaker",
+  "promise": "\"With this new product we set out our credentials for the full electrification of our entire product portfolio by 2030\"",
+  "date_promised": "2021-09-29",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "Rolls-Royce announced in September 2021 that it would produce only electric cars by 2030. In March 2026, CEO Chris Brownridge confirmed the company had abandoned the all-electric-by-2030 commitment, citing relaxed regulatory targets and softer customer demand, and said the company would continue selling cars with V12 engines.",
+  "evidence": [
+   "All-electric-by-2030 pledge announced September 2021",
+   "CEO Chris Brownridge confirmed the target was scrapped in March 2026"
+  ],
+  "sources": [
+   "The National",
+   "The Guardian",
+   "Autocar India"
+  ],
+  "source_urls": [
+   "https://www.thenationalnews.com/Business/UK/2021/09/29/rolls-royce-cars-to-go-fully-electric-by-2030/",
+   "https://www.theguardian.com/business/2026/mar/18/rolls-royce-scraps-all-electric-car-company",
+   "https://www.autocarindia.com/car-news/rolls-royce-scraps-plan-to-go-all-electric-by-2030-439273"
+  ]
  }
 ]

@@ -803,6 +803,30 @@
     "ABS-CBN News",
     "Manila Bulletin"
    ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Houthi strikes on Mokha kill at least seven in Yemen",
+   "category": "war",
+   "location": "Mokha, Taiz, Yemen",
+   "lives_lost": 7,
+   "description": "Houthi ballistic missile and drone attacks on the western port city of Mokha on Sunday killed at least seven people - three civilians and four military personnel, according to medical sources - and wounded about 15 others, some critically. The Houthis launched a fresh round of strikes hours later.",
+   "sources": [
+    "Xinhua",
+    "Anadolu Agency"
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "title": "Two tribal elders shot dead in South Waziristan, Pakistan",
+   "category": "gun-violence",
+   "location": "Toi Khulla, Lower South Waziristan, Pakistan",
+   "lives_lost": 2,
+   "description": "Unidentified armed men shot dead two tribal elders, Haji Gul and Malik Badshah, both members of the Suleman Khel tribe, in the Zarmilan area of Toi Khulla tehsil in Lower South Waziristan on Sunday, police said. The two men sustained multiple bullet wounds and died at the scene.",
+   "sources": [
+    "Dawn",
+    "The Express Tribune"
+   ]
   }
  ],
  "09-11": [

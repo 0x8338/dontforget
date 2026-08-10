@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-09",
-  "total": 588
+  "last_date": "2026-08-10",
+  "total": 590
  },
  "promises": {
-  "last_date": "2026-08-09",
-  "total": 387
+  "last_date": "2026-08-10",
+  "total": 390
  },
- "last_updated": "2026-08-09T14:10:00Z",
+ "last_updated": "2026-08-10T00:05:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a: world-leaders (carney-nato-5pct-2035, ramaphosa-ebola-13.5m, ruto-ewene-2026-2028, de-la-espriella-security-100-days)"
+  "last_focus": "track-b: ceos-corporate (amd-rack-scale-annual, gm-cadillac-ev-reversal, rolls-royce-ev-reversal)"
  }
 }
