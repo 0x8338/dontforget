@@ -7508,5 +7508,72 @@
    "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
    "https://www.timesofisrael.com/netanyahu-promises-to-unite-country-in-campaign-video-ahead-of-tisha-bav-fast/"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Pass the judicial overhaul plan limiting the Supreme Court's powers, including removing the 'reasonableness' clause",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "Netanyahu's coalition announced a sweeping judicial overhaul in January 2023 and pushed it through the Knesset despite mass protests. The reasonableness clause was passed in July 2023, but the broader plan was paused after nationwide demonstrations and parts were never enacted.",
+  "evidence": [
+   "Knesset passed the reasonableness clause bill on July 24, 2023",
+   "Broader overhaul components remained paused or unpassed through 2023"
+  ],
+  "sources": [
+   "ABC News (Australia)",
+   "CNN",
+   "Stanford Center on Democracy, Development and the Rule of Law"
+  ],
+  "source_urls": [
+   "https://www.abc.net.au/news/2023-07-25/israels-judicial-reforms-explained/102642580",
+   "https://www.cnn.com/2023/03/23/middleeast/israel-judicial-reforms-prime-minister-law-intl/",
+   "https://cddrl.fsi.stanford.edu/israel/news/whats-happening-israels-democracy"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Return the residents of the north to their homes safely after the war with Hezbollah",
+  "date_promised": "2024-09-17",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "In September 2024, Netanyahu's security cabinet expanded Israel's war goals to include the safe return of residents evacuated from communities near the Lebanese border. After the November 2024 ceasefire, residents returned in phases, but the return remained incomplete as of 2026.",
+  "evidence": [
+   "Expanded war goals approved by the security cabinet on September 17, 2024",
+   "November 26, 2024 ceasefire statement promised the safe return of northern residents"
+  ],
+  "sources": [
+   "Government of Israel (PMO)",
+   "JNS",
+   "MTV Lebanon"
+  ],
+  "source_urls": [
+   "https://www.gov.il/en/pages/pm-netanyahu-on-the-ceasefire-in-lebanon-26-november-2024",
+   "https://www.jns.org/israel-news/war-on-hezbollah-to-continue-until-safety-is-restored-in-israels-north-netanyahu-says",
+   "https://www.mtv.com.lb/News/Local/1489625/"
+  ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"Israel will not withdraw under any circumstances from the Philadelphi Corridor\"",
+  "date_promised": "2026-07-14",
+  "due_date": "2026-10-27",
+  "status": "kept",
+  "description": "Netanyahu repeatedly pledged that Israel would not withdraw from the Philadelphi Corridor along the Egypt-Gaza border, saying it must remain secure so it can never again serve as a lifeline for Hamas. As of August 2026, Israeli forces retained control of the corridor. The due date reflects the general election scheduled no later than October 27, 2026.",
+  "evidence": [
+   "Repeated statements through 2024-2026 that Israel will not leave the corridor",
+   "Israeli forces retained control of the Philadelphi Corridor as of August 2026"
+  ],
+  "sources": [
+   "Arab News Japan",
+   "Ahram Online"
+  ],
+  "source_urls": [
+   "https://www.arabnews.jp/en/middle-east/article_129769/",
+   "https://english.ahram.org.eg/NewsContentMulti/531175/Multimedia.aspx"
+  ]
  }
 ]

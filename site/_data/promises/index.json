@@ -1,9 +1,9 @@
 {
-  "total": 395,
-  "due_total": 300,
+  "total": 398,
+  "due_total": 302,
   "due_status": {
     "broken": 136,
-    "partial": 52,
+    "partial": 54,
     "kept": 103,
     "kept (delayed)": 9
   },
@@ -143,7 +143,7 @@
     {
       "key": "2026-10",
       "file": "promises/2026-10.json",
-      "count": 3,
+      "count": 4,
       "due": false
     },
     {
@@ -179,7 +179,7 @@
     {
       "key": "2025-12",
       "file": "promises/2025-12.json",
-      "count": 60,
+      "count": 61,
       "due": true
     },
     {
@@ -275,7 +275,7 @@
     {
       "key": "2023-12",
       "file": "promises/2023-12.json",
-      "count": 22,
+      "count": 23,
       "due": true
     },
     {

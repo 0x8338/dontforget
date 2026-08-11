@@ -1145,5 +1145,28 @@
    "https://www.thehindu.com/news/international/trump-signs-executive-order-to-establish-government-bitcoin-reserve/article69301281.ece",
    "https://editorials.voa.gov/a/making-the-u-s-the-bitcoin-superpower/8007190.html"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Return the residents of the north to their homes safely after the war with Hezbollah",
+  "date_promised": "2024-09-17",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "In September 2024, Netanyahu's security cabinet expanded Israel's war goals to include the safe return of residents evacuated from communities near the Lebanese border. After the November 2024 ceasefire, residents returned in phases, but the return remained incomplete as of 2026.",
+  "evidence": [
+   "Expanded war goals approved by the security cabinet on September 17, 2024",
+   "November 26, 2024 ceasefire statement promised the safe return of northern residents"
+  ],
+  "sources": [
+   "Government of Israel (PMO)",
+   "JNS",
+   "MTV Lebanon"
+  ],
+  "source_urls": [
+   "https://www.gov.il/en/pages/pm-netanyahu-on-the-ceasefire-in-lebanon-26-november-2024",
+   "https://www.jns.org/israel-news/war-on-hezbollah-to-continue-until-safety-is-restored-in-israels-north-netanyahu-says",
+   "https://www.mtv.com.lb/News/Local/1489625/"
+  ]
  }
 ]

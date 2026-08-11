@@ -396,5 +396,28 @@
    "https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/",
    "https://tech.yahoo.com/transportation/articles/japanese-billionaire-just-canceled-private-220000132.html"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Pass the judicial overhaul plan limiting the Supreme Court's powers, including removing the 'reasonableness' clause",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "Netanyahu's coalition announced a sweeping judicial overhaul in January 2023 and pushed it through the Knesset despite mass protests. The reasonableness clause was passed in July 2023, but the broader plan was paused after nationwide demonstrations and parts were never enacted.",
+  "evidence": [
+   "Knesset passed the reasonableness clause bill on July 24, 2023",
+   "Broader overhaul components remained paused or unpassed through 2023"
+  ],
+  "sources": [
+   "ABC News (Australia)",
+   "CNN",
+   "Stanford Center on Democracy, Development and the Rule of Law"
+  ],
+  "source_urls": [
+   "https://www.abc.net.au/news/2023-07-25/israels-judicial-reforms-explained/102642580",
+   "https://www.cnn.com/2023/03/23/middleeast/israel-judicial-reforms-prime-minister-law-intl/",
+   "https://cddrl.fsi.stanford.edu/israel/news/whats-happening-israels-democracy"
+  ]
  }
 ]

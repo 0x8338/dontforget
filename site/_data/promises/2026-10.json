@@ -63,5 +63,26 @@
    "https://newsapp.abc.net.au/news/2026-08-05/netanyahu-says-no-idf-withdrawal-from-gaza-until-hamas-disarms/106997846",
    "https://tass.com/world/2170691"
   ]
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"Israel will not withdraw under any circumstances from the Philadelphi Corridor\"",
+  "date_promised": "2026-07-14",
+  "due_date": "2026-10-27",
+  "status": "kept",
+  "description": "Netanyahu repeatedly pledged that Israel would not withdraw from the Philadelphi Corridor along the Egypt-Gaza border, saying it must remain secure so it can never again serve as a lifeline for Hamas. As of August 2026, Israeli forces retained control of the corridor. The due date reflects the general election scheduled no later than October 27, 2026.",
+  "evidence": [
+   "Repeated statements through 2024-2026 that Israel will not leave the corridor",
+   "Israeli forces retained control of the Philadelphi Corridor as of August 2026"
+  ],
+  "sources": [
+   "Arab News Japan",
+   "Ahram Online"
+  ],
+  "source_urls": [
+   "https://www.arabnews.jp/en/middle-east/article_129769/",
+   "https://english.ahram.org.eg/NewsContentMulti/531175/Multimedia.aspx"
+  ]
  }
 ]
