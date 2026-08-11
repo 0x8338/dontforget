@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-11",
-  "total": 598
+  "total": 602
  },
  "promises": {
   "last_date": "2026-08-11",
   "total": 402
  },
- "last_updated": "2026-08-11T01:02:13Z",
+ "last_updated": "2026-08-11T11:10:43Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-c: international-orgs-treaties (bisp-wfp-who-unicef-benazir-nashonuma, imf-sri-lanka-eff, eu-global-fund-8th-replenishment, world-bank-ukraine-budget-support)"

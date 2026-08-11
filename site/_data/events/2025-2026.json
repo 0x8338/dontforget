@@ -222,18 +222,20 @@
  },
  {
   "date": "2026-08-06",
-  "title": "Storm deaths in northern Philippines reach at least 16",
+  "title": "Storm deaths in northern Philippines reach at least 19",
   "category": "natural-disaster",
   "location": "Northern Luzon, Philippines",
-  "lives_lost": 16,
-  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 16 people in the northern Philippines by August 10, according to rescuers and a civil defense tally. Early deaths included two in a rockslide in Rodriguez, Rizal, two in a landslide in La Trinidad, Benguet, and two in La Union; seven later died in Baguio City when a rain-drenched mountainside collapsed on three houses, with other victims killed in landslides, drowning, a falling tree and electrocution. Landslides and flooding forced school closures and opened evacuation centers across the north.",
+  "lives_lost": 19,
+  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 19 people in the northern Philippines by August 11, with 15 others injured and four missing, according to the National Disaster Risk Reduction and Management Council. Landslides killed 15 people across Benguet, Rizal and Batangas, including seven in Baguio City when a rain-drenched mountainside collapsed on three houses; other victims died by drowning, falling trees and electrocution. About 2.27 million people were affected, with school closures and evacuation centers across the north.",
   "sources": [
    "The Peninsula Qatar",
    "Ouest-France",
    "Philippine News Agency",
    "GMA News",
    "Office of Civil Defense",
-   "AFP"
+   "AFP",
+   "Xinhua News Agency",
+   "TASS"
   ]
  },
  {
@@ -246,6 +248,19 @@
   "sources": [
    "Xinhua News Agency",
    "PTI"
+  ]
+ },
+ {
+  "date": "2026-08-06",
+  "title": "ATF agents kill two men during Nashville firearms operation",
+  "category": "gun-violence",
+  "location": "South Nashville, Tennessee, USA",
+  "lives_lost": 2,
+  "description": "Federal ATF agents fatally shot two men during a federal firearms enforcement action at the Thompson Lane Self Storage facility in South Nashville on August 6. The Tennessee Bureau of Investigation identified the dead as 32-year-old James Salinas and 16-year-old Denzel Molina; agents opened fire after one man pointed a gun at them, and a second man was shot when he pointed a gun at agents.",
+  "sources": [
+   "WSMV",
+   "The Tennessean",
+   "Fox 17 Nashville"
   ]
  },
  {
@@ -663,11 +678,11 @@
  },
  {
   "date": "2026-08-10",
-  "title": "Magnitude 7.4 earthquake in western Colombia kills at least 111",
+  "title": "Magnitude 7.4 earthquake in western Colombia kills at least 132",
   "category": "natural-disaster",
   "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
-  "lives_lost": 111,
-  "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 111 people and injuring 87, with hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding.",
+  "lives_lost": 132,
+  "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 132 people and injuring more than 570, with hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding. The death toll continued to rise as search and rescue went on.",
   "sources": [
    "AP News",
    "Reuters",
@@ -686,6 +701,19 @@
    "Sputnik",
    "Moskovsky Komsomolets",
    "Vesti.ru"
+  ]
+ },
+ {
+  "date": "2026-08-10",
+  "title": "Two custodians killed in shooting at Chicago elementary school",
+  "category": "gun-violence",
+  "location": "Garfield Ridge, Chicago, Illinois, USA",
+  "lives_lost": 2,
+  "description": "Two school custodians, a 63-year-old man and a 48-year-old woman, were found shot to death inside Mark Twain Elementary School in Chicago's Garfield Ridge neighborhood on Monday afternoon, August 10. Each had a single gunshot wound to the head; police were investigating at least one of the deaths as a homicide, and the circumstances were not immediately clear.",
+  "sources": [
+   "WLS-TV",
+   "Fox 32 Chicago",
+   "Gray News"
   ]
  },
  {
@@ -1060,15 +1088,41 @@
  },
  {
   "date": "2026-08-11",
-  "title": "Russian combined drone and missile strike on Zaporizhzhia kills five",
+  "title": "Russian combined strike on Zaporizhzhia kills six",
   "category": "war",
   "location": "Zaporizhzhia, Ukraine",
-  "lives_lost": 5,
-  "description": "A combined Russian drone and missile attack on Zaporizhzhia overnight killed five people and wounded at least 20, sparking fires and power outages, according to regional military administration head Ivan Fedorov. The strikes hit industrial facilities and infrastructure, and damaged a garage cooperative and residential buildings; Kyiv was separately targeted by ballistic missiles.",
+  "lives_lost": 6,
+  "description": "A combined Russian attack with ballistic missiles and guided aerial bombs on Zaporizhzhia on the night of August 10-11 killed six people — five men and one woman — and wounded at least 19, sparking fires and power outages, according to regional military administration head Ivan Fedorov. The strikes hit industrial facilities and infrastructure, and damaged residential buildings; Kyiv was separately targeted by ballistic missiles.",
   "sources": [
    "Kyiv Post",
    "RTE",
-   "UNN"
+   "UNN",
+   "Ukrainska Pravda",
+   "APA"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Russian strikes on Dnipropetrovsk region kill five",
+  "category": "war",
+  "location": "Dnipropetrovsk region, Ukraine",
+  "lives_lost": 5,
+  "description": "Russian forces carried out massive strikes on the Dnipropetrovsk region on the evening of August 10 and during the night of August 11, killing five people — including three minors — and injuring seven others, according to Ukraine's Prosecutor General's Office. The attacks damaged logistics facilities; Ukraine's State Emergency Service earlier reported three dead and five injured.",
+  "sources": [
+   "APA",
+   "Xinhua News Agency"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Ukrainian drone attack on Voronezh region kills one",
+  "category": "war",
+  "location": "Voronezh region, Russia",
+  "lives_lost": 1,
+  "description": "A Ukrainian drone attack on the Voronezh region killed a 49-year-old man who was struck by falling UAV debris in the Novousmansky district and died in hospital, and wounded two other people, according to Governor Alexander Gusev. The attack was part of an overnight wave in which Russian air defenses reported intercepting 396 Ukrainian drones, and it sparked fires at two warehouse facilities near Voronezh.",
+  "sources": [
+   "TASS",
+   "Anadolu Agency"
   ]
  },
  {
