@@ -19,5 +19,28 @@
    null,
    "https://www.thenews.com.pk/amp/1391597-elon-musk-unveils-spacexs-moon-first-strategy-with-self-growing-lunar-city"
   ]
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Sri Lanka Extended Fund Facility arrangement",
+  "promise": "Provide Sri Lanka about US$3 billion under a 48-month Extended Fund Facility arrangement approved in March 2023",
+  "date_promised": "2023-03-20",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "The IMF Executive Board approved a 48-month Extended Fund Facility arrangement for Sri Lanka of about US$3 billion (SDR 2.286 billion) on March 20, 2023. On May 27, 2026, the Board completed the combined fifth and sixth reviews, enabling an immediate disbursement of SDR 508 million (about US$695 million) and bringing total disbursements to about US$2.4 billion; the remaining reviews continue through the arrangement's term.",
+  "evidence": [
+   "EFF arrangement approved March 20, 2023",
+   "Combined fifth and sixth reviews completed May 27, 2026, releasing about US$695 million"
+  ],
+  "sources": [
+   "Daily Mirror",
+   "Daily FT",
+   "The Morning"
+  ],
+  "source_urls": [
+   "https://www.dailymirror.lk/print/breaking-news/IMF-approves-US-695-Million-disbursement-to-Sri-Lanka-after-completing-fifth-and-sixth-reviews/108-341423",
+   "https://www.ft.lk/top-story/IMF-unlocks---700-m--says-fiscal-response--to-shocks-appropriate/26-792623",
+   "https://www.themorning.lk/articles/SQBX2FwHP804WhnZh6W9"
+  ]
  }
 ]

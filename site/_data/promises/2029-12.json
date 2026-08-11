@@ -95,5 +95,28 @@
    "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2136365",
    "https://newsonair.gov.in/india-to-become-worlds-third-largest-economy-by-2028-overtaking-germany-says-morgan-stanley/"
   ]
+ },
+ {
+  "person": "European Commission",
+  "role": "EU executive",
+  "promise": "Pledge €700 million to the Global Fund's eighth replenishment (2026-2029) to fight HIV, tuberculosis and malaria",
+  "date_promised": "2026-04-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "At the One Health Summit on April 7, 2026, the European Commission announced its intention to pledge €700 million overall for the Global Fund's eighth replenishment, with €185 million immediately available under the current long-term budget. Country-level grants under the replenishment are to be implemented from 2027 to 2029, and the pledge remains subject to the outcome of the Multiannual Financial Framework negotiations.",
+  "evidence": [
+   "Commission announced the €700 million pledge intention on April 7, 2026",
+   "Grants under the eighth replenishment to be implemented 2027-2029"
+  ],
+  "sources": [
+   "Euronews",
+   "The Brussels Times",
+   "EpiNews"
+  ],
+  "source_urls": [
+   "https://www.euronews.com/health/2026/04/08/eu-pledges-700m-to-the-global-fund-as-cuts-worldwide-threaten-international-health-aid",
+   "https://www.brusselstimes.com/eu-affairs/2067934/eu-pledges-e700m-to-combat-global-diseases-amid-rising-antibiotic-resistance",
+   "https://epinews.emphnet.net/en/news/topics-in-focus/eu-to-pledge-700-million-to-global-fund-less-than-previous-years"
+  ]
  }
 ]

@@ -15,5 +15,28 @@
    "FIFA.com press release, 2017-01-10",
    "Reuters, 2017-01-10"
   ]
+ },
+ {
+  "person": "World Bank",
+  "role": "International financial institution",
+  "promise": "Provide Ukraine $3.39 billion in budget support under the First Jobs and Private Sector Growth Development Policy Operation",
+  "date_promised": "2026-06-24",
+  "due_date": "2026-06-30",
+  "status": "kept",
+  "description": "On June 24, 2026, on the sidelines of the Ukraine Recovery Conference in Gdańsk, Ukraine and the World Bank signed agreements worth $3.39 billion — including a $1.04 billion development policy loan, partly guaranteed by the UK and Japan, and about $2.35 billion in grants — to support the state budget and advance reforms. Ukraine received $3.35 billion into its state budget under the operation, with the receipt announced on July 9, 2026.",
+  "evidence": [
+   "Agreements signed June 24, 2026 in Gdańsk",
+   "Ukraine confirmed receipt of $3.35 billion into the state budget, announced July 9, 2026"
+  ],
+  "sources": [
+   "Ukraine Ministry of Finance",
+   "Ukrinform",
+   "Interfax-Ukraine"
+  ],
+  "source_urls": [
+   "https://mof.gov.ua/en/news/ukraine_and_the_world_bank_signed_agreements_worth_usd_339_billion_in_gdask_to_support_the_budget_and_advance_reforms-5788",
+   "https://www.ukrinform.net/rubric-economy/4143028-ukraine-receives-usd-335b-from-world-bank.html",
+   "https://en.interfax.com.ua/news/economic/1184189.html"
+  ]
  }
 ]

@@ -7575,5 +7575,97 @@
    "https://www.arabnews.jp/en/middle-east/article_129769/",
    "https://english.ahram.org.eg/NewsContentMulti/531175/Multimedia.aspx"
   ]
+ },
+ {
+  "person": "BISP, WFP, WHO and UNICEF",
+  "role": "Benazir Nashonuma Programme partners",
+  "promise": "Extend the Benazir Nashonuma Programme for three years to protect an additional 3.3 million children and women from malnutrition across Pakistan",
+  "date_promised": "2026-07-09",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "On July 9, 2026, Pakistan's Benazir Income Support Programme (BISP), the World Food Programme, WHO and UNICEF announced a three-year extension of the Benazir Nashonuma Programme (BNP 3.0) to protect an additional 3.3 million pregnant and breastfeeding women and children under two from malnutrition, expanding the programme's reach to about 8 million women and children.",
+  "evidence": [
+   "Joint announcement on July 9, 2026 of the three-year extension",
+   "Extension targets an additional 3.3 million children and women"
+  ],
+  "sources": [
+   "United Nations Pakistan",
+   "World Health Organization",
+   "APP"
+  ],
+  "source_urls": [
+   "https://pakistan.un.org/en/319205-media-update-2-united-nations-pakistan-9-july-2026",
+   "https://www.emro.who.int/pak/pakistan-news/bisp-wfp-who-unicef-extend-partnership-to-protect-3-3-million-children-and-women-from-malnutrition-in-pakistan.html",
+   "https://www.app.com.pk/national/bisp-un-agencies-extend-partnership-to-protect-3-3-million-women-children-from-malnutrition/"
+  ]
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Sri Lanka Extended Fund Facility arrangement",
+  "promise": "Provide Sri Lanka about US$3 billion under a 48-month Extended Fund Facility arrangement approved in March 2023",
+  "date_promised": "2023-03-20",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "The IMF Executive Board approved a 48-month Extended Fund Facility arrangement for Sri Lanka of about US$3 billion (SDR 2.286 billion) on March 20, 2023. On May 27, 2026, the Board completed the combined fifth and sixth reviews, enabling an immediate disbursement of SDR 508 million (about US$695 million) and bringing total disbursements to about US$2.4 billion; the remaining reviews continue through the arrangement's term.",
+  "evidence": [
+   "EFF arrangement approved March 20, 2023",
+   "Combined fifth and sixth reviews completed May 27, 2026, releasing about US$695 million"
+  ],
+  "sources": [
+   "Daily Mirror",
+   "Daily FT",
+   "The Morning"
+  ],
+  "source_urls": [
+   "https://www.dailymirror.lk/print/breaking-news/IMF-approves-US-695-Million-disbursement-to-Sri-Lanka-after-completing-fifth-and-sixth-reviews/108-341423",
+   "https://www.ft.lk/top-story/IMF-unlocks---700-m--says-fiscal-response--to-shocks-appropriate/26-792623",
+   "https://www.themorning.lk/articles/SQBX2FwHP804WhnZh6W9"
+  ]
+ },
+ {
+  "person": "European Commission",
+  "role": "EU executive",
+  "promise": "Pledge €700 million to the Global Fund's eighth replenishment (2026-2029) to fight HIV, tuberculosis and malaria",
+  "date_promised": "2026-04-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "At the One Health Summit on April 7, 2026, the European Commission announced its intention to pledge €700 million overall for the Global Fund's eighth replenishment, with €185 million immediately available under the current long-term budget. Country-level grants under the replenishment are to be implemented from 2027 to 2029, and the pledge remains subject to the outcome of the Multiannual Financial Framework negotiations.",
+  "evidence": [
+   "Commission announced the €700 million pledge intention on April 7, 2026",
+   "Grants under the eighth replenishment to be implemented 2027-2029"
+  ],
+  "sources": [
+   "Euronews",
+   "The Brussels Times",
+   "EpiNews"
+  ],
+  "source_urls": [
+   "https://www.euronews.com/health/2026/04/08/eu-pledges-700m-to-the-global-fund-as-cuts-worldwide-threaten-international-health-aid",
+   "https://www.brusselstimes.com/eu-affairs/2067934/eu-pledges-e700m-to-combat-global-diseases-amid-rising-antibiotic-resistance",
+   "https://epinews.emphnet.net/en/news/topics-in-focus/eu-to-pledge-700-million-to-global-fund-less-than-previous-years"
+  ]
+ },
+ {
+  "person": "World Bank",
+  "role": "International financial institution",
+  "promise": "Provide Ukraine $3.39 billion in budget support under the First Jobs and Private Sector Growth Development Policy Operation",
+  "date_promised": "2026-06-24",
+  "due_date": "2026-06-30",
+  "status": "kept",
+  "description": "On June 24, 2026, on the sidelines of the Ukraine Recovery Conference in Gdańsk, Ukraine and the World Bank signed agreements worth $3.39 billion — including a $1.04 billion development policy loan, partly guaranteed by the UK and Japan, and about $2.35 billion in grants — to support the state budget and advance reforms. Ukraine received $3.35 billion into its state budget under the operation, with the receipt announced on July 9, 2026.",
+  "evidence": [
+   "Agreements signed June 24, 2026 in Gdańsk",
+   "Ukraine confirmed receipt of $3.35 billion into the state budget, announced July 9, 2026"
+  ],
+  "sources": [
+   "Ukraine Ministry of Finance",
+   "Ukrinform",
+   "Interfax-Ukraine"
+  ],
+  "source_urls": [
+   "https://mof.gov.ua/en/news/ukraine_and_the_world_bank_signed_agreements_worth_usd_339_billion_in_gdask_to_support_the_budget_and_advance_reforms-5788",
+   "https://www.ukrinform.net/rubric-economy/4143028-ukraine-receives-usd-335b-from-world-bank.html",
+   "https://en.interfax.com.ua/news/economic/1184189.html"
+  ]
  }
 ]

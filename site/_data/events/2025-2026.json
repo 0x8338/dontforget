@@ -222,17 +222,18 @@
  },
  {
   "date": "2026-08-06",
-  "title": "Storm deaths in northern Philippines reach six",
+  "title": "Storm deaths in northern Philippines reach at least 16",
   "category": "natural-disaster",
   "location": "Northern Luzon, Philippines",
-  "lives_lost": 6,
-  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least six people in the northern Philippines: two in a rockslide in Rodriguez, Rizal, two in a landslide in La Trinidad, Benguet, and two in La Union. Landslides and flooding forced school closures and opened evacuation centers across the north.",
+  "lives_lost": 16,
+  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 16 people in the northern Philippines by August 10, according to rescuers and a civil defense tally. Early deaths included two in a rockslide in Rodriguez, Rizal, two in a landslide in La Trinidad, Benguet, and two in La Union; seven later died in Baguio City when a rain-drenched mountainside collapsed on three houses, with other victims killed in landslides, drowning, a falling tree and electrocution. Landslides and flooding forced school closures and opened evacuation centers across the north.",
   "sources": [
    "The Peninsula Qatar",
    "Ouest-France",
    "Philippine News Agency",
    "GMA News",
-   "Office of Civil Defense"
+   "Office of Civil Defense",
+   "AFP"
   ]
  },
  {
@@ -333,6 +334,19 @@
    "Bernama",
    "Anadolu Agency",
    "Reuters"
+  ]
+ },
+ {
+  "date": "2026-08-09",
+  "title": "Landslide on rain-soaked hillside in Baguio kills seven",
+  "category": "natural-disaster",
+  "location": "Baguio City, Benguet, Philippines",
+  "lives_lost": 7,
+  "description": "A rain-drenched mountainside collapsed onto three houses in Baguio City late Sunday night, August 9, killing seven people, including at least four minors, as part of a nine-day downpour that left at least 16 dead across the northern Philippines. Rescue work was done manually because of continuing heavy rain and fear of further landslides.",
+  "sources": [
+   "AFP",
+   "Malaya Business Insight",
+   "VnExpress"
   ]
  },
  {
@@ -645,6 +659,33 @@
    "WAFA",
    "Anadolu Agency",
    "Saba"
+  ]
+ },
+ {
+  "date": "2026-08-10",
+  "title": "Magnitude 7.4 earthquake in western Colombia kills at least 111",
+  "category": "natural-disaster",
+  "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
+  "lives_lost": 111,
+  "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 111 people and injuring 87, with hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding.",
+  "sources": [
+   "AP News",
+   "Reuters",
+   "Xinhua News Agency",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2026-08-10",
+  "title": "Ukrainian drone hits Donetsk gas station, killing truck driver",
+  "category": "war",
+  "location": "Donetsk, Ukraine",
+  "lives_lost": 1,
+  "description": "A Ukrainian drone attack on a gas station complex in the Proletarsky district of Donetsk killed a 45-year-old truck driver and wounded a station employee, according to Denis Pushilin, head of the Donetsk People's Republic.",
+  "sources": [
+   "Sputnik",
+   "Moskovsky Komsomolets",
+   "Vesti.ru"
   ]
  },
  {
@@ -1015,6 +1056,19 @@
   "sources": [
    "ECNS",
    "CNR"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Russian combined drone and missile strike on Zaporizhzhia kills five",
+  "category": "war",
+  "location": "Zaporizhzhia, Ukraine",
+  "lives_lost": 5,
+  "description": "A combined Russian drone and missile attack on Zaporizhzhia overnight killed five people and wounded at least 20, sparking fires and power outages, according to regional military administration head Ivan Fedorov. The strikes hit industrial facilities and infrastructure, and damaged a garage cooperative and residential buildings; Kyiv was separately targeted by ballistic missiles.",
+  "sources": [
+   "Kyiv Post",
+   "RTE",
+   "UNN"
   ]
  },
  {

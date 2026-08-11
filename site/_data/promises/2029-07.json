@@ -44,5 +44,28 @@
    "https://www.bloomberg.com/news/articles/2026-07-29/bolivia-imf-agree-on-new-1-9-billion-financing-program",
    "https://www.intellinews.com/imf-strikes-1-9bn-loan-deal-with-bolivia-457838/"
   ]
+ },
+ {
+  "person": "BISP, WFP, WHO and UNICEF",
+  "role": "Benazir Nashonuma Programme partners",
+  "promise": "Extend the Benazir Nashonuma Programme for three years to protect an additional 3.3 million children and women from malnutrition across Pakistan",
+  "date_promised": "2026-07-09",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "On July 9, 2026, Pakistan's Benazir Income Support Programme (BISP), the World Food Programme, WHO and UNICEF announced a three-year extension of the Benazir Nashonuma Programme (BNP 3.0) to protect an additional 3.3 million pregnant and breastfeeding women and children under two from malnutrition, expanding the programme's reach to about 8 million women and children.",
+  "evidence": [
+   "Joint announcement on July 9, 2026 of the three-year extension",
+   "Extension targets an additional 3.3 million children and women"
+  ],
+  "sources": [
+   "United Nations Pakistan",
+   "World Health Organization",
+   "APP"
+  ],
+  "source_urls": [
+   "https://pakistan.un.org/en/319205-media-update-2-united-nations-pakistan-9-july-2026",
+   "https://www.emro.who.int/pak/pakistan-news/bisp-wfp-who-unicef-extend-partnership-to-protect-3-3-million-children-and-women-from-malnutrition-in-pakistan.html",
+   "https://www.app.com.pk/national/bisp-un-agencies-extend-partnership-to-protect-3-3-million-women-children-from-malnutrition/"
+  ]
  }
 ]

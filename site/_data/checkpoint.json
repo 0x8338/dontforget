@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-10",
-  "total": 594
+  "last_date": "2026-08-11",
+  "total": 598
  },
  "promises": {
-  "last_date": "2026-08-10",
-  "total": 398
+  "last_date": "2026-08-11",
+  "total": 402
  },
- "last_updated": "2026-08-10T11:35:00Z",
+ "last_updated": "2026-08-11T01:02:13Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos-corporate (amd-rack-scale-annual, gm-cadillac-ev-reversal, rolls-royce-ev-reversal)"
+  "last_focus": "track-c: international-orgs-treaties (bisp-wfp-who-unicef-benazir-nashonuma, imf-sri-lanka-eff, eu-global-fund-8th-replenishment, world-bank-ukraine-budget-support)"
  }
 }
