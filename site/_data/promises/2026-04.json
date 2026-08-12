@@ -1,0 +1,25 @@
+[
+ {
+  "person": "John Mahama",
+  "role": "President of Ghana",
+  "promise": "Complete Ghana's IMF programme and exit the bailout by April 2026",
+  "date_promised": "2026-02-05",
+  "due_date": "2026-04-30",
+  "status": "kept (delayed)",
+  "description": "In February 2026, President John Mahama said Ghana was on track to complete its IMF programme by April 2026, citing improvements in key economic indicators. Ghana officially concluded its Extended Credit Facility programme in May 2026, ahead of the original schedule, and transitioned to a non-financing Policy Coordination Instrument.",
+  "evidence": [
+   "Mahama said in February 2026 that Ghana would exit the IMF programme by April 2026",
+   "Ghana officially concluded the ECF programme in May 2026 and moved to a PCI"
+  ],
+  "sources": [
+   "Citi Newsroom",
+   "GhanaWeb",
+   "Graphic Online"
+  ],
+  "source_urls": [
+   "https://www.citinewsroom.com/2026/02/mahama-ghana-on-track-to-exit-imf-by-april-2026/",
+   "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/FULL-TEXT-IMF-backs-Ghana-s-recovery-with-new-36-month-reform-programme-2034737",
+   "https://graphiconline.com/news/general-news/ghana-news-nation-ends-imf-programme-opts-for-new-36-month-technical-assistance-to-deepen-progress.html"
+  ]
+ }
+]

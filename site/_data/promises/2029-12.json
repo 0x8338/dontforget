@@ -118,5 +118,51 @@
    "https://www.brusselstimes.com/eu-affairs/2067934/eu-pledges-e700m-to-combat-global-diseases-amid-rising-antibiotic-resistance",
    "https://epinews.emphnet.net/en/news/topics-in-focus/eu-to-pledge-700-million-to-global-fund-less-than-previous-years"
   ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President of Indonesia",
+  "promise": "Grow Indonesia's economy to 8 percent by 2029",
+  "date_promised": "2026-05-19",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Presenting the 2027 state budget on May 19, 2026, President Prabowo Subianto said he was confident Indonesia's economy could grow within a range of 5.8 to 6.5 percent in 2027, heading toward 8 percent economic growth by 2029.",
+  "evidence": [
+   "Prabowo projected 5.8-6.5% growth for 2027 and 8% by 2029 in the May 2026 budget address",
+   "Target is an explicit end-of-term economic growth goal"
+  ],
+  "sources": [
+   "Antara News",
+   "Tempo",
+   "RRI"
+  ],
+  "source_urls": [
+   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
+   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
+   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
+  ]
+ },
+ {
+  "person": "Shigeru Ishiba",
+  "role": "Prime Minister of Japan",
+  "promise": "Raise Japan's national average hourly minimum wage to 1,500 yen by the end of the 2020s",
+  "date_promised": "2024-10-04",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "In October 2024, Prime Minister Shigeru Ishiba pledged to make efforts to boost the national average minimum wage to 1,500 yen an hour this decade, from about 1,055 yen at the time. In July 2026 the government signaled flexibility on the target while keeping the end of the decade as the deadline for a national average of 1,500 yen.",
+  "evidence": [
+   "Ishiba pledged to raise the average minimum wage to 1,500 yen in the 2020s",
+   "July 2026 government policy documents still set the end of the decade as the target date"
+  ],
+  "sources": [
+   "Reuters",
+   "Kyodo News",
+   "The Japan Times"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/world/asia-pacific/japan-pm-ishiba-instructs-cabinet-compile-fresh-stimulus-package-2024-10-04/",
+   "https://english.kyodonews.net/news/2024/10/fc621e8b4a08-focus-pm-ishibas-drastic-wage-hike-push-may-hurt-small-firms-in-japan.html",
+   "https://www.japantimes.co.jp/business/2026/07/02/economy/minimum-wage-focus-july-2026/"
+  ]
  }
 ]

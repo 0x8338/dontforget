@@ -499,5 +499,28 @@
    "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
    "https://www.timesofisrael.com/netanyahu-promises-to-unite-country-in-campaign-video-ahead-of-tisha-bav-fast/"
   ]
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister of Poland",
+  "promise": "Spend 5 percent of GDP on defence in 2026",
+  "date_promised": "2025-07-30",
+  "due_date": "2026-12-31",
+  "status": "partial",
+  "description": "Poland's government announced plans to spend 5 percent of GDP on defence in 2026, one of the highest ratios in NATO. The 2026 budget adopted in August 2025 allocated about 200 billion zloty ($54.75 billion) for defence, equal to about 4.8 percent of GDP, and ministers later signaled that going above 5 percent would require further discussion.",
+  "evidence": [
+   "Government announced a 5% of GDP defence spending plan for 2026",
+   "Enacted 2026 budget allocates about 4.8% of GDP (200 billion zloty) to defence"
+  ],
+  "sources": [
+   "TVP World",
+   "PAP",
+   "Orda"
+  ],
+  "source_urls": [
+   "https://tvpworld.com/88595433/polands-2026-budget-allocates-record-469-billion-to-defense",
+   "https://biznes.pap.pl/wiadomosci/gospodarka/polands-defence-spending-must-have-its-limits-says-dev-funds-minister",
+   "https://en.orda.kz/poland-to-spend-record-55-billion-on-defense-in-2026-8072/"
+  ]
  }
 ]

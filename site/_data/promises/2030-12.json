@@ -417,5 +417,28 @@
    "https://www.theguardian.com/business/2026/mar/18/rolls-royce-scraps-all-electric-car-company",
    "https://www.autocarindia.com/car-news/rolls-royce-scraps-plan-to-go-all-electric-by-2030-439273"
   ]
+ },
+ {
+  "person": "Bola Tinubu",
+  "role": "President of Nigeria",
+  "promise": "Turn Nigeria into a $1 trillion economy by 2030",
+  "date_promised": "2026-02-25",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "President Bola Tinubu's administration has set a target of growing Nigeria's economy to $1 trillion by 2030. Government officials said reaching the goal would require sustained annual growth of 10 to 12 percent over the next decade, and the target has been tied to the country's 2026 National Development Plan.",
+  "evidence": [
+   "Finance minister reiterated the $1 trillion economy agenda in February 2026",
+   "Administration ties the 2030 goal to the 2026 National Development Plan"
+  ],
+  "sources": [
+   "News Agency of Nigeria",
+   "The Sun",
+   "Newswatch"
+  ],
+  "source_urls": [
+   "https://nannews.ng/tinubus-1trn-economy-agenda-on-track-minister/",
+   "https://thesun.ng/tinubu-committed-to-inclusive-innovative-development-says-bagudu/",
+   "https://www.newswatch.com.ng/1-trillion-dream-in-sight-bola-ahmed-tinubu-woos-global-investors-with-bold-economic-reforms-in-paris/"
+  ]
  }
 ]

@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Friedrich Merz",
+  "role": "Chancellor of Germany",
+  "promise": "Bring about the return of about 80 percent of Syrians living in Germany within three years",
+  "date_promised": "2026-03-30",
+  "due_date": "2029-03-31",
+  "status": "pending",
+  "description": "In late March 2026, Chancellor Friedrich Merz said he and Syrian President Ahmed al-Sharaa hoped that around 80 percent of the more than 900,000 Syrians residing in Germany would return home over the next three years, a statement that drew criticism from within his own coalition.",
+  "evidence": [
+   "Merz said about 80% of Syrians in Germany are expected to return within three years",
+   "Target based on hopes expressed jointly with Syria's President al-Sharaa"
+  ],
+  "sources": [
+   "BBC News",
+   "Anadolu Agency",
+   "bdnews24"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/articles/cy41vqx4pdzo",
+   "https://www.aa.com.tr/en/europe/chancellor-merz-under-fire-for-wanting-80-of-syrians-to-leave-germany/3886199",
+   "https://bdnews24.com/world/3d4a2e10b2d2"
+  ]
+ }
+]

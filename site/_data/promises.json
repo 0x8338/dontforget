@@ -7667,5 +7667,143 @@
    "https://www.ukrinform.net/rubric-economy/4143028-ukraine-receives-usd-335b-from-world-bank.html",
    "https://en.interfax.com.ua/news/economic/1184189.html"
   ]
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President of Indonesia",
+  "promise": "Grow Indonesia's economy to 8 percent by 2029",
+  "date_promised": "2026-05-19",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Presenting the 2027 state budget on May 19, 2026, President Prabowo Subianto said he was confident Indonesia's economy could grow within a range of 5.8 to 6.5 percent in 2027, heading toward 8 percent economic growth by 2029.",
+  "evidence": [
+   "Prabowo projected 5.8-6.5% growth for 2027 and 8% by 2029 in the May 2026 budget address",
+   "Target is an explicit end-of-term economic growth goal"
+  ],
+  "sources": [
+   "Antara News",
+   "Tempo",
+   "RRI"
+  ],
+  "source_urls": [
+   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
+   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
+   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
+  ]
+ },
+ {
+  "person": "Shigeru Ishiba",
+  "role": "Prime Minister of Japan",
+  "promise": "Raise Japan's national average hourly minimum wage to 1,500 yen by the end of the 2020s",
+  "date_promised": "2024-10-04",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "In October 2024, Prime Minister Shigeru Ishiba pledged to make efforts to boost the national average minimum wage to 1,500 yen an hour this decade, from about 1,055 yen at the time. In July 2026 the government signaled flexibility on the target while keeping the end of the decade as the deadline for a national average of 1,500 yen.",
+  "evidence": [
+   "Ishiba pledged to raise the average minimum wage to 1,500 yen in the 2020s",
+   "July 2026 government policy documents still set the end of the decade as the target date"
+  ],
+  "sources": [
+   "Reuters",
+   "Kyodo News",
+   "The Japan Times"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/world/asia-pacific/japan-pm-ishiba-instructs-cabinet-compile-fresh-stimulus-package-2024-10-04/",
+   "https://english.kyodonews.net/news/2024/10/fc621e8b4a08-focus-pm-ishibas-drastic-wage-hike-push-may-hurt-small-firms-in-japan.html",
+   "https://www.japantimes.co.jp/business/2026/07/02/economy/minimum-wage-focus-july-2026/"
+  ]
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister of Poland",
+  "promise": "Spend 5 percent of GDP on defence in 2026",
+  "date_promised": "2025-07-30",
+  "due_date": "2026-12-31",
+  "status": "partial",
+  "description": "Poland's government announced plans to spend 5 percent of GDP on defence in 2026, one of the highest ratios in NATO. The 2026 budget adopted in August 2025 allocated about 200 billion zloty ($54.75 billion) for defence, equal to about 4.8 percent of GDP, and ministers later signaled that going above 5 percent would require further discussion.",
+  "evidence": [
+   "Government announced a 5% of GDP defence spending plan for 2026",
+   "Enacted 2026 budget allocates about 4.8% of GDP (200 billion zloty) to defence"
+  ],
+  "sources": [
+   "TVP World",
+   "PAP",
+   "Orda"
+  ],
+  "source_urls": [
+   "https://tvpworld.com/88595433/polands-2026-budget-allocates-record-469-billion-to-defense",
+   "https://biznes.pap.pl/wiadomosci/gospodarka/polands-defence-spending-must-have-its-limits-says-dev-funds-minister",
+   "https://en.orda.kz/poland-to-spend-record-55-billion-on-defense-in-2026-8072/"
+  ]
+ },
+ {
+  "person": "John Mahama",
+  "role": "President of Ghana",
+  "promise": "Complete Ghana's IMF programme and exit the bailout by April 2026",
+  "date_promised": "2026-02-05",
+  "due_date": "2026-04-30",
+  "status": "kept (delayed)",
+  "description": "In February 2026, President John Mahama said Ghana was on track to complete its IMF programme by April 2026, citing improvements in key economic indicators. Ghana officially concluded its Extended Credit Facility programme in May 2026, ahead of the original schedule, and transitioned to a non-financing Policy Coordination Instrument.",
+  "evidence": [
+   "Mahama said in February 2026 that Ghana would exit the IMF programme by April 2026",
+   "Ghana officially concluded the ECF programme in May 2026 and moved to a PCI"
+  ],
+  "sources": [
+   "Citi Newsroom",
+   "GhanaWeb",
+   "Graphic Online"
+  ],
+  "source_urls": [
+   "https://www.citinewsroom.com/2026/02/mahama-ghana-on-track-to-exit-imf-by-april-2026/",
+   "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/FULL-TEXT-IMF-backs-Ghana-s-recovery-with-new-36-month-reform-programme-2034737",
+   "https://graphiconline.com/news/general-news/ghana-news-nation-ends-imf-programme-opts-for-new-36-month-technical-assistance-to-deepen-progress.html"
+  ]
+ },
+ {
+  "person": "Bola Tinubu",
+  "role": "President of Nigeria",
+  "promise": "Turn Nigeria into a $1 trillion economy by 2030",
+  "date_promised": "2026-02-25",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "President Bola Tinubu's administration has set a target of growing Nigeria's economy to $1 trillion by 2030. Government officials said reaching the goal would require sustained annual growth of 10 to 12 percent over the next decade, and the target has been tied to the country's 2026 National Development Plan.",
+  "evidence": [
+   "Finance minister reiterated the $1 trillion economy agenda in February 2026",
+   "Administration ties the 2030 goal to the 2026 National Development Plan"
+  ],
+  "sources": [
+   "News Agency of Nigeria",
+   "The Sun",
+   "Newswatch"
+  ],
+  "source_urls": [
+   "https://nannews.ng/tinubus-1trn-economy-agenda-on-track-minister/",
+   "https://thesun.ng/tinubu-committed-to-inclusive-innovative-development-says-bagudu/",
+   "https://www.newswatch.com.ng/1-trillion-dream-in-sight-bola-ahmed-tinubu-woos-global-investors-with-bold-economic-reforms-in-paris/"
+  ]
+ },
+ {
+  "person": "Friedrich Merz",
+  "role": "Chancellor of Germany",
+  "promise": "Bring about the return of about 80 percent of Syrians living in Germany within three years",
+  "date_promised": "2026-03-30",
+  "due_date": "2029-03-31",
+  "status": "pending",
+  "description": "In late March 2026, Chancellor Friedrich Merz said he and Syrian President Ahmed al-Sharaa hoped that around 80 percent of the more than 900,000 Syrians residing in Germany would return home over the next three years, a statement that drew criticism from within his own coalition.",
+  "evidence": [
+   "Merz said about 80% of Syrians in Germany are expected to return within three years",
+   "Target based on hopes expressed jointly with Syria's President al-Sharaa"
+  ],
+  "sources": [
+   "BBC News",
+   "Anadolu Agency",
+   "bdnews24"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/articles/cy41vqx4pdzo",
+   "https://www.aa.com.tr/en/europe/chancellor-merz-under-fire-for-wanting-80-of-syrians-to-leave-germany/3886199",
+   "https://bdnews24.com/world/3d4a2e10b2d2"
+  ]
  }
 ]

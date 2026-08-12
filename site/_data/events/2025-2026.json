@@ -222,11 +222,11 @@
  },
  {
   "date": "2026-08-06",
-  "title": "Storm deaths in northern Philippines reach at least 19",
+  "title": "Storm deaths in northern Philippines reach at least 26",
   "category": "natural-disaster",
   "location": "Northern Luzon, Philippines",
-  "lives_lost": 19,
-  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 19 people in the northern Philippines by August 11, with 15 others injured and four missing, according to the National Disaster Risk Reduction and Management Council. Landslides killed 15 people across Benguet, Rizal and Batangas, including seven in Baguio City when a rain-drenched mountainside collapsed on three houses; other victims died by drowning, falling trees and electrocution. About 2.27 million people were affected, with school closures and evacuation centers across the north.",
+  "lives_lost": 26,
+  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 26 people in the northern Philippines by August 12, including a police officer, according to the Philippine National Police. Landslides killed people in Benguet, Rizal and Batangas, including 10 in Baguio City when a rain-drenched mountainside collapsed on three houses; other victims died by drowning, falling trees, lightning and electrocution. More than 2.27 million people were affected, with school closures and evacuation centers across the north.",
   "sources": [
    "The Peninsula Qatar",
    "Ouest-France",
@@ -235,7 +235,9 @@
    "Office of Civil Defense",
    "AFP",
    "Xinhua News Agency",
-   "TASS"
+   "TASS",
+   "ABS-CBN News",
+   "PhilStar"
   ]
  },
  {
@@ -353,15 +355,17 @@
  },
  {
   "date": "2026-08-09",
-  "title": "Landslide on rain-soaked hillside in Baguio kills seven",
+  "title": "Landslide on rain-soaked hillside in Baguio kills 10",
   "category": "natural-disaster",
   "location": "Baguio City, Benguet, Philippines",
-  "lives_lost": 7,
-  "description": "A rain-drenched mountainside collapsed onto three houses in Baguio City late Sunday night, August 9, killing seven people, including at least four minors, as part of a nine-day downpour that left at least 16 dead across the northern Philippines. Rescue work was done manually because of continuing heavy rain and fear of further landslides.",
+  "lives_lost": 10,
+  "description": "A rain-drenched mountainside collapsed onto three houses in Baguio City late Sunday night, August 9, killing at least 10 people in Barangay Guisad Surong, including at least four minors; three others and a dog were rescued and two people remained missing as of Monday night, according to the Baguio City Public Information Office. The landslide was part of a nine-day downpour that left at least 26 dead across the northern Philippines, and rescue work was done manually because of continuing rain and fear of further landslides.",
   "sources": [
    "AFP",
    "Malaya Business Insight",
-   "VnExpress"
+   "VnExpress",
+   "OneNews.PH",
+   "CNN Indonesia"
   ]
  },
  {
@@ -678,16 +682,17 @@
  },
  {
   "date": "2026-08-10",
-  "title": "Magnitude 7.4 earthquake in western Colombia kills at least 132",
+  "title": "Magnitude 7.4 earthquake in western Colombia kills at least 254",
   "category": "natural-disaster",
   "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
-  "lives_lost": 132,
-  "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 132 people and injuring more than 570, with hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding. The death toll continued to rise as search and rescue went on.",
+  "lives_lost": 254,
+  "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 254 people by Tuesday, with more than 3,000 missing and hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding. The death toll continued to rise as search and rescue went on.",
   "sources": [
    "AP News",
    "Reuters",
    "Xinhua News Agency",
-   "CNN"
+   "CNN",
+   "Anadolu Agency"
   ]
  },
  {
@@ -1088,17 +1093,19 @@
  },
  {
   "date": "2026-08-11",
-  "title": "Russian combined strike on Zaporizhzhia kills six",
+  "title": "Russian combined strike on Zaporizhzhia kills seven",
   "category": "war",
   "location": "Zaporizhzhia, Ukraine",
-  "lives_lost": 6,
-  "description": "A combined Russian attack with ballistic missiles and guided aerial bombs on Zaporizhzhia on the night of August 10-11 killed six people — five men and one woman — and wounded at least 19, sparking fires and power outages, according to regional military administration head Ivan Fedorov. The strikes hit industrial facilities and infrastructure, and damaged residential buildings; Kyiv was separately targeted by ballistic missiles.",
+  "lives_lost": 7,
+  "description": "A combined Russian attack using ballistic missiles — including North Korean-supplied missiles, according to President Volodymyr Zelensky — and guided aerial bombs hit Zaporizhzhia on the night of August 10-11, killing seven people and wounding at least 24, according to regional military administration head Ivan Fedorov. The strike shut the Zaporizhstal steel plant, where seven workers died and 21 were injured, and damaged residential buildings and infrastructure; August 12 was declared a day of mourning in the region. Kyiv was separately targeted by ballistic missiles.",
   "sources": [
    "Kyiv Post",
    "RTE",
    "UNN",
    "Ukrainska Pravda",
-   "APA"
+   "APA",
+   "AP News",
+   "RFE/RL"
   ]
  },
  {
@@ -1107,10 +1114,23 @@
   "category": "war",
   "location": "Dnipropetrovsk region, Ukraine",
   "lives_lost": 5,
-  "description": "Russian forces carried out massive strikes on the Dnipropetrovsk region on the evening of August 10 and during the night of August 11, killing five people — including three minors — and injuring seven others, according to Ukraine's Prosecutor General's Office. The attacks damaged logistics facilities; Ukraine's State Emergency Service earlier reported three dead and five injured.",
+  "description": "Russian forces carried out massive strikes on the Dnipropetrovsk region on the evening of August 10 and during the night of August 11, killing five people — including three minors — and injuring seven others, according to Ukraine's Prosecutor General's Office. Regional authorities earlier reported three dead, including a 15-year-old boy, and five injured, with drone and artillery attacks hitting five districts and damaging logistics facilities.",
   "sources": [
    "APA",
    "Xinhua News Agency"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Russian strike on tanker truck in Odesa region kills two",
+  "category": "war",
+  "location": "Odesa region, Ukraine",
+  "lives_lost": 2,
+  "description": "A Russian strike on a tanker truck in the Odesa region on August 11 killed two people and wounded three others, according to Oleh Kiper, head of the regional military administration. Hours later, a Russian drone hit an apartment building in Odesa with no reported casualties.",
+  "sources": [
+   "Interfax-Ukraine",
+   "RBC Ukraine",
+   "BTA"
   ]
  },
  {
@@ -1123,6 +1143,32 @@
   "sources": [
    "TASS",
    "Anadolu Agency"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Houthi missile strike on cargo ship Tihama in Bab el-Mandeb kills six",
+  "category": "war",
+  "location": "Bab el-Mandeb Strait, off Yemen",
+  "lives_lost": 6,
+  "description": "A Houthi missile strike on the commercial vessel Tihama in the Bab el-Mandeb Strait killed six people and injured 10 others, Yemen's coast guard said. Officials described a 'double-tap' attack that set the cargo ship ablaze; among the dead were crew members from Pakistan and Indonesia.",
+  "sources": [
+   "TASS",
+   "Rudaw",
+   "Ahram Online"
+  ]
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Man kills wife and four children in Winfield, Kansas murder-suicide",
+  "category": "gun-violence",
+  "location": "Winfield, Kansas, USA",
+  "lives_lost": 6,
+  "description": "A 53-year-old man, Ronald H. Williams Sr., shot and killed his wife, 44-year-old Kelly George, and their four children aged 3 to 9 before taking his own life early Tuesday morning, August 11, in Winfield, Kansas. Williams called 911 after the shootings, and police found the six bodies inside the home.",
+  "sources": [
+   "KSHB",
+   "BNO News",
+   "Hindustan Times"
   ]
  },
  {
