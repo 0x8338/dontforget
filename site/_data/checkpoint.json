@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-12",
-  "total": 605
+  "total": 612
  },
  "promises": {
   "last_date": "2026-08-12",
   "total": 408
  },
- "last_updated": "2026-08-12T00:53:16Z",
+ "last_updated": "2026-08-12T14:23:19Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-a: world-leaders (prabowo-indonesia-8pct-2029, ishiba-minimum-wage-1500, tusk-poland-defence-5pct-2026, mahama-ghana-imf-exit, tinubu-nigeria-1trn-2030, merz-syria-return-80pct)"

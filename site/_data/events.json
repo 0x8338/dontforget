@@ -2016,6 +2016,95 @@
     "UPI",
     "UN OCHA"
    ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Russian drone strikes on Kherson kill two",
+   "category": "war",
+   "location": "Kherson, Ukraine",
+   "lives_lost": 2,
+   "description": "Russian strike drones killed two people in Kherson overnight on August 12, including a woman struck inside her home, and wounded others in the Tsentralnyi district, according to regional authorities and military administration head Oleksandr Prokudin.",
+   "sources": [
+    "Kyiv Post",
+    "Ukrinform",
+    "Anadolu Agency"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Russian strikes on Zaporizhzhia region kill one",
+   "category": "war",
+   "location": "Zaporizhzhia region, Ukraine",
+   "lives_lost": 1,
+   "description": "Russia carried out more than 1,000 strikes on Zaporizhzhia and the surrounding region over the day, killing one person and wounding at least eight, regional governor Ivan Fedorov said. An overnight drone attack destroyed the Epicentr shopping center in the city, sparking a large fire and power outages, and damaged residential buildings.",
+   "sources": [
+    "Anadolu Agency",
+    "Europa Press",
+    "UNN"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Ukrainian drone attack on Novorossiysk and Krasnodar region kills two",
+   "category": "war",
+   "location": "Novorossiysk and Volna, Krasnodar region, Russia",
+   "lives_lost": 2,
+   "description": "A large Ukrainian drone attack on Russia's Krasnodar region killed two people — an eight-year-old child in Novorossiysk and a man in the settlement of Volna — and injured eight others, authorities said. Russia said air defenses shot down 502 Ukrainian drones overnight, and Ukraine said the operation targeted the Novorossiysk naval base with drones, missiles and unmanned naval systems.",
+   "sources": [
+    "TASS",
+    "Anadolu Agency"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Ukrainian attacks on Belgorod region kill two civilians",
+   "category": "war",
+   "location": "Belgorod region, Russia",
+   "lives_lost": 2,
+   "description": "Ukrainian forces attacked Russia's Belgorod region more than 170 times over 24 hours, killing two civilians in the Belgorodsky and Graivoronsky districts and injuring three others, acting Governor Alexander Shuvayev said. RIA Novosti later reported three dead and seven people seeking medical help.",
+   "sources": [
+    "TASS",
+    "RIA Novosti"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Ukrainian drone attack on Crimea kills civilian",
+   "category": "war",
+   "location": "Novosyolovskoye, Razdolnensky district, Crimea, Ukraine",
+   "lives_lost": 1,
+   "description": "A civilian was killed in the village of Novosyolovskoye in the Razdolnensky district of Crimea in an overnight Ukrainian drone attack, regional head Sergey Aksyonov said.",
+   "sources": [
+    "TASS",
+    "Izvestia",
+    "NTV"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Landslide on Mumbai chawl kills seven",
+   "category": "natural-disaster",
+   "location": "Kurla, Mumbai, Maharashtra, India",
+   "lives_lost": 7,
+   "description": "A hillside collapsed onto the Gaushiya Chawl row tenement in Chirag Nagar, Kurla West, Mumbai, at about 3:48 a.m. on August 12 after heavy rain, killing at least seven people — including three children — and injuring four others, with more feared trapped. The youngest victim was a two-year-old.",
+   "sources": [
+    "mid-day",
+    "The Telegraph India",
+    "The Star"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Israeli fire kills one in Gaza",
+   "category": "war",
+   "location": "Gaza Strip, Palestine",
+   "lives_lost": 1,
+   "description": "Gaza's Health Ministry said one Palestinian was killed and two others wounded over the past 24 hours, bringing the death toll since October 7, 2023 to 73,388 and the number of wounded to 174,259.",
+   "sources": [
+    "WAFA",
+    "Saba",
+    "L'Orient Today"
+   ]
   }
  ],
  "11-07": [
@@ -4335,7 +4424,7 @@
    "category": "natural-disaster",
    "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
    "lives_lost": 254,
-   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 254 people by Tuesday, with more than 3,000 missing and hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency to expedite recovery funding. The death toll continued to rise as search and rescue went on.",
+   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 254 people by Tuesday, with more than 3,000 missing and hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding. The Colombian Association of Capital Cities reported 188 dead and 1,677 injured, while separate city tallies put the toll at 254, with search and rescue continuing.",
    "sources": [
     "AP News",
     "Reuters",
