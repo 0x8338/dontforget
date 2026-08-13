@@ -4136,6 +4136,30 @@
     "Xinhua News Agency",
     "The Herald Ghana"
    ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Explosion during ordnance disposal in Sevastopol kills five",
+   "category": "war",
+   "location": "Sevastopol, Crimea",
+   "lives_lost": 5,
+   "description": "Five people were killed on August 13, 2026, during the clearance and disposal of explosive ordnance following a Ukrainian UAV attack on Sevastopol, Russian media reported. Four of the dead were pyrotechnicians of the Russian Ministry of Emergency Situations (EMERCOM) and one was a security guard.",
+   "sources": [
+    "APA",
+    "Interfax"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Israeli strikes kill two Palestinians in Gaza",
+   "category": "war",
+   "location": "Gaza Strip",
+   "lives_lost": 2,
+   "description": "Israeli airstrikes killed two Palestinians in Gaza on August 13, 2026, the first fatalities in more than a week. One Palestinian was killed when a drone struck a civilian vehicle south of the Sheikh Ajlin neighborhood, southwest of Gaza City, and Hudhaifa Kawara was killed in an Israeli attack in the al-Amal neighborhood of Khan Younis.",
+   "sources": [
+    "Gaza Herald",
+    "L'Orient Today"
+   ]
   }
  ],
  "09-26": [

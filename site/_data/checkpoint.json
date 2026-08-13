@@ -1,15 +1,15 @@
 {
  "events": {
   "last_date": "2026-08-13",
-  "total": 623
+  "total": 625
  },
  "promises": {
   "last_date": "2026-08-13",
-  "total": 413
+  "total": 414
  },
- "last_updated": "2026-08-13T14:50:12Z",
+ "last_updated": "2026-08-13T15:12:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos-corporate (tsmc-165b-us-investment, boeing-fcf-2026, ford-model-e-2029, intel-foundry-h2-2026, oracle-fy2026-capex-50b)"
+  "last_focus": "track-b: ceos-corporate (bofa-250b-critical-infrastructure-2027)"
  }
 }

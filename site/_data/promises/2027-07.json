@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Bank of America",
+  "role": "Critical Infrastructure Finance Initiative",
+  "promise": "Deploy $250 billion by July 2027 to support U.S. digital and infrastructure projects",
+  "date_promised": "2026-08-12",
+  "due_date": "2027-07-31",
+  "status": "pending",
+  "description": "On August 12, 2026, Bank of America launched its 'Critical Infrastructure Finance Initiative,' pledging to deploy $250 billion by July 2027 to support U.S. digital and infrastructure projects. The bank said the initiative, announced on the heels of the nation's 250th anniversary celebrations, would provide primary market lending, investments, capital markets services, and banking and advisory offerings, and would help create tens of thousands of jobs.",
+  "evidence": [
+   "August 12, 2026 announcement of the $250 billion Critical Infrastructure Finance Initiative",
+   "Bank said it plans to deploy $250 billion by July 2027"
+  ],
+  "sources": [
+   "Reuters",
+   "Fortune",
+   "Banking Dive"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/economy/policy/articles/bank-of-america-pledges-250b-toward-122704190.html",
+   "https://fortune.com/2026/08/12/bofa-to-plow-250-billion-into-critical-infrastructure-projects/",
+   "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/"
+  ]
+ }
+]
