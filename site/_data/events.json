@@ -2108,6 +2108,32 @@
     "WAFA",
     "Al Quds"
    ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Military Apache helicopter crash near Salado kills two",
+   "category": "industrial",
+   "location": "Salado, Bell County, Texas, USA",
+   "lives_lost": 2,
+   "description": "An AH-64 Apache attack helicopter from Fort Hood crashed into a field south of Salado, Texas, around 1:35 p.m. local time, killing both pilots on board and igniting a grass fire that forced nearby residents to flee.",
+   "sources": [
+    "CNN",
+    "Anadolu Agency",
+    "Xinhua News Agency"
+   ]
+  },
+  {
+   "date": "2026-08-12",
+   "title": "Severe storms and tornadoes kill three in US Midwest",
+   "category": "natural-disaster",
+   "location": "Indiana and Ohio, USA",
+   "lives_lost": 3,
+   "description": "Severe storms swept across the US Midwest, spawning tornadoes near Chicago and producing damaging winds and flash flooding. At least three people died, two in Indiana including a four-year-old killed by a fallen tree, and one in Roseville, Ohio, where emergency crews could not reach the victim; hundreds of thousands of customers lost power.",
+   "sources": [
+    "Anadolu Agency",
+    "WAM",
+    "WCAX"
+   ]
   }
  ],
  "11-07": [
@@ -4024,6 +4050,18 @@
     "BBC News",
     "Deutsche Welle",
     "Reuters"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Russian drone and missile attack on Zaporizhzhia kills five",
+   "category": "war",
+   "location": "Zaporizhzhia, Ukraine",
+   "lives_lost": 5,
+   "description": "Russian forces launched a combined drone and missile attack on Zaporizhzhia in the early hours, damaging buildings and industrial facilities and causing fires and power outages. Five people were killed and at least 20 were injured, according to the head of the Zaporizhzhia Regional Military Administration, Ivan Fedorov.",
+   "sources": [
+    "Ukrinform",
+    "RTP"
    ]
   }
  ],
@@ -7251,6 +7289,18 @@
     "KSHB",
     "BNO News",
     "Hindustan Times"
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "title": "Flash floods in Adré kill three",
+   "category": "natural-disaster",
+   "location": "Adré, Ouaddaï Province, Chad",
+   "lives_lost": 3,
+   "description": "Heavy rains in the afternoon triggered flash floods in several neighborhoods of Adré, a town in the Assoungha department of Ouaddaï Province in eastern Chad, killing three people; local media reported five people were swept away by the water.",
+   "sources": [
+    "Xinhua News Agency",
+    "Tchadinfos"
    ]
   }
  ],

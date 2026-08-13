@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-13",
-  "total": 612
+  "total": 616
  },
  "promises": {
   "last_date": "2026-08-13",
   "total": 413
  },
- "last_updated": "2026-08-13T00:06:46Z",
+ "last_updated": "2026-08-13T02:55:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-b: ceos-corporate (tsmc-165b-us-investment, boeing-fcf-2026, ford-model-e-2029, intel-foundry-h2-2026, oracle-fy2026-capex-50b)"
