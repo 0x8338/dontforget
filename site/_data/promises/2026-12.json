@@ -522,5 +522,51 @@
    "https://biznes.pap.pl/wiadomosci/gospodarka/polands-defence-spending-must-have-its-limits-says-dev-funds-minister",
    "https://en.orda.kz/poland-to-spend-record-55-billion-on-defense-in-2026-8072/"
   ]
+ },
+ {
+  "person": "Kelly Ortberg",
+  "role": "President and CEO of Boeing",
+  "promise": "Generate $1 billion to $3 billion of positive free cash flow in 2026",
+  "date_promised": "2026-01-27",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "With fourth-quarter 2025 results on January 27, 2026, Boeing guided to positive free cash flow of $1 billion to $3 billion for 2026 as it ramps up aircraft production. The company reaffirmed the target in July 2026 after posting $631 million of positive free cash flow in the second quarter.",
+  "evidence": [
+   "2026 free cash flow guidance of $1-3 billion issued January 27, 2026",
+   "Reaffirmed July 2026 after $631 million of positive Q2 free cash flow"
+  ],
+  "sources": [
+   "CNBC",
+   "Boeing",
+   "Nasdaq"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2026/01/27/boeing-ba-4q-2025-earnings.html",
+   "https://www.boeing.com/features/2026/07/ceo-boeing-on-track-with-2026-plan-building-trust",
+   "https://www.nasdaq.com/articles/boeing-q2-earnings-call-highlights"
+  ]
+ },
+ {
+  "person": "Lip-Bu Tan",
+  "role": "CEO of Intel",
+  "promise": "Intel's foundry will secure commitments from multiple external customers in the second half of 2026",
+  "date_promised": "2026-05-18",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "In May 2026, Intel CEO Lip-Bu Tan said the company's 18A process yields were improving by about 7-8 percent a month and that, with customer interest growing, Intel expects commitments from multiple foundry customers in the second half of 2026.",
+  "evidence": [
+   "Tan said 18A yields were improving about 7-8 percent monthly",
+   "Intel expects multiple foundry customer commitments in H2 2026"
+  ],
+  "sources": [
+   "CNBC",
+   "TrendForce",
+   "Nasdaq"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+   "https://www.trendforce.com/news/2026/05/19/news-intel-18a-yields-improve-7-8-monthly-with-2h26-customers-expected-reportedly-pushes-18a-cpus-amid-tight-supply/",
+   "https://www.nasdaq.com/articles/intel-ceo-touts-balance-sheet-progress-foundry-gains-and-ai-cpu-demand"
+  ]
  }
 ]

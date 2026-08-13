@@ -1,0 +1,25 @@
+[
+ {
+  "person": "Larry Ellison",
+  "role": "Chairman and Chief Technology Officer of Oracle",
+  "promise": "Oracle will spend about $50 billion in capital expenditure in fiscal 2026 to expand AI cloud infrastructure",
+  "date_promised": "2026-03-18",
+  "due_date": "2026-05-31",
+  "status": "kept",
+  "description": "Oracle raised its fiscal 2026 capital expenditure guidance to $50 billion as it expanded capacity for large AI cloud customers, and separately expected to raise $45 billion to $50 billion in debt and equity during the year. Actual fiscal 2026 capital spending reached $55.7 billion, exceeding the forecast.",
+  "evidence": [
+   "Fiscal 2026 capex guidance raised to $50 billion",
+   "Actual fiscal 2026 capital spending reached $55.7 billion"
+  ],
+  "sources": [
+   "Nasdaq",
+   "MarketScreener",
+   "BusinessWorld"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/oracle-pushes-capex-spending-ai-high-risk-or-high-reward",
+   "https://www.marketscreener.com/news/oracle-plans-to-raise-45-billion-to-50-billion-in-2026-ce7e5bddda8cf726",
+   "https://www.businessworld.in/article/oracle-eyes-up-to-50-bn-fundraising-in-2026-to-expand-cloud-capacity-591790"
+  ]
+ }
+]

@@ -674,7 +674,7 @@
   },
   {
    "date": "2026-08-06",
-   "title": "Israeli fire kills one in Gaza",
+   "title": "Israeli airstrike on Beit Lahia kills one",
    "category": "war",
    "location": "Gaza Strip, Palestine",
    "lives_lost": 1,
@@ -2045,14 +2045,16 @@
   },
   {
    "date": "2026-08-12",
-   "title": "Ukrainian drone attack on Novorossiysk and Krasnodar region kills two",
+   "title": "Ukrainian drone attack on Novorossiysk kills three",
    "category": "war",
-   "location": "Novorossiysk and Volna, Krasnodar region, Russia",
-   "lives_lost": 2,
-   "description": "A large Ukrainian drone attack on Russia's Krasnodar region killed two people — an eight-year-old child in Novorossiysk and a man in the settlement of Volna — and injured eight others, authorities said. Russia said air defenses shot down 502 Ukrainian drones overnight, and Ukraine said the operation targeted the Novorossiysk naval base with drones, missiles and unmanned naval systems.",
+   "location": "Novorossiysk, Krasnodar region, Russia",
+   "lives_lost": 3,
+   "description": "A massive Ukrainian drone attack on the Russian Black Sea port of Novorossiysk killed three people — including an eight-year-old child — and injured about 24, damaging roughly 60 residential buildings and forcing major grain terminals in the city to halt operations, according to Krasnodar governor Veniamin Kondratyev. Russia said air defenses shot down 502 Ukrainian drones overnight, and Ukraine said the operation targeted the Novorossiysk naval base with drones, missiles and unmanned naval systems.",
    "sources": [
     "TASS",
-    "Anadolu Agency"
+    "Anadolu Agency",
+    "Qatar Tribune",
+    "Canberra Times"
    ]
   },
   {
@@ -2097,13 +2099,14 @@
    "date": "2026-08-12",
    "title": "Israeli fire kills one in Gaza",
    "category": "war",
-   "location": "Gaza Strip, Palestine",
+   "location": "Beit Lahia, Gaza Strip, Palestine",
    "lives_lost": 1,
-   "description": "Gaza's Health Ministry said one Palestinian was killed and two others wounded over the past 24 hours, bringing the death toll since October 7, 2023 to 73,388 and the number of wounded to 174,259.",
+   "description": "An Israeli airstrike on Beit Lahia in the northern Gaza Strip killed one Palestinian and wounded five others, the first reported airstrike in about a week, with the Israeli military saying it targeted a Hamas cell commander. Gaza's Health Ministry put the death toll since October 7, 2023 at 73,388 and the number of wounded at 174,259.",
    "sources": [
+    "Xinhua News Agency",
+    "Yonhap",
     "WAFA",
-    "Saba",
-    "L'Orient Today"
+    "Al Quds"
    ]
   }
  ],
@@ -4420,17 +4423,18 @@
   },
   {
    "date": "2026-08-10",
-   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 254",
+   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 265",
    "category": "natural-disaster",
    "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
-   "lives_lost": 254,
-   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 254 people by Tuesday, with more than 3,000 missing and hundreds of buildings damaged or collapsed in Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding. The Colombian Association of Capital Cities reported 188 dead and 1,677 injured, while separate city tallies put the toll at 254, with search and rescue continuing.",
+   "lives_lost": 265,
+   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 265 people by Wednesday, with about 500 still missing and thousands injured, as buildings collapsed across Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding. Colombia's national forensic institute said it had received 202 bodies and the Association of Capital Cities reported 241 dead, with search and rescue continuing.",
    "sources": [
     "AP News",
     "Reuters",
     "Xinhua News Agency",
     "CNN",
-    "Anadolu Agency"
+    "Anadolu Agency",
+    "APA"
    ]
   },
   {

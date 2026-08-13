@@ -7805,5 +7805,120 @@
    "https://www.aa.com.tr/en/europe/chancellor-merz-under-fire-for-wanting-80-of-syrians-to-leave-germany/3886199",
    "https://bdnews24.com/world/3d4a2e10b2d2"
   ]
+ },
+ {
+  "person": "C.C. Wei (TSMC)",
+  "role": "Chairman and CEO of TSMC",
+  "promise": "Invest $165 billion in the United States to build three new fabs, two advanced packaging plants and an R&D center in Arizona",
+  "date_promised": "2025-03-04",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "In March 2025, TSMC announced it would invest $165 billion in the United States — including three new fabs, two advanced packaging facilities and an R&D center in Arizona. The first Arizona fab is in production, a second is due online in 2027 and the third around 2030, and in July 2026 the company added a further $100 billion for expansion through the mid-2030s.",
+  "evidence": [
+   "March 2025 announcement of the $165 billion US investment",
+   "Additional $100 billion added in July 2026; third Arizona fab expected around 2030"
+  ],
+  "sources": [
+   "TrendForce",
+   "KJZZ",
+   "Mobile World Live"
+  ],
+  "source_urls": [
+   "https://www.businesswire.com/news/home/20250305063041/en/U.S.-to-Hold-Over-20-of-Advanced-Semiconductor-Capacity-by-2030-TSMC-Expands-Investment-to-US%24165-Billion-Says-TrendForce",
+   "https://www.kjzz.org/the-show/2026-07-20/tsmc-will-invest-another-100-billion-in-arizona-how-significant-will-it-be-for-the-state",
+   "https://www.mobileworldlive.com/ai-cloud/tsmc-ups-us-investment-on-ai-mega-trend/"
+  ]
+ },
+ {
+  "person": "Kelly Ortberg",
+  "role": "President and CEO of Boeing",
+  "promise": "Generate $1 billion to $3 billion of positive free cash flow in 2026",
+  "date_promised": "2026-01-27",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "With fourth-quarter 2025 results on January 27, 2026, Boeing guided to positive free cash flow of $1 billion to $3 billion for 2026 as it ramps up aircraft production. The company reaffirmed the target in July 2026 after posting $631 million of positive free cash flow in the second quarter.",
+  "evidence": [
+   "2026 free cash flow guidance of $1-3 billion issued January 27, 2026",
+   "Reaffirmed July 2026 after $631 million of positive Q2 free cash flow"
+  ],
+  "sources": [
+   "CNBC",
+   "Boeing",
+   "Nasdaq"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2026/01/27/boeing-ba-4q-2025-earnings.html",
+   "https://www.boeing.com/features/2026/07/ceo-boeing-on-track-with-2026-plan-building-trust",
+   "https://www.nasdaq.com/articles/boeing-q2-earnings-call-highlights"
+  ]
+ },
+ {
+  "person": "Jim Farley",
+  "role": "CEO of Ford Motor Company",
+  "promise": "Ford's Model e electric-vehicle division will reach break-even in 2029",
+  "date_promised": "2026-02-11",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "After a $4.8 billion operating loss in its Model e electric-vehicle unit in 2025, Ford said in February 2026 that it expects another $4 billion to $4.5 billion loss for the unit in 2026 and pushed its break-even target for the EV division back to 2029.",
+  "evidence": [
+   "Model e recorded a $4.8 billion operating loss in 2025",
+   "Company projects a further $4-4.5 billion loss in 2026 with break-even in 2029"
+  ],
+  "sources": [
+   "Fortune",
+   "Benzinga",
+   "Yahoo Finance"
+  ],
+  "source_urls": [
+   "https://fortune.com/2026/02/12/ford-ceo-jim-farley-earnings-electric-vehicle-4-8-billion-operating-loss/",
+   "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-",
+   "https://finance.yahoo.com/news/ford-motor-q4-earnings-call-040824879.html"
+  ]
+ },
+ {
+  "person": "Lip-Bu Tan",
+  "role": "CEO of Intel",
+  "promise": "Intel's foundry will secure commitments from multiple external customers in the second half of 2026",
+  "date_promised": "2026-05-18",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "In May 2026, Intel CEO Lip-Bu Tan said the company's 18A process yields were improving by about 7-8 percent a month and that, with customer interest growing, Intel expects commitments from multiple foundry customers in the second half of 2026.",
+  "evidence": [
+   "Tan said 18A yields were improving about 7-8 percent monthly",
+   "Intel expects multiple foundry customer commitments in H2 2026"
+  ],
+  "sources": [
+   "CNBC",
+   "TrendForce",
+   "Nasdaq"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+   "https://www.trendforce.com/news/2026/05/19/news-intel-18a-yields-improve-7-8-monthly-with-2h26-customers-expected-reportedly-pushes-18a-cpus-amid-tight-supply/",
+   "https://www.nasdaq.com/articles/intel-ceo-touts-balance-sheet-progress-foundry-gains-and-ai-cpu-demand"
+  ]
+ },
+ {
+  "person": "Larry Ellison",
+  "role": "Chairman and Chief Technology Officer of Oracle",
+  "promise": "Oracle will spend about $50 billion in capital expenditure in fiscal 2026 to expand AI cloud infrastructure",
+  "date_promised": "2026-03-18",
+  "due_date": "2026-05-31",
+  "status": "kept",
+  "description": "Oracle raised its fiscal 2026 capital expenditure guidance to $50 billion as it expanded capacity for large AI cloud customers, and separately expected to raise $45 billion to $50 billion in debt and equity during the year. Actual fiscal 2026 capital spending reached $55.7 billion, exceeding the forecast.",
+  "evidence": [
+   "Fiscal 2026 capex guidance raised to $50 billion",
+   "Actual fiscal 2026 capital spending reached $55.7 billion"
+  ],
+  "sources": [
+   "Nasdaq",
+   "MarketScreener",
+   "BusinessWorld"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/oracle-pushes-capex-spending-ai-high-risk-or-high-reward",
+   "https://www.marketscreener.com/news/oracle-plans-to-raise-45-billion-to-50-billion-in-2026-ce7e5bddda8cf726",
+   "https://www.businessworld.in/article/oracle-eyes-up-to-50-bn-fundraising-in-2026-to-expand-cloud-capacity-591790"
+  ]
  }
 ]

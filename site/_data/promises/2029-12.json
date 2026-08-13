@@ -164,5 +164,28 @@
    "https://english.kyodonews.net/news/2024/10/fc621e8b4a08-focus-pm-ishibas-drastic-wage-hike-push-may-hurt-small-firms-in-japan.html",
    "https://www.japantimes.co.jp/business/2026/07/02/economy/minimum-wage-focus-july-2026/"
   ]
+ },
+ {
+  "person": "Jim Farley",
+  "role": "CEO of Ford Motor Company",
+  "promise": "Ford's Model e electric-vehicle division will reach break-even in 2029",
+  "date_promised": "2026-02-11",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "After a $4.8 billion operating loss in its Model e electric-vehicle unit in 2025, Ford said in February 2026 that it expects another $4 billion to $4.5 billion loss for the unit in 2026 and pushed its break-even target for the EV division back to 2029.",
+  "evidence": [
+   "Model e recorded a $4.8 billion operating loss in 2025",
+   "Company projects a further $4-4.5 billion loss in 2026 with break-even in 2029"
+  ],
+  "sources": [
+   "Fortune",
+   "Benzinga",
+   "Yahoo Finance"
+  ],
+  "source_urls": [
+   "https://fortune.com/2026/02/12/ford-ceo-jim-farley-earnings-electric-vehicle-4-8-billion-operating-loss/",
+   "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-",
+   "https://finance.yahoo.com/news/ford-motor-q4-earnings-call-040824879.html"
+  ]
  }
 ]

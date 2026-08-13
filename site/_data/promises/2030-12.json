@@ -440,5 +440,28 @@
    "https://thesun.ng/tinubu-committed-to-inclusive-innovative-development-says-bagudu/",
    "https://www.newswatch.com.ng/1-trillion-dream-in-sight-bola-ahmed-tinubu-woos-global-investors-with-bold-economic-reforms-in-paris/"
   ]
+ },
+ {
+  "person": "C.C. Wei (TSMC)",
+  "role": "Chairman and CEO of TSMC",
+  "promise": "Invest $165 billion in the United States to build three new fabs, two advanced packaging plants and an R&D center in Arizona",
+  "date_promised": "2025-03-04",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "In March 2025, TSMC announced it would invest $165 billion in the United States — including three new fabs, two advanced packaging facilities and an R&D center in Arizona. The first Arizona fab is in production, a second is due online in 2027 and the third around 2030, and in July 2026 the company added a further $100 billion for expansion through the mid-2030s.",
+  "evidence": [
+   "March 2025 announcement of the $165 billion US investment",
+   "Additional $100 billion added in July 2026; third Arizona fab expected around 2030"
+  ],
+  "sources": [
+   "TrendForce",
+   "KJZZ",
+   "Mobile World Live"
+  ],
+  "source_urls": [
+   "https://www.businesswire.com/news/home/20250305063041/en/U.S.-to-Hold-Over-20-of-Advanced-Semiconductor-Capacity-by-2030-TSMC-Expands-Investment-to-US%24165-Billion-Says-TrendForce",
+   "https://www.kjzz.org/the-show/2026-07-20/tsmc-will-invest-another-100-billion-in-arizona-how-significant-will-it-be-for-the-state",
+   "https://www.mobileworldlive.com/ai-cloud/tsmc-ups-us-investment-on-ai-mega-trend/"
+  ]
  }
 ]
