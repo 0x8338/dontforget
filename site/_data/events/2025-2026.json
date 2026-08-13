@@ -821,6 +821,30 @@
   ]
  },
  {
+  "date": "2026-08-13",
+  "title": "Explosion at Port of Rotterdam kills one",
+  "category": "industrial",
+  "location": "Rotterdam, Netherlands",
+  "lives_lost": 1,
+  "description": "An explosion at the Port of Rotterdam in the Netherlands killed at least one person and injured several others on August 13, 2026. Dutch regional broadcaster Rijnmond reported the blast occurred at around 11:30 a.m. local time; Rotterdam police said the cause remained under investigation and emergency services scaled up their response.",
+  "sources": [
+   "AP News",
+   "Xinhua News Agency"
+  ]
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Multi-vehicle crash near Accra kills at least 11",
+  "category": "industrial",
+  "location": "Ofankor, Accra, Ghana",
+  "lives_lost": 11,
+  "description": "A multi-vehicle collision on the Accra-Kumasi highway at Ofankor Barrier in Ghana's capital killed at least 11 people and injured 13 others in the early hours of August 13, 2026, according to the Ghana National Fire Service. The service said it received a distress call at about 4:00 a.m. local time regarding the collision.",
+  "sources": [
+   "Xinhua News Agency",
+   "The Herald Ghana"
+  ]
+ },
+ {
   "date": "2026-08-10",
   "title": "Ukrainian drone attack on Nizhnekamsk kills 13",
   "category": "war",
