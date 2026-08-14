@@ -2137,11 +2137,11 @@
   },
   {
    "date": "2026-08-12",
-   "title": "Landslide in Rolpa district kills two",
+   "title": "Landslide in Rolpa district kills ten",
    "category": "natural-disaster",
    "location": "Rolpa District, Nepal",
-   "lives_lost": 2,
-   "description": "A landslide triggered by continuous rain swept away houses, cow sheds and a shop in Kotalbara, Thabang Rural Municipality in Nepal's western Rolpa district on Wednesday night, killing two people and leaving ten others missing, according to police.",
+   "lives_lost": 10,
+   "description": "A landslide triggered by continuous rain swept away nine houses, two cowsheds, a shop and a church in the Kotalbara area of Thabang Rural Municipality in Nepal's western Rolpa district on the night of August 12, 2026, killing 10 people and leaving two missing. Five bodies were recovered at the site and five more were found in neighbouring Pyuthan district, police said.",
    "sources": [
     "Xinhua News Agency",
     "The Star"
@@ -4155,10 +4155,35 @@
    "category": "war",
    "location": "Gaza Strip",
    "lives_lost": 2,
-   "description": "Israeli airstrikes killed two Palestinians in Gaza on August 13, 2026, the first fatalities in more than a week. One Palestinian was killed when a drone struck a civilian vehicle south of the Sheikh Ajlin neighborhood, southwest of Gaza City, and Hudhaifa Kawara was killed in an Israeli attack in the al-Amal neighborhood of Khan Younis.",
+   "description": "Israeli airstrikes killed two Palestinians in Gaza on August 13, 2026, the first fatalities in more than a week. Gaza City Police Chief Jamal Mahmoud Abu Kamil, 43, was killed when an airstrike targeted his vehicle on Rashid Street southwest of Gaza City, and Hudhaifa Kawara was killed in an Israeli attack in the al-Amal neighborhood of Khan Younis.",
    "sources": [
-    "Gaza Herald",
-    "L'Orient Today"
+    "Xinhua News Agency",
+    "The National",
+    "Egypt Today"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Landslide and water seepage in Chamoli tunnel kills seven workers",
+   "category": "industrial",
+   "location": "Pipal Koti, Chamoli, Uttarakhand, India",
+   "lives_lost": 7,
+   "description": "A landslide with water seepage inside an under-construction tunnel of the Vishnugad-Pipalkoti hydroelectric project in Chamoli district, Uttarakhand, killed seven workers and injured 14 others on August 13, 2026. Rescue teams pulled trapped workers from the tunnel at Pipal Koti as water and debris poured in.",
+   "sources": [
+    "Hindustan Times",
+    "Lokmat Times"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Record rainfall floods eastern Japan, killing one",
+   "category": "natural-disaster",
+   "location": "Chiba Prefecture, Japan",
+   "lives_lost": 1,
+   "description": "Heavy rain pounded eastern Japan on August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, left thousands without power, and killed one person.",
+   "sources": [
+    "Xinhua News Agency",
+    "UNN"
    ]
   }
  ],
@@ -4558,11 +4583,11 @@
   },
   {
    "date": "2026-08-10",
-   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 265",
+   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 273",
    "category": "natural-disaster",
    "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
-   "lives_lost": 265,
-   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 265 people by Wednesday, with about 500 still missing and thousands injured, as buildings collapsed across Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding. Colombia's national forensic institute said it had received 202 bodies and the Association of Capital Cities reported 241 dead, with search and rescue continuing.",
+   "lives_lost": 273,
+   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 273 people by August 14, with about 500 still missing and thousands injured, as buildings collapsed across Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding.",
    "sources": [
     "AP News",
     "Reuters",

@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-13",
-  "total": 625
+  "last_date": "2026-08-14",
+  "total": 627
  },
  "promises": {
-  "last_date": "2026-08-13",
-  "total": 414
+  "last_date": "2026-08-14",
+  "total": 415
  },
- "last_updated": "2026-08-13T15:12:00Z",
+ "last_updated": "2026-08-14T00:25:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos-corporate (bofa-250b-critical-infrastructure-2027)"
+  "last_focus": "track-c: orgs-treaties (gef9-3.9b-2026-2030)"
  }
 }
