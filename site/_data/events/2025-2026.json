@@ -883,14 +883,27 @@
  },
  {
   "date": "2026-08-13",
-  "title": "Record rainfall floods eastern Japan, killing one",
+  "title": "Record rainfall floods eastern Japan, killing four",
   "category": "natural-disaster",
   "location": "Chiba Prefecture, Japan",
-  "lives_lost": 1,
-  "description": "Heavy rain pounded eastern Japan on August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, left thousands without power, and killed one person.",
+  "lives_lost": 4,
+  "description": "Heavy rain pounded eastern Japan starting August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, stranded thousands including at Narita airport, left more than 400,000 under evacuation orders, and killed four people with one missing.",
   "sources": [
    "Xinhua News Agency",
-   "UNN"
+   "ABC News",
+   "Tempo"
+  ]
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Explosion at Fujian shipyard kills firefighter",
+  "category": "industrial",
+  "location": "Fu'an, Fujian Province, China",
+  "lives_lost": 1,
+  "description": "A fire broke out on a ship at the Huahai shipbuilding plant in Gantang township, Fu'an, Fujian Province, on the afternoon of August 13, 2026, and an explosion occurred about an hour into firefighting operations. Twelve people were injured, including 10 firefighters, and one firefighter, Chi Kejie, 23, was confirmed dead despite medical efforts, according to the city's fire and rescue bureau.",
+  "sources": [
+   "China Daily",
+   "Yonhap News Agency"
   ]
  },
  {
@@ -1010,6 +1023,30 @@
   "sources": [
    "Xinhua",
    "Reuters"
+  ]
+ },
+ {
+  "date": "2026-08-14",
+  "title": "Russian double drone strike on Sumy region kills woman and nine-year-old boy",
+  "category": "war",
+  "location": "Buryn community, Sumy Region, Ukraine",
+  "lives_lost": 2,
+  "description": "Russian forces launched a double strike with jet-powered UAVs on a private home in the Buryn community of Ukraine's Sumy region early on August 14, 2026, killing a 29-year-old woman and her nine-year-old son and wounding four others, including the boy's father and grandmother who were hospitalized with severe burns. The attack caused extensive damage and sparked a fire, according to the Sumy Regional Military Administration.",
+  "sources": [
+   "AP News",
+   "Ukrinform"
+  ]
+ },
+ {
+  "date": "2026-08-14",
+  "title": "Russian glide bomb hits apartment block in Donetsk region, killing one",
+  "category": "war",
+  "location": "Donetsk Region, Ukraine",
+  "lives_lost": 1,
+  "description": "A Russian glide bomb demolished six floors of a 10-story apartment block in Ukraine's eastern Donetsk region on August 14, 2026, killing one person and wounding at least 16 others, Ukrainian President Volodymyr Zelenskyy said. Reports from Kramatorsk described 17 wounded in the glide bomb attack.",
+  "sources": [
+   "AP News",
+   "Ukrinform"
   ]
  },
  {
