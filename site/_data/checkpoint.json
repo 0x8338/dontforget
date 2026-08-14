@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-14",
-  "total": 633
+  "total": 635
  },
  "promises": {
   "last_date": "2026-08-14",
   "total": 415
  },
- "last_updated": "2026-08-14T16:25:00Z",
+ "last_updated": "2026-08-14T23:55:00Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-c: orgs-treaties (gef9-3.9b-2026-2030)"

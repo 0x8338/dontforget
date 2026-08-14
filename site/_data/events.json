@@ -4234,6 +4234,18 @@
     "Reuters",
     "Il Messaggero"
    ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Suspected murder-suicide shooting on Staten Island kills two",
+   "category": "gun-violence",
+   "location": "Staten Island, New York, United States",
+   "lives_lost": 2,
+   "description": "A man and a woman were found shot to death in a suspected murder-suicide at a home on Garth Court in Staten Island, New York, on August 13, 2026. Police responded to a domestic incident at the residence, where both were declared dead.",
+   "sources": [
+    "New York Daily News",
+    "SILive"
+   ]
   }
  ],
  "09-26": [
@@ -5164,6 +5176,18 @@
    "sources": [
     "AP News",
     "Ukrinform"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "title": "Helicopter crash in Sehmatal, Saxony kills pilot",
+   "category": "industrial",
+   "location": "Sehmatal, Saxony, Germany",
+   "lives_lost": 1,
+   "description": "A helicopter crashed and burned in a forest near Sehmatal in the Erzgebirge, Saxony, at about 9:55 a.m. on August 14, 2026, killing the pilot. Workers pulled the pilot from the aircraft but he died at the crash site. The helicopter had been in use for lime-spreading in the forest; criminal police and the German Federal Bureau of Aircraft Accident Investigation began investigating the cause.",
+   "sources": [
+    "MDR",
+    "Aviation Safety Network"
    ]
   }
  ],
