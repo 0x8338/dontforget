@@ -4176,15 +4176,15 @@
   },
   {
    "date": "2026-08-13",
-   "title": "Record rainfall floods eastern Japan, killing four",
+   "title": "Record rainfall floods eastern Japan, killing eight",
    "category": "natural-disaster",
    "location": "Chiba Prefecture, Japan",
-   "lives_lost": 4,
-   "description": "Heavy rain pounded eastern Japan starting August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, stranded thousands including at Narita airport, left more than 400,000 under evacuation orders, and killed four people with one missing.",
+   "lives_lost": 8,
+   "description": "Heavy rain pounded eastern Japan starting August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, stranded thousands including at Narita airport, left hundreds of thousands under evacuation orders, and killed eight people.",
    "sources": [
     "Xinhua News Agency",
-    "ABC News",
-    "Tempo"
+    "Anadolu Agency",
+    "The Star"
    ]
   },
   {
@@ -4221,6 +4221,18 @@
    "sources": [
     "India TV",
     "LatestLY"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Bomb blast kills defected naval officer in Sevastopol",
+   "category": "war",
+   "location": "Sevastopol, Crimea",
+   "lives_lost": 1,
+   "description": "Robert Shageyev, a former Ukrainian naval officer who commanded the submarine Zaporizhzhia and defected to Russia during the 2014 annexation of Crimea, was killed by an explosive device in Sevastopol on August 13, 2026, in what regional governor Mikhail Razvozhayev called a targeted assassination plot. Russia's Federal Security Service confirmed the death of the military official and detained a Russian woman suspected of carrying out the attack on instructions from Ukrainian intelligence agencies.",
+   "sources": [
+    "Reuters",
+    "Il Messaggero"
    ]
   }
  ],
@@ -7488,10 +7500,10 @@
   },
   {
    "date": "2026-08-11",
-   "title": "Ferry capsizes on Lake Kariba killing 44",
+   "title": "Ferry capsizes on Lake Kariba killing 46",
    "category": "industrial",
    "location": "Lake Kariba, Zimbabwe",
-   "lives_lost": 44,
+   "lives_lost": 46,
    "description": "An overloaded passenger ferry capsized on Lake Kariba after being hit by strong waves on Tuesday afternoon. Police confirmed at least 44 people died, including children, and dozens of others were rescued; President Emmerson Mnangagwa declared the incident a state of disaster.",
    "sources": [
     "AP News",
