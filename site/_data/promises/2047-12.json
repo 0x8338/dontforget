@@ -1,0 +1,22 @@
+[
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "India will generate 100 GW of nuclear power by 2047",
+  "date_promised": "2026-08-15",
+  "due_date": "2047-12-31",
+  "status": "pending",
+  "description": "In his Independence Day 2026 address from the Red Fort on August 15, Prime Minister Narendra Modi announced a mega nuclear push, aiming for 100 GW of nuclear power capacity by 2047 as part of the Viksit Bharat development roadmap.",
+  "evidence": [
+   "August 15, 2026 Independence Day speech announcing 100 GW nuclear target by 2047"
+  ],
+  "sources": [
+   "Odisha TV",
+   "Lokmat Times"
+  ],
+  "source_urls": [
+   "https://odishatv.in/national/independence-day-2026-pm-modi-announces-mega-nuclear-push-eyes-100-gw-by-2047-12261889",
+   "https://www.lokmattimes.com/national/big-dreams-increase-pace-of-progress-pm-modi-outlines-roadmap-for-indias-development-energy-security/"
+  ]
+ }
+]

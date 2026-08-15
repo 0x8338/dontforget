@@ -1,0 +1,22 @@
+[
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "One crore youth will receive AI skill training in the coming year",
+  "date_promised": "2026-08-15",
+  "due_date": "2027-08-15",
+  "status": "pending",
+  "description": "In his Independence Day 2026 speech from the Red Fort on August 15, Prime Minister Narendra Modi pledged that one crore (10 million) youth will receive AI skill training over the coming year, alongside free online coaching for examination aspirants.",
+  "evidence": [
+   "August 15, 2026 Independence Day speech pledging AI training for 1 crore youth within a year"
+  ],
+  "sources": [
+   "The Economic Times",
+   "News18"
+  ],
+  "source_urls": [
+   "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/amp_articleshow/133255457.cms",
+   "https://www.news18.com/videos/india/pm-modi-s-independence-day-speech-india-s-nuclear-power-mega-plan-100gw-by-2047-big-energy-push-10274472.html"
+  ]
+ }
+]
