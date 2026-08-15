@@ -568,5 +568,26 @@
    "https://www.trendforce.com/news/2026/05/19/news-intel-18a-yields-improve-7-8-monthly-with-2h26-customers-expected-reportedly-pushes-18a-cpus-amid-tight-supply/",
    "https://www.nasdaq.com/articles/intel-ceo-touts-balance-sheet-progress-foundry-gains-and-ai-cpu-demand"
   ]
+ },
+ {
+  "person": "Lee Jae-myung",
+  "role": "President of South Korea",
+  "promise": "\"Let us put down our intentions to threaten each other and begin discussions to end the long-running war as the directly involved parties\" - propose dialogue with North Korea to officially end the Korean War and halt its nuclear program",
+  "date_promised": "2026-08-15",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "In his Liberation Day address on August 15, 2026, President Lee Jae-myung proposed that South and North Korea begin discussions as the directly involved parties to end the Korean War, adding that the talks could also address effective ways to halt the advancement of the North's nuclear capabilities. He pledged preemptive and consistent measures for peace and said Seoul did not seek absorption-style unification. No formal deadline was set; the end of 2026 is used as a review horizon.",
+  "evidence": [
+   "Liberation Day (Gwangbokjeol) address, August 15, 2026, proposing end-of-war dialogue",
+   "No explicit deadline announced; review horizon end of 2026"
+  ],
+  "sources": [
+   "Yonhap News Agency",
+   "The Korea Times"
+  ],
+  "source_urls": [
+   "https://en.yna.co.kr/view/AEN20260815001451315",
+   "https://www.koreatimes.co.kr/southkorea/politics/20260815/lee-proposes-talks-with-nk-to-formally-end-korean-war-halt-pyongyangs-nuclear-program"
+  ]
  }
 ]

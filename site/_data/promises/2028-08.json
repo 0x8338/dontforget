@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Seven to eight new semiconductor production plants will become operational within the next one to two years",
+  "date_promised": "2026-08-15",
+  "due_date": "2028-08-15",
+  "status": "pending",
+  "description": "In his Independence Day 2026 address from the Red Fort on August 15, Prime Minister Narendra Modi said 7-8 new semiconductor production plants are expected to become operational within the next one to two years, strengthening India's domestic chip manufacturing capability as part of the self-reliance push. The one-to-two-year timeline is used to set the review horizon.",
+  "evidence": [
+   "August 15, 2026 Independence Day speech announcing 7-8 new semiconductor plants in 1-2 years",
+   "Timeline of 1-2 years implies operational by August 2028 at the latest"
+  ],
+  "sources": [
+   "The Economic Times",
+   "Hindustan Times"
+  ],
+  "source_urls": [
+   "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/amp_articleshow/133255457.cms",
+   "https://www.hindustantimes.com/india-news/semiconductor-plants-energy-security-pm-modi-renews-push-for-aatmanirbhar-bharat-self-reliant-india-101786765019165.html"
+  ]
+ }
+]

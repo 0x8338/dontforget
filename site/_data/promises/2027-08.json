@@ -18,5 +18,26 @@
    "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/amp_articleshow/133255457.cms",
    "https://www.news18.com/videos/india/pm-modi-s-independence-day-speech-india-s-nuclear-power-mega-plan-100gw-by-2047-big-energy-push-10274472.html"
   ]
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Provide free online coaching for various competitive examinations for the youth",
+  "date_promised": "2026-08-15",
+  "due_date": "2027-08-15",
+  "status": "pending",
+  "description": "In his Independence Day 2026 address from the Red Fort on August 15, Prime Minister Narendra Modi announced free online coaching for students preparing for competitive examinations, saying coaching classes had become a burden on poor and middle-class families. He cited India's digital public infrastructure and talented teachers as the basis for the initiative. No formal start deadline was announced; one year from the pledge is used as a review horizon.",
+  "evidence": [
+   "August 15, 2026 Independence Day speech announcing free online coaching",
+   "Announcement framed as immediate government decision; no explicit rollout date"
+  ],
+  "sources": [
+   "Hindustan Times",
+   "News18"
+  ],
+  "source_urls": [
+   "https://www.hindustantimes.com/india-news/pm-modi-announces-free-online-coaching-for-competitive-exams-in-independence-day-speech-101786763652348.html",
+   "https://www.news18.com/india/pm-modi-announces-free-online-coaching-for-competitive-exams-in-independence-day-speech-ws-l-10274488.html"
+  ]
  }
 ]
