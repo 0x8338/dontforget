@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-15",
-  "total": 640
+  "total": 641
  },
  "promises": {
   "last_date": "2026-08-15",
   "total": 420
  },
- "last_updated": "2026-08-15T10:54:20Z",
+ "last_updated": "2026-08-15T11:01:21Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-a: world-leaders (modi-100gw-nuclear-2047, modi-ai-training-1cr-youth-2027)"
