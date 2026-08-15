@@ -187,5 +187,26 @@
    "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-",
    "https://finance.yahoo.com/news/ford-motor-q4-earnings-call-040824879.html"
   ]
+ },
+ {
+  "person": "Aliko Dangote",
+  "role": "President and CEO of Dangote Group",
+  "promise": "Invest $2 billion in The Gambia, including a 250 MW solar power plant and a modern petroleum products storage terminal",
+  "date_promised": "2026-07-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "President Adama Barrow announced that Aliko Dangote committed to invest US$2 billion in The Gambia following a meeting in Banjul on July 7, 2026, on the sidelines of the African Caucus. The pledge covers a 250 MW solar power plant and a modern petroleum products storage terminal. The agreement remains preliminary: binding agreements, technical and feasibility studies, and implementation structures still need to be finalized, and no construction timeline or funding breakdown was disclosed; the end of 2029 is used as a review horizon.",
+  "evidence": [
+   "Announced by President Barrow after July 7, 2026 Banjul meeting; reported July 9, 2026",
+   "Preliminary commitment; no construction timeline disclosed"
+  ],
+  "sources": [
+   "Ecofin Agency",
+   "FOROYAA Newspaper"
+  ],
+  "source_urls": [
+   "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
+   "https://allafrica.com/stories/202607090641.html"
+  ]
  }
 ]

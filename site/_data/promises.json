@@ -8069,5 +8069,47 @@
    "https://m.economictimes.com/news/india/pm-modi-independence-day-2026-announcements-ai-training-for-1-crore-youth-free-coaching-7-new-semiconductor-plants-more/amp_articleshow/133255457.cms",
    "https://www.hindustantimes.com/india-news/semiconductor-plants-energy-security-pm-modi-renews-push-for-aatmanirbhar-bharat-self-reliant-india-101786765019165.html"
   ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of Nvidia",
+  "promise": "Nvidia will raise over $500 billion in third-party capital for AI infrastructure through compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR",
+  "date_promised": "2026-08-10",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "On August 10, 2026, Nvidia signed memorandums of understanding with six major financial institutions - Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR - to launch compute financing platforms aimed at raising more than $500 billion in third-party capital for AI infrastructure. Nvidia CEO Jensen Huang said the company has the option to backstop up to $125 billion (25%) of the potential deals. No deployment timetable was disclosed; the end of 2028 is used as a review horizon.",
+  "evidence": [
+   "MOUs with six firms announced August 10, 2026; Reuters and CNN coverage August 11-12",
+   "No timetable disclosed; Huang confirmed up to $125 billion Nvidia backstop option"
+  ],
+  "sources": [
+   "Reuters",
+   "CNN Business"
+  ],
+  "source_urls": [
+   "https://www.khaleejtimes.com/business/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout",
+   "https://edition.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl"
+  ]
+ },
+ {
+  "person": "Aliko Dangote",
+  "role": "President and CEO of Dangote Group",
+  "promise": "Invest $2 billion in The Gambia, including a 250 MW solar power plant and a modern petroleum products storage terminal",
+  "date_promised": "2026-07-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "President Adama Barrow announced that Aliko Dangote committed to invest US$2 billion in The Gambia following a meeting in Banjul on July 7, 2026, on the sidelines of the African Caucus. The pledge covers a 250 MW solar power plant and a modern petroleum products storage terminal. The agreement remains preliminary: binding agreements, technical and feasibility studies, and implementation structures still need to be finalized, and no construction timeline or funding breakdown was disclosed; the end of 2029 is used as a review horizon.",
+  "evidence": [
+   "Announced by President Barrow after July 7, 2026 Banjul meeting; reported July 9, 2026",
+   "Preliminary commitment; no construction timeline disclosed"
+  ],
+  "sources": [
+   "Ecofin Agency",
+   "FOROYAA Newspaper"
+  ],
+  "source_urls": [
+   "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
+   "https://allafrica.com/stories/202607090641.html"
+  ]
  }
 ]

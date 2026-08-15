@@ -5,11 +5,11 @@
  },
  "promises": {
   "last_date": "2026-08-15",
-  "total": 420
+  "total": 422
  },
- "last_updated": "2026-08-15T11:01:21Z",
+ "last_updated": "2026-08-15T14:37:09Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a: world-leaders (modi-100gw-nuclear-2047, modi-ai-training-1cr-youth-2027)"
+  "last_focus": "track-b: CEOs-corporate (nvidia-500b-ai-financing-2026, dangote-2b-gambia-2026)"
  }
 }

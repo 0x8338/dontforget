@@ -63,5 +63,26 @@
    "https://www.ecofinagency.com/news/2905-56001-kenya-pledges-58-million-to-combat-preventable-maternal-and-newborn-deaths",
    "https://www.the-star.co.ke/counties/2026-06-02-shas-sh4bn-jackpot-for-pregnant-women"
   ]
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of Nvidia",
+  "promise": "Nvidia will raise over $500 billion in third-party capital for AI infrastructure through compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR",
+  "date_promised": "2026-08-10",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "On August 10, 2026, Nvidia signed memorandums of understanding with six major financial institutions - Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR - to launch compute financing platforms aimed at raising more than $500 billion in third-party capital for AI infrastructure. Nvidia CEO Jensen Huang said the company has the option to backstop up to $125 billion (25%) of the potential deals. No deployment timetable was disclosed; the end of 2028 is used as a review horizon.",
+  "evidence": [
+   "MOUs with six firms announced August 10, 2026; Reuters and CNN coverage August 11-12",
+   "No timetable disclosed; Huang confirmed up to $125 billion Nvidia backstop option"
+  ],
+  "sources": [
+   "Reuters",
+   "CNN Business"
+  ],
+  "source_urls": [
+   "https://www.khaleejtimes.com/business/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout",
+   "https://edition.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl"
+  ]
  }
 ]
