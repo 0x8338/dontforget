@@ -320,5 +320,26 @@
    "https://www.emirates247.com/world/european-commission-commits-74-million-for-international-coalition-to-strengthen-global-health-epidemic-preparedness/1777",
    "https://www.devex.com/news/eu-singapore-pledge-nearly-100m-for-cepi-amid-fresh-ebola-outbreak-112536"
   ]
+ },
+ {
+  "person": "Nvidia (Jensen Huang, CEO)",
+  "role": "Nvidia / OpenAI Ohio data center financing",
+  "promise": "Provide a financial guarantee for OpenAI's Ohio data center project, planned at up to $250 billion and scaled back to under $120 billion covering only the first phase",
+  "date_promised": "2026-08-14",
+  "due_date": "2027-12-31",
+  "status": "partial",
+  "description": "Nvidia and OpenAI were nearing an agreement in mid-August 2026 under which the chipmaker would provide a financial backstop for OpenAI's 10-gigawatt Ohio data center campus developed with SoftBank's SB Energy. The Wall Street Journal reported that the planned guarantee was cut from about $250 billion to below $120 billion, covering only the first phase of the project, as Nvidia shifted AI financing risk toward a broader $500 billion compute-financing platform. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "WSJ report (August 13-14, 2026): guarantee scaled back from ~$250 billion to under $120 billion",
+   "Reuters/ET and edgen.tech: backstop now covers only phase 1 of the 10-GW Ohio campus"
+  ],
+  "sources": [
+   "The Economic Times (Reuters)",
+   "edgen.tech"
+  ],
+  "source_urls": [
+   "https://m.economictimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/amp_articleshow/133253982.cms",
+   "https://www.edgen.tech/zh/news/post/nvidia-trims-openai-guarantee-to-120-billion-as-ai-financing-shifts"
+  ]
  }
 ]
