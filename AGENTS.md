@@ -127,3 +127,10 @@ Before declaring a run complete, confirm:
 - No overdue promises remain `pending` without a documented reason.
 - The commit pushed to `origin main` contains only `site/_data` changes (plus any
   intentional doc edits).
+
+## Learned corrections
+
+- Track corporate financing/commitment changes as promises too. When a company (e.g. Nvidia) announces, scales, or
+  reverses a financial commitment (like the OpenAI Ohio data-center guarantee cut from $250B to under $120B), record
+  it in promises.json with status partial/pending — don't dismiss it as "just a business development". Applies to
+  guarantee changes, deal rescopes, and financing pledges with explicit numbers.
