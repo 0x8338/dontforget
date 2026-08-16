@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-15",
-  "total": 641
+  "last_date": "2026-08-16",
+  "total": 644
  },
  "promises": {
-  "last_date": "2026-08-15",
-  "total": 422
+  "last_date": "2026-08-16",
+  "total": 425
  },
- "last_updated": "2026-08-15T14:37:09Z",
+ "last_updated": "2026-08-16T02:51:56Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: CEOs-corporate (nvidia-500b-ai-financing-2026, dangote-2b-gambia-2026)"
+  "last_focus": "track-c: orgs-treaties (hungary-eu10bn-rrf-2026, eu-90bn-ukraine-loan, eu-cepi-74m)"
  }
 }

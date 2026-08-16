@@ -8111,5 +8111,70 @@
    "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
    "https://allafrica.com/stories/202607090641.html"
   ]
+ },
+ {
+  "person": "Hungary (Tisza government)",
+  "role": "Government of Hungary / EU Recovery and Resilience Facility",
+  "promise": "Complete all milestones and targets required to unlock the full 10 billion euros in EU recovery funds by August 31, 2026",
+  "date_promised": "2026-08-13",
+  "due_date": "2026-08-31",
+  "status": "pending",
+  "description": "The Tisza government, elected in April 2026, is racing to document compliance with the EU's Recovery and Resilience Facility milestones before the August 31, 2026 deadline to unlock about 10 billion euros in previously frozen funds (roughly 6.5 billion in grants and 3.5 billion in soft loans). Transport and Investment Minister David Vitezy said on August 15 the government was working to recover the full amount, including reapplying in Brussels after years of blocked funds under the previous government.",
+  "evidence": [
+   "EU Council of Finance Ministers cleared the way on July 10, 2026; deadline for all milestones is August 31, 2026",
+   "Minister Vitezy confirmed the full 10 billion euro recovery target at the August 15 government briefing"
+  ],
+  "sources": [
+   "MrEast.eu",
+   "The Budapest Times"
+  ],
+  "source_urls": [
+   "https://www.mreast.eu/2026/08/hungary-races-deadline-on-e10bn-eu-fund-release/",
+   "https://www.budapesttimes.hu/hungary/minister-vows-to-recover-full-e10bn-eu-recovery-fund-overhaul-motorway-contracts/"
+  ]
+ },
+ {
+  "person": "European Union",
+  "role": "EU member states",
+  "promise": "Provide Ukraine a 90-billion-euro loan to support its government and military over the next two years",
+  "date_promised": "2025-12-19",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "European Union leaders reached a hard-fought agreement on December 19, 2025 to provide Ukraine a 90-billion-euro loan designed to keep the country's government and military operational over the next two years. The financing, backed by the EU's common budget, came after more than 24 hours of negotiations in Brussels, where talks were initially stalled over whether to use frozen Russian assets to fund the plan. European Parliament later approved enhanced cooperation for the loan.",
+  "evidence": [
+   "Agreement announced by European Council President Antonio Costa, December 19-20, 2025",
+   "European Parliament approved enhanced cooperation mechanism for the 90-billion-euro loan"
+  ],
+  "sources": [
+   "Xinhua News Agency",
+   "Interfax",
+   "Ukrinform"
+  ],
+  "source_urls": [
+   "https://english.news.cn/20251220/0f155b7135d748d887ef2ae2b80e6f48/c.html",
+   "https://interfax.com/newsroom/top-stories/115374/",
+   "https://www.ukrinform.net/rubric-economy/4082790-european-parliament-approves-enhanced-cooperation-for-90-billion-eu-loan-to-ukraine.html"
+  ]
+ },
+ {
+  "person": "European Commission",
+  "role": "EU executive",
+  "promise": "Commit close to 74 million euros to the Coalition for Epidemic Preparedness Innovations (CEPI) under the Global Health Resilience Initiative",
+  "date_promised": "2026-05-20",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "The European Commission committed close to 74 million euros to CEPI as part of the Global Health Resilience Initiative, reinforcing joint efforts to accelerate vaccine research and development and improve the world's ability to respond rapidly to health emergencies. The announcement came amid a fresh Ebola outbreak in the Democratic Republic of Congo. No disbursement deadline was disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "Commitment announced May 20, 2026 under the Global Health Resilience Initiative",
+   "No disbursement timeline disclosed; review horizon end of 2027"
+  ],
+  "sources": [
+   "WAM (Emirates News Agency)",
+   "Devex"
+  ],
+  "source_urls": [
+   "https://www.emirates247.com/world/european-commission-commits-74-million-for-international-coalition-to-strengthen-global-health-epidemic-preparedness/1777",
+   "https://www.devex.com/news/eu-singapore-pledge-nearly-100m-for-cepi-amid-fresh-ebola-outbreak-112536"
+  ]
  }
 ]

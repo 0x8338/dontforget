@@ -42,5 +42,26 @@
    "https://www.debate.com.mx/politica/gobierno-de-sheinbaum-definira-a-finales-de-agosto-propuesta-sobre-celulares-y-redes-sociales-20260803-0123.html",
    "https://mexico.quadratin.com.mx/anuncia-sheinbaum-jornada-de-reforestacion-en-todo-mexico/"
   ]
+ },
+ {
+  "person": "Hungary (Tisza government)",
+  "role": "Government of Hungary / EU Recovery and Resilience Facility",
+  "promise": "Complete all milestones and targets required to unlock the full 10 billion euros in EU recovery funds by August 31, 2026",
+  "date_promised": "2026-08-13",
+  "due_date": "2026-08-31",
+  "status": "pending",
+  "description": "The Tisza government, elected in April 2026, is racing to document compliance with the EU's Recovery and Resilience Facility milestones before the August 31, 2026 deadline to unlock about 10 billion euros in previously frozen funds (roughly 6.5 billion in grants and 3.5 billion in soft loans). Transport and Investment Minister David Vitezy said on August 15 the government was working to recover the full amount, including reapplying in Brussels after years of blocked funds under the previous government.",
+  "evidence": [
+   "EU Council of Finance Ministers cleared the way on July 10, 2026; deadline for all milestones is August 31, 2026",
+   "Minister Vitezy confirmed the full 10 billion euro recovery target at the August 15 government briefing"
+  ],
+  "sources": [
+   "MrEast.eu",
+   "The Budapest Times"
+  ],
+  "source_urls": [
+   "https://www.mreast.eu/2026/08/hungary-races-deadline-on-e10bn-eu-fund-release/",
+   "https://www.budapesttimes.hu/hungary/minister-vows-to-recover-full-e10bn-eu-recovery-fund-overhaul-motorway-contracts/"
+  ]
  }
 ]

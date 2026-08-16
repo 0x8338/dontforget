@@ -4176,15 +4176,17 @@
   },
   {
    "date": "2026-08-13",
-   "title": "Record rainfall floods eastern Japan, killing eight",
+   "title": "Record rainfall floods eastern Japan, killing nine",
    "category": "natural-disaster",
    "location": "Chiba Prefecture, Japan",
-   "lives_lost": 8,
-   "description": "Heavy rain pounded eastern Japan starting August 13, 2026, prompting the Japan Meteorological Agency to issue a Level Five Emergency Warning, the highest on its scale, for 18 cities and one town in Chiba Prefecture near Tokyo, with a landslide warning for Chiba and Ichihara. Record rainfall flooded homes and roads, stranded thousands including at Narita airport, left hundreds of thousands under evacuation orders, and killed eight people.",
+   "lives_lost": 9,
+   "description": "Record rainfall from a stalled weather system flooded large parts of Chiba Prefecture east of Tokyo starting August 13, killing nine people and leaving one man missing, with more than a thousand homes inundated and hundreds of residents in evacuation shelters. Rivers overflowed, roads were blocked and thousands of households lost power across the prefecture.",
    "sources": [
     "Xinhua News Agency",
     "Anadolu Agency",
-    "The Star"
+    "The Star",
+    "Jiji Press",
+    "CNR"
    ]
   },
   {
@@ -4245,6 +4247,18 @@
    "sources": [
     "New York Daily News",
     "SILive"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "title": "Firecracker factory explosion near Sivakasi kills two workers",
+   "category": "industrial",
+   "location": "Sivakasi, Virudhunagar, Tamil Nadu, India",
+   "lives_lost": 2,
+   "description": "At least two workers were killed in a massive explosion and fire at a firecracker factory near Sivakasi in Virudhunagar district, Tamil Nadu. The blast occurred while a newly purchased machine used to mix chemicals was being tested; firefighters battled the blaze and authorities launched an inquiry into safety failures at the plant.",
+   "sources": [
+    "Xinhua News Agency",
+    "ETV Bharat"
    ]
   }
  ],
@@ -5204,16 +5218,18 @@
   },
   {
    "date": "2026-08-14",
-   "title": "Magnitude 7.7 earthquake off Indonesia kills at least 38",
+   "title": "Magnitude 7.7 earthquake off Indonesia kills at least 47",
    "category": "natural-disaster",
    "location": "Nagekeo District, East Nusa Tenggara, Indonesia",
-   "lives_lost": 38,
-   "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 38 as rescuers raced to reach residents trapped under collapsed buildings, with two people critically injured and 11 lightly injured, and about 2,000 evacuated. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
+   "lives_lost": 47,
+   "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 47 as rescuers raced to reach residents trapped under collapsed buildings, with hundreds of homes damaged and thousands forced to evacuate. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
    "sources": [
     "Antara News",
     "Rappler",
     "RTVE",
-    "Bernama"
+    "Bernama",
+    "Anadolu Agency",
+    "Xinhua News Agency"
    ]
   },
   {
@@ -6324,6 +6340,19 @@
    "sources": [
     "USGS",
     "BBC News"
+   ]
+  },
+  {
+   "date": "2026-08-15",
+   "title": "Russian drone strike on Marhanets kills three-month-old baby",
+   "category": "war",
+   "location": "Marhanets, Dnipropetrovsk region, Ukraine",
+   "lives_lost": 1,
+   "description": "Russian forces struck a multi-storey building in Marhanets, Dnipropetrovsk region, with drones during a nighttime attack, killing a three-month-old boy and injuring 11 people, including children, according to regional military administration chief Oleksandr Hanzha. Rescue and clearance operations continued at the site.",
+   "sources": [
+    "Interfax-Ukraine",
+    "Ukrinform",
+    "RBC Ukraine"
    ]
   }
  ],
@@ -8912,6 +8941,20 @@
     "GBC Ghana Online",
     "Darfur24",
     "The Sudan Times"
+   ]
+  }
+ ],
+ "08-16": [
+  {
+   "date": "2026-08-16",
+   "title": "Russian night attack on Kryvyi Rih kills one and injures six",
+   "category": "war",
+   "location": "Kryvyi Rih, Dnipropetrovsk region, Ukraine",
+   "lives_lost": 1,
+   "description": "Russian forces attacked Kryvyi Rih at night, killing one person and injuring six others, with two industrial enterprises catching fire and power outages reported across the city. Regional authorities said the attack caused fires and damage to civilian infrastructure.",
+   "sources": [
+    "UNN",
+    "Mezha"
    ]
   }
  ]
