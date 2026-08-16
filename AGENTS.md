@@ -94,6 +94,31 @@ model, and the daily research is the dominant cost:
   of `split_data.py` — never hand-edit them.
 - Commit messages use UTC timestamps (see format above); push after every data commit.
 
+## Org-level docs (ops repo)
+
+Cross-project policy, plans, and runbooks for all 0x8338 projects live in the
+**private** ops repo at `/Users/pxli/ops` (GitHub: `0x8338/0x8338-ops`;
+never push its contents to any public repo). Before implementing anything
+org-level (monetization, hosting, DNS, roadmap), read the relevant doc there.
+Add new cross-project docs there — not in this repo. If that path is
+unavailable (fresh clone, other machine), proceed from the inline contracts
+in this file and note the missing repo in your session summary.
+
+## Monetization
+
+Any session touching support/donation/sponsor/ad content MUST first read the
+org-level policy doc `/Users/pxli/ops/MONETIZATION.md` (canonical, PRIVATE —
+never copy its contents into this repo). If that path is unavailable (fresh
+clone, other machine), there is no public fallback: follow the inline contract
+in this section and note the missing doc in your session summary.
+
+Contract in one breath: no ads, no widgets, no buttons — ever. Monetization on
+this site is exactly one `Support` link in the existing footer (three files:
+`site/index.html`, `site/about.html`, `site/promises/index.html`) plus an
+optional `## Support` section in `README.md`, per the doc's §6. Same
+typeface and color, single-line footer, zero new assets or dependencies.
+Never touch `site/_data` or `CUSTOM_DOMAIN.md`; stage explicit paths only.
+
 ## Verification of a finished handoff
 
 Before declaring a run complete, confirm:
