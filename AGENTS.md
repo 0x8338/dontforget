@@ -18,7 +18,7 @@ Always start from the checkpoint, never from "recent memory":
 
 ```bash
 cat site/_data/checkpoint.json      # events.last_date, promises.last_date, totals, promises_expansion.last_focus
-git status --short                  # CUSTOM_DOMAIN.md must stay dirty and untouched
+git status --short                  # working tree clean unless you just staged data
 git log --oneline -5                # last commit timestamp -> what has/hasn't run today
 date -u +%Y-%m-%dT%H:%M:%SZ         # everything is UTC
 ```
@@ -87,8 +87,7 @@ model, and the daily research is the dominant cost:
 
 ## Repo hygiene
 
-- `CUSTOM_DOMAIN.md` is a user-owned work-in-progress. **Never edit it, never stage
-  it.** Always stage explicit paths (`git add site/_data`), and check
+- Always stage explicit paths (`git add site/_data`), and check
   `git status --short` before and after.
 - Generated files under `site/_data/events/` and `site/_data/promises/` are output
   of `split_data.py` — never hand-edit them.
@@ -117,7 +116,7 @@ this site is exactly one `Support` link in the existing footer (three files:
 `site/index.html`, `site/about.html`, `site/promises/index.html`) plus an
 optional `## Support` section in `README.md`, per the doc's §6. Same
 typeface and color, single-line footer, zero new assets or dependencies.
-Never touch `site/_data` or `CUSTOM_DOMAIN.md`; stage explicit paths only.
+Never touch `site/_data`; stage explicit paths only.
 
 ## Verification of a finished handoff
 
@@ -127,4 +126,4 @@ Before declaring a run complete, confirm:
 - Checkpoint `last_date`/`total` match the actual data.
 - No overdue promises remain `pending` without a documented reason.
 - The commit pushed to `origin main` contains only `site/_data` changes (plus any
-  intentional doc edits), never `CUSTOM_DOMAIN.md`.
+  intentional doc edits).
