@@ -1137,18 +1137,19 @@
  },
  {
   "date": "2026-08-14",
-  "title": "Magnitude 7.7 earthquake off Indonesia kills at least 47",
+  "title": "Magnitude 7.7 earthquake off Indonesia kills at least 53",
   "category": "natural-disaster",
   "location": "Nagekeo District, East Nusa Tenggara, Indonesia",
-  "lives_lost": 47,
-  "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 47 as rescuers raced to reach residents trapped under collapsed buildings, with hundreds of homes damaged and thousands forced to evacuate. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
+  "lives_lost": 53,
+  "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 53 as rescuers dug through rubble and landslide debris, with thousands of displaced people spending nights outdoors fearing aftershocks. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
   "sources": [
    "Antara News",
    "Rappler",
    "RTVE",
    "Bernama",
    "Anadolu Agency",
-   "Xinhua News Agency"
+   "Xinhua News Agency",
+   "Associated Press"
   ]
  },
  {
@@ -1321,6 +1322,18 @@
    "Interfax-Ukraine",
    "Ukrinform",
    "RBC Ukraine"
+  ]
+ },
+ {
+  "date": "2026-08-15",
+  "title": "Flash flood and landslide in Ponferrada area kill two women",
+  "category": "natural-disaster",
+  "location": "Ponferrada, Castilla y León, Spain",
+  "lives_lost": 2,
+  "description": "A strong afternoon storm caused the Oza river to overflow, producing a flash flood and landslide that struck the localities of Manzanedo de Valdueza and Bouzas in the Ponferrada area, Castilla y Leon. The flood engulfed a wine cellar where six people were sheltering: two women died and two minors were treated for minor injuries, with the fate of others unknown. The flood also damaged local roads.",
+  "sources": [
+   "El Nacional",
+   "CNews"
   ]
  },
  {
@@ -2002,6 +2015,30 @@
   "sources": [
    "UNN",
    "Mezha"
+  ]
+ },
+ {
+  "date": "2026-08-16",
+  "title": "Israeli airstrikes on southern Lebanon kill 11 and injure 19",
+  "category": "war",
+  "location": "Southern Lebanon",
+  "lives_lost": 11,
+  "description": "Israeli airstrikes on southern Lebanon killed at least 11 people, including women and children, and injured 19 others, according to local reports. The strikes came amid continued cross-border escalation between Israel and Hezbollah following months of relative calm, with Israel saying it had killed a senior Hezbollah commander in the attacks.",
+  "sources": [
+   "OmidRadio",
+   "Nawaiwaqt"
+  ]
+ },
+ {
+  "date": "2026-08-16",
+  "title": "Israeli forces kill 14-year-old Palestinian in Khan Younis",
+  "category": "war",
+  "location": "Khan Younis, Gaza Strip, Palestine",
+  "lives_lost": 1,
+  "description": "A 14-year-old Palestinian boy was killed by Israeli forces in Khan Younis in the southern Gaza Strip, with his body recovered after being shot, according to Palestinian sources. The killing came amid continued Israeli operations in Gaza despite the ceasefire framework agreed earlier in the year.",
+  "sources": [
+   "Europa Press",
+   "WAFA"
   ]
  }
 ]
