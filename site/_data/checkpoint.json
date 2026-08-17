@@ -1,13 +1,13 @@
 {
  "events": {
-  "last_date": "2026-08-16",
-  "total": 647
+  "last_date": "2026-08-17",
+  "total": 652
  },
  "promises": {
   "last_date": "2026-08-16",
   "total": 427
  },
- "last_updated": "2026-08-16T15:52:28Z",
+ "last_updated": "2026-08-17T00:12:51Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-a: world-leaders (nigeria-state-police-bill-2026)"

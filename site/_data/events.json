@@ -6367,6 +6367,19 @@
     "El Nacional",
     "CNews"
    ]
+  },
+  {
+   "date": "2026-08-15",
+   "title": "Israeli airstrikes on southern Lebanon kill 11 including women and children",
+   "category": "war",
+   "location": "Southern Lebanon",
+   "lives_lost": 11,
+   "description": "Two Israeli airstrikes on southern Lebanon on August 15 killed 11 people, including three children and two women, and wounded others. One strike hit a two-story building in Deir Al Zahrani in the Nabatieh District, killing four; another struck a house in Ansar, killing seven, per the Lebanese Health Ministry. The strikes came amid renewed Israeli bombardment and shelling in Nabatieh, prompting hundreds of residents to flee toward Sidon, and were condemned by Lebanese President Joseph Aoun.",
+   "sources": [
+    "Xinhua News Agency",
+    "OmidRadio",
+    "Nawaiwaqt"
+   ]
   }
  ],
  "11-06": [
@@ -8972,18 +8985,6 @@
   },
   {
    "date": "2026-08-16",
-   "title": "Israeli airstrikes on southern Lebanon kill 11 and injure 19",
-   "category": "war",
-   "location": "Southern Lebanon",
-   "lives_lost": 11,
-   "description": "Israeli airstrikes on southern Lebanon killed at least 11 people, including women and children, and injured 19 others, according to local reports. The strikes came amid continued cross-border escalation between Israel and Hezbollah following months of relative calm, with Israel saying it had killed a senior Hezbollah commander in the attacks.",
-   "sources": [
-    "OmidRadio",
-    "Nawaiwaqt"
-   ]
-  },
-  {
-   "date": "2026-08-16",
    "title": "Israeli forces kill 14-year-old Palestinian in Khan Younis",
    "category": "war",
    "location": "Khan Younis, Gaza Strip, Palestine",
@@ -8992,6 +8993,68 @@
    "sources": [
     "Europa Press",
     "WAFA"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Historic flooding in Indiana kills seven",
+   "category": "natural-disaster",
+   "location": "Indiana, United States",
+   "lives_lost": 7,
+   "description": "Days of severe storms and record-setting rainfall produced historic flooding across Indiana, killing at least seven people by August 16, with the White River cresting at record levels and the National Guard assisting rescues. Dozens of people were rescued from vehicles and homes as rivers overflowed across the state.",
+   "sources": [
+    "Associated Press",
+    "Indianapolis Star"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Shooting at Lexington, Kentucky park kills one and injures four",
+   "category": "gun-violence",
+   "location": "Lexington, Kentucky, United States",
+   "lives_lost": 1,
+   "description": "A shooting at a park in Lexington, Kentucky, during a live band performance killed one person and injured four others, including children, on August 16, according to authorities. Police said the victims included children and an investigation was under way.",
+   "sources": [
+    "Associated Press",
+    "Fox News"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Ukraine launches one of its largest aerial attacks of the war on Russia, killing at least six",
+   "category": "war",
+   "location": "Moscow region and other areas, Russia",
+   "lives_lost": 6,
+   "description": "Ukraine launched one of its largest aerial attacks of the war overnight on August 15-16, with Russia reporting it shot down more than 800 Ukrainian drones, including 187 over the Moscow region, in what TASS called the largest Ukrainian drone attack since the start of the year. At least six people were killed in Russia, and targets included warehouses and industrial plants as well as refineries.",
+   "sources": [
+    "CNN",
+    "Associated Press"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Wildfires on Greek island of Salamina kill two and injure nine",
+   "category": "natural-disaster",
+   "location": "Salamina, Attica, Greece",
+   "lives_lost": 2,
+   "description": "Two bodies were found during firefighting operations on the Greek island of Salamina after a wildfire started around midday in a forested area of Peristeria on August 16; a second fire burned in the Selini area. Greek national broadcaster ERT, citing Fire Service sources, reported two dead and nine injured, with the identities of the victims not yet established.",
+   "sources": [
+    "Xinhua News Agency",
+    "Gloucestershire Live"
+   ]
+  }
+ ],
+ "08-17": [
+  {
+   "date": "2026-08-17",
+   "title": "Landslide hits apartment in Geoje, South Korea, killing one",
+   "category": "natural-disaster",
+   "location": "Okpo-dong, Geoje, South Gyeongsang, South Korea",
+   "lives_lost": 1,
+   "description": "A landslide triggered by extreme rainfall hit a ground-floor apartment in Okpo-dong, Geoje, South Korea, at about 4:42 a.m. on August 17, killing one person found in cardiac arrest and leaving two others rescued, with a search for more underway. Geoje received more than 700 mm of rain over the three-day Liberation Day holiday, causing streams to overflow and emergency evacuation requests.",
+   "sources": [
+    "Yonhap News Agency",
+    "SBS News"
    ]
   }
  ]
