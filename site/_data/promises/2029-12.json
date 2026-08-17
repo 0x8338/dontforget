@@ -208,5 +208,26 @@
    "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
    "https://allafrica.com/stories/202607090641.html"
   ]
+ },
+ {
+  "person": "ConocoPhillips",
+  "role": "American energy company (CEO transition to Andy O'Brien effective Sept 1, 2026)",
+  "promise": "Reach a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth and expanding LNG and Middle East opportunities",
+  "date_promised": "2026-08-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "On its second-quarter 2026 earnings call (August 7, 2026), ConocoPhillips reiterated its target of a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth, and expanding LNG and Middle East opportunities, while completing a $5 billion non-core asset disposition target ahead of schedule. The pledge is inherited by incoming CEO Andy O'Brien, who succeeds Ryan Lance effective September 1, 2026.",
+  "evidence": [
+   "Q2 2026 earnings call August 7, 2026 reiterated the 2029 free-cash-flow target",
+   "$5 billion non-core asset disposition completed ahead of schedule"
+  ],
+  "sources": [
+   "MarketBeat",
+   "Yahoo Finance"
+  ],
+  "source_urls": [
+   "https://www.marketbeat.com/instant-alerts/conocophillips-q2-earnings-call-highlights-2026-08-07/",
+   "https://sg.finance.yahoo.com/news/cop-q2-earnings-call-reinforces-190200946.html"
+  ]
  }
 ]

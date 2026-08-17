@@ -4,12 +4,12 @@
   "total": 652
  },
  "promises": {
-  "last_date": "2026-08-16",
-  "total": 427
+  "last_date": "2026-08-17",
+  "total": 429
  },
- "last_updated": "2026-08-17T00:12:51Z",
+ "last_updated": "2026-08-17T00:16:35Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a: world-leaders (nigeria-state-police-bill-2026)"
+  "last_focus": "track-b: CEOs-corporate (ypf-51b-lng-rigi-2026, conocophillips-7b-fcf-2029)"
  }
 }

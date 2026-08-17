@@ -8218,5 +8218,47 @@
    "https://m.economictimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/amp_articleshow/133253982.cms",
    "https://www.edgen.tech/zh/news/post/nvidia-trims-openai-guarantee-to-120-billion-as-ai-financing-shifts"
   ]
+ },
+ {
+  "person": "YPF (Argentina LNG project)",
+  "role": "Argentine state-controlled energy company",
+  "promise": "Invest $51 billion in the Argentina LNG project under the RIGI large-investment incentive regime to export gas from Vaca Muerta",
+  "date_promised": "2026-08-14",
+  "due_date": "2032-12-31",
+  "status": "pending",
+  "description": "On August 14, 2026, YPF announced it would file its Argentina LNG project under the Large Investment Incentive Regime (RIGI), the largest RIGI application to date at $51 billion, in a project developed with ENI and XRG to export liquefied natural gas from the Vaca Muerta formation. The project aims to position Argentina as a major LNG exporter; no completion date was disclosed, so end of 2032 is used as a review horizon.",
+  "evidence": [
+   "YPF announced the RIGI filing on August 14, 2026",
+   "Largest-ever RIGI project; developed with ENI and XRG for Vaca Muerta gas exports"
+  ],
+  "sources": [
+   "Buenos Aires Herald",
+   "CRI (China Radio International)"
+  ],
+  "source_urls": [
+   "https://buenosairesherald.com/business/energy/ypf-files-for-largest-ever-rigi-project-at-us51-billion",
+   "https://espanol.cri.cn/2026/08/15/ARTI1786761134857592"
+  ]
+ },
+ {
+  "person": "ConocoPhillips",
+  "role": "American energy company (CEO transition to Andy O'Brien effective Sept 1, 2026)",
+  "promise": "Reach a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth and expanding LNG and Middle East opportunities",
+  "date_promised": "2026-08-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "On its second-quarter 2026 earnings call (August 7, 2026), ConocoPhillips reiterated its target of a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth, and expanding LNG and Middle East opportunities, while completing a $5 billion non-core asset disposition target ahead of schedule. The pledge is inherited by incoming CEO Andy O'Brien, who succeeds Ryan Lance effective September 1, 2026.",
+  "evidence": [
+   "Q2 2026 earnings call August 7, 2026 reiterated the 2029 free-cash-flow target",
+   "$5 billion non-core asset disposition completed ahead of schedule"
+  ],
+  "sources": [
+   "MarketBeat",
+   "Yahoo Finance"
+  ],
+  "source_urls": [
+   "https://www.marketbeat.com/instant-alerts/conocophillips-q2-earnings-call-highlights-2026-08-07/",
+   "https://sg.finance.yahoo.com/news/cop-q2-earnings-call-reinforces-190200946.html"
+  ]
  }
 ]
