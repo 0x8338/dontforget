@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-08-17",
-  "total": 652
+  "total": 654
  },
  "promises": {
   "last_date": "2026-08-17",
   "total": 429
  },
- "last_updated": "2026-08-17T00:16:35Z",
+ "last_updated": "2026-08-17T14:03:34Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-b: CEOs-corporate (ypf-51b-lng-rigi-2026, conocophillips-7b-fcf-2029)"

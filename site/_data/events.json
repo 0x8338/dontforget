@@ -5218,11 +5218,11 @@
   },
   {
    "date": "2026-08-14",
-   "title": "Magnitude 7.7 earthquake off Indonesia kills at least 53",
+   "title": "Magnitude 7.7 earthquake off Indonesia kills at least 54",
    "category": "natural-disaster",
    "location": "Nagekeo District, East Nusa Tenggara, Indonesia",
-   "lives_lost": 53,
-   "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 53 as rescuers dug through rubble and landslide debris, with thousands of displaced people spending nights outdoors fearing aftershocks. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
+   "lives_lost": 54,
+   "description": "A magnitude 7.7 earthquake struck near Mbay Village in Nagekeo District, East Nusa Tenggara, Indonesia, at 5:58 a.m. local time on August 15 (21:58 UTC August 14). The death toll rose to at least 54 as rescuers dug through rubble and landslide debris amid hundreds of aftershocks, with thousands of displaced people in shelters. Buildings toppled in Maumere and elsewhere, and Indonesia's BMKG issued a Level II tsunami warning after the tremor triggered minor tsunami waves across several coastal areas.",
    "sources": [
     "Antara News",
     "Rappler",
@@ -9042,6 +9042,18 @@
     "Xinhua News Agency",
     "Gloucestershire Live"
    ]
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Polish tourist bus overturns on Hungarian motorway killing 12",
+   "category": "industrial",
+   "location": "Mezoekeresztes, Borsod-Abauj-Zemplen, Hungary",
+   "lives_lost": 12,
+   "description": "A Polish tourist bus carrying 57 passengers and two drivers overturned on the M3 motorway near Mezoekeresztes in northeastern Hungary at about 1:00 a.m. local time on August 16 (23:00 GMT August 15), killing 12 people and injuring at least 10 others. Local media reported the bus veered off the highway toward Nyiregyhaza; disaster management services and Polish medical teams responded, and the driver was detained.",
+   "sources": [
+    "Anadolu Agency",
+    "The Peninsula Qatar"
+   ]
   }
  ],
  "08-17": [
@@ -9051,10 +9063,22 @@
    "category": "natural-disaster",
    "location": "Okpo-dong, Geoje, South Gyeongsang, South Korea",
    "lives_lost": 1,
-   "description": "A landslide triggered by extreme rainfall hit a ground-floor apartment in Okpo-dong, Geoje, South Korea, at about 4:42 a.m. on August 17, killing one person found in cardiac arrest and leaving two others rescued, with a search for more underway. Geoje received more than 700 mm of rain over the three-day Liberation Day holiday, causing streams to overflow and emergency evacuation requests.",
+   "description": "A landslide triggered by extreme rainfall hit a ground-floor apartment in Okpo-dong, Geoje, South Korea, at about 4:42 a.m. on August 17, killing one person and leaving two others rescued, with four injured overall. Geoje received more than 800 mm of rain - among the heaviest rainfall totals on record in South Korea - over a few days, causing streams to overflow, roads to wash away and more than 2,000 flood reports, prompting a national fire mobilization order.",
    "sources": [
     "Yonhap News Agency",
     "SBS News"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "title": "Russian drone strike on Dniprovska mine near Pavlohrad kills one worker",
+   "category": "war",
+   "location": "Bohdanivske, Pavlohrad district, Dnipropetrovsk region, Ukraine",
+   "lives_lost": 1,
+   "description": "Russian drones struck the Bohdanivske community in the Pavlohrad district of the Dnipropetrovsk region on August 17, hitting an industrial facility and starting a fire. One worker was killed and another injured at the Dniprovska (DTEK) mine, according to Dnipropetrovsk Regional Military Administration head Oleksandr Hanzha.",
+   "sources": [
+    "Interfax-Ukraine",
+    "Ukrinform"
    ]
   }
  ]
