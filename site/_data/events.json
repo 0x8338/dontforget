@@ -9080,6 +9080,56 @@
     "Interfax-Ukraine",
     "Ukrinform"
    ]
+  },
+  {
+   "date": "2026-08-17",
+   "title": "Ukrainian missile strikes on Koloskovo in Belgorod region kill six",
+   "category": "war",
+   "location": "Koloskovo, Valuysky district, Belgorod region, Russia",
+   "lives_lost": 6,
+   "description": "Ukrainian missile strikes killed six people and wounded four others, including a child, in the village of Koloskovo in the Valuysky district of Russia's Belgorod region, about 15 km from the Ukraine border, according to acting governor Alexander Shuvaev. The attack burned a structure and damaged a vehicle, and came amid sharply escalated cross-border missile exchanges between the two countries.",
+   "sources": [
+    "AFP",
+    "The Financial Express"
+   ]
+  }
+ ],
+ "08-18": [
+  {
+   "date": "2026-08-18",
+   "title": "Russian missile strike on Pechenihy in Kharkiv region kills ten",
+   "category": "war",
+   "location": "Pechenihy, Kharkiv region, Ukraine",
+   "lives_lost": 10,
+   "description": "A Russian missile strike on the village of Pechenihy in the Kharkiv region killed 10 people and wounded 17 others, Ukrainian officials said, with President Zelenskyy vowing a response. The attack came hours after Moscow warned of consequences for Britain over Ukrainian use of UK-supplied drones, and as cross-border strikes between Russia and Ukraine intensified.",
+   "sources": [
+    "Anadolu Agency",
+    "NV (New Voice of Ukraine)"
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "title": "Pickup-truck collision on Gwalior-Bhind highway kills eight labourers",
+   "category": "industrial",
+   "location": "Bhind district, Madhya Pradesh, India",
+   "lives_lost": 8,
+   "description": "A pickup van carrying labourers collided with a truck on the Gwalior-Bhind highway in Madhya Pradesh on August 18, killing at least eight people and injuring more than 23 others. Most of the victims were migrant labourers from Lakhimpur Kheri in Uttar Pradesh; rescue operations were conducted at the scene.",
+   "sources": [
+    "NewsOnAir",
+    "Lokmat Times"
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "title": "School shooting in Zamboanga City kills one and injures nine",
+   "category": "gun-violence",
+   "location": "Zamboanga City, Philippines",
+   "lives_lost": 1,
+   "description": "A grade-7 student armed with a rifle and a pistol opened fire at the Ateneo de Zamboanga University high school on August 18 at about 8:30 a.m., killing one person and injuring nine others, all teachers and students, before taking his own life on campus. Zamboanga City Mayor Olaso confirmed the attack; police closed the campus as parents retrieved students.",
+   "sources": [
+    "CCTV (via gmw.cn)",
+    "Sohu News"
+   ]
   }
  ]
 }

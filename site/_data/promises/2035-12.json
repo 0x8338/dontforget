@@ -108,5 +108,26 @@
    "https://www.politico.com/news/2026/02/17/canada-defense-reduce-us-dependency-00784190",
    "https://www.newagebd.net/print/post/272580"
   ]
+ },
+ {
+  "person": "CATL (Contemporary Amperex Technology)",
+  "role": "Chinese battery manufacturer",
+  "promise": "Achieve carbon neutrality across the entire battery value chain by 2035, with supplier carbon-footprint data required from 2027",
+  "date_promised": "2026-08-18",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "At a launch event in Ningde on August 18, 2026, CATL announced it had achieved its 2025 carbon-neutrality target for core operations, with all 20 of its battery plants receiving carbon-neutral certification, and outlined a roadmap to carbon neutrality across its entire value chain by 2035. The company published procurement guidelines requiring suppliers to provide carbon footprint data from 2027, with favorable terms offered to suppliers accelerating decarbonization.",
+  "evidence": [
+   "Launch event in Ningde, August 18, 2026; 2025 core-operation target achieved",
+   "2035 value-chain goal with supplier carbon-footprint data required from 2027"
+  ],
+  "sources": [
+   "The Battery Magazine",
+   "Yonhap News Agency (PRNewswire)"
+  ],
+  "source_urls": [
+   "https://www.thebatterymagazine.com/catl-achieves-2025-core-operation-carbon-neutrality-target-sets-path-to-2035-value-chain-goal/",
+   "https://www.yna.co.kr/view/RPR20260817001300353?section=international/press-release"
+  ]
  }
 ]

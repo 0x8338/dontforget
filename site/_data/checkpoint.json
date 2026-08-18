@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-17",
-  "total": 654
+  "last_date": "2026-08-18",
+  "total": 658
  },
  "promises": {
-  "last_date": "2026-08-17",
-  "total": 429
+  "last_date": "2026-08-18",
+  "total": 430
  },
- "last_updated": "2026-08-17T14:03:34Z",
+ "last_updated": "2026-08-18T11:49:14Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: CEOs-corporate (ypf-51b-lng-rigi-2026, conocophillips-7b-fcf-2029)"
+  "last_focus": "track-b: CEOs-corporate (catl-2035-value-chain-carbon-neutrality)"
  }
 }
