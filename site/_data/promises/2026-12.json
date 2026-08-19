@@ -589,5 +589,26 @@
    "https://en.yna.co.kr/view/AEN20260815001451315",
    "https://www.koreatimes.co.kr/southkorea/politics/20260815/lee-proposes-talks-with-nk-to-formally-end-korean-war-halt-pyongyangs-nuclear-program"
   ]
+ },
+ {
+  "person": "Andy Burnham",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "\"We did it in the pandemic. We can do it again. But it needs all of us.\" - get every rough sleeper off the streets by Christmas",
+  "date_promised": "2026-08-18",
+  "due_date": "2026-12-25",
+  "status": "pending",
+  "description": "Prime Minister Andy Burnham launched a national drive on August 18, 2026 to get rough sleepers off the streets by Christmas, backed by a boosted 442 million pounds (666 million dollars) in funding, with areas facing the highest levels of homelessness receiving the largest share. He also announced the first national summit dedicated to tackling rough sleeping, to be held later in the year. The number of rough sleepers in England reached a record 4,793 in 2025.",
+  "evidence": [
+   "National drive launched August 18, 2026 at Wolverhampton Bus Station",
+   "Funding boosted to 442 million pounds; national summit planned for later in 2026"
+  ],
+  "sources": [
+   "GOV.UK",
+   "The Peninsula Qatar"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/news/prime-minister-launches-national-drive-to-get-everyone-in-for-christmas",
+   "https://thepeninsulaqatar.com/article/19/08/2026/uk-pm-unveils-plan-to-help-rough-sleepers-off-streets-by-christmas"
+  ]
  }
 ]

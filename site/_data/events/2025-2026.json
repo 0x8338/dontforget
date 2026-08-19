@@ -222,11 +222,11 @@
  },
  {
   "date": "2026-08-06",
-  "title": "Storm deaths in northern Philippines reach at least 26",
+  "title": "Storm deaths in the Philippines reach at least 27",
   "category": "natural-disaster",
   "location": "Northern Luzon, Philippines",
-  "lives_lost": 26,
-  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 26 people in the northern Philippines by August 12, including a police officer, according to the Philippine National Police. Landslides killed people in Benguet, Rizal and Batangas, including 10 in Baguio City when a rain-drenched mountainside collapsed on three houses; other victims died by drowning, falling trees, lightning and electrocution. More than 2.27 million people were affected, with school closures and evacuation centers across the north.",
+  "lives_lost": 27,
+  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 27 people across the Philippines, with 17 injured and one missing, according to the Office of Civil Defense on August 19. About 5.39 million people were affected across Luzon and Mindanao, with nearly 2,000 homes damaged and 461 evacuation centers housing about 42,000 people. Landslides and flooding were widespread, including 10 killed in Baguio City when a rain-drenched mountainside collapsed on three houses.",
   "sources": [
    "The Peninsula Qatar",
    "Ouest-France",
@@ -237,7 +237,8 @@
    "Xinhua News Agency",
    "TASS",
    "ABS-CBN News",
-   "PhilStar"
+   "PhilStar",
+   "Manila Bulletin"
   ]
  },
  {
@@ -715,6 +716,18 @@
    "The Moscow Times",
    "RTE",
    "New Straits Times"
+  ]
+ },
+ {
+  "date": "2026-08-19",
+  "title": "Torrential rains in southwest China kill ten",
+  "category": "natural-disaster",
+  "location": "Southwest China",
+  "lives_lost": 10,
+  "description": "Torrential rains across southwest China killed 10 people and forced thousands to evacuate, with flooding and landslides reported across the region. Officials warned that disaster risk remained high as further heavy rainfall was forecast, and emergency response teams were deployed to affected areas.",
+  "sources": [
+   "Reuters",
+   "The Jerusalem Post"
   ]
  },
  {
@@ -2172,6 +2185,31 @@
   "sources": [
    "CCTV (via gmw.cn)",
    "Sohu News"
+  ]
+ },
+ {
+  "date": "2026-08-18",
+  "title": "Gold mine collapse on Cameroon-CAR border kills over 100 miners",
+  "category": "industrial",
+  "location": "Zamboye, Garoua-Boulai border area, Cameroon / Central African Republic",
+  "lives_lost": 107,
+  "description": "More than 100 miners were killed when an artisanal gold mine caved in at Zamboye, a border village between Cameroon and the Central African Republic, on August 18. By August 19, 107 bodies had been recovered from the rubble, according to the local mayor Amadou Abdon, with the toll expected to rise as rescue operations continued.",
+  "sources": [
+   "Xinhua News Agency",
+   "CGTN",
+   "The Peninsula Qatar"
+  ]
+ },
+ {
+  "date": "2026-08-18",
+  "title": "Israeli airstrike on cafe near Gaza Port kills six",
+  "category": "war",
+  "location": "Gaza City, Gaza Strip, Palestine",
+  "lives_lost": 6,
+  "description": "An Israeli airstrike hit a crowded cafe near the beach at Gaza Port in Gaza City on August 18, killing six Palestinians, health authorities said. The strike came after Israel rejected a US-mediated peace plan, and as Kushner concluded a Middle East visit without a breakthrough; it was the deadliest single incident in Gaza in recent weeks.",
+  "sources": [
+   "SBS News",
+   "Reuters"
   ]
  }
 ]

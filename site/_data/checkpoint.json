@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-18",
-  "total": 658
+  "last_date": "2026-08-19",
+  "total": 661
  },
  "promises": {
-  "last_date": "2026-08-18",
-  "total": 430
+  "last_date": "2026-08-19",
+  "total": 431
  },
- "last_updated": "2026-08-18T11:49:14Z",
+ "last_updated": "2026-08-19T16:24:15Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: CEOs-corporate (catl-2035-value-chain-carbon-neutrality)"
+  "last_focus": "track-a: world-leaders (burnham-rough-sleepers-christmas-2026)"
  }
 }

@@ -1,5 +1,5 @@
 {
-  "total": 430,
+  "total": 431,
   "due_total": 305,
   "due_status": {
     "broken": 136,
@@ -173,7 +173,7 @@
     {
       "key": "2026-12",
       "file": "promises/2026-12.json",
-      "count": 28,
+      "count": 29,
       "due": false
     },
     {
