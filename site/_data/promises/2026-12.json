@@ -610,5 +610,26 @@
    "https://www.gov.uk/government/news/prime-minister-launches-national-drive-to-get-everyone-in-for-christmas",
    "https://thepeninsulaqatar.com/article/19/08/2026/uk-pm-unveils-plan-to-help-rough-sleepers-off-streets-by-christmas"
   ]
+ },
+ {
+  "person": "Samsung Electronics",
+  "role": "South Korean technology company",
+  "promise": "Return up to $80 billion to shareholders this year through dividends and share buybacks",
+  "date_promised": "2026-08-20",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Samsung Electronics announced on August 20, 2026 that it expects shareholder returns of up to $80 billion (110 trillion won) this year through dividends and record share buybacks, in a push to boost investor confidence. The program runs through the end of 2026.",
+  "evidence": [
+   "Announced August 20-21, 2026; up to 110 trillion won in returns",
+   "Program runs through end of 2026"
+  ],
+  "sources": [
+   "Bloomberg",
+   "Yonhap News Agency"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
+   "https://en.yna.co.kr/topics/solympic/view/AEN20260821010151315"
+  ]
  }
 ]

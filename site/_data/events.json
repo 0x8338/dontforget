@@ -1935,6 +1935,18 @@
     "Al Jazeera",
     "Radio Free Europe/Radio Liberty"
    ]
+  },
+  {
+   "date": "2026-08-24",
+   "title": "Montana man kills eight relatives at family dinner then dies by suicide",
+   "category": "gun-violence",
+   "location": "Billings, Montana, United States",
+   "lives_lost": 8,
+   "description": "A gunman killed eight relatives, including four children, during a Sunday dinner at a family home in Billings, Montana, on August 24, 2026, before setting the house on fire and dying by suicide. A 12-year-old girl called 911 during the attack. Police said the gunman had been asked to move out.",
+   "sources": [
+    "Associated Press",
+    "People"
+   ]
   }
  ],
  "02-27": [
@@ -4671,18 +4683,19 @@
   },
   {
    "date": "2026-08-10",
-   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 273",
+   "title": "Magnitude 7.4 earthquake in western Colombia kills at least 331",
    "category": "natural-disaster",
    "location": "Western Colombia (Choco; Cali, Pereira, Manizales, Quibdo)",
-   "lives_lost": 273,
-   "description": "A magnitude 7.4 earthquake struck western Colombia on Monday morning, August 10, killing at least 273 people by August 14, with about 500 still missing and thousands injured, as buildings collapsed across Cali, Pereira, Manizales and Quibdo. The epicenter was in San Jose del Palmar in Choco, about 400 kilometers west of Bogota; Colombia's Geological Service called it the strongest quake recorded in the country this century, and President Abelardo de la Espriella declared an emergency and three days of national mourning to expedite recovery funding.",
+   "lives_lost": 331,
+   "description": "A magnitude 7.4 earthquake struck western Colombia on August 10, 2026, with the death toll rising to at least 331 and more than 360,000 people affected, according to Colombia's National Unit for Disaster Risk Management. The quake caused widespread damage in Choco, Cali, Pereira and surrounding areas, triggering landslides and building collapses.",
    "sources": [
     "AP News",
     "Reuters",
     "Xinhua News Agency",
     "CNN",
     "Anadolu Agency",
-    "APA"
+    "APA",
+    "Europa Press"
    ]
   },
   {
@@ -6878,6 +6891,43 @@
     "Reuters",
     "BBC News"
    ]
+  },
+  {
+   "date": "2026-08-28",
+   "title": "Russian drone strike on ammunition warehouse near Kyiv kills 37",
+   "category": "war",
+   "location": "Bucha district, Kyiv region, Ukraine",
+   "lives_lost": 37,
+   "description": "A Russian drone strike on an ammunition warehouse in the Bucha district of the Kyiv region on August 28, 2026, triggered waves of explosions and a large fire, killing at least 37 people and injuring more than 40, according to Ukrainian authorities. It was one of the deadliest single attacks near the capital since the start of the war.",
+   "sources": [
+    "CNN",
+    "Anadolu Agency",
+    "RBC Ukraine"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "title": "Church minibus collision in central Zimbabwe kills 27",
+   "category": "industrial",
+   "location": "Central Zimbabwe",
+   "lives_lost": 27,
+   "description": "A minibus carrying church members collided head-on with a truck that was overtaking in central Zimbabwe on August 28, 2026, killing at least 27 people. Police reported the crash on Saturday, August 29, in the latest deadly road accident to hit the country.",
+   "sources": [
+    "Punch",
+    "Vanguard"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "title": "Israeli strikes kill five in Gaza and three in West Bank",
+   "category": "war",
+   "location": "Gaza Strip and West Bank, Palestine",
+   "lives_lost": 8,
+   "description": "Israeli airstrikes on August 28, 2026 killed five people in Gaza and three in the West Bank city of Jenin, according to Palestinian health officials. The strikes came amid continuing Israeli military operations despite the ceasefire framework, as tensions persisted across the occupied territories.",
+   "sources": [
+    "Associated Press",
+    "Ahram Online"
+   ]
   }
  ],
  "09-19": [
@@ -8096,6 +8146,20 @@
     "Associated Press",
     "BBC News"
    ]
+  },
+  {
+   "date": "2026-08-26",
+   "title": "Himalayan glacier collapse triggers catastrophic flood in Nepal and Tibet killing over 750",
+   "category": "natural-disaster",
+   "location": "Bhote Koshi valley, Rasuwagadhi, Nepal / Tibet border",
+   "lives_lost": 750,
+   "description": "A massive ice, rock and sediment collapse from approximately 5,200 metres above the Nepal-Tibet border on the morning of August 26, 2026, generated a debris flood that surged through the Bhote Koshi and Trishuli corridors, destroying settlements, roads, bridges and hydropower facilities within minutes. By August 30 the death toll exceeded 750 with nearly 3,000 missing, including more than 100 people trapped in a hydropower tunnel, and over 93,000 affected. The disaster was triggered by a glacier collapse that scientists linked to climate-driven cryosphere instability.",
+   "sources": [
+    "Yonhap News Agency",
+    "La Cronica de Hoy",
+    "Spotlight Nepal",
+    "Reuters"
+   ]
   }
  ],
  "12-10": [
@@ -9167,6 +9231,46 @@
    "sources": [
     "SBS News",
     "Reuters"
+   ]
+  }
+ ],
+ "08-20": [
+  {
+   "date": "2026-08-20",
+   "title": "Fire in commercial building in Qinhuangdao kills eight",
+   "category": "industrial",
+   "location": "Qinhuangdao, Hebei, China",
+   "lives_lost": 8,
+   "description": "A fire in a ground-floor commercial building in Haigang District, Qinhuangdao, Hebei, killed eight people and injured three others on August 20, 2026. Fire crews extinguished the blaze and an investigation into the cause was launched.",
+   "sources": [
+    "China Daily",
+    "China Internet Information Center"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "title": "Charter plane crash in western Alaska kills all eight on board",
+   "category": "industrial",
+   "location": "Western Alaska, United States",
+   "lives_lost": 8,
+   "description": "A charter aircraft crashed near a remote radar facility in western Alaska on August 20, 2026, killing all eight people on board. The US Air Force confirmed there were no survivors, and rescue teams faced difficult access to the crash site.",
+   "sources": [
+    "Anadolu Agency",
+    "WION"
+   ]
+  }
+ ],
+ "08-23": [
+  {
+   "date": "2026-08-23",
+   "title": "Gang attack on Kenscoff community in Haiti kills at least 20",
+   "category": "war",
+   "location": "Kenscoff, Port-au-Prince, Haiti",
+   "lives_lost": 20,
+   "description": "An armed gang coalition attacked the farming community of Kenscoff, east of Port-au-Prince, on the night of August 23, 2026, killing at least 20 people - with local media reporting up to 42 - and burning homes, a church and attacking a reference HIV clinic. Mayor Jean Massillon said a definitive toll was not yet possible, as gangs control about 70 percent of the capital.",
+   "sources": [
+    "EFE",
+    "La Cronica de Hoy"
    ]
   }
  ]

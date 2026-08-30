@@ -8183,19 +8183,21 @@
   "promise": "Finalize the National Policing Bill through broad public consultation, with stakeholder submissions due by August 21, 2026",
   "date_promised": "2026-08-13",
   "due_date": "2026-08-21",
-  "status": "pending",
+  "status": "kept",
   "description": "The Presidential Working Group on the State Police Bill, chaired by Chief of Staff Femi Gbajabiamila, extended the deadline for stakeholders to submit memoranda and position papers on the proposed legislation to Friday, August 21, 2026 at 5 pm. The extension was intended to broaden consultations and ensure submissions on the National Policing Bill were substantive and technically sound, ahead of developing the final bill.",
   "evidence": [
-   "Deadline extension to August 21, 2026 announced August 13, 2026",
-   "Working Group aims to deliver the National Policing Bill through broad consultation"
+   "Working Group met the August 21, 2026 submission deadline; bill drafting began",
+   "Guardian and Daily Trust confirmed the panel kept pace with the seven-week timeline (Aug 21)"
   ],
   "sources": [
-   "Naija News",
-   "New Telegraph"
+   "The Guardian",
+   "Daily Trust",
+   "AllAfrica"
   ],
   "source_urls": [
-   "https://www.naijanews.com/2026/08/13/gbajabiamila-announces-fresh-deadline-for-state-police-referendum/",
-   "https://newtelegraphng.com/state-police-gbajabiamila-announces-august-21-as-new-deadline/"
+   "https://guardian.ng/news/state-police-panel-begins-draft-bill-keeps-pace-with-seven-week-goal/",
+   "https://dailytrust.com/state-police-presidential-panel-begins-drafting-bill/",
+   "https://allafrica.com/stories/202608210305.html"
   ]
  },
  {
@@ -8301,6 +8303,69 @@
   "source_urls": [
    "https://www.gov.uk/government/news/prime-minister-launches-national-drive-to-get-everyone-in-for-christmas",
    "https://thepeninsulaqatar.com/article/19/08/2026/uk-pm-unveils-plan-to-help-rough-sleepers-off-streets-by-christmas"
+  ]
+ },
+ {
+  "person": "Micron Technology",
+  "role": "American memory and storage manufacturer",
+  "promise": "Invest $10 billion in Micron Research Labs, a U.S.-based long-horizon innovation hub for memory and AI",
+  "date_promised": "2026-08-20",
+  "due_date": "2031-12-31",
+  "status": "pending",
+  "description": "Micron announced on August 20, 2026 a $10 billion investment in Micron Research Labs, a U.S.-based long-horizon innovation hub in Boise, Idaho, to shape the future of memory and AI, adding to its U.S. manufacturing push. No completion deadline was disclosed; end of 2031 is used as a review horizon.",
+  "evidence": [
+   "Micron press release August 20, 2026 announcing the $10 billion research investment",
+   "Boise-based research hub; part of Micron's broader U.S. manufacturing expansion"
+  ],
+  "sources": [
+   "Micron Technology",
+   "ANI"
+  ],
+  "source_urls": [
+   "https://micron.gcs-web.com/news-releases/news-release-details/micron-unveils-micron-research-labs-us-based-long-horizon",
+   "https://aninews.in/news/business/micron-announces-usd-10-billion-research-investment-adds-to-us-manufacturing-push20260821095654/"
+  ]
+ },
+ {
+  "person": "Samsung Electronics",
+  "role": "South Korean technology company",
+  "promise": "Return up to $80 billion to shareholders this year through dividends and share buybacks",
+  "date_promised": "2026-08-20",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Samsung Electronics announced on August 20, 2026 that it expects shareholder returns of up to $80 billion (110 trillion won) this year through dividends and record share buybacks, in a push to boost investor confidence. The program runs through the end of 2026.",
+  "evidence": [
+   "Announced August 20-21, 2026; up to 110 trillion won in returns",
+   "Program runs through end of 2026"
+  ],
+  "sources": [
+   "Bloomberg",
+   "Yonhap News Agency"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
+   "https://en.yna.co.kr/topics/solympic/view/AEN20260821010151315"
+  ]
+ },
+ {
+  "person": "Nvidia (Jensen Huang, CEO)",
+  "role": "Nvidia / AI startup Poolside",
+  "promise": "Strike a $7 billion licensing and investment deal with AI startup Poolside",
+  "date_promised": "2026-08-22",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Nvidia reportedly struck a $7 billion licensing and investment deal with AI startup Poolside in late August 2026, a licensing playbook that sidesteps acquisition scrutiny. The deal targets dominance against rivals such as DeepSeek and OpenAI. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "Reported around August 22-24, 2026; $7 billion licensing and investment deal",
+   "Deal described as sidestepping acquisition scrutiny; targets DeepSeek/OpenAI"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Open Source For You"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
+   "https://www.opensourceforu.com/2026/08/nvidia-signs-deal-with-poolside/"
   ]
  }
 ]

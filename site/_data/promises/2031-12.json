@@ -19,5 +19,26 @@
    "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
    "https://www.reuters.com/business/apple-spend-30-billion-broadcom-chips-deal-that-will-see-colorado-factory-expand-2026-07-08/"
   ]
+ },
+ {
+  "person": "Micron Technology",
+  "role": "American memory and storage manufacturer",
+  "promise": "Invest $10 billion in Micron Research Labs, a U.S.-based long-horizon innovation hub for memory and AI",
+  "date_promised": "2026-08-20",
+  "due_date": "2031-12-31",
+  "status": "pending",
+  "description": "Micron announced on August 20, 2026 a $10 billion investment in Micron Research Labs, a U.S.-based long-horizon innovation hub in Boise, Idaho, to shape the future of memory and AI, adding to its U.S. manufacturing push. No completion deadline was disclosed; end of 2031 is used as a review horizon.",
+  "evidence": [
+   "Micron press release August 20, 2026 announcing the $10 billion research investment",
+   "Boise-based research hub; part of Micron's broader U.S. manufacturing expansion"
+  ],
+  "sources": [
+   "Micron Technology",
+   "ANI"
+  ],
+  "source_urls": [
+   "https://micron.gcs-web.com/news-releases/news-release-details/micron-unveils-micron-research-labs-us-based-long-horizon",
+   "https://aninews.in/news/business/micron-announces-usd-10-billion-research-investment-adds-to-us-manufacturing-push20260821095654/"
+  ]
  }
 ]

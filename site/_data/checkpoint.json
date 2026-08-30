@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-19",
-  "total": 661
+  "last_date": "2026-08-30",
+  "total": 669
  },
  "promises": {
-  "last_date": "2026-08-19",
-  "total": 431
+  "last_date": "2026-08-30",
+  "total": 434
  },
- "last_updated": "2026-08-19T16:24:15Z",
+ "last_updated": "2026-08-30T12:19:42Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a: world-leaders (burnham-rough-sleepers-christmas-2026)"
+  "last_focus": "track-b: CEOs-corporate (micron-10b-research-labs-2026, samsung-80b-shareholder-returns-2026, nvidia-7b-poolside-2026)"
  }
 }

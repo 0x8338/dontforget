@@ -341,5 +341,26 @@
    "https://m.economictimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/amp_articleshow/133253982.cms",
    "https://www.edgen.tech/zh/news/post/nvidia-trims-openai-guarantee-to-120-billion-as-ai-financing-shifts"
   ]
+ },
+ {
+  "person": "Nvidia (Jensen Huang, CEO)",
+  "role": "Nvidia / AI startup Poolside",
+  "promise": "Strike a $7 billion licensing and investment deal with AI startup Poolside",
+  "date_promised": "2026-08-22",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Nvidia reportedly struck a $7 billion licensing and investment deal with AI startup Poolside in late August 2026, a licensing playbook that sidesteps acquisition scrutiny. The deal targets dominance against rivals such as DeepSeek and OpenAI. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "Reported around August 22-24, 2026; $7 billion licensing and investment deal",
+   "Deal described as sidestepping acquisition scrutiny; targets DeepSeek/OpenAI"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Open Source For You"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
+   "https://www.opensourceforu.com/2026/08/nvidia-signs-deal-with-poolside/"
+  ]
  }
 ]
