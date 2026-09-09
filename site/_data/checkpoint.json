@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-08-30",
-  "total": 669
+  "last_date": "2026-09-09",
+  "total": 695
  },
  "promises": {
-  "last_date": "2026-08-30",
-  "total": 434
+  "last_date": "2026-09-09",
+  "total": 437
  },
- "last_updated": "2026-08-30T14:25:52Z",
+ "last_updated": "2026-09-09T16:54:32Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: CEOs-corporate (micron-10b-research-labs-2026, samsung-80b-shareholder-returns-2026, nvidia-7b-poolside-2026)"
+  "last_focus": "track-c: international orgs-treaties (senegal-imf-2.2b-2026, cambodia-us-angkor-sentinel-2027, eu-greenland-200m-2026)"
  }
 }

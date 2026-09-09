@@ -28,19 +28,22 @@
   "promise": "Present a national proposal to regulate cell phone and social media use in schools by the end of August 2026",
   "date_promised": "2026-08-03",
   "due_date": "2026-08-31",
-  "status": "pending",
+  "status": "partial",
   "description": "The Sheinbaum government said it would define a national proposal by the end of August 2026 to regulate cell phone and social media use in schools, aimed at recovering attention, reading and learning in classrooms for the 2026-2027 school cycle.",
   "evidence": [
-   "Government timeline of 'end of August' set in early August 2026",
-   "Proposal tied to the 2026-2027 school cycle"
+   "SEP public consultation with teachers on restricting devices in classrooms was still under way at end of August 2026 (El Imparcial, Aug 28)",
+   "Government said limits would be defined in September, after the promised end-of-August national proposal (La Razon, Aug 27)",
+   "Sheinbaum cited survey support among teachers on Sept 3 while no national proposal had been released by Sept 9 (La Jornada)"
   ],
   "sources": [
-   "Debate",
-   "Quadratín"
+   "La Razon",
+   "El Imparcial",
+   "La Jornada"
   ],
   "source_urls": [
-   "https://www.debate.com.mx/politica/gobierno-de-sheinbaum-definira-a-finales-de-agosto-propuesta-sobre-celulares-y-redes-sociales-20260803-0123.html",
-   "https://mexico.quadratin.com.mx/anuncia-sheinbaum-jornada-de-reforestacion-en-todo-mexico/"
+   "https://www.razon.com.mx/mexico/2026/08/27/gobierno-definira-en-septiembre-limite-a-celulares-en-escuelas/",
+   "https://www.elimparcial.com/mexico/2026/08/28/sheinbaum-busca-que-ni-maestros-ni-alumnos-usen-dispositivos-digitales-en-las-escuelas-sep-consulta-a-docentes-para-regular-celulares-y-tecnologia/",
+   "https://www.jornada.com.mx/noticia/2026/08/31/politica/ocho-de-cada-10-maestros-estan-a-favor-de-regular-el-uso-de-celulares-en-escuelas-sheinbaum"
   ]
  },
  {
@@ -49,19 +52,22 @@
   "promise": "Complete all milestones and targets required to unlock the full 10 billion euros in EU recovery funds by August 31, 2026",
   "date_promised": "2026-08-13",
   "due_date": "2026-08-31",
-  "status": "pending",
+  "status": "kept",
   "description": "The Tisza government, elected in April 2026, is racing to document compliance with the EU's Recovery and Resilience Facility milestones before the August 31, 2026 deadline to unlock about 10 billion euros in previously frozen funds (roughly 6.5 billion in grants and 3.5 billion in soft loans). Transport and Investment Minister David Vitezy said on August 15 the government was working to recover the full amount, including reapplying in Brussels after years of blocked funds under the previous government.",
   "evidence": [
-   "EU Council of Finance Ministers cleared the way on July 10, 2026; deadline for all milestones is August 31, 2026",
-   "Minister Vitezy confirmed the full 10 billion euro recovery target at the August 15 government briefing"
+   "Government said on Aug 31 it had met all conditions to unlock the full 10 billion euros in EU recovery funds (Euronews)",
+   "Christian Science Monitor reported Hungary fulfilled all EU requirements needed to unlock the funds",
+   "Disbursement remains subject to European Commission assessment of the evidence Hungary submitted by the deadline (mreast.eu, Sept)"
   ],
   "sources": [
-   "MrEast.eu",
-   "The Budapest Times"
+   "Euronews",
+   "The Christian Science Monitor",
+   "MrEast.eu"
   ],
   "source_urls": [
-   "https://www.mreast.eu/2026/08/hungary-races-deadline-on-e10bn-eu-fund-release/",
-   "https://www.budapesttimes.hu/hungary/minister-vows-to-recover-full-e10bn-eu-recovery-fund-overhaul-motorway-contracts/"
+   "https://www.euronews.com/my-europe/2026/08/31/hungary-says-it-has-met-all-conditions-to-unlock-full-10bn-eu-recovery-fund",
+   "https://www.csmonitor.com/News-Briefs/Hungary-has-fulfilled-all-EU-requirements-needed-to-unlock-billions-of-euros",
+   "https://www.mreast.eu/2026/09/hungary-submits-evidence-for-e10bn-eu-recovery-funds/"
   ]
  },
  {

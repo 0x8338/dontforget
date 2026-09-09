@@ -362,5 +362,28 @@
    "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
    "https://www.opensourceforu.com/2026/08/nvidia-signs-deal-with-poolside/"
   ]
+ },
+ {
+  "person": "European Commission (EU-Greenland partnership)",
+  "role": "European Commission / Greenland",
+  "promise": "Invest 200 million euros in Greenland under a new EU-Greenland partnership announced in September 2026",
+  "date_promised": "2026-09-07",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "European Commission president Ursula von der Leyen announced a 200 million euro (US$232.5 million) investment and partnership package with Greenland during a visit announced in early September 2026. The agreement's implementation timeline was not disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "Von der Leyen announced the 200-million-euro investment package during her Greenland visit (China.org.cn, Sept 8)",
+   "Package reported by multiple outlets as a partnership and investment deal for Greenland"
+  ],
+  "sources": [
+   "Xinhua",
+   "Qazinform",
+   "Vietnam News Agency"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2026-09/08/content_118684734.shtml",
+   "https://qazinform.com/news/eu-unveils-200m-investment-package-for-greenland-d53366",
+   "https://www.vietnam.vn/en/eu-cong-bo-goi-dau-tu-200-trieu-euro-danh-cho-greenland"
+  ]
  }
 ]

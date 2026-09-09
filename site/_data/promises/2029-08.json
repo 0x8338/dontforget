@@ -19,5 +19,28 @@
    "https://www.reuters.com/business/retail-consumer/trump-announces-100-billion-new-investment-pledge-apple-2025-08-06/",
    "https://investor.wedbush.com/wedbush/article/bizwire-2025-8-6-apple-increases-us-commitment-to-600-billion-announces-american-manufacturing-program"
   ]
+ },
+ {
+  "person": "Senegal / IMF",
+  "role": "Government of Senegal / International Monetary Fund",
+  "promise": "Reach a US$2.2 billion, 36-month IMF-supported programme to restore debt sustainability and support economic reforms",
+  "date_promised": "2026-09-01",
+  "due_date": "2029-08-31",
+  "status": "pending",
+  "description": "IMF staff reached a staff-level agreement with Senegal on September 1, 2026, for a new US$2.2 billion, 36-month loan programme supporting economic reforms, after an earlier arrangement was suspended over previously unreported government debt. Senegal agreed to restore debt sustainability under the programme, which still requires approval by the IMF Executive Board. End of the programme is used as the review horizon.",
+  "evidence": [
+   "Staff-level agreement announced Sept 1, 2026, covering US$2.2 billion over 36 months (Bloomberg)",
+   "Senegal agreed to restore debt sustainability in return for the IMF programme (CNBC Africa)"
+  ],
+  "sources": [
+   "Bloomberg",
+   "CNBC Africa",
+   "AFP"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-09-01/senegal-imf-reach-staff-agreement-on-2-2-billion-loan-program",
+   "https://www.cnbcafrica.com/2026/senegal-agrees-to-restore-debt-sustainability-in-return-for-imf-programme",
+   null
+  ]
  }
 ]

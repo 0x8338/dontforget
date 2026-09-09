@@ -433,6 +433,44 @@
   ]
  },
  {
+  "date": "2026-09-01",
+  "title": "US airstrikes on IRGC targets in Iran kill five",
+  "category": "war",
+  "location": "Kermanshah, Iran",
+  "lives_lost": 5,
+  "description": "The United States carried out additional airstrikes against Islamic Revolutionary Guard Corps (IRGC) targets in Iran on September 1, 2026, in response to attempted attacks on commercial shipping in the Strait of Hormuz and on US troops in the region. Five members of the IRGC Aerospace Force were killed in Kermanshah, according to US Central Command.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "CNN"
+  ]
+ },
+ {
+  "date": "2026-09-01",
+  "title": "US airstrike on wedding party in Hormozgan province kills five",
+  "category": "war",
+  "location": "Kuhestak, Hormozgan province, Iran",
+  "lives_lost": 5,
+  "description": "Iranian state media reported that an American airstrike against Iranian military targets struck a wedding party at a home in Kuhestak, Hormozgan province, on September 1, 2026, killing five civilians and wounding 63. US Vice President JD Vance said on September 3 that the United States would investigate the strike.",
+  "sources": [
+   "Al Jazeera",
+   "Middle East Eye"
+  ]
+ },
+ {
+  "date": "2026-09-01",
+  "title": "Russian missile and drone attacks on Kyiv kill at least 12",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 12,
+  "description": "Russian missile and drone attacks on Kyiv and surrounding areas on September 1, 2026, killed at least 12 people, including an Indian national, and wounded dozens more, according to Ukrainian officials. Residential buildings and other civilian infrastructure were damaged in what President Volodymyr Zelenskyy described as a continuing series of Russian strikes on the capital.",
+  "sources": [
+   "NDTV",
+   "India Today",
+   "New Voice of Ukraine"
+  ]
+ },
+ {
   "date": "2026-08-24",
   "title": "Montana man kills eight relatives at family dinner then dies by suicide",
   "category": "gun-violence",
@@ -628,6 +666,30 @@
   ]
  },
  {
+  "date": "2026-08-31",
+  "title": "Israeli strikes kill at least five across the Gaza Strip",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 5,
+  "description": "Israeli attacks across the Gaza Strip on August 31, 2026, killed at least five people, according to Palestinian health officials. The strikes hit several parts of the enclave amid the continuing Israel-Hamas war.",
+  "sources": [
+   "Al Jazeera",
+   "BSS News"
+  ]
+ },
+ {
+  "date": "2026-08-31",
+  "title": "Suspected PDF fighters kill 12 civilians in Mahlaing Township, Myanmar",
+  "category": "war",
+  "location": "Mahlaing, Mandalay Region, Myanmar",
+  "lives_lost": 12,
+  "description": "Twelve civilians were killed in an attack on Hta Man Gyi village in Mahlaing Township, Mandalay Region, on August 31, 2026, which Myanmar's military government blamed on members of the resistance-aligned People's Defence Force. State media said the attackers entered the village and opened fire on residents.",
+  "sources": [
+   "Myanmar Digital News",
+   "Myawady"
+  ]
+ },
+ {
   "date": "2025-02-19",
   "title": "Sudan famine confirmed in North Darfur camps",
   "category": "food-crisis",
@@ -794,6 +856,18 @@
    "Associated Press",
    "BBC News",
    "The Guardian"
+  ]
+ },
+ {
+  "date": "2026-09-09",
+  "title": "Explosion at weapons depot in Sarmada, Syria, kills 14",
+  "category": "industrial",
+  "location": "Sarmada, Idlib Governorate, Syria",
+  "lives_lost": 14,
+  "description": "An explosion at a weapons depot near the town of Sarmada in northern Idlib, Syria, on September 9, 2026, killed at least 14 people and injured 11 others, with more people trapped under the debris.",
+  "sources": [
+   "AP",
+   "Petra"
   ]
  },
  {
@@ -1076,6 +1150,66 @@
   ]
  },
  {
+  "date": "2026-09-08",
+  "title": "Death toll in Yemen offensive reaches 500",
+  "category": "war",
+  "location": "Taiz and Hodeidah governorates, Yemen",
+  "lives_lost": 500,
+  "description": "The confirmed death toll from an offensive Houthi forces launched in western Yemen reached 500 by September 8, 2026, including 278 Houthi fighters, 216 soldiers of the Yemeni Armed Forces and 29 civilians, according to AFP. Fighting around Taiz and Hodeidah was described as the deadliest in Yemen since 2022.",
+  "sources": [
+   "AFP",
+   "Al Jazeera"
+  ]
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Russian strikes on Kyiv kill five",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 5,
+  "description": "Russia launched drones and missiles at Kyiv on September 8, 2026, after a pause in strikes over the weekend, killing five people and injuring at least ten. The attacks damaged civilian infrastructure at at least 16 locations and started fires in five districts.",
+  "sources": [
+   "The Pioneer",
+   "Reuters"
+  ]
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Drone strike near courthouse in Umm Ruwaba, Sudan, kills 13",
+  "category": "war",
+  "location": "Umm Ruwaba, North Kordofan, Sudan",
+  "lives_lost": 13,
+  "description": "A drone strike by the Rapid Support Forces hit a courthouse in Umm Ruwaba, North Kordofan, Sudan, on September 8, 2026, killing around 13 people and wounding dozens, according to local reports.",
+  "sources": [
+   "Sudan Horizon",
+   "Ahram Online"
+  ]
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Helicopter crash in Sarawak, Malaysia, kills five",
+  "category": "industrial",
+  "location": "Long Lellang, Sarawak, Malaysia",
+  "lives_lost": 5,
+  "description": "A MBB Bo 105 helicopter operated for the Flying Doctors of Malaysia crashed near Long Lellang in Sarawak, Malaysian Borneo, on September 8, 2026, killing all five people on board.",
+  "sources": [
+   "Reuters",
+   "The Star"
+  ]
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Famine in Jebel Marra, Sudan, kills at least 20",
+  "category": "food-crisis",
+  "location": "Jebel Marra, Darfur, Sudan",
+  "lives_lost": 20,
+  "description": "A famine was reported across Sudan's Jebel Marra area in Darfur on September 8, 2026, with at least 20 people dying from hunger and disease, according to the area's civil authority. Aid groups warned the toll could rise sharply without humanitarian access.",
+  "sources": [
+   "Sudan Tribune",
+   "Rhino News"
+  ]
+ },
+ {
   "date": "2026-01-24",
   "title": "West Bandung landslide",
   "category": "natural-disaster",
@@ -1325,6 +1459,42 @@
   ]
  },
  {
+  "date": "2026-09-04",
+  "title": "Fire at wedding party in Kinshasa kills at least 12",
+  "category": "industrial",
+  "location": "Lingwala, Kinshasa, Democratic Republic of the Congo",
+  "lives_lost": 12,
+  "description": "A blaze of unknown origin broke out at a wedding party in the Lingwala district of Kinshasa, Democratic Republic of the Congo, on September 4, 2026, killing at least 12 people. Initial reports gave a higher toll of around 22 before Congolese authorities revised the figure.",
+  "sources": [
+   "AP",
+   "China News Service"
+  ]
+ },
+ {
+  "date": "2026-09-04",
+  "title": "Explosion at military base in Viacha, Bolivia, kills nine",
+  "category": "industrial",
+  "location": "Viacha, La Paz Department, Bolivia",
+  "lives_lost": 9,
+  "description": "An explosion at a military base storing pyrotechnic material in Viacha, near La Paz, Bolivia, on September 4, 2026, killed at least two people, injured more than 60 and left others unaccounted for. The death toll rose to nine by September 7 as rescue teams searched the site.",
+  "sources": [
+   "Reuters",
+   "Xinhua"
+  ]
+ },
+ {
+  "date": "2026-09-04",
+  "title": "Pakistani security forces kill 48 separatists in Balochistan raids",
+  "category": "war",
+  "location": "Balochistan, Pakistan",
+  "lives_lost": 48,
+  "description": "The Pakistani military said it killed 48 Baloch separatists in a series of raids on hideouts across Balochistan province over the 72 hours ending September 4, 2026. The operations targeted militant positions across the restive province.",
+  "sources": [
+   "AP",
+   "India Today"
+  ]
+ },
+ {
   "date": "2026-02-03",
   "title": "Kwara State attacks",
   "category": "terrorism",
@@ -1437,6 +1607,30 @@
    "AP News",
    "Xinhua",
    "EFE"
+  ]
+ },
+ {
+  "date": "2026-09-07",
+  "title": "Israeli airstrikes on southern Lebanon kill 11, including children and medics",
+  "category": "war",
+  "location": "Kfar Reman, Nabatieh Governorate, Lebanon",
+  "lives_lost": 11,
+  "description": "Israeli airstrikes in southern Lebanon on September 7, 2026, killed 11 people, including two children killed in a strike on a residential building in Kfar Reman and two medics killed in a separate strike on a vehicle in the same area. Five other people were injured.",
+  "sources": [
+   "Al Jazeera",
+   "GTV News HD"
+  ]
+ },
+ {
+  "date": "2026-09-07",
+  "title": "Saudi airstrike on prison in Al-Jawf, Yemen, kills 17",
+  "category": "war",
+  "location": "Al-Jawf Governorate, Yemen",
+  "lives_lost": 17,
+  "description": "A Saudi airstrike hit a prison in Al-Jawf Governorate, Yemen, on September 7, 2026, during an offensive against Houthi forces, killing seven people, including a child, and trapping dozens under the rubble. The toll rose to 17 the following day as bodies were recovered.",
+  "sources": [
+   "AP",
+   "Saba News Agency"
   ]
  },
  {
@@ -1740,6 +1934,54 @@
   ]
  },
  {
+  "date": "2026-09-05",
+  "title": "Bus crash on Fogo island, Cape Verde, kills at least 25",
+  "category": "industrial",
+  "location": "Fogo island, Cape Verde",
+  "lives_lost": 25,
+  "description": "A bus carrying mostly secondary school students plunged down a slope on Fogo island, Cape Verde, on September 5, 2026, killing at least 25 people and injuring several others.",
+  "sources": [
+   "AP",
+   "Channel Africa"
+  ]
+ },
+ {
+  "date": "2026-09-05",
+  "title": "Fireworks explosion at religious celebration in Temascalcingo, Mexico, kills 10",
+  "category": "industrial",
+  "location": "Temascalcingo, State of Mexico, Mexico",
+  "lives_lost": 10,
+  "description": "An accidental fireworks explosion during a religious celebration in Temascalcingo, in Mexico's State of Mexico, on September 5, 2026, killed 10 people and injured 64 others.",
+  "sources": [
+   "Al Jazeera",
+   "The Tribune-Democrat"
+  ]
+ },
+ {
+  "date": "2026-09-05",
+  "title": "Fuel tanker explosion on Hamedan-Sanandaj highway, Iran, kills 11",
+  "category": "industrial",
+  "location": "Kurdistan province, Iran",
+  "lives_lost": 11,
+  "description": "A fuel tanker suffered an apparent brake failure, hit other vehicles and exploded on the Hamedan-Sanandaj highway in western Iran on September 5, 2026, killing 11 people and injuring seven others. The initial reported toll of 10 was later revised upward.",
+  "sources": [
+   "AFP",
+   "AP"
+  ]
+ },
+ {
+  "date": "2026-09-05",
+  "title": "Hostel building collapse in New Delhi kills seven",
+  "category": "industrial",
+  "location": "New Delhi, India",
+  "lives_lost": 7,
+  "description": "A five-story hostel building collapsed in New Delhi, India, on September 5, 2026, killing seven people. At least 12 residents were rescued from the rubble.",
+  "sources": [
+   "AP",
+   "Brigada News"
+  ]
+ },
+ {
   "date": "2025-01-07",
   "title": "Los Angeles wildfires (Palisades and Eaton fires)",
   "category": "natural-disaster",
@@ -1783,16 +2025,19 @@
  },
  {
   "date": "2026-08-26",
-  "title": "Himalayan glacier collapse triggers catastrophic flood in Nepal and Tibet killing at least 804",
+  "title": "Himalayan glacier collapse triggers catastrophic flood in Nepal and Tibet killing at least 1,355",
   "category": "natural-disaster",
   "location": "Bhote Koshi valley, Rasuwagadhi, Nepal / Tibet border",
-  "lives_lost": 804,
-  "description": "A massive ice, rock and sediment collapse from approximately 5,200 metres above the Nepal-Tibet border on the morning of August 26, 2026, generated a debris flood that surged through the Bhote Koshi and Trishuli corridors, destroying settlements, roads, bridges and hydropower facilities within minutes. By August 30 the death toll reached at least 804 with more than 3,000 missing, including more than 100 people trapped in a hydropower tunnel, and over 93,000 affected. The disaster was triggered by a glacier collapse that scientists linked to climate-driven cryosphere instability.",
+  "lives_lost": 1355,
+  "description": "A massive ice, rock and sediment collapse from approximately 5,200 metres above the Nepal-Tibet border on the morning of August 26, 2026, generated a debris flood that surged through the Bhote Koshi and Trishuli corridors, destroying settlements, roads, bridges and hydropower facilities within minutes. The death toll, at least 804 by August 30, kept climbing as rescue teams reached affected areas, passing 1,350 by September 7 with thousands of people still missing and more than 13,500 rescued. The disaster was triggered by a glacier collapse that scientists linked to climate-driven cryosphere instability.",
   "sources": [
    "Yonhap News Agency",
    "La Cronica de Hoy",
    "Spotlight Nepal",
-   "Reuters"
+   "Reuters",
+   "AP",
+   "CBC News",
+   "The Rising Nepal"
   ]
  },
  {
@@ -2310,6 +2555,78 @@
   "sources": [
    "EFE",
    "La Cronica de Hoy"
+  ]
+ },
+ {
+  "date": "2026-09-02",
+  "title": "Bus crash in South Sinai, Egypt, kills at least 22",
+  "category": "industrial",
+  "location": "South Sinai, Egypt",
+  "lives_lost": 22,
+  "description": "A bus crashed in South Sinai, Egypt, on September 2, 2026, killing at least 22 people, including ten Jordanian nationals, and injuring 28 others. The bus was travelling between the Red Sea towns of Dahab and Nuweiba when the accident occurred.",
+  "sources": [
+   "AP",
+   "AFP"
+  ]
+ },
+ {
+  "date": "2026-09-02",
+  "title": "Head-on collision between minivans in Accra kills 13",
+  "category": "industrial",
+  "location": "Greater Accra, Ghana",
+  "lives_lost": 13,
+  "description": "Two minivans collided head-on in Greater Accra, Ghana, on September 2, 2026, killing 13 people and critically injuring five others.",
+  "sources": [
+   "Xinhua",
+   "ANGOP"
+  ]
+ },
+ {
+  "date": "2026-09-02",
+  "title": "Mass shooting at Loring Park in Minneapolis kills three",
+  "category": "gun-violence",
+  "location": "Minneapolis, Minnesota, United States",
+  "lives_lost": 3,
+  "description": "A mass shooting at Loring Park in Minneapolis, Minnesota, on September 2, 2026, killed three people, including the perpetrator, and injured six others.",
+  "sources": [
+   "AP",
+   "DW"
+  ]
+ },
+ {
+  "date": "2026-09-03",
+  "title": "Fuel siphoning deaths in Rivers State, Nigeria, reach 43",
+  "category": "industrial",
+  "location": "Rivers State, Nigeria",
+  "lives_lost": 43,
+  "description": "At least 37 people, a figure officials later put at 43, died after inhaling petroleum fumes while allegedly siphoning fuel from an illegally tapped pipeline in Rivers State, Nigeria, on September 3, 2026. The victims were overcome by toxic fumes at the site of the tapped pipeline.",
+  "sources": [
+   "AFP",
+   "Anadolu Agency"
+  ]
+ },
+ {
+  "date": "2026-09-06",
+  "title": "Cargo plane crash at Miami airport kills five",
+  "category": "industrial",
+  "location": "Miami, Florida, United States",
+  "lives_lost": 5,
+  "description": "A Boeing 767-300 cargo plane operated by 21 Air for Amazon Air overshot the runway and struck vehicles while landing at Miami International Airport on September 6, 2026, killing five people and injuring five others.",
+  "sources": [
+   "BBC News",
+   "The New York Times"
+  ]
+ },
+ {
+  "date": "2026-09-06",
+  "title": "Avalanche on Mount Mizhirgi, Russia, kills 13 climbers",
+  "category": "natural-disaster",
+  "location": "Bezengi Gorge, Kabardino-Balkaria, Russia",
+  "lives_lost": 13,
+  "description": "An avalanche struck a group of 33 climbers on Mount Mizhirgi in Kabardino-Balkaria, Russia, on September 6, 2026, killing at least 11 people initially; the death toll rose to 13 as search and rescue operations continued. Six other climbers were still missing.",
+  "sources": [
+   "Firstpost",
+   "The Moscow Times"
   ]
  }
 ]
