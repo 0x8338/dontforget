@@ -1444,6 +1444,68 @@
     "UN OCHA",
     "BBC News"
    ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Russian large-scale attack on Kyiv kills two",
+   "category": "war",
+   "location": "Kyiv, Ukraine",
+   "lives_lost": 2,
+   "description": "A large-scale Russian attack on Kyiv on September 10, 2026, killed two people and injured at least ten, according to Ukrainian authorities.",
+   "sources": [
+    "Ukrinform",
+    "Democrata"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Russian drone strike on shopping centre in Sumy kills two",
+   "category": "war",
+   "location": "Sumy, Ukraine",
+   "lives_lost": 2,
+   "description": "A Russian drone strike hit a shopping centre in Sumy, Ukraine, on September 10, 2026, killing two people and injuring 20 others, according to regional officials.",
+   "sources": [
+    "Kyiv Post",
+    "Vijesti",
+    "Xinhua"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Russian attacks on Mykolaiv kill four",
+   "category": "war",
+   "location": "Mykolaiv, Ukraine",
+   "lives_lost": 4,
+   "description": "Russian attacks on Mykolaiv over the 24 hours to September 10, 2026, killed four people and injured 19, damaging residential buildings and port facilities in the city.",
+   "sources": [
+    "Ukrinform",
+    "Mezha"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Ukrainian drone strike kills woman in Borisoglebsk, Russia",
+   "category": "war",
+   "location": "Borisoglebsk, Voronezh Oblast, Russia",
+   "lives_lost": 1,
+   "description": "A Ukrainian drone fell on a house in Borisoglebsk in Russia's Voronezh Oblast on September 10, 2026, killing a woman and injuring two other people, according to regional authorities.",
+   "sources": [
+    "Komsomolskaya Pravda",
+    "TV Gubernia"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "US strike on suspected drug boat in the Caribbean kills three",
+   "category": "war",
+   "location": "Caribbean Sea",
+   "lives_lost": 3,
+   "description": "The United States military killed three people described as suspected narco-terrorists in strikes on a boat in the Caribbean Sea on September 10, 2026, part of its campaign against drug-trafficking vessels in the region.",
+   "sources": [
+    "Xinhua",
+    "Notimerica",
+    "DHA"
+   ]
   }
  ],
  "09-13": [
@@ -3834,6 +3896,30 @@
     "AP",
     "Petra"
    ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Explosion at Ritom hydroelectric plant in Switzerland kills two workers",
+   "category": "industrial",
+   "location": "Piotta, Ticino, Switzerland",
+   "lives_lost": 2,
+   "description": "An explosion at the century-old Ritom hydroelectric power plant in Piotta, in the southern Swiss canton of Ticino, on September 9, 2026, killed two workers. Police described a serious workplace accident shortly after 9:30 a.m. local time and said emergency services responded to a fire inside the building; the two workers on site were initially reported seriously injured and later died.",
+   "sources": [
+    "Xinhua",
+    "Bluewin"
+   ]
+  },
+  {
+   "date": "2026-09-09",
+   "title": "Record rain in central Japan kills one and injures 41",
+   "category": "natural-disaster",
+   "location": "Aichi and Shizuoka prefectures, Japan",
+   "lives_lost": 1,
+   "description": "Record rainfall in central Japan triggered a landslide that killed one person in Kawanehoncho, Shizuoka Prefecture, in September 2026, while 41 others were injured in Nagoya, Aichi Prefecture. Nagoya's transport was paralysed and about 200 vehicles were flooded as the rain continued.",
+   "sources": [
+    "Xinhua",
+    "Kyodo News"
+   ]
   }
  ],
  "11-25": [
@@ -4840,14 +4926,15 @@
   },
   {
    "date": "2026-09-08",
-   "title": "Russian strikes on Kyiv kill five",
+   "title": "Russian strikes on Kyiv and Kyiv region kill seven",
    "category": "war",
    "location": "Kyiv, Ukraine",
-   "lives_lost": 5,
-   "description": "Russia launched drones and missiles at Kyiv on September 8, 2026, after a pause in strikes over the weekend, killing five people and injuring at least ten. The attacks damaged civilian infrastructure at at least 16 locations and started fires in five districts.",
+   "lives_lost": 7,
+   "description": "Russia launched drones and missiles at Kyiv and the surrounding region on September 8, 2026, after a pause in strikes over the weekend. Five people were killed and 29 injured in the city, while two people were killed and three injured in a drone attack on the Kyiv region in which a warehouse area in Buchansky district caught fire. The attacks damaged civilian infrastructure at at least 16 locations, and the combined toll reached seven.",
    "sources": [
     "The Pioneer",
-    "Reuters"
+    "Reuters",
+    "Xinhua"
    ]
   },
   {
@@ -6264,7 +6351,7 @@
    "category": "industrial",
    "location": "Viacha, La Paz Department, Bolivia",
    "lives_lost": 9,
-   "description": "An explosion at a military base storing pyrotechnic material in Viacha, near La Paz, Bolivia, on September 4, 2026, killed at least two people, injured more than 60 and left others unaccounted for. The death toll rose to nine by September 7 as rescue teams searched the site.",
+   "description": "An explosion at a military base storing pyrotechnic material in Viacha, near La Paz, Bolivia, on September 4, 2026, killed at least two people, injured more than 60 and left others unaccounted for. The death toll rose to nine by September 7 as rescue teams searched the site. On September 9, President Rodrigo Paz asked prosecutors to investigate the possibility that the explosions were a deliberate attack, although the working hypothesis remained mishandling of explosive material.",
    "sources": [
     "Reuters",
     "Xinhua"
@@ -7997,6 +8084,18 @@
    "sources": [
     "AP",
     "Brigada News"
+   ]
+  },
+  {
+   "date": "2026-09-05",
+   "title": "Mudslide in Suichuan County, Jiangxi, kills 13",
+   "category": "natural-disaster",
+   "location": "Mingkeng village, Suichuan County, Jiangxi, China",
+   "lives_lost": 13,
+   "description": "A mudslide struck Mingkeng village in Gaoping township, Suichuan County, Jiangxi province, around 4 a.m. on September 5, 2026, after days of torrential rain brought by Typhoon Saudel. Thirteen people were confirmed dead by September 10 as search and rescue work concluded.",
+   "sources": [
+    "Xinhua",
+    "China Daily"
    ]
   }
  ],

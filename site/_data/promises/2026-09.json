@@ -1,0 +1,44 @@
+[
+ {
+  "person": "Giorgia Meloni",
+  "role": "Prime Minister of Italy",
+  "promise": "Extend Italy's suspension of the Schengen agreement with Spain for another 15 days",
+  "date_promised": "2026-09-01",
+  "due_date": "2026-09-16",
+  "status": "pending",
+  "description": "Italy extended its suspension of the Schengen free-movement agreement with Spain for another 15 days in early September 2026, amid the Ceuta migrant crisis, and the European Commission examined the extension. Fifteen days from the 1 September extension puts the new expiry around 16 September 2026.",
+  "evidence": [
+   "Italy notified a 15-day extension of internal border checks with Spain (EFE, Sept 1)",
+   "Commission reviewed the extension of controls on Spanish travellers (EFE)"
+  ],
+  "sources": [
+   "EFE",
+   "Gazeta Express"
+  ],
+  "source_urls": [
+   "https://efe.com/euro-efe/2026-09-01/ue-controles-espanoles-italia/",
+   "https://www.gazetaexpress.com/en/italia-zgjat-pezullimin-e-marreveshjes-schengen-me-spanjen/"
+  ]
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "Present Argentina's 2027 budget to Congress by the statutory deadline",
+  "date_promised": "2026-09-07",
+  "due_date": "2026-09-15",
+  "status": "pending",
+  "description": "President Milei's cabinet met on 7 September 2026 with the 2027 budget among the agenda items, and he was due to meet libertarian legislators hours before presenting the budget. Under Argentine law the executive must send its budget proposal to Congress by 15 September.",
+  "evidence": [
+   "Milei convened the cabinet on the 2027 budget (Infobae, Sept 7)",
+   "MDZ reported Milei would meet legislators hours before presenting the 2027 budget"
+  ],
+  "sources": [
+   "Infobae",
+   "MDZ Online"
+  ],
+  "source_urls": [
+   "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/",
+   "https://www.mdzol.com/politica/javier-milei-se-reunira-el-lunes-legisladores-libertarios-horas-antes-presentar-el-presupuesto-2027-n1603302"
+  ]
+ }
+]

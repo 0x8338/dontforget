@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-09-09",
-  "total": 695
+  "last_date": "2026-09-10",
+  "total": 703
  },
  "promises": {
-  "last_date": "2026-09-09",
-  "total": 437
+  "last_date": "2026-09-10",
+  "total": 442
  },
- "last_updated": "2026-09-09T16:54:32Z",
+ "last_updated": "2026-09-10T05:52:25Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-c: international orgs-treaties (senegal-imf-2.2b-2026, cambodia-us-angkor-sentinel-2027, eu-greenland-200m-2026)"
+  "last_focus": "track-a: world-leaders (italy-schengen-15d-2026, erdogan-yarisi-bizden-2027, burnham-10yr-plan-2026, zelenskyy-freyja-2026, milei-budget-2027)"
  }
 }

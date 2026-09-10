@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Andy Burnham",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Deliver a 10-year plan for Britain to end a decade of instability",
+  "date_promised": "2026-07-20",
+  "due_date": "2036-07-20",
+  "status": "pending",
+  "description": "Andy Burnham became UK prime minister on 20 July 2026, pledging to end a decade of political instability and to set out a 10-year plan for Britain. A ten-year horizon from taking office is used as the calculable due date.",
+  "evidence": [
+   "Burnham became PM vowing a 10-year plan for Britain (BSS News)",
+   "CNN reported Burnham pledged to end instability after becoming the UK's seventh prime minister in a decade"
+  ],
+  "sources": [
+   "BSS News",
+   "CNN"
+  ],
+  "source_urls": [
+   "https://www.bssnews.net/news/top-news/407473",
+   "https://www.cnn.com/2026/07/20/world/live-news/andy-burnham-uk-prime-minister-intl"
+  ]
+ }
+]

@@ -385,5 +385,49 @@
    "https://qazinform.com/news/eu-unveils-200m-investment-package-for-greenland-d53366",
    "https://www.vietnam.vn/en/eu-cong-bo-goi-dau-tu-200-trieu-euro-danh-cho-greenland"
   ]
+ },
+ {
+  "person": "Recep Tayyip Erdogan",
+  "role": "President of Turkey",
+  "promise": "Extend the application period of the 'Yarısı Bizden' urban-transformation housing campaign to 31 December 2027",
+  "date_promised": "2026-09-07",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "President Erdogan announced on 7 September 2026 that applications for the 'Yarısı Bizden' (Half from Us) urban-transformation campaign would remain open until 31 December 2027. He said 108,881 units had been transformed and construction had begun on 435,683 more.",
+  "evidence": [
+   "Erdogan announced the extension at the Cabinet meeting (Akşam, Sept 7)",
+   "Anadolu Agency reported the campaign extension to 31 December 2027"
+  ],
+  "sources": [
+   "Anadolu Agency",
+   "Akşam"
+  ],
+  "source_urls": [
+   "https://mobile.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarisi-bizden-projemizin-suresini-31-aralik-2027-tarihine-kadar-uzatiyoruz/4049743",
+   "https://www.aksam.com.tr/guncel/baskan-erdogan-mujdeyi-verdi-yarisi-bizden-kampanyasinin-suresi-uzatildi/haber-1696564"
+  ]
+ },
+ {
+  "person": "Volodymyr Zelenskyy",
+  "role": "President of Ukraine",
+  "promise": "Develop the joint Freyja anti-ballistic missile programme with partner governments and companies",
+  "date_promised": "2026-09-07",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Zelenskyy announced on 7 September 2026 new steps toward developing the Freyja anti-ballistic missile programme, saying meetings would soon take place between the governments and companies involved and that long-range capabilities were also being developed. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
+  "evidence": [
+   "Zelenskyy said meetings on Freyja would take place soon (Ukrinform)",
+   "RBC-Ukraine reported new steps unveiled for the Freyja anti-ballistic programme"
+  ],
+  "sources": [
+   "Ukrinform",
+   "RBC Ukraine",
+   "Charter97"
+  ],
+  "source_urls": [
+   "https://www.ukrinform.net/rubric-defense/4161774-zelensky-freyja-antiballistic-program-to-be-discussed-at-staff-meeting.html",
+   "https://newsukraine.rbc.ua/news/zelenskyy-unveils-new-steps-for-ukraine-s-1788803903.html",
+   "https://charter97.link/en/news/2026/9/7/697630/"
+  ]
  }
 ]
