@@ -1459,15 +1459,16 @@
   },
   {
    "date": "2026-09-10",
-   "title": "Russian drone strike on shopping centre in Sumy kills two",
+   "title": "Russian drone strike on shopping centre in Sumy kills three",
    "category": "war",
    "location": "Sumy, Ukraine",
-   "lives_lost": 2,
-   "description": "A Russian drone strike hit a shopping centre in Sumy, Ukraine, on September 10, 2026, killing two people and injuring 20 others, according to regional officials.",
+   "lives_lost": 3,
+   "description": "A Russian drone strike hit a shopping centre in Sumy, Ukraine, on September 10, 2026. The death toll rose to three during the day, while officials reported at least 14 people injured.",
    "sources": [
     "Kyiv Post",
     "Vijesti",
-    "Xinhua"
+    "Xinhua",
+    "Ukrinform"
    ]
   },
   {
@@ -1505,6 +1506,42 @@
     "Xinhua",
     "Notimerica",
     "DHA"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Cargo ship fire at Qingdao port kills 25",
+   "category": "industrial",
+   "location": "Qingdao, Shandong, China",
+   "lives_lost": 25,
+   "description": "A fire broke out aboard a foreign-flagged cargo ship at a port in Qingdao, Shandong province, eastern China, on September 10, 2026. The death toll rose to 25 during the day as rescue and recovery operations continued aboard the vessel; authorities did not immediately announce a cause.",
+   "sources": [
+    "AP News",
+    "Xinhua"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Hurricane Lowell linked to at least two deaths in Hawaii",
+   "category": "natural-disaster",
+   "location": "Hawaii, USA",
+   "lives_lost": 2,
+   "description": "Hurricane Lowell battered the western islands of Hawaii in September 2026. By September 10 the bodies of two men had been recovered and the storm was linked to at least two deaths as recovery operations continued.",
+   "sources": [
+    "The Weather Channel",
+    "The Canadian Press"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Israeli strike kills family of four in northern Gaza",
+   "category": "war",
+   "location": "Northern Gaza Strip, Palestine",
+   "lives_lost": 4,
+   "description": "An Israeli airstrike hit a home in the northern Gaza Strip on September 10, 2026, killing four members of a single family, two parents and two children, according to Palestinian officials and local media.",
+   "sources": [
+    "Xinhua",
+    "The New Arab"
    ]
   }
  ],
@@ -8088,11 +8125,11 @@
   },
   {
    "date": "2026-09-05",
-   "title": "Mudslide in Suichuan County, Jiangxi, kills 13",
+   "title": "Mudslide in Suichuan County, Jiangxi, kills 16",
    "category": "natural-disaster",
    "location": "Mingkeng village, Suichuan County, Jiangxi, China",
-   "lives_lost": 13,
-   "description": "A mudslide struck Mingkeng village in Gaoping township, Suichuan County, Jiangxi province, around 4 a.m. on September 5, 2026, after days of torrential rain brought by Typhoon Saudel. Thirteen people were confirmed dead by September 10 as search and rescue work concluded.",
+   "lives_lost": 16,
+   "description": "A mudslide struck Mingkeng village in Gaoping township, Suichuan County, Jiangxi province, around 4 a.m. on September 5, 2026, after days of torrential rain brought by Typhoon Saudel. The confirmed death toll rose from 13 to 16 by September 10 as search and rescue work continued.",
    "sources": [
     "Xinhua",
     "China Daily"
@@ -8490,11 +8527,11 @@
   },
   {
    "date": "2026-08-26",
-   "title": "Himalayan glacier collapse triggers catastrophic flood in Nepal and Tibet killing at least 1,355",
+   "title": "Himalayan glacier collapse triggers catastrophic flood in Nepal and Tibet killing at least 1,420",
    "category": "natural-disaster",
    "location": "Bhote Koshi valley, Rasuwagadhi, Nepal / Tibet border",
-   "lives_lost": 1355,
-   "description": "A massive ice, rock and sediment collapse from approximately 5,200 metres above the Nepal-Tibet border on the morning of August 26, 2026, generated a debris flood that surged through the Bhote Koshi and Trishuli corridors, destroying settlements, roads, bridges and hydropower facilities within minutes. The death toll, at least 804 by August 30, kept climbing as rescue teams reached affected areas, passing 1,350 by September 7 with thousands of people still missing and more than 13,500 rescued. The disaster was triggered by a glacier collapse that scientists linked to climate-driven cryosphere instability.",
+   "lives_lost": 1420,
+   "description": "A massive ice, rock and sediment collapse from approximately 5,200 metres above the Nepal-Tibet border on the morning of August 26, 2026, generated a debris flood that surged through the Bhote Koshi and Trishuli corridors, destroying settlements, roads, bridges and hydropower facilities within minutes. The death toll, at least 804 by August 30, kept climbing as rescue teams reached affected areas, reaching 1,420 by September 10 with 5,649 people still missing and more than 13,500 rescued. The disaster was triggered by a glacier collapse that scientists linked to climate-driven cryosphere instability.",
    "sources": [
     "Yonhap News Agency",
     "La Cronica de Hoy",
@@ -8502,7 +8539,9 @@
     "Reuters",
     "AP",
     "CBC News",
-    "The Rising Nepal"
+    "The Rising Nepal",
+    "Anadolu Agency",
+    "Kazinform"
    ]
   }
  ],

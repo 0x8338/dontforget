@@ -8547,5 +8547,71 @@
    "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/",
    "https://www.mdzol.com/politica/javier-milei-se-reunira-el-lunes-legisladores-libertarios-horas-antes-presentar-el-presupuesto-2027-n1603302"
   ]
+ },
+ {
+  "person": "VEON / Jazz (Pakistan)",
+  "role": "Telecommunications operator and its Pakistani subsidiary",
+  "promise": "Invest a further $1 billion in Pakistan over the next three years to expand 5G connectivity and digital services",
+  "date_promised": "2026-09-10",
+  "due_date": "2029-09-10",
+  "status": "pending",
+  "description": "VEON and its Pakistani subsidiary JazzWorld told Prime Minister Shehbaz Sharif they would invest a further $1 billion in Pakistan over three years, expanding 5G rollout and digital services beyond telecom.",
+  "evidence": [
+   "Announcement made during a leadership call with the Pakistani prime minister on September 10, 2026"
+  ],
+  "sources": [
+   "WE News English",
+   "The News (Pakistan)",
+   "Jazz (company statement)"
+  ]
+ },
+ {
+  "person": "Samsung SDS",
+  "role": "IT services subsidiary of Samsung Group",
+  "promise": "Invest 10 trillion won ($7.4 billion) by 2031 in AI infrastructure, robotics and acquisitions",
+  "date_promised": "2026-09-08",
+  "due_date": "2031-12-31",
+  "status": "pending",
+  "description": "Samsung SDS CEO Lee June-hee said at REAL Summit 2026 in Seoul that the company plans to invest 10 trillion won ($7.4 billion) by 2031 to expand AI infrastructure and pursue robotics investments and acquisitions, with the United States a key robot market.",
+  "evidence": [
+   "Announced by CEO Lee June-hee at REAL Summit 2026 on September 8, 2026"
+  ],
+  "sources": [
+   "Korea JoongAng Daily"
+  ]
+ },
+ {
+  "person": "HD Hyundai Heavy Industries",
+  "role": "South Korean shipbuilder and engine maker",
+  "promise": "Invest 1.0722 trillion won in land-based power generation engines and small modular reactor (SMR) components",
+  "date_promised": "2026-09-10",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "HD Hyundai Heavy Industries said in a regulatory filing on September 10, 2026, that it would invest 1.0722 trillion won to build a new land-based power generation engine production base and a dedicated plant for SMR main components. Construction is due to begin in the first quarter of 2027, operations in May 2028, the SMR component plant is scheduled for completion in the first half of 2029, and total HiMSEN engine capacity is targeted to rise from 3 GW to 7.2 GW a year by 2030.",
+  "evidence": [
+   "Regulatory filing of September 10, 2026",
+   "Target of 7.2 GW annual engine capacity by 2030"
+  ],
+  "sources": [
+   "The Korea Times",
+   "The Elec"
+  ]
+ },
+ {
+  "person": "Amazon (Prime Video)",
+  "role": "Global streaming and technology company",
+  "promise": "Invest more than $2 billion in Latin American programming and sports rights between 2027 and 2030",
+  "date_promised": "2026-08-20",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Prime Video said it would spend more than $2 billion on original and licensed programming and live sports rights across Latin America between 2027 and 2030, more than doubling its local original output across Mexico, Brazil, Argentina, Colombia and Chile and releasing more than 25 new titles in 2027 alone.",
+  "evidence": [
+   "Announcement of August 20, 2026",
+   "Commitment covers 2027-2030 across five Latin American markets"
+  ],
+  "sources": [
+   "PPC Land",
+   "Malay Mail"
+  ]
  }
 ]

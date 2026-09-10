@@ -40,5 +40,20 @@
    "https://micron.gcs-web.com/news-releases/news-release-details/micron-unveils-micron-research-labs-us-based-long-horizon",
    "https://aninews.in/news/business/micron-announces-usd-10-billion-research-investment-adds-to-us-manufacturing-push20260821095654/"
   ]
+ },
+ {
+  "person": "Samsung SDS",
+  "role": "IT services subsidiary of Samsung Group",
+  "promise": "Invest 10 trillion won ($7.4 billion) by 2031 in AI infrastructure, robotics and acquisitions",
+  "date_promised": "2026-09-08",
+  "due_date": "2031-12-31",
+  "status": "pending",
+  "description": "Samsung SDS CEO Lee June-hee said at REAL Summit 2026 in Seoul that the company plans to invest 10 trillion won ($7.4 billion) by 2031 to expand AI infrastructure and pursue robotics investments and acquisitions, with the United States a key robot market.",
+  "evidence": [
+   "Announced by CEO Lee June-hee at REAL Summit 2026 on September 8, 2026"
+  ],
+  "sources": [
+   "Korea JoongAng Daily"
+  ]
  }
 ]

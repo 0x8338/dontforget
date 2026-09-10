@@ -463,5 +463,39 @@
    "https://www.kjzz.org/the-show/2026-07-20/tsmc-will-invest-another-100-billion-in-arizona-how-significant-will-it-be-for-the-state",
    "https://www.mobileworldlive.com/ai-cloud/tsmc-ups-us-investment-on-ai-mega-trend/"
   ]
+ },
+ {
+  "person": "HD Hyundai Heavy Industries",
+  "role": "South Korean shipbuilder and engine maker",
+  "promise": "Invest 1.0722 trillion won in land-based power generation engines and small modular reactor (SMR) components",
+  "date_promised": "2026-09-10",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "HD Hyundai Heavy Industries said in a regulatory filing on September 10, 2026, that it would invest 1.0722 trillion won to build a new land-based power generation engine production base and a dedicated plant for SMR main components. Construction is due to begin in the first quarter of 2027, operations in May 2028, the SMR component plant is scheduled for completion in the first half of 2029, and total HiMSEN engine capacity is targeted to rise from 3 GW to 7.2 GW a year by 2030.",
+  "evidence": [
+   "Regulatory filing of September 10, 2026",
+   "Target of 7.2 GW annual engine capacity by 2030"
+  ],
+  "sources": [
+   "The Korea Times",
+   "The Elec"
+  ]
+ },
+ {
+  "person": "Amazon (Prime Video)",
+  "role": "Global streaming and technology company",
+  "promise": "Invest more than $2 billion in Latin American programming and sports rights between 2027 and 2030",
+  "date_promised": "2026-08-20",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Prime Video said it would spend more than $2 billion on original and licensed programming and live sports rights across Latin America between 2027 and 2030, more than doubling its local original output across Mexico, Brazil, Argentina, Colombia and Chile and releasing more than 25 new titles in 2027 alone.",
+  "evidence": [
+   "Announcement of August 20, 2026",
+   "Commitment covers 2027-2030 across five Latin American markets"
+  ],
+  "sources": [
+   "PPC Land",
+   "Malay Mail"
+  ]
  }
 ]
