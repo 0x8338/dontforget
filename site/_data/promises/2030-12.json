@@ -497,5 +497,37 @@
    "PPC Land",
    "Malay Mail"
   ]
+ },
+ {
+  "person": "African health ministries (WHO African Region)",
+  "role": "Ministers of health of African Union member states",
+  "promise": "Establish at least one emergency medical team in every African country by 2030",
+  "date_promised": "2026-09-09",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "African health ministers adopted a regional framework committing every country on the continent to have at least one trained and deployable emergency medical team by 2030, to speed up responses to outbreaks, disasters and humanitarian crises.",
+  "evidence": [
+   "Framework adopted at a WHO African Region meeting of health ministers, September 2026"
+  ],
+  "sources": [
+   "WHO Regional Office for Africa",
+   "Ecofin Agency"
+  ]
+ },
+ {
+  "person": "Hyundai Motor India",
+  "role": "Indian subsidiary of Hyundai Motor Group",
+  "promise": "Reach 20 percent women in its executive workforce by 2030",
+  "date_promised": "2026-09-11",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Hyundai Motor India said it aims to increase women to 20 percent of its executive workforce by 2030 as part of a wider diversity and localisation push in its Indian operations.",
+  "evidence": [
+   "Company target announced in September 2026"
+  ],
+  "sources": [
+   "News18",
+   "Metro India"
+  ]
  }
 ]

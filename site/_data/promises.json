@@ -8149,7 +8149,8 @@
   "description": "European Union leaders reached a hard-fought agreement on December 19, 2025 to provide Ukraine a 90-billion-euro loan designed to keep the country's government and military operational over the next two years. The financing, backed by the EU's common budget, came after more than 24 hours of negotiations in Brussels, where talks were initially stalled over whether to use frozen Russian assets to fund the plan. European Parliament later approved enhanced cooperation for the loan.",
   "evidence": [
    "Agreement announced by European Council President Antonio Costa, December 19-20, 2025",
-   "European Parliament approved enhanced cooperation mechanism for the 90-billion-euro loan"
+   "European Parliament approved enhanced cooperation mechanism for the 90-billion-euro loan",
+   "First 6.1 billion euros of the loan allocated to drones and PAC-3 Patriot missiles on September 11, 2026 (about 4.3 billion euros to be transferred shortly after)."
   ],
   "sources": [
    "Xinhua News Agency",
@@ -8612,6 +8613,53 @@
   "sources": [
    "PPC Land",
    "Malay Mail"
+  ]
+ },
+ {
+  "person": "African health ministries (WHO African Region)",
+  "role": "Ministers of health of African Union member states",
+  "promise": "Establish at least one emergency medical team in every African country by 2030",
+  "date_promised": "2026-09-09",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "African health ministers adopted a regional framework committing every country on the continent to have at least one trained and deployable emergency medical team by 2030, to speed up responses to outbreaks, disasters and humanitarian crises.",
+  "evidence": [
+   "Framework adopted at a WHO African Region meeting of health ministers, September 2026"
+  ],
+  "sources": [
+   "WHO Regional Office for Africa",
+   "Ecofin Agency"
+  ]
+ },
+ {
+  "person": "United Nations / Lebanon",
+  "role": "Humanitarian agencies and the Lebanese government",
+  "promise": "Raise $426 million to provide humanitarian assistance to one million people in Lebanon",
+  "date_promised": "2026-09-11",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "The United Nations and Lebanon launched a joint appeal seeking $426 million to provide humanitarian assistance to about one million people in Lebanon affected by conflict and displacement.",
+  "evidence": [
+   "Joint UN-Lebanon appeal launched September 11, 2026"
+  ],
+  "sources": [
+   "WAM (Emirates News Agency)"
+  ]
+ },
+ {
+  "person": "Hyundai Motor India",
+  "role": "Indian subsidiary of Hyundai Motor Group",
+  "promise": "Reach 20 percent women in its executive workforce by 2030",
+  "date_promised": "2026-09-11",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Hyundai Motor India said it aims to increase women to 20 percent of its executive workforce by 2030 as part of a wider diversity and localisation push in its Indian operations.",
+  "evidence": [
+   "Company target announced in September 2026"
+  ],
+  "sources": [
+   "News18",
+   "Metro India"
   ]
  }
 ]

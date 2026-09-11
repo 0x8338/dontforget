@@ -915,6 +915,30 @@
     "9/11 Commission Report",
     "The New York Times"
    ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Tour bus crash in eastern Switzerland kills five",
+   "category": "industrial",
+   "location": "Graubünden, Switzerland",
+   "lives_lost": 5,
+   "description": "A Dutch tour bus carrying 45 adults crashed in the eastern Swiss canton of Graubünden on September 11, 2026, killing five people and injuring 40 others, police said.",
+   "sources": [
+    "Anadolu Agency",
+    "Qazinform"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "title": "Grenade attack on house in Dehiwala, Sri Lanka, kills two children",
+   "category": "gun-violence",
+   "location": "Dehiwala, Colombo, Sri Lanka",
+   "lives_lost": 2,
+   "description": "A hand grenade was thrown at a house in Dehiwala, a suburb of Colombo, Sri Lanka, on the morning of September 11, 2026, killing two boys aged 10 and 14 and injuring their father. Police said the attack was suspected to be the result of a clash between two organized criminal gangs.",
+   "sources": [
+    "Xinhua",
+    "Sri Lanka Mirror"
+   ]
   }
  ],
  "10-01": [
@@ -1542,6 +1566,18 @@
    "sources": [
     "Xinhua",
     "The New Arab"
+   ]
+  },
+  {
+   "date": "2026-09-10",
+   "title": "Church roof collapse in Vellore, India, kills three",
+   "category": "industrial",
+   "location": "Manju Krishnapuram, Thiruvalam, Vellore district, Tamil Nadu, India",
+   "lives_lost": 3,
+   "description": "The roof of an under-construction church collapsed during concreting on the evening of September 10, 2026, at Manju Krishnapuram near Thiruvalam in Vellore district, Tamil Nadu, India, killing at least three people and injuring 14 others, officials said.",
+   "sources": [
+    "Xinhua",
+    "The News Minute"
    ]
   }
  ],

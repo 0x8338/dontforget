@@ -1,15 +1,15 @@
 {
  "events": {
-  "last_date": "2026-09-10",
-  "total": 706
+  "last_date": "2026-09-11",
+  "total": 709
  },
  "promises": {
-  "last_date": "2026-09-10",
-  "total": 446
+  "last_date": "2026-09-11",
+  "total": 449
  },
- "last_updated": "2026-09-10T16:32:43Z",
+ "last_updated": "2026-09-11T16:15:33Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos/companies (veon-jazz-pakistan-1bn, samsung-sds-10tn-2031, hd-hyundai-heavy-1.07tn-smr, amazon-prime-video-2bn-latam-2030)"
+  "last_focus": "track-c: orgs/treaties (who-afro-emt-2030, un-lebanon-426m-appeal, european-union-6.1bn-tranche)"
  }
 }

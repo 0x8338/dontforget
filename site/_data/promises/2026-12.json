@@ -631,5 +631,20 @@
    "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
    "https://en.yna.co.kr/topics/solympic/view/AEN20260821010151315"
   ]
+ },
+ {
+  "person": "United Nations / Lebanon",
+  "role": "Humanitarian agencies and the Lebanese government",
+  "promise": "Raise $426 million to provide humanitarian assistance to one million people in Lebanon",
+  "date_promised": "2026-09-11",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "The United Nations and Lebanon launched a joint appeal seeking $426 million to provide humanitarian assistance to about one million people in Lebanon affected by conflict and displacement.",
+  "evidence": [
+   "Joint UN-Lebanon appeal launched September 11, 2026"
+  ],
+  "sources": [
+   "WAM (Emirates News Agency)"
+  ]
  }
 ]
