@@ -13,13 +13,14 @@ Outputs:
 
 import datetime
 import json
+import re
 from collections import Counter
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent
 EVENTS_DIR = BASE / "events"
 PROMISES_DIR = BASE / "promises"
-TODAY = datetime.date.today().isoformat()
+TODAY = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
 
 EVENTS_DIR.mkdir(exist_ok=True)
 PROMISES_DIR.mkdir(exist_ok=True)
@@ -81,6 +82,7 @@ for month in sorted(by_month, reverse=True):
 
 due = [p for p in promises if p.get("due_date", "") <= TODAY]
 manifest = {
+    "as_of": TODAY,
     "total": len(promises),
     "due_total": len(due),
     "due_status": dict(Counter(p.get("status") for p in due)),
@@ -88,6 +90,15 @@ manifest = {
     "unfiled": len(unfiled),
 }
 (PROMISES_DIR / "index.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
+
+# Remove obsolete generated chunks, including the former w-prefixed windows.
+for directory, pattern, referenced in (
+    (EVENTS_DIR, r"w?\d{4}-\d{4}\.json", {Path(w["file"]).name for w in windows}),
+    (PROMISES_DIR, r"\d{4}-\d{2}\.json", {Path(m["file"]).name for m in due_months}),
+):
+    for path in directory.iterdir():
+        if re.fullmatch(pattern, path.name) and path.name not in referenced:
+            path.unlink()
 
 print(f"events: {len(all_events)} -> {len(windows)} five-year windows")
 print(f"promises: {len(promises)} -> {len(due_months)} month files + index")

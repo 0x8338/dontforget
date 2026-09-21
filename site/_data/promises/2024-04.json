@@ -2,19 +2,22 @@
  {
   "person": "Emmanuel Macron",
   "role": "President of France",
-  "promise": "Rebuild Notre-Dame Cathedral within five years of the fire",
+  "promise": "Macron aimed to rebuild Notre-Dame within five years.",
   "date_promised": "2019-04-16",
   "due_date": "2024-04-16",
-  "status": "kept",
-  "description": "The day after the cathedral fire, Macron promised it would be rebuilt within five years. The cathedral reopened to the public on December 8, 2024 — within the promised timeline, though about seven months past the strict five-year anniversary.",
+  "status": "broken",
+  "description": "The cathedral was still undergoing restoration in April 2024 and reopened with ceremonies in December 2024, after the five-year target.",
   "evidence": [
-   "Notre-Dame reopened 2024-12-08",
-   "Rebuild completed within the promised five-year window"
+   "Contemporary April 2024 coverage described restoration as nearly complete.",
+   "The cathedral records December 7-8 reopening ceremonies."
   ],
   "sources": [
-   "Élysée Palace",
-   "Agence France-Presse",
-   "Le Monde"
+   "Le Monde",
+   "Notre-Dame de Paris"
+  ],
+  "source_urls": [
+   "https://www.lemonde.fr/en/france/video/2024/04/15/five-years-after-fire-notre-dame-cathedral-s-restoration-is-nearly-complete_6668514_7.html",
+   "https://www.notredamedeparis.fr/en/relive-the-ceremonies/"
   ]
  }
 ]

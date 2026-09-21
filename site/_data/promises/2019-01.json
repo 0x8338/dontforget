@@ -6,16 +6,17 @@
   "date_promised": "2016-10-15",
   "due_date": "2019-01-01",
   "status": "kept",
-  "description": "Adopted in Kigali in October 2016, the Kigali Amendment to the Montreal Protocol commits parties to phase down hydrofluorocarbons (HFCs) by more than 80% over 30 years. The ratification threshold of 20 parties was reached on 17 November 2017, and the amendment entered into force on 1 January 2019 as scheduled, with more than 150 parties ratifying in the following years.",
+  "description": "The Kigali Amendment was adopted on October 15, 2016. The twentieth ratification was reached on November 17, 2017, allowing entry into force on January 1, 2019. It provides a phased reduction of HFC consumption and production, rather than an immediate ban.",
   "evidence": [
-   "Entered into force on 1 January 2019 after 20 ratifications in November 2017",
-   "Projected to reduce HFC-driven warming by 2100 from 0.3-0.5°C to under 0.1°C",
-   "Over 150 parties ratified within years of entry into force"
+   "UNEP records entry into force on January 1, 2019."
   ],
   "sources": [
-   "UNEP Ozone Secretariat",
-   "UNDP",
-   "Fluorocarbons.org"
+   "UNEP Ozone Secretariat: Kigali history",
+   "UNEP: Kigali Amendment text"
+  ],
+  "source_urls": [
+   "https://ozone.unep.org/news/kigali-story",
+   "https://ozone.unep.org/treaties/montreal-protocol/amendments/kigali-amendment-2016-amendment-montreal-protocol-agreed"
   ]
  }
 ]

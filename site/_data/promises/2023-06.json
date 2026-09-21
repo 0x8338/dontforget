@@ -1,65 +1,43 @@
 [
  {
-  "person": "Fumio Kishida",
-  "role": "Prime Minister of Japan",
-  "promise": "By June, we will compile a roadmap to realize the new form of capitalism",
-  "date_promised": "2023-01-23",
-  "due_date": "2023-06-30",
-  "status": "kept",
-  "description": "In his January 2023 policy speech to the Diet, Kishida promised a concrete roadmap for his flagship 'new capitalism' (shin shihonshugi) policy by June 2023. The Cabinet approved the roughly 200-measure roadmap on June 16, 2023, covering wage growth, investment in people, and science/tech priorities, meeting the deadline he set.",
-  "evidence": [
-   "Cabinet approved the 'New Form of Capitalism' roadmap on June 16, 2023",
-   "Roadmap included ~200 measures on wages, human capital investment, and innovation"
-  ],
-  "sources": [
-   "Reuters (June 16, 2023)",
-   "Kyodo News (January and June 2023)"
-  ]
- },
- {
-  "person": "Satya Nadella",
-  "role": "CEO, Microsoft",
-  "promise": "We are working toward closing [the Activision Blizzard deal] in fiscal year 2023",
+  "person": "Microsoft",
+  "role": "Technology company",
+  "promise": "Microsoft was working toward closing its Activision Blizzard acquisition in fiscal 2023, subject to regulatory approvals.",
   "date_promised": "2023-01-24",
   "due_date": "2023-06-30",
-  "status": "partial",
-  "description": "Microsoft's 10-Q filed Jan 24, 2023 stated the $68.7B Activision Blizzard acquisition would close within fiscal year 2023 (by June 30, 2023). Regulatory fights with the UK CMA and FTC forced the deal to miss that deadline and it finally closed October 13, 2023 — about 3.5 months late, after the companies extended the contractual deadline to October 18, 2023.",
+  "status": "kept (delayed)",
+  "description": "Microsoft said in January 2023 that it was working toward an FY2023 close, subject to regulatory approvals. The acquisition closed October 13, 2023, after the June fiscal year-end.",
   "evidence": [
-   "10-Q verbatim: 'We are continuing to engage with regulators reviewing the transaction and are working toward closing it in fiscal year 2023'",
-   "Original contract deadline was July 18, 2023, extended to Oct 18, 2023",
-   "Deal completed October 13, 2023 at total cost of $75.4 billion",
-   "Missed the promised fiscal 2023 close date by ~3.5 months"
+   "January earnings transcript retains regulatory-approval condition.",
+   "Official October 13 employee announcement confirms completion."
   ],
   "sources": [
-   "SEC",
-   "Wikipedia"
+   "Microsoft",
+   "Microsoft"
   ],
   "source_urls": [
-   "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/msft-10q_20221231.htm",
-   "https://en.wikipedia.org/wiki/Acquisition_of_Activision_Blizzard_by_Microsoft"
+   "https://www.microsoft.com/en-us/investor/events/fy-2023/earnings-fy-2023-q2",
+   "https://news.microsoft.com/wp-content/uploads/prod/sites/653/2023/10/Phil-Spencer-email-to-Microsoft-employees.pdf"
   ]
  },
  {
   "person": "Elon Musk",
   "role": "Owner of X (formerly Twitter)",
-  "promise": "X will be cash-flow positive by the second quarter of 2023",
+  "promise": "Twitter has a chance of becoming cash-flow positive in Q2 2023",
   "date_promised": "2023-03-07",
   "due_date": "2023-06-30",
   "status": "broken",
-  "description": "At a Morgan Stanley conference in March 2023 Musk said Twitter could become cash-flow positive 'next quarter', and in April he said the company could reach it 'as soon as this quarter'. In July 2023 he admitted cash flow was still negative because of a nearly 50% drop in advertising revenue and heavy debt load.",
+  "description": "On March 7, 2023, Musk said Twitter had a chance of positive cash flow the following quarter. In July he said cash flow remained negative, citing advertising weakness and debt.",
   "evidence": [
-   "Musk admitted in July 2023 that Twitter/X cash flow remained negative",
-   "Ad revenue fell ~50% in 2023; X later wrote down value sharply"
+   "Musk's July admission indicated the Q2 cash-flow expectation was missed."
   ],
   "sources": [
-   "LA Times",
-   "The Guardian",
-   "RTE"
+   "Reuters: March cash-flow forecast",
+   "Reuters: July cash-flow admission"
   ],
   "source_urls": [
-   "https://www.latimes.com/business/story/2023-04-12/musk-twitter-cash-flow-positive-this-quarter",
-   "https://amp.theguardian.com/technology/2023/jul/16/elon-musk-says-twitter-cash-flow-negative",
-   "https://www.rte.ie/news/business/2023/0717/1394888-twitters-cash-flow/"
+   "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Musk-says-Twitter-could-be-cash-flow-positive-next-quarter-43183866/",
+   "https://www.investing.com/news/stock-market-news/elon-musk-says-twitters-cash-flow-still-negative-as-ad-revenue-drops-3126361"
   ]
  }
 ]

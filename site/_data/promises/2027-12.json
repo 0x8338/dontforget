@@ -1,190 +1,43 @@
 [
  {
-  "person": "Claudia Sheinbaum",
-  "role": "President (from 1 Oct 2024)",
-  "promise": "Constitutional ban on re-election of any popularly elected office, promised to take effect in 2027",
-  "date_promised": "2023-01-01",
-  "due_date": "2027-12-31",
-  "status": "broken",
-  "description": "The anti-re-election rule was published 1 Apr 2025, but its implementation was postponed from 2027 to 2030.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
-  ]
- },
- {
-  "person": "Javier Milei",
-  "role": "President (from Dec 2023)",
-  "promise": "Defeat inflation ('kill inflation', the overriding goal of his first year)",
-  "date_promised": "2023-01-01",
-  "due_date": "2027-12-31",
-  "status": "partial",
-  "description": "Annual inflation fell from 211.4% (2023) and 254.2% (first month) to 117.8% (2024) and ~31.8% by Sept 2025, with monthly inflation at a five-year low of 1.5% (June 2025) — a huge reduction, though inflation was not eliminated.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia",
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Javier_Milei",
-   "https://en.wikipedia.org/wiki/Economy_of_Argentina"
-  ]
- },
- {
-  "person": "Keir Starmer",
-  "role": "Prime Minister (from Jul 2024)",
-  "promise": "Increase defence spending to 2.5% of GDP",
-  "date_promised": "2023-01-01",
-  "due_date": "2027-12-31",
-  "status": "kept",
-  "description": "The 2.5%-by-2027 pledge was confirmed, funded by cutting international aid from 0.5% to 0.3% of GNI.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
-  ]
- },
- {
-  "person": "Emmanuel Macron",
-  "role": "President",
-  "promise": "Restore sound public finances / keep the deficit on a path toward the EU's 3% of GDP ceiling",
-  "date_promised": "2023-01-01",
-  "due_date": "2027-12-31",
-  "status": "broken",
-  "description": "The deficit was 5.8% of GDP in 2024 (up from 5.4% in 2023 and at risk of exceeding 6%), public debt reached 116.5% of GDP in 2025, and the 3% target is far out of reach.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Economy_of_France"
-  ]
- },
- {
-  "person": "Elon Musk",
-  "role": "CEO, xAI",
-  "promise": "xAI would expand the Colossus supercomputer to 1 million GPUs (a tenfold increase)",
-  "date_promised": "2024-12-04",
-  "due_date": "2027-12-31",
-  "status": "pending",
-  "description": "Three months after the first 100,000 H100s came online at Colossus (built in 122 days, Sept 2024), xAI announced the 30-acre Memphis expansion toward 1 million GPUs, reported by the FT as 'Musk plans to expand Colossus tenfold'. Growth is ongoing (200k GPUs by late 2024; ~230k by June 2025) but the 1M milestone had not been publicly confirmed as of mid-2026.",
-  "evidence": [
-   "Colossus built in 122 days with 100k H100s (Wikipedia: Colossus)",
-   "FT (Dec 4, 2024): plans to expand Colossus tenfold to ~1M GPUs",
-   "By June 2025: 150k H100s + 50k H200s + 30k GB200s, more planned"
-  ],
-  "sources": [
-   "Wikipedia: Colossus (supercomputer)",
-   "Financial Times (Dec 4, 2024)",
-   "Memphis Commercial Appeal (Dec 2024)"
-  ]
- },
- {
   "person": "Jensen Huang",
   "role": "CEO, NVIDIA",
-  "promise": "Nvidia expects to sell $1 trillion of AI hardware through 2027",
+  "promise": "Huang forecast at least $1 trillion in Blackwell and Vera Rubin revenue cumulatively over 2025-2027.",
   "date_promised": "2026-03-16",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "At GTC 2026 Huang forecast NVIDIA would sell ~$1 trillion in AI hardware by the end of 2027 (per Tom's Hardware, Mar 16, 2026), building on a $500B order book (Nov 2025) and 'trillions more' infrastructure claims. Hard revenue promise with a 2027 deadline, still pending as of mid-2026.",
+  "description": "At GTC 2026, Huang forecast cumulative revenue through 2027. The figure is an expectation, not booked revenue.",
   "evidence": [
-   "Tom's Hardware (Mar 16, 2026): 'Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027'",
-   "Nvidia's $500B order book reported Nov 17, 2025",
-   "GTC 2026 keynote: 'By 2027, market demand will exceed $1 trillion' (WEEX transcript)"
+   "NVIDIA's March 16 keynote coverage gives the 2025-2027 period.",
+   "Outcome not established as of 2026-09-21: the forecast horizon remains future."
   ],
   "sources": [
-   "Tom's Hardware (Mar 16, 2026)",
-   "The Tech Buzz (Nov 17, 2025)",
-   "GTC 2026 keynote coverage"
-  ]
- },
- {
-  "person": "European Union (REPowerEU)",
-  "role": "European Commission and member states",
-  "promise": "Make Europe independent from Russian fossil fuels, ending reliance on Russian gas by 2027",
-  "date_promised": "2022-05-18",
-  "due_date": "2027-12-31",
-  "status": "pending",
-  "description": "The European Commission's REPowerEU plan, presented in May 2022 after Russia's invasion of Ukraine, set the goal of ending the EU's dependence on Russian fossil fuels, including a full phase-out of Russian gas, well before 2030 and by 2027 at the latest. The EU cut Russian gas imports by roughly 75% between 2021 and 2025, and in January 2026 adopted legislation banning Russian LNG imports from the start of 2027 and pipeline gas from autumn 2027.",
-  "evidence": [
-   "Russian gas imports cut by about 75% between 2021 and 2025",
-   "EU regulation banning Russian LNG from January 2027 and pipeline gas from autumn 2027 approved in January 2026",
-   "National phase-out plans were due to the Commission by 1 March 2026"
+   "NVIDIA GTC 2026 keynote coverage",
+   "Axios platform-specific forecast coverage"
   ],
-  "sources": [
-   "Kyiv Post",
-   "PubAffairs Bruxelles / Council of the EU",
-   "TASS (Greece plan reporting)"
+  "source_urls": [
+   "https://blogs.nvidia.com/blog/gtc-2026-news/",
+   "https://www.axios.com/2026/03/16/nvidia-ceo-jensen-huang-nvidia-gtc"
   ]
  },
  {
   "person": "FIFA (Gianni Infantino)",
   "role": "FIFA president and member associations",
   "promise": "Deliver equal prize money for the men's and women's World Cups by 2027",
-  "date_promised": "2023-08-20",
+  "date_promised": "2023-03-16",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "FIFA president Gianni Infantino said in 2023 that FIFA's goal was equal prize money for the men's and women's World Cups by 2027, a pledge widely reported at the 2023 Women's World Cup. FIFA announced a record $655 million prize pool for the 2026 men's World Cup (up from $440 million in 2022) and has stated its intent to reach parity for the 2027 Women's World Cup, which remains forthcoming.",
+  "description": "At the March 2023 FIFA Congress, Infantino stated the ambition of equal payments for the men's 2026 and women's 2027 World Cups. Women's 2023 prize money was $110 million; FIFA later approved $655 million in prize money for the men's 2026 tournament. Women's 2027 parity remains to be assessed.",
   "evidence": [
-   "Infantino pledged parity 'by 2027' in 2023",
-   "2026 men's prize pool is a record $655m, nearly six times the 2023 women's $110m pool",
-   "US men's and women's teams agreed to share 80% of 2026/2027 prize earnings equally"
+   "FIFA announced a parity ambition in March 2023; the women's 2027 tournament remains forthcoming."
   ],
   "sources": [
-   "USA Today",
-   "Yahoo Sports",
-   "UPI"
-  ]
- },
- {
-  "person": "Elon Musk",
-  "role": "CEO of Tesla",
-  "promise": "Optimus robots will be produced en masse at a cost below $20,000, available in three to five years",
-  "date_promised": "2022-09-30",
-  "due_date": "2027-12-31",
-  "status": "broken",
-  "description": "At AI Day (September 30, 2022) Musk said Tesla would produce the Optimus humanoid robot en masse at a cost lower than $20,000 and that it would be available in three to five years. As of August 2026 Optimus remained in factory-trial and prototype stages with no consumer availability or announced price — the sub-$20,000 mass-produced robot had not materialized.",
-  "evidence": [
-   "No Optimus consumer sales or price announced as of mid-2026",
-   "Optimus still demonstrated only in factory-trial footage"
-  ],
-  "sources": [
-   "BBC News",
-   "ZDNet",
-   "Business Insider"
+   "FIFA: March 2023 investment announcement",
+   "FIFA: 2026 World Cup financial contribution"
   ],
   "source_urls": [
-   "https://www.bbc.com/news/technology-63100636",
-   "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/",
-   "https://www2.businessinsider.com/elon-musk-tesla-robot-optimus-cost-less-than-car-2022-9"
-  ]
- },
- {
-  "person": "Lawrence Wong",
-  "role": "Prime Minister of Singapore",
-  "promise": "Open selected sectors and occupations to workers from Timor-Leste from 2027",
-  "date_promised": "2026-07-03",
-  "due_date": "2027-12-31",
-  "status": "pending",
-  "description": "During his visit to Dili, PM Wong announced that Singapore would open selected sectors and occupations to workers from Timor-Leste from 2027. From the second half of 2027, Timor-Leste will be an approved non-traditional source country for Work Permit holders, with construction and marine shipyard among the sectors opened.",
-  "evidence": [
-   "Announced July 2-3, 2026 in Dili alongside PM Xanana Gusmão",
-   "Timor-Leste to become approved non-traditional source country from H2 2027"
-  ],
-  "sources": [
-   "Channel News Asia",
-   "The Star",
-   "The Straits Times"
-  ],
-  "source_urls": [
-   "https://www.channelnewsasia.com/singapore/lawrence-wong-timor-leste-workers-singapore-6229181",
-   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/singapore-firms-can-hire-timorese-work-permit-holders-from-mid-2027-in-sectors-like-construction",
-   "https://www.magzter.com/tr/stories/newspaper/The-Straits-Times/SINGAPORE-TIMORLESTE-AGREE-TO-STRENGTHEN-THEIR-ECONOMIC-TIES-840021"
+   "https://inside.fifa.com/womens-football/news/gianni-infantino-announces-significant-investment-increase-for-fifa-womens",
+   "https://inside.fifa.com/organisation/fifa-council/media-releases/council-approves-record-breaking-world-cup-2026-financial-contribution?requester=MediaHub"
   ]
  },
  {
@@ -194,87 +47,55 @@
   "date_promised": "2026-07-08",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "At the Ankara Summit in July 2026, NATO allies agreed on major new defence investments including at least €70 billion in military support for Ukraine in 2026, with an equivalent level planned for 2027. The summit also demanded allies present credible plans toward the 5%-of-GDP spending target.",
+  "description": "On July 8, 2026, NATO allies pledged EUR70 billion in military equipment, assistance and training for Ukraine during 2026 and at least an equivalent level in 2027. The record's final deadline covers the second year; the first tranche has its own end-2026 horizon.",
   "evidence": [
-   "Ankara Summit (July 8, 2026) committed at least €70bn for Ukraine in 2026",
-   "Equivalent level planned for 2027; delivery still in progress"
+   "Official summit text confirms the two annual commitments; final delivery is not yet due."
   ],
   "sources": [
-   "Radio Moldova",
-   "Anadolu Agency",
-   "US News"
+   "NATO: Ankara declaration",
+   "NATO: Secretary-General summit account"
   ],
   "source_urls": [
-   "https://www.radiomoldova.md/p/80474/nato-pledges-70b-ukraine-aid-boosts-defense-at-ankara",
-   "https://www.aa.com.tr/en/europe/nato-emerges-stronger-and-more-united-after-ankara-summit-says-uk-premier/3991784",
-   "https://www.usnews.com/news/world/articles/2026-07-06/nato-chief-demands-allies-present-credible-plans-to-reach-defense-spending-targets"
+   "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration",
+   "https://www.nato.int/en/news-and-events/articles/news/2026/07/08/secretary-general-on-the-ankara-summit-nato-delivers"
   ]
  },
  {
   "person": "Jensen Huang",
   "role": "CEO of NVIDIA",
-  "promise": "NVIDIA's combined Blackwell and Vera Rubin order pipeline will reach $1 trillion through 2027",
+  "promise": "Project at least $1 trillion in Blackwell and Vera Rubin demand and purchase orders through 2027",
   "date_promised": "2026-03-16",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "At GTC 2026, Huang said NVIDIA's combined Blackwell and Vera Rubin purchase-order pipeline now targets $1 trillion through 2027 - double the $500 billion opportunity projected a year earlier - as Rubin began shipping in 2026 and Feynman was scheduled for 2028.",
+  "description": "At GTC on March 16, 2026, Huang described visibility into at least $1 trillion of Blackwell and Vera Rubin demand and orders through 2027. This is a forecast, not recognized revenue.",
   "evidence": [
-   "$1 trillion pipeline target stated at GTC 2026 (March 2026)",
-   "Pipeline doubles the $500bn projected at GTC 2025"
+   "Outcome not established as of 2026-09-21: no completed, comparable order-pipeline accounting was located, and the forecast horizon remains open."
   ],
   "sources": [
-   "Fortune India",
-   "Jon Peddie",
-   "The Standard"
+   "Data Center Dynamics: GTC forecast"
   ],
   "source_urls": [
-   "https://www.fortuneindia.com/technology/gtc-2026-nvidia-pegs-1-trillion-ai-opportunity-as-jensen-huang-outlines-next-phase/131331",
-   "https://www.jonpeddie.com/news/nvidia-gtc-2026-keynote/",
-   "https://www.thestandard.com.hk/innovation/article/324775/Nvidia-CEO-Jensen-Huang-says-to-unveil-world-surprising-new-chip"
+   "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-says-company-has-one-trillion-dollars-in-orders-through-2027/"
   ]
  },
  {
   "person": "Elon Musk",
   "role": "CEO of Tesla",
-  "promise": "\"We're planning to make Optimus robots available for sale to the public by the end of 2027\"",
+  "promise": "Expect Optimus robots probably to be sold to the public by end-2027, subject to reliability and safety",
   "date_promised": "2026-01-22",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "Speaking at the World Economic Forum in Davos, Musk said Tesla plans to begin selling Optimus humanoid robots to the public by the end of 2027, at a price of $20,000-$30,000, once reliability and safety are high enough. He predicted there will eventually be more robots than people.",
+  "description": "Musk gave a conditional public-sale forecast at Davos in January 2026.",
   "evidence": [
-   "WEF Davos panel, January 22, 2026",
-   "Axios and Entrepreneur reported the end-2027 public sales timeline"
+   "The forecast remains pending; the target year has not arrived."
   ],
   "sources": [
-   "Axios",
-   "Entrepreneur"
+   "World Economic Forum: Davos conversation",
+   "Bloomberg: January 22 forecast"
   ],
   "source_urls": [
-   "https://www.axios.com/2026/01/22/elon-musk-tesla-optimus-robots",
-   "https://www.entrepreneur.com/business-news/elon-musk-tesla-sell-optimus-humanoid-robots"
-  ]
- },
- {
-  "person": "Elon Musk",
-  "role": "CEO of SpaceX and Tesla",
-  "promise": "\"The Terafab is bringing cutting-edge manufacturing to America, creating thousands of high-paying jobs in the Lone Star State, and enabling us to produce AI chips at scale for use on Earth and in space.\"",
-  "date_promised": "2026-08-06",
-  "due_date": "2027-12-31",
-  "status": "pending",
-  "description": "SpaceX and Tesla committed an initial $16.8 billion to build Terafab, a vertically integrated semiconductor plant in Grimes County, Texas, with over 100 million square feet of manufacturing space and at least 3,000 jobs. The facility is expected to produce chips for Tesla's Optimus robots and Cybercabs and for SpaceX's space-based data centers, with production expected to begin in 2027.",
-  "evidence": [
-   "SpaceX and Tesla confirmed the $16.8 billion phase-1 commitment on August 6, 2026",
-   "Local reporting says production at the Grimes County plant is expected to begin in 2027"
-  ],
-  "sources": [
-   "Reuters",
-   "Evertiq",
-   "WTAW"
-  ],
-  "source_urls": [
-   "https://www.thestar.com.my/tech/tech-news/2026/08/06/spacex-tesla-to-initially-spend-168-billion-on-terafab-chip-plant-in-texas",
-   "https://evertiq.com/news/2026-08-07-spacex-tesla-to-initially-spend-168-billion-on-texas-chip-plant",
-   "https://wtaw.com/its-official-the-spacex-terafab-facility-in-grimes-county-is-go-for-launch/"
+   "https://www.weforum.org/podcasts/meet-the-leader/episodes/conversation-with-elon-musk-davos-2026/",
+   "https://www.bloomberg.com/news/articles/2026-01-22/tesla-aims-to-sell-optimus-robots-to-public-next-year-musk-says"
   ]
  },
  {
@@ -284,84 +105,35 @@
   "date_promised": "2025-12-19",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "European Union leaders reached a hard-fought agreement on December 19, 2025 to provide Ukraine a 90-billion-euro loan designed to keep the country's government and military operational over the next two years. The financing, backed by the EU's common budget, came after more than 24 hours of negotiations in Brussels, where talks were initially stalled over whether to use frozen Russian assets to fund the plan. European Parliament later approved enhanced cooperation for the loan.",
+  "description": "The European Council agreed on December 19, 2025 to a EUR 90 billion loan for Ukraine's 2026-2027 needs, financed through EU market borrowing backed by the EU budget.",
   "evidence": [
-   "Agreement announced by European Council President Antonio Costa, December 19-20, 2025",
-   "European Parliament approved enhanced cooperation mechanism for the 90-billion-euro loan",
-   "First 6.1 billion euros of the loan allocated to drones and PAC-3 Patriot missiles on September 11, 2026 (about 4.3 billion euros to be transferred shortly after)."
+   "Outcome not established as of 2026-09-21: the Council decision establishes the financing commitment, but the retrieved source does not establish completed disbursement of the full amount."
   ],
   "sources": [
-   "Xinhua News Agency",
-   "Interfax",
-   "Ukrinform"
+   "European Council"
   ],
   "source_urls": [
-   "https://english.news.cn/20251220/0f155b7135d748d887ef2ae2b80e6f48/c.html",
-   "https://interfax.com/newsroom/top-stories/115374/",
-   "https://www.ukrinform.net/rubric-economy/4082790-european-parliament-approves-enhanced-cooperation-for-90-billion-eu-loan-to-ukraine.html"
+   "https://www.consilium.europa.eu/en/press/press-releases/2025/12/19/european-council-18-december-2025-ukraine/"
   ]
  },
  {
   "person": "European Commission",
   "role": "EU executive",
-  "promise": "Commit close to 74 million euros to the Coalition for Epidemic Preparedness Innovations (CEPI) under the Global Health Resilience Initiative",
-  "date_promised": "2026-05-20",
+  "promise": "Commit up to EUR 73.7 million from Horizon Europe to CEPI for 2026-2027",
+  "date_promised": "2026-05-19",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "The European Commission committed close to 74 million euros to CEPI as part of the Global Health Resilience Initiative, reinforcing joint efforts to accelerate vaccine research and development and improve the world's ability to respond rapidly to health emergencies. The announcement came amid a fresh Ebola outbreak in the Democratic Republic of Congo. No disbursement deadline was disclosed; end of 2027 is used as a review horizon.",
+  "description": "The Commission announced the funding commitment during the World Health Assembly to support vaccine research and epidemic preparedness.",
   "evidence": [
-   "Commitment announced May 20, 2026 under the Global Health Resilience Initiative",
-   "No disbursement timeline disclosed; review horizon end of 2027"
+   "The May 19 announcement specifies a 2026-2027 funding period; full disbursement was not established."
   ],
   "sources": [
-   "WAM (Emirates News Agency)",
-   "Devex"
+   "Agence Europe",
+   "European Commission via Insight EU"
   ],
   "source_urls": [
-   "https://www.emirates247.com/world/european-commission-commits-74-million-for-international-coalition-to-strengthen-global-health-epidemic-preparedness/1777",
-   "https://www.devex.com/news/eu-singapore-pledge-nearly-100m-for-cepi-amid-fresh-ebola-outbreak-112536"
-  ]
- },
- {
-  "person": "Nvidia (Jensen Huang, CEO)",
-  "role": "Nvidia / OpenAI Ohio data center financing",
-  "promise": "Provide a financial guarantee for OpenAI's Ohio data center project, planned at up to $250 billion and scaled back to under $120 billion covering only the first phase",
-  "date_promised": "2026-08-14",
-  "due_date": "2027-12-31",
-  "status": "partial",
-  "description": "Nvidia and OpenAI were nearing an agreement in mid-August 2026 under which the chipmaker would provide a financial backstop for OpenAI's 10-gigawatt Ohio data center campus developed with SoftBank's SB Energy. The Wall Street Journal reported that the planned guarantee was cut from about $250 billion to below $120 billion, covering only the first phase of the project, as Nvidia shifted AI financing risk toward a broader $500 billion compute-financing platform. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
-  "evidence": [
-   "WSJ report (August 13-14, 2026): guarantee scaled back from ~$250 billion to under $120 billion",
-   "Reuters/ET and edgen.tech: backstop now covers only phase 1 of the 10-GW Ohio campus"
-  ],
-  "sources": [
-   "The Economic Times (Reuters)",
-   "edgen.tech"
-  ],
-  "source_urls": [
-   "https://m.economictimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/amp_articleshow/133253982.cms",
-   "https://www.edgen.tech/zh/news/post/nvidia-trims-openai-guarantee-to-120-billion-as-ai-financing-shifts"
-  ]
- },
- {
-  "person": "Nvidia (Jensen Huang, CEO)",
-  "role": "Nvidia / AI startup Poolside",
-  "promise": "Strike a $7 billion licensing and investment deal with AI startup Poolside",
-  "date_promised": "2026-08-22",
-  "due_date": "2027-12-31",
-  "status": "pending",
-  "description": "Nvidia reportedly struck a $7 billion licensing and investment deal with AI startup Poolside in late August 2026, a licensing playbook that sidesteps acquisition scrutiny. The deal targets dominance against rivals such as DeepSeek and OpenAI. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
-  "evidence": [
-   "Reported around August 22-24, 2026; $7 billion licensing and investment deal",
-   "Deal described as sidestepping acquisition scrutiny; targets DeepSeek/OpenAI"
-  ],
-  "sources": [
-   "Yahoo Finance",
-   "Open Source For You"
-  ],
-  "source_urls": [
-   "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
-   "https://www.opensourceforu.com/2026/08/nvidia-signs-deal-with-poolside/"
+   "https://agenceurope.eu/en/bulletin/article/13871/32/european-commission-allocates-nearly-eur74-million-over-two-years-to-coalition-for-epidemic-preparedness-innovations",
+   "https://ieu-monitoring.com/editorial/eu-commission-commits-close-to-e74m-to-coalition-for-epidemic-preparedness-innovations/1237057"
   ]
  },
  {
@@ -371,64 +143,87 @@
   "date_promised": "2026-09-07",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "European Commission president Ursula von der Leyen announced a 200 million euro (US$232.5 million) investment and partnership package with Greenland during a visit announced in early September 2026. The agreement's implementation timeline was not disclosed; end of 2027 is used as a review horizon.",
+  "description": "Von der Leyen announced a EUR 200 million Global Gateway Partnership Package during her September 7, 2026 Nuuk visit, for investment in and with Greenland in 2026 and 2027.",
   "evidence": [
-   "Von der Leyen announced the 200-million-euro investment package during her Greenland visit (China.org.cn, Sept 8)",
-   "Package reported by multiple outlets as a partnership and investment deal for Greenland"
+   "The Commission's release establishes the amount and two calendar years; it is an investment commitment, not proof of all funds disbursed."
   ],
   "sources": [
-   "Xinhua",
-   "Qazinform",
-   "Vietnam News Agency"
+   "European Commission"
   ],
   "source_urls": [
-   "http://www.china.org.cn/world/Off_the_Wire/2026-09/08/content_118684734.shtml",
-   "https://qazinform.com/news/eu-unveils-200m-investment-package-for-greenland-d53366",
-   "https://www.vietnam.vn/en/eu-cong-bo-goi-dau-tu-200-trieu-euro-danh-cho-greenland"
+   "https://digital-strategy.ec.europa.eu/en/news/eu-and-greenland-strengthen-partnership-and-engagement-backed-eu200-million-eu-investment"
   ]
  },
  {
   "person": "Recep Tayyip Erdogan",
   "role": "President of Turkey",
-  "promise": "Extend the application period of the 'Yarısı Bizden' urban-transformation housing campaign to 31 December 2027",
+  "promise": "Extend the Yarisi Bizden urban-transformation programme through December 31, 2027",
   "date_promised": "2026-09-07",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "President Erdogan announced on 7 September 2026 that applications for the 'Yarısı Bizden' (Half from Us) urban-transformation campaign would remain open until 31 December 2027. He said 108,881 units had been transformed and construction had begun on 435,683 more.",
+  "description": "Erdogan announced the extension after the September 7, 2026 Cabinet meeting, replacing the planned end-2026 termination.",
   "evidence": [
-   "Erdogan announced the extension at the Cabinet meeting (Akşam, Sept 7)",
-   "Anadolu Agency reported the campaign extension to 31 December 2027"
+   "Anadolu and TRT report the extension to December 31, 2027; the full period of programme availability remains prospective."
   ],
   "sources": [
    "Anadolu Agency",
-   "Akşam"
+   "TRT"
   ],
   "source_urls": [
-   "https://mobile.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarisi-bizden-projemizin-suresini-31-aralik-2027-tarihine-kadar-uzatiyoruz/4049743",
-   "https://www.aksam.com.tr/guncel/baskan-erdogan-mujdeyi-verdi-yarisi-bizden-kampanyasinin-suresi-uzatildi/haber-1696564"
+   "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarisi-bizden-projemizin-suresini-31-aralik-2027-tarihine-kadar-uzatiyoruz/4049743",
+   "https://www.trthaber.com/haber/ekonomi/yarisi-bizden-projesinde-sure-uzatildi-956153.html"
   ]
  },
  {
-  "person": "Volodymyr Zelenskyy",
-  "role": "President of Ukraine",
-  "promise": "Develop the joint Freyja anti-ballistic missile programme with partner governments and companies",
-  "date_promised": "2026-09-07",
+  "person": "John Dramani Mahama",
+  "role": "President of Ghana",
+  "promise": "End the double-track system in senior high schools by the end of 2027.",
+  "date_promised": "2026-09-11",
   "due_date": "2027-12-31",
   "status": "pending",
-  "description": "Zelenskyy announced on 7 September 2026 new steps toward developing the Freyja anti-ballistic missile programme, saying meetings would soon take place between the governments and companies involved and that long-range capabilities were also being developed. No completion deadline was disclosed; end of 2027 is used as a review horizon.",
-  "evidence": [
-   "Zelenskyy said meetings on Freyja would take place soon (Ukrinform)",
-   "RBC-Ukraine reported new steps unveiled for the Freyja anti-ballistic programme"
-  ],
+  "description": "Mahama set a year-end 2027 target for ending the system that alternates student attendance to accommodate limited school capacity.",
+  "evidence": "The presidency documented the commitment on September 11; Ghana News Agency reported a subsequent reiteration. These sources establish the target, not its fulfillment.",
   "sources": [
-   "Ukrinform",
-   "RBC Ukraine",
-   "Charter97"
+   "Presidency of Ghana",
+   "Ghana News Agency"
   ],
   "source_urls": [
-   "https://www.ukrinform.net/rubric-defense/4161774-zelensky-freyja-antiballistic-program-to-be-discussed-at-staff-meeting.html",
-   "https://newsukraine.rbc.ua/news/zelenskyy-unveils-new-steps-for-ukraine-s-1788803903.html",
-   "https://charter97.link/en/news/2026/9/7/697630/"
+   "https://presidency.gov.gh/han-shs-to-get-boarding-status-as-president-mahama-inspects-getfund-projects-in-upper-west/",
+   "https://gna.org.gh/2026/09/president-mahama-reiterates-governments-commitment-to-end-double-track-shs-system/"
+  ]
+ },
+ {
+  "person": "John Dramani Mahama",
+  "role": "President of Ghana",
+  "promise": "Target commissioning the SDD-UBIDS library complex in 2027.",
+  "date_promised": "2026-09-12",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "During a university visit, Mahama said he looked forward to commissioning the library complex in 2027. The due date represents the end of that stated target year, not an announced ceremony date.",
+  "evidence": "The university's account of the September 12 visit records the 2027 target. Completion has not been established.",
+  "sources": [
+   "SDD University of Business and Integrated Development Studies"
+  ],
+  "source_urls": [
+   "https://ubids.edu.gh/news/resetting-ghana-tour-president-mahama-pledges-complete-ongoing-projects"
+  ]
+ },
+ {
+  "person": "Ontario Teachers' Pension Plan",
+  "role": "Pension fund",
+  "promise": "Aim to invest an additional C$10 billion in Canada by the end of 2027, subject to investment-return objectives.",
+  "date_promised": "2026-09-11",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "The pension fund set a conditional investment objective, not an unconditional spending guarantee. Investments remain subject to its return requirements.",
+  "evidence": "The fund's September 11 announcement states the amount, end-2027 horizon and return condition; Canada's summit release subsequently reported the commitment.",
+  "sources": [
+   "Ontario Teachers' Pension Plan",
+   "Prime Minister's Office of Canada"
+  ],
+  "source_urls": [
+   "https://otpp.com/en-ca/about-us/news-and-insights/2026/ontario-teachers-sets-objective-to-invest-an-additional-10-billion-in-canada-by-the-end-of-2027/",
+   "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
   ]
  }
 ]

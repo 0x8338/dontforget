@@ -4,43 +4,19 @@
   "role": "CEO of Apple",
   "promise": "Apple's commitment to invest $600 billion in the U.S. economy over four years",
   "date_promised": "2025-08-06",
-  "due_date": "2029-08-31",
+  "due_date": "2029-08-06",
   "status": "pending",
-  "description": "At the White House on August 6, 2025, Cook joined President Trump to raise Apple's U.S. investment commitment from $500 billion to $600 billion over four years, including plans to directly hire 20,000 people and the new American Manufacturing Program. Apple reaffirmed the pledge in July 2026 when announcing its Broadcom agreement.",
+  "description": "Apple increased its four-year US spending commitment to $600 billion on August 6, 2025. Its July 8, 2026 Broadcom announcement reaffirmed that programme; the full spending horizon remains open.",
   "evidence": [
-   "White House announcement, August 6, 2025",
-   "Apple Newsroom, July 2026: Broadcom deal is part of the $600 billion four-year U.S. commitment"
+   "Apple's announcements establish the commitment and reiteration, not final cumulative expenditure."
   ],
   "sources": [
-   "Reuters",
-   "Business Wire"
+   "Apple: August 6 commitment",
+   "Apple: July 2026 Broadcom update"
   ],
   "source_urls": [
-   "https://www.reuters.com/business/retail-consumer/trump-announces-100-billion-new-investment-pledge-apple-2025-08-06/",
-   "https://investor.wedbush.com/wedbush/article/bizwire-2025-8-6-apple-increases-us-commitment-to-600-billion-announces-american-manufacturing-program"
-  ]
- },
- {
-  "person": "Senegal / IMF",
-  "role": "Government of Senegal / International Monetary Fund",
-  "promise": "Reach a US$2.2 billion, 36-month IMF-supported programme to restore debt sustainability and support economic reforms",
-  "date_promised": "2026-09-01",
-  "due_date": "2029-08-31",
-  "status": "pending",
-  "description": "IMF staff reached a staff-level agreement with Senegal on September 1, 2026, for a new US$2.2 billion, 36-month loan programme supporting economic reforms, after an earlier arrangement was suspended over previously unreported government debt. Senegal agreed to restore debt sustainability under the programme, which still requires approval by the IMF Executive Board. End of the programme is used as the review horizon.",
-  "evidence": [
-   "Staff-level agreement announced Sept 1, 2026, covering US$2.2 billion over 36 months (Bloomberg)",
-   "Senegal agreed to restore debt sustainability in return for the IMF programme (CNBC Africa)"
-  ],
-  "sources": [
-   "Bloomberg",
-   "CNBC Africa",
-   "AFP"
-  ],
-  "source_urls": [
-   "https://www.bloomberg.com/news/articles/2026-09-01/senegal-imf-reach-staff-agreement-on-2-2-billion-loan-program",
-   "https://www.cnbcafrica.com/2026/senegal-agrees-to-restore-debt-sustainability-in-return-for-imf-programme",
-   null
+   "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+   "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
   ]
  }
 ]

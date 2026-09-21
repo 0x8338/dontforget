@@ -313,6 +313,9 @@ hr.rule {
   word-break: break-word;
 }
 
+.card .sources a { color: var(--blue); text-underline-offset: 0.15em; }
+.card p + p { margin-top: 0.6rem; }
+
 /* ---- Status Badges ---- */
 .badge {
   display: inline-block;
@@ -396,6 +399,13 @@ hr.rule {
   max-width: 30rem;
   margin: 1.6rem auto 0;
   text-wrap: balance;
+}
+
+.about-main > p:not(.about-eyebrow) {
+  max-width: 38rem;
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  text-align: left;
 }
 
 /* ---- Footer ---- */

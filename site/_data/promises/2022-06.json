@@ -1,91 +1,25 @@
 [
  {
-  "person": "António Guterres",
-  "role": "UN Secretary-General",
-  "promise": "Vaccinate 70% of the world's population against COVID-19 by mid-2022",
-  "date_promised": "2021-10-01",
+  "person": "World Health Organization and United Nations",
+  "role": "International organizations",
+  "promise": "Reach 70% COVID-19 vaccination coverage in every country by mid-2022.",
+  "date_promised": "2021-10-07",
   "due_date": "2022-06-30",
-  "status": "broken",
-  "description": "Guterres made the WHO's 70%-by-mid-2022 goal a personal campaign, repeatedly calling for global vaccination as the way to end the pandemic. The goal was badly missed: about 60% of humanity was fully vaccinated by mid-2022, and in low-income countries fewer than one in five people had a dose.",
+  "status": "partial",
+  "description": "The joint October 7, 2021 strategy set a country-by-country vaccination target. WHO reported in July 2022 that average country coverage was about 60%, so the universal 70% goal was not achieved despite substantial progress.",
   "evidence": [
-   "Guterres admitted the world was 'nowhere near' the target by mid-2022",
-   "About 60% global coverage at deadline; low-income countries under 20%"
+   "The October 7 strategy establishes the target and date.",
+   "WHO's July 22, 2022 update reports average country coverage of about 60%, below the universal 70% objective."
   ],
   "sources": [
-   "United Nations press releases",
    "World Health Organization",
-   "Our World in Data"
-  ]
- },
- {
-  "person": "Tim Cook",
-  "role": "CEO of Apple",
-  "promise": "\"We expect to complete the transition\" of all Macs to Apple Silicon \"in about two years.\"",
-  "date_promised": "2020-06-22",
-  "due_date": "2022-06-22",
-  "status": "kept",
-  "description": "Announced at WWDC 2020 when introducing the M1 chip. Apple replaced Intel across the Mac line within about two years — by WWDC June 2022 every Mac sold new was Apple Silicon except the Mac Pro, which arrived a year later in June 2023.",
-  "evidence": [
-   "M1 launched Nov 2020; full line (iMac, MacBook Pro, Mac Pro roadmap) converted by mid-2022",
-   "Apple stated at WWDC 2022 the transition was nearly complete",
-   "Final Mac Pro (M2 Ultra) shipped June 2023"
-  ],
-  "sources": [
-   "Apple WWDC 2020 keynote",
-   "The Verge",
-   "Ars Technica"
-  ]
- },
- {
-  "person": "Tom Brady",
-  "role": "NFL quarterback, Tampa Bay Buccaneers",
-  "promise": "I'm not going to make that competitive commitment anymore.",
-  "date_promised": "2022-02-01",
-  "due_date": "2022-06-30",
-  "status": "broken",
-  "description": "Brady announced his NFL retirement on February 1, 2022. Forty days later (March 13, 2022) he reversed course — 'I'm coming back for my 23rd season in Tampa' — returning for the 2022 season before retiring 'for good' in February 2023.",
-  "evidence": [
-   "Retirement statement posted 2022-02-01",
-   "Unretired 2022-03-13 and played the 2022 season"
-  ],
-  "sources": [
-   "Brady Instagram, 2022-02-01 and 2022-03-13",
-   "NFL.com, 2022-03-14"
-  ]
- },
- {
-  "person": "Vitalik Buterin",
-  "role": "Ethereum co-founder",
-  "promise": "Ethereum 'Merge' (proof-of-stake transition) would be completed in Q2 2022 per the official roadmap",
-  "date_promised": "2020-01-01",
-  "due_date": "2022-06-28",
-  "status": "kept (delayed)",
-  "description": "Merge executed Sept 15, 2022 — delivered after a ~3-month slip from the announced Q2 target",
-  "evidence": [],
-  "sources": [
-   "Ethereum Foundation blog, Feb 2022",
-   "ethereum.org upgrade timeline; CoinDesk, Jun 2022"
-  ]
- },
- {
-  "person": "Alex Mashinsky",
-  "role": "CEO, Celsius Network",
-  "promise": "Celsius customers could withdraw their crypto at any time and their funds were safe",
-  "date_promised": "2022-06-12",
-  "due_date": "2022-06-30",
-  "status": "broken",
-  "description": "Hours before Celsius halted withdrawals on 12 June 2022, Mashinsky posted on Twitter that there was no issue withdrawing from the platform, and the company had long claimed deposits were available at any time. Celsius froze withdrawals that same night and filed for Chapter 11 bankruptcy in July 2022; Mashinsky was later charged with fraud over misleading customers about the platform's safety.",
-  "evidence": [
-   "Withdrawals halted the night of 12 June 2022, hours after Mashinsky's assurance",
-   "Celsius filed Chapter 11 on 13 July 2022"
-  ],
-  "sources": [
-   "Bloomberg",
-   "US Bankruptcy Court for the Southern District of New York filings"
+   "World Health Organization",
+   "World Health Organization"
   ],
   "source_urls": [
-   "https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
-   null
+   "https://www.who.int/news/item/07-10-2021-who-un-set-out-steps-to-meet-world-covid-vaccination-targets",
+   "https://www.who.int/news/item/23-12-2021-achieving-70-covid-19-immunization-coverage-by-mid-2022",
+   "https://www.who.int/news/item/22-07-2022-who-releases-global-covid-19-vaccination-strategy-update-to-reach-unprotected"
   ]
  }
 ]

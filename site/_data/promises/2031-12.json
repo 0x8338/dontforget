@@ -2,58 +2,41 @@
  {
   "person": "Tim Cook",
   "role": "CEO of Apple",
-  "promise": "Apple will spend more than $30 billion with Broadcom, producing at least 15 billion U.S.-made chips through 2031",
+  "promise": "Expect to spend more than $30 billion with Broadcom under a through-2031 agreement producing more than 15 billion US-made chips",
   "date_promised": "2026-07-08",
   "due_date": "2031-12-31",
   "status": "pending",
-  "description": "Apple announced a multiyear agreement with Broadcom expected to exceed $30 billion and result in the production of more than 15 billion U.S.-made chips, including expansion of Broadcom's Fort Collins, Colorado facility. Broadcom disclosed the long-term supply deal runs through 2031.",
+  "description": "Apple's July 8, 2026 announcement describes expected spending above $30 billion and production above 15 billion US-made chips, including Broadcom's Fort Collins expansion.",
   "evidence": [
-   "Apple Newsroom press release, July 8, 2026",
-   "Reuters: agreement runs through 2031"
+   "The multiyear agreement is announced; final spending and chip output are not yet due."
   ],
   "sources": [
-   "Apple Newsroom",
-   "Reuters"
+   "Apple: Broadcom agreement",
+   "Reuters: agreement duration"
   ],
   "source_urls": [
    "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-   "https://www.reuters.com/business/apple-spend-30-billion-broadcom-chips-deal-that-will-see-colorado-factory-expand-2026-07-08/"
-  ]
- },
- {
-  "person": "Micron Technology",
-  "role": "American memory and storage manufacturer",
-  "promise": "Invest $10 billion in Micron Research Labs, a U.S.-based long-horizon innovation hub for memory and AI",
-  "date_promised": "2026-08-20",
-  "due_date": "2031-12-31",
-  "status": "pending",
-  "description": "Micron announced on August 20, 2026 a $10 billion investment in Micron Research Labs, a U.S.-based long-horizon innovation hub in Boise, Idaho, to shape the future of memory and AI, adding to its U.S. manufacturing push. No completion deadline was disclosed; end of 2031 is used as a review horizon.",
-  "evidence": [
-   "Micron press release August 20, 2026 announcing the $10 billion research investment",
-   "Boise-based research hub; part of Micron's broader U.S. manufacturing expansion"
-  ],
-  "sources": [
-   "Micron Technology",
-   "ANI"
-  ],
-  "source_urls": [
-   "https://micron.gcs-web.com/news-releases/news-release-details/micron-unveils-micron-research-labs-us-based-long-horizon",
-   "https://aninews.in/news/business/micron-announces-usd-10-billion-research-investment-adds-to-us-manufacturing-push20260821095654/"
+   "https://www.marketscreener.com/news/apple-to-spend-30-billion-on-broadcom-chips-as-it-boosts-us-sourcing-ce7f5ed9db8ef524"
   ]
  },
  {
   "person": "Samsung SDS",
   "role": "IT services subsidiary of Samsung Group",
-  "promise": "Invest 10 trillion won ($7.4 billion) by 2031 in AI infrastructure, robotics and acquisitions",
+  "promise": "Plan KRW 10 trillion in investment by 2031 across AI, robotics and related strategic investments",
   "date_promised": "2026-09-08",
   "due_date": "2031-12-31",
   "status": "pending",
-  "description": "Samsung SDS CEO Lee June-hee said at REAL Summit 2026 in Seoul that the company plans to invest 10 trillion won ($7.4 billion) by 2031 to expand AI infrastructure and pursue robotics investments and acquisitions, with the United States a key robot market.",
+  "description": "Samsung SDS CEO Lee June-hee reiterated the investment strategy at the September 8, 2026 REAL Summit in Seoul, including acquisitions and equity investments.",
   "evidence": [
-   "Announced by CEO Lee June-hee at REAL Summit 2026 on September 8, 2026"
+   "Yonhap's dated press-conference report establishes the amount and 2031 horizon; the corporate release confirms the event."
   ],
   "sources": [
-   "Korea JoongAng Daily"
+   "Yonhap",
+   "Samsung SDS"
+  ],
+  "source_urls": [
+   "https://www.yna.co.kr/amp/view/AKR20260908084900017",
+   "https://www.samsungsds.com/us/news/1295412_5933.html"
   ]
  }
 ]

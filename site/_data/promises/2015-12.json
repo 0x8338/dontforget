@@ -1,85 +1,42 @@
 [
  {
-  "person": "United Nations",
-  "role": "189 UN member states (Millennium Development Goals)",
-  "promise": "Halve the proportion of people living in extreme poverty between 1990 and 2015",
-  "date_promised": "2000-09-08",
-  "due_date": "2015-12-31",
-  "status": "kept",
-  "description": "The Millennium Declaration committed the world to halving the 1990 extreme poverty rate by 2015. The UN declared the goal met: the global poverty rate fell from 47% in 1990 to 14% in 2015, driven heavily by growth in China and India.",
-  "evidence": [
-   "UN declared MDG1 achieved in the 2015 MDG Report",
-   "Poverty rate fell from 47% (1990) to 14% (2015)"
-  ],
-  "sources": [
-   "United Nations Millennium Development Goals Report",
-   "World Bank"
-  ]
- },
- {
-  "person": "Muhammadu Buhari",
-  "role": "President of Nigeria",
-  "promise": "We will end Boko Haram by December",
-  "date_promised": "2015-07-14",
-  "due_date": "2015-12-31",
-  "status": "broken",
-  "description": "In July 2015, shortly after his inauguration, Buhari promised that the Boko Haram insurgency would be 'technically ended' by December 2015, saying the military had been ordered to defeat the group within months. The insurgency continued throughout his entire eight-year presidency, with attacks and kidnapping persisting long after the deadline.",
-  "evidence": [
-   "Boko Haram attacks continued past the December 2015 deadline and throughout Buhari's term",
-   "Buhari's own defense officials later abandoned the 'technical defeat' claim"
-  ],
-  "sources": [
-   "BBC News (July 2015)",
-   "Reuters (2015-2016 Nigeria security reporting)"
-  ]
- },
- {
   "person": "Janet Yellen",
   "role": "Fed Chair",
-  "promise": "Sept 17, 2015 FOMC statement: 'most participants currently expect that it will be appropriate to raise the target range... by the end of the year' (first hike since 2006)",
-  "date_promised": "2020-01-01",
-  "due_date": "2015-12-28",
+  "promise": "Yellen said most FOMC participants expected conditions to warrant raising rates later in 2015 (conditional forecast, paraphrase).",
+  "date_promised": "2015-09-17",
+  "due_date": "2015-12-31",
   "status": "kept",
-  "description": "Rates raised 25bp on Dec 16, 2015",
-  "evidence": [],
+  "description": "The FOMC raised the federal-funds target range by 25 basis points on 16 December 2015, to 0.25-0.50%.",
+  "evidence": [
+   "The December 16, 2015 rate increase occurred within the conditional forecast's year-end window."
+  ],
   "sources": [
-   "FOMC statement, Sep 17, 2015, federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
-   "FOMC statement"
+   "Federal Reserve",
+   "Federal Reserve Bank of San Francisco",
+   "Federal Reserve"
+  ],
+  "source_urls": [
+   "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
+   "https://www.frbsf.org/research-and-insights/blog/uncategorized/2015/12/18/fed-decision-rate-increase-december-2015/",
+   "https://www.federalreserve.gov/mediacenter/files/fomcpresconf20150917.pdf"
   ]
  },
  {
   "person": "Wolfgang Schäuble",
   "role": "German Finance Minister",
-  "promise": "2013-2014: Germany would take on no new net federal debt from 2015 (the 'Schwarze Null' balanced-budget pledge)",
-  "date_promised": "2020-01-01",
+  "promise": "Plan a German federal budget without new borrowing in 2015",
+  "date_promised": "2014-03-12",
   "due_date": "2015-12-31",
-  "status": "kept",
-  "description": "Federal budget balanced in 2014 (first time since 1969) and maintained through 2019",
-  "evidence": [],
-  "sources": [
-   "Reuters reporting of Schäuble's balanced-budget pledge, 2013",
-   "German federal budget documents, 2014-2015"
-  ]
- },
- {
-  "person": "Meg Whitman",
-  "role": "CEO, Hewlett-Packard",
-  "promise": "HP revenue would stabilize in 2014, with growth accelerating again in 2015",
-  "date_promised": "2013-10-01",
-  "due_date": "2015-12-31",
-  "status": "partial",
-  "description": "Whitman told investors in late 2013 to expect revenue stability in 2014 with pockets of growth before acceleration in 2015. HP posted quarterly revenue growth in the second half of fiscal 2014, but full-year fiscal 2014 revenue was roughly flat or slightly down, and the 2015 plan was overtaken by the company's split into HP Inc. and Hewlett Packard Enterprise.",
+  "status": "pending",
+  "description": "Schaeuble presented the no-new-borrowing plan on March 12, 2014, applying from 2015.",
   "evidence": [
-   "Q3 and Q4 FY2014 quarterly revenue grew year over year",
-   "Full-year FY2014 revenue still declined slightly; 2015 split disrupted the growth plan"
+   "Outcome not established as of 2026-09-21: the dated government announcement establishes the 2015 target, but the original multi-year outturn claims were not verified."
   ],
   "sources": [
-   "Fox Business (2013)",
-   "New York Times"
+   "German Federal Government"
   ],
   "source_urls": [
-   null,
-   "http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
+   "https://www.bundesregierung.de/breg-en/service/archive/archive/no-more-new-borrowing-as-of-2015-446800"
   ]
  }
 ]

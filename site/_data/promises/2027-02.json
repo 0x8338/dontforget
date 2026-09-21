@@ -6,18 +6,17 @@
   "date_promised": "2026-09-04",
   "due_date": "2027-02-28",
   "status": "pending",
-  "description": "The Royal Cambodian Army announced on September 4, 2026, that Cambodia and the United States will resume joint military exercises in February 2027, the first such exercises since they were suspended in 2017. The exercise is codenamed Angkor Sentinel.",
+  "description": "Cambodia and the United States planned Angkor Sentinel for February 2027, following an initial planning conference held from August 31 to September 4, 2026.",
   "evidence": [
-   "Royal Cambodian Army announcement of resumption in February 2027 (AP)",
-   "Cambodian and US militaries began detailed planning for the 2027 exercise (AKP)"
+   "AKP's September 4 announcement specifies February 2027; the exercise had not yet reached its scheduled month."
   ],
   "sources": [
-   "AP",
-   "AKP"
+   "AKP",
+   "Cambodianess"
   ],
   "source_urls": [
-   "https://www.thecanadianpressnews.ca/world/cambodia-s-army-to-resume-joint-military-exercises-with-the-us-next-year/article_23917ce8-369a-5d65-9642-86e67c84232f.html",
-   "https://akp.gov.kh/post/detail/380334"
+   "https://www.akp.gov.kh/index.php/post/detail/380334",
+   "https://cambodianess.com/article/cambodia-us-set-february-for-2027-angkor-sentinel-exercise"
   ]
  }
 ]

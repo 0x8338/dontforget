@@ -1,0 +1,20 @@
+[
+ {
+  "person": "Micron Technology",
+  "role": "American memory and storage manufacturer",
+  "promise": "Plan USD 10 billion of investment in Micron Research Labs over the next decade",
+  "date_promised": "2026-08-20",
+  "due_date": "2036-08-20",
+  "status": "pending",
+  "description": "Micron announced the Boise-headquartered research institution on August 20, 2026, with a decade-long investment plan and anticipated facility groundbreaking in 2027.",
+  "evidence": [
+   "The Micron announcement establishes the amount and ten-year investment period; completion remains prospective."
+  ],
+  "sources": [
+   "Micron"
+  ],
+  "source_urls": [
+   "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx"
+  ]
+ }
+]

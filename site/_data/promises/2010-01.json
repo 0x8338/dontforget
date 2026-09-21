@@ -6,15 +6,18 @@
   "date_promised": "2009-01-22",
   "due_date": "2010-01-22",
   "status": "broken",
-  "description": "Obama signed Executive Order 13492 on his second day in office ordering the detention facility closed within one year. Congress blocked transfers of detainees and the prison remains open as of 2026.",
+  "description": "Obama signed Executive Order 13492 on January 22, 2009, directing closure within one year. The detention facility remained in use after January 22, 2010.",
   "evidence": [
-   "Guantánamo remains operational with detainees in 2026",
-   "Congress repeatedly passed provisions barring transfer of detainees"
+   "Executive Order 13492 set a one-year deadline.",
+   "TIME reported in January 2015 that detention facilities remained in use."
   ],
   "sources": [
-   "White House Archives",
-   "BBC News",
-   "Reuters"
+   "GovInfo",
+   "TIME"
+  ],
+  "source_urls": [
+   "https://www.govinfo.gov/app/details/DCPD-200900005",
+   "https://time.com/3672066/guantanamo-bay-history/"
   ]
  }
 ]

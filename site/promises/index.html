@@ -21,8 +21,8 @@
 <main>
 
   <div class="date-hero">
-    <div class="lives-count" style="font-size:clamp(2rem,6vw,3.5rem);color:var(--ink);" id="promise-count">—</div>
-    <div class="lives-label">promises tracked</div>
+    <div class="lives-count" style="font-size:3rem;color:var(--ink);" id="promise-count">—</div>
+    <div class="lives-label">promises due</div>
     <div class="stats" style="margin-top:0.8rem;">
       <div class="stat"><div class="stat-num" id="stat-kept">—</div><div class="stat-label">Kept</div></div>
       <div class="stat"><div class="stat-num" id="stat-broken">—</div><div class="stat-label">Broken</div></div>
@@ -38,8 +38,10 @@
     <span class="filter-chip" data-filter="kept">kept</span>
     <span class="filter-chip" data-filter="broken">broken</span>
     <span class="filter-chip" data-filter="partial">partial</span>
+    <span class="filter-chip" data-filter="pending">pending</span>
   </div>
 
+  <p id="load-error" role="status" hidden></p>
   <div id="promises-container">
     <div class="date-hero" style="padding-top:3rem;">
       <div class="lives-label" style="color:var(--stone);">Loading…</div>
@@ -52,8 +54,12 @@
   <p>UTC &middot; <a href="../about.html">About</a></p>
 </footer>
 
+<script src="../assets/data.js"></script>
 <script>
 (function() {
+  var data = DontforgetData;
+  var escapeHtml = data.escapeHtml;
+  var today = new Date().toISOString().slice(0, 10);
   var statusClass = { kept: 'kept', broken: 'broken', partial: 'pending', pending: 'pending' };
   var statusMark = { kept: '&#10003;', broken: '&#10007;', partial: '&#9675;', pending: '&#9675;' };
   var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
@@ -63,7 +69,21 @@
   var nextMonth = 0;
   var currentFilter = 'all';
 
+  function showLoadError() {
+    var error = document.getElementById('load-error');
+    error.hidden = false;
+    error.textContent = 'Some promises could not be loaded. Totals may be incomplete.';
+  }
+
   function renderPromises(filter) {
+    var counts = { kept: 0, broken: 0, partial: 0, pending: 0 };
+    loadedPromises.forEach(function(p) { counts[data.promiseStatus(p.status)] += 1; });
+    document.getElementById('promise-count').textContent = loadedPromises.length;
+    Object.keys(counts).forEach(function(status) {
+      var stat = document.getElementById('stat-' + status);
+      stat.textContent = counts[status];
+      stat.className = 'stat-num ' + status;
+    });
     var groups = {};
     loadedPromises.forEach(function(p) {
       var ym = p.due_date.slice(0, 7);
@@ -74,20 +94,24 @@
     Object.keys(groups).sort().reverse().forEach(function(ym) {
       var parts = ym.split('-');
       var label = months[parseInt(parts[1]) - 1] + ' ' + parts[0];
-      var items = filter === 'all' ? groups[ym] : groups[ym].filter(function(p) { return p.status === filter; });
+      var items = filter === 'all' ? groups[ym] : groups[ym].filter(function(p) { return data.promiseStatus(p.status) === filter; });
       if (items.length === 0) return;
       html += '<div class="eyebrow">' + label + '</div>';
       items.forEach(function(p) {
-        var cls = statusClass[p.status] || 'pending';
+        var status = data.promiseStatus(p.status);
+        var cls = statusClass[status] || 'pending';
         html += '<article class="card card-' + cls + '">' +
-          '<h3>' + p.promise + '</h3>' +
+          '<h3>' + escapeHtml(p.promise) + '</h3>' +
           '<div class="meta-line">' +
-            '<span class="status-mark status-' + cls + '">' + statusMark[p.status] + '</span> ' +
-            p.person + ', ' + p.role + ' · Due: ' + p.due_date +
-            '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + p.status + '</span>' +
+            '<span class="status-mark status-' + cls + '">' + (statusMark[status] || '?') + '</span> ' +
+            escapeHtml(p.person) + ', ' + escapeHtml(p.role) + ' · Due: ' + escapeHtml(p.due_date) +
+            '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + escapeHtml(p.status) + '</span>' +
           '</div>' +
-          '<p>' + p.description + '</p>' +
-          '<div class="sources">Sources: ' + p.sources.join(' · ') + '</div>' +
+          '<p>' + escapeHtml(p.description || '') + '</p>' +
+          (Array.isArray(p.evidence) ? p.evidence : [p.evidence]).filter(Boolean).map(function(evidence) {
+            return '<p>' + escapeHtml(evidence) + '</p>';
+          }).join('') +
+          '<div class="sources">Sources: ' + data.sourcesHtml(p) + '</div>' +
           '</article>';
       });
     });
@@ -96,38 +120,35 @@
   }
 
   function loadNextMonth() {
-    if (nextMonth >= monthsList.length) return;
+    if (nextMonth >= monthsList.length) {
+      renderPromises(currentFilter);
+      return;
+    }
     var month = monthsList[nextMonth];
     nextMonth += 1;
     fetch('../_data/' + month.file)
-      .then(function(r) { return r.json(); })
+      .then(function(r) {
+        if (!r.ok) throw new Error('Could not load promises');
+        return r.json();
+      })
       .then(function(items) {
-        loadedPromises = loadedPromises.concat(items);
+        loadedPromises = loadedPromises.concat(items.filter(function(p) { return p.due_date <= today; }));
         renderPromises(currentFilter);
         loadNextMonth();
       })
       .catch(function() {
-        if (loadedPromises.length === 0) {
-          container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load promises.</div></div>';
-        }
+        showLoadError();
+        loadNextMonth();
       });
   }
 
   fetch('../_data/promises/index.json')
-    .then(function(r) { return r.json(); })
+    .then(function(r) {
+      if (!r.ok) throw new Error('Could not load promises index');
+      return r.json();
+    })
     .then(function(index) {
-      var st = index.due_status || {};
-      document.getElementById('promise-count').textContent = index.due_total || 0;
-      document.getElementById('stat-kept').textContent = st.kept || 0;
-      document.getElementById('stat-broken').textContent = st.broken || 0;
-      document.getElementById('stat-partial').textContent = st.partial || 0;
-      document.getElementById('stat-pending').textContent = st.pending || 0;
-      document.getElementById('stat-kept').className = 'stat-num kept';
-      document.getElementById('stat-broken').className = 'stat-num broken';
-      document.getElementById('stat-partial').className = 'stat-num partial';
-      document.getElementById('stat-pending').className = 'stat-num pending';
-
-      monthsList = (index.months || []).filter(function(m) { return m.due; });
+      monthsList = (index.months || []).filter(function(m) { return m.key <= today.slice(0, 7); });
       loadNextMonth();
     })
     .catch(function() {

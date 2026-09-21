@@ -1,73 +1,40 @@
 [
  {
-  "person": "Elon Musk",
-  "role": "X (Twitter) owner",
-  "promise": "Payments will launch on X in 2024",
-  "date_promised": "2023-10-15",
-  "due_date": "2025-03-31",
-  "status": "partial",
-  "description": "Musk promised the X 'everything app' would launch payments, later saying they would come 'early next year' (Oct 2024). Deadlines were repeatedly missed; X obtained money-transmitter licenses in most US states and partnered with Visa, with X Money rolling out in limited beta in late 2025-2026, but the promised full payments launch was never delivered on schedule.",
-  "evidence": [
-   "Repeated missed deadlines (end-2024, then early-2025)",
-   "X Money only reached limited beta in some US states by late 2025"
-  ],
-  "sources": [
-   "WSJ CEO Council (Oct 2023)",
-   "Reuters (X Money / Visa reports)"
-  ]
- },
- {
-  "person": "Shuntaro Furukawa",
-  "role": "President, Nintendo",
-  "promise": "We will make an announcement about the successor to Nintendo Switch within this fiscal year.",
-  "date_promised": "2024-05-07",
-  "due_date": "2025-03-31",
-  "status": "kept",
-  "description": "Furukawa told investors in May 2024 that Nintendo would announce the Switch successor by the end of fiscal year 2024 (March 2025). Nintendo revealed the Switch 2 on January 16, 2025, ahead of the deadline, and it launched June 5, 2025.",
-  "evidence": [
-   "Furukawa's May 2024 statement on announcement within fiscal year",
-   "Switch 2 announced 2025-01-16, launched 2025-06-05"
-  ],
-  "sources": [
-   "Nintendo IR Q&A, 2024-05-07",
-   "Nintendo press release, 2025-01-16"
-  ]
- },
- {
   "person": "Nirmala Sitharaman",
   "role": "Indian Finance Minister",
-  "promise": "Aug 2019: India would become a '$5 trillion economy' by 2024-25",
-  "date_promised": "2020-01-01",
-  "due_date": "2025-03-28",
-  "status": "broken",
-  "description": "FY2024-25 nominal GDP was roughly $4.0-4.3tn — well short of $5tn",
-  "evidence": [],
+  "promise": "Target India becoming a USD 5 trillion economy by fiscal 2024-25",
+  "date_promised": "2019-07-05",
+  "due_date": "2025-03-31",
+  "status": "pending",
+  "description": "Sitharaman's July 5, 2019 Budget presented the USD 5 trillion economy ambition for fiscal 2024-25.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: a consistently defined fiscal-year nominal GDP and dollar conversion was not established; the original USD 4.0-4.3 trillion estimate is removed."
+  ],
   "sources": [
-   "Sitharaman remarks, Aug 2019",
-   "IMF World Economic Outlook, Oct 2025, imf.org"
+   "Press Information Bureau",
+   "Press Information Bureau"
+  ],
+  "source_urls": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1577411&lang=2&reg=48",
+   "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=192134"
   ]
  },
  {
-  "person": "Sam Altman",
-  "role": "CEO of OpenAI",
-  "promise": "OpenAI's o3 reasoning model will be released in early 2025",
-  "date_promised": "2024-12-20",
-  "due_date": "2025-03-31",
-  "status": "kept (delayed)",
-  "description": "When OpenAI announced o3 in December 2024 it said the reasoning model would be available to users in 'early 2025'. OpenAI shipped o3 and o4-mini to the API on April 16, 2025 — about two weeks past the first quarter, but delivered.",
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Make NVIDIA Isaac GR00T N1 available to robotics developers",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-03-18",
+  "status": "kept",
+  "description": "NVIDIA announced Isaac GR00T N1 on March 18, 2025 as immediately available, with model resources for robotics developers.",
   "evidence": [
-   "o3 and o4-mini released to the API on April 16, 2025",
-   "OpenAI's December 2024 announcement targeted 'early 2025' availability"
+   "NVIDIA's dated announcement states immediate availability."
   ],
   "sources": [
-   "OpenAI",
-   "TechCrunch",
-   "The Verge"
+   "NVIDIA: GR00T N1 announcement"
   ],
   "source_urls": [
-   "https://openai.com/index/introducing-o3-and-o4-mini/",
-   "https://techcrunch.com/2025/04/16/openai-releases-o3-and-o4-mini/",
-   "https://www.theverge.com/2025/4/16/24464022/openai-o3-o4-mini-release"
+   "https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks"
   ]
  }
 ]

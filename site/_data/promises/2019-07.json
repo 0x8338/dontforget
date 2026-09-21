@@ -1,19 +1,23 @@
 [
  {
-  "person": "Tim Sweeney",
-  "role": "CEO, Epic Games",
-  "promise": "The Fortnite World Cup 2019 will feature a $100 million prize pool.",
+  "person": "Epic Games",
+  "role": "Fortnite publisher",
+  "promise": "Epic announced a $30 million prize pool for the Fortnite World Cup finals on July 26-28, 2019.",
   "date_promised": "2019-02-22",
   "due_date": "2019-07-28",
   "status": "kept",
-  "description": "Epic announced the Fortnite World Cup 2019 with a $100 million total prize pool across the 2018-2019 competitive season. The finals took place July 26-28, 2019 at Arthur Ashe Stadium in New York, with the solo champion winning $3 million — as promised.",
+  "description": "Epic announced a US$30 million prize pool for the July 26-28, 2019 World Cup solo and duo finals. Its July 31 recap confirms the finals took place with that pool. The separate US$100 million season commitment was not the finals prize pool.",
   "evidence": [
-   "Epic announced $100M prize pool for Fortnite World Cup 2019",
-   "World Cup finals held July 26-28, 2019; $3M solo first prize paid"
+   "Epic's February 22 announcement distinguishes the finals pool from the broader competitive season.",
+   "Epic's July 31 post-event recap records the completed finals and US$30 million solo/duo prize pool. This assesses the announced event pool, not the settlement date of every winner's payment."
   ],
   "sources": [
-   "Epic Games announcement, 2019-02-22",
-   "ESPN coverage, 2019-07-28"
+   "Epic Fortnite World Cup details",
+   "Epic Games"
+  ],
+  "source_urls": [
+   "https://www.fortnite.com/news/fortnite-world-cup-details?lang=fr",
+   "https://www.fortnite.com/news/the-fortnite-world-cup-a-record-setting-tournament"
   ]
  }
 ]

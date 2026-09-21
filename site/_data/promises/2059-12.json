@@ -1,0 +1,23 @@
+[
+ {
+  "person": "Xi Jinping",
+  "role": "President of China",
+  "promise": "Aim to peak CO2 emissions before 2030 and achieve carbon neutrality before 2060",
+  "date_promised": "2020-09-22",
+  "due_date": "2059-12-31",
+  "status": "pending",
+  "description": "Xi announced these goals at the UN General Assembly on September 22, 2020. The pledge sets latest thresholds, not a prohibition on peaking earlier.",
+  "evidence": [
+   "China's NDC records the September 22, 2020 announcement and both before-year targets.",
+   "Outcome not established as of 2026-09-21: both target horizons remain future; the checked announcement and NDC establish the goals, not completion."
+  ],
+  "sources": [
+   "UNFCCC",
+   "International Energy Agency"
+  ],
+  "source_urls": [
+   "https://www.unfccc.int/sites/default/files/NDC/2022-06/China%E2%80%99s%20Achievements%2C%20New%20Goals%20and%20New%20Measures%20for%20Nationally%20Determined%20Contributions.pdf",
+   "https://www.iea.org/policies/12987-carbon-neutrality-target-before-2060"
+  ]
+ }
+]

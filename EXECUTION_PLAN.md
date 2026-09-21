@@ -7,7 +7,9 @@
 {"events": {"last_date": "2026-07-31"}, "promises": {"last_date": "2026-07-31"}}
 ```
 
-**Update = collect from last_date+1d to today UTC.** Advance checkpoint after success. Skip = no gap.
+**Update = collect from last_date+1d to today UTC.** After successful research,
+advance the checkpoint only through fully elapsed UTC days. Today's provisional
+additions do not close today's coverage; revisit it next run and deduplicate.
 
 ## Daily Update (only mode)
 
@@ -16,7 +18,7 @@ READ checkpoint → last_date
 TARGET: last_date+1d through today UTC
 Research events for each target date (≥2 sources, lives>0, date≥2000)
 Append to events.json keyed by MM-DD
-Set events.last_date = today
+Set events.last_date = latest fully elapsed UTC day researched (at most yesterday)
 ```
 
 **Promises — every run does ALL THREE:**
@@ -31,24 +33,26 @@ Set events.last_date = today
 - **Track B — CEOs & corporate:** AI labs, big tech, pharma, finance, energy, autos; commitments with explicit deadlines (safety, net-zero, hiring, investment, product rollouts).
 - **Track C — International orgs & treaties:** UN agencies, NATO, IMF/World Bank, WHO, EU, G7/G20/COP decisions, treaty deadlines.
 
-Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, exact public quote preferred, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix). `sources` are short names only — never URLs; put full links in the optional `source_urls` array.
+Quality gates for every entry: ≥1 verifiable source (prefer 2), explicit or calculable due date, faithful wording, status `kept | broken | partial | pending | kept (delayed)`, no duplicates vs `promises.json` (check person + promise prefix). `sources` are short names only — never URLs; put usable links in the aligned `source_urls` array. Do not invent exact quotes or deadlines.
 
-### Finish: validate, commit, push
+### Finish: validate, then publish when authorized
 
 After the events + promises update:
 
 1. Run `python3 site/_data/split_data.py` to regenerate the lightweight pages data (events in 5-year windows, promises by due month + manifest).
 2. Run `python3 site/_data/validate.py`; fix errors before continuing.
-3. If `events.json`, `promises.json`, `checkpoint.json`, or generated split files changed, commit with a UTC timestamp:
+3. If publication is authorized and datasets or generated split files changed, commit with a UTC timestamp:
    `git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ) — events +N, promises +M"`
-4. Push to origin: `git push origin main` (repo: `0x8338/dontforget`).
+4. When authorized, push to origin: `git push origin main` (repo: `0x8338/dontforget`).
 5. If a same-day re-run produced no changes, skip the commit.
 
 Page loading: the homepage reads the events window manifest (`events/index.json`) and fetches only windows whose `days` map contains the displayed date; the promises page streams due-month files one by one. Both render incrementally and have no load-more buttons.
 
 ## Historical Backfill (one-time, already done)
 
-2000-2026 fully populated (536 events, 273 dates). No backfill needed.
+The archive contains selected events from 2000 onward, not complete historical
+coverage. See the September 2026 fact-check ledgers for corrections and withheld
+records; use checkpoint totals rather than the original backfill estimates.
 
 ## Promises Expansion (ongoing)
 

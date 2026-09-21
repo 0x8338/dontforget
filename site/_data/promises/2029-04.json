@@ -2,22 +2,39 @@
  {
   "person": "Jensen Huang",
   "role": "CEO of Nvidia",
-  "promise": "Nvidia will manufacture up to $500 billion of AI chips and supercomputers in the U.S. over the next four years",
+  "promise": "Plan to produce up to $500 billion of AI infrastructure in the United States with partners over four years",
   "date_promised": "2025-04-14",
-  "due_date": "2029-04-30",
+  "due_date": "2029-04-14",
   "status": "pending",
-  "description": "Nvidia announced it will build AI supercomputers entirely on U.S. soil for the first time, producing up to $500 billion of domestic AI infrastructure over four years with partners such as TSMC, including Blackwell chip production in Arizona and new supercomputer manufacturing plants in Texas.",
+  "description": "NVIDIA's April 14, 2025 announcement set a four-year US production plan involving semiconductor packaging and supercomputer manufacturing partners.",
   "evidence": [
-   "Nvidia announcement, April 14, 2025",
-   "Reuters and AP coverage of the $500 billion four-year commitment"
+   "Outcome not established as of 2026-09-21: the announcement gives a production-value plan, not a completed four-year output account."
   ],
   "sources": [
-   "Reuters",
-   "AP News"
+   "NVIDIA: US manufacturing plan"
   ],
   "source_urls": [
-   "https://www.investing.com/news/stock-market-news/nvidia-says-working-with-partners-to-make-ai-supercomputers-in-us-3983693",
-   "https://finance.yahoo.com/news/nvidia-pledges-500-billion-manufacture-164913589.html"
+   "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/"
+  ]
+ },
+ {
+  "person": "VEON / Jazz (Pakistan)",
+  "role": "Telecommunications operator and its Pakistani subsidiary",
+  "promise": "Invest USD 1 billion in Pakistan over the next three years to expand 5G connectivity and digital services",
+  "date_promised": "2026-04-01",
+  "due_date": "2029-04-01",
+  "status": "pending",
+  "description": "JazzWorld and VEON leadership reiterated the investment plan during their April 1, 2026 meeting with Pakistan's prime minister.",
+  "evidence": [
+   "Jazz's dated company statement establishes the meeting, amount and three-year investment period; full deployment was not established."
+  ],
+  "sources": [
+   "Jazz",
+   "Jazz"
+  ],
+  "source_urls": [
+   "https://jazz.com.pk/media-center/detail/jazzworld-veon-leadership-call-on-prime-minister-reiterate-commitment-to-pakistan-with-usd-1-billion-investment-to-spearhead-5g-rollout",
+   "https://jazz.com.pk/media-center/detail/jazzworld-and-veon-leadership-meet-finance-and-it-ministers-to-advance-pakistans-digital-economy"
   ]
  }
 ]

@@ -2,15 +2,19 @@
  {
   "person": "George Osborne",
   "role": "UK Chancellor",
-  "promise": "March 18, 2015 Budget: UK would run a budget surplus of £5.4bn in 2018-19 and ~£23bn by 2019-20",
-  "date_promised": "2020-01-01",
-  "due_date": "2020-03-28",
-  "status": "broken",
-  "description": "2019-20 ended in deficit (~2.5% of GDP, over £40bn of borrowing); surplus never delivered",
-  "evidence": [],
+  "promise": "The March 2015 Budget projected a UK budget surplus by 2018-19 and a GBP7 billion surplus in 2019-20 (paraphrase).",
+  "date_promised": "2015-03-18",
+  "due_date": "2020-03-31",
+  "status": "pending",
+  "description": "Osborne's March 18, 2015 Budget speech projected a surplus by 2018-19 and GBP 7 billion in 2019-20.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: the forecast is sourced, but a consistent ONS outturn vintage for fiscal 2019-20 was not retrieved."
+  ],
   "sources": [
-   "OBR Economic and Fiscal Outlook, Mar 2015, obr.uk",
-   "ONS Public Sector Finances, 2019-20"
+   "UK Government"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/speeches/chancellor-george-osbornes-budget-2015-speech"
   ]
  }
 ]

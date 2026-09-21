@@ -1,131 +1,84 @@
 [
  {
-  "person": "Donald Trump",
-  "role": "President of the United States",
-  "promise": "Repeal and replace Obamacare 'very quickly' in 2017",
-  "date_promised": "2017-01-20",
-  "due_date": "2017-12-31",
-  "status": "broken",
-  "description": "Trump repeatedly promised the Affordable Care Act would be repealed and replaced 'very quickly' after taking office. The Senate repeal effort collapsed on July 28, 2017 with John McCain's decisive vote, and the ACA remained law.",
-  "evidence": [
-   "Senate rejected repeal 2017-07-28",
-   "ACA remains in force through 2026"
-  ],
-  "sources": [
-   "C-SPAN",
-   "The New York Times",
-   "AP News"
-  ]
- },
- {
   "person": "Elon Musk",
   "role": "CEO of Tesla and SpaceX",
-  "promise": "Drive a Tesla fully autonomously from Los Angeles to New York by the end of 2017",
+  "promise": "Musk forecast a fully autonomous Tesla demonstration from Los Angeles to New York by the end of 2017.",
   "date_promised": "2017-04-28",
   "due_date": "2017-12-31",
   "status": "broken",
-  "description": "At his 2017 TED interview Musk promised a cross-country demonstration of full self-driving, from a parking lot in LA to one in NYC 'without touching the controls' by the end of 2017. The demonstration never happened, and full self-driving still had not been delivered as of 2026.",
+  "description": "Musk forecast an autonomous coast-to-coast Tesla demonstration by the end of 2017. In February 2018 he acknowledged missing that target.",
   "evidence": [
-   "No cross-country autonomous demo ever took place",
-   "FSD features remained supervised and incomplete through 2026"
+   "The dated TED interview establishes the original end-2017 target.",
+   "In Tesla's February 7, 2018 earnings call, Musk acknowledged the missed demonstration target. This assessment concerns that deadline, not all later autonomous-driving capability."
   ],
   "sources": [
-   "TED interview",
-   "Tesla shareholder communications",
-   "Reuters"
+   "TED",
+   "Elon Musk Archive",
+   "Tesla earnings call via ROIC AI"
+  ],
+  "source_urls": [
+   "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
+   "https://www.elonmuskarchive.org/video/ted-2017-04-28",
+   "https://www.roic.ai/quote/TSLA/transcripts/2017-year/4-quarter"
   ]
  },
  {
-  "person": "Elon Musk",
-  "role": "CEO of Tesla",
-  "promise": "Produce 5,000 Model 3 cars per week by the end of 2017",
-  "date_promised": "2017-05-03",
+  "person": "Bank of England",
+  "role": "Central bank economic forecast",
+  "promise": "The Bank of England projected UK GDP growth of 1.4% in 2017 in its November 2016 Inflation Report (forecast, not a promise).",
+  "date_promised": "2016-11-03",
   "due_date": "2017-12-31",
-  "status": "partial",
-  "description": "Musk promised Model 3 production would reach 5,000 units per week in late 2017, then by Q1 2018 after 'production hell.' The rate was finally reached in the last week of June 2018, about six months late, after a frantic overnight shutdown push.",
+  "status": "pending",
+  "description": "The Bank's November 3, 2016 Inflation Report projected 1.4% UK GDP growth in 2017, rather than 0.4%. This was a forecast conditional on its economic assumptions.",
   "evidence": [
-   "5,000/week achieved only in the final week of June 2018",
-   "Target missed by roughly six months but eventually met"
+   "Outcome not established as of 2026-09-21: no consistent ONS outturn vintage was established for comparison; the original growth and unemployment figures are removed."
   ],
   "sources": [
-   "Tesla shareholder letters",
-   "Reuters",
-   "AP News"
-  ]
- },
- {
-  "person": "Elon Musk",
-  "role": "Tesla",
-  "promise": "Solar Roof tiles (unveiled Oct 28, 2016) to begin installations by summer 2017",
-  "date_promised": "2016-06-30",
-  "due_date": "2017-12-31",
-  "status": "broken",
-  "description": "First customer installs did not begin until 2018, and the product scaled only slowly; the 'installations by summer next year' target was missed by roughly a year.",
-  "evidence": [],
-  "sources": [
-   "TechCrunch"
-  ]
- },
- {
-  "person": "Mark Carney",
-  "role": "BOE Governor",
-  "promise": "Nov 3, 2016 Inflation Report: if Brexit proceeded as planned, 2017 UK growth would slow to 0.4% (slowest in the G7) and unemployment would rise",
-  "date_promised": "2020-01-01",
-  "due_date": "2017-12-28",
-  "status": "broken",
-  "description": "UK GDP grew 1.7% in 2017; unemployment fell to ~4.3%",
-  "evidence": [],
-  "sources": [
-   "BOE Inflation Report, Nov 3, 2016,",
-   "ONS GDP/unemployment data 2017-18"
+   "Bank of England"
+  ],
+  "source_urls": [
+   "https://www.bankofengland.co.uk/-/media/boe/files/inflation-report/2016/november-2016.pdf"
   ]
  },
  {
   "person": "Bruno Le Maire",
   "role": "French Finance Minister",
-  "promise": "2017: France would bring its public deficit back below 3% of GDP in 2017 (after 3.4% in 2016)",
-  "date_promised": "2020-01-01",
-  "due_date": "2017-12-28",
+  "promise": "Bring France's public deficit below 3% of GDP in 2017",
+  "date_promised": "2017-06-26",
+  "due_date": "2017-12-31",
   "status": "kept",
-  "description": "Deficit came in at 2.9% of GDP in 2017, then 2.3% in 2018",
-  "evidence": [],
+  "description": "Le Maire reiterated the commitment to bring the 2017 deficit below 3% of GDP, conditional on spending restraint. INSEE's March 2018 first estimate reported a 2017 deficit of 2.6% of GDP.",
+  "evidence": [
+   "TF1's dated interview records the 2017 commitment.",
+   "INSEE's first 2017 deficit estimate was below the 3% threshold."
+  ],
   "sources": [
-   "INSEE public finance accounts, 2017-2018, insee.fr",
-   "Le Maire statements, 2017"
+   "TF1",
+   "INSEE"
+  ],
+  "source_urls": [
+   "https://www.tf1info.fr/politique/video-ministere-economie-bruno-le-maire-au-jt-de-20-heures-la-france-est-droguee-a-la-depense-publique-2056749.html",
+   "https://www.insee.fr/en/statistiques/3375619"
   ]
  },
  {
   "person": "Warren Buffett",
   "role": "Investor, Berkshire Hathaway CEO",
   "promise": "2007 bet with Protégé Partners: over Jan 1, 2008 - Dec 31, 2017, an S&P 500 index fund would beat a fund-of-funds portfolio of hedge funds",
-  "date_promised": "2020-01-01",
-  "due_date": "2017-12-28",
-  "status": "kept",
-  "description": "S&P 500 returned 125.8% cumulative (~7.1%/yr) vs 36.3% (~2.2%/yr) for the hedge funds; Buffett donated the $2.2m prize",
-  "evidence": [],
-  "sources": [
-   "Berkshire Hathaway 2017 annual shareholder letter, berkshirehathaway.com/letters/2017ltr.pdf"
-  ]
- },
- {
-  "person": "Ginni Rometty",
-  "role": "CEO, IBM",
-  "promise": "IBM would return to revenue growth in 2017",
-  "date_promised": "2017-01-01",
+  "date_promised": "2007-12-19",
   "due_date": "2017-12-31",
-  "status": "partial",
-  "description": "Rometty promised investors that IBM would return to revenue growth as its strategic imperatives scaled. IBM grew in the fourth quarter of 2017, but full-year 2017 revenue still declined slightly year over year (roughly $79.1 billion versus about $79.9 billion in 2016); sustained full-year growth resumed only in 2018.",
+  "status": "kept",
+  "description": "Buffett won the ten-year wager ending in 2017. His 2017 shareholder letter reports a 125.8% cumulative gain and 8.5% annualized gain for the S&P index fund, exceeding each of the five competing funds of funds.",
   "evidence": [
-   "Q4 2017 returned to growth, but FY2017 revenue was still down ~1%",
-   "IBM reported full-year revenue growth again in 2018"
+   "Buffett dates the wager to 19 December 2007 and publishes the final fund-by-fund scorecard."
   ],
   "sources": [
-   "Silicon Republic (2017-04-18)",
-   "S"
+   "Berkshire Hathaway",
+   "Forbes"
   ],
   "source_urls": [
-   null,
-   "https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
+   "https://www.berkshirehathaway.com/letters/2017ltr.pdf",
+   "https://www.forbes.com/sites/rogeraitken/2017/09/02/berkshire-hathaways-buffett-odds-on-favourite-to-win-million-dollar-sp-500-bet/"
   ]
  }
 ]

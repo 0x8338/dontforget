@@ -1,21 +1,26 @@
 [
  {
   "person": "Frontier AI companies (UK AI Safety Summit process)",
-  "role": "OpenAI, Anthropic, Google, Microsoft, xAI, Meta, Amazon, Mistral, Cohere, IBM, NVIDIA, etc.",
-  "promise": "16 frontier AI companies committed to publish 'frontier AI safety frameworks' before the next global AI safety summit (Paris, February 2025)",
-  "date_promised": "2024-05-22",
+  "role": "Signatories to the Seoul Frontier AI Safety Commitments",
+  "promise": "The Seoul signatories undertook to publish severe-risk safety frameworks by the upcoming AI summit in France.",
+  "date_promised": "2024-05-21",
   "due_date": "2025-02-10",
-  "status": "kept",
-  "description": "At the Seoul AI Safety Summit (co-hosted by the UK, May 21-22, 2024), 16 leading AI developers signed the Seoul Frontier AI Safety Commitments, pledging to publish detailed safety frameworks by the next summit. The frameworks were released ahead of and around the Paris AI Action Summit (Feb 10-11, 2025).",
+  "status": "pending",
+  "description": "The voluntary commitments require signatories to explain their approach to severe risks in published safety frameworks.",
   "evidence": [
-   "Seoul Summit commitments announced May 21-22, 2024 (GOV.UK)",
-   "16 signatories including OpenAI, Anthropic, Google DeepMind, Microsoft, xAI, Meta",
-   "Safety frameworks published by early 2025 (Paris summit agenda)"
+   "The UK notice and commitment text support the May 21 announcement and by-the-next-summit commitment.",
+   "The Elysee gives February 10-11, 2025 for the summit.",
+   "Outcome not established as of 2026-09-21: the checked material is not an individual publication-date audit for all signatories."
   ],
   "sources": [
-   "GOV.UK (May 2024)",
-   "Reuters (May 2024)",
-   "Wikipedia: AI Safety Summit"
+   "UK commitment announcement",
+   "UK Seoul commitment text",
+   "Elysee AI Action Summit dates"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+   "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+   "https://www.elysee.fr/sommet-pour-l-action-sur-l-ia"
   ]
  }
 ]

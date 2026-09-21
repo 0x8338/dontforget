@@ -1,15 +1,21 @@
 {
  "events": {
-  "last_date": "2026-09-11",
-  "total": 709
+  "last_date": "2026-09-20",
+  "total": 399
  },
  "promises": {
-  "last_date": "2026-09-11",
-  "total": 449
+  "last_date": "2026-09-20",
+  "total": 154
  },
- "last_updated": "2026-09-11T16:15:33Z",
+ "last_updated": "2026-09-21T06:30:37Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-c: orgs/treaties (who-afro-emt-2030, un-lebanon-426m-appeal, european-union-6.1bn-tranche)"
+  "last_focus": "track-a: leaders/governments (Ghana education targets and Canadian trade target); supplemental Canadian finance commitments"
+ },
+ "fact_check": {
+  "as_of": "2026-09-21",
+  "report": "research/fact-checks/2026-09-21/README.md",
+  "withheld_events": 323,
+  "withheld_promises": 300
  }
 }

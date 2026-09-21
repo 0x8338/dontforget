@@ -1,48 +1,22 @@
 [
  {
-  "person": "Donald Trump",
-  "role": "US President (47th)",
-  "promise": "\"We will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars.\"",
-  "date_promised": "2025-01-20",
-  "due_date": "2029-01-20",
-  "status": "pending",
-  "description": "In his second inaugural address Trump pledged to launch American astronauts to plant the US flag on Mars, a goal he first tied to the end of his term at an October 2024 rally. As of August 2026 no crewed Mars mission was scheduled, and orbital dynamics mean a landing could not occur before 2029 at the earliest.",
-  "evidence": [
-   "No crewed Mars mission approved or scheduled as of mid-2026",
-   "NYT analysis: a Mars landing cannot happen before 2029 due to orbital windows"
-  ],
-  "sources": [
-   "The New York Times",
-   "Newsweek",
-   "Euronews"
-  ],
-  "source_urls": [
-   "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
-   "https://www.newsweek.com/2025/04/11/donald-trump-elon-musk-space-mission-mars-experts-2053151.html",
-   "https://www.euronews.com/next/2025/02/20/the-red-planet-or-bust-can-the-us-get-humans-to-mars-in-donald-trumps-second-term"
-  ]
- },
- {
   "person": "Sam Altman",
   "role": "CEO of OpenAI",
   "promise": "Stargate will invest up to $500 billion in US AI infrastructure, with $100 billion starting immediately",
   "date_promised": "2025-01-21",
-  "due_date": "2029-01-20",
-  "status": "partial",
-  "description": "At the White House, Altman — with SoftBank's Masayoshi Son and Oracle's Larry Ellison — announced Stargate, a partnership to invest up to $500 billion in US AI data centres over four years, promising 10 gigawatts of computing capacity and $100 billion in near-immediate spending. Construction advanced across multiple states, but by 2026 funding questions persisted (Musk publicly said 'they don't have money'), and Reuters reported OpenAI widening the project's scope and pursuing debt financing to pay for chips.",
+  "due_date": "2029-01-21",
+  "status": "pending",
+  "description": "Stargate announced an intention on January 21, 2025 to invest $500 billion in US AI infrastructure over four years, beginning deployment of $100 billion immediately. OpenAI reported in April 2026 that it had secured more than 10GW of capacity; secured capacity is not equivalent to completed construction or expenditure.",
   "evidence": [
-   "Multiple Stargate data centre projects under construction by 2025-2026",
-   "Reuters (Sept 2025): scope widened, debt financing sought; Musk's 'they don't have money' criticism echoed by analysts"
+   "Outcome not established as of 2026-09-21: current company updates describe secured capacity, not a final audited total of investment deployed."
   ],
   "sources": [
-   "Anadolu Agency",
-   "Reuters",
-   "Times of India"
+   "OpenAI: Stargate announcement",
+   "OpenAI: April 2026 infrastructure update"
   ],
   "source_urls": [
-   "https://aa.com.tr/en/artificial-intelligence/us-tech-giants-teaming-up-to-invest-up-to-500b-into-ai/3459120",
-   "https://www.reuters.com/business/media-telecom/openai-under-pressure-meet-demand-widens-scope-stargate-eyes-debt-finance-chips-2025-09-24/",
-   "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-they-dont-have-money-for-sam-altmans-openai-may-be-coming-true-and-it-may-be-affecting-two-of-its-biggest-partners-oracle-and-softbank/articleshow/128706216.cms"
+   "https://openai.com/index/announcing-the-stargate-project/",
+   "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/"
   ]
  }
 ]

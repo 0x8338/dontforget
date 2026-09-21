@@ -1,46 +1,18 @@
 [
  {
-  "person": "Elon Musk",
-  "role": "CEO of SpaceX",
-  "promise": "SpaceX will conduct an uncrewed lunar landing by March 2027",
-  "date_promised": "2026-02-08",
-  "due_date": "2027-03-31",
+  "person": "Government of Canada",
+  "role": "Federal government led by Prime Minister Mark Carney",
+  "promise": "Double Canada's preferential trade-market access over the next six months.",
+  "date_promised": "2026-09-15",
+  "due_date": "2027-03-15",
   "status": "pending",
-  "description": "The Wall Street Journal reported that SpaceX told investors it will prioritise the Moon before Mars and target an uncrewed lunar landing in March 2027. Musk publicly confirmed the Moon-first strategy, saying SpaceX aims to build a 'self-growing city' on the Moon within 10 years while still intending a city on Mars.",
-  "evidence": [
-   "WSJ report on SpaceX investor communication, February 6, 2026",
-   "Musk posts on X confirming the Moon-first strategy, February 8, 2026"
-  ],
+  "description": "The Prime Minister's Office stated a six-month market-access target alongside the Canada Investment Summit. The due date is six calendar months after the announcement.",
+  "evidence": "The official release states the target while describing existing trade agreements and prospective access from ASEAN to India; it does not demonstrate that the expansion has already happened.",
   "sources": [
-   "The Wall Street Journal",
-   "The News International"
+   "Prime Minister's Office of Canada"
   ],
   "source_urls": [
-   null,
-   "https://www.thenews.com.pk/amp/1391597-elon-musk-unveils-spacexs-moon-first-strategy-with-self-growing-lunar-city"
-  ]
- },
- {
-  "person": "International Monetary Fund",
-  "role": "Sri Lanka Extended Fund Facility arrangement",
-  "promise": "Provide Sri Lanka about US$3 billion under a 48-month Extended Fund Facility arrangement approved in March 2023",
-  "date_promised": "2023-03-20",
-  "due_date": "2027-03-31",
-  "status": "pending",
-  "description": "The IMF Executive Board approved a 48-month Extended Fund Facility arrangement for Sri Lanka of about US$3 billion (SDR 2.286 billion) on March 20, 2023. On May 27, 2026, the Board completed the combined fifth and sixth reviews, enabling an immediate disbursement of SDR 508 million (about US$695 million) and bringing total disbursements to about US$2.4 billion; the remaining reviews continue through the arrangement's term.",
-  "evidence": [
-   "EFF arrangement approved March 20, 2023",
-   "Combined fifth and sixth reviews completed May 27, 2026, releasing about US$695 million"
-  ],
-  "sources": [
-   "Daily Mirror",
-   "Daily FT",
-   "The Morning"
-  ],
-  "source_urls": [
-   "https://www.dailymirror.lk/print/breaking-news/IMF-approves-US-695-Million-disbursement-to-Sri-Lanka-after-completing-fifth-and-sixth-reviews/108-341423",
-   "https://www.ft.lk/top-story/IMF-unlocks---700-m--says-fiscal-response--to-shocks-appropriate/26-792623",
-   "https://www.themorning.lk/articles/SQBX2FwHP804WhnZh6W9"
+   "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
   ]
  }
 ]

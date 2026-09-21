@@ -1,0 +1,39 @@
+{
+  "baseline_commit": "15704590b8c3bf33eabd6bed57a47ef01d54b20f",
+  "integrated_at": "2026-09-21T06:30:37Z",
+  "counts": {
+    "events": {
+      "original": 709,
+      "audited": 709,
+      "audit_results": {
+        "verified": 42,
+        "published_changed": 386,
+        "correction": 395,
+        "published_fact_corrections": 348,
+        "unresolved": 272
+      },
+      "withheld": 323,
+      "added": 13,
+      "published": 399
+    },
+    "promises": {
+      "original": 449,
+      "audited": 449,
+      "audit_results": {
+        "correction": 362,
+        "published_changed": 149,
+        "published_fact_corrections": 148,
+        "unresolved": 86,
+        "verified": 1
+      },
+      "withheld": 300,
+      "added": 5,
+      "published": 154
+    }
+  },
+  "output_sha256": {
+    "events": "9d4379725d9f010663733536acad89bdbcf1db2ca176eb9aab5c1fbaeef2ae0f",
+    "promises": "8293ea9d88bd30707b6da747e79716f0456e2a922c2392268d63540c66589fdb",
+    "checkpoint": "1e9b333beb5ce2681df132f7d6aa585704c4e1c9235b98e4c213bf5d307bd297"
+  }
+}

@@ -1,88 +1,61 @@
 [
  {
-  "person": "Sam Altman",
-  "role": "CEO, OpenAI; Chairman and lead investor, Helion",
-  "promise": "\"Helion will deliver 50 megawatts of fusion power to Microsoft starting in 2028\" — the first commercial fusion power agreement",
+  "person": "Helion Energy",
+  "role": "Fusion energy company",
+  "promise": "Helion planned to bring its first fusion power plant online by 2028, targeting at least 50 MW after a one-year ramp-up.",
   "date_promised": "2023-05-10",
   "due_date": "2028-12-31",
   "status": "pending",
-  "description": "Altman backed Helion (chairman, led $500M round) and promoted its 2028 Microsoft power deal. Helion missed its own 2021 'net electricity by 2024' target and its 2025 Polaris net-electricity goal (unmet per Dec 2025 reporting; Polaris hit 150M°C D-T fusion in Feb 2026 but no net electricity). The 50MW Malaga, WA plant is still planned for 2028.",
+  "description": "Helion announced a power-purchase agreement with Microsoft on May 10, 2023. The 2028 target concerns bringing the plant online; the stated generating-capacity target follows a one-year ramp-up.",
   "evidence": [
-   "Microsoft-Helion deal announced May 10, 2023: 50MW starting 2028",
-   "Helion's 2024 and 2025 net-electricity milestones were not met (Wikipedia)",
-   "Feb 2026: Polaris reached 150M°C D-T fusion, no net-electricity claim"
+   "Helion's announcement distinguishes the online date from the subsequent capacity target.",
+   "Outcome not established as of 2026-09-21: the checked announcement does not demonstrate commercial power delivery; the online target remains future."
   ],
   "sources": [
-   "Wikipedia: Helion Energy",
-   "Helion/Microsoft press release (May 10, 2023)",
-   "Reuters (2024-2025 Helion coverage)"
-  ]
- },
- {
-  "person": "Dario Amodei",
-  "role": "CEO of Anthropic",
-  "promise": "AI will surpass \"almost all humans at almost everything\" shortly after 2027",
-  "date_promised": "2025-01-21",
-  "due_date": "2028-12-31",
-  "status": "pending",
-  "description": "In a Wall Street Journal interview at Davos (January 2025), Amodei predicted AI models would surpass human capabilities 'in almost everything' within two to three years — 'shortly after 2027'. As of August 2026 the milestone had not been reached, though MIT research on AI and work notes capabilities continue to improve rapidly.",
-  "evidence": [
-   "Amodei: milestone expected 'shortly after 2027', exact timing uncertain",
-   "Milestone not publicly demonstrated as of mid-2026"
-  ],
-  "sources": [
-   "Ars Technica",
-   "The Express Tribune",
-   "MIT CSAIL"
+   "Helion Microsoft fusion power agreement"
   ],
   "source_urls": [
-   "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/",
-   "https://tribune.com.pk/story/2530190/entertainment",
-   "https://www.csail.mit.edu/news/new-mit-research-overturns-prior-view-about-how-ai-capabilities-could-overtake-human-workers"
+   "https://www.helionenergy.com/newsroom/helion-announces-worlds-first-fusion-ppa-with-microsoft"
   ]
  },
  {
   "person": "William Ruto",
   "role": "President of Kenya",
-  "promise": "Launch the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028, pledging KES 7.5 billion (about $58 million) to end preventable maternal and newborn deaths",
-  "date_promised": "2026-06-02",
+  "promise": "Implement the EWENE Acceleration Plan 2026-2028 with KSh7.5 billion for maternal, newborn and reproductive health",
+  "date_promised": "2026-05-28",
   "due_date": "2028-12-31",
   "status": "pending",
-  "description": "President William Ruto launched the Every Woman Every Newborn Everywhere (EWENE) Acceleration Plan 2026-2028 and the Maternal and Newborn Health Rapid Results Initiative at State House, Nairobi, pledging KES 7.5 billion (about $58 million) towards maternal, newborn and reproductive health services, including an additional KSh4 billion through the Social Health Authority.",
+  "description": "Ruto launched the programme on May 28, 2026. The announced funding comprises KSh4 billion through the Social Health Authority, KSh1 billion for essential commodities and KSh2.5 billion for family-planning supplies.",
   "evidence": [
-   "EWENE Acceleration Plan 2026-2028 launched at State House, Nairobi",
-   "KES 7.5 billion pledged, with additional KSh4 billion via the Social Health Authority"
+   "Launch is documented; full programme financing and health outcomes over 2026-2028 remain to be established."
   ],
   "sources": [
-   "WHO Partnership for Maternal, Newborn & Child Health",
-   "Ecofin Agency",
-   "The Star"
+   "Kenya Ministry of Health: launch",
+   "PMNCH: programme details"
   ],
   "source_urls": [
-   "https://pmnch.who.int/news-and-events/news/item/02-06-2026-president-ruto-launches-national-drive-to-end-preventable-maternal-and-newborn-deaths",
-   "https://www.ecofinagency.com/news/2905-56001-kenya-pledges-58-million-to-combat-preventable-maternal-and-newborn-deaths",
-   "https://www.the-star.co.ke/counties/2026-06-02-shas-sh4bn-jackpot-for-pregnant-women"
+   "https://www.health.go.ke/kenya-launches-ewene-acceleration-plan-reduce-preventable-maternal-and-newborn-deaths",
+   "https://pmnch.who.int/news-and-events/news/item/02-06-2026-president-ruto-launches-national-drive-to-end-preventable-maternal-and-newborn-deaths"
   ]
  },
  {
-  "person": "Jensen Huang",
-  "role": "CEO of Nvidia",
-  "promise": "Nvidia will raise over $500 billion in third-party capital for AI infrastructure through compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR",
-  "date_promised": "2026-08-10",
+  "person": "European Commission",
+  "role": "EU executive",
+  "promise": "Intend to pledge EUR 700 million to the Global Fund's eighth replenishment for 2026-2028, subject to EU budget availability",
+  "date_promised": "2026-04-07",
   "due_date": "2028-12-31",
   "status": "pending",
-  "description": "On August 10, 2026, Nvidia signed memorandums of understanding with six major financial institutions - Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR - to launch compute financing platforms aimed at raising more than $500 billion in third-party capital for AI infrastructure. Nvidia CEO Jensen Huang said the company has the option to backstop up to $125 billion (25%) of the potential deals. No deployment timetable was disclosed; the end of 2028 is used as a review horizon.",
+  "description": "The Commission announced the intended pledge at the One Health Summit on April 7, 2026. EUR 185 million was available under the current financial framework; the remainder depends on future budget provision.",
   "evidence": [
-   "MOUs with six firms announced August 10, 2026; Reuters and CNN coverage August 11-12",
-   "No timetable disclosed; Huang confirmed up to $125 billion Nvidia backstop option"
+   "The Global Fund's donor profile, updated August 12, 2026, recorded EUR 700 million pledged and no contributions yet for this replenishment."
   ],
   "sources": [
-   "Reuters",
-   "CNN Business"
+   "Global Fund",
+   "European Commission"
   ],
   "source_urls": [
-   "https://www.khaleejtimes.com/business/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout",
-   "https://edition.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl"
+   "https://www.theglobalfund.org/en/government/profiles/european-commission/",
+   "https://cyprus.representation.ec.europa.eu/news/commission-announces-new-global-health-commitments-one-health-summit-2026-04-07_en?prefLang=el"
   ]
  }
 ]

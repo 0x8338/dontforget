@@ -1,0 +1,391 @@
+{
+  "as_of": "2026-09-21",
+  "window": {
+    "from": "2026-09-12",
+    "through": "2026-09-20",
+    "searched_through": "2026-09-21",
+    "timezone": "UTC"
+  },
+  "method": "Date-by-date news searches, followed by source checks for candidate fatalities and new dated commitments. This is a researched update, not an exhaustive census of all deaths or announcements. September 21 is an incomplete UTC day. Source names identify publishers or wire services; syndicated URLs are retained.",
+  "events": [
+    {
+      "record": {
+        "date": "2026-09-12",
+        "title": "Drone attacks on cars in Kramatorsk",
+        "location": "Kramatorsk, Donetsk region, Ukraine",
+        "category": "war",
+        "lives_lost": 3,
+        "description": "Three people were killed in separate drone attacks on cars in Kramatorsk, according to local authorities. The city council reported three incidents within about 90 minutes.",
+        "sources": [
+          "Associated Press",
+          "RTE"
+        ],
+        "source_urls": [
+          "https://abcnews.com/amp/International/wireStory/3-killed-russian-strikes-ukraine-putin-warns-europe-136385728",
+          "https://www.rte.ie/news/2026/0912/1591278-ukraine/"
+        ]
+      },
+      "note": "Use the Kramatorsk-specific toll, not the articles' larger daily Ukraine totals. Daytime September 12 local time is also September 12 UTC."
+    },
+    {
+      "record": {
+        "date": "2026-09-13",
+        "title": "N1 minibus collision in Western Cape",
+        "location": "Between Leeu Gamka and Prince Albert, Western Cape, South Africa",
+        "category": "industrial",
+        "lives_lost": 21,
+        "description": "A collision involving two minibuses and an SUV killed at least 21 people, according to Western Cape officials. Three of the reported victims died after being taken to hospital.",
+        "sources": [
+          "Agence France-Presse",
+          "TimesLIVE"
+        ],
+        "source_urls": [
+          "https://www.channelstv.com/2026/09/14/multi-car-crash-kills-21-in-south-africa/",
+          "https://www.timeslive.co.za/news/south-africa/2026-09-14-21-people-killed-in-multiple-vehicle-crash-on-n1-in-western-cape/"
+        ]
+      },
+      "note": "Reported shortly after midnight September 14 SAST, corresponding to September 13 UTC. Reports differ on the exact hour but agree on the UTC day."
+    },
+    {
+      "record": {
+        "date": "2026-09-16",
+        "title": "Drone strike on passenger bus in Nikopol district",
+        "location": "Nikopol district, Dnipropetrovsk region, Ukraine",
+        "category": "war",
+        "lives_lost": 5,
+        "description": "A drone strike on a passenger bus killed five people, according to regional authorities, who attributed the attack to Russian forces.",
+        "sources": [
+          "Reuters",
+          "Euronews"
+        ],
+        "source_urls": [
+          "https://www.marketscreener.com/news/russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast-governor-says-ce785bd2db8df223",
+          "https://www.euronews.com/my-europe/2026/09/16/five-killed-in-russian-drone-strike-on-ukrainian-bus"
+        ]
+      },
+      "note": "Morning September 16 local time is the same UTC date; perpetrator attribution is explicitly sourced to officials."
+    },
+    {
+      "record": {
+        "date": "2026-09-16",
+        "title": "SUV and Metro bus collision in Chatsworth",
+        "location": "Chatsworth, Los Angeles, California, United States",
+        "category": "industrial",
+        "lives_lost": 2,
+        "description": "Two people died and six others were injured when an SUV collided with a Metro bus, according to the Los Angeles Fire Department.",
+        "sources": [
+          "Los Angeles Fire Department",
+          "NBC Los Angeles"
+        ],
+        "source_urls": [
+          "https://lafd.com/news/2-people-dead-and-6-injured-after-suv-collides-side-metro-bus-chatsworth",
+          "https://www.nbclosangeles.com/news/local/chatsworth-crash-involving-metro-bus/3942678/"
+        ]
+      },
+      "note": "September 15 at 17:03 PDT converts to September 16 at 00:03 UTC. Separate from the later helicopter crash."
+    },
+    {
+      "record": {
+        "date": "2026-09-16",
+        "title": "News helicopter crash in Chatsworth",
+        "location": "Chatsworth, Los Angeles, California, United States",
+        "category": "industrial",
+        "lives_lost": 3,
+        "description": "A television news helicopter crashed while covering a nearby traffic collision. Two people aboard the aircraft and one person on the ground were killed.",
+        "sources": [
+          "Associated Press",
+          "KESQ"
+        ],
+        "source_urls": [
+          "https://www.local10.com/news/2026/09/16/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/",
+          "https://kesq.com/news/2026/09/15/three-people-dead-after-news-helicopter-crashes-in-los-angeles-area/"
+        ]
+      },
+      "note": "Shortly before 19:00 PDT September 15 is September 16 UTC. Do not include the two deaths in the separate bus collision."
+    },
+    {
+      "record": {
+        "date": "2026-09-16",
+        "title": "Fatal flooding near Newcomb on the Navajo Nation",
+        "location": "Newcomb and Two Grey Hills area, New Mexico, United States",
+        "category": "natural-disaster",
+        "lives_lost": 3,
+        "description": "Two adults and a child died in flooding on the Navajo Nation. Police said their bodies were found near the Newcomb and Two Grey Hills area following overnight flooding.",
+        "sources": [
+          "Navajo Police Department via KSJE",
+          "KJZZ"
+        ],
+        "source_urls": [
+          "https://www.ksje.com/news/local-news/three-die-in-newcomb-area-flood/",
+          "https://www.kjzz.org/indigenous-affairs/2026-09-16/3-dead-in-flooding-on-the-navajo-nation"
+        ]
+      },
+      "note": "Reported around 00:30 MDT September 16. Both the preceding late evening and this report time fall on September 16 UTC; exact time of death is not asserted."
+    },
+    {
+      "record": {
+        "date": "2026-09-17",
+        "title": "Fatal debris from drone interception near Taif",
+        "location": "Taif, Saudi Arabia",
+        "category": "war",
+        "lives_lost": 1,
+        "description": "Saudi civil defence said debris from an intercepted drone killed a Yemeni resident and injured two other people. Saudi authorities attributed the drone launch to Yemen's Houthis.",
+        "sources": [
+          "Agence France-Presse",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.afp.com/en/saudi-civil-defence-says-shrapnel-houthi-drone-kills-1-after-interception",
+          "https://wtaq.com/2026/09/17/one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis/"
+        ]
+      },
+      "note": "Death and attribution are reported by Saudi authorities; no independent attribution is claimed."
+    },
+    {
+      "record": {
+        "date": "2026-09-18",
+        "title": "Bombing and gun attack on police headquarters in Kohat",
+        "location": "Kohat, Khyber Pakhtunkhwa, Pakistan",
+        "category": "terrorism",
+        "lives_lost": 31,
+        "description": "A bombing and gun attack on a police compound killed at least 31 people, according to the victim toll reported by authorities on September 19. The attack began the previous afternoon.",
+        "sources": [
+          "Agence France-Presse",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396",
+          "https://www.jpost.com/international/article-909043"
+        ]
+      },
+      "note": "Use the September 18 attack date and updated September 19 victim toll. Reports differ on police and injury subtotals; omit those. Attackers killed are reported separately and are not added to 31."
+    },
+    {
+      "record": {
+        "date": "2026-09-19",
+        "title": "Fatal strike in Jabalia",
+        "location": "Jabalia, Gaza Strip",
+        "category": "war",
+        "lives_lost": 1,
+        "description": "A strike in Jabalia killed one person, according to Palestinian medical sources. This entry records only the Jabalia death, not the larger daily Gaza toll.",
+        "sources": [
+          "Reuters",
+          "WAFA"
+        ],
+        "source_urls": [
+          "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
+          "https://english.wafa.ps/Pages/Details/174886"
+        ]
+      },
+      "note": "Reuters was published September 20 but describes Saturday September 19. Both reports identify the Jabalia death; their other daily deaths are different and must not be summed."
+    },
+    {
+      "record": {
+        "date": "2026-09-19",
+        "title": "Fatal strike in Shuja'iyya",
+        "location": "Shuja'iyya, Gaza City, Gaza Strip",
+        "category": "war",
+        "lives_lost": 1,
+        "description": "A strike in Shuja'iyya killed one person, according to Palestinian medical sources. This entry excludes other deaths reported elsewhere in Gaza that day.",
+        "sources": [
+          "Reuters",
+          "WAFA"
+        ],
+        "source_urls": [
+          "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
+          "https://english.wafa.ps/Pages/Details/174886"
+        ]
+      },
+      "note": "Same reporting-date distinction as Jabalia. Record separate locations to avoid conflating the sources' different three-death aggregates."
+    },
+    {
+      "record": {
+        "date": "2026-09-20",
+        "title": "Fatal shooting near Neve Tzuf",
+        "location": "Near Neve Tzuf, occupied West Bank",
+        "category": "gun-violence",
+        "lives_lost": 1,
+        "description": "A Palestinian gunman shot dead an Israeli man near Neve Tzuf, according to Israeli authorities. The suspect was subsequently detained.",
+        "sources": [
+          "Reuters",
+          "Agence France-Presse"
+        ],
+        "source_urls": [
+          "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
+          "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
+        ]
+      },
+      "note": "Late-morning local reporting corresponds to September 20 UTC. Avoid claims about the victim's civilian or military status not established by both sources."
+    },
+    {
+      "record": {
+        "date": "2026-09-20",
+        "title": "Palestinian motorist killed near Ganim",
+        "location": "Near Ganim, Jenin area, occupied West Bank",
+        "category": "gun-violence",
+        "lives_lost": 1,
+        "description": "Israeli troops shot dead a Palestinian motorist. The Israeli military alleged an attempted vehicle attack; Reuters said it could not independently verify the circumstances.",
+        "sources": [
+          "Reuters",
+          "Agence France-Presse"
+        ],
+        "source_urls": [
+          "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
+          "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
+        ]
+      },
+      "note": "Separate from the Neve Tzuf shooting. The death is reported by both sources; the military's account of motive and circumstances remains an attributed allegation."
+    },
+    {
+      "record": {
+        "date": "2026-09-20",
+        "title": "Reported airstrike on displacement camp in Kunar",
+        "location": "Nurgal district, Kunar province, Afghanistan",
+        "category": "war",
+        "lives_lost": 3,
+        "description": "Afghan provincial officials said an airstrike killed three people at a camp for families displaced by an earthquake. They attributed the strike to Pakistan; Pakistan's military had not commented in the cited initial report.",
+        "sources": [
+          "Reuters",
+          "Ariana News"
+        ],
+        "source_urls": [
+          "https://www.arabnews.pk/pakistan/at-least-three-killed-in-pakistani-airstrikes-on-afghanistan-officials-say-3001850",
+          "https://www.ariananews.af/pakistani-military-jets-strike-earthquake-victims-camp-in-kunar-officials-say/"
+        ]
+      },
+      "note": "Ariana quotes the police spokesman placing the strike around 03:00 Afghanistan time September 21, corresponding to 22:30 UTC September 20. Do not combine unrelated Paktika strikes with this toll."
+    }
+  ],
+  "promises": [
+    {
+      "person": "John Dramani Mahama",
+      "role": "President of Ghana",
+      "promise": "End the double-track system in senior high schools by the end of 2027.",
+      "date_promised": "2026-09-11",
+      "due_date": "2027-12-31",
+      "status": "pending",
+      "description": "Mahama set a year-end 2027 target for ending the system that alternates student attendance to accommodate limited school capacity.",
+      "evidence": "The presidency documented the commitment on September 11; Ghana News Agency reported a subsequent reiteration. These sources establish the target, not its fulfillment.",
+      "sources": [
+        "Presidency of Ghana",
+        "Ghana News Agency"
+      ],
+      "source_urls": [
+        "https://presidency.gov.gh/han-shs-to-get-boarding-status-as-president-mahama-inspects-getfund-projects-in-upper-west/",
+        "https://gna.org.gh/2026/09/president-mahama-reiterates-governments-commitment-to-end-double-track-shs-system/"
+      ]
+    },
+    {
+      "person": "John Dramani Mahama",
+      "role": "President of Ghana",
+      "promise": "Target commissioning the SDD-UBIDS library complex in 2027.",
+      "date_promised": "2026-09-12",
+      "due_date": "2027-12-31",
+      "status": "pending",
+      "description": "During a university visit, Mahama said he looked forward to commissioning the library complex in 2027. The due date represents the end of that stated target year, not an announced ceremony date.",
+      "evidence": "The university's account of the September 12 visit records the 2027 target. Completion has not been established.",
+      "sources": [
+        "SDD University of Business and Integrated Development Studies"
+      ],
+      "source_urls": [
+        "https://ubids.edu.gh/news/resetting-ghana-tour-president-mahama-pledges-complete-ongoing-projects"
+      ]
+    },
+    {
+      "person": "Government of Canada",
+      "role": "Federal government led by Prime Minister Mark Carney",
+      "promise": "Double Canada's preferential trade-market access over the next six months.",
+      "date_promised": "2026-09-15",
+      "due_date": "2027-03-15",
+      "status": "pending",
+      "description": "The Prime Minister's Office stated a six-month market-access target alongside the Canada Investment Summit. The due date is six calendar months after the announcement.",
+      "evidence": "The official release states the target while describing existing trade agreements and prospective access from ASEAN to India; it does not demonstrate that the expansion has already happened.",
+      "sources": [
+        "Prime Minister's Office of Canada"
+      ],
+      "source_urls": [
+        "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
+      ]
+    },
+    {
+      "person": "TD Bank Group",
+      "role": "Banking group",
+      "promise": "Provide C$150 billion in financing over five years to support Canadian economic growth.",
+      "date_promised": "2026-09-14",
+      "due_date": "2031-09-14",
+      "status": "pending",
+      "description": "TD announced a five-year financing commitment covering lending, underwriting and advisory activity. This is not a pledge to invest the full amount as the bank's own cash. The due date is the five-year anniversary of the announcement.",
+      "evidence": "TD's September 14 announcement establishes the commitment; the Prime Minister's Office included it in the September 15 summit summary. Fulfillment remains pending.",
+      "sources": [
+        "TD Bank Group",
+        "Prime Minister's Office of Canada"
+      ],
+      "source_urls": [
+        "https://stories.td.com/ca/en/news/2026-09-14-td-launches-24150-billion-five-year-commitment-to-accelerate",
+        "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
+      ]
+    },
+    {
+      "person": "Ontario Teachers' Pension Plan",
+      "role": "Pension fund",
+      "promise": "Aim to invest an additional C$10 billion in Canada by the end of 2027, subject to investment-return objectives.",
+      "date_promised": "2026-09-11",
+      "due_date": "2027-12-31",
+      "status": "pending",
+      "description": "The pension fund set a conditional investment objective, not an unconditional spending guarantee. Investments remain subject to its return requirements.",
+      "evidence": "The fund's September 11 announcement states the amount, end-2027 horizon and return condition; Canada's summit release subsequently reported the commitment.",
+      "sources": [
+        "Ontario Teachers' Pension Plan",
+        "Prime Minister's Office of Canada"
+      ],
+      "source_urls": [
+        "https://otpp.com/en-ca/about-us/news-and-insights/2026/ontario-teachers-sets-objective-to-invest-an-additional-10-billion-in-canada-by-the-end-of-2027/",
+        "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
+      ]
+    }
+  ],
+  "withheld": [
+    {
+      "candidate": "Banga National High School shooting, September 18",
+      "reason": "Conflicting contemporaneous official-source tolls: provincial government and PNA report three including the shooter; DSWD-based reporting gives six. Resolve the discrepancy before adding a definitive total.",
+      "sources": [
+        "https://southcotabato.gov.ph/gov-tamayo-asks-dict-pnp-to-investigate-online-community-in-banga-shooting/",
+        "https://www.pna.gov.ph/index.php/articles/1284371",
+        "https://www.gmanetwork.com/news/topstories/nation/1002863/avoid-sharing-videos-unverified-info-on-banga-school-shooting-dict-warns/story/"
+      ]
+    },
+    {
+      "candidate": "Cairo-Ismailia bus fire, reported September 15",
+      "reason": "Three deaths corroborated, but the incident occurred before a 03:01 local report and the UTC date may be September 14. No event time established.",
+      "sources": [
+        "https://gulfnews.com/world/mena/3-killed-11-injured-as-bus-catches-fire-after-crash-in-egypt-1.500674769",
+        "https://www.50na.com/230878"
+      ]
+    },
+    {
+      "candidate": "Kfar Rumman strikes, reports dated September 14",
+      "reason": "Syndicated page date conflicts with a September 7 dateline and photograph; do not add a potentially duplicated or misdated event.",
+      "sources": [
+        "https://www.al-monitor.com/originals/2026/09/israeli-strikes-southern-lebanese-town-kill-13-fears-escalation-mount"
+      ]
+    },
+    {
+      "candidate": "Indonesia Virgo ferry recovery reported September 20",
+      "reason": "New body-recovery coverage is not evidence of a new incident on that day; original date and existing-record overlap not resolved.",
+      "sources": []
+    },
+    {
+      "candidate": "Singapore National Day Rally commitments",
+      "reason": "Several commitments did not have a sufficiently explicit implementation deadline for the current promise schema.",
+      "sources": [
+        "https://www.pmo.gov.sg/newsroom/ndr2026/"
+      ]
+    },
+    {
+      "candidate": "New England flooding September 13 and Java earthquake September 12",
+      "reason": "No established fatalities in the examined reporting; not eligible for this fatal-events dataset.",
+      "sources": []
+    }
+  ],
+  "focus": "track-a: leaders/governments (Ghana education targets and Canadian trade target); supplemental Canadian finance commitments"
+}

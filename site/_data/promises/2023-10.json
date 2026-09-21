@@ -1,19 +1,25 @@
 [
  {
-  "person": "Rob Manfred",
-  "role": "MLB Commissioner",
-  "promise": "We believe this will reduce average game time by roughly 25 minutes (pitch clock, as reported).",
-  "date_promised": "2022-09-13",
-  "due_date": "2023-10-01",
+  "person": "Meta",
+  "role": "Technology company",
+  "promise": "Meta announced Quest 3 availability for October 10, 2023, starting at US$499.99 for 128GB.",
+  "date_promised": "2023-09-27",
+  "due_date": "2023-10-10",
   "status": "kept",
-  "description": "MLB adopted the pitch clock and other pace-of-play rules for the 2023 season, with Manfred promising dramatically shorter games. Average nine-inning game time fell from 3:04 in 2022 to 2:40 in 2023 — a 24-minute reduction.",
+  "description": "Meta's September 27 announcement specified an October 10, 2023 release, starting at US$499.99 for 128GB. Subsequent reporting confirms the headset launched on that date.",
   "evidence": [
-   "Pitch clock implemented from opening day 2023",
-   "Average game time dropped 24 minutes from 3:04 (2022) to 2:40 (2023)"
+   "Meta's Connect announcement establishes the October 10 target and the base-model price.",
+   "Android Central's retrospective availability account confirms the October 10, 2023 launch. This rates product availability, not delivery of every individual pre-order."
   ],
   "sources": [
-   "MLB.com, 2022-09-13",
-   "AP, 2023-10 season review"
+   "Meta Quest 3 dated availability announcement",
+   "Meta Quest 3 initial fall announcement",
+   "Android Central"
+  ],
+  "source_urls": [
+   "https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/",
+   "https://about.fb.com/news/2023/06/meta-quest-3-coming-this-fall/",
+   "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-3"
   ]
  }
 ]

@@ -1,20 +1,23 @@
 [
  {
-  "person": "Boris Johnson",
-  "role": "Prime Minister of the United Kingdom",
+  "person": "Matt Hancock",
+  "role": "UK Secretary of State for Health and Social Care",
   "promise": "Reach 100,000 coronavirus tests per day by the end of April 2020",
   "date_promised": "2020-04-02",
   "due_date": "2020-04-30",
-  "status": "kept",
-  "description": "Facing criticism over testing capacity, Johnson and Health Secretary Hancock pledged 100,000 tests per day by end of April. The government announced 122,347 tests on April 30, hitting the target on the deadline day, though accuracy of the count was questioned.",
+  "status": "pending",
+  "description": "Hancock announced the target on April 2. The April 30 total included mailed kits, not just processed tests.",
   "evidence": [
-   "Government reported 122,347 tests on 2020-04-30",
-   "Target reached on the deadline date"
+   "Health Service Journal reported that the government's total included mailed kits.",
+   "Outcome not established as of 2026-09-21: the original completed-test metric cannot be reconciled to the reported count from the checked coverage."
   ],
   "sources": [
-   "Downing Street press conference",
-   "NHS Test and Trace",
-   "BBC News"
+   "The Guardian",
+   "Health Service Journal"
+  ],
+  "source_urls": [
+   "https://www.theguardian.com/world/2020/apr/02/matt-hancock-sets-target-of-100000-coronavirus-tests-a-day",
+   "https://www.hsj.co.uk/quality-and-performance/government-counts-mailouts-to-hit-100000-testing-target/7027544.article"
   ]
  }
 ]

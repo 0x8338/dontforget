@@ -2,15 +2,21 @@
  {
   "person": "Arun Jaitley",
   "role": "Indian Finance Minister",
-  "promise": "July 2014 Budget: FRBM consolidation path with fiscal deficit of 3.0% of GDP in 2016-17",
-  "date_promised": "2020-01-01",
-  "due_date": "2017-03-28",
-  "status": "broken",
-  "description": "Actual FY2016-17 deficit was 3.5% of GDP",
-  "evidence": [],
+  "promise": "Target India's fiscal deficit at 3.0% of GDP in fiscal 2016-17",
+  "date_promised": "2014-07-10",
+  "due_date": "2017-03-31",
+  "status": "pending",
+  "description": "Jaitley's July 10, 2014 Budget speech set out a consolidation path targeting a 3.0% deficit in fiscal 2016-17; subsequent budgets relaxed that path.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: the original 3.5% figure was not checked against CGA final accounts and must not be treated as a verified outturn."
+  ],
   "sources": [
-   "Union Budget 2014-15, Jul 2014,",
-   "Controller General of Accounts fiscal data, FY 2016-17"
+   "Government of India",
+   "The Economic Times"
+  ],
+  "source_urls": [
+   "https://www.indiabudget.gov.in/budget2025-26/doc/bspeech/bs201415.pdf",
+   "https://economictimes.indiatimes.com/news/economy/policy/how-arun-jaitley-managed-the-fiscal-deficit-through-his-budgets/articleshow/70029904.cms?from=mdr"
   ]
  }
 ]

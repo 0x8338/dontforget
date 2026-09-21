@@ -1,233 +1,102 @@
 [
  {
-  "person": "Keir Starmer",
-  "role": "UK Prime Minister",
-  "promise": "We will deliver the NHS 18-week waiting-time guarantee by 2029",
-  "date_promised": "2025-07-13",
-  "due_date": "2029-12-31",
-  "status": "pending",
-  "description": "Announced on the NHS's 77th anniversary that the government would restore the constitutional right to be treated within 18 weeks by 2029. NHS waiting lists remained above 7 million through 2025, so the guarantee is a long way off but formally remains the government's target.",
-  "evidence": [
-   "Announcement made July 13, 2025 alongside the NHS Constitution",
-   "Backlog remained ~7.5 million patients as of 2025"
-  ],
-  "sources": [
-   "BBC News (July 13, 2025)",
-   "NHS England data"
-  ]
- },
- {
-  "person": "Prabowo Subianto",
-  "role": "President (from 20 Oct 2024)",
-  "promise": "8% annual economic growth by the end of his term (2029)",
-  "date_promised": "2023-01-01",
-  "due_date": "2029-12-31",
-  "status": "broken",
-  "description": "Growth was 5.0% (2024) and ~5.1% (2025), with IMF forecasts of ~4.9–5.1% through 2029 — far below the 8% target.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Economy_of_Indonesia"
-  ]
- },
- {
-  "person": "Keir Starmer",
-  "role": "Prime Minister (from Jul 2024)",
-  "promise": "Deliver 1.5 million new homes over the parliament via radical planning reform",
-  "date_promised": "2023-01-01",
-  "due_date": "2029-12-31",
-  "status": "partial",
-  "description": "The planning reform was delivered — Planning and Infrastructure Act received royal assent 18 Dec 2025 — but housing delivery has not come close to the required pace, and the 1.5m target is widely regarded as at risk.",
-  "evidence": [],
-  "sources": [
-   "Wikipedia",
-   "Wikipedia"
-  ],
-  "source_urls": [
-   "https://en.wikipedia.org/wiki/Planning_and_Infrastructure_Bill",
-   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
-  ]
- },
- {
   "person": "Prabowo Subianto",
   "role": "President of Indonesia",
-  "promise": "Achieve 8% economic growth by 2029, after 5.8-6.5% growth in 2027",
+  "promise": "Target 8% economic growth by 2029, projecting 5.8-6.5% in 2027 under appropriate economic and fiscal policies",
   "date_promised": "2026-05-20",
   "due_date": "2029-12-31",
   "status": "pending",
-  "description": "Presenting the macroeconomic framework to Parliament in May 2026, President Prabowo said he was confident Indonesia's economy could grow between 5.8% and 6.5% in 2027, heading toward 8% growth by 2029. Analysts warned the 8% target would be hard to reach after Q2 2026 growth slowed.",
+  "description": "In his May 20, 2026 budget-framework address, Prabowo projected 5.8-6.5% growth in 2027 on a path toward 8% by 2029, conditional on appropriate and sustainable policies.",
   "evidence": [
-   "8% growth by 2029 restated in the May 2026 macroeconomic framework",
-   "Q2 2026 growth slowed, with experts doubting the trajectory"
+   "Official transcript establishes the projections; their target years remain ahead."
   ],
   "sources": [
-   "Antara News",
-   "Tempo",
-   "RRI"
+   "Indonesian Cabinet Secretariat: May 20 speech"
   ],
   "source_urls": [
-   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
-   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
-   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
-  ]
- },
- {
-  "person": "Narendra Modi",
-  "role": "Prime Minister of India",
-  "promise": "India will become the world's third-largest economy by 2029 (end of his third term)",
-  "date_promised": "2025-01-15",
-  "due_date": "2029-12-31",
-  "status": "pending",
-  "description": "Modi guaranteed India would become the world's third-largest economy by the end of his third term in 2029. As of mid-2026, analysts said the targets were off track, with projections for India overtaking Germany and Japan slipping toward 2028-2030.",
-  "evidence": [
-   "Third-largest economy pledge tied to the end of Modi's third term (2029)",
-   "2026 analysis said the target was off track; Morgan Stanley projected 2028"
-  ],
-  "sources": [
-   "The Quint",
-   "PIB",
-   "NewsOnAir"
-  ],
-  "source_urls": [
-   "https://www.thequint.com/opinion/modis-third-largest-and-5-trillion-economy-targets-are-off-track-india",
-   "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2136365",
-   "https://newsonair.gov.in/india-to-become-worlds-third-largest-economy-by-2028-overtaking-germany-says-morgan-stanley/"
-  ]
- },
- {
-  "person": "European Commission",
-  "role": "EU executive",
-  "promise": "Pledge €700 million to the Global Fund's eighth replenishment (2026-2029) to fight HIV, tuberculosis and malaria",
-  "date_promised": "2026-04-07",
-  "due_date": "2029-12-31",
-  "status": "pending",
-  "description": "At the One Health Summit on April 7, 2026, the European Commission announced its intention to pledge €700 million overall for the Global Fund's eighth replenishment, with €185 million immediately available under the current long-term budget. Country-level grants under the replenishment are to be implemented from 2027 to 2029, and the pledge remains subject to the outcome of the Multiannual Financial Framework negotiations.",
-  "evidence": [
-   "Commission announced the €700 million pledge intention on April 7, 2026",
-   "Grants under the eighth replenishment to be implemented 2027-2029"
-  ],
-  "sources": [
-   "Euronews",
-   "The Brussels Times",
-   "EpiNews"
-  ],
-  "source_urls": [
-   "https://www.euronews.com/health/2026/04/08/eu-pledges-700m-to-the-global-fund-as-cuts-worldwide-threaten-international-health-aid",
-   "https://www.brusselstimes.com/eu-affairs/2067934/eu-pledges-e700m-to-combat-global-diseases-amid-rising-antibiotic-resistance",
-   "https://epinews.emphnet.net/en/news/topics-in-focus/eu-to-pledge-700-million-to-global-fund-less-than-previous-years"
+   "https://setkab.go.id/en/address-of-the-president-of-the-republic-of-indonesia-on-the-presentation-of-the-macroeconomic-framework-kem-and-fiscal-policy-principles-ppkf-for-the-2027-state-budget-bill-rapbn-before-the-ple/"
   ]
  },
  {
   "person": "Prabowo Subianto",
   "role": "President of Indonesia",
-  "promise": "Grow Indonesia's economy to 8 percent by 2029",
-  "date_promised": "2026-05-19",
+  "promise": "Target Indonesian economic growth of 8% by 2029",
+  "date_promised": "2026-05-20",
   "due_date": "2029-12-31",
   "status": "pending",
-  "description": "Presenting the 2027 state budget on May 19, 2026, President Prabowo Subianto said he was confident Indonesia's economy could grow within a range of 5.8 to 6.5 percent in 2027, heading toward 8 percent economic growth by 2029.",
+  "description": "Prabowo presented the government's 2027 macroeconomic framework, including a 5.8%-6.5% growth assumption and a longer-term target of 8% by 2029.",
   "evidence": [
-   "Prabowo projected 5.8-6.5% growth for 2027 and 8% by 2029 in the May 2026 budget address",
-   "Target is an explicit end-of-term economic growth goal"
+   "The Cabinet Secretariat records the May 20, 2026 parliamentary address; the 2029 target remains prospective."
   ],
   "sources": [
-   "Antara News",
-   "Tempo",
-   "RRI"
+   "Cabinet Secretariat of Indonesia"
   ],
   "source_urls": [
-   "https://en.antaranews.com/news/416331/indonesia-projects-58-65-percent-economic-growth-in-2027-prabowo",
-   "https://en.tempo.co/read/2104492/prabowo-targets-5-8-6-5-economic-growth-in-2027",
-   "https://rri.co.id/en/business/2430613/prabowo-targets-stronger-economic-growth-through-creative-industries"
+   "https://setkab.go.id/en/president-prabowo-outlines-macroeconomic-assumptions-for-2027/"
   ]
  },
  {
   "person": "Shigeru Ishiba",
   "role": "Prime Minister of Japan",
-  "promise": "Raise Japan's national average hourly minimum wage to 1,500 yen by the end of the 2020s",
+  "promise": "Aim to raise Japan's nationwide average minimum wage to JPY 1,500 during the 2020s",
   "date_promised": "2024-10-04",
   "due_date": "2029-12-31",
   "status": "pending",
-  "description": "In October 2024, Prime Minister Shigeru Ishiba pledged to make efforts to boost the national average minimum wage to 1,500 yen an hour this decade, from about 1,055 yen at the time. In July 2026 the government signaled flexibility on the target while keeping the end of the decade as the deadline for a national average of 1,500 yen.",
+  "description": "Ishiba set the target in his October 4, 2024 policy speech and reiterated it in January 2025. The deadline is the end of the 2020s.",
   "evidence": [
-   "Ishiba pledged to raise the average minimum wage to 1,500 yen in the 2020s",
-   "July 2026 government policy documents still set the end of the decade as the target date"
+   "Outcome not established as of 2026-09-21: the retrieved policy speeches establish the target, but no final nationwide wage outcome for the target period was located."
   ],
   "sources": [
-   "Reuters",
-   "Kyodo News",
-   "The Japan Times"
+   "Prime Minister of Japan",
+   "Prime Minister of Japan"
   ],
   "source_urls": [
-   "https://www.reuters.com/world/asia-pacific/japan-pm-ishiba-instructs-cabinet-compile-fresh-stimulus-package-2024-10-04/",
-   "https://english.kyodonews.net/news/2024/10/fc621e8b4a08-focus-pm-ishibas-drastic-wage-hike-push-may-hurt-small-firms-in-japan.html",
-   "https://www.japantimes.co.jp/business/2026/07/02/economy/minimum-wage-focus-july-2026/"
+   "https://japan.kantei.go.jp/102_ishiba/statement/202410/1004shoshinhyomei.html",
+   "https://japan.kantei.go.jp/103/statement/202501/24shiseihoshin.html"
   ]
  },
  {
-  "person": "Jim Farley",
-  "role": "CEO of Ford Motor Company",
-  "promise": "Ford's Model e electric-vehicle division will reach break-even in 2029",
-  "date_promised": "2026-02-11",
+  "person": "Ford Motor Company",
+  "role": "Automaker",
+  "promise": "Expect Ford Model e to reach profitability by 2029",
+  "date_promised": "2025-12-15",
   "due_date": "2029-12-31",
   "status": "pending",
-  "description": "After a $4.8 billion operating loss in its Model e electric-vehicle unit in 2025, Ford said in February 2026 that it expects another $4 billion to $4.5 billion loss for the unit in 2026 and pushed its break-even target for the EV division back to 2029.",
+  "description": "Ford announced a revised EV strategy and a Model e profitability target for 2029, with improvements expected from 2026.",
   "evidence": [
-   "Model e recorded a $4.8 billion operating loss in 2025",
-   "Company projects a further $4-4.5 billion loss in 2026 with break-even in 2029"
+   "Ford's second-quarter 2026 update reported a narrower Model e loss; that is progress, not fulfillment of the 2029 target."
   ],
   "sources": [
-   "Fortune",
+   "Ford",
    "Benzinga",
-   "Yahoo Finance"
+   "Ford"
   ],
   "source_urls": [
-   "https://fortune.com/2026/02/12/ford-ceo-jim-farley-earnings-electric-vehicle-4-8-billion-operating-loss/",
-   "https://www.benzinga.com/news/topics/26/04/51721280/ford-ceo-knew-the-ev-transition-would-hurt-but-the-reality-is-a-4-8b-loss-we-cant-allocate-money-for-",
-   "https://finance.yahoo.com/news/ford-motor-q4-earnings-call-040824879.html"
-  ]
- },
- {
-  "person": "Aliko Dangote",
-  "role": "President and CEO of Dangote Group",
-  "promise": "Invest $2 billion in The Gambia, including a 250 MW solar power plant and a modern petroleum products storage terminal",
-  "date_promised": "2026-07-07",
-  "due_date": "2029-12-31",
-  "status": "pending",
-  "description": "President Adama Barrow announced that Aliko Dangote committed to invest US$2 billion in The Gambia following a meeting in Banjul on July 7, 2026, on the sidelines of the African Caucus. The pledge covers a 250 MW solar power plant and a modern petroleum products storage terminal. The agreement remains preliminary: binding agreements, technical and feasibility studies, and implementation structures still need to be finalized, and no construction timeline or funding breakdown was disclosed; the end of 2029 is used as a review horizon.",
-  "evidence": [
-   "Announced by President Barrow after July 7, 2026 Banjul meeting; reported July 9, 2026",
-   "Preliminary commitment; no construction timeline disclosed"
-  ],
-  "sources": [
-   "Ecofin Agency",
-   "FOROYAA Newspaper"
-  ],
-  "source_urls": [
-   "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
-   "https://allafrica.com/stories/202607090641.html"
+   "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles",
+   "https://www.benzinga.com/markets/tech/26/02/50534442/ford-anticipates-7-billion-ev-related-charges-in-two-years-predicts-model-e-division-would-break-even-in-2029",
+   "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-reports-second-quarter-2026-financial-results"
   ]
  },
  {
   "person": "ConocoPhillips",
-  "role": "American energy company (CEO transition to Andy O'Brien effective Sept 1, 2026)",
-  "promise": "Reach a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth and expanding LNG and Middle East opportunities",
-  "date_promised": "2026-08-07",
+  "role": "Energy company",
+  "promise": "Expect about USD 7 billion in incremental annual free cash flow by 2029 versus the 2025 baseline",
+  "date_promised": "2026-08-06",
   "due_date": "2029-12-31",
   "status": "pending",
-  "description": "On its second-quarter 2026 earnings call (August 7, 2026), ConocoPhillips reiterated its target of a $7 billion free-cash-flow inflection by 2029, supported by Willow production, Lower 48 growth, and expanding LNG and Middle East opportunities, while completing a $5 billion non-core asset disposition target ahead of schedule. The pledge is inherited by incoming CEO Andy O'Brien, who succeeds Ryan Lance effective September 1, 2026.",
+  "description": "ConocoPhillips reiterated its project and cost-improvement forecast in its August 6, 2026 results. The outlook depends on execution and commodity-price assumptions; it is not guaranteed cash generation.",
   "evidence": [
-   "Q2 2026 earnings call August 7, 2026 reiterated the 2029 free-cash-flow target",
-   "$5 billion non-core asset disposition completed ahead of schedule"
+   "The company's earlier calls describe incremental free cash flow and expected project start-ups; the August 2026 release reiterates the 2029 target."
   ],
   "sources": [
-   "MarketBeat",
-   "Yahoo Finance"
+   "ConocoPhillips",
+   "ConocoPhillips earnings transcript",
+   "ConocoPhillips earnings transcript"
   ],
   "source_urls": [
-   "https://www.marketbeat.com/instant-alerts/conocophillips-q2-earnings-call-highlights-2026-08-07/",
-   "https://sg.finance.yahoo.com/news/cop-q2-earnings-call-reinforces-190200946.html"
+   "https://www.conocophillips.com/news-media/story/conocophillips-announces-second-quarter-2026-results-and-quarterly-dividend/",
+   "https://static.conocophillips.com/files/resources/cop-usq_transcript_2025-11-06.pdf",
+   "https://static.conocophillips.com/files/resources/cop-usq_transcript_2025-08-07.pdf"
   ]
  }
 ]

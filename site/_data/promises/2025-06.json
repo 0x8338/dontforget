@@ -1,82 +1,65 @@
 [
  {
-  "person": "Satya Nadella",
-  "role": "Microsoft CEO",
+  "person": "Brad Smith",
+  "role": "Vice Chair and President of Microsoft",
   "promise": "We plan to invest about $80 billion in AI-enabled data centers in fiscal 2025",
   "date_promised": "2025-01-03",
   "due_date": "2025-06-30",
-  "status": "kept",
-  "description": "Announced in a January 2025 blog that Microsoft would spend ~$80 billion on AI infrastructure in FY2025 (ending June 2025). Microsoft's actual fiscal-2025 AI capex landed in line with or above the target, backing the 'largest AI infrastructure buildout' claim.",
+  "status": "pending",
+  "description": "Microsoft announced plans to invest approximately $80 billion in AI-enabled datacenters in fiscal 2025. Brad Smith said more than half of the investment would be in the United States.",
   "evidence": [
-   "Microsoft FY2025 (ended June 30, 2025) AI capex matched the ~$80B plan",
-   "Company confirmed more than half of capex directed at AI infrastructure"
+   "January 3 reporting attributes the fiscal-2025 investment plan to Brad Smith.",
+   "Outcome not established as of 2026-09-21: the checked announcement does not reconcile actual capital expenditure to the AI-enabled datacenter scope."
   ],
   "sources": [
-   "Microsoft blog (Jan 3, 2025)",
-   "Microsoft FY25 earnings (July 2025)"
+   "Reuters",
+   "TechCrunch"
+  ],
+  "source_urls": [
+   "https://www.investing.com/news/economy/microsoft-plans-to-spend-80-billion-on-aienabled-data-centers-in-fiscal-2025-3795770",
+   "https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/?trk=article-ssr-frontend-pulse_little-text-block"
   ]
  },
  {
   "person": "World Bank (IDA20)",
   "role": "International Development Association",
-  "promise": "A record $93 billion package to support the world's poorest countries over the next three years",
+  "promise": "IDA20 announced a $93 billion financing package for its July 2022-June 2025 replenishment cycle.",
   "date_promised": "2021-12-15",
   "due_date": "2025-06-30",
-  "status": "kept",
-  "description": "In December 2021, the World Bank announced the largest replenishment in the history of its fund for the poorest countries, IDA20, with $93 billion in grants and low-interest loans for fiscal years 2022-2025. The full financing package was delivered over the three-year cycle, financing operations across Africa and Asia as promised.",
+  "status": "pending",
+  "description": "The World Bank announced the package on December 15, 2021. IDA specifies the cycle as July 1, 2022 through June 30, 2025.",
   "evidence": [
-   "IDA20 donors pledged the record $93 billion at the December 2021 launch in Seoul",
-   "IDA20 resources fully committed and operationalized over FY2022-FY2025, including crisis windows"
+   "The original announcement establishes the package and date.",
+   "IDA's overview establishes the three-year cycle.",
+   "Outcome not established as of 2026-09-21: the checked announcement and overview do not reconcile final commitments, cancellations and disbursements."
   ],
   "sources": [
-   "World Bank Group press release (December 15, 2021)",
-   "World Bank IDA20 mid-term review (2024)"
+   "World Bank IDA20 announcement",
+   "World Bank IDA20 cycle overview"
+  ],
+  "source_urls": [
+   "https://www.worldbank.org/en/news/press-release/2021/12/15/global-community-steps-up-with-93-billion-support-package-to-boost-resilient-recovery-in-world-s-poorest-countries",
+   "https://ida.worldbank.org/en/replenishments/ida20-replenishment/ida20"
   ]
  },
  {
   "person": "Elon Musk",
   "role": "CEO of Tesla",
-  "promise": "Tesla will offer fully autonomous rides with no one in the car by June 2025",
+  "promise": "Launch paid unsupervised Tesla ride-hailing in Austin by June 2025 without an onboard human operator",
   "date_promised": "2025-01-29",
   "due_date": "2025-06-30",
   "status": "partial",
-  "description": "On Tesla's Q4 2024 earnings call Musk promised 'fully autonomous' rides with no one in the vehicle by June 2025. The robotaxi service launched in Austin on June 22, 2025, but with a safety monitor in the passenger seat and only 10-12 Model Ys in a tightly geofenced area — a real launch, but short of the driverless rides he promised.",
+  "description": "Tesla's June 2025 Austin launch carried invited riders with human safety monitors in the passenger seat. That supports a service launch but not fully unsupervised operation.",
   "evidence": [
-   "Austin robotaxi launch June 22, 2025 with safety monitors still in cars",
-   "Fleet of 10-12 vehicles, geofenced to a small area"
+   "The Austin service launched with onboard human safety monitors."
   ],
   "sources": [
-   "Electrek",
-   "Fortune",
-   "SyzGroup"
+   "TechSpot: Austin launch conditions",
+   "TechCrunch: January earnings call"
   ],
   "source_urls": [
-   "https://electrek.co/2026/02/16/tesla-robotaxi-status-check-8-months-in/",
-   "https://fortune.com/2025/06/22/elon-musk-tesla-robotaxi-service-launch-austin-420-flat-fee/",
-   "https://blog.syzgroup.com/hubfs/Focus_250722_Robotaxis.pdf"
-  ]
- },
- {
-  "person": "Donald Trump",
-  "role": "US President (47th)",
-  "promise": "\"I'll demand that interest rates drop immediately.\"",
-  "date_promised": "2025-01-23",
-  "due_date": "2025-06-30",
-  "status": "broken",
-  "description": "In a video address to the World Economic Forum at Davos, Trump said he would 'demand that interest rates drop immediately, and likewise they should be dropping all over the world'. The Federal Reserve held its policy rate at 4.25-4.50% through the first half of 2025, and the US president has no authority to set interest rates.",
-  "evidence": [
-   "Fed held rates at 4.25-4.50% until September 2025 — no immediate drop",
-   "Analysts noted the president cannot order the Fed to cut rates"
-  ],
-  "sources": [
-   "Nasdaq",
-   "Barron's",
-   "Kenyan Wallstreet"
-  ],
-  "source_urls": [
-   "https://www.nasdaq.com/articles/can-trump-really-demand-interest-rates-go-down",
-   "https://www.barrons.com/livecoverage/stock-market-today-012325/card/treasury-yields-fall-during-trump-remarks-9Cu2hho4FChCaF841gfj",
-   "https://kenyanwallstreet.com/trump-pushes-for-lower-interest-rates-globally"
+   "https://www.techspot.com/news/108410-tesla-robotaxis-launch-austin-420-invite-only-service.html",
+   "https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/"
   ]
  }
 ]

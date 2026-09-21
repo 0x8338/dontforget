@@ -1,0 +1,20 @@
+[
+ {
+  "person": "TD Bank Group",
+  "role": "Banking group",
+  "promise": "Provide C$150 billion in financing over five years to support Canadian economic growth.",
+  "date_promised": "2026-09-14",
+  "due_date": "2031-09-14",
+  "status": "pending",
+  "description": "TD announced a five-year financing commitment covering lending, underwriting and advisory activity. This is not a pledge to invest the full amount as the bank's own cash. The due date is the five-year anniversary of the announcement.",
+  "evidence": "TD's September 14 announcement establishes the commitment; the Prime Minister's Office included it in the September 15 summit summary. Fulfillment remains pending.",
+  "sources": [
+   "TD Bank Group",
+   "Prime Minister's Office of Canada"
+  ],
+  "source_urls": [
+   "https://stories.td.com/ca/en/news/2026-09-14-td-launches-24150-billion-five-year-commitment-to-accelerate",
+   "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
+  ]
+ }
+]

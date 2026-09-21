@@ -2,24 +2,21 @@
  {
   "person": "Steve Jobs",
   "role": "CEO, Apple",
-  "promise": "Every iPhone 4 user would get a free case (or refund) until at least 30 September 2010",
+  "promise": "Offer a free-case programme for eligible iPhone 4 purchases through September 30, 2010, with reimbursement for eligible Apple Bumper purchases",
   "date_promised": "2010-07-16",
   "due_date": "2010-09-30",
   "status": "kept",
-  "description": "At a 16 July 2010 press conference addressing iPhone 4 antenna reception problems, Jobs announced that Apple would give every iPhone 4 buyer a free case or bumper through 30 September 2010 and offered full refunds within 30 days to customers who remained unhappy. Apple delivered the free cases as announced and honored the refund window.",
+  "description": "Apple announced a free-case programme on July 16, 2010 and opened applications on July 23. It covered eligible iPhone 4 purchases through September 30, with separate claim windows, and offered reimbursement to eligible buyers of Apple Bumpers.",
   "evidence": [
-   "Free bumper program ran through 30 September 2010 as announced",
-   "Apple also offered full refunds within 30 days"
+   "Contemporaneous July 23, 2010 reporting confirms that the free-case application programme opened, retained purchase eligibility through September 30, and provided reimbursement procedures. This rates implementation of the offer, not proof that every individual claim was settled."
   ],
   "sources": [
-   "BBC News",
-   "UPI (2010-07-16)",
-   "PCMag"
+   "MacRumors: July 16 announcement",
+   "MacRumors: July 23 programme launch"
   ],
   "source_urls": [
-   "https://www.bbc.co.uk/news/technology-10665424)",
-   null,
-   "https://uk.pcmag.com/news/98220/apple-promises-free-bumpers-cases-for-iphone-4-buyers)"
+   "https://www.macrumors.com/2010/07/16/apple-to-offer-free-cases-for-iphone-4-customers/",
+   "https://www.macrumors.com/2010/07/23/apple-launches-free-iphone-4-case-program/"
   ]
  }
 ]

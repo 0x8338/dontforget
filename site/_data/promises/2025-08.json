@@ -1,21 +1,25 @@
 [
  {
-  "person": "European Commission (EU AI Act)",
-  "role": "EU regulator",
-  "promise": "The EU AI Act — 'the world's first comprehensive AI law' — with GPAI transparency obligations applying from 2 August 2025",
-  "date_promised": "2024-03-13",
+  "person": "European Union",
+  "role": "EU legislature",
+  "promise": "The adopted AI Act scheduled general-purpose AI model obligations to apply from August 2, 2025.",
+  "date_promised": "2024-05-21",
   "due_date": "2025-08-02",
-  "status": "partial",
-  "description": "The EU promised a global-first AI regulation with a strict timeline: in force Aug 1, 2024; prohibitions Feb 2, 2025; GPAI (foundation model) obligations Aug 2025; high-risk rules Aug 2026-2027. The deadlines legally held and GPAI duties took effect Aug 2025, but enforcement was staggered and softened — open-source GPAI exemptions granted (June 2025), codes of practice delayed, and high-risk obligations pushed toward 2027.",
+  "status": "kept",
+  "description": "The Council adopted the AI Act on May 21, 2024. The Commission identifies August 2, 2025 as the application date for GPAI obligations, subject to the Act's transitional provisions.",
   "evidence": [
-   "AI Act entered into force Aug 1, 2024; GPAI obligations at 12 months (Wikipedia: Artificial Intelligence Act)",
-   "Prohibitions applied Feb 2, 2025",
-   "High-risk rules split across Aug 2026 (24 months) and Aug 2027 (36 months); open-source exemptions in June 2025"
+   "The Council's dated adoption notice establishes the legislative milestone.",
+   "The Commission confirms the GPAI application date; this does not imply every provider faced identical immediate enforcement."
   ],
   "sources": [
-   "Wikipedia: Artificial Intelligence Act",
-   "European Commission AI Act fact sheet",
-   "Reuters (2025 coverage)"
+   "Council final AI Act adoption",
+   "Commission GPAI obligations",
+   "Commission GPAI guidelines"
+  ],
+  "source_urls": [
+   "https://www.consilium.europa.eu/en/press/press-releases/2024/05/21/artificial-intelligence-ai-act-council-gives-final-green-light-to-the-first-worldwide-rules-on-ai/",
+   "https://digital-strategy.ec.europa.eu/en/factpages/general-purpose-ai-obligations-under-ai-act",
+   "https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers"
   ]
  }
 ]

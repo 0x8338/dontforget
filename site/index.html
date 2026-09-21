@@ -22,7 +22,7 @@
 
   <div class="date-hero">
     <div class="lives-count" id="lives-total">—</div>
-    <div class="lives-label">lives taken on this day since 2000</div>
+    <div class="lives-label">reported lives lost in these events</div>
     <div class="date-line" id="today-date"></div>
   </div>
 
@@ -38,6 +38,7 @@
     <span class="filter-chip" data-filter="food-crisis">food crisis</span>
   </div>
 
+  <p id="load-error" role="status" hidden></p>
   <div id="events-container">
     <div class="date-hero" style="padding-top:3rem;">
       <div class="lives-label" style="color:var(--stone);">Loading…</div>
@@ -50,8 +51,11 @@
   <p>UTC &middot; Each event sourced from &ge;2 public records &middot; <a href="about.html">About</a></p>
 </footer>
 
+<script src="assets/data.js"></script>
 <script>
 (function() {
+  var data = DontforgetData;
+  var escapeHtml = data.escapeHtml;
   var params = new URLSearchParams(window.location.search);
   var dateParam = params.get('date');  // ?date=MM-DD or ?date=08-06
   var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
@@ -101,10 +105,10 @@
       var cls = catClass[e.category] || 'war';
       html += '<article class="card card-' + cls + '">' +
         '<div class="year">' + e.date.slice(0, 4) + '</div>' +
-        '<h3>' + e.title + '</h3>' +
-        '<div class="meta-line">' + e.location + ' · <span class="badge badge-' + cls + '">' + (catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
-        '<p>' + e.description + '</p>' +
-        '<div class="sources">Sources: ' + e.sources.join(' · ') + '</div>' +
+        '<h3>' + escapeHtml(e.title) + '</h3>' +
+        '<div class="meta-line">' + escapeHtml(e.location) + ' · <span class="badge badge-' + cls + '">' + escapeHtml(catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
+        '<p>' + escapeHtml(e.description) + '</p>' +
+        '<div class="sources">Sources: ' + data.sourcesHtml(e) + '</div>' +
         '</article>';
     });
     container.innerHTML = html;
@@ -121,23 +125,31 @@
       if (remaining.length === 0) return;
       var w = remaining.shift();
       fetch('_data/' + w.file)
-        .then(function(r) { return r.json(); })
+        .then(function(r) {
+          if (!r.ok) throw new Error('Could not load events');
+          return r.json();
+        })
         .then(function(items) {
           loadedEvents = loadedEvents.concat(items.filter(function(e) { return e.date.slice(5) === today; }));
           renderEvents(currentFilter);
           next();
         })
         .catch(function() {
-          if (loadedEvents.length === 0) {
-            container.innerHTML = '<div class="date-hero" style="padding-top:3rem;"><div class="lives-label" style="color:var(--c-war);">Could not load events.</div></div>';
-          }
+          var error = document.getElementById('load-error');
+          error.hidden = false;
+          error.textContent = 'Some events could not be loaded. Totals may be incomplete.';
+          renderEvents(currentFilter);
+          next();
         });
     }
     next();
   }
 
   fetch('_data/events/index.json')
-    .then(function(r) { return r.json(); })
+    .then(function(r) {
+      if (!r.ok) throw new Error('Could not load events index');
+      return r.json();
+    })
     .then(function(index) {
       windowsList = index.windows || [];
       loadEvents();

@@ -12,6 +12,7 @@ import sys
 from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
+from urllib.parse import urlsplit
 
 BASE = Path(__file__).resolve().parent
 TODAY = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
@@ -20,7 +21,7 @@ ALLOWED_CATEGORIES = {
 }
 ALLOWED_STATUSES = {"kept", "broken", "partial", "pending", "kept (delayed)"}
 EVENT_FIELDS = ("date", "title", "category", "location", "lives_lost", "description", "sources")
-PROMISE_FIELDS = ("person", "role", "promise", "date_promised", "due_date", "status", "sources")
+PROMISE_FIELDS = ("person", "role", "promise", "date_promised", "due_date", "status", "description", "evidence", "sources")
 
 errors = []
 warnings = []
@@ -91,26 +92,66 @@ DOMAIN_RE = re.compile(r"[a-z0-9-]+(\.[a-z0-9-]+)+\.[a-z]{2,}")
 
 def check_source(label, field, source):
     check(isinstance(source, str) and source.strip(), f"{label}: empty {field} entry")
+    if not isinstance(source, str):
+        return
     check("http" not in source.lower(), f"{label}: {field} contains a URL: {source[:60]}")
     check(not DOMAIN_RE.search(source.lower()), f"{label}: {field} contains a bare domain: {source[:60]}")
     check(len(source) <= 120, f"{label}: {field} entry too long ({len(source)} chars)")
 
 
+def check_date(value, label):
+    try:
+        if not isinstance(value, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            raise ValueError
+        datetime.date.fromisoformat(value)
+    except ValueError:
+        errors.append(f"{label}: invalid calendar date {value!r}")
+        return False
+    return True
+
+
+def check_sources(record, label, minimum):
+    sources = record.get("sources", [])
+    check(isinstance(sources, list), f"{label}: sources must be a list")
+    if not isinstance(sources, list):
+        return
+    check(len(sources) >= minimum, f"{label}: fewer than {minimum} sources")
+    for source in sources:
+        check_source(label, "source", source)
+    if "source_urls" not in record:
+        errors.append(f"{label}: missing evidence links (source_urls)")
+        return
+    urls = record["source_urls"]
+    check(isinstance(urls, list) and len(urls) == len(sources),
+          f"{label}: source_urls must match sources length")
+    if not isinstance(urls, list):
+        return
+    for url in urls:
+        if url is None:
+            errors.append(f"{label}: missing evidence link")
+            continue
+        try:
+            parsed = urlsplit(url) if isinstance(url, str) else None
+            valid = parsed is not None and parsed.scheme in {"http", "https"} and parsed.hostname
+        except ValueError:
+            valid = False
+        check(bool(valid), f"{label}: invalid source URL {url!r}")
+
+
 for dkey, lst in events.items():
-    check(len(dkey) == 5 and dkey[2] == "-", f"bad date key {dkey!r}")
+    check_date("2000-" + dkey, f"date key {dkey!r}")
     for e in lst:
         label = f"{e.get('date')} {e.get('title', '?')}"
         for field in EVENT_FIELDS:
             check(e.get(field) not in (None, ""), f"{label}: missing field {field}")
-        check(e.get("date", "") >= "2000-01-01", f"{label}: date before 2000")
-        check(e.get("date", "") <= TODAY, f"{label}: date in the future")
-        check(e.get("date", "")[5:] == dkey, f"{label}: key {dkey} does not match date")
+        if check_date(e.get("date"), label):
+            check(e["date"] >= "2000-01-01", f"{label}: date before 2000")
+            check(e["date"] <= TODAY, f"{label}: date in the future")
+            check(e["date"][5:] == dkey, f"{label}: key {dkey} does not match date")
         check(e.get("category") in ALLOWED_CATEGORIES, f"{label}: bad category {e.get('category')}")
-        check(isinstance(e.get("lives_lost"), int) and e["lives_lost"] > 0,
+        check(type(e.get("lives_lost")) is int and e["lives_lost"] > 0,
               f"{label}: lives_lost must be a positive integer")
-        check(len(e.get("sources", [])) >= 2, f"{label}: fewer than 2 sources")
-        for s in e["sources"]:
-            check_source(label, "event source", s)
+        check_sources(e, label, 2)
 
 # Events: duplicates
 exact = [k for k, v in Counter((e["date"], e["title"].strip().lower()) for e in all_events).items() if v > 1]
@@ -133,16 +174,21 @@ for p in promises:
     label = p.get("person", "?")
     for field in PROMISE_FIELDS:
         check(p.get(field) not in (None, ""), f"promise {label}: missing field {field}")
-    check(p.get("date_promised", "") >= "2000-01-01", f"promise {label}: date before 2000")
+    promised_valid = check_date(p.get("date_promised"), f"promise {label} date_promised")
+    due_valid = check_date(p.get("due_date"), f"promise {label} due_date")
+    if promised_valid:
+        check("2000-01-01" <= p["date_promised"] <= TODAY,
+              f"promise {label}: date_promised before 2000 or in the future")
+    if promised_valid and due_valid:
+        check(p["due_date"] >= p["date_promised"],
+              f"promise {label}: due_date precedes date_promised")
     check(p.get("status") in ALLOWED_STATUSES, f"promise {label}: bad status {p.get('status')}")
-    check(len(p.get("sources", [])) >= 1, f"promise {label}: no sources")
-    for s in p["sources"]:
-        check_source(label, "promise source", s)
-    if "source_urls" in p:
-        check(isinstance(p["source_urls"], list) and len(p["source_urls"]) == len(p["sources"]),
-              f"promise {label}: source_urls must match sources length")
-        for u in p["source_urls"]:
-            check(u is None or u.startswith("http"), f"promise {label}: bad source_url entry {u}")
+    evidence = p.get("evidence")
+    check((isinstance(evidence, str) and bool(evidence.strip())) or
+          (isinstance(evidence, list) and bool(evidence) and
+           all(isinstance(item, str) and item.strip() for item in evidence)),
+          f"promise {label}: evidence must contain a nonempty explanation")
+    check_sources(p, f"promise {label}", 1)
 
 # Promises: overdue but still pending
 for p in promises:
@@ -174,27 +220,72 @@ check(pr_cp.get("total") == len(promises),
       f"checkpoint promises.total {pr_cp.get('total')} != actual {len(promises)}")
 check(ev_cp.get("last_date", "") <= TODAY, "checkpoint events.last_date is in the future")
 check(pr_cp.get("last_date", "") <= TODAY, "checkpoint promises.last_date is in the future")
+check_date(ev_cp.get("last_date"), "checkpoint events.last_date")
+check_date(pr_cp.get("last_date"), "checkpoint promises.last_date")
+
+
+def read_chunk(filename, directory):
+    relative = Path(filename)
+    if relative.parent != Path(directory) or relative.suffix != ".json":
+        errors.append(f"invalid split file path {filename!r}")
+        return None
+    path = BASE / relative
+    if not path.is_file():
+        errors.append(f"missing split file {filename}")
+        return None
+    try:
+        content = json.loads(path.read_text())
+    except (ValueError, OSError) as exc:
+        errors.append(f"invalid split file {filename}: {exc}")
+        return None
+    check(isinstance(content, list), f"split file {filename} must contain a list")
+    return content if isinstance(content, list) else None
 
 # Split files (generated by split_data.py)
 events_index = BASE / "events" / "index.json"
+check(events_index.is_file(), "missing events split index")
 if events_index.exists():
     idx = json.loads(events_index.read_text())
     total = sum(w.get("count", 0) for w in idx.get("windows", []))
     check(total == len(all_events), f"events split index count {total} != {len(all_events)}")
+    split_events = []
     for w in idx.get("windows", []):
-        check((BASE / w["file"]).exists(), f"missing events split file {w['file']}")
+        items = read_chunk(w["file"], "events")
+        if items is not None:
+            split_events.extend(items)
+            check(len(items) == w.get("count"), f"events chunk count mismatch in {w['key']}")
+            check(dict(Counter(e.get("date", "")[5:] for e in items)) == w.get("days"),
+                  f"events chunk days mismatch in {w['key']}")
         if w.get("days"):
             check(sum(w["days"].values()) == w.get("count"),
                   f"events split days mismatch in window {w['key']}")
+    check(Counter(json.dumps(e, sort_keys=True) for e in split_events) ==
+          Counter(json.dumps(e, sort_keys=True) for e in all_events),
+          "events split contents differ from canonical events")
 
 promises_index = BASE / "promises" / "index.json"
+check(promises_index.is_file(), "missing promises split index")
 if promises_index.exists():
     idx = json.loads(promises_index.read_text())
     check(idx.get("total") == len(promises), "promises split index total mismatch")
-    due_now = sum(1 for p in promises if p.get("due_date", "") <= TODAY)
-    check(idx.get("due_total") == due_now, f"promises split due_total {idx.get('due_total')} != {due_now}")
+    as_of = idx.get("as_of")
+    if check_date(as_of, "promises split as_of"):
+        check(as_of <= TODAY, "promises split as_of is in the future")
+        due = [p for p in promises if p.get("due_date", "") <= as_of]
+        check(idx.get("due_total") == len(due), "promises split due_total mismatch at as_of")
+        check(idx.get("due_status") == dict(Counter(p.get("status") for p in due)),
+              "promises split due_status mismatch at as_of")
+    split_promises = []
     for m in idx.get("months", []):
-        check((BASE / m["file"]).exists(), f"missing promises month file {m['file']}")
+        items = read_chunk(m["file"], "promises")
+        if items is not None:
+            split_promises.extend(items)
+            check(len(items) == m.get("count"), f"promises chunk count mismatch in {m['key']}")
+            check(all(p.get("due_date", "")[:7] == m["key"] for p in items),
+                  f"promises chunk month mismatch in {m['key']}")
+    check(Counter(json.dumps(p, sort_keys=True) for p in split_promises) ==
+          Counter(json.dumps(p, sort_keys=True) for p in promises),
+          "promises split contents differ from canonical promises")
 
 print(f"events: {len(all_events)} entries across {len(events)} date keys")
 print(f"promises: {len(promises)}")

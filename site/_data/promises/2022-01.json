@@ -1,16 +1,44 @@
 [
  {
-  "person": "Basel Committee on Banking Supervision",
-  "role": "Global banking regulator",
-  "promise": "Dec 7, 2017: final Basel III reforms ('Basel IV') would be implemented 'as of 1 January 2022'",
-  "date_promised": "2020-01-01",
-  "due_date": "2022-01-28",
-  "status": "broken",
-  "description": "Delayed to Jan 1, 2023 (Mar 2020, COVID), then Jan 1, 2025; the US still has not implemented as of end-2025 (July 2023 proposal targeted 2027-28; scaled back and redrafted in Dec 2025)",
-  "evidence": [],
+  "person": "Salesforce",
+  "role": "Enterprise software company",
+  "promise": "Salesforce's analyst-day presentation targeted $20-22 billion in annual revenue for fiscal 2022.",
+  "date_promised": "2017-11-07",
+  "due_date": "2022-01-31",
+  "status": "pending",
+  "description": "Salesforce presented the target in November 2017. It reported $26.49 billion for fiscal 2022, ending January 31, 2022, above the numerical target range.",
+  "evidence": [
+   "The analyst-day deck dates the forecast and gives the $20-22 billion range.",
+   "The FY2022 release reports $26.49 billion.",
+   "Outcome not established as of 2026-09-21 on a like-for-like basis: the checked figures do not reconcile the original organic-growth and accounting assumptions with later reported revenue."
+  ],
   "sources": [
-   "BIS press release, Dec 7, 2017, bis.org/press/p171207.htm",
-   "BIS Governors and Heads of Supervision statement, Mar 27, 2020, bis.org"
+   "Salesforce November 2017 analyst deck",
+   "Salesforce FY2022 results"
+  ],
+  "source_urls": [
+   "https://www.sec.gov/Archives/edgar/data/1108524/000110852417000030/df17analystdaydeck.htm",
+   "https://www.salesforce.com/news/press-releases/2022/03/01/update-salesforce-reports-q4-results/"
+  ]
+ },
+ {
+  "person": "Basel Committee on Banking Supervision",
+  "role": "International banking standard setter",
+  "promise": "Schedule initial implementation of the final Basel III reforms for January 1, 2022, with a separate output-floor transition",
+  "date_promised": "2017-12-07",
+  "due_date": "2022-01-01",
+  "status": "pending",
+  "description": "The Basel Committee finalized the reforms on December 7, 2017, with initial implementation scheduled for January 1, 2022 and phased treatment of the output floor.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: jurisdiction-by-jurisdiction implementation was not reconciled; the original account conflated separate postponements and unverified US proposals."
+  ],
+  "sources": [
+   "Bank for International Settlements",
+   "Bank for International Settlements"
+  ],
+  "source_urls": [
+   "https://www.bis.org/press/p171207.htm",
+   "https://www.bis.org/fsi/fsisummaries/b3_rpcr.pdf"
   ]
  }
 ]

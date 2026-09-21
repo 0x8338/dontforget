@@ -1,51 +1,25 @@
 [
  {
-  "person": "Copenhagen Accord (COP15)",
-  "role": "UNFCCC COP15 agreement, Dec 2009",
-  "promise": "US$30 billion of 'fast-start' climate finance to developing countries over the next three years (2010-2012), rising to US$100 billion per year by 2020.",
+  "person": "Developed-country parties to the Copenhagen Accord",
+  "role": "Climate-finance contributors",
+  "promise": "The Accord committed developed countries to provide new and additional resources approaching $30 billion over 2010-2012.",
   "date_promised": "2009-12-18",
   "due_date": "2012-12-31",
-  "status": "kept",
-  "description": "The fast-start finance element of the Copenhagen Accord was delivered. OECD assessments counted roughly US$33 billion in fast-start finance flows over 2010-2012, slightly exceeding the pledge (the companion $100bn/yr-by-2020 pledge is tracked separately in this dataset's exclusions).",
+  "status": "pending",
+  "description": "Donors reported over $33 billion in fast-start finance, but independent assessment questioned additionality. Reported totals alone do not establish fulfillment of every condition.",
   "evidence": [
-   "OECD 'Climate finance in 2013-14 and the USD 100 billion goal' confirmed ~$33bn fast-start finance delivered 2010-2012",
-   "Delivery exceeded the $30bn pledge even by conservative donor-accounting measures"
+   "The Accord specifies new and additional resources and balanced allocation between adaptation and mitigation.",
+   "Outcome not established as of 2026-09-21: reported aggregate funding does not resolve additionality or allocation conditions."
   ],
   "sources": [
-   "Wikipedia",
-   "OECD"
+   "UNFCCC Copenhagen Accord",
+   "ODI fast-start finance assessment",
+   "WRI US fast-start finance assessment"
   ],
   "source_urls": [
-   "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference",
-   "https://www.oecd.org/en/publications/climate-finance-in-2013-14-and-the-usd-100-billion-goal_9789264249424-en.html"
-  ]
- },
- {
-  "person": "Mario Draghi",
-  "role": "ECB President",
-  "promise": "July 26, 2012, London speech: 'Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough'",
-  "date_promised": "2020-01-01",
-  "due_date": "2012-12-31",
-  "status": "kept",
-  "description": "OMT programme announced Sep 6, 2012; peripheral spreads collapsed and the euro was preserved",
-  "evidence": [],
-  "sources": [
-   "Draghi speech 'Global Investment Conference', Jul 26, 2012,",
-   "ECB OMT announcement"
-  ]
- },
- {
-  "person": "Timothy Geithner",
-  "role": "US Treasury Secretary",
-  "promise": "Jan 21, 2009 confirmation hearing: the administration would 'cut the deficit in half by the end of the president's first term'",
-  "date_promised": "2020-01-01",
-  "due_date": "2012-12-28",
-  "status": "broken",
-  "description": "FY2012 deficit was $1.09tn / 6.8% of GDP vs FY2009 $1.41tn / 9.8% — reduced by roughly a third, not half",
-  "evidence": [],
-  "sources": [
-   "Geithner Senate Finance Committee confirmation testimony",
-   "CBO historical budget data (2009-2012)"
+   "https://unfccc.int/resource/docs/2009/cop15/eng/11a01.pdf",
+   "https://odi.org/en/insights/fast-start-finance-where-do-we-stand-at-the-end-of-2012/",
+   "https://www.wri.org/research/us-contribution-fast-start-finance"
   ]
  }
 ]

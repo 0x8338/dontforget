@@ -6,15 +6,18 @@
   "date_promised": "2021-05-04",
   "due_date": "2021-07-04",
   "status": "broken",
-  "description": "Biden set a national goal of 70% of adults with at least one dose by Independence Day 2021. Only about 67% had a first dose by July 4; the goal was not reached until early August 2021, and Biden conceded it 'was a tough month.'",
+  "description": "Biden's adult vaccination target was not reached by July 4, 2021.",
   "evidence": [
-   "Only ~67.1% of adults had a first dose by 2021-07-04",
-   "Target reached roughly one month late"
+   "The May 4 White House fact sheet sets the 70% adult first-dose goal and July 4 deadline.",
+   "Contemporary July 4 reporting records the shortfall."
   ],
   "sources": [
-   "White House",
-   "CDC",
-   "The Washington Post"
+   "American Presidency Project",
+   "Axios"
+  ],
+  "source_urls": [
+   "https://www.presidency.ucsb.edu/documents/fact-sheet-president-biden-announce-goal-administer-least-one-vaccine-shot-70-the-us-adult",
+   "https://www.axios.com/2021/07/04/americas-back-july-4"
   ]
  }
 ]

@@ -1,96 +1,42 @@
 [
  {
-  "person": "Sanae Takaichi",
-  "role": "Prime Minister of Japan",
-  "promise": "\"We intend to designate this disaster as an 'Extremely Severe Disaster'\" - all-out government support for Kumamoto earthquake recovery, including Cabinet reserve funds",
-  "date_promised": "2026-08-03",
-  "due_date": "2026-08-31",
-  "status": "partial",
-  "description": "On her first visit to quake-hit Kumamoto since the July 28 earthquake, Prime Minister Takaichi pledged all-out government support, said the government would designate the quake an 'extremely severe disaster' to raise state aid, and announced Cabinet approval of more than 20 billion yen in reserve funds on August 4. The Cabinet approved 24.2 billion yen in contingency spending on August 4, while the formal designation was still being prepared days later.",
-  "evidence": [
-   "Cabinet approved 24.2bn yen in reserve-fund spending on Aug 4, 2026",
-   "Extremely severe disaster designation still being prepared as of Aug 5, 2026"
-  ],
-  "sources": [
-   "Asahi Shimbun",
-   "Nippon.com",
-   "Manila Bulletin"
-  ],
-  "source_urls": [
-   "https://www.asahi.com/ajw/articles/16782772",
-   "https://www.nippon.com/en/news/yjj2026080400096/",
-   "https://mb.com.ph/2026/08/04/kumamoto-quake-to-be-designated-disaster-of-extreme-severity-for-more-state-aid"
-  ]
- },
- {
   "person": "Claudia Sheinbaum",
   "role": "President of Mexico",
   "promise": "Present a national proposal to regulate cell phone and social media use in schools by the end of August 2026",
   "date_promised": "2026-08-03",
   "due_date": "2026-08-31",
-  "status": "partial",
-  "description": "The Sheinbaum government said it would define a national proposal by the end of August 2026 to regulate cell phone and social media use in schools, aimed at recovering attention, reading and learning in classrooms for the 2026-2027 school cycle.",
+  "status": "pending",
+  "description": "On August 3, 2026, Sheinbaum set an objective of presenting a schools-focused proposal toward the end of August. Her administration subsequently announced an August 24-25 teacher consultation.",
   "evidence": [
-   "SEP public consultation with teachers on restricting devices in classrooms was still under way at end of August 2026 (El Imparcial, Aug 28)",
-   "Government said limits would be defined in September, after the promised end-of-August national proposal (La Razon, Aug 27)",
-   "Sheinbaum cited survey support among teachers on Sept 3 while no national proposal had been released by Sept 9 (La Jornada)"
+   "Outcome not established as of 2026-09-21: retrieved official material confirms consultation but no dated publication of the promised national proposal."
   ],
   "sources": [
-   "La Razon",
-   "El Imparcial",
-   "La Jornada"
+   "Mexico Presidency: August 3 transcript",
+   "Mexico Presidency: teacher consultation"
   ],
   "source_urls": [
-   "https://www.razon.com.mx/mexico/2026/08/27/gobierno-definira-en-septiembre-limite-a-celulares-en-escuelas/",
-   "https://www.elimparcial.com/mexico/2026/08/28/sheinbaum-busca-que-ni-maestros-ni-alumnos-usen-dispositivos-digitales-en-las-escuelas-sep-consulta-a-docentes-para-regular-celulares-y-tecnologia/",
-   "https://www.jornada.com.mx/noticia/2026/08/31/politica/ocho-de-cada-10-maestros-estan-a-favor-de-regular-el-uso-de-celulares-en-escuelas-sheinbaum"
-  ]
- },
- {
-  "person": "Hungary (Tisza government)",
-  "role": "Government of Hungary / EU Recovery and Resilience Facility",
-  "promise": "Complete all milestones and targets required to unlock the full 10 billion euros in EU recovery funds by August 31, 2026",
-  "date_promised": "2026-08-13",
-  "due_date": "2026-08-31",
-  "status": "kept",
-  "description": "The Tisza government, elected in April 2026, is racing to document compliance with the EU's Recovery and Resilience Facility milestones before the August 31, 2026 deadline to unlock about 10 billion euros in previously frozen funds (roughly 6.5 billion in grants and 3.5 billion in soft loans). Transport and Investment Minister David Vitezy said on August 15 the government was working to recover the full amount, including reapplying in Brussels after years of blocked funds under the previous government.",
-  "evidence": [
-   "Government said on Aug 31 it had met all conditions to unlock the full 10 billion euros in EU recovery funds (Euronews)",
-   "Christian Science Monitor reported Hungary fulfilled all EU requirements needed to unlock the funds",
-   "Disbursement remains subject to European Commission assessment of the evidence Hungary submitted by the deadline (mreast.eu, Sept)"
-  ],
-  "sources": [
-   "Euronews",
-   "The Christian Science Monitor",
-   "MrEast.eu"
-  ],
-  "source_urls": [
-   "https://www.euronews.com/my-europe/2026/08/31/hungary-says-it-has-met-all-conditions-to-unlock-full-10bn-eu-recovery-fund",
-   "https://www.csmonitor.com/News-Briefs/Hungary-has-fulfilled-all-EU-requirements-needed-to-unlock-billions-of-euros",
-   "https://www.mreast.eu/2026/09/hungary-submits-evidence-for-e10bn-eu-recovery-funds/"
+   "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026",
+   "https://www.gob.mx/presidencia/prensa/presidenta-claudia-sheinbaum-anuncia-consulta-a-maestras-y-maestros-sobre-propuesta-de-regulacion-de-uso-de-celulares-en-las-escuelas"
   ]
  },
  {
   "person": "Femi Gbajabiamila (Presidential Working Group on State Police)",
   "role": "Chief of Staff to the President of Nigeria",
-  "promise": "Finalize the National Policing Bill through broad public consultation, with stakeholder submissions due by August 21, 2026",
+  "promise": "Extend public submissions on Nigeria's National Policing Bill until August 21, 2026 at 5 p.m. West Africa Time",
   "date_promised": "2026-08-13",
   "due_date": "2026-08-21",
-  "status": "kept",
-  "description": "The Presidential Working Group on the State Police Bill, chaired by Chief of Staff Femi Gbajabiamila, extended the deadline for stakeholders to submit memoranda and position papers on the proposed legislation to Friday, August 21, 2026 at 5 pm. The extension was intended to broaden consultations and ensure submissions on the National Policing Bill were substantive and technically sound, ahead of developing the final bill.",
+  "status": "pending",
+  "description": "Gbajabiamila's working group extended the public consultation window by eight days on August 13, 2026.",
   "evidence": [
-   "Working Group met the August 21, 2026 submission deadline; bill drafting began",
-   "Guardian and Daily Trust confirmed the panel kept pace with the seven-week timeline (Aug 21)"
+   "Outcome not established as of 2026-09-21: the retrieved reports announce the extension but do not document that the submission portal actually remained accessible through the cutoff; starting bill drafting does not establish fulfillment."
   ],
   "sources": [
-   "The Guardian",
-   "Daily Trust",
-   "AllAfrica"
+   "Premium Times",
+   "Punch"
   ],
   "source_urls": [
-   "https://guardian.ng/news/state-police-panel-begins-draft-bill-keeps-pace-with-seven-week-goal/",
-   "https://dailytrust.com/state-police-presidential-panel-begins-drafting-bill/",
-   "https://allafrica.com/stories/202608210305.html"
+   "https://www.premiumtimesng.com/news/top-news/902723-presidency-extends-policing-bill-submission-deadline-by-eight-days.html",
+   "https://punchng.com/state-police-bill-presidency-extends-public-submission-to-august-21/"
   ]
  }
 ]

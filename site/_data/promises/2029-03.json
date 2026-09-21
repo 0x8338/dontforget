@@ -1,25 +1,42 @@
 [
  {
-  "person": "Friedrich Merz",
-  "role": "Chancellor of Germany",
-  "promise": "Bring about the return of about 80 percent of Syrians living in Germany within three years",
-  "date_promised": "2026-03-30",
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Restore the NHS England standard that 92% of patients wait no more than 18 weeks from referral to elective treatment by March 2029",
+  "date_promised": "2024-12-05",
   "due_date": "2029-03-31",
   "status": "pending",
-  "description": "In late March 2026, Chancellor Friedrich Merz said he and Syrian President Ahmed al-Sharaa hoped that around 80 percent of the more than 900,000 Syrians residing in Germany would return home over the next three years, a statement that drew criticism from within his own coalition.",
+  "description": "The December 2024 Plan for Change pledged to restore England's elective-treatment waiting-time standard. DHSC's annual report specifies March 2029 as the target date.",
   "evidence": [
-   "Merz said about 80% of Syrians in Germany are expected to return within three years",
-   "Target based on hopes expressed jointly with Syria's President al-Sharaa"
+   "Official sources establish scope and timeline; the 2029 outcome remains pending."
   ],
   "sources": [
-   "BBC News",
-   "Anadolu Agency",
-   "bdnews24"
+   "UK PMO: Plan for Change announcement",
+   "DHSC: annual report"
   ],
   "source_urls": [
-   "https://www.bbc.com/news/articles/cy41vqx4pdzo",
-   "https://www.aa.com.tr/en/europe/chancellor-merz-under-fire-for-wanting-80-of-syrians-to-leave-germany/3886199",
-   "https://bdnews24.com/world/3d4a2e10b2d2"
+   "https://www.gov.uk/government/news/pm-sets-out-blueprint-for-decade-of-national-renewal",
+   "https://assets.publishing.service.gov.uk/media/693a99dc6a12691d48491de6/dhsc-annual-report-and-accounts-2024-2025-web-accessible-v1.pdf"
+  ]
+ },
+ {
+  "person": "Friedrich Merz",
+  "role": "Chancellor of Germany",
+  "promise": "Express a three-year aspiration for around 80% of Syrians in Germany to return, described as al-Sharaa's wish rather than a guaranteed quota",
+  "date_promised": "2026-03-30",
+  "due_date": "2029-03-30",
+  "status": "pending",
+  "description": "At the March 30, 2026 joint appearance, Merz discussed large-scale returns over three years. This was an aspiration, not evidence that returns had occurred.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: the retrieved reporting concerns the aspiration and its contested attribution, not a measured return outcome."
+  ],
+  "sources": [
+   "DW",
+   "Die Zeit"
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=vCazkSUAxlg",
+   "https://www.zeit.de/politik/ausland/2026-03/friedrich-merz-syrer-syrien-80-prozent-ahmed-al-scharaa"
   ]
  }
 ]

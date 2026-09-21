@@ -1,25 +1,43 @@
 [
  {
   "person": "Keir Starmer",
-  "role": "Prime Minister of the United Kingdom",
-  "promise": "Raise defence spending to 2.5% of GDP by April 2027, with an ambition of 3% in the next parliament",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Increase defence spending to 2.5% of GDP",
   "date_promised": "2025-02-25",
-  "due_date": "2027-04-30",
+  "due_date": "2027-04-01",
   "status": "pending",
-  "description": "In February 2025 Starmer committed the UK to raising Nato-qualifying defence spending to 2.5% of GDP by April 2027 and set out an ambition to reach 3% in the next parliament. As of 2026 the UK was still below 2.5%, and the government was considering whether to bring forward the increase.",
+  "description": "Starmer announced on February 25, 2025 that defence spending would rise to 2.5% of GDP from April 2027, funded partly by reducing aid to 0.3% of GNI. The implementation date remains future.",
   "evidence": [
-   "Commitment restated in the 2025 Defence Investment Plan",
-   "2026 reports said the government was weighing an accelerated increase"
+   "Government announcement specifies April 2027; appropriations and plans are not proof of achieved expenditure.",
+   "Outcome not established as of 2026-09-21: the April 2027 implementation date remains future and the checked funding plan is not a spending outturn."
   ],
   "sources": [
-   "BBC News",
-   "Arise TV",
-   "Morning Star"
+   "UK Government",
+   "UK Government"
   ],
   "source_urls": [
-   "https://www.bbc.co.uk/news/articles/cn07ey43xpeo",
-   "https://www.arise.tv/uk-weighs-major-boost-to-defence-budget/",
-   "https://morningstaronline.co.uk/article/starmer-backs-plans-hike-military-spending"
+   "https://www.gov.uk/government/news/prime-minister-sets-out-biggest-sustained-increase-in-defence-spending-since-the-cold-war-protecting-british-people-in-new-era-for-national-security",
+   "https://www.gov.uk/government/publications/foreign-commonwealth-development-office-main-estimates-memorandum-2025-to-2026/fcdo-main-estimate-memorandum-2025-to-2026-accessible-html-version"
+  ]
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Raise defence spending to 2.5% of GDP from April 2027, with a conditional ambition of 3% in the next parliament",
+  "date_promised": "2025-02-25",
+  "due_date": "2027-04-01",
+  "status": "pending",
+  "description": "Starmer announced the 2.5% target on February 25, 2025. The government separately described a 2.6% total including intelligence and security expenditure; the measures must not be conflated.",
+  "evidence": [
+   "The Spring Statement confirms April 2027 commencement and conditions on the longer-term ambition; fulfillment is not yet due."
+  ],
+  "sources": [
+   "UK: February 25 defence announcement",
+   "UK: Spring Statement"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/news/prime-minister-sets-out-biggest-sustained-increase-in-defence-spending-since-the-cold-war-protecting-british-people-in-new-era-for-national-security",
+   "https://www.gov.uk/government/publications/spring-statement-2025-document/spring-statement-2025-html"
   ]
  }
 ]
