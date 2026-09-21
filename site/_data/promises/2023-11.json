@@ -1,5 +1,40 @@
 [
  {
+  "person": "Kevin Feige",
+  "role": "President, Marvel Studios",
+  "promise": "Blade, with Mahershala Ali, comes November 3, 2023 (as announced at San Diego Comic-Con).",
+  "date_promised": "2022-07-23",
+  "due_date": "2023-11-03",
+  "status": "broken",
+  "description": "Marvel's announced November 3, 2023 release date for Blade was changed to September 6, 2024 in October 2022 and subsequently delayed further.",
+  "evidence": [
+   "Marvel's October 11, 2022 schedule update confirms the original deadline would not be met."
+  ],
+  "sources": [
+   "Marvel Studios SDCC 2022 panel coverage, Variety",
+   "Variety / The Hollywood Reporter delay reports 2023-2025"
+  ],
+  "archive_id": "promises-15a3420a96e1b9faeafb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Marvel confirms original November 3 date was moved in October 2022; concise replacement avoids unsupported current never-released claim. Comic-Con evening US date needs UTC check before retaining July 23.",
+   "sources": [
+    {
+     "name": "Marvel",
+     "url": "https://www.marvel.com/articles/movies/marvel-studios-update-theatrical-release-schedule?s=07"
+    },
+    {
+     "name": "ComicBook.com",
+     "url": "https://comicbook.com/marvel/news/blade-movie-cancelled-release-date-delayed-explained-timeline/"
+    }
+   ]
+  }
+ },
+ {
   "person": "Rishi Sunak",
   "role": "UK Prime Minister",
   "promise": "The UK planned to host an AI Safety Summit at Bletchley Park on November 1-2, 2023.",
@@ -18,6 +53,7 @@
   "source_urls": [
    "https://www.gov.uk/government/news/iconic-bletchley-park-to-host-uk-ai-safety-summit-in-early-november",
    "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration"
-  ]
+  ],
+  "archive_id": "promises-6f8731e6b8a0ce8e5840"
  }
 ]

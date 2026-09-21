@@ -1,0 +1,38 @@
+[
+ {
+  "person": "Lionel Messi",
+  "role": "Argentina captain",
+  "promise": "Messi announced his retirement from Argentina's national team.",
+  "date_promised": "2016-06-26",
+  "due_date": "2016-08-31",
+  "status": "broken",
+  "description": "Messi announced international retirement after the 2016 Copa America final, then reversed the decision in August.",
+  "evidence": [
+   "BBC reports dated June 27 and August 12, 2016 document the announcement and reversal."
+  ],
+  "sources": [
+   "ESPN / BBC coverage, 2016-06-26",
+   "Reuters, 2016-08"
+  ],
+  "archive_id": "promises-61dec29a22cd145df0fd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "BBC reports the retirement announcement on June 27 and reversal August 12, 2016. Publication date is not sufficient to assign the announcement's UTC date after the US final. The August 31 deadline is not an announced condition of retirement; exact quotation also needs direct evidence.",
+   "sources": [
+    {
+     "name": "BBC retirement report",
+     "url": "https://www.bbc.co.uk/sport/football/36637591"
+    },
+    {
+     "name": "BBC return report",
+     "url": "https://www.bbc.co.uk/sport/football/37066033"
+    }
+   ]
+  }
+ }
+]

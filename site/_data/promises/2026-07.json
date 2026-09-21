@@ -1,0 +1,196 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "I'm going to go to Fort Knox and check the gold",
+  "date_promised": "2025-02-26",
+  "due_date": "2026-07-31",
+  "status": "partial",
+  "description": "At his first cabinet meeting Trump said he would visit Fort Knox to verify US gold reserves, and Elon Musk offered to livestream an audit. Treasury Secretary Scott Bessent confirmed in July 2026 that the gold is 'present and accounted for', based on an audit dated September 2024 and a visit by the US Treasurer, but Trump had not personally visited Fort Knox by the deadline and the livestreamed audit never happened.",
+  "evidence": [
+   "Bessent confirmed all gold reserves 'present and accounted for' (July 2026, based on a September 2024 audit)",
+   "Trump said in July 2026 that Musk would inspect Fort Knox; no confirmed personal visit by Trump"
+  ],
+  "sources": [
+   "Reuters (Feb 26, 2025 cabinet meeting coverage)",
+   "AP News"
+  ],
+  "archive_id": "promises-ce5f86d3c9c32768f662",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Reporting supports proposed visit, existing audits and Treasury assurance; no source establishes July 31, 2026 as a promised deadline. Another official's visit is not partial fulfillment of Trump's personal visit. February 26 exact quote and livestream commitment remain unverified.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/Politics/trump-musk-raise-questions-nations-gold-fort-knox/story?id=119219700"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2026/07/22/scott-bessent-fort-knox-1-trillion-gold-present-accounted-for/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "We're going to build an Iron Dome for America",
+  "date_promised": "2025-01-20",
+  "due_date": "2026-07-31",
+  "status": "partial",
+  "description": "Promised in his inaugural address and enacted via Executive Order 14186 of 27 January 2025, calling for a next-generation missile defense shield. The program (Golden Dome) advanced through DoD planning and interceptor demonstration contracts, and the FY2026 NDAA required annual reporting, but no operational nationwide shield existed by the July 2026 deadline; cost estimates reached $175-185 billion with delivery projected into the 2030s.",
+  "evidence": [
+   "Executive Order 14186 signed January 27, 2025",
+   "FY2026 NDAA requires annual Golden Dome reports; system not operational as of July 2026",
+   "Cost estimates of $175-185B with delivery projected 2030s (CRS testimony)"
+  ],
+  "sources": [
+   "White House Executive Order (March 14, 2025)",
+   "Reuters"
+  ],
+  "archive_id": "promises-50c51e067fd2f8a09958",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "White House supports January 27 order, not source label March 14. No July 31, 2026 operational deadline established. Cost range, 2030s delivery and annual-report requirement need cited budget/CRS documents; development planning is not an operational shield.",
+   "sources": [
+    {
+     "name": "White House",
+     "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-iron-dome-for-america/?query-11-page=3"
+    },
+    {
+     "name": "White House",
+     "url": "https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-directs-the-building-of-the-iron-dome-missile-defense-shield-for-america/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "DOGE head / Tesla & X CEO",
+  "promise": "DOGE will find $1 trillion in savings by July 4, 2026",
+  "date_promised": "2025-02-26",
+  "due_date": "2026-07-04",
+  "status": "broken",
+  "description": "Musk discussed a $1 trillion savings goal. Reuters reported on November 23, 2025 that DOGE had disbanded with eight months left in its mandate, with many functions transferred to OPM.",
+  "evidence": [
+   "DOGE dissolved July 4, 2026 with claimed savings far below $1 trillion",
+   "Musk's April 2025 claim of $150B cut was disputed by fact-checkers; miscounting found by journalists"
+  ],
+  "sources": [
+   "Wikipedia: Department of Government Efficiency",
+   "New York Times (Oct 2025)"
+  ],
+  "archive_id": "promises-6e4fbb55cc8517cda603",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "evidence",
+    "sources"
+   ],
+   "note": "Reuters reported DOGE had disbanded by November 2025, not that it operated until July 4, 2026. Institutional sunset is not automatically a trillion-dollar savings deadline. Disputed estimates are not audited net savings.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/economy-news/exclusivedoge-doesnt-exist-with-eight-months-left-on-its-charter-4374131"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/economy-news/trump-says-hes-considering-returning-20-of-doge-savings-to-americans-3878862"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "OpenAI CEO",
+  "promise": "I think we will have AGI by 2025",
+  "date_promised": "2025-01-10",
+  "due_date": "2026-07-31",
+  "status": "broken",
+  "description": "In a January 2025 Stratechery interview Altman suggested AGI could arrive by 2025. OpenAI instead defined a five-level AGI rubric in July 2025 and placed achieved capability at level 3 (agents) by the end of 2025. By the due date no generally recognised AGI existed, and Altman continued to push the timeline, saying in late 2025 that the next breakthrough required 'infinite and perfect memory' and in 2026 that AGI was 'very close'.",
+  "evidence": [
+   "OpenAI's own scale put achieved level at 3 (agents), not AGI-5, by end-2025",
+   "Altman pushed the timeline further in late 2025 and 2026; no AGI by July 2026"
+  ],
+  "sources": [
+   "Stratechery interview (Jan 2025)",
+   "OpenAI AGI levels announcement (July 2025)"
+  ],
+  "archive_id": "promises-64a07f7cd5cc570f0ce9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "No exact Stratechery quotation located. Nearby Altman post concerns knowing how to build AGI and a conditional 2025 agents forecast, not necessarily AGI delivery. July 2026 deadline contradicts promise text. Rubric date and achieved level need original OpenAI reporting, not DeepMind's distinct framework.",
+   "sources": [
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2025/01/sam-altman-says-we-are-now-confident-we-know-how-to-build-agi/"
+    },
+    {
+     "name": "Sam Altman",
+     "url": "https://blog.samaltman.com/reflections"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Cristiano Ronaldo",
+  "role": "Portugal captain",
+  "promise": "I would like to play the 2026 World Cup.",
+  "date_promised": "2024-07-05",
+  "due_date": "2026-07-19",
+  "status": "pending",
+  "description": "The cited desire to play in 2026 needs a dated source. Ronaldo would not become the oldest World Cup player merely by appearing at 41; FIFA records El Hadary's appearance at 45.",
+  "evidence": [
+   "FIFA's age records contradict the claimed oldest-player outcome.",
+   "Outcome not established as of 2026-09-21: the checked pre-tournament coverage does not establish an actual appearance."
+  ],
+  "sources": [
+   "CNN Portugal / RTP interview, 2024-07",
+   "Reuters, 2026-05"
+  ],
+  "archive_id": "promises-58b81c73ecb2a79b9281",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "FIFA contradicts the oldest-player claim: Essam El Hadary played at 45 in 2018. Its pre-tournament article establishes neither Ronaldo's actual appearance nor the alleged July 5, 2024 statement. The aspirational wording must not be treated as a guarantee.",
+   "sources": [
+    {
+     "name": "FIFA 2026 squad ages",
+     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/numbers-squads-stats?searchOverlay=1"
+    },
+    {
+     "name": "FIFA oldest World Cup players",
+     "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/jogadores-mais-velhos-historia-copa-do-mundo"
+    }
+   ]
+  }
+ }
+]

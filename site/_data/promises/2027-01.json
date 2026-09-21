@@ -1,0 +1,39 @@
+[
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Predict that AI models might perform most or all software-engineering work end to end within six to twelve months",
+  "date_promised": "2026-01-20",
+  "due_date": "2027-01-31",
+  "status": "pending",
+  "description": "In the Davos 2026 discussion, Amodei offered a conditional six-to-twelve-month estimate for AI to perform most or all software-engineering work end to end. He did not define completion as eliminating software-engineering jobs.",
+  "evidence": [
+   "Prediction made January 2026 with a 6-12 month window",
+   "No large-scale replacement of software engineers reported as of August 2026"
+  ],
+  "sources": [
+   "Digit.in",
+   "36Kr"
+  ],
+  "source_urls": [
+   "https://www.digit.in/features/general/anthropic-ceo-ai-will-replace-every-software-engineer-by-2027.html",
+   "https://eu.36kr.com/zh/p/3648851352018565"
+  ],
+  "archive_id": "promises-857c1cd8a8335493ade4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Transcript verifies conditional six-to-twelve-month capability forecast, not replacement of every engineer. Employment displacement is not a valid outcome measure for the claim. Exact session date and January 31 cutoff require confirmation; a twelve-month window is not automatically month-end.",
+   "sources": [
+    {
+     "name": "World Economic Forum: Davos interview transcript",
+     "url": "https://www.weforum.org/podcasts/radio-davos/episodes/ai-agi-dario-amodei-demis-hassabis/"
+    }
+   ]
+  }
+ }
+]

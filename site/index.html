@@ -106,8 +106,9 @@
       html += '<article class="card card-' + cls + '">' +
         '<div class="year">' + e.date.slice(0, 4) + '</div>' +
         '<h3>' + escapeHtml(e.title) + '</h3>' +
-        '<div class="meta-line">' + escapeHtml(e.location) + ' · <span class="badge badge-' + cls + '">' + escapeHtml(catLabel[e.category] || e.category) + '</span> · ' + e.lives_lost.toLocaleString() + ' lives</div>' +
-        '<p>' + escapeHtml(e.description) + '</p>' +
+          '<div class="meta-line">' + escapeHtml(e.location) + ' · <span class="badge badge-' + cls + '">' + escapeHtml(catLabel[e.category] || e.category) + '</span> · ' + (e.lives_lost === 0 ? 'Fatality report corrected' : e.lives_lost.toLocaleString() + ' lives') + '</div>' +
+          data.reviewHtml(e) +
+          '<p>' + escapeHtml(e.description) + '</p>' +
         '<div class="sources">Sources: ' + data.sourcesHtml(e) + '</div>' +
         '</article>';
     });

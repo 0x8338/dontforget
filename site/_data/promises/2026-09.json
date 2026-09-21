@@ -17,6 +17,50 @@
   "source_urls": [
    "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4880/Prorogata-la-sospensione-dellaccordo-di-Schengen-tra-Italia-e-Spagna",
    "https://www.ansa.it/english/news/2026/09/15/italy-extends-suspension-of-schengen-rules-with-spain-for-15-more-days_4c048fe6-62bd-46ba-b630-84383901aa40.html"
-  ]
+  ],
+  "archive_id": "promises-16aa9cb92ebfead97206"
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "Present Argentina's 2027 budget to Congress by the statutory deadline",
+  "date_promised": "2026-09-07",
+  "due_date": "2026-09-15",
+  "status": "kept",
+  "description": "The Argentine government submitted the 2027 budget proposal to Congress on September 15, 2026, the reported statutory deadline.",
+  "evidence": [
+   "Chequeado's completed-event report states that the proposal was presented Tuesday September 15."
+  ],
+  "sources": [
+   "Infobae",
+   "MDZ Online"
+  ],
+  "source_urls": [
+   "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/",
+   "https://www.mdzol.com/politica/javier-milei-se-reunira-el-lunes-legisladores-libertarios-horas-antes-presentar-el-presupuesto-2027-n1603302"
+  ],
+  "archive_id": "promises-1831dd6d13c8ca8a0a98",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise"
+   ],
+   "note": "Completed September 15 submission is documented, not merely a preview. The original September 7 cabinet meeting does not by itself establish a personal promise that day; statutory obligation and media expectation must be distinguished from announcement.",
+   "sources": [
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/politica/2026/09/07/javier-milei-reune-al-gabinete-con-un-temario-de-alto-voltaje-las-paso-el-proyecto-de-malvinas-y-el-presupuesto-2027/"
+    },
+    {
+     "name": "Chequeado",
+     "url": "https://chequeado.com/el-explicador/presupuesto-2027-5-claves-sobre-el-proyecto-que-presenta-el-gobierno-de-milei/"
+    },
+    {
+     "name": "TN",
+     "url": "https://tn.com.ar/politica/2026/08/15/milei-presentara-el-presupuesto-2027-en-la-camara-de-diputados-y-el-gobierno-prepara-la-negociacion-con-los-gobernadores/?outputType=amp"
+    }
+   ]
+  }
  }
 ]

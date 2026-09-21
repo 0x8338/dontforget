@@ -81,6 +81,14 @@ def event_duplicate(a: str, b: str) -> bool:
 events = json.loads((BASE / "events.json").read_text())
 promises = json.loads((BASE / "promises.json").read_text())
 checkpoint = json.loads((BASE / "checkpoint.json").read_text())
+retention_path = BASE / "retention.json"
+check(retention_path.is_file(), "missing retention inventory")
+retention = json.loads(retention_path.read_text()) if retention_path.is_file() else {}
+protected_ids = {name: set(retention.get(name, [])) for name in ("events", "promises")}
+legacy_path = BASE / "legacy-review.json"
+check(legacy_path.is_file(), "missing legacy review inventory")
+legacy = json.loads(legacy_path.read_text()) if legacy_path.is_file() else {}
+legacy_ids = {name: set(legacy.get(name, [])) for name in ("events", "promises")}
 
 all_events = [e for lst in events.values() for e in lst]
 
@@ -110,7 +118,44 @@ def check_date(value, label):
     return True
 
 
-def check_sources(record, label, minimum):
+def check_review(record, label):
+    review = record.get("review")
+    if review is None:
+        return
+    check(isinstance(review, dict), f"{label}: review must be an object")
+    if not isinstance(review, dict):
+        return
+    if check_date(review.get("as_of"), f"{label} review.as_of"):
+        check(review["as_of"] <= TODAY, f"{label}: review is future-dated")
+    fields = review.get("fields")
+    allowed = set(EVENT_FIELDS + PROMISE_FIELDS) | {"identity"}
+    check(isinstance(fields, list) and bool(fields) and
+          all(isinstance(field, str) and field in allowed for field in fields),
+          f"{label}: review.fields must identify unresolved fields")
+    check(isinstance(review.get("note"), str) and bool(review["note"].strip()),
+          f"{label}: review.note must explain the research gap")
+    sources = review.get("sources")
+    check(isinstance(sources, list) and all(isinstance(s, dict) for s in sources),
+          f"{label}: review.sources must be a list of evidence records")
+    if isinstance(sources, list) and all(isinstance(s, dict) for s in sources):
+        check_sources({"sources": [s.get("name") for s in sources],
+                       "source_urls": [s.get("url") for s in sources]},
+                      f"{label} review evidence", 0)
+
+
+def check_retention(records, dataset):
+    ids = [record.get("archive_id") for record in records]
+    valid_ids = [value for value in ids if isinstance(value, str) and value.strip()]
+    check(len(valid_ids) == len(ids), f"{dataset}: every record needs a stable archive_id")
+    check(len(valid_ids) == len(set(valid_ids)), f"{dataset}: duplicate archive_id")
+    missing = protected_ids[dataset] - set(valid_ids)
+    check(not missing, f"{dataset}: collected records removed from archive: {sorted(missing)}")
+    unregistered = set(valid_ids) - protected_ids[dataset]
+    check(not unregistered,
+          f"{dataset}: register new archive_ids in retention.json: {sorted(unregistered)}")
+
+
+def check_sources(record, label, minimum, allow_link_gaps=False):
     sources = record.get("sources", [])
     check(isinstance(sources, list), f"{label}: sources must be a list")
     if not isinstance(sources, list):
@@ -119,7 +164,8 @@ def check_sources(record, label, minimum):
     for source in sources:
         check_source(label, "source", source)
     if "source_urls" not in record:
-        errors.append(f"{label}: missing evidence links (source_urls)")
+        if not allow_link_gaps:
+            errors.append(f"{label}: missing evidence links (source_urls)")
         return
     urls = record["source_urls"]
     check(isinstance(urls, list) and len(urls) == len(sources),
@@ -128,7 +174,8 @@ def check_sources(record, label, minimum):
         return
     for url in urls:
         if url is None:
-            errors.append(f"{label}: missing evidence link")
+            if not allow_link_gaps:
+                errors.append(f"{label}: missing evidence link")
             continue
         try:
             parsed = urlsplit(url) if isinstance(url, str) else None
@@ -149,9 +196,30 @@ for dkey, lst in events.items():
             check(e["date"] <= TODAY, f"{label}: date in the future")
             check(e["date"][5:] == dkey, f"{label}: key {dkey} does not match date")
         check(e.get("category") in ALLOWED_CATEGORIES, f"{label}: bad category {e.get('category')}")
-        check(type(e.get("lives_lost")) is int and e["lives_lost"] > 0,
-              f"{label}: lives_lost must be a positive integer")
-        check_sources(e, label, 2)
+        correction = e.get("correction")
+        corrected_zero = (type(e.get("lives_lost")) is int and e["lives_lost"] == 0 and
+                          isinstance(correction, dict) and
+                          e.get("archive_id") in protected_ids["events"])
+        if corrected_zero:
+            if check_date(correction.get("as_of"), f"{label} correction.as_of"):
+                check(correction["as_of"] <= TODAY, f"{label}: correction is future-dated")
+            check(isinstance(correction.get("note"), str) and bool(correction["note"].strip()),
+                  f"{label}: zero-toll correction requires an explanation")
+            original = correction.get("original_values")
+            check(isinstance(original, dict) and type(original.get("lives_lost")) is int and
+                  original["lives_lost"] > 0,
+                  f"{label}: zero-toll correction must preserve the original positive toll")
+            check_sources(e, label, 2)
+        else:
+            check(type(e.get("lives_lost")) is int and e["lives_lost"] > 0,
+                  f"{label}: lives_lost must be a positive integer or documented zero-toll correction")
+        check_review(e, label)
+        review = e.get("review") or {}
+        allow_gaps = (isinstance(review, dict) and "sources" in review.get("fields", []) and
+                      e.get("archive_id") in legacy_ids["events"])
+        check_sources(e, label, 2, allow_link_gaps=allow_gaps)
+
+check_retention(all_events, "events")
 
 # Events: duplicates
 exact = [k for k, v in Counter((e["date"], e["title"].strip().lower()) for e in all_events).items() if v > 1]
@@ -172,9 +240,16 @@ for dkey, lst in events.items():
 check(isinstance(promises, list), "promises.json must be a list")
 for p in promises:
     label = p.get("person", "?")
+    review = p.get("review") or {}
+    unknown_announcement = (p.get("date_promised") is None and isinstance(review, dict) and
+                            "date_promised" in review.get("fields", []) and
+                            p.get("archive_id") in legacy_ids["promises"])
     for field in PROMISE_FIELDS:
+        if field == "date_promised" and unknown_announcement:
+            continue
         check(p.get(field) not in (None, ""), f"promise {label}: missing field {field}")
-    promised_valid = check_date(p.get("date_promised"), f"promise {label} date_promised")
+    promised_valid = (not unknown_announcement and
+                      check_date(p.get("date_promised"), f"promise {label} date_promised"))
     due_valid = check_date(p.get("due_date"), f"promise {label} due_date")
     if promised_valid:
         check("2000-01-01" <= p["date_promised"] <= TODAY,
@@ -188,7 +263,13 @@ for p in promises:
           (isinstance(evidence, list) and bool(evidence) and
            all(isinstance(item, str) and item.strip() for item in evidence)),
           f"promise {label}: evidence must contain a nonempty explanation")
-    check_sources(p, f"promise {label}", 1)
+    check_review(p, f"promise {label}")
+    review = p.get("review") or {}
+    allow_gaps = (isinstance(review, dict) and "sources" in review.get("fields", []) and
+                  p.get("archive_id") in legacy_ids["promises"])
+    check_sources(p, f"promise {label}", 1, allow_link_gaps=allow_gaps)
+
+check_retention(promises, "promises")
 
 # Promises: overdue but still pending
 for p in promises:

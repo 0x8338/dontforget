@@ -26,9 +26,24 @@
     return status === 'kept (delayed)' ? 'kept' : status;
   }
 
+  function reviewHtml(record) {
+    if (!record.review) return '';
+    var review = record.review;
+    var fields = review.fields.map(function(field) { return field.replace(/_/g, ' '); }).join(', ');
+    var sources = review.sources || [];
+    return '<div class="review-note"><p><strong>Details under review:</strong> ' +
+      escapeHtml(fields) + ' (' + escapeHtml(review.as_of) + ').</p><p>' +
+      escapeHtml(review.note) + '</p>' + (sources.length ?
+        '<div class="sources">Review evidence: ' + sourcesHtml({
+          sources: sources.map(function(source) { return source.name; }),
+          source_urls: sources.map(function(source) { return source.url; })
+        }) + '</div>' : '') + '</div>';
+  }
+
   root.DontforgetData = {
     escapeHtml: escapeHtml,
     sourcesHtml: sourcesHtml,
-    promiseStatus: promiseStatus
+    promiseStatus: promiseStatus,
+    reviewHtml: reviewHtml
   };
 })(globalThis);

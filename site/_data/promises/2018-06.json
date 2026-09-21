@@ -20,6 +20,48 @@
    "https://www.spa.gov.sa/1671335",
    "https://saudigazette.com.sa/article/518125/SAUDI-ARABIA/King-Salman",
    "https://brasil.un.org/pt-br/80419-mulheres-conquistam-direito-de-dirigir-na-ar%C3%A1bia-saudita"
-  ]
+  ],
+  "archive_id": "promises-4b10c1964704f80e1287"
+ },
+ {
+  "person": "Terry Myerson",
+  "role": "Executive Vice President, Microsoft",
+  "promise": "We expect Windows 10 to be running on over one billion devices within two to three years",
+  "date_promised": "2015-04-29",
+  "due_date": "2018-06-30",
+  "status": "kept (delayed)",
+  "description": "At Build on April 29, 2015, Microsoft set a goal of one billion Windows 10 devices within two to three years of availability. It announced more than one billion monthly active devices on March 16, 2020.",
+  "evidence": [
+   "Terry Myerson's April 2015 post records the target.",
+   "Microsoft's March 2020 post records achievement."
+  ],
+  "sources": [
+   "ZDNet",
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.zdnet.com/article/microsofts-big-windows-10-goal-one-billion-or-bust/",
+   "https://www.theverge.com/2020/3/16/21116762/microsoft-windows-10-active-devices-billion-7-support",
+   "https://en.wikipedia.org/wiki/Windows_10"
+  ],
+  "archive_id": "promises-9bb7e07936ad01184be0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Primary announcement authored/presented by Terry Myerson. It was two-to-three years from availability, not June 2018. Billion monthly-active-device milestone came March 2020; replace superlative with measured outcome.",
+   "sources": [
+    {
+     "name": "Microsoft",
+     "url": "https://blogs.windows.com/windows-insider/2015/04/29/welcoming-developers-to-windows-10/"
+    },
+    {
+     "name": "Microsoft",
+     "url": "https://blogs.windows.com/windowsexperience/2020/03/16/windows-10-powering-the-world-with-1-billion-monthly-active-devices/"
+    }
+   ]
+  }
  }
 ]

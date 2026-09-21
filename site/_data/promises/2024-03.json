@@ -1,0 +1,116 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US presidential candidate",
+  "promise": "\"I would eliminate the $19 trillion national debt in eight years.\"",
+  "date_promised": "2016-03-31",
+  "due_date": "2024-03-01",
+  "status": "broken",
+  "description": "Made during a March 2016 campaign interview, claiming he could get rid of the debt in eight years, partly through growth and trade deals. The national debt instead rose from about $19.9 trillion when he took office to about $27.8 trillion when he left, and to roughly $34 trillion by early 2024.",
+  "evidence": [
+   "US national debt ~$19.9T (Jan 2017) rising to ~$27.8T (Jan 2021) and ~$34T by 2024",
+   "Treasury debt-to-GDP data contradict the elimination claim"
+  ],
+  "sources": [
+   "CNBC",
+   "US Treasury Fiscal Data",
+   "Forbes"
+  ],
+  "archive_id": "promises-c0b08b51ce7299bf288e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "Interview was March 31, 2016, not March 1. Eight years meant presidential tenure; the March 2024 deadline is ungrounded. Treasury totals require separate verification.",
+   "sources": [
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/04/02/trumps-nonsensical-claim-he-can-eliminate-19-trillion-in-debt-in-eight-years/"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/in-turmoil-or-triumph-donald-trump-stands-alone/2016/04/02/8c0619b6-f8d6-11e5-a3ce-f06b5ba21f33_story.html?tid=pm_pop_b"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Ulf Kristersson",
+  "role": "Prime Minister of Sweden",
+  "promise": "Sweden will become a member of NATO as soon as possible",
+  "date_promised": "2022-10-17",
+  "due_date": "2024-03-31",
+  "status": "kept",
+  "description": "Kristersson made NATO membership the centerpiece of his government after forming a coalition in October 2022, pledging to join 'as soon as possible' following the application submitted with Finland in May 2022. After ratification delays by Turkey and Hungary, Sweden formally joined NATO on March 7, 2024, ending its two centuries of military non-alignment.",
+  "evidence": [
+   "Sweden's accession instruments deposited March 7, 2024, in Washington",
+   "Ratification completed by all member states after Türkiye and Hungary lifted objections"
+  ],
+  "sources": [
+   "NATO (March 2024 accession announcement)",
+   "Reuters / BBC (March 7, 2024)"
+  ],
+  "archive_id": "promises-3bb9f533a0b55440a167",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "NATO confirms accession March 7, 2024 and later March 11 flag ceremony. October 17 pledge wording/date and March 31 deadline are not established; 'as soon as possible' cannot generate an exact deadline.",
+   "sources": [
+    {
+     "name": "NATO",
+     "url": "https://www.nato.int/en/news-and-events/articles/news/2024/03/07/sweden-officially-joins-nato"
+    },
+    {
+     "name": "NATO",
+     "url": "https://www.nato.int/en/news-and-events/articles/news/2024/03/11/swedish-flag-raised-at-nato-headquarters"
+    }
+   ]
+  }
+ },
+ {
+  "person": "European Commission (Digital Markets Act gatekeepers)",
+  "role": "Designated gatekeeper platforms",
+  "promise": "Comply with Digital Markets Act obligations by 7 March 2024",
+  "date_promised": "2022-11-01",
+  "due_date": "2024-03-07",
+  "status": "partial",
+  "description": "The Commission designated six gatekeepers on September 6, 2023, with DMA obligations applying from March 7, 2024. It subsequently found Apple and Meta in breach in April 2025; submission of compliance reports did not establish full compliance.",
+  "evidence": [
+   "All designated gatekeepers submitted compliance reports by 7 March 2024",
+   "Commission published its first annual DMA report covering the compliance phase",
+   "Multiple investigations opened into suspected non-compliance after the deadline"
+  ],
+  "sources": [
+   "European Commission",
+   "Slaughter and May",
+   "EUR-Lex"
+  ],
+  "archive_id": "promises-aff26092e129198d4a21",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Submitting reports is not proof of compliance. First designations were September 6, not September 5, 2023; subsequent findings contradict universal compliance. November 1, 2022 is the legislation's commencement, not an independently verified promise announcement.",
+   "sources": [
+    {
+     "name": "European Commission: gatekeeper designations",
+     "url": "https://digital-markets-act.ec.europa.eu/commission-designates-six-gatekeepers-under-digital-markets-act-2023-09-06_en"
+    },
+    {
+     "name": "European Commission: Apple and Meta breaches",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act"
+    }
+   ]
+  }
+ }
+]

@@ -1,124 +1,93 @@
 # Archive Fact Check: 2026-09-21
 
 Scope: all 709 existing events and 449 existing promises, followed by the
-incremental update after the 2026-09-11 checkpoint. The audit pass is complete;
-this is not a certification that every original claim was verified. Unsupported
-records remain preserved for follow-up, outside the public datasets.
+incremental update after the September 11 checkpoint.
 
-## Integrated Result
+## Preservation Correction
 
-| Dataset | Originals checked | Factual corrections retained | Source-only updates | Withheld originals | New records | Public dataset |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Events | 709 | 348 | 38 | 323 | 13 | 399 |
-| Promises | 449 | 148 | 1 | 300 | 5 | 154 |
+The initial integration incorrectly withheld 323 events and 300 promises when
+details remained unresolved. The owner rejected that policy. All collected
+records are now retained; a missing source, uncertain date, or unfinished check
+does not establish falsity and must not remove an entry from the archive.
 
-Every original identity has exactly one ledger entry. `summary.json` records
-counts, the original commit, and output hashes; `quarantine.json` preserves all
-623 withheld originals, proposed corrections, sources, and remaining blockers.
-Some corrections are supported but do not resolve every material claim, so the
-number of correction findings is larger than the corrections retained above.
+| Dataset | Original records retained | New records | Public dataset | Records with review notes |
+| --- | ---: | ---: | ---: | ---: |
+| Events | 709 | 13 | 722 | 322 |
+| Promises | 449 | 5 | 454 | 300 |
 
-The update researched September 12-21 UTC, closes the checkpoint through
-September 20, and leaves September 21 provisional. It added 13 events and five
-promises, recording Track A as the expansion focus. The resulting archive is a
-curated sample, not complete coverage of all countries or all events.
+As of September 21, the promises page includes 311 due records. Its stored
+outcome counts are 109 kept (including 20 delayed), 109 broken, 40 partial and
+53 pending. These are archive classifications, not a claim that every outcome
+was independently re-established by this audit; record-level notes identify
+the remaining questions.
 
-Corrections include UTC-day shifts, revised tolls, attribution, announcement
-dates, actual deadline scope, and outcome evidence. Follow-up outcome research
-resolved 13 initially pending assessments, including the 737 MAX's delayed
-return to service and Lordstown's delayed initial production and deliveries.
-Promise wording distinguishes forecasts, collective targets, and conditional
-commitments from unconditional personal guarantees.
+## How Corrections Are Applied
 
-As of September 21, 87 retained promises are due: 32 kept (including six
-delayed), 11 broken, two partial, and 42 pending. The pending entries have dated
-reasons explaining the remaining outcome question. A missed date alone was not
-used to manufacture a failure judgment.
+- Fully supported corrections from the first integration are retained.
+- For an incomplete check, only supported changes outside `unresolved_fields`
+  are applied. An uncertain event identity preserves the original factual
+  fields. A record-level unresolved result does not block supported corrections
+  to other fields. No whole record is dropped.
+- Original citations remain attached to restored records. Research sources are
+  shown separately so a source supporting one detail is not presented as proof
+  of every original claim.
+- Empty legacy outcome evidence is explicitly marked as still to be documented.
+  One impossible announcement/deadline ordering is represented with an unknown
+  announcement date; the original value remains in `review.original_values`.
+- The August 12 Beit Lahia entry remains visible with its headline and toll
+  corrected: Anadolu explicitly withdrew the reported fatality. Zero here means
+  no death confirmed by the corrected report, not a claim about the victim's
+  eventual outcome. `correction.original_values` retains the earlier wording
+  and toll; new positive-toll events still follow the normal evidence rules.
+- The legacy `publication_ready` field records audit completeness only. It no
+  longer controls whether an existing record appears on the site.
+- Every record has a stable `archive_id`. `site/_data/retention.json` protects
+  the collected identities; validation fails if a protected record disappears,
+  even when totals and generated files have been rebuilt. New records must be
+  registered there, and corrections must retain their assigned IDs.
 
-## Evidence Rules
+`summary.json` records current totals and output hashes. Its content-change
+counter includes field-level corrections and explicit missing-evidence notes;
+it is not a count of independently verified outcomes.
+`review-backlog.json` preserves the original and retained version of every
+record needing follow-up. `quarantine.json` is a historical snapshot of the
+initial, rejected exclusion policy, not a list of currently hidden records.
 
-- Check event identity, date, location, death toll and material description claims.
-- Check each promise's attribution, wording, announcement date, deadline and
-  outcome separately. A commitment announcement is not evidence of fulfillment.
-- Prefer primary records and reputable reporting. Distinguish event dates from
-  publication dates, local dates from UTC, and initial tolls from later revisions.
-- Record disagreement and access limitations. A failed search does not establish
-  that a claim is false. Do not invent exact quotations or deadlines.
-- `verified` means the checked sources support all material fields; `correction`
-  means evidence supports a specific proposed change; `unresolved` means some
-  material claims could not be established. Unresolved claims are not verified.
-- Sources in the canonical datasets remain short names. Evidence URLs belong in
-  aligned `source_urls` arrays. Research ledgers stay outside the published site.
+## Evidence And Coverage
 
-## Ledger Format
+Check attribution, wording, announcement date, deadline and outcome separately.
+An announcement is not fulfillment, an unlocated source is not disproof, and a
+passed deadline alone is not proof of failure. Distinguish event dates from
+publication dates, local dates from UTC, and deaths from missing persons.
 
-Each batch records `dataset`, `scope`, `as_of` and `records`. Every record has:
+The six batch ledgers cover every original exactly once:
 
-- `key`: original `date` and `title` for an event, or `person`, `promise` and
-  `date_promised` for a promise;
-- `result`: `verified`, `correction` or `unresolved`;
-- `checked_fields`: fields actually checked against evidence;
-- `sources`: objects with a publication `name` and an exact `url`;
-- `note`: concise findings, remaining uncertainty and search/access limitations;
-- `changes`: proposed canonical field replacements, or an empty object.
-- `publication_ready`: true only if the corrected record's material claims are
-  supported; a supported correction can still leave another claim unresolved.
-
-The research batches do not edit the canonical datasets. The maintainer reviews
-and integrates supported corrections after checking coverage and collisions.
-Unresolved entries are withheld from the public datasets, not declared false.
-Originals and proposed corrections are preserved in `quarantine.json`.
-`update.json` records the subsequent research window, new records and withheld
-candidates. It is not evidence that every event worldwide was found.
-
-## Batches
-
-| File | Scope | Status |
-| --- | --- | --- |
-| events-2000-2008.json | Events dated 2000-2008 | Complete: 171 checked, 95 ready, 76 withheld |
-| events-2009-2017.json | Events dated 2009-2017 | Complete: 180 checked, 88 ready, 92 withheld |
-| events-2018-2025.json | Events dated 2018-2025 | Complete: 160 checked, 91 ready, 69 withheld |
-| events-2026.json | Existing events dated 2026 | Complete: 198 checked, 112 ready, 86 withheld |
-| promises-000-223.json | Existing promises at indexes 0 through 223 | Complete: 224 checked, 56 ready, 168 withheld |
-| promises-224-448.json | Existing promises at indexes 224 through 448 | Complete: 225 checked, 93 ready, 132 withheld |
-
-Checkpoint dates must advance only for dates actually researched. A structural
-validation pass or regenerated manifest is not a completed fact check.
-The update closes coverage through September 20 UTC and records provisional
-September 21 research separately, because that UTC day is still in progress.
-
-## Software And Validation
-
-- Source links are visible and escaped; promise outcome evidence is displayed.
-- Promise totals and filters use the current UTC date, including delayed
-  fulfillment in the kept count. Chunk failures no longer stop later loads.
-- Validation rejects invalid calendar dates, unsupported status values, missing
-  links, non-positive/non-integer tolls, and generated/canonical data mismatches.
-- Rebuilding removes obsolete generated chunks so withheld data cannot remain in
-  stale public chunk files. Pull requests validate without deploying; main Pages
-  deployment depends on successful validation.
-- Passed 21 Python tests, six Node page tests, generation, structural validation,
-  and `git diff --check`.
-- Browser checks passed at widths 1440, 390 and 320: complete final-data loading,
-  UTC totals, all promise filters, an event filter, evidence links, no JavaScript
-  errors, and no horizontal overflow. Screenshots were inspected. External font
-  requests were blocked during this check, exercising the fallback fonts.
-- Validator duplicate warnings were reviewed: the two September 19 strikes are
-  in different locations; the November 27 mine disasters occurred in different
-  years and provinces. Overdue-pending warnings remain intentionally visible.
-
-Same-data five-run benchmark (399 events, 154 promises; milliseconds, including
-process startup):
-
-| Script | Baseline mean / median | Updated mean / median |
+| File | Records checked | Records needing follow-up |
 | --- | ---: | ---: |
-| split_data.py | 306.8 / 219.5 | 99.6 / 112.6 |
-| validate.py | 146.0 / 55.0 | 95.8 / 65.9 |
+| events-2000-2008.json | 171 | 76 |
+| events-2009-2017.json | 180 | 92 |
+| events-2018-2025.json | 160 | 69 |
+| events-2026.json | 198 | 85 |
+| promises-000-223.json | 224 | 168 |
+| promises-224-448.json | 225 | 132 |
 
-The validator's median increased with the additional integrity checks. Large
-startup outliers make these local measurements unsuitable for a general speedup
-claim. The baseline scripts ran against the same final canonical data in a
-temporary directory, not against the larger original archive.
+`update.json` records the new-event/promise research and candidates not yet added.
+New candidates are different from collected records: an unverified new candidate
+need not be added, but an incomplete recheck must not erase an existing entry.
+The update researched September 12-21 UTC, closes the checkpoint through
+September 20, and leaves September 21 provisional. The collection is not an
+exhaustive census of events or promises worldwide.
 
-All changes are local. No commit, push, Pages deployment, or GitHub setting
-change was performed by this update.
+## Validation
+
+The restoration adds regression tests for retaining unresolved records,
+preserving original citations, applying only supported field corrections,
+displaying review notes without hiding promises, stable identities, and rejection
+of record deletion even after checkpoint totals are updated. Structural checks,
+source-link safety, UTC counts and generated/canonical consistency still apply.
+Legacy citation gaps require membership in the fixed `legacy-review.json`
+baseline inventory and an explicit review note. Retention protection does not
+exempt new records from evidence links or known announcement dates.
+
+Publication and the subsequent workflow-documentation update are separate steps.
+No organization or repository settings are changed by this correction.

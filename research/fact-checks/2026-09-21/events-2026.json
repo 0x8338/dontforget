@@ -4017,8 +4017,8 @@
         "date": "2026-08-12",
         "title": "Israeli fire kills one in Gaza"
       },
-      "publication_ready": false,
-      "result": "unresolved",
+      "publication_ready": true,
+      "result": "correction",
       "checked_fields": [
         "date",
         "title",
@@ -4038,12 +4038,13 @@
           "url": "https://www.europapress.es/internacional/noticia-israel-confirma-ataque-contra-jefe-celula-terrorista-hamas-norte-gaza-20260812185645.html"
         }
       ],
-      "note": "Anadolu explicitly corrects its initial report of one death: the person was critically wounded, with two injured in Beit Lahia and four in separate incidents. The recorded death therefore lacks support; do not republish a retracted preliminary fatality. A ministry cumulative total cannot establish that this particular strike killed someone. Subsequent victim outcome remains unestablished.",
-      "changes": {},
-      "unresolved_fields": [
-        "lives_lost",
-        "description"
-      ]
+      "note": "Anadolu explicitly corrected the initial fatality report to a critical injury. Preserve the event as a correction, with zero deaths confirmed by the corrected report, rather than deleting it or counting the withdrawn fatality. This does not establish the victim's subsequent outcome.",
+      "changes": {
+        "title": "Beit Lahia drone strike: initial fatality report corrected",
+        "lives_lost": 0,
+        "description": "A drone strike injured two people in Beit Lahia on August 12, 2026. Anadolu corrected an initial report that one person had died: medical sources instead confirmed that the person was critically wounded. This retained archive entry counts no confirmed deaths from the corrected report; the subsequent outcome is not established."
+      },
+      "unresolved_fields": []
     },
     {
       "key": {

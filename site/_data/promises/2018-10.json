@@ -1,0 +1,39 @@
+[
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister of Canada",
+  "promise": "\"We will legalize, regulate and restrict access to marijuana.\"",
+  "date_promised": "2015-10-19",
+  "due_date": "2018-10-17",
+  "status": "kept",
+  "description": "Campaign pledge to legalize recreational cannabis. The Cannabis Act received royal assent in June 2018 and legalization took effect October 17, 2018, roughly on the timeline promised.",
+  "evidence": [
+   "Cannabis Act legalization effective Oct 17, 2018",
+   "Task force on cannabis legalization reported Dec 2016, government followed its recommendations"
+  ],
+  "sources": [
+   "CBC News",
+   "BBC News"
+  ],
+  "archive_id": "promises-3cef9f19bf3a235ed993",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Government records confirm royal assent June 21 and effective October 17, 2018. Campaign date October 19, 2015 and treating later implementation date as an original deadline are not established.",
+   "sources": [
+    {
+     "name": "Government of Canada",
+     "url": "https://www.canada.ca/en/health-canada/news/2018/10/canada-legalizes-and-strictly-regulates-cannabis.html"
+    },
+    {
+     "name": "Canada Gazette",
+     "url": "https://gazette.gc.ca/rp-pr/p2/2018/2018-07-11/html/si-tr52-eng.html"
+    }
+   ]
+  }
+ }
+]

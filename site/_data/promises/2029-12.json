@@ -1,5 +1,117 @@
 [
  {
+  "person": "Keir Starmer",
+  "role": "UK Prime Minister",
+  "promise": "Restore the NHS England standard of 92% of patients starting consultant-led treatment within 18 weeks by the end of Parliament",
+  "date_promised": "2025-01-06",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "The January 6, 2025 elective reform plan set out how the government intended to restore England's 18-week referral-to-treatment standard by the end of Parliament.",
+  "evidence": [
+   "Government plan specifies the 92% standard and England scope."
+  ],
+  "sources": [
+   "BBC News (July 13, 2025)",
+   "NHS England data"
+  ],
+  "archive_id": "promises-551fd4e45adb7a8f6bfd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "Documented plan is January 6 and targets 92% of patients in England within 18 weeks by end of Parliament, not a universal UK guarantee. July 13 anniversary rationale and 7.5m patients versus pathways need correction separately.",
+   "sources": [
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/news/deal-between-nhs-and-independent-sector-to-cut-nhs-waiting-lists"
+    },
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/news/pm-sets-out-plan-to-end-waiting-list-backlogs-through-millions-more-appointments"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President (from 20 Oct 2024)",
+  "promise": "8% annual economic growth by the end of his term (2029)",
+  "date_promised": "2023-01-01",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "Prabowo advocated an 8% annual growth target before taking office in 2024. The record's stated 2029 deadline has not passed; lower interim growth does not establish failure at that deadline.",
+  "evidence": [
+   "2024 Reuters reports describe the growth ambition, not its eventual outcome."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Economy_of_Indonesia"
+  ],
+  "archive_id": "promises-e78743fb0f36bd7b3b83",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "Reuters supports an 8% growth ambition; current roughly 5% growth or forecasts cannot establish a missed 2029 deadline in 2026. Exact original date and end-term interpretation require source.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.voanews.com/amp/what-policies-to-expect-from-indonesia-s-new-president/7827157.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://theprint.in/world/indonesia-can-achieve-8-growth-president-elect-prabowo-says/2085981/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Deliver 1.5 million new homes over the parliament via radical planning reform",
+  "date_promised": "2023-01-01",
+  "due_date": "2029-12-31",
+  "status": "partial",
+  "description": "The Planning and Infrastructure Act received Royal Assent on December 18, 2025 as part of the government's plan to build 1.5 million homes during Parliament. Enactment does not establish the number of completed homes.",
+  "evidence": [
+   "Official announcement confirms enactment and links it to the housing target."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Planning_and_Infrastructure_Bill",
+   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
+  ],
+  "archive_id": "promises-041c3766049c2df7b68f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Royal Assent December 18 confirmed. Planning legislation is an enabling action, not houses delivered; remove unsupported pace assessment unless statistical source added. Original placeholder pledge date and precise end-Parliament deadline unverified.",
+   "sources": [
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/news/landmark-planning-and-infrastructure-bill-becomes-law"
+    },
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/news/housing-sec-pledges-to-go-further-than-ever-before-to-hit-15-million-homes"
+    }
+   ]
+  }
+ },
+ {
   "person": "Prabowo Subianto",
   "role": "President of Indonesia",
   "promise": "Target 8% economic growth by 2029, projecting 5.8-6.5% in 2027 under appropriate economic and fiscal policies",
@@ -15,7 +127,49 @@
   ],
   "source_urls": [
    "https://setkab.go.id/en/address-of-the-president-of-the-republic-of-indonesia-on-the-presentation-of-the-macroeconomic-framework-kem-and-fiscal-policy-principles-ppkf-for-the-2027-state-budget-bill-rapbn-before-the-ple/"
-  ]
+  ],
+  "archive_id": "promises-ea05fcfa2b78a9c10716"
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Make India one of the world's three largest economies during Modi's third term",
+  "date_promised": "2023-07-26",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "At the July 26, 2023 Bharat Mandapam inauguration, Modi guaranteed that India would be among the top three economies during a third term. The statement did not give a December 31 cutoff.",
+  "evidence": [
+   "Third-largest economy pledge tied to the end of Modi's third term (2029)",
+   "2026 analysis said the target was off track; Morgan Stanley projected 2028"
+  ],
+  "sources": [
+   "The Quint",
+   "PIB",
+   "NewsOnAir"
+  ],
+  "source_urls": [
+   "https://www.thequint.com/opinion/modis-third-largest-and-5-trillion-economy-targets-are-off-track-india",
+   "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2136365",
+   "https://newsonair.gov.in/india-to-become-worlds-third-largest-economy-by-2028-overtaking-germany-says-morgan-stanley/"
+  ],
+  "archive_id": "promises-d8c593bc923de8491862",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Modi's primary July 26, 2023 speech provides an actual promise date. Supplied 2025 PIB link quotes Sonowal, not Modi. Third-term horizon does not specify December 31, 2029, and GDP rankings require nominal-versus-PPP definition. Forecasts around 2028 do not show failure of a 2029 aim.",
+   "sources": [
+    {
+     "name": "India PIB: July 26 2023 speech",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1943075&lang=2&reg=48"
+    },
+    {
+     "name": "India PIB: June 2025 minister statement",
+     "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2136365&lang=2&reg=48"
+    }
+   ]
+  }
  },
  {
   "person": "Prabowo Subianto",
@@ -33,7 +187,8 @@
   ],
   "source_urls": [
    "https://setkab.go.id/en/president-prabowo-outlines-macroeconomic-assumptions-for-2027/"
-  ]
+  ],
+  "archive_id": "promises-a24782a5649302af9dc5"
  },
  {
   "person": "Shigeru Ishiba",
@@ -53,7 +208,8 @@
   "source_urls": [
    "https://japan.kantei.go.jp/102_ishiba/statement/202410/1004shoshinhyomei.html",
    "https://japan.kantei.go.jp/103/statement/202501/24shiseihoshin.html"
-  ]
+  ],
+  "archive_id": "promises-aba37c14978c5f1655b2"
  },
  {
   "person": "Ford Motor Company",
@@ -75,7 +231,42 @@
    "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles",
    "https://www.benzinga.com/markets/tech/26/02/50534442/ford-anticipates-7-billion-ev-related-charges-in-two-years-predicts-model-e-division-would-break-even-in-2029",
    "https://www.fromtheroad.ford.com/eur/en/articles/2026/ford-reports-second-quarter-2026-financial-results"
-  ]
+  ],
+  "archive_id": "promises-34d408a29cf55583a4d2"
+ },
+ {
+  "person": "Aliko Dangote",
+  "role": "President and CEO of Dangote Group",
+  "promise": "Invest $2 billion in The Gambia, including a 250 MW solar power plant and a modern petroleum products storage terminal",
+  "date_promised": "2026-07-07",
+  "due_date": "2029-12-31",
+  "status": "pending",
+  "description": "President Barrow announced on July 7, 2026 that Dangote had committed USD 2 billion for a 250 MW solar plant and a fuel tank farm in The Gambia.",
+  "evidence": [
+   "The presidency describes a commitment and proposed projects, not completed investment or a dated construction schedule."
+  ],
+  "sources": [
+   "Ecofin Agency",
+   "FOROYAA Newspaper"
+  ],
+  "source_urls": [
+   "https://www.ecofinagency.com/news-industry/0907-57210-dangote-pledges-a-2-billion-investment-to-deliver-more-reliable-power-and-fuel-supplies-in-gambia",
+   "https://allafrica.com/stories/202607090641.html"
+  ],
+  "archive_id": "promises-dbc6df1d26ebba8335c0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "The presidency confirms the July 7 announcement, amount and projects. No construction or full-investment completion deadline is stated; December 2029 remains unsupported.",
+   "sources": [
+    {
+     "name": "Gambia Presidency",
+     "url": "https://www.op.gov.gm/president-barrow-dangote-pledges-us2-billion-strategic-investment-partnership-gambia"
+    }
+   ]
+  }
  },
  {
   "person": "ConocoPhillips",
@@ -97,6 +288,7 @@
    "https://www.conocophillips.com/news-media/story/conocophillips-announces-second-quarter-2026-results-and-quarterly-dividend/",
    "https://static.conocophillips.com/files/resources/cop-usq_transcript_2025-11-06.pdf",
    "https://static.conocophillips.com/files/resources/cop-usq_transcript_2025-08-07.pdf"
-  ]
+  ],
+  "archive_id": "promises-667c3e0c8df78c339a90"
  }
 ]

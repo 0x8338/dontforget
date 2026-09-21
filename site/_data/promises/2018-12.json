@@ -20,7 +20,8 @@
    "https://about.fb.com/wp-content/uploads/2018/09/9-28-press-call-transcript.pdf",
    "https://www.sec.gov/Archives/edgar/data/1326801/000132680118000057/fb-06302018x10q.htm",
    "https://about.fb.com/news/2018/07/hard-questions-content-reviewers/"
-  ]
+  ],
+  "archive_id": "promises-a61ab694aa4c80891f79"
  },
  {
   "person": "Moon Jae-in and Kim Jong Un",
@@ -39,7 +40,45 @@
   ],
   "source_urls": [
    "https://www.mofa.go.kr/eng/brd/m_5476/view.do?.=&seq=319607&srchFr="
-  ]
+  ],
+  "archive_id": "promises-3af6bdec17c781c141e2"
+ },
+ {
+  "person": "John Hanke",
+  "role": "Niantic",
+  "promise": "Harry Potter: Wizards Unite (announced Nov 2017) to launch in 2018",
+  "date_promised": "2017-06-30",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "Game launched June 21, 2019 (a year late) and was shut down in January 2022 after disappointing performance.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Road to VR, Nov 2017"
+  ],
+  "archive_id": "promises-a78c94b5a18baee79529",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "sources",
+    "evidence"
+   ],
+   "note": "Niantic records April/May 2019 regional beta, demonstrating availability before purported June launch. Original November 2017/2018 target and exact public launch need sources. June 30 original date impossible for November announcement; 'one year late' overstates June versus December miss.",
+   "sources": [
+    {
+     "name": "Niantic",
+     "url": "https://nianticlabs.com/news/hpwu-betaupdate/"
+    },
+    {
+     "name": "Niantic",
+     "url": "https://nianticlabs.com/news/hpwu-aubeta/"
+    }
+   ]
+  }
  },
  {
   "person": "IPCC",
@@ -60,6 +99,121 @@
   "source_urls": [
    "https://www.ipcc.ch/site/assets/uploads/2018/09/160414_pr_p43_en.pdf",
    "https://www.ipcc.ch/2018/10/08/summary-for-policymakers-of-ipcc-special-report-on-global-warming-of-1-5c-approved-by-governments/"
-  ]
+  ],
+  "archive_id": "promises-fb74bbef9491ec8c9544"
+ },
+ {
+  "person": "Jeff Immelt",
+  "role": "CEO, General Electric",
+  "promise": "GE would earn $2 per share in operating earnings by 2018",
+  "date_promised": "2015-05-20",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "GE reported adjusted earnings of $0.65 per share for 2018 and a GAAP continuing-operations loss of $2.43 per share. The adjusted result was below the cited $2 ambition; the accounting measures should be identified explicitly.",
+  "evidence": [
+   "GE reported a net loss in 2018 and adjusted EPS far below the $2 target",
+   "GE cut its dividend and was dropped from the Dow in 2018"
+  ],
+  "sources": [
+   "Nasdaq / Motley Fool"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/5-takeaways-general-electric-companys-latest-presentation-2017-05-31)"
+  ],
+  "archive_id": "promises-1dc69da1b705f028f567",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise"
+   ],
+   "note": "2018 adjusted EPS of $0.65 is below $2; GAAP continuing EPS was negative $2.43. Do not mix these measures. The exact May 20 announcement and comparability of original operating-EPS definition require further evidence.",
+   "sources": [
+    {
+     "name": "GE: 2018 results",
+     "url": "https://www.ge.com/news/press-releases/ge-announces-fourth-quarter-2018-results"
+    },
+    {
+     "name": "GE: 2015 annual report",
+     "url": "https://www.ge.com/sites/default/files/GE_AR15.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jeff Bezos",
+  "role": "CEO, Amazon",
+  "promise": "Prime Air would deliver packages by drone in 30 minutes or less, starting within four to five years",
+  "date_promised": "2013-12-02",
+  "due_date": "2018-12-31",
+  "status": "broken",
+  "description": "Bezos described drone deliveries as potentially four or five years away, subject to regulatory approval, in an interview broadcast on the US evening of December 1, 2013. Amazon conducted a small UK customer-delivery trial in December 2016; a trial is not a broad commercial rollout.",
+  "evidence": [
+   "No commercial Prime Air deliveries by 2018; AP reported the blown deadline in December 2018",
+   "Limited drone trials began only in 2022-2024"
+  ],
+  "sources": [
+   "AP via Daily Mail (2018-12-02)",
+   "Nasdaq / Motley Fool (2018-03-15)"
+  ],
+  "archive_id": "promises-ef9b8ef385444cbcb6ea",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "The four-to-five-year statement was an estimate conditioned on regulation, not a guaranteed nationwide launch. The December 1 evening US broadcast fell on December 2 UTC. A December 7, 2016 UK customer trial contradicts the claim trials only began in 2022; distinguish trials from scaled service. Exact elapsed deadline should not be silently rounded to end-2018.",
+   "sources": [
+    {
+     "name": "CNN: Bezos drone-delivery estimate",
+     "url": "https://money.cnn.com/2013/12/01/technology/amazon-drone-delivery/index.html"
+    },
+    {
+     "name": "Ars Technica: 2016 UK delivery trial",
+     "url": "https://arstechnica.com/information-technology/2016/12/amazon-prime-air-trial/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Volkswagen Group (Martin Winterkorn)",
+  "role": "CEO, Volkswagen Group",
+  "promise": "Become the world's largest automaker by 2018 (Strategy 2018)",
+  "date_promised": "2007-01-01",
+  "due_date": "2018-12-31",
+  "status": "kept",
+  "description": "Volkswagen's 2015 annual report says Strategy 2018 launched in 2008 and included a target exceeding ten million annual vehicle sales. VW delivered about 10.3 million vehicles in 2016 and surpassed Toyota in volume. This supports the sales-ranking milestone, not fulfillment of every element of the strategy.",
+  "evidence": [
+   "VW became the world's best-selling automaker in 2016 (10.3M vs Toyota 10.2M vehicles)",
+   "VW retained the top spot in 2017, ahead of the 2018 deadline"
+  ],
+  "sources": [
+   "Autocar",
+   "Quartz"
+  ],
+  "source_urls": [
+   "https://open.em.autocar.co.uk/car-news/business/volkswagen-overtakes-toyota-worlds-best-selling-car-maker)",
+   "https://qz.com/897951/volkswagen-has-overtaken-toyota-to-become-the-worlds-biggest-carmaker)"
+  ],
+  "archive_id": "promises-af290ed4f84bdee59db8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "VW's own report dates the strategy launch to 2008, contradicting January 1, 2007. Sales leadership in 2016 is supported, but no exact replacement launch date was established; do not invent January 1, 2008. Broad Strategy 2018 included profitability and quality goals beyond volume.",
+   "sources": [
+    {
+     "name": "Volkswagen: 2015 annual report",
+     "url": "https://annualreport2015.volkswagenag.com/servicepages/downloads/files/entire_vw_ar15.pdf"
+    },
+    {
+     "name": "Forbes: 2016 global sales",
+     "url": "https://www.forbes.com/sites/greatspeculations/2017/02/01/volkswagen-is-the-new-global-sales-leader-what-it-means/"
+    }
+   ]
+  }
  }
 ]

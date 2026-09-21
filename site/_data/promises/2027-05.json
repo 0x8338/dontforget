@@ -1,0 +1,44 @@
+[
+ {
+  "person": "WHO Pandemic Agreement negotiators (IGWG)",
+  "role": "World Health Assembly intergovernmental negotiating group",
+  "promise": "Conclude the Pathogen Access and Benefit-Sharing (PABS) annex to the Pandemic Agreement by the 80th World Health Assembly (May 2027)",
+  "date_promised": "2026-06-03",
+  "due_date": "2027-05-31",
+  "status": "pending",
+  "description": "The IGWG held its seventh session July 6-17, 2026. WHO reported further work was needed, with submission planned for the May 2027 Assembly or an earlier special session.",
+  "evidence": [
+   "Deadline extended to the 80th WHA (May 2027) per a UK Parliament written statement",
+   "Only one further negotiating session (July 2026) was scheduled as of mid-2026"
+  ],
+  "sources": [
+   "UK Parliament",
+   "The Lancet",
+   "EpiNews"
+  ],
+  "source_urls": [
+   "https://questions-statements.parliament.uk/written-statements/detail/2026-06-03/HCWS82",
+   "https://www.thelancet.com/latest-news-comment",
+   "https://epinews.emphnet.net/en/news/countries-to-reconvene-sooner-to-accelerate-progress-on-who-pathogen-access-and-benefit-sharing-system-negotiations"
+  ],
+  "archive_id": "promises-ffe16163e405d28bce79",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "Mandate permits submission earlier at a special session, not exclusively WHA80. July session has now occurred and further discussion remained necessary. June 3 is a UK statement publication, not established date of WHO decision; exact end-May cutoff not verified.",
+   "sources": [
+    {
+     "name": "WHO: July 2026 negotiations",
+     "url": "https://www.who.int/news/item/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex"
+    },
+    {
+     "name": "WHO: July meeting mandate",
+     "url": "https://www.who.int/news-room/events/detail/2026/07/06/default-calendar/seventh-meeting-of-the-intergovernmental-working-group-%28igwg%29-on-the-who-pandemic-agreement"
+    }
+   ]
+  }
+ }
+]

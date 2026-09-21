@@ -20,6 +20,155 @@
    "https://www.who.int/news/item/07-10-2021-who-un-set-out-steps-to-meet-world-covid-vaccination-targets",
    "https://www.who.int/news/item/23-12-2021-achieving-70-covid-19-immunization-coverage-by-mid-2022",
    "https://www.who.int/news/item/22-07-2022-who-releases-global-covid-19-vaccination-strategy-update-to-reach-unprotected"
-  ]
+  ],
+  "archive_id": "promises-fff1cd0da2553c3e21a8"
+ },
+ {
+  "person": "Tim Cook",
+  "role": "CEO of Apple",
+  "promise": "\"We expect to complete the transition\" of all Macs to Apple Silicon \"in about two years.\"",
+  "date_promised": "2020-06-22",
+  "due_date": "2022-06-22",
+  "status": "kept (delayed)",
+  "description": "Apple announced a transition expected to take about two years on June 22, 2020. The Apple-silicon Mac Pro became available June 13, 2023, which Apple identified as completion.",
+  "evidence": [
+   "Apple's June 13, 2023 update says Mac Pro completes the transition."
+  ],
+  "sources": [
+   "Apple WWDC 2020 keynote",
+   "The Verge",
+   "Ars Technica"
+  ],
+  "archive_id": "promises-8088be7df78093d45c37",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "Apple promised about two years, not a strict June 22 deadline. Primary completion record is June 2023, not 2022. June 2020 announced the transition, not M1 itself.",
+   "sources": [
+    {
+     "name": "Apple",
+     "url": "https://www.apple.com/uk/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/"
+    },
+    {
+     "name": "Apple",
+     "url": "https://www.apple.com/newsroom/2023/06/new-15-inch-macbook-air-mac-studio-and-mac-pro-are-available-today/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Tom Brady",
+  "role": "NFL quarterback, Tampa Bay Buccaneers",
+  "promise": "Brady announced that he was retiring from the NFL.",
+  "date_promised": "2022-02-01",
+  "due_date": "2022-06-30",
+  "status": "broken",
+  "description": "Brady announced retirement on February 1, 2022, then reversed it on March 13.",
+  "evidence": [
+   "NFL published Brady's February 1 statement.",
+   "NFL reported his return on March 13."
+  ],
+  "sources": [
+   "Brady Instagram, 2022-02-01 and 2022-03-13",
+   "NFL.com, 2022-03-14"
+  ],
+  "archive_id": "promises-77994673e69ca36bbea1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "The February 1 statement and March 13 reversal are supported. The June 30 deadline is invented: retirement did not have that expiry. Remove the extra later-career claims not checked here. This remains withheld for the deadline, not uncertainty about the reversal.",
+   "sources": [
+    {
+     "name": "NFL Brady retirement statement",
+     "url": "https://fantasy-www.nfl.com/news/tom-brady-retires-from-nfl-after-22-seasons-read-his-complete-statement"
+    },
+    {
+     "name": "NFL Brady return",
+     "url": "https://www.nfl.com/news/buccaneers-qb-tom-brady-announces-i-m-coming-back-for-23rd-season-in-tampa"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Vitalik Buterin",
+  "role": "Ethereum co-founder",
+  "promise": "Ethereum 'Merge' (proof-of-stake transition) would be completed in Q2 2022 per the official roadmap",
+  "date_promised": "2020-01-01",
+  "due_date": "2022-06-28",
+  "status": "kept (delayed)",
+  "description": "Merge executed Sept 15, 2022 — delivered after a ~3-month slip from the announced Q2 target",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Ethereum Foundation blog, Feb 2022",
+   "ethereum.org upgrade timeline; CoinDesk, Jun 2022"
+  ],
+  "archive_id": "promises-cd13bfe91a7197f58c8a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "person",
+    "promise",
+    "sources",
+    "evidence"
+   ],
+   "note": "Official timeline confirms September 15, 2022 completion. It does not establish a personal Vitalik promise, its announcement date or an official guaranteed Q2 deadline. June 28 is not quarter-end. Kept (delayed) requires a sourced earlier commitment, not merely a roadmap estimate.",
+   "sources": [
+    {
+     "name": "Ethereum",
+     "url": "https://ethereum.org/pt-br/roadmap/merge/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Alex Mashinsky",
+  "role": "CEO, Celsius Network",
+  "promise": "Celsius customers could withdraw their crypto at any time and their funds were safe",
+  "date_promised": "2022-06-12",
+  "due_date": "2022-06-30",
+  "status": "broken",
+  "description": "Celsius halted withdrawals on June 12, 2022 after assurances about customer access and fund safety, and filed for bankruptcy on July 13. Mashinsky pleaded guilty in December 2024 and was sentenced to 12 years in prison in May 2025.",
+  "evidence": [
+   "Withdrawals halted the night of 12 June 2022, hours after Mashinsky's assurance",
+   "Celsius filed Chapter 11 on 13 July 2022"
+  ],
+  "sources": [
+   "Bloomberg",
+   "US Bankruptcy Court for the Southern District of New York filings"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2022-06-15/celsius-withdrawal-freeze-is-crypto-s-latest-crisis)",
+   null
+  ],
+  "archive_id": "promises-8cd63bf32c0318ecd42a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "The description is stale: he pleaded guilty in December 2024 and was sentenced in May 2025. DOJ supports assurances preceding June 12 withdrawal freeze; exact tweet timestamp/UTC and invented-looking June 30 expiry remain unresolved.",
+   "sources": [
+    {
+     "name": "US Justice Department: Mashinsky guilty plea",
+     "url": "https://www.justice.gov/usao-sdny/pr/celsius-founder-and-former-ceo-alexander-mashinsky-pleads-guilty-multi-billion-dollar"
+    },
+    {
+     "name": "US Justice Department: sentencing",
+     "url": "https://www.justice.gov/usao-sdny/pr/founder-celsius-sentenced-12-years-fraud-and-market-manipulation"
+    }
+   ]
+  }
  }
 ]

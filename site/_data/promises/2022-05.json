@@ -1,0 +1,82 @@
+[
+ {
+  "person": "Emmanuel Macron",
+  "role": "President of France",
+  "promise": "Reduce unemployment to 7% by 2022",
+  "date_promised": "2017-05-07",
+  "due_date": "2022-05-07",
+  "status": "broken",
+  "description": "Macron's 2017 programme targeted unemployment of 7% by 2022, not 5%.",
+  "evidence": [
+   "Contemporaneous March 2017 reporting identifies a 7% target."
+  ],
+  "sources": [
+   "INSEE",
+   "French Ministry of Labour",
+   "Reuters"
+  ],
+  "archive_id": "promises-5dbbc39c959ddfd41a48",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "2017 target was 7%, not 5%; full employment belongs to the later term. May 7 is election day, not a sourced announcement. Reassess status against actual target and INSEE, not the false 5% threshold.",
+   "sources": [
+    {
+     "name": "Elysee",
+     "url": "https://www.elysee.fr/emmanuel-macron/2022/07/14/defile-du-14-juillet-2022"
+    },
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/economie/article/2017/03/04/chomage-de-masse-les-propositions-des-principaux-candidats-a-la-presidentielle_5089249_3234.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Do Kwon",
+  "role": "Co-founder, Terraform Labs",
+  "promise": "TerraUSD (UST) would always trade at $1, supported by billions of dollars in bitcoin reserves",
+  "date_promised": "2022-03-20",
+  "due_date": "2022-05-31",
+  "status": "broken",
+  "description": "Kwon promoted UST as a stablecoin that would hold its dollar peg, backed in part by a bitcoin reserve that the Luna Foundation Guard built up to about $3.5 billion. When UST depegged in May 2022, the foundation sold roughly 52,000 bitcoins trying to defend the peg; UST fell to about 9 cents and the Terra ecosystem collapsed. Kwon was later held liable for fraud by US regulators.",
+  "evidence": [
+   "UST fell to ~$0.09 in May 2022 after weeks of trading below $1",
+   "Luna Foundation Guard moved 52,189 BTC to counterparties during the collapse"
+  ],
+  "sources": [
+   "CNBC",
+   "NBC News"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2022/05/09/what-is-terrausd-ust-and-how-does-it-affect-bitcoin.html)",
+   "https://www.nbcwashington.com/news/business/money-report/3-billion-in-bitcoin-was-sold-in-a-last-ditch-attempt-to-save-ust-stablecoin/3052446/)"
+  ],
+  "archive_id": "promises-921989c522161c3b6d44",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "description"
+   ],
+   "note": "May 2022 reserve spending and loss of the peg are supported. The alleged March 20 unconditional guarantee and an expiry of May 31 are not established; a perpetual peg is not a promise due on an arbitrary month end. Specific 52,000-BTC figure also needs a matched transaction/accounting source.",
+   "sources": [
+    {
+     "name": "Reuters via The National: UST reserve losses",
+     "url": "https://www.thenationalnews.com/business/cryptocurrencies/2022/05/16/luna-foundation-guard-lost-billions-worth-of-bitcoin-after-ust-crash/"
+    },
+    {
+     "name": "Luna Foundation Guard: reserve announcement",
+     "url": "https://www.prweb.com/releases/lfg-closes-1-5-billion-otc-deal-of-ust-for-btc-with-genesis-and-three-arrows-capital-3ac-for-the-ust-forex-reserve-806037295.html"
+    }
+   ]
+  }
+ }
+]

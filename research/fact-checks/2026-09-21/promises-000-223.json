@@ -7524,7 +7524,7 @@
           "url": "https://www.olympic.sk/sites/default/files/field_media_file/2025-10/IOC-Gender-Equality-and-Inclusion-Progress-Report-2021-2024.pdf"
         },
         {
-          "name": "data.gouv.fr",
+        "name": "French open-data portal",
           "url": "https://www.data.gouv.fr/datasets/les-athletes-des-jeux-olympiques-de-paris-2024"
         }
       ],
@@ -7536,7 +7536,7 @@
         ],
         "sources": [
           "International Olympic Committee",
-          "data.gouv.fr"
+        "French open-data portal"
         ],
         "source_urls": [
           "https://www.olympic.sk/sites/default/files/field_media_file/2025-10/IOC-Gender-Equality-and-Inclusion-Progress-Report-2021-2024.pdf",

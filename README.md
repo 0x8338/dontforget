@@ -11,16 +11,18 @@ This is a quiet archive of lives taken by violence and disaster since 2000 — a
 
 ## How it works
 
-UTC for everything. Each event has ≥2 public source records, with links to the evidence. No commentary — what happened, how many, where to read more. Reports can share an underlying source; two links are not necessarily independent confirmation.
+UTC for everything. Each event has ≥2 public source records. New records include evidence links; original citations are preserved when older links still need to be located. No commentary — what happened, how many, where to read more. Reports can share an underlying source; two links are not necessarily independent confirmation.
 
 ## Data
 
 Current counts and research dates are in [checkpoint.json](site/_data/checkpoint.json).
 The [September 21 audit](research/fact-checks/2026-09-21/README.md) covers the
 original 709 events and 449 promises. Its ledgers distinguish supported
-corrections from unresolved claims. Withheld originals remain in the research
-archive, not in the public totals; withholding does not mean an event or promise
-was disproven.
+corrections from unresolved claims. All collected records remain in the public
+archive. Missing evidence or an unfinished check is not grounds for removal;
+unresolved details are flagged on the record, not treated as proof it is false.
+The initial audit's exclusions have been reversed: the archive contains 722
+events and 454 promises, including all 709 and 449 original records respectively.
 
 The update routine researches new events and promises from the checkpoint.
 Publication is a separate, authorized step. These datasets are curated samples,
@@ -45,3 +47,5 @@ python3 site/_data/validate.py
 Pull requests run these checks without deployment. Main-branch Pages deployment
 requires the validation job to pass. Generated chunks are checked against the
 canonical data; obsolete generated chunks are removed when rebuilding.
+Stable `archive_id` values and [retention.json](site/_data/retention.json) protect
+collected records against accidental removal, even if checkpoint totals change.

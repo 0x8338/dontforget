@@ -1,5 +1,77 @@
 [
  {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Begin Cybertruck deliveries in late 2021",
+  "date_promised": "2019-11-21",
+  "due_date": "2021-12-31",
+  "status": "kept (delayed)",
+  "description": "Cybertruck production was initially planned for late 2021. First deliveries took place November 30, 2023.",
+  "evidence": [
+   "Deliveries occurred after the original target."
+  ],
+  "sources": [
+   "Tesla reveal event",
+   "Reuters",
+   "The Verge"
+  ],
+  "archive_id": "promises-b11fda07df4995f81c33",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "First deliveries were late. Unveiling date is local US time; verify November 22 UTC before changing date_promised.",
+   "sources": [
+    {
+     "name": "Car and Driver",
+     "url": "https://www.caranddriver.com/news/a44937760/tesla-cybertruck-nearing-production/"
+    },
+    {
+     "name": "Los Angeles Times",
+     "url": "https://www.latimes.com/business/story/2023-11-30/tesla-cybertruck-delivery-elon-musk"
+    }
+   ]
+  }
+ },
+ {
+  "person": "COVAX (Gavi, CEPI, WHO and partners)",
+  "role": "COVID-19 Vaccine Global Access facility",
+  "promise": "COVAX will deliver 2 billion vaccine doses to priority populations by the end of 2021",
+  "date_promised": "2021-05-31",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "WHO, Gavi and CEPI committed COVAX to delivering 2 billion doses by the end of 2021, later than originally planned, to vaccinate the world's most vulnerable people. By year-end 2021 COVAX had shipped only about half that — roughly 1 billion doses — largely due to export bans, supply hoarding and India's vaccine export pause, delivering just over 1 billion doses globally versus the 2 billion target.",
+  "evidence": [
+   "Joint September 8, 2021 statement deferred the two-billion-dose milestone beyond 2021."
+  ],
+  "sources": [
+   "Gavi/WHO COVAX delivery data (December 2021)",
+   "Reuters / AP (January 2022)"
+  ],
+  "archive_id": "promises-801245551d39c6d9d035",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "Joint September 2021 statement already moved two-billion milestone to Q1 2022. WHO alone is not COVAX. January 2022 billion-dose milestone and December actual count still need delivery source; remove inconsistent 'just over a billion' at year-end.",
+   "sources": [
+    {
+     "name": "World Health Organization",
+     "url": "https://www.who.int/news/item/22-01-2021-covax-announces-new-agreement-plans-for-first-deliveries"
+    },
+    {
+     "name": "World Health Organization",
+     "url": "https://www.who.int/news/item/08-09-2021-joint-covax-statement-on-supply-forecast-for-2021-and-early-2022"
+    }
+   ]
+  }
+ },
+ {
   "person": "Moderna",
   "role": "Biotechnology company",
   "promise": "Moderna forecast production of between 700 million and one billion COVID-19 vaccine doses in 2021.",
@@ -20,6 +92,279 @@
    "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/mrna-20201231.htm",
    "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm",
    "https://www.wipo.int/amc/en/domains/decisions/pdf/2022/d2022-2125.pdf"
-  ]
+  ],
+  "archive_id": "promises-f5046e73cc53dd1a37b7"
+ },
+ {
+  "person": "Albert Bourla",
+  "role": "CEO, Pfizer",
+  "promise": "We will manufacture 2.5 billion doses of the COVID-19 vaccine in 2021",
+  "date_promised": "2021-03-30",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Pfizer and BioNTech forecast at least 2.5 billion doses manufactured by end-2021. BioNTech subsequently reported more than 3.1 billion doses delivered by early March 2022; that is not a 2021 production total.",
+  "evidence": [
+   "Company release distinguishes manufacturing forecast from cumulative deliveries through March 2022."
+  ],
+  "sources": [
+   "Bloomberg",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2021-03-30/biontech-raises-2021-covid-vaccine-target-to-2-5-billion-doses",
+   "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
+  ],
+  "archive_id": "promises-606fc25ff09f46b3df00",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "status"
+   ],
+   "note": "3.1bn delivery figure is early March 2022, not end-2021. Forecast in company release is conditional. Original March 30/Bourla attribution and 2021 manufactured count need original results; remove 'rare mega-pledge' commentary.",
+   "sources": [
+    {
+     "name": "BioNTech",
+     "url": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2021/05/pfizer-and-biontech-supply-european-union-18-billion-additional.html"
+    },
+    {
+     "name": "BioNTech",
+     "url": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2022/03/biontech-announces-fourth-quarter-and-full-year-2021-financial.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Battery Day (Sept 22, 2020): 4680 cells in volume production by end of 2021, and a $25,000 Tesla car 'in about 3 years'",
+  "date_promised": "2020-09-22",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "4680 volume production only ramped in 2023-2024; the ~$25,000 car never shipped — Reuters reported in April 2024 that Tesla scrapped its low-cost car plans.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "New York Times"
+  ],
+  "archive_id": "promises-dd04b37a88388b7ec686",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "description",
+    "sources",
+    "evidence"
+   ],
+   "note": "Tesla confirms Battery Day on September 22, not June 30. Combined record has two different milestones/deadlines and needs splitting; $25,000-in-three-years does not mature in 2021. Exact 4680 volume commitment/outcome remains unverified.",
+   "sources": [
+    {
+     "name": "Tesla",
+     "url": "https://www.tesla.com/2020shareholdermeeting"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2020/09/22/tesla-says-its-battery-innovations-will-deliver-its-goal-of-a-25000-mass-market-electric-car/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dara Khosrowshahi",
+  "role": "Uber",
+  "promise": "Uber would become profitable by 2021 (Q3 2019 shareholder letter)",
+  "date_promised": "2019-11-04",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Uber reported its first positive adjusted-EBITDA quarter as a public company in Q3 2021, at $8 million. This is a non-GAAP measure, not net profit.",
+  "evidence": [
+   "November 4, 2021 earnings release identifies Q3 as the first positive adjusted-EBITDA quarter."
+  ],
+  "sources": [
+   "CNBC"
+  ],
+  "archive_id": "promises-569c7698265bffeaf567",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "sources"
+   ],
+   "note": "Q3 2019 results were November 4, not June 30. First positive adjusted EBITDA quarter was Q3 2021, not Q4. Adjusted EBITDA is not GAAP profitability; original target wording still needs call transcript.",
+   "sources": [
+    {
+     "name": "Uber",
+     "url": "https://investor.uber.com/news-events/news/press-release-details/2019/Uber-Announces-Results-for-Third-Quarter-2019/"
+    },
+    {
+     "name": "Uber",
+     "url": "https://investor.uber.com/news-events/news/press-release-details/2021/Uber-Announces-Results-for-Third-Quarter-2021/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "António Guterres",
+  "role": "United Nations Secretary-General",
+  "promise": "No new coal plants after the end of this year.",
+  "date_promised": "2020-12-12",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "Guterres' call at the Climate Ambition Summit (12 Dec 2020) - repeated at COP26 - was not heeded. New coal construction continued, led by China, and global coal capacity kept growing through 2025.",
+  "evidence": [
+   "China approved and continued building well over 100 GW of new coal capacity after 2021 (Global Energy Monitor)",
+   "Global installed coal capacity grew in 2022-2025; Guterres had to repeat the demand at COP26 and COP27"
+  ],
+  "sources": [
+   "United Nations",
+   "Global Energy Monitor"
+  ],
+  "source_urls": [
+   "https://www.un.org/sg/en/content/sg/statement/2020-12-12/secretary-generals-remarks-climate-ambition-summit",
+   "https://globalenergymonitor.org/projects/global-coal-plant-tracker/"
+  ],
+  "archive_id": "promises-8c6887203ab631b66251",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "The supplied UN speech URL returned an access challenge. Search found a December 12 press encounter and an April 2021 climate press conference, but not the claimed exact December 2020 quotation. 'This year' on a 2020 date is inconsistent with a 2021 deadline unless the wording or date is repaired. This is also a call on governments, not Guterres's unilateral deliverable; the specific post-deadline coal claims were not verified.",
+   "sources": [
+    {
+     "name": "UN supplied speech URL, access challenge",
+     "url": "https://www.un.org/sg/en/content/sg/statement/2020-12-12/secretary-generals-remarks-climate-ambition-summit"
+    },
+    {
+     "name": "UN December 12 press encounter",
+     "url": "https://www.un.org/sg/en/content/sg/2020-12-12-2"
+    },
+    {
+     "name": "UN 2021 climate press conference",
+     "url": "https://press.un.org/en/2021/sgsm20688.doc.htm"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Andrew Bailey",
+  "role": "BOE Governor",
+  "promise": "Feb 4, 2021 Monetary Policy Report: unemployment would peak at 7.75% in H2 2021 as furlough ended",
+  "date_promised": "2021-02-04",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "Unemployment peaked at 5.1% (Q4 2020) and fell to ~4.1% by late 2021",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "BOE Monetary Policy Report, Feb 4, 2021,",
+   "ONS labour market statistics"
+  ],
+  "archive_id": "promises-f722af73fa085b5409f4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "description",
+    "sources",
+    "evidence"
+   ],
+   "note": "The report dates to February 4, 2021, not 2020. This was a conditional unemployment projection, not a pledge to raise unemployment. Exact peak, subsequent ONS revisions and original outcome figures remain unresolved; December 28 is not the H2 boundary.",
+   "sources": [
+    {
+     "name": "Bank of England",
+     "url": "https://www.bankofengland.co.uk/monetary-policy-report/2021/february-2021"
+    },
+    {
+     "name": "Bank of England",
+     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2021/february-2021/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Norwegian Ministry of Finance / Norges Bank",
+  "role": "Sovereign wealth fund",
+  "promise": "June 2019: GPFG would divest all oil & gas exploration/production stocks (~$7.5bn), to be executed 'gradually' starting immediately",
+  "date_promised": "2020-01-01",
+  "due_date": "2021-12-31",
+  "status": "kept",
+  "description": "Divestment completed by 2022; NBIM confirmed full exit from E&P sector in its 2022 reporting",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Reuters, 'Norway's $1tn wealth fund to sell oil and gas stocks'",
+   "NBIM annual report 2022, nbim.no"
+  ],
+  "archive_id": "promises-1fea6db2ccb4da11960f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "promise",
+    "sources",
+    "evidence"
+   ],
+   "note": "2022 primary confirmation concerns offshore drilling/services under a December 2021 decision, not necessarily the 2019 E&P exclusion. Original record may conflate those decisions. No exact 2019 announcement or binding 2021 deadline established, and claimed 2022 completion would be late against that deadline.",
+   "sources": [
+    {
+     "name": "Norges Bank Investment Management",
+     "url": "https://www.nbim.no/en/news-and-insights/submissions-to-ministry/2022/government-pension-fund-global--follow-up-of-the-2021-white-paper-on-the-government-pension-fund/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "WeWork",
+  "role": "Company management",
+  "promise": "WeWork would be profitable by the end of 2021",
+  "date_promised": "2021-03-25",
+  "due_date": "2021-12-31",
+  "status": "broken",
+  "description": "WeWork's February 2020 announcement of Sandeep Mathrani as incoming CEO described a plan for adjusted EBITDA profitability in 2021. A 2021 corporate forecast should not be attributed to former CEO Adam Neumann, and adjusted EBITDA must be distinguished from net income.",
+  "evidence": [
+   "WeWork was still loss-making at the end of 2021",
+   "Chapter 11 filing November 2023"
+  ],
+  "sources": [
+   "Business Insider",
+   "Crunchbase News"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/wework-occupacy-projections-profitability-spac-going-public-flex-office-space-2021-4)",
+   "https://news.crunchbase.com/public/wework-to-go-public-via-spac/)"
+  ],
+  "archive_id": "promises-25e5a939369f8a81c257",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status"
+   ],
+   "note": "This is not a Neumann-era 2021 promise. The February 1, 2020 corporate release already set adjusted EBITDA profitability for 2021 and named Mathrani as incoming CEO. Exact March 2021 SPAC forecast should be sourced before substituting a different corporate commitment; generic net losses alone are not the correct measure.",
+   "sources": [
+    {
+     "name": "WeWork: Mathrani appointment and financial plan",
+     "url": "https://www.businesswire.com/news/home/20200201005008/en/WeWork-Appoints-Sandeep-Mathrani-as-CEO"
+    },
+    {
+     "name": "WeWork: 2021 financial results",
+     "url": "https://www.wework.com/newsroom/wework-reports-fourth-quarter-and-fiscal-year-2021-financial-results"
+    }
+   ]
+  }
  }
 ]

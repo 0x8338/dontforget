@@ -1,5 +1,107 @@
 [
  {
+  "date": "2006-01-01",
+  "title": "Darfur conflict (ongoing genocide and humanitarian crisis)",
+  "category": "war",
+  "location": "Darfur, Sudan",
+  "lives_lost": 200000,
+  "description": "Armed conflict between government-aligned Janjaweed militias and rebel groups continued across Darfur throughout 2006, marked by attacks on civilians, mass displacement and a severe humanitarian crisis. A September 2006 study published in the journal Science estimated at least 200,000 deaths since the conflict began in 2003, with estimates up to 300,000-400,000 cited by the UN Secretary-General and other organizations, most deaths resulting from violence, disease and starvation. The Darfur Peace Agreement signed in May 2006 failed to end the fighting, and more than two million people remained displaced.",
+  "sources": [
+   "Science (journal)",
+   "United Nations",
+   "Coalition for International Justice",
+   "Brookings Institution"
+  ],
+  "archive_id": "events-fe101258c9769f9914ca",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Science publication date is September 15, 2006, not an event onset. Its mortality estimate is cumulative since 2003 and would overlap earlier Darfur records; January 1,2006 is unsupported as a specific event date. Primary study and GAO discuss uncertainty; do not treat 200,000 as additional deaths during 2006.",
+   "sources": [
+    {
+     "name": "Hagan and Palloni, Death in Darfur",
+     "url": "https://citeseerx.ist.psu.edu/document?doi=a60220ac395cec32b94418dd7e10e3abf863f8aa&repid=rep1&type=pdf"
+    },
+    {
+     "name": "US GAO mortality assessment",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-07-24/pdf/GAOREPORTS-GAO-07-24.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-01-01",
+  "title": "Iraq War (2007)",
+  "category": "war",
+  "location": "Iraq",
+  "lives_lost": 26112,
+  "description": "Iraq Body Count's current database records 26,112 civilian deaths from violence during calendar year 2007. This full-year total includes separately recorded attacks and is not a death count for January 1.",
+  "sources": [
+   "Iraq Body Count",
+   "BBC News"
+  ],
+  "archive_id": "events-4414639f13d8b6c5c3c8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "26,112 matches current IBC annual database, not January1 deaths. January1 is an annual-index placeholder and cannot be verified as a discrete event date. Remove unsupported causal assertion linking annual deaths to surge and military-death comparison; annual total overlaps individual attacks.",
+   "sources": [
+    {
+     "name": "Iraq Body Count current annual database",
+     "url": "https://www.iraqbodycount.org/database/index.php"
+    },
+    {
+     "name": "Iraq Body Count 2007 analysis",
+     "url": "https://www.iraqbodycount.org/analysis/numbers/2007/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2008-01-01",
+  "title": "Kenya post-election violence",
+  "category": "war",
+  "location": "Kenya",
+  "lives_lost": 1133,
+  "description": "Violence followed Kenya's disputed December 2007 election and continued into February 2008. The Waki commission recorded 1,133 deaths during its December 27, 2007-February 29, 2008 assessment period. The toll includes killings across multiple provinces, not one January 1 incident.",
+  "sources": [
+   "Reuters",
+   "UNICEF",
+   "BBC News"
+  ],
+  "archive_id": "events-004a05dffa0a0cf02955",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Waki commission supports1,133 deaths in the December27-February29 inquiry period. January1 is not the onset; reported first violence, declaration and inquiry dates differ. Correct toll/geographic scope, but do not replace uncertain onset with another unqualified date. Mediation was African Union-led, not simply UN-brokered.",
+   "sources": [
+    {
+     "name": "Kenya Law Waki commission bulletin",
+     "url": "https://kenyalaw.org/kl/fileadmin/pdfdownloads/BB9_200811-2.pdf"
+    },
+    {
+     "name": "Human Rights Watch follow-up",
+     "url": "https://www.hrw.org/reports/kenya1211webwcover_0.pdf"
+    },
+    {
+     "name": "ICC prosecutor chronology",
+     "url": "https://icccpi-web.icccpi-prod.uniccloud.org/news/kenyas-post-election-violence-icc-prosecutor-presents-cases-against-six-individuals-crimes"
+    }
+   ]
+  }
+ },
+ {
   "date": "2008-01-10",
   "title": "China winter storms (2008 Chinese snowstorms)",
   "category": "natural-disaster",
@@ -13,7 +115,8 @@
   "source_urls": [
    "https://www.adrc.asia/view_disaster_en.php?KEY=1127&lang=",
    "https://www.weather.com.cn/science/zhfy/xz/jdal/03/65068.shtml"
-  ]
+  ],
+  "archive_id": "events-6bc9380952a8d46de4f6"
  },
  {
   "date": "2007-01-16",
@@ -29,7 +132,77 @@
   "source_urls": [
    "https://www.europarl.europa.eu/meetdocs/2004_2009/documents/fd/droi20070717_iraq_004/droi20070717_iraq_004en.pdf",
    "https://en.wikipedia.org/wiki/Mustansiriya_University_bombings"
-  ]
+  ],
+  "archive_id": "events-94186c51e02b13458909"
+ },
+ {
+  "date": "2009-01-18",
+  "title": "Gaza War (Operation Cast Lead)",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 1400,
+  "description": "Israel's military offensive against Hamas in the Gaza Strip ran from December 27, 2008, to a ceasefire on January 18, 2009. Human rights organizations and UN agencies documented approximately 1,340-1,400 Palestinians killed, including around 750-770 civilians and more than 300 children, with over 5,000 wounded. Thirteen Israelis were killed, including 3 civilians. The offensive included heavy air strikes and ground operations and caused extensive destruction of homes, schools, and infrastructure across Gaza.",
+  "sources": [
+   "B'Tselem",
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "Al Mezan Centre for Human Rights",
+   "BBC News"
+  ],
+  "archive_id": "events-9b3ea4b93f41296d9853",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Campaign dates corroborated. B'Tselem snapshots give 1,387 and 1,385 Palestinian deaths, not a final exact 1,400. The numeric field does not specify whether the 13 Israeli deaths are included. Civilian definitions differ; 5,000 wounded and infrastructure claims need their own evidence.",
+   "sources": [
+    {
+     "name": "B'Tselem",
+     "url": "https://www.btselem.org/press_releases/20090909"
+    },
+    {
+     "name": "B'Tselem",
+     "url": "https://www.btselem.org/gaza_strip/20091227_a_year_to_castlead_operation"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-02-03",
+  "title": "al-Sadriya market bombing",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 135,
+  "description": "A suicide truck bomb struck Baghdad's Sadriya market on February 3, 2007. Contemporary reports and an FBI retrospective give at least 135 deaths, while Iraq Body Count's current incident record gives 136-137.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-303e3789ea2dfddf3ac6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Wrong market: Sadriya, not Shorja. FBI retrospective records135; current IBC136-137. Date and afternoon timing secure, but exact mortality not reconciled. Correct identity without treating conflicting final counts as settled.",
+   "sources": [
+    {
+     "name": "Iraq Body Count k5356",
+     "url": "https://www.iraqbodycount.org/database/incidents/k5356"
+    },
+    {
+     "name": "FBI2007 terrorism report",
+     "url": "https://www.fbi.gov/file-repository/stats-services-publications-terror_07.pdf"
+    },
+    {
+     "name": "RTE contemporary report",
+     "url": "https://www.rte.ie/news/2007/0203/85348-iraq/"
+    }
+   ]
+  }
  },
  {
   "date": "2005-02-14",
@@ -45,7 +218,8 @@
   "source_urls": [
    "https://www.mem.gov.cn/gk/sgcc/tbzdsgdcbg/2005/200505/t20050517_245289.shtml",
    "https://apnews.com/article/83cbfc301e28f7aa487b675f31958f4a"
-  ]
+  ],
+  "archive_id": "events-43b72770a85dbc9ffc33"
  },
  {
   "date": "2006-02-17",
@@ -61,7 +235,44 @@
   "source_urls": [
    "https://www.ifrc.org/docs?file=appeals%2F08%2FMDRPH001efr.pdf",
    "https://www.cfe-dmha.org/LinkClick.aspx?fileticket=MNZLDbxZaic%3D&portalid=0"
-  ]
+  ],
+  "archive_id": "events-864c66abc741943696ae"
+ },
+ {
+  "date": "2008-02-17",
+  "title": "Kandahar dog-fighting show suicide bombing",
+  "category": "terrorism",
+  "location": "Kandahar, Afghanistan",
+  "lives_lost": 100,
+  "description": "A suicide bombing struck a crowd watching a dog-fighting competition near Kandahar on February 17, 2008. A local police commander was among those killed. UNAMA recorded 67 civilian deaths, while provincial reporting gave a higher overall toll.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "PBS NewsHour"
+  ],
+  "archive_id": "events-d9fba91630bb420cf088",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UNAMA annual report records67 civilian deaths; governor's contemporary account reports over100 overall. Armed police/guards may explain some difference but no reconciled breakdown was obtained.100 is not an exact count when source says over100. Date and gathering supported; attribution/ranking can be omitted but mortality remains core blocker.",
+   "sources": [
+    {
+     "name": "UNAMA2008 civilian protection report",
+     "url": "https://unama.unmissions.org/sites/default/files/UNAMA_09february-Annual%20Report_PoC%202008_FINAL_11Feb09.pdf"
+    },
+    {
+     "name": "Wikipedia event/source chronology",
+     "url": "https://en.wikipedia.org/wiki/2008_Kandahar_bombing"
+    },
+    {
+     "name": "CBS/AP governor update",
+     "url": "https://www.cbsnews.com/news/afghans-hit-by-2nd-deadly-suicide-blast/"
+    }
+   ]
+  }
  },
  {
   "date": "2007-02-18",
@@ -77,7 +288,8 @@
   "source_urls": [
    "https://indianexpress.com/article/india/all-four-walk-free-in-samjhauta-express-attack-that-killed-68-aseemanand-5636716/",
    "https://en.wikipedia.org/wiki/2007_Samjhauta_Express_bombings"
-  ]
+  ],
+  "archive_id": "events-7b4809b678a0ef290225"
  },
  {
   "date": "2006-02-19",
@@ -93,7 +305,140 @@
   "source_urls": [
    "https://apnews.com/article/ea2c794b6d9315098950d0fc8ae5ede1",
    "https://en.wikipedia.org/wiki/Pasta_de_Conchos_mine_disaster"
-  ]
+  ],
+  "archive_id": "events-2b61703b4995d259fdd3"
+ },
+ {
+  "date": "2005-02-22",
+  "title": "Zarand earthquake",
+  "category": "natural-disaster",
+  "location": "Zarand, Kerman Province, Iran",
+  "lives_lost": 612,
+  "description": "A magnitude 6.4 earthquake struck near Zarand in Kerman Province, Iran, levelling several mud-brick mountain villages and killing 612 people. An estimated 80,000 people were affected and more than 900 were injured.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "USGS"
+  ],
+  "archive_id": "events-46f4fe6c5d6620807108",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "USGS supports Mw 6.4 and February 22. Summary attributes 612 deaths to PAGER-CAT but also reports an independent ISNA count of 799. Need source-level resolution of mortality scope and the 80,000 affected/900 injured figures before full verification.",
+   "sources": [
+    {
+     "name": "USGS earthquake poster",
+     "url": "https://earthquake.usgs.gov/product/poster/20050222/us/1461704039958/poster.pdf"
+    },
+    {
+     "name": "Wikipedia event summary",
+     "url": "https://en.wikipedia.org/wiki/2005_Zarand_earthquake"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2006-02-22",
+  "title": "Al-Askari shrine bombing triggers sectarian violence",
+  "category": "terrorism",
+  "location": "Samarra, Iraq",
+  "lives_lost": 1000,
+  "description": "Bombers dressed as security personnel detonated explosives inside the al-Askari shrine in Samarra on February 22, 2006, destroying the golden dome of one of Shia Islam's holiest sites. The blast itself killed no one, but it triggered waves of retaliatory sectarian killings across Iraq, with more than 1,000 people dead within days and hundreds of mosques attacked; leaked U.S. military documents later indicated the death toll exceeded 3,000, and the bombing is widely regarded as having ignited Iraq's civil war.",
+  "sources": [
+   "BBC",
+   "The New York Times",
+   "Iraq Body Count",
+   "U.S. Department of Defense"
+  ],
+  "archive_id": "events-4ad79fd5886f6fb73b60",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Shrine blast itself killed nobody. Subsequent1000/1300/3000 estimates refer to different periods/areas and cannot become a single Samarra bombing toll; they also overlap annual Iraq record. Need a bounded reprisal-event definition. Do not fabricate a positive bombing death count to satisfy schema.",
+   "sources": [
+    {
+     "name": "TIME retrospective",
+     "url": "https://time.com/2920692/iraq-isis-samarra-al-askari-mosque/"
+    },
+    {
+     "name": "CSIS chronology",
+     "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/060525_lowintensitychron.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2006-02-22",
+  "title": "Iraq sectarian civil war (deadliest year of the conflict)",
+  "category": "war",
+  "location": "Iraq",
+  "lives_lost": 29000,
+  "description": "Sectarian violence intensified in Iraq in 2006. Iraq Body Count's current database records 29,526 civilian deaths from violence during the full calendar year. This annual total includes numerous separately recorded attacks and is not the toll of the February 22 shrine bombing.",
+  "sources": [
+   "Iraq Body Count",
+   "United Nations Assistance Mission for Iraq (UNAMI)",
+   "Brookings Institution"
+  ],
+  "archive_id": "events-0b833cfa72b798357f00",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "IBC current annual table gives29,526 for all2006; February22 indexes a catalyst, not the start of that count. January-February deaths and other discrete events overlap. UNAMI uses a different methodology, not simply matching IBC. Annual/single-event schema and double counting must be resolved.",
+   "sources": [
+    {
+     "name": "Iraq Body Count annual database",
+     "url": "https://www.iraqbodycount.org/database/index.php"
+    },
+    {
+     "name": "Iraq Body Count ten-year analysis",
+     "url": "https://www.iraqbodycount.org/analysis/numbers/ten-years/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-02-28",
+  "title": "Hilla suicide car bombing",
+  "category": "terrorism",
+  "location": "Hilla, Iraq",
+  "lives_lost": 125,
+  "description": "A suicide car bombing struck people waiting outside a clinic in Hilla on February 28, 2005, including applicants for government security jobs. Early reports counted at least 125 dead; Iraq Body Count's current incident table records 135-136.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Iraq Body Count"
+  ],
+  "archive_id": "events-a6a1cef4f47d9f12f6aa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "125 was early reporting. IBC's current table gives 135-136 although its heading still says 125-136; another summary gives 127. Date and clinic bombing are secure, final fatality total is not. Remove superlative and broad victim characterization.",
+   "sources": [
+    {
+     "name": "Iraq Body Count incident k991",
+     "url": "https://www.iraqbodycount.org/database/incidents/k991"
+    },
+    {
+     "name": "Human Rights Watch via Refworld",
+     "url": "https://www.refworld.org/reference/countryrep/hrw/2005/40532"
+    }
+   ]
+  }
  },
  {
   "date": "2008-03-06",
@@ -109,7 +454,8 @@
   "source_urls": [
    "https://www.ladepeche.fr/article/2008/03/07/440346-irak-nouvel-attentat-meurtrier-coeur-bagdad-moins-68-tues.html",
    "https://en.wikipedia.org/wiki/6_March_2008_Baghdad_bombing"
-  ]
+  ],
+  "archive_id": "events-500e5c368d6f9abaaf3d"
  },
  {
   "date": "2009-03-11",
@@ -125,7 +471,8 @@
   "source_urls": [
    "https://aoav.org.uk/2014/winneden-2009/",
    "https://www.abc.net.au/listen/programs/worldtoday/germany-mourns-rampage-victims/1617504"
-  ]
+  ],
+  "archive_id": "events-755ec6d8de9ca4611487"
  },
  {
   "date": "2007-03-19",
@@ -141,7 +488,8 @@
   "source_urls": [
    "https://go-api.ifrc.org/publicfile/download?name=MDRRU00203.pdf&path=%2Fdocs%2Fappeals%2F07%2F",
    "https://en.wikipedia.org/wiki/Ulyanovskaya_Mine_disaster"
-  ]
+  ],
+  "archive_id": "events-509a9b8e2c42051b3bc1"
  },
  {
   "date": "2005-03-21",
@@ -157,7 +505,40 @@
   "source_urls": [
    "https://www.justice.gov/sites/default/files/usao-mn/legacy/2010/12/21/schoolbrochure.pdf",
    "https://news.minnesota.publicradio.org/features/2005/04/18_hughesa_redlakeupdate/"
-  ]
+  ],
+  "archive_id": "events-7dfeb2267c5df0542136"
+ },
+ {
+  "date": "2007-03-21",
+  "title": "Battle of Mogadishu (2007)",
+  "category": "war",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 1200,
+  "description": "Ethiopian and Somali government forces fought insurgents in Mogadishu during major offensives in March and April 2007. Human Rights Watch documented extensive civilian harm but said precise mortality figures could not be established.",
+  "sources": [
+   "Amnesty International",
+   "BBC News"
+  ],
+  "archive_id": "events-cd941193f1c957f5b882",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "HRW dates main first offensive March29-April2, second round endingApril26, and explicitly cannot give precise civilian deaths. Estimates400-1,000 first round plus about300 second are not an independently established1,200. March21 onset and annual6,000/superlative remain unverified.",
+   "sources": [
+    {
+     "name": "Human Rights Watch2007 investigation",
+     "url": "https://www.hrw.org/report/2007/08/14/shell-shocked/civilians-under-siege-mogadishu"
+    },
+    {
+     "name": "Human Rights Watch2008 follow-up",
+     "url": "https://www.hrw.org/report/2008/12/08/so-much-fear/war-crimes-and-devastation-somalia"
+    }
+   ]
+  }
  },
  {
   "date": "2006-03-25",
@@ -173,7 +554,8 @@
   "source_urls": [
    "https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources/active-shooter-incidents-from-2000-to-2018",
    "https://www.historylink.org/File/8138"
-  ]
+  ],
+  "archive_id": "events-2ff41f30c46e81ba9753"
  },
  {
   "date": "2007-03-27",
@@ -191,7 +573,80 @@
    "https://www.iraqbodycount.org/database/incidents/k5897",
    "https://usarmyiraqwar.com/wp-content/themes/iraqwartheme2/files/pub1376.pdf",
    "https://www.rferl.org/a/1075624.html"
-  ]
+  ],
+  "archive_id": "events-ec0761aaf434503e24e7"
+ },
+ {
+  "date": "2005-03-28",
+  "title": "Nias-Simeulue earthquake",
+  "category": "natural-disaster",
+  "location": "Nias, Indonesia",
+  "lives_lost": 1300,
+  "description": "A magnitude 8.6 earthquake struck off northern Sumatra on March 28, 2005, severely damaging Nias and nearby islands and generating a relatively small tsunami. Published death estimates vary; most fatalities occurred on Nias.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "BBC News"
+  ],
+  "archive_id": "events-cead525f8ac41e618428",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Magnitude 8.6 and March 28 UTC are secure. Later summaries span 915-1,314 while early relief estimates were higher; hundreds on Simeulue/Banyak are not established as final confirmed counts. Need final regional breakdown rather than combining initial estimates.",
+   "sources": [
+    {
+     "name": "World Bank reconstruction account",
+     "url": "https://documents1.worldbank.org/curated/en/506021468042898645/pdf/839010NWP0Box382108B00PULBIC00no3.pdf"
+    },
+    {
+     "name": "UK Parliament contemporary relief statement",
+     "url": "https://hansard.parliament.uk/commons/2005-04-04/debates/4ae34527-1b41-42c0-a799-6437ece35687/IndonesiaEarthquake"
+    },
+    {
+     "name": "Wikipedia earthquake summary",
+     "url": "https://en.wikipedia.org/wiki/2005_Nias%E2%80%93Simeulue_earthquake"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2006-03-31",
+  "title": "Borujerd (Silakhor) earthquake",
+  "category": "natural-disaster",
+  "location": "Borujerd, Iran",
+  "lives_lost": 70,
+  "description": "An earthquake of magnitude 6.1 struck the Silakhor plain region of Lorestan province in western Iran on March 31, 2006, early in the morning, centered near the village of Darb-e Astaneh. The quake killed about 70 people, injured more than 1,200 and damaged or destroyed buildings in roughly 330 villages, with the worst destruction in Borujerd and Dorud.",
+  "sources": [
+   "United States Geological Survey",
+   "International Institute of Earthquake Engineering and Seismology (IIEES)",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-317021d807b1d5239c92",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Early IFRC and JICA reports give70; IFRC's April2007 retrospective instead gives63 deaths and1,418 injured. Mainshock March31 01:17UTC and Mw6.1 established, but revised mortality discrepancy is not reconciled.",
+   "sources": [
+    {
+     "name": "IFRC April2006 bulletin",
+     "url": "https://www.ifrc.org/docs?file=appeals%2Frpts06%2FDoroudIB4.pdf"
+    },
+    {
+     "name": "IFRC April2007 retrospective",
+     "url": "https://www.ifrc.org/docs/appeals/03/2503interimfinal.pdf"
+    },
+    {
+     "name": "Wikipedia earthquake summary",
+     "url": "https://en.wikipedia.org/wiki/2006_Borujerd_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2007-04-01",
@@ -209,7 +664,8 @@
    "https://nctr.pmel.noaa.gov/solomon20070401.html",
    "https://www.ifrc.org/docs/appeals/08/MDRSB00108.pdf",
    "https://www.solomontimes.com/news/final-death-toll-reaches-52/40"
-  ]
+  ],
+  "archive_id": "events-4d652dd28d70c5ab003f"
  },
  {
   "date": "2009-04-03",
@@ -225,7 +681,8 @@
   "source_urls": [
    "https://www.pbs.org/newshour/show/gunman-kills-13-in-attack-on-n-y-immigration-center",
    "https://www.nysenate.gov/legislation/resolutions/2009/k473"
-  ]
+  ],
+  "archive_id": "events-98ab4e95e5a17e4ec2ae"
  },
  {
   "date": "2009-04-06",
@@ -241,7 +698,8 @@
   "source_urls": [
    "https://emergenze.protezionecivile.gov.it/en/seismic/abruzzo-2009-earthquake/",
    "https://www.ansa.it/sito/notizie/speciali/2010/04/03/6-aprile-2009.-La-terribile-scossa_8a3a03e6-8690-11e3-9bb0-7333a5a34056.html"
-  ]
+  ],
+  "archive_id": "events-dc51337664a1037b5a2e"
  },
  {
   "date": "2007-04-16",
@@ -257,7 +715,8 @@
   "source_urls": [
    "https://www.ojp.gov/ncjrs/virtual-library/abstracts/mass-shootings-virginia-tech-april-16-2007-report-review-panel",
    "https://apnews.com/article/97797d5bf14ffec2f54d8f8279b406ac"
-  ]
+  ],
+  "archive_id": "events-1d57c3cf28e930358633"
  },
  {
   "date": "2007-04-18",
@@ -273,7 +732,8 @@
   "source_urls": [
    "https://www.iraqbodycount.org/database/incidents/k6112",
    "https://www.abc.net.au/news/2007-04-19/nearly-200-dead-in-baghdad-car-bombings/2526282"
-  ]
+  ],
+  "archive_id": "events-5f24ebcf09ffa202f826"
  },
  {
   "date": "2005-04-25",
@@ -289,7 +749,8 @@
   "source_urls": [
    "https://jtsb.mlit.go.jp/eng-rail_report/RA2007-3-1en.pdf",
    "https://en.wikipedia.org/wiki/Amagasaki_derailment"
-  ]
+  ],
+  "archive_id": "events-a9f372b85ef2a7b282fb"
  },
  {
   "date": "2008-05-02",
@@ -305,7 +766,8 @@
   "source_urls": [
    "https://www.gfdrr.org/sites/default/files/GFDRR_Myanmar_Post-Nargis_Joint_Assessment_2008_EN.pdf",
    "https://asean.org/joint-asean-un-press-release-comprehensive-assessment-of-cyclone-nargis-impact-provides-clearer-picture-of-relief-and-recovery-needs-singapore/"
-  ]
+  ],
+  "archive_id": "events-181821bc5e4b13f73f60"
  },
  {
   "date": "2008-05-12",
@@ -321,7 +783,8 @@
   "source_urls": [
    "https://www.sciencedirect.com/science/article/abs/pii/S0141029609000947",
    "https://whc.unesco.org/document/102589"
-  ]
+  ],
+  "archive_id": "events-85381b91430e7667610b"
  },
  {
   "date": "2008-05-13",
@@ -339,7 +802,77 @@
    "https://www.livelaw.in/top-stories/supreme-court-2008-jaipur-blasts-case-rajasthan-228906",
    "https://indianexpress.com/article/india/2008-jaipur-blast-case-4-men-life-imprisonment-9932275/",
    "https://indianexpress.com/article/explained/explained-law/all-acquitted-in-2008-jaipur-terror-blasts-why-hc-rejected-police-probe-8528443/lite/"
-  ]
+  ],
+  "archive_id": "events-3d4fa91dc922e50b8c44"
+ },
+ {
+  "date": "2009-05-18",
+  "title": "Sri Lankan Civil War Final Offensive",
+  "category": "war",
+  "location": "Mullaitivu, Sri Lanka",
+  "lives_lost": 40000,
+  "description": "Between January and May 2009, the Sri Lankan military's final offensive against the Liberation Tigers of Tamil Eelam (LTTE) trapped roughly 330,000 civilians in an ever-shrinking 'no fire zone' in the northeast. A UN Secretary-General-appointed panel of experts estimated in 2011 that as many as 40,000 civilians were killed, most by government shelling, with the LTTE also accused of using civilians as human shields. The government's own figures put the toll at about 7,000-9,000. The war ended on May 18, 2009, with the military declaring victory.",
+  "sources": [
+   "UN Panel of Experts Report (2011)",
+   "Al Jazeera",
+   "The New York Times",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-2089b52dfdfc21efd663",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "40,000 is an upper estimate cited by the UN panel, not a confirmed count. AP corroborates tens of thousands and abuses by both sides. Government 7,000-9,000 attribution and the precise 330,000 trapped figure remain unestablished. The military defeat on May 18 and presidential victory declaration on May 19 must not be conflated.",
+   "sources": [
+    {
+     "name": "United Nations",
+     "url": "https://digitallibrary.un.org/record/737299/files/The_Internal_Review_Panel_report_on_Sri_Lanka.pdf?register_download=0"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/5b372b0bba567837c5a4d94250040e7d"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-05-25",
+  "title": "Cyclone Aila",
+  "category": "natural-disaster",
+  "location": "Satkhira, Bangladesh",
+  "lives_lost": 339,
+  "description": "Cyclone Aila, a severe cyclonic storm in the Bay of Bengal, made landfall on May 25, 2009, near the Bangladesh-India border, bringing storm surges of up to 6 meters. Final official tallies recorded about 339 deaths across the region, including roughly 190 in Bangladesh and 140 in eastern India's West Bengal state, with hundreds of thousands left homeless and millions affected by flooding and breached embankments.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "ReliefWeb",
+   "University of Colorado Natural Hazards Center"
+  ],
+  "archive_id": "events-ce405cadc3c3a333eeb8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Aila and May 25 landfall corroborated, but 339 as a final official regional count and the 190/140 split were not established. IMD-hosted assessment describes a 3 m surge in western Bangladesh; the claimed 6 m maximum needs a location-specific source. Satkhira is narrower than the regional toll.",
+   "sources": [
+    {
+     "name": "India Meteorological Department",
+     "url": "https://metnet.imd.gov.in/docs/imdnews/ANNUAL_REPORT2009English.pdf"
+    },
+    {
+     "name": "India Meteorological Department",
+     "url": "https://rsmcnewdelhi.imd.gov.in/uploads/survey/NCAER2010.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2006-05-26",
@@ -355,7 +888,117 @@
   "source_urls": [
    "https://mae.cee.illinois.edu/publications/reports/Report07-02.pdf",
    "https://pscentre.org/wp-content/uploads/2018/07/CwC-1-2008-French.pdf"
-  ]
+  ],
+  "archive_id": "events-98a9bb0f3ad0c6d72124"
+ },
+ {
+  "date": "2008-06-20",
+  "title": "Typhoon Fengshen (Frank) and MV Princess of the Stars sinking",
+  "category": "natural-disaster",
+  "location": "Central Philippines",
+  "lives_lost": 1371,
+  "description": "Typhoon Fengshen crossed the Philippines beginning on June 20, 2008, causing destructive flooding. During the storm, the ferry MV Princess of the Stars capsized near Sibuyan Island on June 21. Philippine disaster-agency reporting in July counted 557 deaths apart from the ferry disaster; a reconciled final combined toll is not established here.",
+  "sources": [
+   "Reuters",
+   "Xinhua News Agency",
+   "UN ReliefWeb"
+  ],
+  "archive_id": "events-a6feeaa2e7e51161b328",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "The June 20 Philippine landfall is supported by HKO; June 25 was the later China landfall. NDCC reporting gives 557 deaths excluding the ferry (GMA, July 10), whereas ADRC's July 31 snapshot also lists 87 missing. The original 1,371, the ferry's asserted 800-850 deaths, and the Philippines/China aggregation were not reconciled with a final official passenger and casualty accounting. Do not add bodies recovered, presumed deaths and missing passengers indiscriminately. The shortened description removes the unsupported attribution of 1,371 to government/UN and the superlative; the numeric toll remains unresolved.",
+   "sources": [
+    {
+     "name": "Hong Kong Observatory: tropical cyclones in 2008",
+     "url": "https://www.hko.gov.hk/en/publica/tc/tc2008/section2.htm"
+    },
+    {
+     "name": "GMA News: NDCC damage and casualty report, July 10, 2008",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/106198/frank-damage-surpasses-p13b-ndcc-says/story/"
+    },
+    {
+     "name": "Asian Disaster Reduction Center: Philippines typhoon record",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=1170&Lang=en"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-06-26",
+  "title": "Cyclone Yemyin and Pakistan floods",
+  "category": "natural-disaster",
+  "location": "Balochistan and Sindh, Pakistan",
+  "lives_lost": 730,
+  "description": "Cyclone Yemyin made landfall on Pakistan's Makran coast on June 26, 2007, bringing torrential rain and flash floods that killed about 730 people in Balochistan, Sindh, and the North-West Frontier Province, with more than 100 killed in Afghanistan. Preceding heavy rain had already caused flooding and hundreds of deaths in Karachi.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-b61784a1434bde8e6412",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "730 is a Pakistan-wide multistorm/flood figure in secondary summaries, not established as deaths from June26 Yemyin alone. IFRC documents storms fromJune23 and later flooding; final-report body retrieval failed. Need exact geographic/date scope and independently supported mortality before publication.",
+   "sources": [
+    {
+     "name": "IFRC initial storm/cyclone response",
+     "url": "https://www.ifrc.org/docs/appeals/rpts07/PKst28060704.pdf"
+    },
+    {
+     "name": "IFRC final report",
+     "url": "https://www.ifrc.org/docs/Appeals/07/MDRPK001FR.pdf"
+    },
+    {
+     "name": "Wikipedia multicyclone chronology",
+     "url": "https://en.wikipedia.org/wiki/Cyclones_BOB_03_and_Yemyin"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-07-01",
+  "title": "Niger food crisis",
+  "category": "food-crisis",
+  "location": "Niger",
+  "lives_lost": 10000,
+  "description": "Severe drought and a locust infestation triggered a food crisis in Niger affecting 3.6 million people, with UNICEF reporting 32,000 severely malnourished children under five facing death without treatment. A final death toll was never established; UN officials said thousands of children had already died, with overall mortality estimates ranging from several thousand to tens of thousands.",
+  "sources": [
+   "UNICEF",
+   "Medecins Sans Frontieres (MSF)",
+   "BBC News",
+   "UN News"
+  ],
+  "archive_id": "events-9bbdfa29a84d1b65c67c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "No checked source establishes 10,000 crisis-attributable deaths or a July 1 onset. UNICEF and the national mortality survey describe malnutrition, treatment and rates; children at risk are not observed fatalities. Do not infer a toll by multiplying treatment mortality or projected deaths. Numeric entry requires exclusion from aggregates pending evidence.",
+   "sources": [
+    {
+     "name": "UNICEF annual report 2005",
+     "url": "https://www.unicef.org/media/93031/file/UNICEF-annual-report-2005.pdf"
+    },
+    {
+     "name": "National retrospective mortality study",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2658864/"
+    }
+   ]
+  }
  },
  {
   "date": "2005-07-07",
@@ -371,7 +1014,84 @@
   "source_urls": [
    "https://www.gov.uk/government/publications/report-of-the-official-account-of-the-bombings-in-london-on-7th-july-2005",
    "https://apnews.com/article/1976b44220bd028046414dbc11d79508"
-  ]
+  ],
+  "archive_id": "events-8637fe0e5dc89aff9ce2"
+ },
+ {
+  "date": "2008-07-07",
+  "title": "Indian embassy bombing in Kabul",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 58,
+  "description": "A suicide vehicle bombing struck the Indian embassy in Kabul on the morning of July 7, 2008. India's foreign ministry identified four Indian officials and one Afghan embassy employee among those killed. UNAMA subsequently recorded 55 civilian deaths; reported overall totals differ.",
+  "sources": [
+   "BBC News",
+   "China Daily",
+   "Frontline (The Hindu)"
+  ],
+  "archive_id": "events-41e6721548299bc9126c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "July 7 morning and the embassy identity are supported by MEA. Four Indian officials and one Afghan employee were killed, so four Indian staff is not the entire embassy-staff toll. MEA's 2008-09 annual report says about 60 Afghan nationals plus five embassy personnel; UNAMA's annual report counts 55 civilians, while secondary accounts give 58 overall. These differing populations and totals cannot be assumed equivalent. A previously indexed 2010 MEA PDF returned a 404 on opening and is not treated as primary verification of 58. Removed unsupported police/child subtotals, queue composition and superlative; overall toll remains unresolved.",
+   "sources": [
+    {
+     "name": "Ministry of External Affairs: annual report 2008-2009",
+     "url": "https://www.mea.gov.in/Uploads/PublicationDocs/170_Annual-Report-2008-2009.pdf"
+    },
+    {
+     "name": "Ministry of External Affairs: foreign relations 2008, July 7 statement",
+     "url": "https://www.mea.gov.in/images/pdf/main_2008.pdf"
+    },
+    {
+     "name": "UNAMA: protection of civilians annual report 2008",
+     "url": "https://unama.unmissions.org/sites/default/files/UNAMA_09february-Annual%20Report_PoC%202008_FINAL_11Feb09.pdf"
+    },
+    {
+     "name": "Wikipedia: 2008 Indian embassy bombing, secondary comparison",
+     "url": "https://en.wikipedia.org/wiki/2008_bombing_of_Indian_embassy_in_Kabul"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2006-07-11",
+  "title": "Mumbai train bombings",
+  "category": "terrorism",
+  "location": "Mumbai, India",
+  "lives_lost": 209,
+  "description": "Seven explosions struck suburban trains on Mumbai's Western Line during the evening rush hour on July 11, 2006. Later court reporting gives 189 deaths, differing from the 209 figure in some earlier accounts. Responsibility and the prosecution evidence have been disputed in court.",
+  "sources": [
+   "BBC",
+   "Reuters",
+   "Government of India"
+  ],
+  "archive_id": "events-33c05c863a2eb56e159e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Modern court coverage gives189 deaths/824 injured rather than209. The High Court rejected the prosecution case in July2025; subsequent Supreme Court stay did not itself establish guilt. Remove asserted pressure-cooker mechanism and categorical attribution; final victim count requires reconciliation.",
+   "sources": [
+    {
+     "name": "Indian Express court report",
+     "url": "https://indianexpress.com/article/cities/mumbai/mumbai-train-blast-high-court-acquit-convicts-10139817/"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://amp.dw.com/en/india-12-acquitted-for-mumbai-train-blasts-after-10-years/a-73347121"
+    },
+    {
+     "name": "Wikipedia legal chronology",
+     "url": "https://en.wikipedia.org/wiki/2006_Mumbai_train_bombings"
+    }
+   ]
+  }
  },
  {
   "date": "2006-07-12",
@@ -387,7 +1107,8 @@
   "source_urls": [
    "https://www.hrw.org/reports/2007/lebanon0907/3.htm",
    "https://www.hrw.org/report/2007/08/28/civilians-under-assault/hezbollahs-rocket-attacks-israel-2006-war"
-  ]
+  ],
+  "archive_id": "events-78e017a87d0d2036089d"
  },
  {
   "date": "2006-07-14",
@@ -403,7 +1124,42 @@
   "source_urls": [
    "https://journals.ametsoc.org/view/journals/mwre/137/6/2008mwr2669.1.xml",
    "https://www.hko.gov.hk/en/publica/tc/tc2006/section2.htm"
-  ]
+  ],
+  "archive_id": "events-7430d4be3420b6560044"
+ },
+ {
+  "date": "2006-07-15",
+  "title": "North Korea floods and food crisis",
+  "category": "natural-disaster",
+  "location": "South Pyongan Province, North Korea",
+  "lives_lost": 600,
+  "description": "Floods struck several North Korean provinces in July 2006, damaging homes, farmland and infrastructure. Published death and missing-person counts differed widely, and independent assessment was limited.",
+  "sources": [
+   "United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
+   "Reuters",
+   "World Food Programme",
+   "International Federation of Red Cross and Red Crescent Societies (IFRC)"
+  ],
+  "archive_id": "events-8f46acc2ac8aad8b04f9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "600 conflates uncertain killed/missing reporting. Sources range from Red Cross151 dead to a pro-North Korean newspaper's549 dead/295 missing; outside claims are unverified. WFP describes assistance stocks used for2006 floods, so blanket rejection of relief is misleading. Exact episode onset and toll remain unresolved.",
+   "sources": [
+    {
+     "name": "Wikipedia flood source chronology",
+     "url": "https://en.wikipedia.org/wiki/2006_North_Korean_floods"
+    },
+    {
+     "name": "World Food Programme",
+     "url": "https://one.wfp.org/operations/current_operations/project_docs/107570.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2006-07-17",
@@ -419,7 +1175,77 @@
   "source_urls": [
    "https://www.researchgate.net/publication/241492825_The_17_July_2006_Tsunami_Along_the_South_Coast_of_Java_Indonesia_Field_Survey_and_Near_Field_Tsunami_Simulation",
    "https://en.wikipedia.org/wiki/2006_Pangandaran_earthquake_and_tsunami"
-  ]
+  ],
+  "archive_id": "events-5479e1da73d926330bb9"
+ },
+ {
+  "date": "2005-07-22",
+  "title": "Sharm el-Sheikh bombings",
+  "category": "terrorism",
+  "location": "Sharm el-Sheikh, Egypt",
+  "lives_lost": 88,
+  "description": "Bombs struck Sharm el-Sheikh shortly after 01:00 on July 23, 2005, local time, July 22 UTC. Targets included the Old Market and a hotel. Death reports differed: the official count was 64, while hospitals reported 88.",
+  "sources": [
+   "BBC News",
+   "The Guardian",
+   "Reuters"
+  ],
+  "archive_id": "events-41cbe60d864ec20580ee",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "01:15 Egyptian summer time July 23 equals 22:15 UTC July 22. IFRC's later report uses 64 deaths and 124 injured, while hospital-based accounts reported 88 and 200. Correct UTC date but retain fatality conflict explicitly.",
+   "sources": [
+    {
+     "name": "IFRC response report",
+     "url": "https://go-api.ifrc.org/publicfile/download?name=05ME044.pdf&path=%2Fdocs%2Fappeals%2F05%2F"
+    },
+    {
+     "name": "Wikipedia bombing summary",
+     "url": "https://en.wikipedia.org/wiki/2005_Sharm_El_Sheikh_bombings"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-07-26",
+  "title": "Mumbai floods",
+  "category": "natural-disaster",
+  "location": "Mumbai, India",
+  "lives_lost": 1094,
+  "description": "Exceptional rain on July 26-27, 2005, caused severe flooding in Mumbai and other parts of Maharashtra. The Santacruz observatory measured 944 mm over 24 hours. Reported mortality totals differ in geographic and flood-related disease coverage.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "India Meteorological Department"
+  ],
+  "archive_id": "events-ecdc08dff5f188f223bd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "944 mm is the Santacruz station's 24-hour measurement, not citywide rainfall. 1,094 is commonly a Maharashtra-wide count, while some papers incorrectly or differently label it Mumbai-only; NIDM distinguishes municipal deaths. Establish regional/flood-versus-disease scope before accepting exact toll.",
+   "sources": [
+    {
+     "name": "NIDM Disaster and Development journal",
+     "url": "https://nidm.gov.in/journal/PDF/Journal/Journal20092/Journal20092.pdf"
+    },
+    {
+     "name": "Rainfall research",
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0921818108002063"
+    },
+    {
+     "name": "Wikipedia Maharashtra floods",
+     "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005"
+    }
+   ]
+  }
  },
  {
   "date": "2008-07-26",
@@ -435,7 +1261,46 @@
   "source_urls": [
    "https://indianexpress.com/article/cities/ahmedabad/2008-ahmedabad-serial-blasts-case-sentencing-7779534/lite/",
    "https://www.mha.gov.in/sites/default/files/2024-08/Judgement_08082024.pdf"
-  ]
+  ],
+  "archive_id": "events-dffbf3aed20ae58a7605"
+ },
+ {
+  "date": "2006-08-06",
+  "title": "Ethiopia floods (Dire Dawa and Omo Valley)",
+  "category": "natural-disaster",
+  "location": "Dire Dawa, Ethiopia",
+  "lives_lost": 640,
+  "description": "Unusually intense seasonal rains in August 2006 caused two major flood disasters in Ethiopia: a flash flood of the Dechatu River in the city of Dire Dawa on August 6 killed 256 people with about 250 missing, and flooding of the Omo River in the remote South Omo Valley on August 13 killed 364 people and submerged five villages. Combined flood deaths across the country in 2006 reached about 640, with roughly 118,000 people affected and tens of thousands displaced.",
+  "sources": [
+   "United Nations Office for the Coordination of Humanitarian Affairs (OCHA)",
+   "ActionAid",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-934b087fc7fc24801490",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "IFRC's August response reported639, not640; AfDB's full2006 account includes later floods and about900 deaths. Do not merge August and annual scopes. August6 is the local Dire Dawa date, not established onset of all nationwide flooding or confirmed UTC date.",
+   "sources": [
+    {
+     "name": "IFRC August flood response",
+     "url": "https://www.ifrc.org/docs/appeals/06/MDRET00303.pdf"
+    },
+    {
+     "name": "African Development Bank",
+     "url": "https://www.afdb.org/en/projects-and-operations/p-et-kz0-002"
+    },
+    {
+     "name": "Flood mortality study",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6620495/"
+    }
+   ]
+  }
  },
  {
   "date": "2008-08-07",
@@ -453,7 +1318,43 @@
    "https://www.mpil.de/files/pdf4/IIFFMCG_Volume_I1.pdf",
    "https://www.hrw.org/report/2009/01/23/flames/humanitarian-law-violations-and-civilian-victims-conflict-over-south",
    "https://www.hrw.org/report/2009/04/14/dying-practice/use-cluster-munitions-russia-and-georgia-august-2008"
-  ]
+  ],
+  "archive_id": "events-cd9207c5b4b0249b4228"
+ },
+ {
+  "date": "2009-08-08",
+  "title": "Typhoon Morakot",
+  "category": "natural-disaster",
+  "location": "Pingtung, Taiwan",
+  "lives_lost": 700,
+  "description": "Typhoon Morakot, the deadliest typhoon to hit Taiwan in about 50 years, made landfall on August 7-8, 2009, dumping record rainfall of up to 3 meters in the southern mountains. A massive mudslide buried the village of Xiaolin in Kaohsiung County, killing an estimated 400-500 residents. More than 670 people were confirmed dead in Taiwan, with additional deaths in China and the northern Philippines, for a regional total of roughly 700-800 lives lost.",
+  "sources": [
+   "BBC News",
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "Xinhua",
+   "China Daily"
+  ],
+  "archive_id": "events-ec449370079e1325fcb5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Taiwan reconstruction record lists 681 dead and 18 missing separately; paper dates the typhoon strike to August 7. Existing 700 is an untraceable rounded regional total. Need landfall time/UTC, final cross-country sum and Xiaolin toll before replacing date or numeric field.",
+   "sources": [
+    {
+     "name": "Taiwan Executive Yuan",
+     "url": "https://exhibition.nstm.gov.tw/morakot/webhistory/88flood/eng/Reconstruction_reports.html"
+    },
+    {
+     "name": "Engineering Geology",
+     "url": "https://www.sciencedirect.com/science/article/pii/S0013795211001670"
+    }
+   ]
+  }
  },
  {
   "date": "2006-08-10",
@@ -469,7 +1370,111 @@
   "source_urls": [
    "https://www.hko.gov.hk/en/publica/tc/tc2006/section2.htm",
    "https://www.europapress.es/internacional/noticia-china-balance-oficial-tifon-saomai-aumenta-460-muertos-hallazgo-24-cadaveres-dos-meses-despues-20061024122632.html"
-  ]
+  ],
+  "archive_id": "events-c4af93241f1f58c719e7"
+ },
+ {
+  "date": "2007-08-14",
+  "title": "Qahtaniya Yazidi community bombings",
+  "category": "terrorism",
+  "location": "Qahtaniya, Iraq",
+  "lives_lost": 796,
+  "description": "Coordinated suicide vehicle bombings struck Yazidi communities near Sinjar, including Qahtaniya and Jazira, on August 14, 2007. Hundreds of people died. Published mortality figures differ substantially, and the exact total remains unresolved in this audit.",
+  "sources": [
+   "BBC News",
+   "New York Times"
+  ],
+  "archive_id": "events-58aecb22fe6d15074b0f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "IBC currently records516-525, versus796 in secondary summaries attributed to Red Crescent and lower government/early counts. Primary Red Crescent documentation establishing796 was not located. Event date/towns and coordinated attacks supported; final count and1,500 injuries unresolved.",
+   "sources": [
+    {
+     "name": "Iraq Body Count k7225",
+     "url": "https://www.iraqbodycount.org/database/incidents/k7225"
+    },
+    {
+     "name": "Amnesty International2008 report",
+     "url": "https://www.amnesty.ie/wp-content/uploads/2016/04/Carnage-and-Despair-Iraq-5-years-On.pdf"
+    },
+    {
+     "name": "Wikipedia event summary",
+     "url": "https://en.wikipedia.org/wiki/Qahtaniyah_bombings"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-08-15",
+  "title": "Peru earthquake",
+  "category": "natural-disaster",
+  "location": "Pisco, Peru",
+  "lives_lost": 595,
+  "description": "A magnitude 8.0 earthquake struck off central Peru on August 15, 2007, severely damaging Pisco and nearby communities and producing a tsunami. A USGS-funded research report cites an October 2007 Peruvian statistical count of 595 deaths, with missing people listed separately.",
+  "sources": [
+   "USGS",
+   "BBC News"
+  ],
+  "archive_id": "events-f2cceed94d7944839fc8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS-supported research report cites595 deaths plus318 missing as an October2 INEI figure; these are separate categories. Other summaries repeat519, so attribute595 explicitly rather than universal final count. Replace85percent destroyed with supported general damage; date23:40UTC unchanged. The differing 519/595 accounts have not been reconciled by reporting period and finalization; the attributed candidate prose does not by itself establish final mortality. Withhold pending that reconciliation.",
+   "sources": [
+    {
+     "name": "USGS earthquake impact page",
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fjta/impact"
+    },
+    {
+     "name": "USGS-funded earthquake report",
+     "url": "https://earthquake.usgs.gov/cfusion/external_grants/reports/08HQGR0102.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2006-08-19",
+  "title": "Abidjan toxic waste dumping (Probo Koala)",
+  "category": "industrial",
+  "location": "Abidjan, Ivory Coast",
+  "lives_lost": 17,
+  "description": "Waste discharged from the Probo Koala was dumped by a local contractor at multiple sites around Abidjan on August 19, 2006. UNEP records more than 100,000 medical consultations afterward. Reported death counts and the extent of medically established causal links differ between sources.",
+  "sources": [
+   "BBC",
+   "United Nations Environment Programme (UNEP)",
+   "Human Rights Watch",
+   "Greenpeace"
+  ],
+  "archive_id": "events-40ef94dc72b16067c37d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UNEP describes528 cubic metres and12 sites, Amnesty at least18 sites and an official15-death report, while17 appears in later government-attributed summaries. More than100,000 consultations are not proof of100,000 poisoning hospitalizations. Exact mortality and causal attribution remain unsettled; preserve distinctions.",
+   "sources": [
+    {
+     "name": "UN Environment audit release",
+     "url": "https://www.unep.org/news-and-stories/press-release/un-environment-releases-independent-audit-sites-affected-toxic-waste"
+    },
+    {
+     "name": "Amnesty investigation",
+     "url": "https://www.amnesty.org/en/latest/news/2016/04/trafigura-a-toxic-journey/"
+    },
+    {
+     "name": "Amnesty health assessment",
+     "url": "https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR3175942018ENGLISH.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2008-08-19",
@@ -487,7 +1492,110 @@
    "https://www.amnesty.be/infos/actualites/article/algerie-amnesty-international-condamne-attentats-explosif-issers",
    "https://www.ladepeche.fr/article/2008/08/19/471377-algerie-43-morts-attentat-plus-meurtrier-depuis-huit-mois.html",
    "https://listindiario.com/las-mundiales/2008/08/19/70447/al-menos-44-muertos-42-de-ellos-civiles-en-atentado-escuela-de-gendarmeria.html"
-  ]
+  ],
+  "archive_id": "events-e7888f1619b981b66430"
+ },
+ {
+  "date": "2009-08-19",
+  "title": "Baghdad Ministry Bombings",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 95,
+  "description": "On August 19, 2009, coordinated truck bombings hit the Iraqi Foreign Ministry and Finance Ministry in Baghdad, along with other explosions, killing at least 95 people and wounding about 563 according to Iraqi Interior Ministry officials. The attacks, blamed on al-Qaeda-linked militants and Baathist elements, were the bloodiest day in Baghdad since February 2008 and the worst since US troops withdrew from Iraqi cities at the end of June 2009.",
+  "sources": [
+   "The Guardian",
+   "BBC News",
+   "Reuters",
+   "NPR"
+  ],
+  "archive_id": "events-6b5fe04a656e655ec6c6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Reuters photograph corroborates ministry attack and August 19 date. The searches did not independently establish 95/563, the comparative superlatives or final perpetrator attribution; BBC access was blocked. Keep unverified until a casualty report is checked. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reutersconnect.com/item/security-guards-stand-at-the-site-of-a-truck-bomb-attack-at-the-iraqi-finance-ministry-in-baghdad/dGFnOnJldXRlcnMuY29tLDIwMDk6bmV3c21sX0dNMUU1OEoxUFNSMDE?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMTA6bmV3c21sX0dNMUU2NksxSVowMDE&position=2"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2008-08-21",
+  "title": "Azizabad airstrike",
+  "category": "war",
+  "location": "Azizabad, Herat Province, Afghanistan",
+  "lives_lost": 90,
+  "description": "A US-led operation struck Azizabad in Herat Province at approximately 02:00 local time on August 22, 2008 (August 21 UTC). UNAMA's annual report subsequently counted 92 civilian deaths, including 62 children. The civilian death toll remained disputed between investigations.",
+  "sources": [
+   "The New York Times",
+   "The Guardian",
+   "UNAMA"
+  ],
+  "archive_id": "events-1cfa4d78a31f2bac945a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "AIHRC places the attack at approximately 02:00 Afghanistan time on August 22, corresponding to August 21 UTC; propose the UTC correction without changing the original identity key. UNAMA's later annual report gives 92 civilian deaths including 62 children, not the initial 90/60, while the US investigation reported 33. The competing investigations have not been reconciled and 90 cannot be certified as a final total. Remove unverified compensation and aircraft detail, retain the contradiction in notes, and withhold the row pending a settled toll policy/evidence.",
+   "sources": [
+    {
+     "name": "Afghanistan Independent Human Rights Commission: report submitted to UN Human Rights Council",
+     "url": "https://digitallibrary.un.org/record/657444/files/A_HRC_11_NI_7-EN.pdf"
+    },
+    {
+     "name": "UNAMA: protection of civilians annual report 2008",
+     "url": "https://unama.unmissions.org/sites/default/files/UNAMA_09february-Annual%20Report_PoC%202008_FINAL_11Feb09.pdf"
+    },
+    {
+     "name": "Wikipedia: Azizabad airstrike, competing investigation totals",
+     "url": "https://en.wikipedia.org/wiki/Azizabad_airstrike"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2007-08-24",
+  "title": "Greek forest fires",
+  "category": "natural-disaster",
+  "location": "Peloponnese, Greece",
+  "lives_lost": 85,
+  "description": "Widespread forest fires in Greece, most severely in the Peloponnese, burned from late August 2007 and killed 85 people across the country. Flames raced through villages, and many victims were trapped in their homes or while fleeing by car.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-5da57ee66ac0c5c215ac",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "85 is a summer/season total in secondary accounts, not established for fires beginningAugust24. European Commission study gives76 for2007, while secondary accounts distinguish67 inAugust. Need authoritative mortality reconciliation and defined episode start; July fires cannot be silently moved toAugust24.",
+   "sources": [
+    {
+     "name": "European Commission emergency chronology",
+     "url": "https://ec.europa.eu/echo/files/civil_protection/forestfires_el_2007.htm"
+    },
+    {
+     "name": "European Commission scenario study",
+     "url": "https://ec.europa.eu/echo/files/civil_protection/civil/prote/pdfdocs/Final%20Report%20-%20scenario%20study.pdf"
+    },
+    {
+     "name": "Wikipedia seasonal summary",
+     "url": "https://en.wikipedia.org/wiki/2007_Greek_forest_fires"
+    }
+   ]
+  }
  },
  {
   "date": "2005-08-29",
@@ -503,7 +1611,76 @@
   "source_urls": [
    "https://www.weather.gov/lix/katrina_anniversary",
    "https://www.nesdis.noaa.gov/news/record-breaking-hurricanes-tracked-noaa-satellites"
-  ]
+  ],
+  "archive_id": "events-677f230d937da215610d"
+ },
+ {
+  "date": "2005-08-31",
+  "title": "Al-Aaimmah bridge stampede",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 965,
+  "description": "A stampede on the Al-Aaimmah bridge in Baghdad during a Shia pilgrimage killed at least 965 people, mostly women and children crushed or drowned in the Tigris River after rumours of a suicide bomber sparked panic. The stampede followed mortar fire near the Kadhimiya shrine that had already killed pilgrims.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Reuters"
+  ],
+  "archive_id": "events-d006b121cc380fe977ae",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "category",
+    "sources"
+   ],
+   "note": "965 appears in retrospective summaries, while contemporary RTE gives 956 and forecasts 1,000. Need final official count and confirmation that earlier mortar victims are excluded. This was a crowd crush triggered by a reported bomber rumor, not an established suicide bombing; terrorism categorization needs taxonomy review.",
+   "sources": [
+    {
+     "name": "RTE",
+     "url": "https://www.rte.ie/news/2005/0831/67036-iraq/"
+    },
+    {
+     "name": "Wikipedia disaster summary",
+     "url": "https://en.wikipedia.org/wiki/2005_Al-Aimmah_Bridge_disaster"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-09-04",
+  "title": "Kunduz Fuel Tanker Airstrike",
+  "category": "war",
+  "location": "Kunduz Province, Afghanistan",
+  "lives_lost": 100,
+  "description": "On September 4, 2009, NATO aircraft, at the request of German forces, bombed two fuel tankers hijacked by Taliban insurgents near Kunduz City. Villagers had gathered around the stranded tankers to siphon fuel. Death toll estimates range from 56 to 179, with a German parliamentary investigation concluding up to 142 people died, including more than 100 civilians. The strike sparked a major political crisis in Germany and led to compensation payments to victims' families.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "Der Spiegel",
+   "The Washington Post"
+  ],
+  "archive_id": "events-827d04d508d0aa89267a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Bundestag says the exact number remains unknown and cites reports up to 142; it does not establish over 100 civilians as the parliamentary conclusion. Numeric 100 is unsupported precision. Also verify local overnight strike against UTC before retaining September 4. Do not replace it with a different estimate as a confirmed count.",
+   "sources": [
+    {
+     "name": "German Bundestag",
+     "url": "https://www.bundestag.de/webarchiv/textarchiv/2011/36861218_kw48_de_kundus-207108"
+    },
+    {
+     "name": "Tagesschau",
+     "url": "https://www.tagesschau.de/ausland/luftangriffafghanistan-ts-100.html"
+    }
+   ]
+  }
  },
  {
   "date": "2006-09-08",
@@ -519,7 +1696,110 @@
   "source_urls": [
    "https://bombayhighcourt.nic.in/generatenewauth.php?bhcpar=cGF0aD0uL3dyaXRlcmVhZGRhdGEvZGF0YS9qdWRnZW1lbnRzLzIwMjYvJmZuYW1lPUYyMzEwMDAwMjc3MjIwMjZfNS5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTIyLzA0LzIwMjYmc3Bhc3NwaHJhc2U9MjMwNDI2MTA1MTUwJm5jaXRhdGlvbj0yMDI2OkJIQy1BUzoxOTA5NC1EQiZzbWNpdGF0aW9uPSZkaWdjZXJ0ZmxnPVkmaW50ZXJmYWNlPU8%3D",
    "https://indianexpress.com/article/legal-news/malegaon-2006-blasts-hc-quashes-charges-ats-nia-contradictions-10651273/"
-  ]
+  ],
+  "archive_id": "events-0ab568c96a96df26d68b"
+ },
+ {
+  "date": "2008-09-17",
+  "title": "Chinese melamine milk scandal",
+  "category": "food-crisis",
+  "location": "China (Gansu Province and nationwide)",
+  "lives_lost": 6,
+  "description": "In 2008, melamine deliberately added to diluted milk contaminated infant formula and other milk products in China. A WHO-authored review reported six deaths, 294,000 affected children and 51,900 cumulative hospitalizations as of December 1, 2008. The exact beginning of the contamination and resulting illness was unknown; the problem became public in September.",
+  "sources": [
+   "The New York Times",
+   "Xinhua News Agency",
+   "China Daily"
+  ],
+  "archive_id": "events-d042f203d682ccde65b9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The WHO-authored review supports six reported deaths, 294,000 cases and 51,900 cumulative hospitalizations as of December 1, not 50,000 people simultaneously hospitalized at the peak. It says the illness/contamination onset is unknown, with complaints in December 2007 and a first death in May 2008. September 17 marks Singapore's first detection outside China, not the start of the Chinese scandal. No replacement exact onset date is established. Remove unsupported withdrawal tonnage and arrest detail; the supported shorter description does not cure the unresolved date.",
+   "sources": [
+    {
+     "name": "WHO authors in Environmental Health Perspectives: The Melamine Incident",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2799451/"
+    },
+    {
+     "name": "Food Policy: China's milk scandal and its institutional roots",
+     "url": "https://www.sciencedirect.com/science/article/pii/S0306919210000540"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2008-09-20",
+  "title": "Islamabad Marriott Hotel bombing",
+  "category": "terrorism",
+  "location": "Islamabad, Pakistan",
+  "lives_lost": 54,
+  "description": "A suicide truck bombing struck the Marriott Hotel in Islamabad on the evening of September 20, 2008, causing a major fire and killing dozens. A group calling itself Fedayeen Islam later claimed responsibility, but that claim was not authenticated in the contemporaneous Reuters report.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "The National"
+  ],
+  "archive_id": "events-4545aa8ef09cb8c7a278",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "September 20 evening is established, but the exact victim total is not: the US State Department's annual report says 53, the original says 54, and a 2012 US court opinion cites 56 from BBC reporting. These are not demonstrated to be solely attacker-inclusion differences. The statement that no group claimed responsibility is false: Reuters reported a Fedayeen Islam claim on September 22 while explicitly saying it was unauthenticated. Remove the unsupported explosive weight, nationality breakdown and ranking; preserve the unverified nature of that claim. Toll remains a publication blocker.",
+   "sources": [
+    {
+     "name": "US State Department: Pakistan human rights report 2008",
+     "url": "https://2009-2017.state.gov/j/drl/rls/hrrpt/2008/sca/119139.htm"
+    },
+    {
+     "name": "Reuters via RFE/RL: unauthenticated responsibility claim",
+     "url": "https://www.rferl.org/a/LittleKnown_Islamic_Group_Claims_Pakistan_Attack_/1202113.html"
+    },
+    {
+     "name": "US District Court: DiFederico v Marriott memorandum opinion",
+     "url": "https://docs.justia.com/cases/federal/district-courts/maryland/mddce/8:2011cv01508/190739/36"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-09-26",
+  "title": "Typhoon Ketsana (Ondoy)",
+  "category": "natural-disaster",
+  "location": "Metro Manila, Philippines",
+  "lives_lost": 921,
+  "description": "Tropical storm Ketsana (Ondoy) struck the Philippines on September 26, 2009, bringing the heaviest rainfall to Metro Manila in more than four decades — about a month's rain in under 12 hours — and causing catastrophic flash flooding. The consolidated regional death toll reached roughly 900, including 671 in the Philippines, 179 in Vietnam, and dozens more in Cambodia and Laos. Hundreds of thousands were displaced across Southeast Asia.",
+  "sources": [
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "The Guardian",
+   "Reuters",
+   "Philippine National Disaster Coordinating Council"
+  ],
+  "archive_id": "events-f792c8c119a5ee54d9b7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "JICA cites 464 Philippine deaths; GMA's 277 is explicitly an October 1 preliminary count. Neither supports 671 Philippine deaths or the 921 regional field. Need comparable final country reports; do not add preliminary and final or Ondoy/Pepeng totals.",
+   "sources": [
+    {
+     "name": "JICA",
+     "url": "https://openjicareport.jica.go.jp/pdf/12260451_02.pdf"
+    },
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/173548/ndcc-puts-ondoy-damage-at-p4-8-b-death-toll-at-277/story/"
+    }
+   ]
+  }
  },
  {
   "date": "2009-09-29",
@@ -535,7 +1815,42 @@
   "source_urls": [
    "https://www.ncei.noaa.gov/news/2009-Samoa-Tsunami",
    "https://sos.noaa.gov/catalog/datasets/tsunami-historical-series-samoa-2009/"
-  ]
+  ],
+  "archive_id": "events-0737897f681a35b34a2f"
+ },
+ {
+  "date": "2009-09-30",
+  "title": "West Sumatra (Padang) Earthquake",
+  "category": "natural-disaster",
+  "location": "Padang, West Sumatra, Indonesia",
+  "lives_lost": 1115,
+  "description": "A magnitude 7.6 earthquake struck off the coast of West Sumatra on September 30, 2009, about 45 km northwest of Padang. The Indonesian government confirmed 1,115 deaths, with more than 1,200 seriously injured and about 450,000 people displaced. Widespread collapse of poorly reinforced buildings in Padang and Padang Pariaman district caused most casualties. USGS called it the deadliest earthquake of 2009.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "BBC News",
+   "NOAA National Geophysical Data Center"
+  ],
+  "archive_id": "events-30f86806c8657f73abfc",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date, Padang/Pariaman area and magnitude corroborated by assessment material; retrieved assessment gives over 1,117, not 1,115. Exact final toll, displacement and strongest mortality ranking need reconciliation with BNPB/USGS, rather than selecting a convenient near-match.",
+   "sources": [
+    {
+     "name": "United Nations",
+     "url": "https://unstats.un.org/Unsd/geoinfo/RCC/docs/rccap19/reports/E_Conf.102_6_WG3%20Report%2031July2012%20final_with%20annex.pdf"
+    },
+    {
+     "name": "PreventionWeb assessment",
+     "url": "https://www.bibalex.org/search4dev/files/388402/225848.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2005-10-01",
@@ -551,7 +1866,109 @@
   "source_urls": [
    "https://www.dfat.gov.au/news/news/20th-anniversary-2005-bali-bombings-support-survivors-families-and-first-responders",
    "https://knowledge.aidr.org.au/resources/criminal-bali-bombings-2005/"
-  ]
+  ],
+  "archive_id": "events-5513f371ef6e522abb24"
+ },
+ {
+  "date": "2009-10-03",
+  "title": "Typhoon Parma (Pepeng)",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 500,
+  "description": "Typhoon Parma (Pepeng) made landfall in northern Luzon on October 3, 2009, and lingered over the island for a week, making landfall three times and causing torrential rains. Massive landslides in Benguet province and the Cordillera Administrative Region killed 465 people in the Philippines, with total regional deaths near 500, including in Vietnam and China. Landslide-buried villages in La Trinidad and Baguio City accounted for the heaviest losses.",
+  "sources": [
+   "Philippine National Disaster Coordinating Council",
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "Xinhua",
+   "GMA News"
+  ],
+  "archive_id": "events-676d4210460d335922df",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Search located an NDCC-attributed 465 Philippine tally but not a directly inspected final official report. Regional 500, non-Philippine deaths and the claim that landslides alone caused all 465 require corroboration. Secondary lead is not sufficient to verify this record. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Wikipedia (source lead only)",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Parma"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-10-05",
+  "title": "Hurricane Stan",
+  "category": "natural-disaster",
+  "location": "Guatemala, Central America",
+  "lives_lost": 1660,
+  "description": "Hurricane Stan triggered torrential rain and catastrophic mudslides across Guatemala, El Salvador and southern Mexico, burying entire villages including Panabaj near Lake Atitlan, where about 1,400 residents were declared missing and presumed dead. More than 1,600 people were killed across the region, most of them in Guatemala.",
+  "sources": [
+   "BBC News",
+   "ReliefWeb",
+   "NOAA"
+  ],
+  "archive_id": "events-0a94901dd0c33dc16c0d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NOAA authors distinguish 80 direct Stan deaths from 1,000-2,000 deaths in the broader regional weather system. October 5 is near dissipation, not landfall; the Panabaj estimate and exact 1,660 aggregate are not established. Needs explicit regional episode scope and onset.",
+   "sources": [
+    {
+     "name": "NOAA authors' Atlantic season analysis",
+     "url": "https://journals.ametsoc.org/view/journals/mwre/136/3/2007mwr2074.1.xml"
+    },
+    {
+     "name": "NHC October 4 advisory",
+     "url": "https://www.nhc.noaa.gov/archive/2005/dis/al202005.discus.013.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-10-08",
+  "title": "Kashmir earthquake",
+  "category": "natural-disaster",
+  "location": "Muzaffarabad, Pakistan",
+  "lives_lost": 75000,
+  "description": "A magnitude 7.6 earthquake struck near Muzaffarabad in Pakistani-administered Kashmir, collapsing tens of thousands of poorly built homes and schools and killing an estimated 75,000 people in Pakistan and more than 1,300 in India, with regional estimates reaching 87,000. About 3.5 million people were left homeless.",
+  "sources": [
+   "BBC News",
+   "USGS",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-77836e7f6a27a95c6bbe",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "Original 75,000 does not match its own Pakistan-plus-India narrative. OCHA uses over 73,000 in Pakistan; other sources give 87,350 and higher regional totals. Magnitude/date established; final geographic and mortality-estimate basis must be chosen explicitly.",
+   "sources": [
+    {
+     "name": "OCHA annual report 2005",
+     "url": "https://digitallibrary.un.org/record/576766/files/ocha_ar2005_web_low.pdf"
+    },
+    {
+     "name": "EERI reconnaissance report",
+     "url": "https://www.eeri.org/lfe/pdf/kashmir_eeri_2nd_report.pdf"
+    },
+    {
+     "name": "Wikipedia earthquake summary",
+     "url": "https://en.wikipedia.org/wiki/2005_Kashmir_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2009-10-25",
@@ -567,7 +1984,118 @@
   "source_urls": [
    "https://www.cbsnews.com/news/iraq-al-qaeda-group-claims-baghdad-attack/",
    "https://gisf.ngo/wp-content/uploads/2014/09/0065-NCTC-2010-Report-on-Terrorism-2009.pdf"
-  ]
+  ],
+  "archive_id": "events-37e84cc0ab9ff0e207cd"
+ },
+ {
+  "date": "2008-10-28",
+  "title": "Balochistan earthquake",
+  "category": "natural-disaster",
+  "location": "Balochistan, Pakistan",
+  "lives_lost": 215,
+  "description": "A magnitude-6.4 earthquake struck Balochistan on October 28, 2008 UTC, in the early morning of October 29 locally, severely damaging villages in the Ziarat area. IFRC reporting recorded 166 deaths and hundreds of injuries; other published death totals differ.",
+  "sources": [
+   "UN OCHA",
+   "IRIN (The New Humanitarian)",
+   "Reuters"
+  ],
+  "archive_id": "events-2f5c37ffbdb7c4464a5c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The first destructive magnitude-6.4 shock was October 28 at 23:09 UTC, October 29 locally; another large shock occurred October 29 UTC. Propose October 28 for the first shock. IFRC's initial appeal update and later Pakistan plan report 166 deaths, whereas the original calls 215 final and inconsistently says official reports had reached 236. Those alternative totals are not reconciled. IFRC's roughly 122,000 refers to people affected, not all homeless. Remove that conflation and the unsupported failed-appeal story. The ASC event page was indexed but could not be opened; the exact UTC time is also given in the secondary earthquake record.",
+   "sources": [
+    {
+     "name": "IFRC: Pakistan earthquake appeal update MDRPK00201",
+     "url": "https://www.ifrc.org/docs?file=appeals%2F08%2FMDRPK00201.pdf"
+    },
+    {
+     "name": "IFRC: Pakistan long-term planning framework 2012-2015",
+     "url": "https://adore.ifrc.org/Download.aspx?FileId=50408"
+    },
+    {
+     "name": "Amateur Seismic Centre: October 28, 2008 Balochistan earthquake",
+     "url": "https://asc-india.org/lib/20081028-baloch.htm"
+    },
+    {
+     "name": "Wikipedia: 2008 Ziarat earthquakes, UTC event times",
+     "url": "https://en.wikipedia.org/wiki/2008_Ziarat_earthquakes"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2009-10-28",
+  "title": "Peshawar Meena Bazaar Bombing",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 112,
+  "description": "On October 28, 2009, a car bomb exploded in the Meena Bazaar, a women's market in Peshawar, killing approximately 110-120 people — about 70 of them women and children — and injuring more than 200. The blast, among the deadliest attacks in Peshawar's history, destroyed several buildings and trapped many victims in rubble. Pakistani Taliban-linked militants were suspected. The bombing came amid a surge of militant attacks across Pakistan's northwest.",
+  "sources": [
+   "Dawn",
+   "CNN",
+   "BBC News",
+   "The Express Tribune"
+  ],
+  "archive_id": "events-73b59dfd45875851a6b8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Dawn's October 30 report gives 117; later retrospective says 137. The existing 112 and demographic split require reconciliation, not certification.",
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/850253/peshawar-blast-toll-rises-to-117"
+    },
+    {
+     "name": "The News International",
+     "url": "https://www.thenews.com.pk/archive/print/403325-qissa-khwani-from-a-bazaar-of-storytellers-to-site-of-bomb-blasts"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2005-10-29",
+  "title": "Delhi serial bombings",
+  "category": "terrorism",
+  "location": "New Delhi, India",
+  "lives_lost": 67,
+  "description": "Three bombs struck the Paharganj and Sarojini Nagar markets and a bus in the Govindpuri/Kalkaji area of Delhi on October 29, 2005, shortly before Diwali. Later reporting differs on the final death and injury totals.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "The Hindu"
+  ],
+  "archive_id": "events-ad31f8838f63cd0d7811",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "PTI court coverage supports 67 deaths/over 225 injured, but other court reporting gives 62 and over 100; TOI gives 67/105. Original half-hour timing also conflicts with 17:30 to18:05 reporting. Core toll conflict is unresolved; remove unsupported tight timing.",
+   "sources": [
+    {
+     "name": "PTI via Economic Times",
+     "url": "https://economictimes.indiatimes.com/news/politics-and-nation/court-acquits-two-accused-in-delhi-serial-blasts-case/articleshow/57188281.cms"
+    },
+    {
+     "name": "Scroll court report",
+     "url": "https://scroll.in/latest/829502/scroll_in"
+    },
+    {
+     "name": "Times of India",
+     "url": "https://timesofindia.indiatimes.com/city/delhi/after-11-years-in-jail-2-accused-in-delhi-blasts-cleared-on-all-counts/articleshow/57196131.cms"
+    }
+   ]
+  }
  },
  {
   "date": "2009-11-05",
@@ -585,7 +2113,39 @@
    "https://www.army.mil/article/110393/fort_hood_shooter_hasan_sentenced_to_death",
    "https://www.militarytimes.com/news/your-army/2019/11/05/the-mass-shooting-at-fort-hood-was-10-years-ago-on-nov-5-2009/",
    "https://www.army.mil/article-amp/31243/alleged_fort_hood_shooter_faces_additional_charges"
-  ]
+  ],
+  "archive_id": "events-9a1e00c90a49caab1405"
+ },
+ {
+  "date": "2007-11-06",
+  "title": "Baghlan bombing",
+  "category": "terrorism",
+  "location": "Baghlan, Afghanistan",
+  "lives_lost": 79,
+  "description": "A bombing targeted a parliamentary delegation visiting a sugar factory in Baghlan on November 6, 2007. Many children and several lawmakers died. UN reporting found that police and bodyguard gunfire after the explosion added to the casualties; the exact number killed by each cause was not established.",
+  "sources": [
+   "BBC News",
+   "Associated Press"
+  ],
+  "archive_id": "events-002263484b99d2476ec1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UNAMA's contemporaneous record and later Secretary-General report distinguish bombing deaths from subsequent police/bodyguard gunfire and use roughly70, not79. Exact split and final total remain uncertain; do not assign all deaths to bomber. UN investigation statements also differed before later reporting.",
+   "sources": [
+    {
+     "name": "UNAMA2007 casualty chronology",
+     "url": "https://unama.unmissions.org/sites/default/files/poc-civilian-casualties-report-2007.pdf"
+    },
+    {
+     "name": "UN Secretary-General children/conflict report",
+     "url": "https://unama.unmissions.org/sites/default/files/november_2008_-_report_of_the_secretary-general_on_children_and_armed_conflict_in_afghanistan_0.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2008-11-07",
@@ -603,7 +2163,8 @@
    "https://www.ifrc.org/docs?file=appeals%2Frpts08%2FHaitischool_IB1.pdf",
    "https://www.nacion.com/archivo/escuela-derrumbada-en-haiti-balance-sube-a-93-muertos-esperanza-disminuye/VKGEVXOUYVHCNEDDCE6YICTPRQ/story/",
    "https://www.globalissues.org/news/2009/11/09/3441"
-  ]
+  ],
+  "archive_id": "events-7e69c21e7131379a1f16"
  },
  {
   "date": "2005-11-09",
@@ -619,7 +2180,43 @@
   "source_urls": [
    "https://jordantimes.com/news/local/jordan-marks-20th-anniversary-of-amman-bombings",
    "https://en.wikipedia.org/wiki/2005_Amman_bombings"
-  ]
+  ],
+  "archive_id": "events-f0e4f0593b1ab8a4334d"
+ },
+ {
+  "date": "2007-11-15",
+  "title": "Cyclone Sidr",
+  "category": "natural-disaster",
+  "location": "Bangladesh",
+  "lives_lost": 3447,
+  "description": "Cyclone Sidr struck Bangladesh on November 15, 2007, causing destructive winds and coastal flooding. Officially reported death counts changed between assessments. Early fears that the toll might reach 15,000 were estimates, not confirmed fatalities.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-0a29ac7acee84ed7acce",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "3,447 is a November20 provisional official count, later repeated by GFDRR; ADRC records3,363 onDecember29 and World Bank later3,406.15,000 was a feared early estimate, not a confirmed alternative tally. Date secure; final reported deaths/missing reconciliation remains needed.",
+   "sources": [
+    {
+     "name": "Asian Disaster Reduction Center chronology",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=1111"
+    },
+    {
+     "name": "GFDRR disaster assessment",
+     "url": "https://www.gfdrr.org/en/bangladesh-2007-jdlna-assessed-us-17-billion-total-damage-losses-after-cyclone-sidr"
+    },
+    {
+     "name": "World Bank post-disaster analysis",
+     "url": "https://documents1.worldbank.org/curated/en/716231468014361142/pdf/678450NWP0Box3000BDS28ClimateChange.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2007-11-18",
@@ -637,7 +2234,8 @@
    "https://mediateka.suspilne.media/en/media/1610",
    "https://www.pravda.com.ua/news/2007/11/18/3320454/",
    "https://www.pravda.com.ua/news/2007/12/01/3329263/"
-  ]
+  ],
+  "archive_id": "events-0b0657c1dfff2e1df0eb"
  },
  {
   "date": "2009-11-20",
@@ -653,7 +2251,8 @@
   "source_urls": [
    "https://www.chinadaily.com.cn/china/2009-11/23/content_9020827.htm",
    "https://www.chinadaily.com.cn/dfpd/2010-12/02/content_11639756.htm"
-  ]
+  ],
+  "archive_id": "events-c2d0b228f598adbf16a4"
  },
  {
   "date": "2006-11-23",
@@ -669,7 +2268,8 @@
   "source_urls": [
    "https://www.iraqbodycount.org/database/incidents/k4710",
    "https://en.wikipedia.org/wiki/23_November_2006_Sadr_City_bombings"
-  ]
+  ],
+  "archive_id": "events-18b4656c074004749857"
  },
  {
   "date": "2009-11-23",
@@ -685,7 +2285,8 @@
   "source_urls": [
    "https://cpj.org/reports/2014/10/the-road-to-justice-where-impunity-thrives/",
    "https://www.pna.gov.ph/articles/1089129"
-  ]
+  ],
+  "archive_id": "events-3d7cfb31a5f593c95531"
  },
  {
   "date": "2008-11-26",
@@ -703,7 +2304,8 @@
    "https://www.satp.org/satporgtp/countries/india/document/papers/kasab-chargesheet.pdf",
    "https://bprd.nic.in/uploads/pdf/201608020516561486622Report.pdf",
    "https://archives.fbi.gov/archives/news/testimony/fbi-role-and-lessons-learned-in-mumbai-investigation"
-  ]
+  ],
+  "archive_id": "events-c0f049a1898636fc8b9f"
  },
  {
   "date": "2005-11-27",
@@ -719,7 +2321,42 @@
   "source_urls": [
    "https://www.mem.gov.cn/gk/sgcc/tbzdsgdcbg/2006/200612/t20061221_245276.shtml",
    "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%9C%E9%A3%8E%E7%9F%BF%E9%9A%BE"
-  ]
+  ],
+  "archive_id": "events-a406c116293006f2d294"
+ },
+ {
+  "date": "2009-11-27",
+  "title": "Nevsky Express Bombing",
+  "category": "terrorism",
+  "location": "Bologoye, Russia",
+  "lives_lost": 28,
+  "description": "On the night of November 27, 2009, a bomb equivalent to roughly 7 kg of TNT derailed the Nevsky Express train traveling from Moscow to St. Petersburg near Bologoye, killing 28 people and injuring about 90. Russian authorities declared the derailment a terrorist attack, blaming militants from the North Caucasus. It was the second bombing on the line, following an explosion in August 2007 that injured dozens.",
+  "sources": [
+   "CNN",
+   "The New York Times",
+   "BBC News",
+   "Radio Free Europe/Radio Liberty"
+  ],
+  "archive_id": "events-8eb308fe07ddbf335c33",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date, route, explosive cause and approximately 7 kg TNT corroborated. Reports give preliminary 25 then 26 and more than 100 wounded; final 28 and about 90 injuries not established by these sources. Do not substitute preliminary toll.",
+   "sources": [
+    {
+     "name": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/Death_Toll_Rises_In_Russian_Train_Bombing/1891411.html"
+    },
+    {
+     "name": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/Twenty_Two_Killed_In_Russian_Train_Crash/1889798.html"
+    }
+   ]
+  }
  },
  {
   "date": "2006-11-30",
@@ -735,7 +2372,8 @@
   "source_urls": [
    "https://images.gmanews.tv/html/research/2007/11/reming_ndcc.pdf",
    "https://citeseerx.ist.psu.edu/document?doi=56d858e1167f98d50823b2205a38c2f85dba80b7&repid=rep1&type=pdf"
-  ]
+  ],
+  "archive_id": "events-e971f82021e31e3e1201"
  },
  {
   "date": "2009-12-04",
@@ -755,7 +2393,47 @@
    "https://en.wikipedia.org/wiki/Lame_Horse_fire",
    "https://tass.com/russia/709055",
    "https://www.rferl.org/a/perm-nightclub-fire-sentencing-owner-2009/24973094.html"
-  ]
+  ],
+  "archive_id": "events-daae012451de694d097c"
+ },
+ {
+  "date": "2007-12-11",
+  "title": "Algiers bombings",
+  "category": "terrorism",
+  "location": "Algiers, Algeria",
+  "lives_lost": 41,
+  "description": "Two car bombs struck Algiers on December 11, 2007, near the Constitutional Court and UN offices. The United Nations confirms that 17 of its staff were killed. Published overall death counts differ.",
+  "sources": [
+   "BBC News",
+   "UN News"
+  ],
+  "archive_id": "events-00d6bc2ec7bc3311fefb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UN confirms17 staff andDecember11; anniversary message says20minutes between bombs, not10.37 is later official total, while secondary41 and early hospital67 differ. Exact overall toll cannot be established from UN staff-only memorial; remove unsupported exact interval.",
+   "sources": [
+    {
+     "name": "UN memorial",
+     "url": "https://www.un.org/en/memorial/algiers2007.shtml"
+    },
+    {
+     "name": "UN anniversary statement",
+     "url": "https://www.un.org/en/memorial/algiers2007_sg_statement_anniversary.shtml"
+    },
+    {
+     "name": "Al Jazeera December16 official count",
+     "url": "https://www.aljazeera.net/news/2007/12/16/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A5%D9%84%D9%89-37-%D9%82%D8%AA%D9%8A%D9%84%D8%A7"
+    },
+    {
+     "name": "Wikipedia event summary",
+     "url": "https://en.wikipedia.org/wiki/December_11%2C_2007%2C_Algiers_bombings"
+    }
+   ]
+  }
  },
  {
   "date": "2007-12-27",
@@ -771,6 +2449,48 @@
   "source_urls": [
    "https://www.refworld.org/sites/default/files/legacy-pdf/en/2010-4/4bcd50802.pdf",
    "https://main.un.org/securitycouncil/en/content/repertoire/commissions-and-investigative-bodies"
-  ]
+  ],
+  "archive_id": "events-daa8b09355ba05069cb6"
+ },
+ {
+  "date": "2008-12-27",
+  "title": "Gaza War (Operation Cast Lead) begins",
+  "category": "war",
+  "location": "Gaza Strip",
+  "lives_lost": 1400,
+  "description": "Israel began Operation Cast Lead with airstrikes in Gaza on December 27, 2008 and launched a ground invasion on January 3, 2009. The offensive continued until January 18. B'Tselem's later accounting recorded 1,391 Palestinian deaths and 13 Israeli deaths across the conflict; official Israeli and earlier published Palestinian totals differed.",
+  "sources": [
+   "BBC News",
+   "UN OCHA",
+   "The Guardian"
+  ],
+  "archive_id": "events-ca61b7809f980e8ec5f5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "The December 27 start and January 3 ground invasion are supported by the IDF chronology; the toll covers the whole offensive through January 18, not only the opening day. The original 1,400 numerically combines an older B'Tselem count of 1,387 Palestinians with 13 Israelis. B'Tselem subsequently revised its Palestinian count to 1,391 (1,404 combined), while other B'Tselem pages contain older 1,385/1,390 figures; Israel's official total of 1,166 Palestinians also differs in inclusion and classification. Preserve those contradictions: this batch does not certify one exact total or reconcile civilian/child definitions. Remove outdated subtotals, the unverified 40-at-headquarters detail and the compressed UN legal conclusion. Toll and geographic scope remain unresolved for integration.",
+   "sources": [
+    {
+     "name": "B'Tselem: September 2009 casualty release, with update notice",
+     "url": "https://www.btselem.org/press_releases/20090909"
+    },
+    {
+     "name": "B'Tselem: Gaza Strip background and updated conflict totals",
+     "url": "https://www.btselem.org/gaza_strip"
+    },
+    {
+     "name": "B'Tselem: Unwilling and Unable, 2021 retrospective",
+     "url": "https://www.btselem.org/sites/default/files/publications/202112_unwilling_and_unable_eng.pdf"
+    },
+    {
+     "name": "Israel Defense Forces: Operation Cast Lead chronology",
+     "url": "https://www.idf.il/en/mini-sites/wars-and-operations/operation-cast-lead/"
+    }
+   ]
+  }
  }
 ]

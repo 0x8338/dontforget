@@ -1,5 +1,44 @@
 [
  {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Repeal and replace Obamacare 'very quickly' in 2017",
+  "date_promised": "2017-01-20",
+  "due_date": "2017-12-31",
+  "status": "broken",
+  "description": "Trump repeatedly promised the Affordable Care Act would be repealed and replaced 'very quickly' after taking office. The Senate repeal effort collapsed on July 28, 2017 with John McCain's decisive vote, and the ACA remained law.",
+  "evidence": [
+   "Senate rejected repeal 2017-07-28",
+   "ACA remains in force through 2026"
+  ],
+  "sources": [
+   "C-SPAN",
+   "The New York Times",
+   "AP News"
+  ],
+  "archive_id": "promises-8935f7bb035bfc54a6be",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "July 28 repeal defeat supported. January 20 attribution and December 31 deadline for 'very quickly' need contemporaneous promise source. Through-2026 legal assertion not checked.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/amp/Politics/gop-skinny-repeal-option-health-care/story?id=48870581"
+    },
+    {
+     "name": "PBS News",
+     "url": "https://www.pbs.org/newshour/show/gop-repeal-failed-happens-obamacare-now"
+    }
+   ]
+  }
+ },
+ {
   "person": "Elon Musk",
   "role": "CEO of Tesla and SpaceX",
   "promise": "Musk forecast a fully autonomous Tesla demonstration from Los Angeles to New York by the end of 2017.",
@@ -20,7 +59,81 @@
    "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
    "https://www.elonmuskarchive.org/video/ted-2017-04-28",
    "https://www.roic.ai/quote/TSLA/transcripts/2017-year/4-quarter"
-  ]
+  ],
+  "archive_id": "promises-ec187beb88e727104edf"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Produce 5,000 Model 3 cars per week by the end of 2017",
+  "date_promised": "2017-05-03",
+  "due_date": "2017-12-31",
+  "status": "kept (delayed)",
+  "description": "Tesla reached a production rate of approximately 5,000 Model 3 vehicles per week in 2018, after its stated 2017 target.",
+  "evidence": [
+   "Tesla's second-quarter 2018 report says approximately 5,000 Model 3s were produced in multiple July weeks."
+  ],
+  "sources": [
+   "Tesla shareholder letters",
+   "Reuters",
+   "AP News"
+  ],
+  "archive_id": "promises-68630199e1e8a105c241",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "sources"
+   ],
+   "note": "Tesla filing supports achieving roughly 5,000/week in 2018, including multiple July weeks. May 3 2017 original forecast still needs original letter. 'Overnight shutdown push' unsupported; outcome was delayed achievement rather than partial production rate.",
+   "sources": [
+    {
+     "name": "Tesla",
+     "url": "https://ir.tesla.com/_flysystem/s3/sec/000156459018019254/tsla-10q_20180630.html"
+    },
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018018490/tsla-ex991_6.htm"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Solar Roof tiles (unveiled Oct 28, 2016) to begin installations by summer 2017",
+  "date_promised": "2016-06-30",
+  "due_date": "2017-12-31",
+  "status": "broken",
+  "description": "Tesla reported initial Solar Roof installations on employee homes in August 2017. These preceded broader customer availability.",
+  "evidence": [
+   "August 2017 reports confirm employee-home installations."
+  ],
+  "sources": [
+   "TechCrunch"
+  ],
+  "archive_id": "promises-c9b1cc690624826a6063",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Employee installations already existed in August 2017. Whether pledge required general customers remains unresolved; original June date and December deadline conflict with stated unveiling/summer timing.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2017-08-02/tesla-completes-its-first-solar-roof-installs"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2017/08/02/tesla-has-completed-its-first-ever-solar-roof-product-installations/"
+    }
+   ]
+  }
  },
  {
   "person": "Bank of England",
@@ -38,7 +151,8 @@
   ],
   "source_urls": [
    "https://www.bankofengland.co.uk/-/media/boe/files/inflation-report/2016/november-2016.pdf"
-  ]
+  ],
+  "archive_id": "promises-fc040593ad800638d9a4"
  },
  {
   "person": "Bruno Le Maire",
@@ -59,7 +173,8 @@
   "source_urls": [
    "https://www.tf1info.fr/politique/video-ministere-economie-bruno-le-maire-au-jt-de-20-heures-la-france-est-droguee-a-la-depense-publique-2056749.html",
    "https://www.insee.fr/en/statistiques/3375619"
-  ]
+  ],
+  "archive_id": "promises-73a7bbecbb52c0d8198c"
  },
  {
   "person": "Warren Buffett",
@@ -79,6 +194,49 @@
   "source_urls": [
    "https://www.berkshirehathaway.com/letters/2017ltr.pdf",
    "https://www.forbes.com/sites/rogeraitken/2017/09/02/berkshire-hathaways-buffett-odds-on-favourite-to-win-million-dollar-sp-500-bet/"
-  ]
+  ],
+  "archive_id": "promises-5d2d8b618e5f7f94cad1"
+ },
+ {
+  "person": "Ginni Rometty",
+  "role": "CEO, IBM",
+  "promise": "IBM would return to revenue growth in 2017",
+  "date_promised": "2017-01-01",
+  "due_date": "2017-12-31",
+  "status": "partial",
+  "description": "Rometty promised investors that IBM would return to revenue growth as its strategic imperatives scaled. IBM grew in the fourth quarter of 2017, but full-year 2017 revenue still declined slightly year over year (roughly $79.1 billion versus about $79.9 billion in 2016); sustained full-year growth resumed only in 2018.",
+  "evidence": [
+   "Q4 2017 returned to growth, but FY2017 revenue was still down ~1%",
+   "IBM reported full-year revenue growth again in 2018"
+  ],
+  "sources": [
+   "Silicon Republic (2017-04-18)",
+   "S"
+  ],
+  "source_urls": [
+   null,
+   "https://www.silicon.co.uk/cloud/server/ibm-returns-growth-227389)"
+  ],
+  "archive_id": "promises-2962d254d19675599135",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status",
+    "sources"
+   ],
+   "note": "Full-year revenue was $79.1 billion, down about 1%, while Q4 revenue rose 3.6%. Those outcomes are established, but the alleged January 1 promise and whether it required annual growth or an exit-quarter return to growth are not. That distinction controls the verdict.",
+   "sources": [
+    {
+     "name": "IBM: 2017 annual report",
+     "url": "https://www.ibm.com/investor/att/pdf/IBM_Annual_Report_2017.pdf"
+    },
+    {
+     "name": "IBM results filed with SEC",
+     "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465918002862/a18-3308_1ex99d1.htm"
+    }
+   ]
+  }
  }
 ]

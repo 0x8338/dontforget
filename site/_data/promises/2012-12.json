@@ -20,6 +20,90 @@
    "https://unfccc.int/resource/docs/2009/cop15/eng/11a01.pdf",
    "https://odi.org/en/insights/fast-start-finance-where-do-we-stand-at-the-end-of-2012/",
    "https://www.wri.org/research/us-contribution-fast-start-finance"
-  ]
+  ],
+  "archive_id": "promises-01d03b31d8b13fbd1fcc"
+ },
+ {
+  "person": "Mario Draghi",
+  "role": "ECB President",
+  "promise": "July 26, 2012, London speech: 'Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough'",
+  "date_promised": "2012-07-26",
+  "due_date": "2012-12-31",
+  "status": "kept",
+  "description": "OMT programme announced Sep 6, 2012; peripheral spreads collapsed and the euro was preserved",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Draghi speech 'Global Investment Conference', Jul 26, 2012,",
+   "ECB OMT announcement"
+  ],
+  "archive_id": "promises-59ff57264b787164a3e9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "Speech was 26 July 2012, not 2020. OMT announcement followed in September; there was no stated December 31 expiry for preserving the euro. Recommend treating the arbitrary due date and binary kept verdict as unresolved.",
+   "sources": [
+    {
+     "name": "European Central Bank",
+     "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2012/html/is120906.en.html"
+    },
+    {
+     "name": "European Parliament",
+     "url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2022/703367/IPOL_STU%282022%29703367_EN.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Timothy Geithner",
+  "role": "US Treasury Secretary",
+  "promise": "Jan 21, 2009 confirmation hearing: the administration would 'cut the deficit in half by the end of the president's first term'",
+  "date_promised": null,
+  "due_date": "2012-12-28",
+  "status": "broken",
+  "description": "FY2012 deficit was $1.09tn / 6.8% of GDP vs FY2009 $1.41tn / 9.8% — reduced by roughly a third, not half",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Geithner Senate Finance Committee confirmation testimony",
+   "CBO historical budget data (2009-2012)"
+  ],
+  "archive_id": "promises-aa969f8ff11199acf500",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "Found the January confirmation hearing and Obama's later deficit pledge, but not this exact Geithner attribution. 2020 date and December 28 deadline are unsupported. Fiscal-year baseline/projection and nominal-versus-GDP-share comparison must be fixed before assigning an outcome.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.marketscreener.com/news/latest/Geithner-says-financial-plan-due-in-weeks-13111434/"
+    },
+    {
+     "name": "US Treasury",
+     "url": "https://home.treasury.gov/news/press-releases/tg589"
+    },
+    {
+     "name": "The American Presidency Project",
+     "url": "https://www.presidency.ucsb.edu/documents/remarks-the-federal-budget-7"
+    }
+   ],
+   "original_values": {
+    "date_promised": "2020-01-01"
+   }
+  }
  }
 ]

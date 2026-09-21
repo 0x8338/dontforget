@@ -1,0 +1,112 @@
+[
+ {
+  "person": "Sam Bankman-Fried",
+  "role": "Founder & CEO, FTX",
+  "promise": "FTX is fine. Assets are fine.",
+  "date_promised": "2022-11-07",
+  "due_date": "2022-11-11",
+  "status": "broken",
+  "description": "The SEC complaint places Bankman-Fried's assurance about FTX assets on or about November 7, 2022 and alleges that customer assets had been diverted to Alameda.",
+  "evidence": [
+   "SEC alleges the assurance was made while Bankman-Fried knew customer assets had been used by Alameda."
+  ],
+  "sources": [
+   "Wikipedia",
+   "SEC"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
+   "https://www.sec.gov/litigation/litreleases/lr-25619"
+  ],
+  "archive_id": "promises-88189cc463c0b5a197bf",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "SEC complaint dates tweet on or about November 7, not November 8; remove exact 72-hour narrative. This is a present-tense assurance, not a dated future promise. Insolvency narrative and later convictions require separate judicial outcome source.",
+   "sources": [
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/files/litigation/complaints/2023/comp25616.pdf"
+    },
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/newsroom/press-releases/2022-234"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Hassan Al Thawadi",
+  "role": "Secretary General, Qatar 2022 Supreme Committee",
+  "promise": "The labor reforms will be completed by the time of the 2022 World Cup (as reported).",
+  "date_promised": "2018-02-01",
+  "due_date": "2022-11-20",
+  "status": "partial",
+  "description": "Amnesty documented continuing gaps in remedy for World Cup workers. Its November 2024 response to FIFA's legacy fund said that fund did not provide the requested compensation for exploited workers.",
+  "evidence": [
+   "Amnesty distinguished a FIFA legacy fund from a worker-compensation programme."
+  ],
+  "sources": [
+   "Amnesty International reports, 2022-2024",
+   "Reuters, 2018-2024"
+  ],
+  "archive_id": "promises-9fca41f7466658b9284e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status",
+    "sources"
+   ],
+   "note": "Amnesty's November 2024 account says FIFA legacy fund excluded compensation for exploited workers; the record's launched-2023 compensation-fund claim is unsupported. Original Al Thawadi quotation/date and full kafala abolition claim need primary legal/interview evidence.",
+   "sources": [
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2024/11/qatar-fifas-qatar-world-cup-legacy-fund-ignores-exploited-workers/"
+    },
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2022/12/fifa-misleading-world-on-remedy-for-migrant-workers/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Reed Hastings",
+  "role": "Co-CEO, Netflix",
+  "promise": "Ad-free is a real part of the brand promise.",
+  "date_promised": "2021-10-19",
+  "due_date": "2022-11-03",
+  "status": "broken",
+  "description": "On Netflix's Q3 2021 earnings call, Hastings reiterated that Netflix would remain ad-free as 'a real part of the brand promise.' After subscriber losses, Netflix launched its ad-supported tier ('Basic with Ads') on November 3, 2022, and later killed its ad-free basic plan.",
+  "evidence": [
+   "Hastings' Q3 2021 earnings call statement on ad-free brand promise",
+   "Netflix launched ad-supported tier 2022-11-03 and phased out ad-free basic plan in 2023"
+  ],
+  "sources": [
+   "Netflix Q3 2021 earnings call, 2021-10-19",
+   "Netflix press release, 2022-11-03"
+  ],
+  "archive_id": "promises-299cb28b04b24943f0cb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Search did not establish the alleged October 19, 2021 Hastings quotation. Netflix's primary launch notice supports a US advertising tier on November 3, 2022, but that launch date is not an original promise deadline. Do not infer a dated no-advertising guarantee from general brand rhetoric.",
+   "sources": [
+    {
+     "name": "Netflix advertising-plan launch",
+     "url": "https://about.netflix.com/en/news/our-newest-plan-now-available-us"
+    }
+   ]
+  }
+ }
+]

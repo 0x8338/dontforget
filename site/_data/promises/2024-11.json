@@ -1,0 +1,39 @@
+[
+ {
+  "person": "Boris Johnson",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "\"50,000 more nurses\" in the NHS.",
+  "date_promised": "2019-11-24",
+  "due_date": "2024-11-24",
+  "status": "kept",
+  "description": "The manifesto target of 50,000 additional nurses in the English NHS by 2024 was achieved by September 2023 on the government's full-time-equivalent measure. Nuffield noted unusually strong growth and dependence on overseas recruitment.",
+  "evidence": [
+   "Nuffield Trust states the 50,000-nurse manifesto pledge was achieved."
+  ],
+  "sources": [
+   "Nuffield Trust",
+   "BBC News",
+   "Health Foundation"
+  ],
+  "archive_id": "promises-5d129f9af44f0c4db264",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Dataset reverses the conclusion of its named source. Nuffield says 50,000 increase achieved by September 2023. Measure is full-time-equivalent English NHS nurses including general practice, excluding health visitors; it is not all UK NHS.",
+   "sources": [
+    {
+     "name": "Nuffield Trust",
+     "url": "https://www.nuffieldtrust.org.uk/resource/past-present-and-future-of-nhs-nurse-numbers"
+    },
+    {
+     "name": "Nuffield Trust",
+     "url": "https://www.nuffieldtrust.org.uk/news-item/more-nurses-in-frontline-care-but-momentum-must-be-maintained-to-meet-ambitious-nhs-workforce-plan"
+    }
+   ]
+  }
+ }
+]

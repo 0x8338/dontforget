@@ -1,0 +1,206 @@
+[
+ {
+  "person": "Rodrigo Duterte",
+  "role": "President of the Philippines",
+  "promise": "We will solve the drug problem within three to six months",
+  "date_promised": "2016-07-01",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Shortly after taking office in June 2016, Duterte promised to solve the Philippines' drug problem within three to six months by ordering an aggressive campaign that killed thousands of suspected drug users and dealers. The drug war instead continued throughout his six-year term, with police and vigilante killings in the tens of thousands and no evidence the drug trade was curtailed.",
+  "evidence": [
+   "Drug war deaths continued for years past the 3-6 month deadline (thousands killed)",
+   "Duterte repeatedly extended the deadline as the campaign went on into his full term"
+  ],
+  "sources": [
+   "BBC News (July 2016)",
+   "Reuters / Human Rights Watch (2016-2022 drug war statistics)"
+  ],
+  "archive_id": "promises-50cae6b27a8d05ce5534",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "December 2016 transcript and September reporting substantiate extensions and ongoing campaign. July 1 original date, exact three-to-six-month baseline and all-term death estimates remain unsupported; 'no evidence trade curtailed' is broader than these sources establish.",
+   "sources": [
+    {
+     "name": "ABC News Australia",
+     "url": "https://www.abc.net.au/news/2016-09-19/duterte-appeals-for-extension-to-war-on-drugs/7856924"
+    },
+    {
+     "name": "MindaNews",
+     "url": "https://mindanews.com/duterte-files/2017/01/duterte-transcripts-cnn-philippines-interview-29-dec-2016__trashed/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Evan Spiegel",
+  "role": "Snap",
+  "promise": "Spectacles (Nov 2016) would launch Snap's hardware era as a 'camera company' product — expected to sell well",
+  "date_promised": "2016-06-30",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Only ~150,000 pairs sold by Oct 2017 (~$8M revenue); Snap took a ~$40M inventory write-down and later admitted Spectacles was the 'wrong decision'.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Variety, 2016",
+   "TechRadar, 2018"
+  ],
+  "source_urls": [
+   null,
+   "https://www.techradar.com/news/snapchat-admits-it-made-the-wrong-decision-on-its-spectacles"
+  ],
+  "archive_id": "promises-afc7e35d1d5b4f8d2d9e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "sources",
+    "evidence"
+   ],
+   "note": "Sources substantiate sales/write-down, but no measurable promise, June 30 announcement or year-end sales deadline was found. 'Expected to sell well' is not an attributable commitment. $8m revenue and 'wrong decision' scope require original financials/interview.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2017/10/03/snap-has-sold-over-150k-pairs-of-spectacles-since-launch/"
+    },
+    {
+     "name": "Los Angeles Times",
+     "url": "https://www.latimes.com/business/technology/la-fi-tn-snapchat-spectacles-20180302-story.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Palmer Luckey (Palmer Freeman Luckey)",
+  "role": "Oculus",
+  "promise": "Oculus Rift consumer headset would sell for 'around $350' (2014 statements)",
+  "date_promised": "2014-06-30",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Oculus announced a $599 consumer Rift price in January 2016; release followed on March 28. Luckey later acknowledged that his September 2015 price-range comments were poorly communicated.",
+  "evidence": [
+   "Contemporary review distinguishes January pricing announcement from March 28 release.",
+   "Luckey's account places the ballpark statement in September 2015."
+  ],
+  "sources": [
+   "The Verge"
+  ],
+  "archive_id": "promises-b6c95cd90e89d2f8d65d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "sources"
+   ],
+   "note": "January 2016 was price/preorder announcement; consumer release was March 28. Luckey's acknowledged ballpark remark was September 2015 and included 'cost more', not a guaranteed $350 price. Exact original date still unresolved.",
+   "sources": [
+    {
+     "name": "GameSpot",
+     "url": "https://www.gamespot.com/articles/vr-2016-report-card/1100-6446117/"
+    },
+    {
+     "name": "Road to VR",
+     "url": "https://roadtovr.com/oculus-founder-talks-pricing-remote-touch-reddit-ama/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Carlos Ghosn",
+  "role": "CEO, Renault-Nissan Alliance",
+  "promise": "The alliance would sell 1.5 million electric vehicles cumulatively by 2016",
+  "date_promised": "2011-03-01",
+  "due_date": "2016-12-31",
+  "status": "broken",
+  "description": "Ghosn's 2011 Tokyo Motor Show speech set an Alliance target of 1.5 million cumulative electric-vehicle sales by fiscal 2016. In November 2013 he acknowledged that the sales timetable would be delayed by several years.",
+  "evidence": [
+   "Cumulative EV sales around 250,000 by mid-2015, far below the 1.5 million pace",
+   "Ghosn admitted the 2016 target would be missed (November 2013)"
+  ],
+  "sources": [
+   "The Guardian",
+   "NBC News (2013-11-10)",
+   "Autoblog (2013-11-12)"
+  ],
+  "source_urls": [
+   "https://www.theguardian.com/environment/2015/jul/01/are-we-on-the-brink-of-an-electric-car-revolution)",
+   null,
+   null
+  ],
+  "archive_id": "promises-21378e22c772a34434f8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Primary speech specifies fiscal 2016, not necessarily calendar December 31, 2016. Later admission supports a missed original target, but March 1 announcement and fiscal cutoff are not established by the retrieved speech.",
+   "sources": [
+    {
+     "name": "Nissan: 2011 Tokyo Motor Show CEO speech",
+     "url": "https://www.nissan-global.com/COMMON/HTML/MOTORSHOW/2011/TMS_speeches_e.html"
+    },
+    {
+     "name": "BFM: November 2013 target delay",
+     "url": "https://www.bfmtv.com/economie/entreprises/transports/voitures-electriques-renault-nissan-repousse-ses-objectifs_AN-201311110162.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Eddie Lampert",
+  "role": "CEO, Sears Holdings",
+  "promise": "Sears would return to profitability",
+  "date_promised": "2015-05-06",
+  "due_date": "2016-12-31",
+  "status": "partial",
+  "description": "Sears Holdings reported second-quarter 2015 net income of $208 million attributable to shareholders. The earlier $155-205 million range was guidance rather than the final result; a single profitable quarter does not establish sustained profitability.",
+  "evidence": [
+   "First quarterly profit under Lampert reported August 2015",
+   "Annual net losses continued; Chapter 11 filing October 2018"
+  ],
+  "sources": [
+   "WWD",
+   "Forbes"
+  ],
+  "source_urls": [
+   "https://wwd.com/business-news/retail/feature/edward-lamperts-sears-profitable-10125012/)",
+   "https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/)"
+  ],
+  "archive_id": "promises-181b7a38b558cbe6607a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "The $155-205 million range was preliminary guidance, not final quarterly profit. Actual attributable net income was $208 million. Neither eventual profitability language nor one disposal-assisted quarter establishes a December 2016 deadline or partial fulfillment of sustainable profitability.",
+   "sources": [
+    {
+     "name": "Sears Holdings: Q2 2015 results",
+     "url": "https://www.searsholdings.com/press-releases/pr/1905"
+    },
+    {
+     "name": "Forbes: preliminary profit estimate",
+     "url": "https://www.forbes.com/sites/nathanvardi/2015/08/03/sears-shares-plunge-10-even-as-billionaire-eddie-lampert-engineers-first-profit-as-ceo/"
+    }
+   ]
+  }
+ }
+]

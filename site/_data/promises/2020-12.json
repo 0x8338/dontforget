@@ -18,7 +18,116 @@
   "source_urls": [
    "https://www.govinfo.gov/content/pkg/DCPD-202000366/pdf/DCPD-202000366.pdf",
    "https://content.govdelivery.com/accounts/USFDA/bulletins/2b0c5c3"
-  ]
+  ],
+  "archive_id": "promises-f7af6448e5f8ba8e43cc"
+ },
+ {
+  "person": "Xi Jinping",
+  "role": "President of China",
+  "promise": "Lift all rural poor out of poverty by 2020",
+  "date_promised": "2017-10-18",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Xi promised at the 19th Party Congress that China would eradicate poverty by 2020. The government declared success on February 25, 2021, saying 98.99 million rural residents had been lifted out of poverty. World Bank data broadly supports a dramatic reduction, though the official 'zero poverty' figure is contested.",
+  "evidence": [
+   "Official declaration of poverty elimination 2021-02-25",
+   "World Bank data confirms extreme poverty fell to under 1% under China's standard"
+  ],
+  "sources": [
+   "Xinhua",
+   "State Council of China",
+   "World Bank"
+  ],
+  "archive_id": "promises-7fc603c2f66364fc8044",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "Retrieved World Bank methodological material distinguishes national from international poverty thresholds but does not establish this announcement date, 98.99 million figure or the asserted under-1% statistic. Official declaration is not independent verification of universal elimination.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/193310-how-is-the-international-poverty-line-derived-how"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Developed-country parties to the UNFCCC",
+  "role": "International agreement signatories (Copenhagen Accord / Paris Agreement)",
+  "promise": "Mobilise $100 billion per year in climate finance for developing countries by 2020",
+  "date_promised": "2009-12-18",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Developed countries pledged to mobilise $100 billion annually for developing countries by 2020. OECD reports $83.3 billion in 2020, $89.6 billion in 2021 and $115.9 billion in 2022, the first year exceeding the target.",
+  "evidence": [
+   "OECD identifies first fulfillment in 2022, two years after the original target."
+  ],
+  "sources": [
+   "OECD",
+   "UNFCCC",
+   "Reuters"
+  ],
+  "archive_id": "promises-bbb84d7a8d0608fd3032",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "OECD confirms 83.3 billion in 2020 and first reaching target in 2022. Developed countries, not all UNFCCC parties, were the financing providers. Exact Copenhagen adoption date needs agreement text. Annual ongoing obligation should not be collapsed into permanently kept status.",
+   "sources": [
+    {
+     "name": "OECD",
+     "url": "https://www.oecd.org/en/publications/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_19150727-en/full-report/component-2.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "One million Tesla robotaxis on the road by 2020",
+  "date_promised": "2019-04-22",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "At Autonomy Day Musk said Tesla would launch a robotaxi network and that there would be one million robotaxis on the road in 2020. No Tesla robotaxi service existed by the deadline, and even a limited robotaxi launch only arrived in pilot form in 2025.",
+  "evidence": [
+   "Zero robotaxis deployed by end of 2020",
+   "Autonomous ride-hail pilots did not start until 2025"
+  ],
+  "sources": [
+   "Tesla Autonomy Day",
+   "Bloomberg",
+   "Reuters"
+  ],
+  "archive_id": "promises-6498b874c1d21cba626b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Search returned secondary prediction trackers pointing to contemporaneous CNBC reporting. Do not use the tracker alone to certify the quote, April 22 timing, zero deployments and 2025 launch history; linked original report needs checking.",
+   "sources": [
+    {
+     "name": "MuskOmeter",
+     "url": "https://www.muskometer.com/predictions/236274ae-c87a-43a2-8b46-16fc26f20341"
+    },
+    {
+     "name": "MuskOmeter",
+     "url": "https://www.muskometer.com/predictions/e40efd57-0e83-45a3-9811-a20cf38d7d5d"
+    }
+   ]
+  }
  },
  {
   "person": "Hu Jintao",
@@ -39,7 +148,308 @@
   "source_urls": [
    "https://www.fmprc.gov.cn/eng/xw/zwbd/202405/t20240530_11353767.html",
    "https://china.caixin.com/2012-11-08/100457743.html"
-  ]
+  ],
+  "archive_id": "promises-07c35f781520da073e12"
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Facebook/Meta",
+  "promise": "Libra cryptocurrency would launch in 2020 (subject to US regulatory approval).",
+  "date_promised": "2019-10-23",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "In congressional testimony on October 23, 2019, Zuckerberg committed to a 2020 launch window for the Libra stablecoin announced June 18, 2019. Regulatory pushback never cleared, the project was rebranded Diem in December 2020, and the Diem Association shut down in January 2022, selling assets to Silvergate.",
+  "evidence": [
+   "Zuckerberg's Oct 23, 2019 House testimony naming 2020 as launch target",
+   "Libra rebranded Diem in Dec 2020 after regulators balked",
+   "Diem Association wound down Jan 2022 and sold to Silvergate"
+  ],
+  "sources": [
+   "Reuters",
+   "The Verge",
+   "CNBC"
+  ],
+  "archive_id": "promises-e3b6ad9ae29b0435e3c0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Congressional record confirms regulatory approval condition. Does not establish Zuckerberg gave an unconditional 2020 launch deadline in testimony. Need original launch plan and Diem sale announcement to check dissolution date/outcome.",
+   "sources": [
+    {
+     "name": "US House of Representatives",
+     "url": "https://huizenga.house.gov/news/documentsingle.aspx?documentid=400986"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2019/10/23/zuckerberg-testimony/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jeff Bezos",
+  "role": "Founder and CEO of Blue Origin",
+  "promise": "New Glenn rocket's inaugural flight \"no earlier than 2020.\"",
+  "date_promised": "2016-09-12",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "At the September 2016 unveiling, Blue Origin and Bezos set the orbital rocket's first launch for 2020 (reaffirmed through 2017-2019 as the target slipped). The first New Glenn launch did not occur until January 16, 2025 — five years late, and its booster was lost on reentry.",
+  "evidence": [
+   "Sept 12, 2016 announcement of inaugural flight \"no earlier than 2020\"",
+   "First launch (NG-1) occurred Jan 16, 2025",
+   "Repeated launch delays in 2021-2024 (ULA-78 launch slot disputes etc.)"
+  ],
+  "sources": [
+   "Reuters",
+   "Ars Technica",
+   "Wikipedia: New Glenn"
+  ],
+  "archive_id": "promises-ac42a5730510a043c6cb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "Primary mission release confirms January 16, 2025 first launch and orbit. 'No earlier than 2020' is an earliest date, not a deadline; cannot score broken from that wording. Original announcement and alleged ULA-78 disputes unverified.",
+   "sources": [
+    {
+     "name": "Blue Origin",
+     "url": "https://www.blueorigin.com/news/new-glenn-ng-1-mission"
+    }
+   ]
+  }
+ },
+ {
+  "person": "United Nations (CBD COP 10)",
+  "role": "Convention on Biological Diversity",
+  "promise": "Achieve the 20 Aichi Biodiversity Targets by 2020.",
+  "date_promised": "2010-10-29",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Adopted at COP 10 in Nagoya, October 2010, as a 20-target plan to 2020 covering habitat protection, species loss, pollution and sustainable use. The 2020 Global Biodiversity Outlook 5 reported that most targets were not met (and none fully achieved in the world at large), with biodiversity declining faster than ever.",
+  "evidence": [
+   "Global Biodiversity Outlook 5 (2020) found most Aichi targets missed",
+   "Zero of 20 targets fully achieved at the global level per CBD",
+   "2024 study found countries failed to meet the targets due to weak implementation and funding"
+  ],
+  "sources": [
+   "Convention on Biological Diversity (GBO-5)",
+   "Wikipedia: Aichi Biodiversity Targets",
+   "Reuters"
+  ],
+  "archive_id": "promises-5b624ffb2cf47eb0b623",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "CBD supports adoption at COP10 and none of 20 fully achieved globally, with six partially achieved. Individual targets had different interim dates; exact adoption UTC date and unidentified 2024 study/causal claims still need evidence.",
+   "sources": [
+    {
+     "name": "Convention on Biological Diversity",
+     "url": "https://www.cbd.int/article/2020-the-year-that-was"
+    },
+    {
+     "name": "Convention on Biological Diversity",
+     "url": "https://www.cbd.int/decisions/cop?m=cop-10"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Shinzo Abe",
+  "role": "Prime Minister of Japan",
+  "promise": "We will expand Japan's nominal GDP from 500 trillion yen to 600 trillion yen by 2020",
+  "date_promised": "2015-09-24",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "Abe set a nominal GDP target of ¥600 trillion as the centerpiece of his 'one hundred million active society' agenda, promised in his Diet policy speech and repeatedly reaffirmed until he left office in 2020. Japan's nominal GDP in fiscal 2020 was about ¥539 trillion, roughly ¥60 trillion short, and Abe admitted in 2019 that reaching the goal was difficult.",
+  "evidence": [
+   "Fiscal 2020 nominal GDP came in at approximately ¥539 trillion, well below ¥600 trillion",
+   "Abe acknowledged in late 2019 that the ¥600 trillion goal was 'difficult' due to weak growth"
+  ],
+  "sources": [
+   "Reuters (September 2015)",
+   "Japan Times / Kyodo (2019-2021 coverage of GDP figures)"
+  ],
+  "archive_id": "promises-b81af20c39076599ae2e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "Government speeches discuss 600-trillion-yen ambition, but this search did not establish a September 24 Diet speech or binding 2020 deadline. Fiscal/calendar GDP and data vintage need separation; 539-trillion outcome and 2019 quote unverified.",
+   "sources": [
+    {
+     "name": "Prime Minister's Office of Japan",
+     "url": "https://japan.kantei.go.jp/97_abe/statement/201511/1214703_9932.html"
+    },
+    {
+     "name": "Prime Minister's Office of Japan",
+     "url": "https://japan.kantei.go.jp/97_abe/statement/201601/1215627_10999.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "New Tesla Roadster supercar (unveiled Nov 2017) to start production in 2020",
+  "date_promised": "2017-06-30",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "The Roadster announced in November 2017 did not enter production by its 2020 target. September 2026 reporting still described a forthcoming reveal.",
+  "evidence": [
+   "September 2026 coverage describes the product as six years beyond its original production target."
+  ],
+  "sources": [
+   "CNET, 2025"
+  ],
+  "archive_id": "promises-2798a28ceeeebf1f0136",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Current reporting supports delay beyond 2020 and planned 2026 reveal, not an exact count of eight postponements. June 30 predates November 2017 announcement; exact UTC date unresolved.",
+   "sources": [
+    {
+     "name": "T3",
+     "url": "https://www.t3.com/auto/electric-vehicles/what-to-expect-from-the-extremely-delayed-tesla-roadster-launch"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-tesla-roadsters-october-reveal-looks-like-another-piece-of-pantomime-its-a-shame-the-once-ground-breaking-company-doesnt-focus-on-cars-anymore"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Brian Chesky",
+  "role": "Airbnb",
+  "promise": "Pledge of $250 million to compensate hosts for COVID-19 cancellations (March 30, 2020)",
+  "date_promised": "2020-03-30",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Airbnb's March 30, 2020 host letter pledged $250 million for qualifying COVID-19 cancellations, paying 25% of what hosts would receive under their cancellation policies.",
+  "evidence": [
+   "Host letter announces funding and eligibility; it is not a final disbursement report."
+  ],
+  "sources": [
+   "USA Today"
+  ],
+  "archive_id": "promises-efb81441fca7777ff495",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Primary host letter is March 30. Eligibility concerns reservation check-in dates and bookings before March 14, not cancellation dates alone. Announcement does not establish all $250m paid; kept and year-end deadline remain unverified.",
+   "sources": [
+    {
+     "name": "Airbnb",
+     "url": "https://news.airbnb.com/a-letter-to-hosts"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Daniel Ek",
+  "role": "Spotify",
+  "promise": "Expect non-music content to account for more than 20% of Spotify listening over time",
+  "date_promised": "2019-02-06",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Daniel Ek's February 6, 2019 Audio-First essay forecast that more than 20% of Spotify listening would eventually be non-music. It did not specify a deadline.",
+  "evidence": [
+   "Original essay uses an open-ended forecast, not a 2020 target."
+  ],
+  "sources": [
+   "Spotify Newsroom",
+   "The Verge"
+  ],
+  "source_urls": [
+   null,
+   "https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai"
+  ],
+  "archive_id": "promises-475e4a5b8a3d9fe5934b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Original February 6 forecast says 'over time', not by 2020. No primary listening-hours figure supports the quarter-of-listening outcome; user participation in podcasts is not share of listening.",
+   "sources": [
+    {
+     "name": "Spotify",
+     "url": "https://newsroom.spotify.com/2019-02-06/audio-first/"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple",
+  "promise": "Apple's services business would grow to the size of a Fortune 100 company (July 2016; reiterated in Jan 2017 with a 2020 timeframe)",
+  "date_promised": "2016-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Services revenue hit $53.8 billion in FY2020 — larger than the typical Fortune 100 company's annual revenue.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Yahoo Finance, July 2016"
+  ],
+  "archive_id": "promises-2fb1fe7a142c51309f0b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "2016 Fortune-100 forecast referred to next fiscal year, not 2020. Likely conflates it with a later services-doubling target. Original date, exact scope, Fortune-100 revenue threshold and outcome require earnings transcripts; 'typical' is not the cutoff.",
+   "sources": [
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2016/10/26/apple-services-revenue/"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://fortune.com/2016/08/02/apple-isnt-doomed/"
+    }
+   ]
+  }
  },
  {
   "person": "Christiana Figueres",
@@ -62,7 +472,8 @@
    "https://unfccc.int/news/new-initiative-targets-2020-in-race-to-tackle-dangerous-climate-change",
    "https://www.nature.com/articles/546593a",
    "https://www.unep.org/interactives/emissions-gap-report/2024/"
-  ]
+  ],
+  "archive_id": "promises-75438f366b6613d82342"
  },
  {
   "person": "IEA",
@@ -84,7 +495,8 @@
   "source_urls": [
    "https://www.iea.org/reports/technology-roadmap-carbon-capture-and-storage-2009",
    "https://www.iea.org/news/ieacslf-report-to-the-muskoka-g8-leaders-summit-carbon-capture-and-storage-crucial-for-mitigating-climate-change"
-  ]
+  ],
+  "archive_id": "promises-2f5050241e160d80885d"
  },
  {
   "person": "High-Level Commission on Carbon Prices (Nicholas Stern, Joseph Stiglitz)",
@@ -105,7 +517,248 @@
   "source_urls": [
    "https://unfccc.int/news/a-strong-carbon-price-needed-to-drive-large-scale-climate-action",
    "https://acdi.uct.ac.za/articles/2017-05-29-leading-economists-strong-carbon-price-needed-drive-large-scale-climate-action"
-  ]
+  ],
+  "archive_id": "promises-f3910877dcd0e74aa6ac"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, Tesla",
+  "promise": "Gigafactory 1 to reach a projected capacity of 35 GWh per year of battery cells (50 GWh/yr of packs) by 2020.",
+  "date_promised": "2016-05-04",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "Tesla's 2014-2016 Gigafactory plans projected 35 GWh/yr of cell capacity by 2020. Panasonic confirmed the theoretical 35 GWh/yr capacity was reached by May 2019, with run-rate ~30 GWh/yr by end-2019 - on track and eventually far exceeded.",
+  "evidence": [
+   "Panasonic President Kazuhiro Tsuga (May 2019): factory achieved theoretical capacity of 35 GWh/yr, with 24 GWh utilization at the time",
+   "Wikipedia Gigafactory Nevada: 35 GWh/yr cells / 50 GWh/yr packs was the projected 2020 capacity",
+   "Capacity expanded beyond 100 GWh/yr by 2022-2023"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Tesla"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Gigafactory_Nevada",
+   "https://tesla.gcs-web.com/static-files/8b230e63-5c6a-4c12-a209-33e0f1d7e223"
+  ],
+  "archive_id": "promises-85ee7ae75e33199f662b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description"
+   ],
+   "note": "The 35 GWh cells/50 GWh packs projection is supported by a 2014 company release, and Panasonic reported 35 GWh installed cell capacity by March 2019. This does not establish pack output, utilization, the May 2016 announcement date, or the claim of more than 100 GWh by 2022-23. Do not certify the compound kept status.",
+   "sources": [
+    {
+     "name": "Tesla",
+     "url": "https://ir.tesla.com/press-release/panasonic-and-tesla-sign-agreement-gigafactory"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/technology-news/panasonic-says-reviewing-further-investment-in-tesla-gigafactory-1833344"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Angela Merkel",
+  "role": "Chancellor of Germany",
+  "promise": "One million electric vehicles on German roads by 2020.",
+  "date_promised": "2010-05-03",
+  "due_date": "2020-12-31",
+  "status": "partial",
+  "description": "Germany's 2010 National Electromobility Development Plan (championed by Merkel) targeted 1 million EVs by 2020. Only ~589,000 plug-in cars were on the road on 1 January 2021; the millionth EV was registered in July 2021 - about six months late.",
+  "evidence": [
+   "588,944 plug-in electric cars in circulation on 1 January 2021 (KBA) vs 1 million target",
+   "Wikipedia: target 'achieved with a six months delay in July 2021'",
+   "Roughly 40% shortfall at the actual deadline"
+  ],
+  "sources": [
+   "Wikipedia",
+   "KBA"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Plug-in_electric_vehicles_in_Germany",
+   "https://www.kba.de/DE/Home/home_node.html"
+  ],
+  "archive_id": "promises-e97cd90faa3eae312dfb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description"
+   ],
+   "note": "The 2020 target and July 2021 ministerial expectation are documented. The cited July article is an expectation, not a final registration count. Exact 2010 announcement day, the 588,944 stock total and a completed million milestone need KBA evidence. If final July achievement is confirmed, use kept (delayed), not partial.",
+   "sources": [
+    {
+     "name": "German Federal Government",
+     "url": "https://www.bundesregierung.de/breg-en/service/germany-to-become-the-leading-market-474740"
+    },
+    {
+     "name": "Tagesspiegel",
+     "url": "https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/e-auto-zulassungen-knacken-millionen-grenze"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Arnold Schwarzenegger (State of California)",
+  "role": "Governor of California - AB 32 (2006)",
+  "promise": "Reduce California's greenhouse gas emissions to 1990 levels by 2020 (statutory deadline 31 December 2020).",
+  "date_promised": "2006-09-27",
+  "due_date": "2020-12-31",
+  "status": "kept",
+  "description": "CARB initially reported that California met its AB 32 target in 2016. Its revised inventory places achievement in 2014, after adjusting that year's emissions to 428.2 MMTCO2e, below the 431 MMTCO2e 2020 limit.",
+  "evidence": [
+   "CARB's inventory FAQ explains the revision from 2016 to 2014."
+  ],
+  "sources": [
+   "Wikipedia",
+   "California Air Resources Board"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/California_Global_Warming_Solutions_Act_of_2006",
+   "https://ww2.arb.ca.gov/our-work/programs/ab-32-climate-change-scoping-plan"
+  ],
+  "archive_id": "promises-fd9a47ec35321dfc7b48",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "The original report did identify 2016. CARB's revised inventory says the 431 MMT threshold was met in 2014 instead. Keep reporting vintage explicit. Exact signing day remains to be checked.",
+   "sources": [
+    {
+     "name": "California Air Resources Board",
+     "url": "https://ww2.arb.ca.gov/news/climate-pollutants-fall-below-1990-levels-first-time"
+    },
+    {
+     "name": "California Air Resources Board",
+     "url": "https://ww2.arb.ca.gov/resources/documents/frequently-asked-questions-greenhouse-gas-emissions-inventory-0"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Zhou Xiaochuan",
+  "role": "PBOC Governor",
+  "promise": "2015-2016: China would achieve 'basic RMB capital-account convertibility' within five years, codified as a goal of the 13th Five-Year Plan (2016-2020)",
+  "date_promised": "2020-01-01",
+  "due_date": "2020-12-31",
+  "status": "broken",
+  "description": "After the Aug 2015 devaluation, capital controls were tightened instead (outflow curbs, QFII limits); full or even basic convertibility was not achieved by 2020",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "State Council 'Outline of the 13th Five-Year Plan', Mar 2016, gov.cn",
+   "Reuters coverage of PBOC convertibility goal, 2015-2016"
+  ],
+  "archive_id": "promises-d87886bc7ac32e4dd1ff",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "Sources discuss 2015 and the 12th Five-Year Plan, not the asserted five-year 13th-plan promise. The 2020 announcement date, exact Zhou quote, basic-versus-full convertibility definition and 2020 outcome comparison are not established. Do not substitute full convertibility for the narrower stated concept.",
+   "sources": [
+    {
+     "name": "State Administration of Foreign Exchange",
+     "url": "https://www.safe.gov.cn/en/2015/0605/1159.html"
+    },
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/external/spring/2015/imfc/statement/eng/chn.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Ray Dalio",
+  "role": "Bridgewater Associates founder",
+  "promise": "Feb-Mar 2019: the US economy would likely enter a recession 'by 2020' (within ~2 years) due to the business cycle",
+  "date_promised": "2020-01-01",
+  "due_date": "2020-12-28",
+  "status": "kept",
+  "description": "Dalio publicly discussed recession risk during 2019, including a 40% probability before the 2020 US election. A probability forecast is not a promise to cause or prevent a recession.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "CNBC interview, Feb-Mar 2019",
+   "NBER Business Cycle Dating Committee, Jun 2020, nber.org"
+  ],
+  "archive_id": "promises-0f72f13e17c4f2678c97",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "Located January 22, 2019 risk commentary and August 2019 40% probability, not a Feb-Mar guarantee of recession. It should not be scored as a kept promise. 2020 announcement and December 28 deadline unsupported. Preserve probability and causal caveat; no replacement exact date for the alleged Feb-Mar statement.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.youtube.com/watch?v=RcYe8BiIrZE"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.lse.co.uk/news/ray-dalio-says-sees-40-chance-of-a-us-recession-before-2020-election-cnbc-interview-u48re9k85zcuy13.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Richard Branson",
+  "role": "Founder, Virgin Galactic",
+  "promise": "Virgin Galactic would begin commercial space tourism flights in 2020",
+  "date_promised": "2019-06-30",
+  "due_date": "2020-12-31",
+  "status": "kept (delayed)",
+  "description": "Virgin Galactic began commercial research flights with Galactic 01 on June 29, 2023. Galactic 02, its first private-astronaut flight, followed on August 10, 2023. These milestones should not be conflated.",
+  "evidence": [
+   "Galactic 01 commercial flight took place 29 June 2023",
+   "BBC reported in December 2020 that flights would begin in 2021"
+  ],
+  "sources": [
+   "BBC News",
+   "AeroTime"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/science-environment-55279067)",
+   "https://www.aerotime.aero/articles/virgin-galactic-completes-its-first-commercial-flight)"
+  ],
+  "archive_id": "promises-0e7613aa6b8225385b7c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise"
+   ],
+   "note": "June 29, 2023 was a commercial research mission, not its first private-tourist flight. The latter took place August 10. Original June 30, 2019 pledge date and exact 2020 wording remain unresolved; delayed status is plausible only once that baseline is sourced.",
+   "sources": [
+    {
+     "name": "Virgin Galactic: inaugural commercial flight",
+     "url": "https://investors.virgingalactic.com/news/news-details/2023/Virgin-Galactic-Completes-Inaugural-Commercial-Spaceflight/default.aspx"
+    },
+    {
+     "name": "Virgin Galactic: first private-astronaut flight",
+     "url": "https://investors.virgingalactic.com/news/news-details/2023/Virgin-Galactic-Completes-First-Private-Astronaut-Spaceflight-Galactic-02/default.aspx"
+    }
+   ]
+  }
  },
  {
   "person": "Kevin Johnson",
@@ -127,6 +780,7 @@
    "https://www.fastcompany.com/90187927/exclusive-starbucks-to-ditch-plastic-straws-by-2020",
    "https://stories.starbucks.com/uploads/2021/04/Starbucks-2020-Global-Environmental-and-Social-Impact-Report.pdf",
    "https://www.vendingmarketwatch.com/coffee-service/news/21154821/starbucks-announces-rollout-of-new-strawless-lids-throughout-us-and-canada"
-  ]
+  ],
+  "archive_id": "promises-e1824165ffb7eb630a07"
  }
 ]

@@ -1,0 +1,35 @@
+[
+ {
+  "person": "Steven Mnuchin",
+  "role": "US Treasury Secretary",
+  "promise": "Mnuchin said the administration aimed to pass tax reform before Congress's August 2017 recess (paraphrase).",
+  "date_promised": "2017-02-23",
+  "due_date": "2017-08-28",
+  "status": "broken",
+  "description": "Tax Cuts and Jobs Act not signed until Dec 22, 2017 — ~4 months past the promised deadline (delivered in substance)",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Mnuchin CNBC interview",
+   "White House signing statement"
+  ],
+  "archive_id": "promises-a7b3f7ea74895e7f733b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "The CNBC commitment was February 23, 2017, not April 26 or 2020. It specified the August congressional recess, not August 28. Exact recess-boundary date and later enacted bill scope need separate checking before replacing due_date or choosing kept (delayed).",
+   "sources": [
+    {
+     "name": "Associated Press / PBS",
+     "url": "https://www.pbs.org/newshour/politics/mnuchin-says-goal-pass-tax-reform-august"
+    }
+   ]
+  }
+ }
+]

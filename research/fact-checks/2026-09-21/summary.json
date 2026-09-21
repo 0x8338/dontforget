@@ -1,39 +1,41 @@
 {
   "baseline_commit": "15704590b8c3bf33eabd6bed57a47ef01d54b20f",
-  "integrated_at": "2026-09-21T06:30:37Z",
+  "integrated_at": "2026-09-21T08:11:58Z",
   "counts": {
     "events": {
       "original": 709,
       "audited": 709,
       "audit_results": {
         "verified": 42,
-        "published_changed": 386,
-        "correction": 395,
-        "published_fact_corrections": 348,
-        "unresolved": 272
+        "published_changed": 709,
+        "correction": 396,
+        "published_content_changes": 505,
+        "unresolved": 271
       },
-      "withheld": 323,
+      "withheld": 0,
+      "needs_review": 322,
       "added": 13,
-      "published": 399
+      "published": 722
     },
     "promises": {
       "original": 449,
       "audited": 449,
       "audit_results": {
         "correction": 362,
-        "published_changed": 149,
-        "published_fact_corrections": 148,
+        "published_changed": 449,
+        "published_content_changes": 381,
         "unresolved": 86,
         "verified": 1
       },
-      "withheld": 300,
+      "withheld": 0,
+      "needs_review": 300,
       "added": 5,
-      "published": 154
+      "published": 454
     }
   },
   "output_sha256": {
-    "events": "9d4379725d9f010663733536acad89bdbcf1db2ca176eb9aab5c1fbaeef2ae0f",
-    "promises": "8293ea9d88bd30707b6da747e79716f0456e2a922c2392268d63540c66589fdb",
-    "checkpoint": "1e9b333beb5ce2681df132f7d6aa585704c4e1c9235b98e4c213bf5d307bd297"
+    "events": "d69317aa8d2ddae92c451a1a7d8cd2e3e3c2baf6f7311a8deb7ac0d3229b2b69",
+    "promises": "7b7b06a7c93518560fe0b586d8d262d7618e97ee958926b42ef07101cc67cb73",
+    "checkpoint": "6dfa827188803e6a31b2117caf4e5065b306a5cf5aa0ba7b9b10bba803f7c5fe"
   }
 }

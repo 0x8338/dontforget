@@ -1,5 +1,521 @@
 [
  {
+  "person": "Jeff Bezos",
+  "role": "Amazon founder and CEO (until 2021)",
+  "promise": "Match all electricity used in Amazon's operations with renewable energy by 2025",
+  "date_promised": "2020-07-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Amazon reported in July 2024 that its 2023 operational electricity consumption was matched with renewable energy procurement. This is annual electricity matching, not elimination of all fossil-fuel use.",
+  "evidence": [
+   "Amazon's July 10, 2024 release reports 100% electricity matching for 2023."
+  ],
+  "sources": [
+   "Amazon press release",
+   "Reuters",
+   "CNBC"
+  ],
+  "archive_id": "promises-17b6f2b52e857d3ca610",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Achievement announcement was July 2024 about 2023 consumption. Matching annual electricity is not powering all operations exclusively with renewables. Original accelerated 2025 commitment's July 1 date still unverified.",
+   "sources": [
+    {
+     "name": "Amazon",
+     "url": "https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-goal"
+    },
+    {
+     "name": "Amazon",
+     "url": "https://www.aboutamazon.eu/news/sustainability/amazon-meets-100-renewable-energy-goal-seven-years-early"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "\"We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.\"",
+  "date_promised": "2025-01-10",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Written in Altman's \"Reflections\" blog post in January 2025. During 2025 OpenAI shipped Operator, Deep Research, ChatGPT agent payments and Codex, and enterprises began deploying agents — but agents' workforce integration remained largely assistive and limited, not the material, autonomous workforce transformation predicted.",
+  "evidence": [
+   "OpenAI launched Operator (Jan 2025), Deep Research (Feb 2025), agent payments (Mar 2025)",
+   "2025 enterprise adoption of agents grew rapidly but remained supervised/limited",
+   "Altman's own 2025 statements characterized agents as a decade-scale transition"
+  ],
+  "sources": [
+   "OpenAI blog 'Reflections'",
+   "CNBC",
+   "TechCrunch"
+  ],
+  "archive_id": "promises-72d17f9e93b9c29a6260",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "Original personal blog supports conditional 'may see', not a guaranteed autonomous-workforce transformation. January 10 publication date, March agent-payments launch and qualitative partial rating lack evidence. Product releases cannot establish or refute an undefined material-output forecast.",
+   "sources": [
+    {
+     "name": "Sam Altman",
+     "url": "https://blog.samaltman.com/reflections"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "We're taking it back (the Panama Canal)",
+  "date_promised": "2025-03-04",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Trump called for taking back the Panama Canal. Separately, CK Hutchison announced a proposed ports transaction with a consortium including BlackRock, Global Infrastructure Partners and Terminal Investment. The proposed port sale is not transfer of the canal itself.",
+  "evidence": [
+   "Reuters described an agreed ports sale still subject to compliance requirements in May 2025."
+  ],
+  "sources": [
+   "Reuters (June 2025 port deal)",
+   "Wikipedia: Second presidency of Donald Trump"
+  ],
+  "archive_id": "promises-c985c73f0c87c2e4ead2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Reuters describes a proposed sale, not proof of completed June transfer. Named consortium is BlackRock, GIP and Terminal Investment, not Bezos. Canal ownership is distinct from port concessions; deadline and final deal outcome still need checking.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/hong-kongs-ck-hutchison-assures-legal-compliance-in-ports-deal-4039667"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/ck-hutchison-to-sell-stake-in-hutchison-ports-group-for-1421-billion-3906499"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "The US will take over the Gaza Strip, and we will do a job with it, too",
+  "date_promised": "2025-02-04",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Trump proposed a US takeover and redevelopment of Gaza. A separate October 13, 2025 peace declaration was issued by the United States, Egypt, Qatar and Turkey; it should not be described as signed by Israel, Hamas and Gazan representatives.",
+  "evidence": [
+   "The October 13, 2025 peace declaration was issued by the leaders of the United States, Egypt, Qatar and Turkey."
+  ],
+  "sources": [
+   "White House press conference transcript (Feb 4, 2025)",
+   "Reuters (Oct 2025)"
+  ],
+  "archive_id": "promises-7eae0c92a31753a1d9b8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "October declaration signatories were US, Egypt, Qatar and Turkey, not Israel, Hamas and Gazan representatives. This document is distinct from a ceasefire agreement. February quote's UTC date, takeover outcome and December deadline still need separate verification.",
+   "sources": [
+    {
+     "name": "GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/DCPD-202501008/pdf/DCPD-202501008.pdf"
+    },
+    {
+     "name": "United Nations",
+     "url": "https://www.un.org/unispal/document/joint-statement-13oct25/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "UK Prime Minister",
+  "promise": "We will smash the gangs",
+  "date_promised": "2024-09-24",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Starmer pledged to tackle people-smuggling gangs. Home Office statistics do not support the claim that 2025 set a new calendar-year small-boat-arrivals record; 2022 remained the peak.",
+  "evidence": [
+   "Home Office identifies 2022 as the peak year for small-boat arrivals."
+  ],
+  "sources": [
+   "Home Office statistics (Jan 2026)",
+   "Wikipedia: Premiership of Keir Starmer"
+  ],
+  "archive_id": "promises-dbb9e0038d3b655177a7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Home Office identifies 2022, not 2025, as peak calendar year. An invented December 2025 deadline cannot establish promise failure; conference wording and returns-flight claims need primary sources.",
+   "sources": [
+    {
+     "name": "Home Office",
+     "url": "https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-december-2025/how-many-people-come-to-the-uk-via-illegal-entry-routes"
+    },
+    {
+     "name": "Home Office",
+     "url": "https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-september-2025/how-many-people-come-to-the-uk-irregularly"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Rachel Reeves",
+  "role": "UK Chancellor of the Exchequer",
+  "promise": "We will deliver the fastest growth in the G7",
+  "date_promised": "2024-07-08",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Reeves repeatedly promised the UK would become the fastest-growing G7 economy under Labour. Through 2025 the UK was instead one of the slowest-growing G7 economies, with near-flat quarterly growth, and the target was quietly dropped.",
+  "evidence": [
+   "UK growth lagged most G7 peers through 2025",
+   "Quarterly growth often 0.1-0.4%, repeatedly below the G7 average"
+  ],
+  "sources": [
+   "ONS GDP data (2025)",
+   "Financial Times (2025)"
+  ],
+  "archive_id": "promises-b2fb611f81d9ba486995",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "July 8 speech source located, but year-end 2025 deadline and claim target was dropped are unestablished. Sustained growth mission is not the same as best single-year headline GDP growth. Need full speech plus comparable annual G7 series.",
+   "sources": [
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/speeches/chancellor-rachel-reeves-is-taking-immediate-action-to-fix-the-foundations-of-our-economy"
+    },
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/news/chancellor-unveils-a-new-era-for-economic-growth"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta CEO",
+  "promise": "Meta AI will be the most used AI assistant in the world, with 1 billion users, by the end of 2025",
+  "date_promised": "2025-01-29",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Meta reported one billion monthly active Meta AI users in May 2025. This supports reaching the numerical user milestone before year-end, but does not independently establish the most-used-assistant claim.",
+  "evidence": [
+   "Zuckerberg reported the billion-user milestone at the May 2025 shareholder meeting."
+  ],
+  "sources": [
+   "Meta Q4 2024 earnings call (Jan 29, 2025)",
+   "Reuters (Oct 2025)"
+  ],
+  "archive_id": "promises-320a0c9a708ec1629ca1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "sources"
+   ],
+   "note": "Zuckerberg reported one billion monthly users in May 2025. Most-used ranking, original January wording and comparable user definitions remain unverified.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/"
+    },
+    {
+     "name": "AFP",
+     "url": "https://techxplore.com/news/2025-05-meta-ai-bot-billion-monthly.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "OpenAI CEO",
+  "promise": "GPT-5 will be released this year (2025)",
+  "date_promised": "2025-03-15",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Altman and OpenAI promised GPT-5 would ship in 2025. It launched on August 7, 2025 via livestream event, with 'thinking' and 'mini' variants, marking OpenAI's first true multi-modal model release of the year - on schedule versus the stated 2025 window.",
+  "evidence": [
+   "GPT-5 launched August 7, 2025",
+   "Shipped before the promised end-of-2025 deadline"
+  ],
+  "sources": [
+   "OpenAI (Aug 7, 2025)",
+   "Wikipedia: GPT-5"
+  ],
+  "archive_id": "promises-1c4b4af644bab3906426",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "Official August 7 release supports delivery in 2025. March 15 promise date and exact quote remain unsupported; 'first true multi-modal model release of the year' is undefined and not supported by launch documentation.",
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-5/"
+    },
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-gpt-5-for-developers/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple CEO",
+  "promise": "Siri gets a major overhaul... coming next year (2025)",
+  "date_promised": "2024-06-10",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At WWDC 2024 Apple (with Cook's backing) promised a new conversational Siri powered by Apple Intelligence arriving 'next year'. In March 2025 Apple admitted the overhaul would take 'longer than expected', and it was later pushed to 2026 or beyond - the most public delayed feature in Apple's AI rollout.",
+  "evidence": [
+   "Apple admitted delay in March 2025 statement",
+   "Bloomberg reported the revamp slipped to 2026; WWDC June 2025 showed no new Siri"
+  ],
+  "sources": [
+   "Apple WWDC 2024 keynote",
+   "Bloomberg (May 2025)"
+  ],
+  "archive_id": "promises-a3a34b927ac38f39a1e2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "March 2025 delay reported. Need WWDC transcript for original 'next year' quote; personalized context/actions are distinct from a later conversational LLM Siri rewrite. Do not combine their timelines or infer 2026 outcome from 2025 forecasts.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2025/03/07/ai-powered-more-personalized-siri-is-delayed/"
+    },
+    {
+     "name": "Macworld",
+     "url": "https://www.macworld.com/article/2624966/apples-next-gen-siri-might-be-delayed-until-2027.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "The currency controls (cepo) will be eliminated in 2025",
+  "date_promised": "2025-03-15",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Argentina relaxed exchange controls in April 2025 and adopted a peso trading band. Corporate foreign-exchange restrictions remained at year-end; it is not accurate to describe all controls as removed and the peso freely floating in December.",
+  "evidence": [
+   "SEC-filed financial statements identify remaining restrictions and the April 2025 trading band."
+  ],
+  "sources": [
+   "AP News (April 2025)",
+   "Reuters (December 2025)"
+  ],
+  "archive_id": "promises-e0a76cbd6e9110b96d2f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Company SEC filing reports continuing restrictions and a trading band, contradicting all controls removed/free float in December. March 15 promise date not established. Some liberalisation occurred, but blanket kept claim unsupported.",
+   "sources": [
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/1190723/000155485526000490/R41.htm"
+    },
+    {
+     "name": "International Monetary Fund",
+     "url": "https://www.elibrary.imf.org/view/journals/002/2026/105/article-A001-en.xml"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Pedro Sanchez",
+  "role": "Prime Minister of Spain",
+  "promise": "The working week will be reduced to 37.5 hours by the end of 2025",
+  "date_promised": "2024-04-30",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Congress rejected the bill to reduce Spain's working week to 37.5 hours without lower pay on September 10, 2025; it did not approve the reform that month.",
+  "evidence": [
+   "EFE and RTVE report rejection of the bill on September 10, 2025."
+  ],
+  "sources": [
+   "Reuters (Sept 2025)",
+   "Government of Spain (Sept 2025)"
+  ],
+  "archive_id": "promises-730b5cf698c2e2ac3caa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "sources"
+   ],
+   "note": "September vote rejected the bill, not approved it. Original April 30 promise and any subsequent end-2025 legislative action still need checking before a final outcome rating; do not integrate the existing kept status as verified.",
+   "sources": [
+    {
+     "name": "EFE",
+     "url": "https://efe.com/economia/2025-09-10/congreso-votacion-reduccion-jornada-laboral/"
+    },
+    {
+     "name": "RTVE",
+     "url": "https://www.rtve.es/noticias/20250910/pp-vox-junts-jornada-laboral/16724242.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Anthony Albanese",
+  "role": "Leader of the Australian Labor Party",
+  "promise": "Power bills will be $275 lower by 2025",
+  "date_promised": "2021-12-03",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Albanese announced the $275 household electricity-bill reduction goal with RepuTex modelling on December 3, 2021, targeting 2025 at the end of Labor's first term. ABC reported the pledge was not delivered.",
+  "evidence": [
+   "ABC identifies RepuTex modelling and the December 2021 announcement.",
+   "ABC's March 2025 reporting describes the reduction pledge as failed."
+  ],
+  "sources": [
+   "ABC News (May 2022 election costings)",
+   "The Guardian (2024-2025 promise-tracking coverage)"
+  ],
+  "archive_id": "promises-8268f46bfabc8f40619b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "ABC locates launch December 3, 2021 and RepuTex modelling, not PBO modelling. Target was by end of first term; December 31 2025 is not exact original deadline. Failure supported by ABC tracking.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2023-05-19/promise-check-cut-power-bills-by-275-dollars/101791146"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2025-03-31/labor-coalition-power-price-modelling-reputex/105116056"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jonas Gahr Støre",
+  "role": "Prime Minister of Norway",
+  "promise": "From 2025, all new passenger cars sold in Norway will be zero-emission",
+  "date_promised": "2021-10-14",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Battery-electric cars accounted for 95.9% of new passenger-car registrations in Norway in 2025. This was close to, but below, the goal that all new passenger cars be zero-emission.",
+  "evidence": [
+   "OFV's full-year 2025 report gives a 95.9% battery-electric share."
+  ],
+  "sources": [
+   "Norwegian Road Federation (OFV) 2025 sales data",
+   "Reuters (January 2025)"
+  ],
+  "archive_id": "promises-9842a1ca0b866bc53ae8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "OFV reports 95.9% battery-electric for full-year 2025, not fulfillment of literal 100%. Original October 14 reaffirmation not established; distinguish near-completion from all new cars.",
+   "sources": [
+    {
+     "name": "Norwegian Road Federation",
+     "url": "https://ofv.no/aktuelt/2025-ble-tidenes-rekordar-for-bilsalget"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Pat Gelsinger",
+  "role": "CEO, Intel",
+  "promise": "We expect to regain process leadership by 2025",
+  "date_promised": "2021-03-23",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "At the 'Intel Unleashed' IDM 2.0 event, Gelsinger promised a 5-nodes-in-4-years roadmap (Intel 7/4/3/20A/18A) that would restore Intel's chipmaking lead over TSMC by 2025. Intel 18A was delayed from H2 2024 to 2025, TSMC's N2 kept the process lead, and Gelsinger was ousted as CEO in December 2024 before the goal was reached; Intel's first 18A product (Panther Lake) only shipped in late 2025. Process leadership was not regained in the promised window.",
+  "evidence": [
+   "IDM 2.0 announced March 23, 2021 with 'regain process leadership' from TSMC as the goal",
+   "Intel delayed 18A (originally 2024 target) into 2025",
+   "Gelsinger removed as CEO December 2, 2024",
+   "TSMC (N2, 2025) retained the process lead; Panther Lake (18A) shipped late 2025"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Stratechery"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Intel",
+   "https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/"
+  ],
+  "archive_id": "promises-41d011894a74f61cb587",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status",
+    "description"
+   ],
+   "note": "Intel primary records reaffirm 2025 process-leadership goal, but no original March 23 source for five-nodes roadmap was retrieved. Process leadership needs an explicit performance/power/density measure; cannot simply declare TSMC the winner from node names or CEO exit.",
+   "sources": [
+    {
+     "name": "Intel",
+     "url": "https://newsroom.intel.com/corporate/intel-and-biden-admin-announce-up-to-8-5-billion-in-direct-funding-under-the-chips-act"
+    },
+    {
+     "name": "Intel",
+     "url": "https://newsroom.intel.com/corporate/oregon-investments-fuel-us-silicon-innovation-leadership"
+    }
+   ]
+  }
+ },
+ {
   "person": "Uber",
   "role": "Ride-hailing company",
   "promise": "Aim for all Uber journeys in London to use fully electric cars by 2025",
@@ -16,7 +532,148 @@
   ],
   "source_urls": [
    "https://www.uber.com/gb/en/newsroom/uber-helps-london-go-electric/"
-  ]
+  ],
+  "archive_id": "promises-14ba7014f506f08e3f12"
+ },
+ {
+  "person": "Mary Barra",
+  "role": "GM (Cruise)",
+  "promise": "Cruise robotaxi unit to generate $1 billion in annual revenue by 2025",
+  "date_promised": "2021-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "GM announced on December 10, 2024 that it would stop funding Cruise robotaxi development and combine technical work with its personal-vehicle autonomy programme. This was a refocusing and restructuring decision, not evidence of immediate legal closure.",
+  "evidence": [
+   "GM's December 10 announcement distinguishes robotaxi funding cessation from integration of technical teams."
+  ],
+  "sources": [
+   "NPR"
+  ],
+  "archive_id": "promises-fef5f3c4ab74a3cc2794",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "promise",
+    "status",
+    "sources"
+   ],
+   "note": "GM announced stopping robotaxi funding and integrating teams, not immediate dissolution of Cruise. Exact original speaker/date and revenue/loss totals still require primary records.",
+   "sources": [
+    {
+     "name": "General Motors",
+     "url": "https://investor.gm.com/news-releases/news-release-details/gm-refocus-autonomous-driving-development-personal-vehicles"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Tim Cook",
+  "role": "Apple",
+  "promise": "Self-driving 'Apple Car' to launch around 2025 (reported internal target, Bloomberg, Dec 2020)",
+  "date_promised": "2020-06-30",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Apple canceled its electric car project in February 2024 after a decade of effort, with team members reassigned to AI work.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Reuters"
+  ],
+  "archive_id": "promises-edb1837fa41e02779924",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources",
+    "evidence"
+   ],
+   "note": "Bloomberg supports internal cancellation in February 2024, not a public Tim Cook commitment. June 30 2020 and alleged reported launch target remain unestablished; an anonymously reported internal schedule should not become a direct CEO quote.",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://news.bloomberglaw.com/artificial-intelligence/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta (Facebook)",
+  "promise": "'We want to get a billion people in virtual reality' (Oculus Connect 5, Oct 2017)",
+  "date_promised": "2017-10-11",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Zuckerberg announced a goal of bringing one billion people into VR at Oculus Connect 4 in October 2017. Contemporary reporting explicitly said no deadline was set.",
+  "evidence": [
+   "WIRED reports the billion-person goal had no deadline."
+  ],
+  "sources": [
+   "The Verge"
+  ],
+  "archive_id": "promises-a64c3f00ceaf79cdddaa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Goal announced October 11, 2017 at Connect 4, without a deadline. June 30, Connect 5 and 2025 due date are unsupported. Active headset estimates are not equivalent to people who ever used VR.",
+   "sources": [
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/story/oculus-connect-virtual-reality-progress/"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/gaming/2017/10/zuckerberg-announces-199-oculus-go-as-sweet-spot-standalone-headset/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "JD Vance",
+  "role": "Vice-President (elected Nov 2024)",
+  "promise": "Raise the child tax credit from $2,000 to $5,000 per child (Aug 2024 campaign pledge)",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "The One Big Beautiful Bill Act (signed 4 Jul 2025) raised the credit only to $2,200, inflation-indexed, with the refundable portion unchanged — no $5,000 credit was ever enacted.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Political_positions_of_JD_Vance",
+   "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+  ],
+  "archive_id": "promises-8771e73ea5427db6e6ff",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "evidence"
+   ],
+   "note": "IRS source located for actual credit, but original Vance interview/date/deadline and full post-law parameters still need checking. January 2023 predates the described August 2024 proposal. Distinguish proposal/aspiration from guaranteed enacted amount.",
+   "sources": [
+    {
+     "name": "Internal Revenue Service",
+     "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit"
+    }
+   ]
+  }
  },
  {
   "person": "Volodymyr Zelenskyy",
@@ -37,7 +694,460 @@
   "source_urls": [
    "https://www.president.gov.ua/en/news/volodimir-zelenskij-predstaviv-plan-peremogi-chlenam-yevrope-93885",
    "https://www.president.gov.ua/en/news/plan-peremogi-skladayetsya-z-pyati-punktiv-i-troh-tayemnih-d-93857"
-  ]
+  ],
+  "archive_id": "promises-75a92a222aeb93c178e4"
+ },
+ {
+  "person": "Prabowo Subianto",
+  "role": "President (from 20 Oct 2024)",
+  "promise": "Free nutritious meals (Makan Bergizi Gratis) for schoolchildren, pregnant women and toddlers — targeting 82.9 million beneficiaries",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Indonesia launched the free-meals programme on January 6, 2025. Reuters reported 570,000 recipients on opening day and a plan then targeting 82.9 million beneficiaries by 2029.",
+  "evidence": [
+   "Contemporaneous launch report distinguishes initial coverage from the 2029 full-scale target."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://id.wikipedia.org/wiki/Makan_Bergizi_Gratis"
+  ],
+  "archive_id": "promises-3b07d06bcac57d92d5c6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Launch reporting gives 82.9m by 2029, not original 2025 deadline. Later accelerated target requires its own dated announcement. Budget, poisoning and arrest allegations unverified; replace with launch facts.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/economy-news/indonesia-dishes-out-first-free-meals-in-programme-targeting-83-million-people-3796494"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Reduce poverty",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "INDEC's survey of 31 urban agglomerations reported poverty of 41.7% in H2 2023, 52.9% in H1 2024 and 31.6% in H1 2025. Indigence fell from 18.1% in H1 2024 to 6.9% in H1 2025.",
+  "evidence": [
+   "INDEC's H1 2025 report supplies a comparable half-year series for the same urban survey scope."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei"
+  ],
+  "archive_id": "promises-b14caac4b28d26f785a8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "INDEC's consistent half-year series gives 31.6% poverty and 6.9% indigence in H1 2025, not 7.4%. Its H1 2024 poverty figure is 52.9%, not the separate 57.4% monthly estimate. Original promise/date/deadline and an outcome threshold remain unestablished.",
+   "sources": [
+    {
+     "name": "INDEC",
+     "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_25D162CC7BFB.pdf"
+    },
+    {
+     "name": "INDEC",
+     "url": "https://www.indec.gob.ar/indec/web/Institucional-Indec-InformesTecnicos-47"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Campaign pledge (2023): dollarize the economy and abolish the central bank",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "In April 2025 Argentina relaxed specified foreign-exchange controls and introduced a moving ARS1,000-1,400 per dollar band. This retained the peso and central bank, but does not by itself establish permanent abandonment of dollarization.",
+  "evidence": [
+   "BCRA lists measures relaxed and the peso-band regime; it does not describe universal removal of all controls."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei_2023_presidential_campaign",
+   "https://en.wikipedia.org/wiki/Economic_reforms_of_Javier_Milei"
+  ],
+  "archive_id": "promises-b08291e9335329e414a6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "BCRA describes April 2025 relaxation of specified controls and a currency band, not complete dismantling. Keeping peso then does not prove permanent abandonment of dollarization. Original date and 2025 deadline unverified.",
+   "sources": [
+    {
+     "name": "Central Bank of Argentina",
+     "url": "https://www.bcra.gob.ar/en/news/inicio-de-la-fase-3-del-programa-economico/"
+    },
+    {
+     "name": "Argentine Presidency",
+     "url": "https://www.casarosada.gob.ar/informacion/discursos/50959-discurso-del-presidente-javier-milei-en-la-11-edicion-del-latam-economic-forum-2025-en-la-ciudad-de-buenos-aires"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Yoon Suk Yeol",
+  "role": "President (2022 – removed Apr 2025)",
+  "promise": "Increase medical school admissions by 2,000 per year to fix the doctor shortage (announced 6 Feb 2024)",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "On April 17, 2025 the government announced that the 2026 medical-school quota would return to 3,058, the pre-expansion level.",
+  "evidence": [
+   "Education ministry announcement and Yonhap coverage confirm the 2026 quota reversal on April 17, 2025."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2024_South_Korean_medical_crisis"
+  ],
+  "archive_id": "promises-21c66fcd0be1119e8929",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status"
+   ],
+   "note": "Education ministry/ Yonhap confirm April 17, 2025 return to 3,058 for 2026. This is after the record's own April removal timing, so 'unravelled before removal' is not supported. Original February 6 announcement and exact 2025 increment need sources.",
+   "sources": [
+    {
+     "name": "South Korean Ministry of Education",
+     "url": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=103123&lev=0&m=020402&opType=N&page=1&s=moe&searchType=null&statusYN=W"
+    },
+    {
+     "name": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20250417002551315"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister (2015–Mar 2025)",
+  "promise": "Keep the federal carbon price as the cornerstone of climate policy",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Canada ceased applying the federal consumer fuel charge from April 1, 2025 and removed the consumer-price requirement for provinces. This should not be described as repeal of every federal carbon-pricing mechanism.",
+  "evidence": [
+   "Finance Canada's backgrounder specifies the consumer fuel charge and consumer-facing benchmark."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Carbon_tax_in_Canada"
+  ],
+  "archive_id": "promises-fe7af8a16526790467c6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Official measure ceased consumer fuel charge, not all industrial carbon pricing. Original January 2023 promise/deadline not sourced. A successor's action must not be described as Trudeau's own implementation; March 14 was transition day, not weeks after departure.",
+   "sources": [
+    {
+     "name": "Government of Canada",
+     "url": "https://www.canada.ca/en/department-finance/news/2025/03/removing-the-consumer-carbon-price-effective-april-1-2025.html"
+    },
+    {
+     "name": "Government of Canada",
+     "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/greenhouse-gas-annual-report-2023.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Prime Minister (2015–Mar 2025)",
+  "promise": "Cut immigration levels to ease housing and social pressures",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Permanent-resident targets were cut from 500,000 to 395,000 (2025), 380,000 (2026) and 365,000 (2027), and the plans were implemented.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Immigration_to_Canada"
+  ],
+  "archive_id": "promises-d4c847e77353959047e7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "evidence"
+   ],
+   "note": "Official 2024 plan supports reduced future targets. January 2023 attribution and actual 2025 admissions are not established; publishing targets does not prove they were implemented. Later 2026-2027 plans could revise the figures.",
+   "sources": [
+    {
+     "name": "Immigration, Refugees and Citizenship Canada",
+     "url": "https://www.canada.ca/content/dam/ircc/documents/pdf/english/corporate/publications-manuals/annual-report-2024-en.pdf"
+    },
+    {
+     "name": "Immigration, Refugees and Citizenship Canada",
+     "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cimm-nov-25-2024/key-data-tables.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Ursula von der Leyen",
+  "role": "European Commission President (re-elected Jul 2024)",
+  "promise": "Present major European defence funding proposals within 100 days of her second Commission — delivered as ReArm Europe",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The Commission's European Defence White Paper was issued on March 19, 2025 and provides the framework for ReArm Europe. The White Paper and financing-plan announcements are separate milestones.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/ReArm_Europe"
+  ],
+  "archive_id": "promises-def792b2229702568b9f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "evidence"
+   ],
+   "note": "White Paper is dated March 19, 2025 and distinguished from ReArm financing plan. Need original 100-day commitment/start point; January 2023 date cannot describe second Commission. Do not substitute an earlier funding announcement for a promised White Paper without checking scope.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A52025JC0120"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://commission.europa.eu/topics/defence/future-european-defence_en"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Rutte",
+  "role": "NATO Secretary General (from Oct 2024)",
+  "promise": "Allies must move to a 'wartime mindset' and raise defence spending far above 2% of GDP",
+  "date_promised": "2023-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "NATO Allies adopted the Hague declaration on June 25, 2025, committing to 5% of GDP annually by 2035, including 3.5% core defence and up to 1.5% related investment. Adoption is not proof of immediate spending delivery.",
+  "evidence": [
+   "NATO reports Allied adoption without a Spain signatory exception."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2025_NATO_summit"
+  ],
+  "archive_id": "promises-299dcf4d807ac01898b9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "NATO records collective adoption, not 'all except Spain signed'. Spain disputed its spending obligation but that differs from not adopting declaration. Agreement to 2035 spending is not actual expenditure by 2025; original Rutte speech/date unverified.",
+   "sources": [
+    {
+     "name": "NATO",
+     "url": "https://www.ncia.nato.int/newsroom/news/the-hague-summit-declaration"
+    },
+    {
+     "name": "NATO",
+     "url": "https://nato.int/en/news-and-events/articles/news/2025/06/27/nato-concludes-historic-summit-in-the-hague"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Bob Bakish",
+  "role": "CEO, Paramount Global",
+  "promise": "We're targeting 150 million DTC subscribers by 2025 (as reported).",
+  "date_promised": "2022-02-15",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "At its February 2022 investor day, Paramount projected 150 million global direct-to-consumer subscribers by 2025. Paramount+ ended 2025 with roughly 70-75 million subscribers; the company was sold to Skydance in 2025, far short of target.",
+  "evidence": [
+   "Investor Day guidance of 150M DTC subs by 2025 reported by Variety/CNBC",
+   "Paramount+ subscriber base stayed near 70M through 2024-2025"
+  ],
+  "sources": [
+   "Variety, 2022-02-15",
+   "Paramount Global quarterly reports, 2024-2025"
+  ],
+  "archive_id": "promises-a412d7eca1cfd5829445",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Contemporaneous report identifies a 100m-by-2024 target, not 150m-by-2025. Need primary investor transcript to confirm global/US scope because retrieved report's geography also needs corroboration. Paramount+ alone is not necessarily all DTC subscriptions.",
+   "sources": [
+    {
+     "name": "The Information",
+     "url": "https://www.theinformation.com/briefings/viacomcbs-takes-on-paramount-name-in-nod-to-streaming-ambitions?rc=9byxri"
+    },
+    {
+     "name": "Paramount",
+     "url": "https://paramount.gcs-web.com/quarterly-results/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Meredith Kopit Levien",
+  "role": "CEO, The New York Times Company",
+  "promise": "We intend to reach 10 million subscriptions by 2025 (as reported).",
+  "date_promised": "2020-05-07",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The New York Times Company says it established its ten-million-subscriptions goal in early 2019 and reached it after acquiring The Athletic in early 2022, ahead of 2025.",
+  "evidence": [
+   "Company proxy distinguishes the 2019 target from its 2022 achievement."
+  ],
+  "sources": [
+   "NYT Co. strategic report, 2020-05-07",
+   "NYT Co. Q4 2024 earnings release, 2025-02-05"
+  ],
+  "archive_id": "promises-84bc5ae40ced3deb1801",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "sources"
+   ],
+   "note": "Company proxy dates 10m-subscription goal to early 2019 and reports achievement following 2022 Athletic purchase. 2024 counts may be subscribers rather than subscriptions. Original Levien CEO attribution/May 2020 date not established.",
+   "sources": [
+    {
+     "name": "The New York Times Company",
+     "url": "https://materials.proxyvote.com/Approved/650111/20220301/NPS_493245.PDF"
+    },
+    {
+     "name": "Sports Business Journal",
+     "url": "https://www.sportsbusinessjournal.com/Daily/Issues/2022/01/07/Media/Athletic/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Strauss Zelnick",
+  "role": "CEO, Take-Two Interactive",
+  "promise": "Grand Theft Auto VI — coming 2025.",
+  "date_promised": "2023-12-05",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Rockstar moved Grand Theft Auto VI beyond its 2025 release window. Its May 2, 2025 notice set May 26, 2026; the official game page subsequently listed November 19, 2026.",
+  "evidence": [
+   "The first delay notice specifies May 26, 2026, not fall 2026.",
+   "The current official page lists November 19, 2026."
+  ],
+  "sources": [
+   "Rockstar Games trailer, 2023-12-05",
+   "Take-Two Q4 FY2025 earnings call, 2025-05-15"
+  ],
+  "archive_id": "promises-2ef51eb45dcba8cbe30e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "sources"
+   ],
+   "note": "Rockstar's first delay notice is May 2, 2025 and moved the game to May 26, 2026; the official page now lists November 19, 2026. The original wording incorrectly conflates separate delays. Original trailer announcement UTC day and personal attribution to Zelnick remain unestablished.",
+   "sources": [
+    {
+     "name": "Rockstar first GTA VI delay",
+     "url": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26%2C%202026"
+    },
+    {
+     "name": "Rockstar GTA VI official page",
+     "url": "https://www.rockstargames.com/VI"
+    }
+   ]
+  }
+ },
+ {
+  "person": "OpenAI",
+  "role": "AI company",
+  "promise": "OpenAI reportedly projected $11.6 billion in revenue for 2025.",
+  "date_promised": "2024-09-28",
+  "due_date": "2025-12-31",
+  "status": "pending",
+  "description": "Reuters reported a company forecast, attributed to people familiar with it, of $11.6 billion in 2025 revenue.",
+  "evidence": [
+   "The report concerns annual revenue, not an annualized run rate.",
+   "Outcome not established as of 2026-09-21: the checked report is a forecast, not audited 2025 results."
+  ],
+  "sources": [
+   "The Hindu (Sep 28, 2024)",
+   "Reuters (Mar 26, 2025)",
+   "Wikipedia: OpenAI"
+  ],
+  "archive_id": "promises-c178a941b0c762421690",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Reuters describes an anonymously sourced company forecast of $11.6 billion annual revenue, not an Altman quotation or annualized run rate. Its underlying report is dated September 27; the exact UTC publication day and date of the underlying forecast are not established. The claimed actual totals are not verified.",
+   "sources": [
+    {
+     "name": "Reuters OpenAI revenue forecast",
+     "url": "https://ca.investing.com/news/stock-market-news/openai-sees-116-billion-revenue-next-year-offers-thrive-chance-to-invest-again-in-2025-3620501"
+    }
+   ]
+  }
  },
  {
   "person": "Demis Hassabis",
@@ -58,7 +1168,45 @@
   "source_urls": [
    "https://www.bloomberg.com/news/articles/2025-01-21/deepmind-expects-clinical-trials-for-ai-designed-drugs-this-year",
    "https://www.investing.com/news/stock-market-news/googlebacked-ai-drug-discovery-startup-isomorphic-labs-delays-clinical-trial-timeline-4456134"
-  ]
+  ],
+  "archive_id": "promises-6772189607447483e00e"
+ },
+ {
+  "person": "Satya Nadella",
+  "role": "CEO, Microsoft",
+  "promise": "Nadella said Microsoft intended to move quickly in AI-powered search.",
+  "date_promised": "2023-02-07",
+  "due_date": "2025-12-31",
+  "status": "pending",
+  "description": "Microsoft launched an AI-powered Bing and Edge preview on February 7, 2023. The checked launch sources do not attach a market-share threshold or deadline to Nadella's competitive remarks.",
+  "evidence": [
+   "Microsoft's announcement establishes the preview launch.",
+   "The market-share-shift speculation in contemporary coverage is attributed to analysts, not a quantified Nadella promise."
+  ],
+  "sources": [
+   "The Verge (Feb 7, 2023)",
+   "Statcounter GlobalStats",
+   "The Verge Nilay Patel interview (Feb 7, 2023)"
+  ],
+  "archive_id": "promises-6b22b1328cb4625bb7f8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "The primary launch notice supports an AI-powered Bing preview on February 7, 2023. Neither it nor the contemporary report establishes a quantified market-share target or December 2025 deadline. A market-share comparison cannot turn launch rhetoric into a broken dated commitment; remove unsupported current shares and strategic-causation claims.",
+   "sources": [
+    {
+     "name": "Microsoft AI-powered Bing launch",
+     "url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/"
+    },
+    {
+     "name": "Forbes launch coverage",
+     "url": "https://www.forbes.com/sites/kenrickcai/2023/02/07/the-new-ai-wars-begin-as-microsoft-announces-chatgpt-integration-with-bing-and-edge/"
+    }
+   ]
+  }
  },
  {
   "person": "Sundar Pichai",
@@ -79,7 +1227,8 @@
   "source_urls": [
    "https://abc.xyz/investor/events/event-details/2025/2025-Q3-Earnings-Call-2025-4OI4Bac_Q9/default.aspx",
    "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-3-launches-in-mena/"
-  ]
+  ],
+  "archive_id": "promises-3e0096a5d0f3313ce0b0"
  },
  {
   "person": "Marc Benioff",
@@ -98,7 +1247,8 @@
   ],
   "source_urls": [
    "https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/?bc=OTH"
-  ]
+  ],
+  "archive_id": "promises-9e5458ebb68ae852c693"
  },
  {
   "person": "IEA",
@@ -122,7 +1272,83 @@
    "https://www.iea.org/reports/renewables-2020",
    "https://www.iea.org/reports/global-energy-review-2026/electricity-supply",
    "https://ember-energy.org/app/uploads/2025/04/Report-Global-Electricity-Review-2025.pdf"
-  ]
+  ],
+  "archive_id": "promises-ae7c2c09b25b691c22ce"
+ },
+ {
+  "person": "Patrick Pouyanné",
+  "role": "Chairman & CEO, TotalEnergies",
+  "promise": "Target 35 GW of gross installed renewable electricity capacity by 2025 (paraphrase).",
+  "date_promised": "2021-02-09",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "TotalEnergies reported 26 GW of gross installed renewable electricity capacity at the end of 2024 and 34 GW at the end of 2025, below its 35 GW 2025 target.",
+  "evidence": [
+   "The 2025 sustainability report retains the 35 GW 2025 target.",
+   "The February 2026 results presentation reports 34 GW at year-end 2025."
+  ],
+  "sources": [
+   "TotalEnergies",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://totalenergies.com/media/news/press-releases",
+   "https://www.reuters.com/business/energy/totalenergies-raises-2025-renewables-target-60gw-2021-11-09/"
+  ],
+  "archive_id": "promises-c8ae8fcdffa34a8da274",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "Primary reporting retains a 35 GW 2025 goal; no support found for a COP26 increase to 60 GW. Reported year-end capacities were 26 GW (2024) and 34 GW (2025), not 30 and 35. Exact original announcement date remains unestablished.",
+   "sources": [
+    {
+     "name": "TotalEnergies",
+     "url": "https://totalenergies.com/system/files/documents/totalenergies_sustainability-climate-2025-progress-report_2025_en.pdf"
+    },
+    {
+     "name": "TotalEnergies",
+     "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_2025-results-2026-objectives-transcript_2026_en.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Henrik Poulsen",
+  "role": "CEO, Ørsted (until 2021)",
+  "promise": "Be carbon neutral in own operations and energy generation by 2025, with 95% of energy from renewables by 2023 and 99% by 2025.",
+  "date_promised": "2018-01-08",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Orsted reports meeting its 99% renewable-generation share and scope 1-2 emissions-intensity target in 2025. Residual emissions remain; these milestones should not be described as proof of zero emissions.",
+  "evidence": [
+   "Orsted reports meeting a 10 g CO2e/kWh scope 1-2 intensity target and 99% renewable share in 2025."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Orsted"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
+   "https://www.orsted.com/en/annual-report"
+  ],
+  "archive_id": "promises-dbc436f16c0fb682aa6a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status"
+   ],
+   "note": "Company reporting supports 99% renewable generation and the scope 1-2 intensity target in 2025, not zero emissions or carbon neutrality in 2024. Residual emissions remain; 2018 announcement day and 2023 subtarget need separate evidence.",
+   "sources": [
+    {
+     "name": "Orsted",
+     "url": "https://orsted.com/en/about-us/sustainability/decarbonisation/scope-1-and-2"
+    }
+   ]
+  }
  },
  {
   "person": "Amber Rudd (UK Government)",
@@ -142,7 +1368,43 @@
   "source_urls": [
    "https://www.gov.uk/government/speeches/amber-rudds-speech-on-a-new-direction-for-uk-energy-policy",
    "https://www.energy-uk.org.uk/publications/closing-the-coal-chapter-how-the-uk-is-leading-the-energy-transition/"
-  ]
+  ],
+  "archive_id": "promises-17b910ed44633f1963a2"
+ },
+ {
+  "person": "Extinction Rebellion",
+  "role": "Climate protest movement (founded 2018)",
+  "promise": "The Government must act now to halt biodiversity loss and reduce net greenhouse gas emissions to zero by 2025.",
+  "date_promised": "2018-10-31",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Extinction Rebellion demanded that the UK government achieve net-zero emissions by 2025. This was an advocacy demand, not a government commitment or a promise by XR to deliver the outcome.",
+  "evidence": [
+   "XR's January 2025 statement reiterates the demand and says the movement is not backing down."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Rebellion"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Extinction_Rebellion",
+   "https://rebellion.global/"
+  ],
+  "archive_id": "promises-ab080078c64d1dab133b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status"
+   ],
+   "note": "This is a demand directed at government, not XR's promise to deliver UK net zero. The source also contradicts the claim that XR had backed down in 2025. Recommend excluding from promise scoring; schema has no not-a-promise status. Exact founding-day wording remains unresolved.",
+   "sources": [
+    {
+     "name": "Extinction Rebellion UK",
+     "url": "https://extinctionrebellion.uk/2025/01/17/its-2025-now-what/"
+    }
+   ]
+  }
  },
  {
   "person": "ARK Invest",
@@ -160,7 +1422,8 @@
   ],
   "source_urls": [
    "https://www.ark-invest.com/articles/valuation-models/tesla-price-target-2"
-  ]
+  ],
+  "archive_id": "promises-70c8f37fc85b82e7808b"
  },
  {
   "person": "Jensen Huang",
@@ -180,7 +1443,8 @@
   "source_urls": [
    "https://nvidianews.nvidia.com/news/nvidia-to-build-accelerated-quantum-computing-research-center",
    "https://www.nvidia.com/en-gb/solutions/quantum-computing/accelerated-quantum-center/"
-  ]
+  ],
+  "archive_id": "promises-2105a1181bd5ddb64023"
  },
  {
   "person": "Elon Musk",
@@ -200,7 +1464,174 @@
   "source_urls": [
    "https://www.roic.ai/quote/TSLA/transcripts/2025-year/2-quarter",
    "https://live.euronext.com/en/financial-news/teslas-once-bullish-tone-robotaxis-shifts"
-  ]
+  ],
+  "archive_id": "promises-d51c51f6bd400330e4e5"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will reach production capacity of 250,000 Cybertrucks per year by 2025",
+  "date_promised": "2023-10-18",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "The forecast concerned a future annual production rate. Tesla's filings list installed Cybertruck capacity above 125,000 and warn that installed capacity is not the current production rate. Neither a lower sales estimate nor the lower-bound capacity figure alone establishes the exact year-end production capability.",
+  "evidence": [
+   "2025 Cybertruck sales ~20,200, about 8% of the 250,000 target",
+   "Production capacity settled at 125,000 units, well below the promised 250,000"
+  ],
+  "sources": [
+   "Inc.",
+   "Business Insider Africa",
+   "Electrive"
+  ],
+  "source_urls": [
+   "https://www.inc.com/fast-company-2/2026-cybertruck-tesla-saleselon-musk-ev-market/91292190",
+   "https://africa.businessinsider.com/transportation/teslas-cybertruck-is-falling-far-short-of-elon-musks-ambitious-sales-targets/gwcft7m",
+   "https://www.electrive.com/2026/01/21/tesla-cybertruck-sales-plummet/"
+  ],
+  "archive_id": "promises-55a2bb3627f935ff9f3c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status"
+   ],
+   "note": "The forecast was October 2023, not a July delivery event. SEC tables explicitly distinguish installed capacity from production; sales estimates cannot measure capacity. End-2025 capacity/run-rate evidence remains missing.",
+   "sources": [
+    {
+     "name": "TechCrunch: October 2023 production forecast",
+     "url": "https://techcrunch.com/2023/10/18/elon-musk-warns-cybertruck-wont-be-profitable-until-2025/"
+    },
+    {
+     "name": "Tesla Q3 2023 SEC exhibit",
+     "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828023034588/exhibit991.htm"
+    },
+    {
+     "name": "Tesla January 2025 capacity table",
+     "url": "https://ir.tesla.com/_flysystem/s3/sec/000162828025002993/tsla-20250129-gen.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Executive order ending birthright citizenship — \"This is a big one.\"",
+  "date_promised": "2025-01-20",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "Trump issued EO 14160 on January 20, 2025 to restrict birthright citizenship for specified parental immigration categories. The Supreme Court rejected the order on June 30, 2026 in Trump v. Barbara. Issuing an order and achieving its intended legal effect are distinct milestones.",
+  "evidence": [
+   "Supreme Court struck down EO 14160 in a 6-3 ruling in June 2026",
+   "Order never took effect; courts blocked it from the start"
+  ],
+  "sources": [
+   "TASS",
+   "Fragomen",
+   "CNN"
+  ],
+  "source_urls": [
+   "https://tass.com/world/2153679",
+   "https://www.fragomen.com/insights/united-states-supreme-court-strikes-down-effort-to-limit-birthright-citizenship.html",
+   "https://us.cnn.com/2026/07/01/politics/trump-supreme-court-birthright-citizenship-major-accomplishment-analysis"
+  ],
+  "archive_id": "promises-7ed1631defe8112933ec",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "Court decision confirms EO date and June 30, 2026 outcome. Original promise ambiguously scores signing an order versus achieving its legal effect. December 31 deadline is not established. Preserve constitutional exceptions instead of saying absolutely everyone born on US soil.",
+   "sources": [
+    {
+     "name": "Supreme Court opinion via Cornell LII",
+     "url": "https://www.law.cornell.edu/supremecourt/text/25-365"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Claude Opus 4.5 will arrive later in 2025",
+  "date_promised": "2025-09-29",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Anthropic launched Claude Opus 4.5 on November 24, 2025.",
+  "evidence": [
+   "Official release announcement confirms November 24, 2025 availability."
+  ],
+  "sources": [
+   "CNBC",
+   "Anthropic",
+   "LLM Stats"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2025/11/24/anthropic-unveils-claude-opus-4point5-its-latest-ai-model.html",
+   "https://www.anthropic.com/news/claude-opus-4-5",
+   "https://llm-stats.com/blog/research/claude-opus-4.5-launch"
+  ],
+  "archive_id": "promises-20b979bf402601bd59fe",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "due_date"
+   ],
+   "note": "Primary release supports November 24 delivery, but not an Amodei promise made September 29. Model-release cadence does not establish a previously announced deadline. Replace promotional superlative with simple release fact.",
+   "sources": [
+    {
+     "name": "Anthropic: Opus 4.5 launch",
+     "url": "https://www.anthropic.com/news/claude-opus-4-5"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "DGX Spark, the $3,999 personal AI supercomputer, will be available in 2025",
+  "date_promised": "2025-03-18",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "NVIDIA announced DGX Spark on March 18, 2025 and made it available for ordering on October 15, 2025. This is within calendar 2025; any claim of delay requires a separately sourced earlier deadline.",
+  "evidence": [
+   "DGX Spark went on sale October 15, 2025 at $3,999",
+   "Launch came after several months of delays from the initially expected mid-2025 availability"
+  ],
+  "sources": [
+   "36Kr",
+   "VideoCardz",
+   "ZOL"
+  ],
+  "source_urls": [
+   "https://eu.36kr.com/en/p/3509594242685826",
+   "https://videocardz.com/newz/nvidia-renames-project-digits-to-dgx-spark-mini-pc-with-gb10-grace-blackwell-superchip-to-launch-at-3999",
+   "https://ai.zol.com.cn/1063/10635641.html"
+  ],
+  "archive_id": "promises-c16ac094a72a013465d8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status"
+   ],
+   "note": "October 15 is before the record's December 31 deadline, so delayed status is inconsistent with that baseline. Earlier Project DIGITS forecasts must not be silently substituted for the stated GTC commitment. Exact March price and promised availability window remain unestablished.",
+   "sources": [
+    {
+     "name": "NVIDIA: March Spark announcement",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-dgx-spark-and-dgx-station-personal-ai-computers"
+    },
+    {
+     "name": "NVIDIA: Spark availability",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers"
+    }
+   ]
+  }
  },
  {
   "person": "Jensen Huang",
@@ -220,7 +1651,131 @@
   "source_urls": [
    "https://nvidianews.nvidia.com/_gallery/download_pdf/67d9bd1a3d6332a496666cf5/",
    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"
-  ]
+  ],
+  "archive_id": "promises-5661e8fbf67646711cc2"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "SpaceX will perform up to 25 Starship orbital launches in 2025",
+  "date_promised": "2024-11-23",
+  "due_date": "2025-12-31",
+  "status": "broken",
+  "description": "SpaceX sought environmental review for up to 25 annual Starship/Super Heavy launches and associated landings. The FAA's assessed operational ceiling is not by itself a commitment to complete 25 launches during 2025.",
+  "evidence": [
+   "Only a single-digit number of Starship flights occurred in 2025",
+   "Launch-count trackers list 12 total Starship launches through July 2026; '25 in 25' goal not met"
+  ],
+  "sources": [
+   "Digital Trends",
+   "The Motley Fool",
+   "Orbital Radar"
+  ],
+  "source_urls": [
+   "https://www.digitaltrends.com/space/spacex-starship-launch-target-2025/",
+   "https://www.fool.com/investing/2025/01/12/spacex-missed-its-launch-goal-in-2024-2025-goals/",
+   "https://orbitalradar.com/launch-database/vehicle/starship"
+  ],
+  "archive_id": "promises-6f453341c72481aeae8b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "FAA environmental review assesses a maximum annual cadence, not a binding promise to fly that many in a specific year. Initial draft was July 29, 2024; a November article date is not automatically Musk's announcement. Counting fewer than an 'up to' maximum does not violate it.",
+   "sources": [
+    {
+     "name": "FAA: Starship environmental review",
+     "url": "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+    },
+    {
+     "name": "FAA: revised draft executive summary",
+     "url": "https://www.faa.gov/media/87636"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Restructure OpenAI's for-profit arm as a public benefit corporation",
+  "date_promised": "2024-12-27",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "OpenAI proposed restructuring its for-profit arm on December 27, 2024. On October 28, 2025 it announced completion of recapitalization and formation of OpenAI Group PBC, under nonprofit control.",
+  "evidence": [
+   "OpenAI's October 28, 2025 statement confirms the completed restructuring."
+  ],
+  "sources": [
+   "The New York Times",
+   "Yahoo Finance",
+   "36Kr"
+  ],
+  "source_urls": [
+   "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
+   "https://finance.yahoo.com/news/openai-completes-long-awaited-restructuring-133108861.html",
+   "https://eu.36kr.com/en/p/3531019314568324"
+  ],
+  "archive_id": "promises-3891f029018355bd1b10",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Original statement was December 27, not December 26. The for-profit arm became a PBC while nonprofit control remained, not conversion of the whole nonprofit. Original year-end deadline not found.",
+   "sources": [
+    {
+     "name": "OpenAI: December structure plan",
+     "url": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/"
+    },
+    {
+     "name": "OpenAI: completed recapitalization",
+     "url": "https://openai.com/index/built-to-benefit-everyone/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Claude 4, including the flagship Opus 4 model, will be released in 2025",
+  "date_promised": "2025-01-15",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Anthropic released Claude Opus 4 and Sonnet 4 on May 22, 2025.",
+  "evidence": [
+   "Official release page confirms both model launches."
+  ],
+  "sources": [
+   "AI Wiki",
+   "Deccan Chronicle",
+   "Anthropic"
+  ],
+  "source_urls": [
+   "https://aiwiki.ai/wiki/claude_4",
+   "https://www.deccanchronicle.com/technology/ai-startup-anthropic-set-to-roll-out-more-powerful-opus-model-1880762",
+   "https://www.anthropic.com/claude/opus"
+  ],
+  "archive_id": "promises-c7e04e5e60b59c19a94b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "Release of Opus 4 and Sonnet 4 on May 22 is established. No January 15 Amodei promise or deadline was located; a later release announcement cannot retrospectively prove one.",
+   "sources": [
+    {
+     "name": "Anthropic: Claude 4 announcement",
+     "url": "https://www.anthropic.com/news/claude-4?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment-text"
+    }
+   ]
+  }
  },
  {
   "person": "Mark Zuckerberg",
@@ -240,6 +1795,303 @@
   "source_urls": [
    "https://www.investing.com/news/economy/meta-to-invest-up-to-65-billion-in-capital-expenditure-this-year-3829944",
    "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/"
-  ]
+  ],
+  "archive_id": "promises-896c9450209ccb5cab1c"
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Save TikTok: keep the app running in the US and broker a deal for American ownership",
+  "date_promised": "2025-04-04",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The September 2025 executive action advanced the TikTok US divestiture framework. The deal was reported as finalized in January 2026; a September framework announcement is not transaction closing.",
+  "evidence": [
+   "Executive order of April 4, 2025 kept TikTok operational while a US sale was brokered",
+   "September 2025 order advanced the sale with Oracle responsible for US data security"
+  ],
+  "sources": [
+   "GovInfo",
+   "News 12",
+   "Qazinform"
+  ],
+  "source_urls": [
+   "https://www.govinfo.gov/content/pkg/DCPD-202500434/html/DCPD-202500434.htm",
+   "https://newyork.news12.com/president-trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer",
+   "https://qazinform.com/news/trumps-executive-order-advances-tiktok-sale-oracle-to-handle-us-data-security-a64fe5"
+  ],
+  "archive_id": "promises-2db7b40385db4ea081c3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "September order advanced a framework; transaction completion was reported January 22 US time, January 23 UTC. Exact April 4 commitment and a December 31 completion deadline require original-order verification. Kept for brokering versus closing also needs explicit scope.",
+   "sources": [
+    {
+     "name": "White House: September TikTok framework",
+     "url": "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-saves-tiktok-while-protecting-national-security/?query-11-page=112"
+    },
+    {
+     "name": "ABC News: January 2026 closing",
+     "url": "https://abcnews.com/Business/tiktok-finalizes-deal-operating-us/story?id=129475609"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President of Argentina",
+  "promise": "Eliminate all remaining capital and currency controls by the end of 2025",
+  "date_promised": "2025-01-01",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "Argentina removed most currency controls from April 14, 2025. BCRA records removal of individuals' exchange restrictions and more flexible trade-payment deadlines, not an unconditional end to every capital restriction for every business.",
+  "evidence": [
+   "Most capital controls lifted on April 14, 2025, months ahead of the year-end target",
+   "Remaining restrictions phased out through 2025; IMF agreement supported the liberalisation"
+  ],
+  "sources": [
+   "US State Department",
+   "Trade.gov",
+   "The Conversation"
+  ],
+  "source_urls": [
+   "https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Argentina-Investment-Climate-Statement.pdf",
+   "https://www.trade.gov/market-intelligence/argentina-eliminates-capital-controls-and-payment-timelines",
+   "https://theconversation.com/topics/imf-loans-119599/articles.atom"
+  ],
+  "archive_id": "promises-f5a05663b721e29aa41e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "status"
+   ],
+   "note": "Sources say most controls removed and distinguish individuals from corporate transactions. That cannot verify all controls ended or unrestricted business dollar access. January 1 announcement and exact year-end universal pledge remain unsupported.",
+   "sources": [
+    {
+     "name": "US International Trade Administration: liberalization",
+     "url": "https://www.trade.gov/market-intelligence/argentina-eliminates-capital-controls-and-payment-timelines"
+    },
+    {
+     "name": "BCRA: April 2025 exchange report",
+     "url": "https://www.bcra.gob.ar/en/publicaciones/report-on-the-evolution-of-the-foreign-exchange-market-and-exchange-balance-april-2025/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "G20 leaders (Johannesburg Declaration)",
+  "role": "G20 members",
+  "promise": "Adopt a Critical Minerals Framework for sustainable, transparent, stable and resilient mineral value chains",
+  "date_promised": "2025-11-22",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The Johannesburg declaration welcomed the G20 Critical Minerals Framework as a voluntary, nonbinding guide. Adoption was reported November 22, 2025, not only at the November 23 closing.",
+  "evidence": [
+   "G20 Critical Minerals Framework endorsed in the Johannesburg declaration (Nov 2025)",
+   "Framework adopted by consensus despite the US boycott"
+  ],
+  "sources": [
+   "Xinhua",
+   "Cape Times",
+   "Lokmat Times"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2025-11/23/content_118190485.shtml",
+   "https://capetimes.co.za/g20/2025-11-23-g20-summit-in-south-africa-focus-on-critical-minerals-debt-relief-and-climate-action/",
+   "https://www.lokmattimes.com/international/g20-2025-critical-minerals-to-drive-inclusive-economic-growth-resilience-and-global-south-benefits/"
+  ],
+  "archive_id": "promises-3bd7a078a86a05c65d3a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "promise"
+   ],
+   "note": "Declaration was adopted November 22, ahead of planned summit close. It welcomes a voluntary nonbinding framework; no separate December deadline is sourced. Same-day endorsement is a completed policy event, not automatically a prior promise.",
+   "sources": [
+    {
+     "name": "G20: Johannesburg declaration",
+     "url": "https://www.g20.org.za/wp-content/uploads/2025/11/2025-G20-Summit-Declaration.pdf"
+    },
+    {
+     "name": "G20: November 22 adoption report",
+     "url": "https://www.g20.org.za/track-news/g20-leaders-summit-declaration-revolutionary-for-africa-global-south/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "ChatGPT will reach 1 billion users",
+  "date_promised": "2025-02-01",
+  "due_date": "2025-12-31",
+  "status": "kept (delayed)",
+  "description": "OpenAI's March 2026 announcement described one billion weekly users as forthcoming. Its July 31 update reported more than one billion active users of its models without specifying the same weekly ChatGPT-only measure.",
+  "evidence": [
+   "ChatGPT hit 1 billion weekly active users in mid-2026, about seven months late",
+   "Reached 1 billion monthly active users in June 2026 (fastest app ever)"
+  ],
+  "sources": [
+   "The Next Web",
+   "ARY News",
+   "TheBlockBeats"
+  ],
+  "source_urls": [
+   "https://thenextweb.com/news/chatgpt-1-billion-weekly-active-users-openai-target",
+   "https://arynews.tv/chatgpt-becomes-fastest-app-in-history-to-reach-1-billion-monthly-users",
+   "https://en.theblockbeats.news/flash/344104"
+  ],
+  "archive_id": "promises-e0b7eb435d919a6c2295",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "July announcement says more than one billion active users of its models, without specifying weekly ChatGPT users. March statement still described one billion weekly as forthcoming. Original February 1 promise and end-year deadline are not established. Do not mix monthly, weekly, model-wide and ChatGPT-only metrics.",
+   "sources": [
+    {
+     "name": "OpenAI: March 2026 user update",
+     "url": "https://openai.com/index/accelerating-the-next-phase-ai/"
+    },
+    {
+     "name": "OpenAI: July 2026 adoption update",
+     "url": "https://openai.com/index/building-abundant-intelligence/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Paetongtarn Shinawatra",
+  "role": "Prime Minister of Thailand",
+  "promise": "Distribute the 10,000-baht digital wallet handout to about 50 million Thais",
+  "date_promised": "2024-09-04",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "The first payment phase covered welfare-card holders and people with disabilities. The second targeted older people; NESDC reports 2,825,076 recipients paid on January 27, 2025. A mid-2025 bank overview described the third phase as postponed.",
+  "evidence": [
+   "Phase 1 delivered September 2024; phase 2 delivered in early 2025",
+   "Third phase still under review as of 2025, with funds later slated for Q2 2026"
+  ],
+  "sources": [
+   "Nation Thailand",
+   "Bangkok Post",
+   "China Daily"
+  ],
+  "source_urls": [
+   "https://www.nationthailand.com/business/economy/40050011",
+   "https://www.bangkokpost.com/thailand/politics/2922227/court-rejects-complaint-against-pms-handout-policy",
+   "http://www.chinadaily.com.cn/a/202409/13/WS66e423cba3103711928a7ee0.html"
+  ],
+  "archive_id": "promises-7a9c8bcda7adbfe94a62",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Phase 2 targeted elderly recipients, not the unrestricted general public. NESDC reports 2,825,076 payments January 27, 2025; planned beneficiary counts must not replace actual counts. Original September 4 reaffirmation, year-end universal deadline and latest third-phase disposition remain unestablished.",
+   "sources": [
+    {
+     "name": "Thailand NESDC: economic report",
+     "url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2025/04/article_20250306144355-1.pdf"
+    },
+    {
+     "name": "Kasikornbank: mid-2025 programme overview",
+     "url": "https://www.kasikornbank.com/en/IR/PresentationJournal/webcast/KBank_Investor_Presentation_Mid-Year%20NDR%202025.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "Establish a Strategic Bitcoin Reserve and retain eligible bitcoin deposited into it",
+  "date_promised": "2025-03-06",
+  "due_date": "2025-12-31",
+  "status": "kept",
+  "description": "The March 6, 2025 order directed Treasury to establish a reserve using eligible forfeited bitcoin, subject to statutory exceptions. It prohibits sale of bitcoin deposited in that reserve; it is not a guarantee about every government-held bitcoin.",
+  "evidence": [
+   "Executive Order signed March 6, 2025 created the reserve",
+   "Order committed the US to not sell bitcoin deposited in the reserve"
+  ],
+  "sources": [
+   "White House",
+   "The Hindu",
+   "VOA"
+  ],
+  "source_urls": [
+   "https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/",
+   "https://www.thehindu.com/news/international/trump-signs-executive-order-to-establish-government-bitcoin-reserve/article69301281.ece",
+   "https://editorials.voa.gov/a/making-the-u-s-the-bitcoin-superpower/8007190.html"
+  ],
+  "archive_id": "promises-7a18d45bcb4ba5a506a4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Order directs creation, subject to legal forfeiture and restitution requirements; it does not place all government BTC into the reserve immediately. No-sale rule applies to deposited reserve BTC, not every government bitcoin forever. December deadline unsupported; implementation needs Treasury account evidence.",
+   "sources": [
+    {
+     "name": "White House: reserve executive order",
+     "url": "https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/?cst=&query-11-page=90"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Return the residents of the north to their homes safely after the war with Hezbollah",
+  "date_promised": "2024-09-17",
+  "due_date": "2025-12-31",
+  "status": "partial",
+  "description": "Israel's security cabinet added safe return of northern evacuees as a war objective in a statement reported early September17,2024 local time. The objective itself gave no end-2025 completion deadline.",
+  "evidence": [
+   "Expanded war goals approved by the security cabinet on September 17, 2024",
+   "November 26, 2024 ceasefire statement promised the safe return of northern residents"
+  ],
+  "sources": [
+   "Government of Israel (PMO)",
+   "JNS",
+   "MTV Lebanon"
+  ],
+  "source_urls": [
+   "https://www.gov.il/en/pages/pm-netanyahu-on-the-ceasefire-in-lebanon-26-november-2024",
+   "https://www.jns.org/israel-news/war-on-hezbollah-to-continue-until-safety-is-restored-in-israels-north-netanyahu-says",
+   "https://www.mtv.com.lb/News/Local/1489625/"
+  ],
+  "archive_id": "promises-4dcc9bfff98769372906",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Early September17 Israel publication at02:50 was September16 UTC; cabinet event time not established separately. No December2025 deadline in sourced war objective. Latest complete return count and safety conditions remain unestablished.",
+   "sources": [
+    {
+     "name": "Jerusalem Post: early-morning cabinet statement",
+     "url": "https://www.jpost.com/breaking-news/article-820445"
+    },
+    {
+     "name": "Times of Israel: expanded war objective",
+     "url": "https://www.timesofisrael.com/return-of-displaced-northern-residents-to-their-homes-becomes-an-official-war-goal/"
+    }
+   ]
+  }
  }
 ]

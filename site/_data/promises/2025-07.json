@@ -1,5 +1,43 @@
 [
  {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "No tax on tips, overtime, or Social Security benefits",
+  "date_promised": "2024-06-15",
+  "due_date": "2025-07-04",
+  "status": "partial",
+  "description": "Campaign pledge to end taxes on tips, overtime pay and Social Security income. The One Big Beautiful Bill Act (signed July 4, 2025) delivered only temporary tax deductions for tips, overtime and auto loans, all expiring in 2028; the Social Security tax exemption was never included, so the promise was only partially fulfilled.",
+  "evidence": [
+   "OBBBA creates deductions for tips/overtime/auto loans rather than full exemptions (per Wikipedia, Second presidency of Donald Trump)",
+   "Deductions expire in 2028; no Social Security exemption was enacted"
+  ],
+  "sources": [
+   "Wikipedia: Second presidency of Donald Trump",
+   "Reuters coverage of One Big Beautiful Bill Act"
+  ],
+  "archive_id": "promises-8bce529322617273a116",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "IRS confirms separate deductions, not blanket exemption. A bundled June 15 announcement and July 4 deadline are not sourced; tips, overtime and Social Security pledges need individual dates. Inspect statutory eligibility, caps, expiry and Social Security treatment before certifying full narrative.",
+   "sources": [
+    {
+     "name": "Internal Revenue Service",
+     "url": "https://www.irs.gov/newsroom/irs-published-schedule-taxpayers-will-use-to-claim-deductions-on-no-tax-on-tips-no-tax-on-overtime-no-tax-on-car-loans-no-tax-on-seniors"
+    },
+    {
+     "name": "Internal Revenue Service",
+     "url": "https://www.irs.gov/newsroom/updated-tax-withholding-estimator-lets-millions-of-taxpayers-take-one-big-beautiful-bill-changes-into-account-when-calculating-their-withholding"
+    }
+   ]
+  }
+ },
+ {
   "person": "James Gunn",
   "role": "Co-CEO, DC Studios",
   "promise": "DC Studios scheduled Superman: Legacy for a US theatrical release on July 11, 2025.",
@@ -20,6 +58,50 @@
    "https://www.dc.com/blog/2023/01/31/dc-studios-announces-slate-of-10-new-film-and-television-projects",
    "https://www.dc.com/movies/superman-2025",
    "https://www.clickondetroit.com/entertainment/2025/07/13/superman-and-dc-studios-fly-to-a-122-million-opening/"
-  ]
+  ],
+  "archive_id": "promises-26a986d9f84e085995a3"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of xAI",
+  "promise": "Grok 4 will be released just after July 4, 2025",
+  "date_promised": "2025-06-29",
+  "due_date": "2025-07-07",
+  "status": "kept (delayed)",
+  "description": "xAI's Grok 4 release announcement is dated July 9, 2025. The earlier phrase 'just after July 4' was an approximate window, not a documented July 7 cutoff.",
+  "evidence": [
+   "Grok 4 launched July 9, 2025, two days past the 'just after July 4' window",
+   "Musk: 'We're in the final stages of prepping Grok 4, set for release just after July 4'"
+  ],
+  "sources": [
+   "AIBusiness",
+   "ET Edge Insights",
+   "DNA India"
+  ],
+  "source_urls": [
+   "https://aibusiness.com/chatbot/elon-musk-xai-slates-post-july-4-release-for-grok-4",
+   "https://etedge-insights.com/technology/artificial-intelligence/elon-musks-xai-to-launch-grok-4-this-week-what-to-expect-from-the-latest-ai-model/",
+   "https://www.dnaindia.com/business/report-elon-musk-to-launch-grok-4-livestream-on-know-timing-features-why-it-could-beat-chatgpt-google-gemini-3166807"
+  ],
+  "archive_id": "promises-71dc76bd5e834a00b742",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Official release page is dated July 9. 'Just after July 4' does not establish July 7 as a deadline or two days' lateness. Original announcement date, UTC unveiling date and later universal free access remain unverified.",
+   "sources": [
+    {
+     "name": "xAI: Grok 4 release",
+     "url": "https://x.ai/news/grok-4"
+    },
+    {
+     "name": "AI Business: announced release window",
+     "url": "https://aibusiness.com/chatbot/elon-musk-xai-slates-post-july-4-release-for-grok-4"
+    }
+   ]
+  }
  }
 ]

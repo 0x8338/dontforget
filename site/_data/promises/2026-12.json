@@ -1,5 +1,447 @@
 [
  {
+  "person": "Elon Musk",
+  "role": "Tesla CEO",
+  "promise": "Optimus robots will reach volume production in 2026",
+  "date_promised": "2025-06-12",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At Tesla's June 2025 shareholder meeting Musk said Optimus would go from low production in 2025 to mass production in 2026. As of mid-2026, Optimus remained in factory-trial/prototype stages, far below the promised production volumes.",
+  "evidence": [
+   "2025-2026 footage shows Optimus prototypes doing factory tasks, not mass production",
+   "Tesla has not reported volume Optimus output as of mid-2026"
+  ],
+  "sources": [
+   "Tesla shareholder meeting (June 2025, CNBC coverage)",
+   "Reuters"
+  ],
+  "archive_id": "promises-fc8e20a32c24a04453c4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "description",
+    "sources"
+   ],
+   "note": "Tesla IR has dated shareholder materials but no retrieved June 12, 2025 shareholder meeting supporting this claim. Need original production forecast and unit/volume definition; current prototype footage is not a sufficient production metric. Deadline remains future.",
+   "sources": [
+    {
+     "name": "Tesla",
+     "url": "https://ir.tesla.com/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Luiz Inacio Lula da Silva",
+  "role": "President of Brazil",
+  "promise": "Brazil will be off the hunger map by the end of my term",
+  "date_promised": "2023-07-25",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "FAO reported Brazil's removal from the Hunger Map in 2025, before the end of Lula's 2026 term. This classification uses undernourishment and should not be conflated with severe-food-insecurity survey estimates.",
+  "evidence": [
+   "FAO's 2025 assessment and 2026 retrospective identify Brazil as off the Hunger Map."
+  ],
+  "sources": [
+   "Reuters (July 2023 pledge)",
+   "IBGE / FAO SOFI 2025"
+  ],
+  "archive_id": "promises-868c68d177866dd005d4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "FAO says Brazil left hunger map in 2025, contradicting pending mid-2026 claim. Hunger-map undernourishment and IBGE severe food insecurity are different indicators. Original July 25 pledge date remains unverified.",
+   "sources": [
+    {
+     "name": "Food and Agriculture Organization",
+     "url": "https://www.fao.org/brasil/noticias/detail-events/fr/c/1757106/"
+    },
+    {
+     "name": "Food and Agriculture Organization",
+     "url": "https://www.fao.org/family-farming/detail/en/c/1743514/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Rubin is coming in 2026",
+  "date_promised": "2024-06-02",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "NVIDIA's 2026 Rubin announcement says the platform is in full production and partner products are expected in the second half of 2026. Production and customer availability are separate milestones.",
+  "evidence": [
+   "NVIDIA gives second-half 2026 partner availability, not a specific Q3 launch date."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Rubin_(microarchitecture)",
+   "https://en.wikipedia.org/wiki/Nvidia"
+  ],
+  "archive_id": "promises-5075af90c07cce6abb0f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status"
+   ],
+   "note": "Primary 2026 release distinguishes full production from partner availability in second half of 2026. Replaces unsourced Q3 specificity and confusing delay-to-mid-2026 wording. Computex original date and actual availability as of audit still need checking.",
+   "sources": [
+    {
+     "name": "NVIDIA",
+     "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO, OpenAI",
+  "promise": "\"You might see a smaller jump from GPT-5 to GPT-6 than from GPT-4 to GPT-5\" — signaling GPT-6 within roughly a year of GPT-5, i.e., 2026",
+  "date_promised": "2025-10-06",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Throughout 2025 Altman told interviewers and DevDay audiences that GPT-6 would follow GPT-5 (released Aug 7, 2025) within about a year. As of mid-2026, OpenAI had shipped GPT-5.2 (Dec 2025) and GPT-5.6 but no GPT-6, so the promise remains unfulfilled. Quote wording per 20VC podcast (Sept 2025) coverage; no exact verbatim transcript verified.",
+  "evidence": [
+   "GPT-5 launched Aug 7, 2025 (Wikipedia)",
+   "OpenAI shipped GPT-5.2 and GPT-5.6 by Dec 2025, latest models per Wikipedia's OpenAI/GPT-5 pages",
+   "No GPT-6 release or announcement found in news feeds as of July 2026"
+  ],
+  "sources": [
+   "Wikipedia: GPT-5",
+   "The Verge: All of the updates from OpenAI DevDay 2025 (Oct 6, 2025)",
+   "20VC podcast with Harry Stebbings (Sept 2025)"
+  ],
+  "archive_id": "promises-79af27bffd96288b513e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Search found a September 2025 20VC newsletter, not evidence for the October 6 date, exact comparison, or a GPT-6 release deadline. OpenAI release notes do not substantiate the record's claimed GPT-5.6 release in December 2025. Do not convert a speculative model-gap comment into a dated launch promise.",
+   "sources": [
+    {
+     "name": "20VC September 7 newsletter",
+     "url": "https://20vc.substack.com/p/20vc-newsletter-7th-september-2025"
+    },
+    {
+     "name": "OpenAI model release notes",
+     "url": "https://help.openai.com/en/articles/9624314"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO, Anthropic",
+  "promise": "Amodei speculated that powerful AI could arrive as early as 2026, while allowing that it could take much longer.",
+  "date_promised": "2024-10-10",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "The essay presents a conditional early-arrival scenario, not a commitment to deliver a system by 2026.",
+  "evidence": [
+   "The essay is dated October 2024 and expressly preserves uncertainty about timing."
+  ],
+  "sources": [
+   "Dario Amodei"
+  ],
+  "source_urls": [
+   "https://darioamodei.com/machines-of-loving-grace"
+  ],
+  "archive_id": "promises-7af17d950ca86712e2dd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "The primary essay says October 2024, not October 10, and explicitly allows a much longer timeline. A possible earliest arrival in 2026 is not a latest deadline. Remove the invented compute-scale discussion and unsourced assertion about the state of all AI systems.",
+   "sources": [
+    {
+     "name": "Amodei Machines of Loving Grace",
+     "url": "https://darioamodei.com/essay/machines-of-loving-grace"
+    }
+   ]
+  }
+ },
+ {
+  "person": "xAI",
+  "role": "AI company",
+  "promise": "xAI stated its mission as understanding the true nature of the universe.",
+  "date_promised": "2023-07-12",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "The company's July 12, 2023 launch presented a research mission, without a fulfillment date.",
+  "evidence": [
+   "Contemporary launch coverage supports the mission and date, but no deadline or completed outcome."
+  ],
+  "sources": [
+   "xAI launch materials (Jul 12, 2023)",
+   "Wikipedia: xAI"
+  ],
+  "archive_id": "promises-b7a237132e39ddf6d7d2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "A mission statement is not a dated deliverable and cannot be marked kept merely because it remains the mission. The original description itself admits the deadline is an assessment horizon; that is not a promised deadline. Withhold while the schema requires one.",
+   "sources": [
+    {
+     "name": "The National xAI launch",
+     "url": "https://www.thenationalnews.com/business/2023/07/12/elon-musk-launches-xai-company-to-challenge-chatgpt/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "NVIDIA targeted Rubin availability in the second half of 2026.",
+  "date_promised": "2025-03-18",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "NVIDIA's later platform notice distinguishes production of Rubin from availability of partners' products in the second half of 2026.",
+  "evidence": [
+   "NVIDIA describes Rubin as in full production and gives a later partner-availability window.",
+   "Outcome not established as of 2026-09-21: the checked primary notice does not establish actual partner-product availability."
+  ],
+  "sources": [
+   "Wikipedia: Rubin (microarchitecture)",
+   "NVIDIA GTC 2025 keynote",
+   "Reuters (Mar 2025)"
+  ],
+  "archive_id": "promises-54754c90573ea8168f66",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "The original conflates architecture cadence, production and partner availability. NVIDIA's later primary notice says Rubin is in production and partner products are expected in the second half of 2026. The March 2025 annual-cadence quotation and full Ultra target need primary confirmation before publication.",
+   "sources": [
+    {
+     "name": "NVIDIA Rubin platform announcement",
+     "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
+    },
+    {
+     "name": "TechCrunch GTC 2025 roadmap",
+     "url": "https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "AMD",
+  "role": "Semiconductor company",
+  "promise": "AMD previewed Helios, a rack-scale system based on its MI400-series GPUs.",
+  "date_promised": "2025-06-12",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "AMD's June announcement described Helios and engineering performance projections. Those projections are not measured shipping-product performance.",
+  "evidence": [
+   "The primary June 12 announcement identifies Helios and MI400.",
+   "Outcome not established as of 2026-09-21: a product page and projections do not independently establish a shipment date."
+  ],
+  "sources": [
+   "AMD CES 2025 press release (Jan 6, 2025)",
+   "Reuters (Jan 6, 2025)",
+   "Wikipedia: AMD Instinct"
+  ],
+  "archive_id": "promises-eb6bd4c8d3a223d0b3e1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "AMD's June 12, 2025 announcement supports a Helios preview using MI400-series GPUs, with projected MoE inference performance versus MI355X, not the claimed CES January MI450/12x-MI300X announcement. A supported 2026 shipment timetable is still required; do not transfer a forecast between different chips or performance baselines.",
+   "sources": [
+    {
+     "name": "AMD Advancing AI 2025 announcement",
+     "url": "https://ir.amd.com/news-events/press-releases/detail/1255/amd-unveils-vision-for-an-open-ai-ecosystem-detailing-new-silicon-software-and-systems-at-advancing-ai-2025"
+    },
+    {
+     "name": "AMD MI400 product page",
+     "url": "https://www.amd.com/en/products/accelerators/instinct/mi400.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Figure AI",
+  "role": "Humanoid robotics company",
+  "promise": "Figure described BotQ's first-generation manufacturing line as designed for capacity of up to 12,000 humanoid robots per year.",
+  "date_promised": "2025-03-15",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "The BotQ notice describes planned manufacturing capacity. Figure separately introduced Figure 03 on October 9, 2025; neither fact establishes annual production volume.",
+  "evidence": [
+   "Figure's dated BotQ announcement specifies capacity, not a deployment quota.",
+   "Outcome not established as of 2026-09-21: the checked notices do not establish demonstrated annual throughput or a December 2026 deadline."
+  ],
+  "sources": [
+   "Wikipedia: Figure AI",
+   "Figure.ai announcements (2025)",
+   "Fortune (Apr 2025, BMW claims scrutiny)"
+  ],
+  "archive_id": "promises-a92a491248bd952fda37",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "The BotQ announcement is March 15, 2025, not February 1. It describes capacity of up to 12,000 a year, not a promise to produce or deploy that many by December 2026. Figure 03 was introduced October 9, but launch is not shipment. An installed-robot count cannot measure manufacturing capacity; the 740 figure is unverified.",
+   "sources": [
+    {
+     "name": "Figure BotQ announcement",
+     "url": "https://www.figure.ai/news/botq"
+    },
+    {
+     "name": "Figure 03 introduction",
+     "url": "https://www.figure.ai/news/introducing-figure-03"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Shigeru Ishiba",
+  "role": "Prime Minister of Japan",
+  "promise": "Raise childcare leave benefits so that parents receive 100 percent of take-home pay when both parents take childcare leave",
+  "date_promised": "2025-01-24",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "Japan's childcare-leave rules provide an additional 13% payment for eligible parents, bringing the combined rate to 80% of pre-leave wages, equivalent to full take-home pay after tax and insurance treatment. The supplement generally requires both parents to take at least 14 days of leave and is limited to 28 days.",
+  "evidence": [
+   "Announced in the 24 January 2025 policy speech to the Diet",
+   "Implementation status still pending as of mid-2026"
+  ],
+  "sources": [
+   "Prime Minister of Japan (PMO)",
+   "IDSA Japan Digest"
+  ],
+  "archive_id": "promises-c7c7b86bebddc0027510",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "Current official benefit rules establish the enhanced payment, contradicting pending implementation. It is 80% of pre-leave wages, equivalent to full take-home pay after tax/contribution treatment, for at most 28 days and subject to eligibility. A December 2026 legislative deadline is not established.",
+   "sources": [
+    {
+     "name": "Japan PMO: January 24 policy speech",
+     "url": "https://japan.kantei.go.jp/103/statement/202501/24shiseihoshin.html"
+    },
+    {
+     "name": "MHLW: childcare leave benefit rules",
+     "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/koyoukintou/ryouritsu/ikuji/childcare/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "The United States will acquire Greenland — \"we need it for international security.\"",
+  "date_promised": "2019-08-18",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "On September 18, 2026, Trump announced an agreement to expand the US military presence in Greenland while leaving the territory under Danish control. This is not a purchase or transfer of sovereignty.",
+  "evidence": [
+   "Denmark and Greenland rejected the proposal again at the July 2026 NATO summit",
+   "No purchase or transfer agreement exists as of mid-2026"
+  ],
+  "sources": [
+   "India Today",
+   "WION",
+   "Vietnam News (AP)"
+  ],
+  "source_urls": [
+   "https://www.indiatoday.in/world/story/greenland-trump-nato-us-president-says-island-should-be-under-american-control-not-denmark-2942687-2026-07-07",
+   "https://www.wionews.com/world/trump-says-greenland-should-be-under-us-control-denmark-rejects-claim-at-nato-summit-1783452522464",
+   "https://www.vietnam.vn/en/dan-mach-bac-yeu-cau-cua-ong-trump-khang-dinh-greenland-khong-de-ban"
+  ],
+  "archive_id": "promises-1f9c369f6c35d1db9ab8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "Latest reporting describes military access while Greenland remains Danish, not acquisition. A 2026 end-year deadline is unsupported and not yet reached. Exact original August 18 wording and claimed July summit episode were not established; no ownership-transfer verdict should be inferred from access negotiations.",
+   "sources": [
+    {
+     "name": "AP: September 18 Greenland agreement",
+     "url": "https://apnews.com/article/4cf77cb4608b685a70410bd679479193"
+    },
+    {
+     "name": "AP: Denmark response September 19",
+     "url": "https://apnews.com/article/0eac9ad2196551525bcb8c71e80c480e"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Jetson Thor, NVIDIA's humanoid-robot computer, will arrive in 2026",
+  "date_promised": "2025-01-06",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "NVIDIA announced general availability of Blackwell-based Jetson Thor developer kits and production modules on August 25, 2025. A later humanoid demonstration is not the platform's initial release.",
+  "evidence": [
+   "Jetson AGX Thor T5000 launched in the Isaac GR00T reference robot, June 2026",
+   "GTC Taipei keynote confirmed the 'physical AI' platform in 2026"
+  ],
+  "sources": [
+   "CGTN",
+   "TechFundingNews",
+   "Inc."
+  ],
+  "source_urls": [
+   "https://news.cgtn.com/news/2026-06-01/NVIDIA-Unitree-unveil-new-humanoid-powered-by-Isaac-GR00T-1NCWlv6VRde/index.html",
+   "https://techfundingnews.com/nvidia-launches-its-first-open-humanoid-robot/",
+   "https://www.inc.com/connor-jewiss/how-nvidias-new-humanoid-machine-solves-the-robot-industrys-biggest-problem/91361759"
+  ],
+  "archive_id": "promises-794083f11130e6aac6ce",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "Jetson Thor was commercially available August 25, 2025, not first launched through a June 2026 reference robot. Original CES date and 2026 forecast are not established by the availability announcement; preserve this baseline uncertainty.",
+   "sources": [
+    {
+     "name": "NVIDIA: Jetson Thor availability",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-powered-jetson-thor-now-available-accelerating-the-age-of-general-robotics"
+    }
+   ]
+  }
+ },
+ {
   "person": "Anura Kumara Dissanayake",
   "role": "President of Sri Lanka",
   "promise": "Repeal the Prevention of Terrorism Act before the end of 2026",
@@ -17,7 +459,90 @@
   "source_urls": [
    "https://www.ft.lk/business/AKD-vows-to-scrap-PTA-this-year-replace-with-targeted-organised-crime-law/34-793829",
    "https://www.dailymirror.lk/breaking-news/PTA-will-be-abolished-in-a-few-months-President/108-343889"
-  ]
+  ],
+  "archive_id": "promises-f165735b054a141a7c71"
+ },
+ {
+  "person": "John Dramani Mahama",
+  "role": "President of Ghana",
+  "promise": "Complete the Kasoa-Winneba highway by December 31, 2026",
+  "date_promised": "2026-04-22",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Mahama discussed accelerating the Kasoa-Winneba road project toward end-2026 completion, with a possible extension into early 2027. The presidency published its inspection account on April 24.",
+  "evidence": [
+   "Target date of December 31, 2026 restated in April 2026",
+   "Completion may slip into Q1 2027 per the president's own caveat"
+  ],
+  "sources": [
+   "Citi Newsroom",
+   "The Vaultz News"
+  ],
+  "source_urls": [
+   "https://www.citinewsroom.com/2026/04/mahama-kasoa-winneba-highway-to-be-completed-by-end-2026/",
+   "https://thevaultznews.com/2026/04/23/mahama-inspects-kasoa-winneba-dualisation-projects-targets-december-2026-completion/"
+  ],
+  "archive_id": "promises-6524c2ff1ec8a611a930",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise"
+   ],
+   "note": "Official and agency accounts support target and ongoing construction but their April 24/25 publication dates do not establish the record's April 22 event. Q1 2027 caveat means December target is not unconditional. Latest completion not established.",
+   "sources": [
+    {
+     "name": "Ghana Presidency: inspection account",
+     "url": "https://presidency.gov.gh/help-is-on-the-way-president-mahama-assures-commuters-of-early-completion-of-kasoa-winneba-road/"
+    },
+    {
+     "name": "Ghana News Agency: inspection report",
+     "url": "https://gna.org.gh/2026/04/president-mahama-inspects-ongoing-dualisation-of-kasoa-winneba-road/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "Anthropic will release its Claude 5 line (Mythos class) in 2026",
+  "date_promised": "2026-01-15",
+  "due_date": "2026-12-31",
+  "status": "kept",
+  "description": "Anthropic announced Claude Fable 5 and Claude Mythos 5 on June 9, 2026. The claimed January 2026 advance commitment remains to be sourced.",
+  "evidence": [
+   "Official Anthropic material confirms the June 9 model announcement."
+  ],
+  "sources": [
+   "Inc",
+   "IntelliNews",
+   "Crypto Briefing"
+  ],
+  "source_urls": [
+   "https://www.inc.com/ben-sherry/anthropic-just-released-claude-fable-5-mythos-class-model-to-the-public-with-key-restrictions/91357769",
+   "https://www.intellinews.com/anthropic-releases-public-version-of-its-most-powerful-ai-model-in-the-us-citing-new-safeguards-447739/",
+   "https://cryptobriefing.com/anthropic-ceo-warns-ai-powerful-new-model/"
+  ],
+  "archive_id": "promises-122a7f0f5d06e8928992",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "Primary material confirms June 9 release announcement, but no January 15 promise or deadline was found. Product history does not establish an earlier statement by Amodei. Remove sweeping performance ranking.",
+   "sources": [
+    {
+     "name": "Anthropic: Fable 5 and Mythos 5",
+     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+     "name": "Anthropic: Mythos product history",
+     "url": "https://www.anthropic.com/claude/mythos"
+    }
+   ]
+  }
  },
  {
   "person": "Elon Musk",
@@ -35,7 +560,130 @@
   ],
   "source_urls": [
    "https://www.teslarati.com/elon-musk-over-1000-humans-neuralink-implants-2026/"
-  ]
+  ],
+  "archive_id": "promises-ab3fd0d6c3e96265dafb"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "Aim to launch an uncrewed Starship mission to Mars by end-2026",
+  "date_promised": "2025-05-01",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "Musk had aimed for an uncrewed Mars launch by end-2026. In February 2026, Reuters reported a shift toward lunar missions, followed by Musk's public confirmation of a Moon-first strategy.",
+  "evidence": [
+   "Musk walked back the late-2026 Mars target in February 2026, pivoting to the Moon",
+   "No uncrewed Starship has reached Mars and the 2026 launch window is expected to pass unused"
+  ],
+  "sources": [
+   "CNN",
+   "The Standard",
+   "Bol News"
+  ],
+  "source_urls": [
+   "https://www.cnn.com/2026/02/08/science/elon-musk-spacex-priorities-moon-intl-hnk",
+   "https://www.thestandard.com.hk/insights/article/324772/Mars-on-Hold-How-SpaceX-Justifies-a-Trillion-Dollar-Valuation-Zero-Shot-Inference-Allen-Au",
+   "https://www.bolnews.com/technology/first-private-starship-launch-set-for-2026/"
+  ],
+  "archive_id": "promises-afe2153c5075e8711ce2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status"
+   ],
+   "note": "Sources distinguish a late-2026 Mars launch from landing there by that date. February reprioritization is reported, but original May 1 announcement is not established. Do not score an unexpired launch window as a completed failure or silently convert launch to landing.",
+   "sources": [
+    {
+     "name": "Reuters: February 2026 Moon-first report",
+     "url": "https://www.investing.com/news/economy-news/spacex-delays-mars-plans-to-focus-on-moon-wsj-reports-4492181"
+    },
+    {
+     "name": "Reuters: Musk confirms lunar priority",
+     "url": "https://www.investing.com/news/stock-market-news/spacex-prioritizes-lunar-selfgrowing-city-over-mars-project-musk-says-4492637"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of NVIDIA",
+  "promise": "Intend to invest up to $100 billion in OpenAI progressively as NVIDIA systems are deployed",
+  "date_promised": "2025-09-22",
+  "due_date": "2026-12-31",
+  "status": "broken",
+  "description": "NVIDIA and OpenAI announced a deployment-linked letter of intent on September 22, 2025. OpenAI's February 27, 2026 financing announcement included $30 billion from NVIDIA. The earlier maximum was not a binding end-2026 investment floor.",
+  "evidence": [
+   "NVIDIA invested $30bn of the pledged $100bn in OpenAI's February 2026 round",
+   "Huang publicly walked back the figure as 'never a commitment' in February 2026"
+  ],
+  "sources": [
+   "Bloomberg",
+   "Yahoo Finance",
+   "The Straits Times"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-02-01/openai-investment-was-never-a-commitment-nvidia-s-huang-says",
+   "https://finance.yahoo.com/news/nvidia-ceo-caps-openai-investment-153302677.html",
+   "https://www.straitstimes.com/business/companies-markets/nvidia-ceo-says-pledge-to-invest-us100-billion-in-openai-never-a-commitment-korea-stocks-sink"
+  ],
+  "archive_id": "promises-6daca5c0f776a70b0296",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "LOI was September 22, not September 15. Investment was up to $100bn progressively as systems deploy; H2 2026 concerned the first gigawatt, not payment of the whole amount. A $30bn announced funding participation is not proof of cash paid or violation of a ceiling.",
+   "sources": [
+    {
+     "name": "NVIDIA: September 22 letter of intent",
+     "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"
+    },
+    {
+     "name": "OpenAI: February 2026 financing",
+     "url": "https://openai.com/index/scaling-ai-for-everyone/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO of Meta",
+  "promise": "\"We're on track to deliver personal superintelligence to billions of people\"",
+  "date_promised": "2026-04-29",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Meta's Q1 2026 results quoted Zuckerberg's aspiration to deliver personal superintelligence broadly and projected $125-145 billion in 2026 capital expenditure. The lab's name does not establish that its first released model achieved superintelligence.",
+  "evidence": [
+   "Pledge made on the Q1 2026 earnings call with $145bn 2026 capex",
+   "July 2026: Zuckerberg conceded agentic AI efforts lagged his hopes"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Nasdaq",
+   "SiliconANGLE"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
+   "https://www.nasdaq.com/articles/mark-zuckerberg-wrote-ai-may-soon-deliver-personal-superintelligence-everyone-just-metas",
+   "https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/"
+  ],
+  "archive_id": "promises-96489f93f404861439b9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Capex was a $125-145bn range, not fixed $145bn. First model from a named lab is not proof of superintelligence. No end-2026 deadline or operational definition appears in the quoted aspiration.",
+   "sources": [
+    {
+     "name": "Meta: Q1 2026 results",
+     "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/"
+    }
+   ]
+  }
  },
  {
   "person": "Dave Limp",
@@ -55,7 +703,8 @@
   "source_urls": [
    "https://www.blueorigin.com/news/new-glenn-return-to-flight",
    "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/"
-  ]
+  ],
+  "archive_id": "promises-3fba4f490a5ec203ac07"
  },
  {
   "person": "Elon Musk",
@@ -77,7 +726,8 @@
    "https://www.investing.com/news/stock-market-news/teslas-musk-to-unveil-robotaxis-amid-fanfare-and-skepticism-3658957",
    "https://fortune.com/2024/10/10/elon-musk-cybertruck-robotaxi-robovan-optimus-robot/",
    "https://electrek.co/2026/02/17/tesla-rolls-first-steering-wheel-less-cybercab-unit-off-the-line-before-solving-autonomy/"
-  ]
+  ],
+  "archive_id": "promises-153a7b82990b9a2baa00"
  },
  {
   "person": "Andy Jassy",
@@ -97,7 +747,8 @@
   "source_urls": [
    "https://www.investing.com/news/stock-market-news/amazon-beats-estimates-for-quarterly-cloud-revenue-growth-4826048",
    "https://www.marketbeat.com/earnings/reports/2026-7-30-amazoncom-inc-stock/"
-  ]
+  ],
+  "archive_id": "promises-16a765e5c0b0a47e8a20"
  },
  {
   "person": "Meta Platforms",
@@ -115,7 +766,90 @@
   ],
   "source_urls": [
    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/"
-  ]
+  ],
+  "archive_id": "promises-9d3bdf79c0857e33bf65"
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Work to form a broad national government after the next election",
+  "date_promised": "2026-06-27",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "At his June27,2026 press conference, Netanyahu expressed an intention to form a broad national government. The report does not establish a December31 deadline.",
+  "evidence": [
+   "Announcement at press conference on June 27, 2026",
+   "Pledge repeated in July 2026 campaign messaging"
+  ],
+  "sources": [
+   "Xinhua",
+   "The Hindu",
+   "Times of Israel"
+  ],
+  "source_urls": [
+   "http://www.china.org.cn/world/Off_the_Wire/2026-06/28/content_118571440.shtml",
+   "https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece",
+   "https://www.timesofisrael.com/netanyahu-promises-to-unite-country-in-campaign-video-ahead-of-tisha-bav-fast/"
+  ],
+  "archive_id": "promises-e9aa76d2baee60d30eb8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "June27 statement of intent is supported. A December31 government-formation deadline is not supplied by the aspiration or election schedule; repeated July wording unverified.",
+   "sources": [
+    {
+     "name": "Times of Israel: June27 press conference",
+     "url": "https://www.timesofisrael.com/liveblog-june-27-2026/"
+    },
+    {
+     "name": "Jerusalem Post: government-formation statement",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-900654"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister of Poland",
+  "promise": "Spend 5 percent of GDP on defence in 2026",
+  "date_promised": "2025-07-30",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Poland's cabinet adopted a draft 2026 budget on August 28, 2025 providing approximately PLN 200 billion for defence, about 4.8% of GDP.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: planned appropriations are not final 2026 spending, and the original 5% pledge baseline needs confirmation."
+  ],
+  "sources": [
+   "TVP World",
+   "PAP",
+   "Orda"
+  ],
+  "source_urls": [
+   "https://tvpworld.com/88595433/polands-2026-budget-allocates-record-469-billion-to-defense",
+   "https://biznes.pap.pl/wiadomosci/gospodarka/polands-defence-spending-must-have-its-limits-says-dev-funds-minister",
+   "https://en.orda.kz/poland-to-spend-record-55-billion-on-defense-in-2026-8072/"
+  ],
+  "archive_id": "promises-d34330d39391f968d82e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise"
+   ],
+   "note": "The August 28 event was cabinet adoption of a draft, not enactment. The draft and October ministerial statement support planned 4.8% spending, not an actual outturn. Exact July 30 Tusk pledge of 5% was not established.",
+   "sources": [
+    {
+     "name": "Government of Poland",
+     "url": "https://www.gov.pl/web/premier/bezpieczenstwo-wsparcie-rodzin-i-ambitne-inwestycje--rzad-przyjal-budzet-2026"
+    },
+    {
+     "name": "Sejm",
+     "url": "https://api.sejm.gov.pl/sejm/term10/proceedings/42/2025-10-09/transcripts/002"
+    }
+   ]
+  }
  },
  {
   "person": "Boeing",
@@ -135,7 +869,86 @@
   "source_urls": [
    "https://s2.q4cdn.com/661678649/files/doc_financials/2025/q4/Transcript.pdf",
    "https://boeing.mediaroom.com/2026-07-28-Boeing-Reports-Second-Quarter-Results"
-  ]
+  ],
+  "archive_id": "promises-38b8beb5ef215092e14a"
+ },
+ {
+  "person": "Lip-Bu Tan",
+  "role": "CEO of Intel",
+  "promise": "Expect commitments from multiple external foundry customers in the second half of 2026",
+  "date_promised": "2026-05-18",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "May reporting attributed to Tan an expectation of multiple foundry customer commitments in the second half of 2026.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: a reported Fortinet deal does not establish that the multiple-customer forecast was fulfilled."
+  ],
+  "sources": [
+   "CNBC",
+   "TrendForce",
+   "Nasdaq"
+  ],
+  "source_urls": [
+   "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+   "https://www.trendforce.com/news/2026/05/19/news-intel-18a-yields-improve-7-8-monthly-with-2h26-customers-expected-reportedly-pushes-18a-cpus-amid-tight-supply/",
+   "https://www.nasdaq.com/articles/intel-ceo-touts-balance-sheet-progress-foundry-gains-and-ai-cpu-demand"
+  ],
+  "archive_id": "promises-2f479df1b7070be06af6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "TrendForce supports the forecast and yield claim but is dated May 19; CNBC May 18 article was inaccessible. Exact interview day remains unestablished. Fortinet's Intel 4 deal is not proof of multiple new advanced-node customers.",
+   "sources": [
+    {
+     "name": "TrendForce",
+     "url": "https://www.trendforce.com/news/2026/05/19/news-intel-18a-yields-improve-7-8-monthly-with-2h26-customers-expected-reportedly-pushes-18a-cpus-amid-tight-supply/"
+    },
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-4-gets-its-first-foundry-customer-in-fortinet-three-years-after-intel-scoped-the-node-to-meteor-lake"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Lee Jae-myung",
+  "role": "President of South Korea",
+  "promise": "Propose inter-Korean discussions to end the Korean War and potentially address the advancement of North Korea's nuclear capabilities",
+  "date_promised": "2026-08-15",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Lee proposed talks in his August 15, 2026 Liberation Day address without a completion timetable.",
+  "evidence": [
+   "Yonhap reported no North Korean response on August 16; the sources do not establish a deadline for talks or an agreement."
+  ],
+  "sources": [
+   "Yonhap News Agency",
+   "The Korea Times"
+  ],
+  "source_urls": [
+   "https://en.yna.co.kr/view/AEN20260815001451315",
+   "https://www.koreatimes.co.kr/southkorea/politics/20260815/lee-proposes-talks-with-nk-to-formally-end-korean-war-halt-pyongyangs-nuclear-program"
+  ],
+  "archive_id": "promises-a388a2f2a5d58f431724",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "The proposal and August 15 date are supported. A December 31 review horizon is not an announced deadline and cannot be published as one. Remove the long quotation and distinguish proposing discussion from promising a peace agreement.",
+   "sources": [
+    {
+     "name": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20260815001400315"
+    },
+    {
+     "name": "Yonhap",
+     "url": "https://en.yna.co.kr/view/AEN20260816001600315"
+    }
+   ]
+  }
  },
  {
   "person": "Andy Burnham",
@@ -155,7 +968,46 @@
   "source_urls": [
    "https://www.gov.uk/government/news/prime-minister-launches-national-drive-to-get-everyone-in-for-christmas",
    "https://www.gov.uk/government/publications/rough-sleeping-programme"
-  ]
+  ],
+  "archive_id": "promises-3ed5bf14e202fb2d0c39"
+ },
+ {
+  "person": "Samsung Electronics",
+  "role": "South Korean technology company",
+  "promise": "Estimate KRW 90 trillion to KRW 110 trillion in shareholder returns attributable to the 2026 plan",
+  "date_promised": "2026-08-21",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Samsung's board approved an estimated return plan on August 21, 2026. Some cash-dividend details were to be finalized in October, and remaining returns after confirmation of annual performance in January 2027.",
+  "evidence": [
+   "The primary release distinguishes estimated returns, later Board decisions and a separate employee-compensation buyback."
+  ],
+  "sources": [
+   "Bloomberg",
+   "Yonhap News Agency"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
+   "https://en.yna.co.kr/topics/solympic/view/AEN20260821010151315"
+  ],
+  "archive_id": "promises-21932a246582918abd4e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Board approval and official announcement were August 21, not August 20. Returns attributed to 2026 are not all payable by December 31: the remainder is to be determined in January 2027. Do not replace an unsupported payment deadline with the date of a determination meeting.",
+   "sources": [
+    {
+     "name": "Samsung",
+     "url": "https://news.samsung.com/global/samsung-electronics-to-implement-largest-ever-shareholder-return-in-2026-estimated-at-krw-90-to-110-trillion"
+    },
+    {
+     "name": "Reuters via CNA",
+     "url": "https://www.channelnewsasia.com/business/samsung-electronics-expects-shareholder-returns-up-80-billion-year-6332536"
+    }
+   ]
+  }
  },
  {
   "person": "Andy Burnham",
@@ -175,6 +1027,7 @@
   "source_urls": [
    "https://www.gov.uk/government/speeches/andy-burnhams-first-speech-as-prime-minister-20-july-2026",
    "https://www.itv.com/news/2026-07-20/in-full-andy-burnhams-first-speech-as-prime-minister"
-  ]
+  ],
+  "archive_id": "promises-e46b6ad9fd0bdcf601d7"
  }
 ]

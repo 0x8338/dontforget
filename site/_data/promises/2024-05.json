@@ -1,0 +1,39 @@
+[
+ {
+  "person": "World Health Organization (Pandemic Agreement negotiations)",
+  "role": "WHO member states negotiating the pandemic accord",
+  "promise": "Conclude a global pandemic prevention, preparedness and response accord by May 2024",
+  "date_promised": "2021-12-01",
+  "due_date": "2024-05-24",
+  "status": "kept (delayed)",
+  "description": "WHO member states adopted the Pandemic Agreement on 20 May 2025 after the negotiating mandate was extended beyond the May 2024 assembly. Adoption is distinct from completing the PABS annex and subsequent signature, ratification and entry into force.",
+  "evidence": [
+   "WHO records the June 2024 extension and May 2025 adoption."
+  ],
+  "sources": [
+   "Reuters",
+   "The Guardian",
+   "NPR",
+   "The Lancet"
+  ],
+  "archive_id": "promises-1cc5503e8bc0a287a15b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "WHO confirms extension in June 2024 and adoption May 20, 2025. For the stated adoption objective, kept (delayed) is more accurate than broken. PABS/signature/ratification are separate milestones. Exact May 24 deadline and current annex status require additional evidence; do not conflate adoption with treaty entry into force.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord"
+    }
+   ]
+  }
+ }
+]

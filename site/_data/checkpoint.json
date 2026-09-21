@@ -1,13 +1,13 @@
 {
  "events": {
   "last_date": "2026-09-20",
-  "total": 399
+  "total": 722
  },
  "promises": {
   "last_date": "2026-09-20",
-  "total": 154
+  "total": 454
  },
- "last_updated": "2026-09-21T06:30:37Z",
+ "last_updated": "2026-09-21T08:11:58Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-a: leaders/governments (Ghana education targets and Canadian trade target); supplemental Canadian finance commitments"
@@ -15,7 +15,9 @@
  "fact_check": {
   "as_of": "2026-09-21",
   "report": "research/fact-checks/2026-09-21/README.md",
-  "withheld_events": 323,
-  "withheld_promises": 300
+  "withheld_events": 0,
+  "withheld_promises": 0,
+  "events_needing_review": 322,
+  "promises_needing_review": 300
  }
 }

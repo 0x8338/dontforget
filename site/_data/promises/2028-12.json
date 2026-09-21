@@ -16,7 +16,46 @@
   ],
   "source_urls": [
    "https://www.helionenergy.com/newsroom/helion-announces-worlds-first-fusion-ppa-with-microsoft"
-  ]
+  ],
+  "archive_id": "promises-061b55993e8b5442c036"
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will surpass \"almost all humans at almost everything\" shortly after 2027",
+  "date_promised": "2025-01-21",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "At Davos in January 2025, Amodei forecast broad AI capability within a few years. The forecast was uncertain and did not define a test for completion.",
+  "evidence": [
+   "Amodei: milestone expected 'shortly after 2027', exact timing uncertain",
+   "Milestone not publicly demonstrated as of mid-2026"
+  ],
+  "sources": [
+   "Ars Technica",
+   "The Express Tribune",
+   "MIT CSAIL"
+  ],
+  "source_urls": [
+   "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/",
+   "https://tribune.com.pk/story/2530190/entertainment",
+   "https://www.csail.mit.edu/news/new-mit-research-overturns-prior-view-about-how-ai-capabilities-could-overtake-human-workers"
+  ],
+  "archive_id": "promises-39f6bb8cd8401b7b6596",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "A probabilistic forecast is not a delivery pledge. No measurable universal test or literal December 2028 cutoff is established.",
+   "sources": [
+    {
+     "name": "Ars Technica: January 2025 Davos interview",
+     "url": "https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/"
+    }
+   ]
+  }
  },
  {
   "person": "William Ruto",
@@ -36,7 +75,8 @@
   "source_urls": [
    "https://www.health.go.ke/kenya-launches-ewene-acceleration-plan-reduce-preventable-maternal-and-newborn-deaths",
    "https://pmnch.who.int/news-and-events/news/item/02-06-2026-president-ruto-launches-national-drive-to-end-preventable-maternal-and-newborn-deaths"
-  ]
+  ],
+  "archive_id": "promises-3a0a3279940575e67fb2"
  },
  {
   "person": "European Commission",
@@ -56,6 +96,45 @@
   "source_urls": [
    "https://www.theglobalfund.org/en/government/profiles/european-commission/",
    "https://cyprus.representation.ec.europa.eu/news/commission-announces-new-global-health-commitments-one-health-summit-2026-04-07_en?prefLang=el"
-  ]
+  ],
+  "archive_id": "promises-109f5e70c2c743b757a6"
+ },
+ {
+  "person": "Jensen Huang",
+  "role": "CEO of Nvidia",
+  "promise": "Establish compute-financing partnerships aiming to mobilize more than USD 500 billion of third-party capital over time",
+  "date_promised": "2026-08-10",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "NVIDIA announced MOUs with six financial institutions on August 10, 2026. The contemplated financing is third-party capital, and NVIDIA's potential backstop is optional.",
+  "evidence": [
+   "The company announcement and Reuters report establish the partnerships but no completion timetable."
+  ],
+  "sources": [
+   "Reuters",
+   "CNN Business"
+  ],
+  "source_urls": [
+   "https://www.khaleejtimes.com/business/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout",
+   "https://edition.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl"
+  ],
+  "archive_id": "promises-92d6433da814142b674f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Announcement and prospective financing scale are supported. Reuters explicitly says no deployment timetable was disclosed; December 2028 is an editorial horizon. MOUs and an optional backstop do not guarantee fundraising.",
+   "sources": [
+    {
+     "name": "NVIDIA",
+     "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Partners-With-Apollo-BlackRock-Blackstone-Brookfield-Goldman-Sachs-and-KKR-to-Establish-AI-Compute-Infrastructure-Financing-Platforms-to-Mobilize-Over-500-Billion-of-Third-Party-Capital/default.aspx"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal-ft-reports-4849929"
+    }
+   ]
+  }
  }
 ]

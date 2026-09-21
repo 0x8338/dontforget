@@ -1,5 +1,51 @@
 [
  {
+  "person": "Sanae Takaichi",
+  "role": "Prime Minister of Japan",
+  "promise": "\"We intend to designate this disaster as an 'Extremely Severe Disaster'\" - all-out government support for Kumamoto earthquake recovery, including Cabinet reserve funds",
+  "date_promised": "2026-08-03",
+  "due_date": "2026-08-31",
+  "status": "partial",
+  "description": "Following Takaichi's August 3 remarks, the Cabinet approved JPY24.2 billion from contingency reserves on August 4, 2026. MAFF subsequently published a notice concerning designation of the Kumamoto earthquake as a disaster of extreme severity.",
+  "evidence": [
+   "Cabinet approved 24.2bn yen in reserve-fund spending on Aug 4, 2026",
+   "Extremely severe disaster designation still being prepared as of Aug 5, 2026"
+  ],
+  "sources": [
+   "Asahi Shimbun",
+   "Nippon.com",
+   "Manila Bulletin"
+  ],
+  "source_urls": [
+   "https://www.asahi.com/ajw/articles/16782772",
+   "https://www.nippon.com/en/news/yjj2026080400096/",
+   "https://mb.com.ph/2026/08/04/kumamoto-quake-to-be-designated-disaster-of-extreme-severity-for-more-state-aid"
+  ],
+  "archive_id": "promises-b0ecd2ae2317a69d3122",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Reserve allocation verified. MAFF subsequently published the designation-order notice, so an August 5 preparation snapshot is stale. Exact legal effective date and a promised August 31 cutoff require confirmation; not every recovery task is completed by designation.",
+   "sources": [
+    {
+     "name": "Japan PMO: August 3 remarks",
+     "url": "https://japan.kantei.go.jp/105/speech/202608/03kaiken.html"
+    },
+    {
+     "name": "Japan PMO: reserve approval",
+     "url": "https://japan.kantei.go.jp/105/actions/202608/04hijoukaigi.html"
+    },
+    {
+     "name": "MAFF: designation order notice",
+     "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260807_1.html"
+    }
+   ]
+  }
+ },
+ {
   "person": "Claudia Sheinbaum",
   "role": "President of Mexico",
   "promise": "Present a national proposal to regulate cell phone and social media use in schools by the end of August 2026",
@@ -17,7 +63,52 @@
   "source_urls": [
    "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026",
    "https://www.gob.mx/presidencia/prensa/presidenta-claudia-sheinbaum-anuncia-consulta-a-maestras-y-maestros-sobre-propuesta-de-regulacion-de-uso-de-celulares-en-las-escuelas"
-  ]
+  ],
+  "archive_id": "promises-300fc0cc277c87992416"
+ },
+ {
+  "person": "Hungary (Tisza government)",
+  "role": "Government of Hungary / EU Recovery and Resilience Facility",
+  "promise": "Complete all milestones and targets required to unlock the full 10 billion euros in EU recovery funds by August 31, 2026",
+  "date_promised": "2026-08-13",
+  "due_date": "2026-08-31",
+  "status": "pending",
+  "description": "Hungary sought to complete reforms and investments for approximately EUR 10 billion of recovery funding by the EU's end-August deadline. The government said on August 31 that it had met the conditions.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: the retrieved reporting records Hungary's self-assessment, not the Commission's final acceptance of every milestone."
+  ],
+  "sources": [
+   "Euronews",
+   "The Christian Science Monitor",
+   "MrEast.eu"
+  ],
+  "source_urls": [
+   "https://www.euronews.com/my-europe/2026/08/31/hungary-says-it-has-met-all-conditions-to-unlock-full-10bn-eu-recovery-fund",
+   "https://www.csmonitor.com/News-Briefs/Hungary-has-fulfilled-all-EU-requirements-needed-to-unlock-billions-of-euros",
+   "https://www.mreast.eu/2026/09/hungary-submits-evidence-for-e10bn-eu-recovery-funds/"
+  ],
+  "archive_id": "promises-934b3919393d2550f7ec",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "The EU confirms the August 31 milestone deadline. A government claim of compliance is not Commission acceptance. The original August 13 promise date was not established; August 24 coverage alone cannot date the earlier commitment.",
+   "sources": [
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/10/recovery-and-resilience-facility-council-greenlights-new-plan-for-hungary/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/08/24/hungary-on-track-to-unlock-10bn-in-eu-funds-before-august-reform-deadline"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/08/31/hungary-says-it-has-met-all-conditions-to-unlock-full-10bn-eu-recovery-fund"
+    }
+   ]
+  }
  },
  {
   "person": "Femi Gbajabiamila (Presidential Working Group on State Police)",
@@ -37,6 +128,7 @@
   "source_urls": [
    "https://www.premiumtimesng.com/news/top-news/902723-presidency-extends-policing-bill-submission-deadline-by-eight-days.html",
    "https://punchng.com/state-police-bill-presidency-extends-public-submission-to-august-21/"
-  ]
+  ],
+  "archive_id": "promises-20441377ac5eb3775c6d"
  }
 ]

@@ -1,5 +1,114 @@
 [
  {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Make India a $5 trillion economy by financial year 2024-25",
+  "date_promised": "2019-08-15",
+  "due_date": "2025-03-31",
+  "status": "broken",
+  "description": "Announced in his 2019 Independence Day address and repeated through 2019, promising India would be a $5 trillion economy by 2024-25. India's nominal GDP was about $3.6 trillion in FY2023-24 and about $4.3 trillion in FY2024-25 — well short of $5 trillion at the target date (only surpassed ~$4 trillion territory in 2025).",
+  "evidence": [
+   "India nominal GDP ~$3.6T (FY2023-24) vs $5T target",
+   "IMF and government estimates put FY2024-25 GDP near $4.3T",
+   "2019 Independence Day speech set the $5T target"
+  ],
+  "sources": [
+   "Reuters",
+   "The Economic Times",
+   "World Bank/IMF data"
+  ],
+  "archive_id": "promises-86fa8bdae715859fc8f5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Official 2019 target is FY2024-25, which ends March 31, 2025, not 2024. August 15 quotation and dollar GDP outcomes still need contemporaneous speech and a consistent fiscal-year series.",
+   "sources": [
+    {
+     "name": "Press Information Bureau",
+     "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1577061&lang=2&reg=48"
+    },
+    {
+     "name": "Press Information Bureau",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1577411&lang=2&reg=48"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "X (Twitter) owner",
+  "promise": "Payments will launch on X in 2024",
+  "date_promised": "2023-10-15",
+  "due_date": "2025-03-31",
+  "status": "partial",
+  "description": "Musk promised the X 'everything app' would launch payments, later saying they would come 'early next year' (Oct 2024). Deadlines were repeatedly missed; X obtained money-transmitter licenses in most US states and partnered with Visa, with X Money rolling out in limited beta in late 2025-2026, but the promised full payments launch was never delivered on schedule.",
+  "evidence": [
+   "Repeated missed deadlines (end-2024, then early-2025)",
+   "X Money only reached limited beta in some US states by late 2025"
+  ],
+  "sources": [
+   "WSJ CEO Council (Oct 2023)",
+   "Reuters (X Money / Visa reports)"
+  ],
+  "archive_id": "promises-6483b5a3715909339397",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Visa partnership supported. A promise 'in 2024' conflicts with March 2025 due date; October 15 source/date, later revision and actual beta/full launch status are unverified. Partnership/licensing alone does not establish launch.",
+   "sources": [
+    {
+     "name": "Payments Dive",
+     "url": "https://www.paymentsdive.com/news/elon-musk-x-partners-visa-digital-payments-tool-app/738475/"
+    },
+    {
+     "name": "Payments Dive",
+     "url": "https://www.paymentsdive.com/news/x-twitter-app-payments-tool-visa/752655/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Shuntaro Furukawa",
+  "role": "President, Nintendo",
+  "promise": "We will make an announcement about the successor to Nintendo Switch within this fiscal year.",
+  "date_promised": "2024-05-07",
+  "due_date": "2025-03-31",
+  "status": "kept",
+  "description": "Nintendo publicly unveiled Nintendo Switch 2 on January 16, 2025, before the March 31 end of its fiscal year.",
+  "evidence": [
+   "Nintendo's dated January 16, 2025 notice establishes the successor announcement."
+  ],
+  "sources": [
+   "Nintendo IR Q&A, 2024-05-07",
+   "Nintendo press release, 2025-01-16"
+  ],
+  "archive_id": "promises-9861eddda5f76f49ed61",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Nintendo's January 16 primary announcement establishes the successor reveal, but the May 7 original commitment has not yet been directly sourced. Remove the additional June launch claim until supported.",
+   "sources": [
+    {
+     "name": "Nintendo Switch 2 reveal",
+     "url": "https://www.nintendo.co.jp/corporate/release/en/2025/250116.html"
+    }
+   ]
+  }
+ },
+ {
   "person": "Nirmala Sitharaman",
   "role": "Indian Finance Minister",
   "promise": "Target India becoming a USD 5 trillion economy by fiscal 2024-25",
@@ -17,7 +126,48 @@
   "source_urls": [
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1577411&lang=2&reg=48",
    "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=192134"
-  ]
+  ],
+  "archive_id": "promises-486e96c9da6bac2f11b1"
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "OpenAI's o3 reasoning model will be released in early 2025",
+  "date_promised": "2024-12-20",
+  "due_date": "2025-03-31",
+  "status": "kept (delayed)",
+  "description": "OpenAI released o3 and o4-mini on April 16, 2025, including API access.",
+  "evidence": [
+   "o3 and o4-mini released to the API on April 16, 2025",
+   "OpenAI's December 2024 announcement targeted 'early 2025' availability"
+  ],
+  "sources": [
+   "OpenAI",
+   "TechCrunch",
+   "The Verge"
+  ],
+  "source_urls": [
+   "https://openai.com/index/introducing-o3-and-o4-mini/",
+   "https://techcrunch.com/2025/04/16/openai-releases-o3-and-o4-mini/",
+   "https://www.theverge.com/2025/4/16/24464022/openai-o3-o4-mini-release"
+  ],
+  "archive_id": "promises-f17df8fdb0d85e77a0ed",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "Release on April 16, 2025 is supported. December announcement wording and attribution need original material; 'early 2025' is not necessarily a March 31 deadline. A delivered product does not validate a fabricated precision in its earlier schedule.",
+   "sources": [
+    {
+     "name": "OpenAI: o3 and o4-mini launch",
+     "url": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    }
+   ]
+  }
  },
  {
   "person": "Jensen Huang",
@@ -35,6 +185,7 @@
   ],
   "source_urls": [
    "https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks"
-  ]
+  ],
+  "archive_id": "promises-e5f4171e15eb93d183f2"
  }
 ]

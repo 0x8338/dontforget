@@ -15,7 +15,8 @@
    "https://www.fbi.gov/news/speeches-and-testimony/investigative-updates-on-the-new-orleans-bourbon-street-attack",
    "https://www.investing.com/news/world-news/police-probe-motive-in-new-orleans-truck-rampage-3793650",
    "https://www.cbsnews.com/news/new-orleans-attacker-bodycam-video-shootout-police/"
-  ]
+  ],
+  "archive_id": "events-c646be8ae09b6dd3d0fa"
  },
  {
   "date": "2025-01-07",
@@ -31,7 +32,8 @@
   "source_urls": [
    "https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire",
    "https://www.fire.ca.gov/incidents/2025/1/7/eaton-fire"
-  ]
+  ],
+  "archive_id": "events-521e399bcf24274b51b8"
  },
  {
   "date": "2026-01-17",
@@ -47,7 +49,8 @@
   "source_urls": [
    "https://www.ndma.gov.pk/storage/publications/April2026/ObXZF14bIY2tLezNNBzW.pdf",
    "https://www.geo.tv/latest/647661-gul-plaza-blaze-took-79-lives-most-in-mezzanine-floor-report"
-  ]
+  ],
+  "archive_id": "events-17e56e775459c09a8421"
  },
  {
   "date": "2025-01-18",
@@ -65,7 +68,42 @@
    "https://nema.gov.ng/dg-nema-visits-niger-state-following-tanker-explosion-incident-provides-relief-items-for-families-of-victims/",
    "https://www.premiumtimesng.com/regional/north-central/767856-niger-petrol-tanker-explosion-death-toll-reaches-73-nema.html",
    "https://www.pulse.ng/story/death-toll-from-dikko-explosion-rises-to-98-69-injured-20-shops-destroyed-2025012014263080965"
-  ]
+  ],
+  "archive_id": "events-3f4e2df17d6f9cd69788"
+ },
+ {
+  "date": "2025-01-19",
+  "title": "Gaza war ceasefire",
+  "category": "war",
+  "location": "Gaza Strip",
+  "lives_lost": 47000,
+  "description": "A ceasefire between Israel and Hamas took effect on January 19, 2025, after 15 months of war in which the Gaza Health Ministry reported more than 47,000 Palestinians killed and most of the territory's population displaced. The first phase of the agreement included releases of hostages and prisoners before hostilities later resumed.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-1bc31abd12ef0f85e640",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "OCHA establishes that the ceasefire took effect January 19 at 11:15 local time, not its January 22 publication date, and reports hostage/prisoner releases. The 47,000 is a cumulative war toll, not deaths caused by a ceasefire; an exact matching January 19 cutoff is not established here. This overlaps the existing 2023 and 2024 Gaza death records. A later cumulative report cannot verify the number on the ceasefire date. Do not publish a deaths-bearing ceasefire row until its toll scope and duplicate treatment are resolved.",
+   "sources": [
+    {
+     "name": "OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-update-257-gaza-strip"
+    },
+    {
+     "name": "OCHA - first phase",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-update-259-gaza-strip"
+    }
+   ]
+  }
  },
  {
   "date": "2025-01-22",
@@ -81,7 +119,8 @@
   "source_urls": [
    "https://www.nashville.gov/departments/police/news/antioch-high-school-shooting-update-one-year-0",
    "https://www.pbs.org/newshour/politics/one-student-killed-another-wounded-in-nashville-school-shooting"
-  ]
+  ],
+  "archive_id": "events-dce62f26a1a1fbc2adaf"
  },
  {
   "date": "2026-01-23",
@@ -99,7 +138,87 @@
    "https://www.bernama.com/en/news.php?id=2519320",
    "https://tribratanews.jabar.polri.go.id/kerja-keras-tim-dvi-80-jenazah-korban-longsor-cisarua-berhasil-diidentifikasi/",
    "https://kalteng.antaranews.com/berita/807986/longsor-cisarua-80-jenazah-berhasil-diidentifikasi"
-  ]
+  ],
+  "archive_id": "events-a2def1ecb064220e2192"
+ },
+ {
+  "date": "2025-01-27",
+  "title": "M23 capture of Goma",
+  "category": "war",
+  "location": "Goma, Democratic Republic of the Congo",
+  "lives_lost": 2900,
+  "description": "Between January 23 and 30, 2025, Rwandan-backed M23 rebels captured Goma, the capital of North Kivu province in the Democratic Republic of the Congo, after heavy fighting against the national army, UN and SADC peacekeepers, and allied militias; the UN estimated about 2,900 people were killed and another 2,900 wounded, with hundreds of thousands displaced.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-1d3e43e97d4b84614c4d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The February 5 UN briefing, reproduced by ANSA, supports a provisional 2,900 dead: 2,000 bodies collected from streets and 900 in morgues. This is not a final January 23-30-only total. UNICEF describes January 26-28 fighting and control of most of Goma by January 28; the January 27 UN briefing describes an ongoing battle, while the later experts' annex calls January 27 full conquest. The same report also cites narrower health-facility fatality/injury counts. The exact capture-date framing and matching casualty period remain unsettled; do not silently resolve them with publication dates.",
+   "sources": [
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/mondo/2025/02/05/onu-2.900-i-morti-per-la-conquista-di-goma-in-congo_2f03a67e-54e5-416a-8ac5-f55f7a603dc5.html"
+    },
+    {
+     "name": "UN Peacekeeping",
+     "url": "https://peacekeeping.un.org/en/news/dr-congo-battle-for-goma-continues-as-volatile-crisis-unfolds"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/media/167371/file/DR-Congo-Humanitarian-Flash-Report-No.-3-%28Upsurge-violence-in-North-and-South-Kivu%29%2C-01-February-2025.pdf.pdf"
+    },
+    {
+     "name": "UN Group of Experts",
+     "url": "https://digitallibrary.un.org/record/4085466/files/S_2025_446-EN.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-01-28",
+  "title": "Rubaya coltan mine collapse",
+  "category": "industrial",
+  "location": "Rubaya, North Kivu, Democratic Republic of the Congo",
+  "lives_lost": 400,
+  "description": "Heavy rain caused a landslide and mine collapses at the Rubaya coltan mining complex in North Kivu on 28 January 2026. Rebel-appointed authorities reported at least 200 deaths. A civil-society representative subsequently estimated roughly 400 deaths; that higher figure remained provisional and was not limited to miners.",
+  "sources": [
+   "Reuters",
+   "Africanews"
+  ],
+  "archive_id": "events-5b228a6634251dae5e8b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The roughly 400 figure is a provisional civil-society estimate, not a confirmed count of miners alone; AP reported at least 200. March 3 is supported by Reuters (published March 4), but that separate collapse has a disputed toll and should not be folded into January's deaths. Exact January onset time unavailable. The numeric field still reflects a provisional estimate; a confirmed comparable toll and January UTC onset remain unresolved.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/1d3c09b2facd0b5c5574c638069de00d"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://amp.dw.com/fr/rubaya-glissement-de-terrain/a-75776830"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.marketscreener.com/news/landslide-kills-over-200-people-at-congo-s-rubaya-mine-mines-ministry-says-ce7e5fdadb89ff26"
+    }
+   ]
+  }
  },
  {
   "date": "2025-01-29",
@@ -115,7 +234,41 @@
   "source_urls": [
    "https://www.aeroinside.com/20390/eagle-b190-at-bentiu-on-jan-29th-2025-lost-height",
    "https://www.baaa-acro.com/aircraft/beechcraft-1900d"
-  ]
+  ],
+  "archive_id": "events-891934d81943b35a47be"
+ },
+ {
+  "date": "2026-01-29",
+  "title": "Balochistan Liberation Army attacks",
+  "category": "terrorism",
+  "location": "Balochistan, Pakistan",
+  "lives_lost": 225,
+  "description": "Between 29 January and 5 February 2026, the Balochistan Liberation Army launched a coordinated series of attacks across Balochistan province, Pakistan, including raids on a police station and banks in Kharan, a security post in Panjgur and military positions in Harnai. The week-long campaign left at least 225 people dead, including 36 civilians and 2 security personnel, while Pakistani forces reported killing 216 militants in retaliatory raids.",
+  "sources": [
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-2c216fe6d9bf0f81b185",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "January 29 is the military operation's beginning, not the coordinated BLA assault (January 31). The reported components are 216 militants, 36 civilians and 22 security personnel = 274, not 225; all are military-reported, not independently confirmed. The original identity key is retained for audit only. The proposed scope is a multi-day campaign, not a proven single-day BLA attack. Its start date must not be presented as the date of all 274 deaths; assault versus military-operation allocation remains unresolved.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.marketscreener.com/news/pakistan-military-says-it-concludes-week-long-fight-against-baloch-separatists-ce7e5ad8d881f42c"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/node/2631817"
+    }
+   ]
+  }
  },
  {
   "date": "2025-01-30",
@@ -131,7 +284,8 @@
   "source_urls": [
    "https://www.ntsb.gov/investigations/Pages/DCA25MA108.aspx",
    "https://apnews.com/article/fd2a37138e2f32863a13bfa37154e260"
-  ]
+  ],
+  "archive_id": "events-472eee35c261a755db85"
  },
  {
   "date": "2026-02-03",
@@ -149,7 +303,8 @@
    "https://apnews.com/article/057f3997877d7e2cf9e79dfcd596f868",
    "https://amp.dw.com/en/nigeria-president-deploys-troops-after-kwara-state-attack/a-75815436",
    "https://www.premiumtimesng.com/news/headlines/854464-kwara-govt-confirms-terror-attack-on-woro-community-says-75-killed.html"
-  ]
+  ],
+  "archive_id": "events-9d09427630255f904ef4"
  },
  {
   "date": "2026-02-06",
@@ -165,7 +320,8 @@
   "source_urls": [
    "https://www.dawn.com/news/1971626",
    "https://www.investing.com/news/world-news/several-killed-in-islamabad-mosque-explosion-say-police-4489681"
-  ]
+  ],
+  "archive_id": "events-c34a48ac810d33a623df"
  },
  {
   "date": "2026-02-10",
@@ -183,7 +339,8 @@
    "https://rcmp.ca/en/bc/tumbler-ridge/news/2026/02/4350239",
    "https://vancouver.citynews.ca/2026/02/10/tumbler-ridge-bc-active-shooter-incident-emergency-alert/",
    "https://www.abc.net.au/news/2026-02-14/tumbler-ridge-school-mass-shooting-victims-named/106343974"
-  ]
+  ],
+  "archive_id": "events-5609b9f98fdffe81f349"
  },
  {
   "date": "2026-03-01",
@@ -201,7 +358,8 @@
    "https://apnews.com/article/69a8a9bf191c0c2d8583fbc37ff9ae70",
    "https://spanish.xinhuanet.com/20260303/be0f189b8248442c9dfdbd47fe70c79c/c.html",
    "https://www.globalr2p.org/publications/atrocity-alert-no-472/"
-  ]
+  ],
+  "archive_id": "events-c62cc6ee33d58545c054"
  },
  {
   "date": "2025-03-07",
@@ -219,7 +377,8 @@
    "https://www.argentina.gob.ar/node/459952",
    "https://www.lanacion.com.ar/sociedad/confirmaron-que-los-restos-hallados-en-bahia-blanca-son-de-delfina-hecker-nid12052025/",
    "https://ciencia.nasa.gov/ciencias-terrestres/inundaciones-en-bahia-blanca/"
-  ]
+  ],
+  "archive_id": "events-5ebfcde0e16dce03bf80"
  },
  {
   "date": "2025-03-07",
@@ -237,7 +396,44 @@
    "https://www.reuters.com/investigations/syrian-forces-massacred-1500-alawites-chain-command-led-damascus-2025-06-30/",
    "https://d2233.cms.socastsrm.com/2025/06/30/how-reuters-counted-the-dead-in-the-march-killings-of-syrian-alawites/",
    "https://www.ecoi.net/en/document/2130143.html"
-  ]
+  ],
+  "archive_id": "events-6214277cab7f04c44d8e"
+ },
+ {
+  "date": "2026-03-10",
+  "title": "Gamo Zone floods and landslides",
+  "category": "natural-disaster",
+  "location": "Gamo Zone, South Ethiopia",
+  "lives_lost": 125,
+  "description": "On 10 March 2026, days of heavy rainfall in the Gamo Zone of South Ethiopia triggered widespread flash floods and landslides that killed at least 125 people. The disaster struck farming communities in the southern highlands, destroying homes, roads and farmland across multiple villages.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-76f808bccb51f5d7c48f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "125 deaths supported; sources date the sequence March 9-10, March 10, or early March 11. Exact UTC onset and road/farmland damage remain unresolved.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.afro.who.int/countries/ethiopia/photo-story/photo-story-who-supports-lifesaving-health-response-after-landslides?form=FUNKUKTZPCK"
+    },
+    {
+     "name": "Ethiopian Human Rights Commission",
+     "url": "https://ehrc.org/south-ethiopia-region-damages-caused-by-landslides-mudslides-and-floods-in-gamo-zone/"
+    },
+    {
+     "name": "ACT Alliance",
+     "url": "https://actalliance.org/wp-content/uploads/2026/03/Alert_Ethiopia-Landslides-.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2025-03-11",
@@ -255,7 +451,8 @@
    "https://www.arabnews.pk/pakistan/oic-expresses-solidarity-with-pakistan-after-militant-attack-on-passenger-train-kills-31-2593672",
    "https://www.satp.org/terrorism-update/death-toll-in-jaffar-express-hijacking-rises-to-31-confirmed-ispr-dg-lieutenant-general-ahmed-sharif-chaudhry",
    "https://www.dawn.com/news/amp/1897419"
-  ]
+  ],
+  "archive_id": "events-14ad4edd98859f38f68a"
  },
  {
   "date": "2025-03-16",
@@ -273,7 +470,8 @@
    "https://new.mia.mk/index.php/en/story/one-year-after-kochani-fire-pain-remains-visible",
    "https://www.bta.bg/en/news/balkans/1115479-most-victims-of-pulse-disco-fire-in-kocani-died-of-carbon-monoxide-poisoning-au",
    "https://www.ertnews.gr/eidiseis/diethni/enas-xronos-apo-tin-tragodia-sto-kotsani-me-63-nekrous/"
-  ]
+  ],
+  "archive_id": "events-629e8741de617a6dd292"
  },
  {
   "date": "2025-03-21",
@@ -295,7 +493,134 @@
    "https://apnews.com/article/725062af5bfe2d664ddb2cb47c3db66f",
    "https://en.yna.co.kr/view/AEN20250402001400315",
    "https://wmo.int/sites/default/files/2026-03/State_of_the_Global_Climate_2025_Extreme_Supplement.pdf"
-  ]
+  ],
+  "archive_id": "events-e2c63134d4c94e34aa12"
+ },
+ {
+  "date": "2025-03-28",
+  "title": "Myanmar earthquake (magnitude 7.7)",
+  "category": "natural-disaster",
+  "location": "Mandalay, Myanmar",
+  "lives_lost": 3770,
+  "description": "On March 28, 2025, a magnitude 7.7 earthquake struck near Sagaing and Mandalay in Myanmar along the Sagaing Fault, collapsing buildings and infrastructure and also killing 18 people in Bangkok, Thailand. Myanmar's military government reported about 3,770 dead, while independent Myanmar media estimates exceeded 5,000, and the true toll was widely considered higher.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "CNN",
+   "Mizzima News"
+  ],
+  "archive_id": "events-287a987ec0d7629d6c25",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The March 28 M7.7 earthquake is well supported, but 3,770 is not a final reconciled death count. Myanmar's government reported 3,782 as of August 20, 2025 for six affected regions/states; UNICEF's May 2 report used 3,835 from another reporting stream. Independent Myanmar-media estimates were substantially higher, and the Thai 18-death figure is an early snapshot (ADRC already reports 83 Thailand deaths in its May 7 snapshot). National, cross-border and independent counts need a consistent cutoff and scope. Do not equate the government count with the true whole-event toll or retain 18 as a final Thai total.",
+   "sources": [
+    {
+     "name": "Myanmar Ministry of Information",
+     "url": "https://www.moi.gov.mm/moi%3Aeng/news/18755"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://myanmar.un.org/sites/default/files/2025-05/UNICEF%20Myanmar%20Flash%20Update%20No.%2011%20%28Earthquake%29%2C%2002%20May%202025-2.pdf"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/71d51dfc7339e017b1d116c105effab4"
+    },
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/publications/disaster_report/pdf/2025/Myanmar_EQ_20250328_en_2026.pdf"
+    },
+    {
+     "name": "Journal of Disaster Displacement",
+     "url": "https://doi.org/10.1016/j.jdd.2025.100017"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-04-11",
+  "title": "Jilli market airstrike",
+  "category": "war",
+  "location": "Jilli, Yobe State, Nigeria",
+  "lives_lost": 100,
+  "description": "A Nigerian airstrike hit Jilli market near the Borno-Yobe border on 11 April 2026. Amnesty International reported at least 100 civilians killed, citing survivors and medical contacts. Other estimates were higher. The military said it had targeted militants; accounts of the strike and the casualty total remained disputed.",
+  "sources": [
+   "Associated Press",
+   "Reuters"
+  ],
+  "archive_id": "events-02f6181ae08ed5cb3b42",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "April 11 event, April 12 publication. 100 is a rights-group toll, not official final count. Military defended the operation; exact UTC onset unavailable. A single verified UTC onset and reconciliation of the competing casualty accounts remain unavailable; the attributed minimum is not a confirmed final total.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/9da7e31dd8db3cec17e676e53f8b59cf"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/world-news/nigerian-airstrike-hits-market-200-feared-dead-in-northeast-yobe-state-4609095"
+    },
+    {
+     "name": "TheCable",
+     "url": "https://www.thecable.ng/scores-of-terrorists-neutralised-military-defends-jilli-market-bombing/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2025-04-27",
+  "title": "Afghanistan flash floods",
+  "category": "natural-disaster",
+  "location": "Baghlan Province, Afghanistan",
+  "lives_lost": 150,
+  "description": "In late April 2025, heavy rains triggered flash floods across northern Afghanistan, with the worst destruction in Baghlan Province, where entire villages were swept away; at least 150 people were killed across the affected provinces per BBC reporting, while the World Food Programme estimated more than 300 dead and hundreds more injured.",
+  "sources": [
+   "BBC News",
+   "Associated Press",
+   "TOLOnews",
+   "Deutsche Welle"
+  ],
+  "archive_id": "events-5a748ed4066d4cab38f9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "title",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Searches did not establish an April 27, 2025 Baghlan flood with these fatalities. The 150 official/300-plus WFP reporting pattern instead matches the May 10, 2024 northern Afghanistan floods, confirmed by contemporaneous May 2024 UN and news reports. The assigned data already has a May 2024 Baghlan event. This suggests a misdated duplicate, not proof that no flooding occurred in 2025. Do not automatically move this row to May 2024 or count both; identity, date and casualty scope require reconciliation.",
+   "sources": [
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/media/156816/file/Afghanistan-Humanitarian-Update-Flash-Floods-20-May-2024.pdf"
+    },
+    {
+     "name": "ACAPS",
+     "url": "https://www.acaps.org/fileadmin/Data_Product/Main_media/20240521_ACAPS_Briefing_note_Afghanistan_Impact_of_flooding_01.pdf"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/25a54bd187d29df8c8cbf6d63a7656c8"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/node/2508401/pakistan"
+    }
+   ]
+  }
  },
  {
   "date": "2026-05-22",
@@ -313,7 +638,45 @@
    "https://apnews.com/article/6816642e300ae6a8aded7c8dcc3eba61",
    "https://www.caixinglobal.com/2026-05-25/hidden-tunnels-and-muted-alarms-inside-chinas-deadliest-coal-mine-blast-in-a-decade-102447340.html",
    "https://www.abc.net.au/news/2026-05-24/china-coal-mine-explosion-preliminary-findings/106715344"
-  ]
+  ],
+  "archive_id": "events-2e70d044b60b98013a8c"
+ },
+ {
+  "date": "2026-06-07",
+  "title": "Mindanao earthquake",
+  "category": "natural-disaster",
+  "location": "Sarangani, Philippines",
+  "lives_lost": 107,
+  "description": "On 8 June 2026, a magnitude 7.8 earthquake struck offshore Sarangani province, Mindanao, on the Cotabato Trench, killing at least 106 people (107 per final tallies) and injuring 1,320, with 7 missing. More than 121,000 homes were damaged or destroyed and damage exceeded ₱71 billion (US$1.44 billion). General Santos, Sarangani, South Cotabato and Davao Occidental were hardest hit, and coastal uplift of up to 2 metres damaged marine habitats across Sarangani Bay.",
+  "sources": [
+   "BBC News",
+   "ABS-CBN",
+   "GMA News"
+  ],
+  "archive_id": "events-64c68ae02b83e12229c9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "07:37 local June 8 = 23:37 UTC June 7. Date-only correction; final 107 deaths, injuries/missing, housing totals, PHP 71bn loss and uplift claims remain unverified.",
+   "sources": [
+    {
+     "name": "Hong Kong Observatory",
+     "url": "https://www.info.gov.hk/gia/wr/202606/08/P2026060800255.htm"
+    },
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/topstories/regions/990579/magnitude-7-earthquake-hits-mindanao-tsunami-warning-up/story/"
+    },
+    {
+     "name": "DSWD",
+     "url": "https://dromic.dswd.gov.ph/wp-content/uploads/2026/06/DSWD-DROMIC-Report-25-on-the-Effects-of-Mw-7.8-Earthquake-Incident-in-Maasim-Sarangani-as-of-21-June-2026-6AM.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2025-06-12",
@@ -329,7 +692,50 @@
   "source_urls": [
    "https://aaib.gov.in/Reports/2025/Accident/Preliminary%20Report%20VT-ANB.pdf",
    "https://www.civilaviation.gov.in/sites/default/files/2025-07/3%20E.pdf"
-  ]
+  ],
+  "archive_id": "events-3bbbf093e258f8f69ef5"
+ },
+ {
+  "date": "2025-06-13",
+  "title": "Israel-Iran war (Twelve-Day War)",
+  "category": "war",
+  "location": "Iran and Israel",
+  "lives_lost": 1093,
+  "description": "On June 13, 2025, Israel launched Operation Rising Lion, striking Iranian military and nuclear facilities and killing commanders and nuclear scientists; Iran responded with more than 550 ballistic missiles and over 1,000 drones fired at Israel over 12 days. Roughly 33 people were killed in Israel and about 1,060 in Iran, according to the respective authorities.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-6f75a253bb23c1625af4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "June 13-24 is supported, but 1,093 is not a reconciled total. The original roughly 1,060 in Iran is a July 7 official update; the spokesperson raised it to at least 1,062 on July 22. HRANA reported 1,190 using a separate casualty register. Reuters reports 28 killed in Israel, not the original 33; inclusion of indirect or later deaths is not established for the latter. Do not average competing counts or treat different reporting dates as final same-scope totals. The 550-plus missile claim is supported by AP, but the drone count was not established here. Withhold until the overall numeric toll and scope are resolved.",
+   "sources": [
+    {
+     "name": "Reuters (Times of Israel)",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iranian-death-toll-in-war-with-israel-reaches-1062-tehran-says/"
+    },
+    {
+     "name": "Reuters (Investing.com)",
+     "url": "https://www.investing.com/news/world-news/israeli-military-official-says-iran-hit-some-military-sites-last-month-4126806"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/569128effa8aafd9d9bd04efe5c0de75"
+    },
+    {
+     "name": "Associated Press - earlier breakdown",
+     "url": "https://apnews.com/article/db2a5537b2d19813b7054f00b006827a"
+    }
+   ]
+  }
  },
  {
   "date": "2025-06-14",
@@ -347,7 +753,8 @@
    "https://www.justice.gov/usao-mn/pr/boelter-pleaded-guilty-his-role-stalking-and-murder-minnesota-state-legislators",
    "https://www.mprnews.org/story/2026/06/11/vance-boelter-plea-minnesota-lawmaker-attacks-hortman-hoffman",
    "https://www.mprnews.org/story/2026/09/02/judge-sets-nov-2-state-trial-date-for-hortman-assassin"
-  ]
+  ],
+  "archive_id": "events-7d09c416e9b623685f96"
  },
  {
   "date": "2026-06-24",
@@ -365,7 +772,8 @@
    "https://www.paho.org/sites/default/files/2026/06/ven-earthquakessitrep124jun2026v2-1.pdf",
    "https://www.unicef.org/media/183521/file/Venezuela-Humanitarian-Situation-Report-No.7-%28Earthquake-Response%29%2C25-July-3-August-2026.pdf.pdf",
    "https://www.abc.net.au/news/2026-08-04/death-toll-from-venezuela-june-earthquakes-tops-6-000/106993342"
-  ]
+  ],
+  "archive_id": "events-87cc8b5100cddd5bd5d9"
  },
  {
   "date": "2025-07-24",
@@ -385,7 +793,8 @@
    "https://www.investing.com/news/world-news/russian-plane-missing-with-around-50-people-on-board-in-amur-region-interfax-says-4149676?ampMode=1",
    "https://apnews.com/article/819e5bd46dfa440246f37b4d4976eb23",
    "https://www.aa.com.tr/en/asia-pacific/russia-says-technical-malfunction-pilot-error-preliminary-causes-of-an-24-crash-in-amur-region/3642062"
-  ]
+  ],
+  "archive_id": "events-5b3a1594ba8abe21166f"
  },
  {
   "date": "2026-07-26",
@@ -401,7 +810,8 @@
   "source_urls": [
    "https://spanish.xinhuanet.com/20260726/11c59288e7694ec6b73dbb9fc48642d3/c.html",
    "https://www.chinadailyasia.com/hk/article/637303"
-  ]
+  ],
+  "archive_id": "events-53d88992b71d74024ebf"
  },
  {
   "date": "2026-07-28",
@@ -419,7 +829,8 @@
    "https://www.data.jma.go.jp/eqev/data/kyoshin/jishin/2607281627_kumamoto/",
    "https://www.nippon.com/en/japan-data/h02858/kumamoto-earthquake-fatalities-and-damage-report.html",
    "https://apnews.com/article/09e6f40acbcc96053946c9c104e7a242"
-  ]
+  ],
+  "archive_id": "events-59b8f0dfc747b6ecb0ec"
  },
  {
   "date": "2026-07-29",
@@ -435,7 +846,86 @@
   "source_urls": [
    "https://www.xinhuanet.com/20260730/65a04099784a4aaa904cc1bacb5bcc53/c.html",
    "https://www.infocielo.com/judiciales-y-policiales/tragedia-en-san-juan-siete-muertos-tras-la-caida-de-un-helicoptero-que-iba-a-combatir-incendios"
-  ]
+  ],
+  "archive_id": "events-d88910c6b7774e4495a8"
+ },
+ {
+  "date": "2026-07-29",
+  "title": "Militant drone-and-ambush attack on police checkpoint in Hangu",
+  "category": "terrorism",
+  "location": "Hangu, Khyber Pakhtunkhwa, Pakistan",
+  "lives_lost": 11,
+  "description": "Militants, blamed by police on the Pakistani Taliban (TTP), launched a drone strike and ambush on the Khazina Banda police checkpoint in Hangu district on the evening of July 29, 2026, in an assault that also involved an attack on a neighbouring checkpost. Eleven police officers, including a deputy superintendent of police, were killed as the death toll rose through the following morning, with initial reports citing 9 to 10 officers dead and at least 28 injured; authorities said 15 attackers were also killed in the ensuing gunfight. It was the second major assault on security forces in the area within a week amid escalating attacks in the Afghanistan–Pakistan border region.",
+  "sources": [
+   "Dawn",
+   "ARY News",
+   "Hindustan Times",
+   "SAMAA TV",
+   "Wikipedia: Portal Current Events (July 29-30, 2026)"
+  ],
+  "archive_id": "events-f2e40846898a849597bd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "July 29 and 11 police dead supported; attackers killed differ (AP 15, ARY eight). Drone detail, prior assault comparison and precise UTC onset not established.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/a747a0f15041ad7622785d47fb5cb96b"
+    },
+    {
+     "name": "ARY News",
+     "url": "https://arynews.tv/hangu-checkpost-attack-30-july-2026.amp"
+    },
+    {
+     "name": "SAMAA TV",
+     "url": "https://www.samaa.tv/2087354597-mastermind-of-hangu-checkpost-attack-killed-in-operation"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-07-29",
+  "title": "US–Saudi airstrikes kill 20 Iran-backed militiamen in Iraq as US strikes on Iran resume",
+  "category": "war",
+  "location": "Iraq",
+  "lives_lost": 20,
+  "description": "As part of the 2026 Iran war, US Central Command and Saudi forces carried out joint strikes on positions of Iran-backed militias in Iraq on July 29, 2026, killing 20 Popular Mobilization Forces (PMF) militants, including several Islamic Revolutionary Guard Corps (IRGC) members, according to the PMF. The same day, after a six-day pause, the US military resumed heavy waves of strikes against dozens of IRGC targets inside Iran in retaliation for an attempted missile attack on US forces in the Middle East a day earlier, an escalation that prompted Iranian retaliatory strikes on Kuwait days later.",
+  "sources": [
+   "Wikipedia: July 2026 United States strikes against Iran",
+   "The Defense Post",
+   "The New Region",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-8cc4cf2173960f3fef39",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "PMF reported 20 members killed. IRGC advisers may be additional. Overnight July 28-29 requires UTC check; resumed Iran strikes and causal link to Kuwait not fully established.",
+   "sources": [
+    {
+     "name": "Philippine News Agency",
+     "url": "https://www.pna.gov.ph/articles/1280633"
+    },
+    {
+     "name": "Rudaw",
+     "url": "https://www.rudaw.net/english/categories/iraq/1078576"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/news/us-saudi-arabia-strike-iran-proxies-iraq-after-attacks-on-american-forces/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-07-29",
@@ -451,7 +941,8 @@
   "source_urls": [
    "https://www.ekathimerini.com/news/1310979/fire-service-confirms-3rd-death-in-wildfires/",
    "https://www.upi.com/Top_News/World-News/2026/07/29/france-heat-wave-wildfires-greece-next/6131785335742/"
-  ]
+  ],
+  "archive_id": "events-205c631a7d947c7f6be8"
  },
  {
   "date": "2026-07-30",
@@ -469,7 +960,76 @@
    "https://apnews.com/article/2dae7b8a316072a82b84d27189795ec5",
    "https://www.nationalgeographic.com/adventure/article/nims-purja-avalanche-broad-peak-himalayas",
    "https://kathmandupost.com/national/2026/08/05/bodies-of-nirmal-purja-and-three-climbers-brought-to-broad-peak-base-camp"
-  ]
+  ],
+  "archive_id": "events-0d59a38e6f0d917cc6b0"
+ },
+ {
+  "date": "2026-07-30",
+  "title": "Coal mine explosion in Balochistan",
+  "category": "industrial",
+  "location": "Balochistan, Pakistan",
+  "lives_lost": 34,
+  "description": "A methane gas explosion ripped through a coal mine in Balochistan province on 30 July, killing at least 34 miners. Rescue officials recovered 32 bodies and said two workers remained trapped in an inaccessible section of the mine.",
+  "sources": [
+   "RTE News",
+   "WAM",
+   "Xinhua"
+  ],
+  "archive_id": "events-16ae720d878534b1910e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "AP reports 34 dead, 32 recovered and two to retrieve. July 30 occurrence versus July 31 publication distinguished. Exact time unavailable but no evidence of UTC crossover. Absence of evidence of a crossover does not establish the UTC date; withhold pending an onset time or sufficiently specific time-of-day account.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/573ba8cad918a355629a3f968a69555f"
+    },
+    {
+     "name": "Geo News",
+     "url": "https://www.geo.tv/latest/675460-bodies-of-seven-labourers-recovered-as-coalmine-in-quetta-caves-in"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-07-30",
+  "title": "Russia launches massive missile and drone strike on Ukraine",
+  "category": "war",
+  "location": "Kyiv, Lviv and Kryvyi Rih, Ukraine",
+  "lives_lost": 10,
+  "description": "In the early hours of July 30, 2026, Russia launched one of its largest combined strikes of the war, firing dozens of ballistic and cruise missiles and hundreds of drones (President Zelensky cited over 70 missiles and 280 drones) at cities across Ukraine, with damage reported from east to west in Kyiv, Lviv and Kryvyi Rih. At least 10 civilians, including children, were killed and more than 50 injured, including six people killed by a ballistic missile strike on Kryvyi Rih and a family of six killed in a village hit by a suspected North Korean missile; NATO scrambled jets in response and a stray Russian cruise missile briefly entered Polish airspace.",
+  "sources": [
+   "Kyiv Independent",
+   "Associated Press",
+   "TIME",
+   "Al Jazeera",
+   "Wikipedia: Portal Current Events (July 30, 2026)"
+  ],
+  "archive_id": "events-ed3908f2ad5a69e359db",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "70 missiles/280 drones supported; Reuters nine deaths, EFE earlier eight, versus record ten. Family and Kryvyi Rih totals may overlap. Polish incursion and UTC onset not confirmed.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/world-news/one-killed-in-russia-strikes-on-kyiv-poland-scrambles-fighter-jets-4822220"
+    },
+    {
+     "name": "EFE",
+     "url": "https://efe.com/mundo/2026-07-30/nuevo-ataque-rusia-kiev-ucrania-2/"
+    }
+   ]
+  }
  },
  {
   "date": "2025-07-31",
@@ -487,7 +1047,139 @@
    "https://english.vov.vn/en/society/dien-bien-flashfloods-leave-11-dead-or-missing-isolate-dozens-of-villages-post1219417.vov",
    "https://vtv.vn/mua-lu-o-dien-bien-khien-10-nguoi-chet-thiet-hai-300-ty-dong-10025080307572095.htm",
    "https://vietnamnet.vn/hien-truong-tan-hoang-sau-tran-lu-kinh-hoang-khien-12-nguoi-chet-va-mat-tich-2427711.html"
-  ]
+  ],
+  "archive_id": "events-ee7cf7c8ba4adf227a22"
+ },
+ {
+  "date": "2026-07-31",
+  "title": "Apartment building fire kills four in Changsha",
+  "category": "industrial",
+  "location": "Changsha, Hunan, China",
+  "lives_lost": 4,
+  "description": "A fire broke out at 03:54 local time on 1 August at a high-rise residential building in the Poly Lugu Linyu compound, Yuelu District, Changsha, killing four people and injuring two. Firefighters rescued six people from the building, but four later died of their injuries in hospital.",
+  "sources": [
+   "Xinhua",
+   "China Daily",
+   "CCTV"
+  ],
+  "archive_id": "events-a0c619d2169abed3cdaf",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Fire service statement reproduced by Xinhua gives 03:54 August 1 local = 19:54 July 31 UTC; six rescued, four died by August 2, two receiving treatment. All material claims match. Only one retrieved publication/source chain; a second independent link is still needed before canonical source replacement. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "Beijing Daily / Xinhua",
+     "url": "https://xinwen.bjd.com.cn/content/s6a6f0721e4b03fa51a826193.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-07-31",
+  "title": "Calabar flood and landslide crisis",
+  "category": "natural-disaster",
+  "location": "Calabar, Cross River State, Nigeria",
+  "lives_lost": 10,
+  "description": "Weeks of torrential rain in July 2026 caused flooding and landslides across Calabar, killing at least 10 people, including a baby swept away by floodwater and a father buried in mud. The rains destroyed homes, triggered landslides that killed families, and cut off access roads; the toll was cumulative through the end of July.",
+  "sources": [
+   "Vanguard",
+   "Premium Times",
+   "Newsweek Nigeria"
+  ],
+  "archive_id": "events-efaa35c75350fe663060",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Ten is a month-long total published August 1, not deaths on July 31. Primary report supports flooding/landslides but no dated ten-person tally. A defensible onset anchor and overlap with individual incidents remain unresolved.",
+   "sources": [
+    {
+     "name": "Vanguard",
+     "url": "https://www.vanguardngr.com/2026/08/man-buried-in-mud-baby-swept-away-10-perish-as-pains-rain-in-calabar/amp/"
+    },
+    {
+     "name": "Cross River State Government",
+     "url": "https://news.crossriverstate.gov.ng/nema-cr-sema-conduct-joint-assessment-of-flood-landslide-hit-communities-in-calabar/"
+    },
+    {
+     "name": "Premium Times",
+     "url": "https://www.premiumtimesng.com/regional/south-south-regional/895017-governor-otu-visits-family-of-toddler-killed-in-flood-orders-victims-relocation.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-07-31",
+  "title": "Iranian strike on Chinese company building in Kuwait kills worker",
+  "category": "war",
+  "location": "Northern Kuwait",
+  "lives_lost": 1,
+  "description": "Kuwait's Defence Ministry said an Iranian attack hit a building belonging to a Chinese company in northern Kuwait on 30 July 2026, killing one worker and causing substantial damage.",
+  "sources": [
+   "Al Jazeera (live blog, 31 July 2026)",
+   "Wikipedia: Portal Current Events (July 30, 2026)",
+   "Times of Israel"
+  ],
+  "archive_id": "events-a5a02da01281733582e8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Fatality belongs to July 30 company-building strike, not July 31 base claim; exact clock time unavailable. The proposed July 30 is the reported local occurrence date; UTC conversion remains unverified.",
+   "sources": [
+    {
+     "name": "Emirates News Agency",
+     "url": "https://www.wam.ae/en/article/c1hd5eu-kuwait-says-iranian-attack-hits-chinese-company"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/gulf/kuwait/kuwait-iranian-attack-on-chinese-firms-building-leaves-1-dead-1.500625238"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-07-31",
+  "title": "Russian ballistic missile attack on Kyiv",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 9,
+  "description": "Russian forces launched a ballistic missile attack on Kyiv shortly after midnight on 1 August local time, killing at least nine people and injuring more than 20, including children. Fires broke out across four districts and rescue operations continued through the night.",
+  "sources": [
+   "AFP",
+   "Kyiv Post",
+   "Vanguard"
+  ],
+  "archive_id": "events-b37315f599c5ebb5772c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "identity",
+    "sources"
+   ],
+   "note": "Nine dead and 33 injured supported for overnight July 31-August 1. Exact onset for UTC conversion not established. Appears duplicate of 'Russian missile barrage on Kyiv kills ten' dated August 1; reconcile and retain only one incident.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/eb62397d10bca2d6db4269a3bcfc9dc6"
+    },
+    {
+     "name": "Associated Press Photos",
+     "url": "https://apnews.com/article/3b2dc0566556cfd5612f6f39459b9eab"
+    }
+   ]
+  }
  },
  {
   "date": "2026-07-31",
@@ -503,7 +1195,41 @@
   "source_urls": [
    "https://newsonair.gov.in/jk-one-labourer-killed-another-injured-in-terrorist-attack-in-kulgam-district/",
    "https://www.tribuneindia.com/news/j-k/kulgam-terror-attack-injured-migrant-worker-succumbs-toll-rises-to-2/"
-  ]
+  ],
+  "archive_id": "events-b81c6470835b68543c2c"
+ },
+ {
+  "date": "2026-08-01",
+  "title": "Assam flood death toll reaches 82",
+  "category": "natural-disaster",
+  "location": "Assam, India",
+  "lives_lost": 82,
+  "description": "Assam's disaster authority reported a cumulative monsoon-flood death toll of 82 by late 31 July 2026. Reports published the next morning said roughly 193,000 people in five districts remained affected. This is a season-to-date toll, not deaths on one day.",
+  "sources": [
+   "Xinhua",
+   "India Today NE",
+   "News18"
+  ],
+  "archive_id": "events-fbaac2d3637fb178e961",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "82 was announced late Friday July 31, reported Saturday August 1. It is season-to-date, not daily deaths. Current affected population was about 193000; 1.1m may refer to another snapshot. District death breakdown not corroborated. The proposed July 31 is a reporting snapshot, not a verified onset. Its Assam component overlaps the India-wide monsoon tally; publication requires a defensible non-overlapping episode boundary.",
+   "sources": [
+    {
+     "name": "Bernama / Anadolu",
+     "url": "https://bernama.com/en/press/news.php?id=2588921"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/india-news/assam-floods-death-toll-rises-to-82-nearly-193-000-people-still-affected-126073101839_1.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-01",
@@ -521,7 +1247,8 @@
    "https://www.investing.com/news/world-news/cafe-explosion-in-central-moscow-kills-three-injures-15-police-say-4829646",
    "https://apnews.com/article/831d5b7d4cb1eff85966c6cc226066ec",
    "https://www.lemonde.fr/en/international/article/2026/08/04/what-we-know-about-the-attack-that-killed-five-and-injured-nineteen-in-moscow_6756136_4.html"
-  ]
+  ],
+  "archive_id": "events-5e6e161ca9287adf8ae0"
  },
  {
   "date": "2026-08-01",
@@ -539,7 +1266,107 @@
    "https://www-pp.afp.com/fr/node/3846324",
    "https://english.wafa.ps/Pages/Details/173090",
    "https://qna.org.qa/en/news/news-details?date=1%2F08%2F2026&id=al-aqsa-martyrs-hospital-spokesperson-to-qna-medicine-warehouses-destruction-could-bring-medical-system-collapse"
-  ]
+  ],
+  "archive_id": "events-f6efc81e2835de58e08a"
+ },
+ {
+  "date": "2026-08-01",
+  "title": "Plane crash near Nazca kills 13",
+  "category": "industrial",
+  "location": "Nazca, Ica Region, Peru",
+  "lives_lost": 13,
+  "description": "A small plane crashed in farmland about 6 km from the city of Nazca in Peru's southern Ica region on Saturday, killing all 13 on board — 11 tourists plus the pilot and co-pilot. Local media reported that seven Italians, two Germans and two Spaniards were among the dead; the flight was on a tour route over the Nazca Lines.",
+  "sources": [
+   "Xinhua",
+   "BSS (AFP)",
+   "RPP"
+  ],
+  "archive_id": "events-f3035aa9453b5c1ab96a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "description",
+    "date",
+    "sources"
+   ],
+   "note": "August 1 crash, 13 occupants and tourist nationalities corroborated. Exact six-kilometre location and aircraft timing/UTC not independently established; avoid full verification.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/08/02/13-dead-after-nazca-lines-tourist-flight-crashes-in-peru"
+    },
+    {
+     "name": "ANSA",
+     "url": "https://www.ansa.it/english/news/general_news/2026/08/03/peru-suspends-company-whose-plane-crashed-killing-13-including-7-italians_4309fe62-3d9a-4a01-977c-3dd0525b83a7.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-01",
+  "title": "Russian missile barrage on Kyiv kills ten",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 10,
+  "description": "In a heavy ballistic missile attack early on Saturday, Russia struck Kyiv and the surrounding region, killing 10 people and wounding more than 30. It was the second major attack on the capital that week; President Volodymyr Zelensky said Ukraine had run out of Patriot interceptor missiles.",
+  "sources": [
+   "The Moscow Times",
+   "RTE",
+   "New Straits Times"
+  ],
+  "archive_id": "events-7581448ad14f4e5bef39",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "identity",
+    "sources"
+   ],
+   "note": "Likely duplicate of July 31 'Russian ballistic missile attack on Kyiv'. Sources report nine, not ten, in the overnight July 31-August 1 attack; ten may be borrowed from July 30 nationwide strikes. Merge after establishing onset; do not sum both records.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/eb62397d10bca2d6db4269a3bcfc9dc6"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-01",
+  "title": "Shooting at In-N-Out restaurant in Twin Falls",
+  "category": "gun-violence",
+  "location": "Twin Falls, Idaho, United States",
+  "lives_lost": 3,
+  "description": "A shooting near an In-N-Out restaurant in Twin Falls on the afternoon of 1 August 2026 left three people dead and seven injured, according to the city's public update. Police said the immediate threat had ended and the investigation was continuing.",
+  "sources": [
+   "CNN",
+   "CBS News",
+   "TASS"
+  ],
+  "archive_id": "events-3d2b04acf475c6b4d8a7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "City and local public radio update injuries to seven. 14:30 MDT is 20:30 UTC August 1. Retrieved accounts vary over whether three deaths include gunman; retain reported three without claiming three homicide victims. Resolve victim/perpetrator breakdown separately. Publication is withheld until the victim/perpetrator scope of the total is reconciled.",
+   "sources": [
+    {
+     "name": "City of Twin Falls",
+     "url": "https://id-twinfalls2.civicplus.com/AlertCenter.aspx?AID=Public-Update-on-Shooting-Tragedy-at-InN-37"
+    },
+    {
+     "name": "Boise State Public Radio",
+     "url": "https://www.boisestatepublicradio.org/news/2026-08-01/twin-falls-idaho-police-active-shooter-in-n-out"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-01",
@@ -557,7 +1384,8 @@
    "https://satp.org/terrorist-activity/afghanistan-capitalregion-kabul-Aug-2026",
    "https://www.afintl.com/en/202608102881",
    "https://omidradio.com/fa/2026/08/01/%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%DB%8C%DA%A9-%D8%A8%D8%A7%D9%86%D8%AF-%DB%B1%DB%B6-%D9%86%D9%81%D8%B1%DB%8C-%D8%AF%D8%B2%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84/"
-  ]
+  ],
+  "archive_id": "events-0e2f98fe9df0c219ede8"
  },
  {
   "date": "2026-08-02",
@@ -573,7 +1401,8 @@
   "source_urls": [
    "https://apnews.com/article/30f2fac5edbab69ed0fc6b65232d0aaa",
    "https://darfurvs.org/zawiya-administrative-unit-gaza-area-al-sireaf-locality-north-darfur-state/"
-  ]
+  ],
+  "archive_id": "events-c76ab18b5db51cc9e3da"
  },
  {
   "date": "2026-08-02",
@@ -589,7 +1418,8 @@
   "source_urls": [
    "https://www.itv.com/news/2026-08-02/two-helicopters-collide-while-tackling-wildfires-in-greece",
    "https://www.ekathimerini.com/news/1311377/two-firefighting-helicopters-collide-2-dead/"
-  ]
+  ],
+  "archive_id": "events-397ef9da4d369978aa26"
  },
  {
   "date": "2026-08-02",
@@ -605,7 +1435,8 @@
   "source_urls": [
    "https://www.investing.com/news/world-news/israeli-strikes-kill-18-in-gaza-minister-says-no-deal-to-halt-attacks-4829736",
    "https://www.lemonde.fr/en/international/article/2026/08/04/israel-intensifies-gaza-strikes-and-reaffirms-it-will-not-withdraw-before-full-hamas-disarmament_6756139_4.html"
-  ]
+  ],
+  "archive_id": "events-eb49bf794c127ec8f98e"
  },
  {
   "date": "2026-08-02",
@@ -621,7 +1452,83 @@
   "source_urls": [
    "https://apnews.com/article/9e4000f63b54cf814704ff60373f2bb9",
    "https://www.reutersconnect.com/collection/one-killed-31-injured-in-russian-attacks-on-ukraines-zaporizhzhia-governor-says/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMjcyNzAyMDgyMDI2UlAx"
-  ]
+  ],
+  "archive_id": "events-23d70c28bd84e26971ed"
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Suicide bombing at anti-militant rally kills 14 in Swat",
+  "category": "terrorism",
+  "location": "Kabal, Swat, Khyber Pakhtunkhwa, Pakistan",
+  "lives_lost": 14,
+  "description": "A suicide bomber targeted protesters gathered outside a police station in Kabal, Swat, on Sunday, killing at least 14 people — including eight police officers — and wounding more than two dozen others, officials said. The rally was part of an anti-militant peace campaign in northwestern Pakistan.",
+  "sources": [
+   "AP News",
+   "CNN",
+   "South China Morning Post",
+   "LA Times"
+  ],
+  "archive_id": "events-96ac2997d072e69dd91d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "date",
+    "sources"
+   ],
+   "note": "August 2 Kabal rally attack supported. Totals differ: 14, 15 and later secondary 17; police/civilian breakdown and injured counts vary. Do not combine incompatible snapshots. Exact onset unavailable.",
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://amp.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/world/suspected-suicide-blast-near-pakistan-peace-rally-kills-14-in-swat-2653193"
+    },
+    {
+     "name": "Business Recorder",
+     "url": "https://www.brecorder.com/news/40433030/8-police-personnel-among-15-killed-in-swat"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-02",
+  "title": "Ukraine strikes deep inside Russia kill eight",
+  "category": "war",
+  "location": "Belgorod and Moscow regions, Russia",
+  "lives_lost": 8,
+  "description": "Large-scale Ukrainian drone strikes on targets deep inside Russia on Sunday killed at least eight people, including at logistics warehouses of retailer Wildberries in the Moscow region. Russia said it shot down 635 UAVs overnight, and the acting governor of the border Belgorod region reported four dead in strikes on civilian areas.",
+  "sources": [
+   "Tempo (Reuters)",
+   "VOV",
+   "Deutschlandfunk",
+   "Alquds"
+  ],
+  "archive_id": "events-dd4b414dabb4b4104bd5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "description",
+    "sources"
+   ],
+   "note": "DW supports eight nationwide but lists Udmurtia and Belgorod, and depicts Wildberries in Samara, not Moscow. AP's next-day account reports nine. Location composition, 635 interceptions, Belgorod four and UTC coverage require reconciliation.",
+   "sources": [
+    {
+     "name": "Deutsche Welle",
+     "url": "https://amp.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/9e4000f63b54cf814704ff60373f2bb9"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-03",
@@ -643,7 +1550,41 @@
    "https://ustlabinfo.ru/info/terakt-v-arkhipoosipovke-sem-pogibshikh/",
    "https://novayagazeta.eu/articles/2026/09/02/leto-2026-goda-stalo-rekordnym-po-chislu-pogibshikh-mirnykh-zhitelei-v-rossii",
    "https://max.ru/opershtab23/AZ_LZGMxDLY"
-  ]
+  ],
+  "archive_id": "events-555ec85bf92340d925c8"
+ },
+ {
+  "date": "2026-08-03",
+  "title": "Israeli fire kills 19 Palestinians in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 19,
+  "description": "At least 19 Palestinians were killed by Israeli fire over 24 hours, including 18 killed by Israeli forces and one who died of wounds from an earlier attack, according to the Gaza Health Ministry. The deaths brought the number of Palestinians killed since the ceasefire to more than 1,250.",
+  "sources": [
+   "Express Tribune",
+   "Anadolu Agency",
+   "SANA"
+  ],
+  "archive_id": "events-71b1547da8505929a717",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Ministry's August 3 release supports 18 newly killed plus one previous-wound death, not 19 deaths necessarily occurring August 3. Likely overlaps August 2 entry's 18. Cannot count both totals independently; exact rolling-window cutoff and unique victims unresolved.",
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-fire-kills-19-gazans-in-past-24-hours-death-toll-nears-73-400-health-ministry/4016959"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/world-news/israeli-strikes-kill-18-in-gaza-minister-says-no-deal-to-halt-attacks-4829736"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-03",
@@ -659,7 +1600,35 @@
   "source_urls": [
    "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-2-palestinians-in-new-gaza-ceasefire-violation/4017503",
    "https://www.timesofisrael.com/liveblog_entry/first-israeli-airstrike-in-some-24-hours-reported-in-gaza-amid-pressure-to-halt-attacks/"
-  ]
+  ],
+  "archive_id": "events-49115264c4f017e80b0d"
+ },
+ {
+  "date": "2026-08-03",
+  "title": "Landslide kills 14 at Ethiopian monastery",
+  "category": "natural-disaster",
+  "location": "North Shewa Zone, Amhara, Ethiopia",
+  "lives_lost": 14,
+  "description": "Heavy rainfall triggered a landslide that buried worshippers gathered at Tsadqane Debre Mitmaq St. Mary Monastery in Amhara's North Shewa Zone, killing 14 people and injuring at least seven, with an unknown number still missing as search and rescue efforts continued.",
+  "sources": [
+   "AP News",
+   "Xinhua",
+   "EFE"
+  ],
+  "archive_id": "events-6dbe537ed4a85fa7d9b4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "AP's full report supports date, monastery, region, rain, 14 deaths, seven injuries and people unaccounted for. 07:00 local = 04:00 UTC August 3. One retrieved source chain; obtain second independent URL before replacing canonical sources. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/e4949a0ebbd59fc2a5c902baef25be91"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-03",
@@ -677,7 +1646,80 @@
    "https://united24media.com/war-in-ukraine/russian-guided-bombs-strike-sumy-residential-zone-killing-three-including-children-21326",
    "https://russian-torturers.org/en/crimes/4-serpnia-2026-roku-m-sumi",
    "https://meduza.io/en/news/2026/08/04/russia-drops-aerial-bombs-on-ukraine-s-sumy-killing-two-children-and-a-woman-in-mykolaiv-a-russian-strike-kills-one-woman"
-  ]
+  ],
+  "archive_id": "events-d1c305a43ac12dafff47"
+ },
+ {
+  "date": "2026-08-04",
+  "title": "CRPF officer shooting in Assam kills four",
+  "category": "gun-violence",
+  "location": "Nagaon, Assam, India",
+  "lives_lost": 4,
+  "description": "A CRPF officer shot two colleagues dead and seriously wounded another at the 34th Battalion camp in Katimari, Nagaon, before killing himself; the wounded personnel member later died in hospital, bringing the death toll to four, police said.",
+  "sources": [
+   "Deccan Herald",
+   "Asianet News",
+   "Pratidin Time"
+  ],
+  "archive_id": "events-62f3c266b8ad94a78ef8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Two colleagues and perpetrator dead, one injured supported; August 12 follow-up still describes three. No support located for injured colleague's later death. Morning August 4 may require exact clock for UTC boundary. Any rewrite must use 'died by suicide' without method.",
+   "sources": [
+    {
+     "name": "India Today NE",
+     "url": "https://www.indiatodayne.in/assam/video/crpf-dg-gp-singh-visits-nagaon-battalion-to-probe-august-4-firing-incident-1436687-2026-08-12"
+    },
+    {
+     "name": "The Week",
+     "url": "https://www.theweek.in/news/india/2026/08/04/crpf-officer-shoots-two-colleagues-dead-injures-one-dies-by-suicide-in-assams-nagaon.amp.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Israeli fire kills two in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 2,
+  "description": "Two more Palestinians were killed by Israeli fire in Gaza over 24 hours, with ten others injured, according to the Gaza Health Ministry, bringing the death toll since October 7, 2023 to 73,377. Some victims remained trapped under rubble beyond the reach of rescue crews.",
+  "sources": [
+   "ABNA",
+   "SABA",
+   "SANA"
+  ],
+  "archive_id": "events-d744cc844ebceaa0cb7d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "August 4 is bulletin date; two newly reported deaths may include the August 3 vehicle strike. Cumulative 73377 corroborated, but exact death dates/unique victims and full injury/rubble claims not established.",
+   "sources": [
+    {
+     "name": "Palestinian Health Ministry",
+     "url": "https://t.me/s/MOHMediaGaza?before=7584"
+    },
+    {
+     "name": "IRNA via GlobalSecurity",
+     "url": "https://www.globalsecurity.org.globalsecurity.org/military/library/news/2026/08/mil-260804-irna01.htm"
+    },
+    {
+     "name": "Algeria Press Service",
+     "url": "https://www.aps.dz/en/tags/gaza-strip"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-04",
@@ -693,7 +1735,104 @@
   "source_urls": [
    "https://www.bernama.com/en/world/news.php?id=2590417",
    "https://www.thephuketnews.com/thai-footballer-killed-by-lightning-during-golok-fa-cup-101205.php"
-  ]
+  ],
+  "archive_id": "events-6b656e30f090885355c0"
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Russian drone strike on Mykolaiv kills elderly woman",
+  "category": "war",
+  "location": "Mykolaiv, Ukraine",
+  "lives_lost": 1,
+  "description": "Russian drones attacked the southern port city of Mykolaiv overnight, killing an 89-year-old woman and injuring seven people, including two children. Two private houses were destroyed and several other buildings were damaged.",
+  "sources": [
+   "Georgia Today",
+   "News18",
+   "Daily Times"
+  ],
+  "archive_id": "events-32e5aebd6dd970616c46",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Victim age, seven injured including two children, and two destroyed homes supported. Night of August 3-4 not precise enough for UTC day; do not use publication date as onset.",
+   "sources": [
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/08/04/8047125/"
+    },
+    {
+     "name": "Meduza",
+     "url": "https://meduza.io/en/news/2026/08/04/russia-drops-aerial-bombs-on-ukraine-s-sumy-killing-two-children-and-a-woman-in-mykolaiv-a-russian-strike-kills-one-woman"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Serviceman kills four in shooting near Sevastopol",
+  "category": "gun-violence",
+  "location": "Khmelnitskoye, Sevastopol, Crimea",
+  "lives_lost": 4,
+  "description": "A Russian serviceman opened fire on fellow soldiers and civilians in the village of Khmelnitskoye near Sevastopol, killing four people - one soldier and three civilians aged 59, 64 and 71 - and wounding four others before being detained, Sevastopol Governor Mikhail Razvozhayev said.",
+  "sources": [
+   "Xinhua",
+   "AP News",
+   "The Canadian Press"
+  ],
+  "archive_id": "events-6e6ccaa57320c6e4d9b1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "Four dead (one soldier/three civilians), four injured and detention supported. AP explicitly says governor did not specify when it happened: August 4 is report date, not proven occurrence date. Victim ages not established.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/574bd915ebf7625955fc1cefbf3ef918"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/eurasia/4-killed-4-wounded-after-russian-serviceman-opens-fire-in-crimea/4017646"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-04",
+  "title": "Ukrainian drone strike on Moscow region kills five",
+  "category": "war",
+  "location": "Chekhov district, Moscow Oblast, Russia",
+  "lives_lost": 5,
+  "description": "A Ukrainian drone strike on an industrial zone in Novoselki near Chekhov, outside Moscow, started fires at an industrial site and killed five people, wounding at least six others, Moscow Region Governor Andrei Vorobyov said. The attack was part of an escalation of long-range drone strikes exchanged between Russia and Ukraine.",
+  "sources": [
+   "SANA",
+   "The News (AFP)"
+  ],
+  "archive_id": "events-c1b650327154ae4f1b81",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Governor's five dead/six injured and Novoselki/Chekhov supported. Overnight onset not precise enough to establish August 3 versus 4 UTC; sources share governor statement rather than independent casualty confirmation.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2026/08/04/drone-strike-on-moscow-region-kills-five-regional-governor-says"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/russia-ukraine-war/drone-strike-kills-at-least-5-in-russia-s-moscow-region-governor/4017586"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-05",
@@ -709,7 +1848,41 @@
   "source_urls": [
    "https://www.timesofisrael.com/idf-strikes-southern-lebanon-town-alleging-ceasefire-violation-by-hezbollah/amp/",
    "https://www.jpost.com/israel-news/article-904922"
-  ]
+  ],
+  "archive_id": "events-d1c69b53b4dcedd05afc"
+ },
+ {
+  "date": "2026-08-05",
+  "title": "India monsoon floods and landslides kill more than 100 since July",
+  "category": "natural-disaster",
+  "location": "India",
+  "lives_lost": 133,
+  "description": "An official tally released on August 5 showed that floods and landslides triggered by monsoon rains had killed at least 133 people across India since the beginning of July: 87 in Assam (47 in Sivasagar district alone), 31 in Jammu and Kashmir, and 15 in Kerala, with seven people still missing and more than 10,000 in relief camps.",
+  "sources": [
+   "Express Tribune",
+   "Vietnam.vn",
+   "Sharjah24 (AFP)"
+  ],
+  "archive_id": "events-e35ee74159b3822a68de",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "AFP supports 133 since early July, including 87 in Assam. August 5 is release date, not event date. Assam portion overlaps the 82-death Assam record. Must choose non-overlapping disaster scopes and establish onset; do not add both full tolls.",
+   "sources": [
+    {
+     "name": "AFP via Sharjah24",
+     "url": "https://sharjah24.ae/en/Articles/2026/08/05/a17"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/amp/india-news/assam-floods-death-toll-rises-to-82-nearly-193-000-people-still-affected-126073101839_1.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-05",
@@ -725,7 +1898,37 @@
   "source_urls": [
    "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-1-injures-12-in-southern-lebanon/4019299",
    "https://www.swissinfo.ch/spa/un-muerto-y-12-heridos-en-un-ataque-israel%C3%AD-contra-mezquita-de-cementerio-en-sur-de-l%C3%ADbano/91851831"
-  ]
+  ],
+  "archive_id": "events-4fe479992271a903de17"
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Israeli fire kills four in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 4,
+  "description": "Israel killed four more Palestinians in Gaza over 24 hours, bringing the war's death toll to 73,381, the Gaza Health Ministry said. Since the ceasefire took effect in October 2025, Israeli violations have killed 1,254 Palestinians and injured 4,121.",
+  "sources": [
+   "Anadolu Agency",
+   "SANA",
+   "SABA"
+  ],
+  "archive_id": "events-8f00f022407174305e04",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "All quoted ministry totals supported as an August 5 reporting snapshot, but rolling 24h fatalities cannot all be dated August 5. Unique victims and overlap with incident-level entries not established.",
+   "sources": [
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/israel-kills-4-more-palestinians-in-gaza-as-death-toll-reaches-73-381/4018870"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-05",
@@ -741,7 +1944,34 @@
   "source_urls": [
    "https://www.wral.com/news/local/caswell-mass-shooting-august-2026/",
    "https://www.wmtw.com/article/north-carolina-mass-shooting/73361892"
-  ]
+  ],
+  "archive_id": "events-6d619e09e489bda0a4c0"
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Mudslide buries household in Zhashui County, Shaanxi",
+  "category": "natural-disaster",
+  "location": "Zhashui County, Shaanxi, China",
+  "lives_lost": 1,
+  "description": "A sudden mudslide triggered by days of heavy rainfall buried members of a household in Xingping township, Zhashui County, while they were clearing water near their home on August 5. One person was confirmed dead and two remained missing; continuous rain from July 30 to August 5 reached 321.4 mm in the county.",
+  "sources": [
+   "ECNS",
+   "CNR"
+  ],
+  "archive_id": "events-6c7bf2b1cfeaa61e0eae",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Xinhua's August 6 dispatch quotes the county flood-control headquarters: the household was buried August 5, with one confirmed dead and two missing. It also supports the July 30-August 5 maximum rainfall figure. Missing people are not included in lives_lost. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "The Paper / Xinhua",
+     "url": "https://www.thepaper.cn/newsDetail_forward_33729566"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-05",
@@ -757,7 +1987,128 @@
   "source_urls": [
    "https://theprint.in/india/house-collapses-amid-rain-in-ups-pratapgarh-six-killed/3006866/",
    "https://ndtv.in/uttar-pradesh-news/pratapgarh-100-year-old-house-collapse-6-members-of-same-family-killed-in-mahuli-village-11872162"
-  ]
+  ],
+  "archive_id": "events-0d5012df31ea6deb56af"
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Russian missile strikes on Kyiv kill two",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 21,
+  "description": "Russia attacked Kyiv with waves of ballistic missiles and drones after midnight, killing at least 21 people - three in the capital and 18 in the surrounding region - and injuring more than 45. The assault used 24 ballistic missiles, four Zircon/Onyx missiles and 115 drones, hitting warehouses, a railway station and other civilian infrastructure; air defences intercepted 98 drones.",
+  "sources": [
+   "Reuters",
+   "Deutschlandfunk",
+   "Tagesspiegel",
+   "Daily Times",
+   "Ukrinform",
+   "Anadolu Agency"
+  ],
+  "archive_id": "events-0994469186a7aacac500",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Core attack/missile counts supported; sources give 17 combined and later two city deaths, not record 21 with 3+18. Title/number mismatch. Onset after midnight August 5 local implies potentially August 4 UTC; precise onset and final combined toll unresolved.",
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-ballistic-missile-attack-on-kyiv-aug-5/"
+    },
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/08/07/8047722/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://theprint.in/world/russian-attacks-kill-one-in-ukrainian-capital-kyiv-trigger-fires/3005643/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Russian strike on grain ship in Odesa region kills one",
+  "category": "war",
+  "location": "Black Sea, Odesa region, Ukraine",
+  "lives_lost": 1,
+  "description": "Russian forces attacked a merchant dry cargo ship flying the flag of Guinea-Bissau and loaded with Ukrainian wheat, damaging the hull and starting a fire. One Ukrainian sailor was killed and three crew members were injured; the crew was evacuated to shore.",
+  "sources": [
+   "Ukrinform",
+   "RBC Ukraine"
+  ],
+  "archive_id": "events-41ce48733b1e53d142c1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Mera Queen, flag, wheat, one killed/three injured supported. Odesa report dates strike evening August 5; trade publication uses August 6. Preserve conflict rather than treating report date as proof. Exact UTC date requires primary confirmation.",
+   "sources": [
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.fr/rubric-ato/4151667-un-navire-de-ble-ukrainien-vise-par-larmee-russe-pres-dodessa-un-marin-tue-et-trois-blesses.html"
+    },
+    {
+     "name": "Odesa Online",
+     "url": "https://odessa.online/ru/rossiya-atakovala-grazhdanskoe-sudno-s-pshenitsej-v-chernom-more-pogib-ukrainskij-moryak/"
+    },
+    {
+     "name": "The Maritime Executive",
+     "url": "https://maritime-executive.com/article/seafarer-killed-as-russia-strikes-two-more-black-sea-ships"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-05",
+  "title": "Sri Lanka floods and mudslides kill seven",
+  "category": "natural-disaster",
+  "location": "Central highlands, Sri Lanka",
+  "lives_lost": 8,
+  "description": "Torrential rains triggered floods and mudslides across Sri Lanka's central highlands, killing at least eight people - six in Nuwara Eliya, one in Kandy and one in Puttalam - and affecting more than 16,000 people, with nearly 11,000 evacuated. Authorities closed schools in the affected areas.",
+  "sources": [
+   "Al Jazeera",
+   "Mid-Day",
+   "RSOE-EDIS",
+   "Sharjah24 (AFP)",
+   "The Morning Telegraph"
+  ],
+  "archive_id": "events-8deaec5100b31d09b360",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Disaster began before August 5; eight already reported August 4, later nine by August 25. Eight/seven title mismatch. Geographic and time windows differ; exact onset/toll scope and 11000 evacuated unresolved. Do not treat cumulative impacts as August 5 deaths.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/ec1a5cf9432c405ebeeb4267ecbf5451"
+    },
+    {
+     "name": "Newswire",
+     "url": "https://www.newswire.lk/2026/08/04/inclement-weather-death-toll-rises-to-eight/"
+    },
+    {
+     "name": "Daily Mirror",
+     "url": "https://www.dailymirror.lk/breaking-news/Over-16-600-people-affected-by-adverse-weather/108-348798"
+    },
+    {
+     "name": "GDACS",
+     "url": "https://www.gdacs.org/Floods/report.aspx?episodeid=1&eventid=1104075&eventtype=FL"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-06",
@@ -773,7 +2124,39 @@
   "source_urls": [
    "https://tbinewsroom.com/2026/08/06/tbi-special-agents-investigating-officer-involved-shooting-in-nashville-4/",
    "https://www.wsmv.com/2026/08/10/teen-boy-man-killed-shooting-involving-federal-agents-nashville-heres-what-we-know/"
-  ]
+  ],
+  "archive_id": "events-e509944e21439b7b7a8c"
+ },
+ {
+  "date": "2026-08-06",
+  "title": "Gaza hospitals report one death from earlier wounds",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 1,
+  "description": "An August 6 medical bulletin reported one Palestinian who died of earlier wounds and five injured people received by Gaza hospitals during the preceding 24 hours. It reported a cumulative death toll of 73,382 since October 2023.",
+  "sources": [
+   "Safa",
+   "Naba TV"
+  ],
+  "archive_id": "events-ea4e6735c113982f81d1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "August 6 is the bulletin date, not a proven death or attack date. The report says one person died of earlier wounds during a rolling 24-hour period; it does not identify Beit Lahia or a new airstrike. Cumulative 73,382 and five wounded are supported. Exact death time and incident linkage remain unresolved.",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/173309"
+    },
+    {
+     "name": "UNA",
+     "url": "https://www.una-oic.org/en/palestinians/2026/08/06/73382-martyrs-since-the-start-of-the-war-of-extermination-on-the-Gaza-Strip/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-06",
@@ -789,7 +2172,86 @@
   "source_urls": [
    "https://en.interfax.com.ua/news/general/1191252.html",
    "https://mediaport.ua/ukrzaliznytsia-nazvala-imena-pratsivnykiv-iaki-zahynuly-pid-chas-udaru-po-vokzalu-lozovoi/"
-  ]
+  ],
+  "archive_id": "events-cc915e8505f7ab9abac3"
+ },
+ {
+  "date": "2026-08-06",
+  "title": "Russian strikes kill six in Balakliia and Sumy region",
+  "category": "war",
+  "location": "Kharkiv and Sumy regions, Ukraine",
+  "lives_lost": 6,
+  "description": "Ukrainian authorities reported three people killed in overnight strikes on homes in Balakliia and three in attacks in Sumy region. Reuters reported at least 19 wounded in Sumy-region settlements, another 12 in Sumy city, and six in a drone attack on a van in Kherson region.",
+  "sources": [
+   "SANA",
+   "Reuters",
+   "Ukrinform"
+  ],
+  "archive_id": "events-4479a348664bfe6c0130",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Reuters supports six deaths, three each in Balakliia and Sumy region, but says overnight without times to determine August 5 versus 6 UTC. Sumy city's guided-bomb attack injured 12, not 13; not all attacks are established as drones. Compare the separate Lozova entry to avoid combining separate attacks.",
+   "sources": [
+    {
+     "name": "Reuters / Internazionale",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/06/russian-strikes-kill-six-in-ukraine-s-balakliia-sumy-officials-say"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/30447169b0145caa2e48ebf22b235c7a"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-06",
+  "title": "Storm deaths in the Philippines reach at least 27",
+  "category": "natural-disaster",
+  "location": "Philippines",
+  "lives_lost": 27,
+  "description": "Heavy rains from tropical depressions Luis and Maymay and the enhanced southwest monsoon killed at least 27 people across the Philippines, with 17 injured and one missing, according to the Office of Civil Defense on August 19. About 5.39 million people were affected across Luzon and Mindanao, with nearly 2,000 homes damaged and 461 evacuation centers housing about 42,000 people. Landslides and flooding were widespread, including 10 killed in Baguio City when a rain-drenched mountainside collapsed on three houses.",
+  "sources": [
+   "The Peninsula Qatar",
+   "Ouest-France",
+   "Philippine News Agency",
+   "GMA News",
+   "Office of Civil Defense",
+   "AFP",
+   "Xinhua News Agency",
+   "TASS",
+   "ABS-CBN News",
+   "PhilStar",
+   "Manila Bulletin"
+  ],
+  "archive_id": "events-7c0fb6d142757b2838a5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The record is a nationwide cumulative storm series, not a discrete Northern Luzon event on August 6. Official reporting begins July 30; the August 20 OCD figure rose to 29 reported deaths, while later reports add other storms and cannot be substituted without matching scope. Reported versus validated counts also differ. Includes potential overlap with August 9 Baguio and Batangas records; do not add all three totals. Resolve episode boundary and validated toll before replacement.",
+   "sources": [
+    {
+     "name": "DSWD DROMIC",
+     "url": "https://dromic.dswd.gov.ph/effects-of-tropical-cyclone-luis-30-jul-2026/"
+    },
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/999212/death-toll-from-luis-maymay-habagat-rises-to-29-ocd/story/"
+    },
+    {
+     "name": "Philippine News Agency",
+     "url": "https://www.pna.gov.ph/articles/1281397"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-06",
@@ -807,7 +2269,8 @@
    "https://wffoundation.org/the-fallen/jason-ensign-green-diamond-resource-company-oregon",
    "https://apnews.com/article/a42a74bfa41c20a12313de6d5972ed23",
    "https://www.firerescue1.com/firefighter-death/dozer-operator-killed-during-ore-wildfire-operations"
-  ]
+  ],
+  "archive_id": "events-3c3df7b4a7b1148396b2"
  },
  {
   "date": "2026-08-07",
@@ -825,7 +2288,8 @@
    "https://lessons.wildfire.gov/incident/widemouth-2-fire-helicopter-accident-fatalities-2026",
    "https://wffoundation.org/the-fallen/ht793-pilot-chris-anderson-helicopter-transport-services-cleveland-national-forest",
    "https://kslnewsradio.com/environment-outdoors/utah-firewatch/ntsb-helicopter-crash-details-widemouth/2317135/"
-  ]
+  ],
+  "archive_id": "events-f707f86666c5e964dc3d"
  },
  {
   "date": "2026-08-07",
@@ -843,7 +2307,40 @@
    "https://www.nationthailand.com/news/general/40069565",
    "https://www.khaosodenglish.com/featured/2026/08/07/what-we-know-so-far-deadly-school-shooting-rocks-thailand/",
    "https://apnews.com/article/7939000dbad098198a9fc77169028762"
-  ]
+  ],
+  "archive_id": "events-b60bbde68898006dc4f4"
+ },
+ {
+  "date": "2026-08-08",
+  "title": "Explosive drone attack on police substation kills officer in northern Colombia",
+  "category": "terrorism",
+  "location": "Curumaní, Cesar, Colombia",
+  "lives_lost": 1,
+  "description": "Explosives dropped from drones struck the San Roque police substation in Curumani, Cesar, killing one officer and wounding another. Local reporting places the attack on the night of August 7.",
+  "sources": [
+   "AP News",
+   "La Crónica",
+   "TV Perú"
+  ],
+  "archive_id": "events-0dd04fdf0b142327267a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Local follow-up dates the attack to the night of August 7; without an hour, August 7 versus 8 UTC remains unresolved. One officer killed and another wounded are supported. Remove unrelated tollgate and presidential-term detail rather than treating those as evidence of this incident's date.",
+   "sources": [
+    {
+     "name": "Noticias Caracol",
+     "url": "https://www.noticiascaracol.com/colombia/atacan-con-drones-una-subestacion-de-policia-en-el-departamento-del-cesar-uniformado-murio-rg10"
+    },
+    {
+     "name": "Noticias Caracol follow-up",
+     "url": "https://www.noticiascaracol.com/colombia/asi-quedo-la-subestacion-de-policia-en-cesar-tras-el-ataque-con-drones-que-dejo-un-uniformado-muerto-rg10"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-08",
@@ -859,7 +2356,178 @@
   "source_urls": [
    "https://www.band.com.br/nacional/brasil/helicoptero-cai-em-area-de-mata-e-deixa-mortos-na-vista-chinesa-no-rj",
    "https://www1.folha.uol.com.br/cotidiano/2026/08/quatro-pessoas-morrem-em-acidente-de-helicoptero-no-rio.shtml"
-  ]
+  ],
+  "archive_id": "events-99ee2f50a5380d857f60"
+ },
+ {
+  "date": "2026-08-08",
+  "title": "IS-linked militants kill at least 13 in eastern Congo village attack",
+  "category": "terrorism",
+  "location": "Banana École, Mambasa, Ituri, DR Congo",
+  "lives_lost": 13,
+  "description": "An attack attributed to ADF militants killed at least 13 civilians in Banana Ecole, Mambasa territory, Ituri. Local reporting described homes and vehicles burned and villagers abducted. Reports disagree whether the attack occurred August 7 or 8.",
+  "sources": [
+   "AP News",
+   "Times of Israel",
+   "TRT Afrika"
+  ],
+  "archive_id": "events-8acd356bbbfdd820b50d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Both sources support at least 13 killed and attribution to ADF/IS-linked militants. AP reports Saturday, whereas the local report explicitly says Friday August 7 around 19:00 local (17:00 UTC). This is not merely a publication-date difference that can be silently resolved. Omit the imprecise Uganda-border characterization.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/9aa74dd808f76180ab00046f7943e358"
+    },
+    {
+     "name": "Zoom Info Mambasa",
+     "url": "https://zoominfomambasa.cd/ituri-apres-le-massacre-de-banana-ecole-la-societe-civile-exige-une-protection-urgente-des-civils/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-08",
+  "title": "Russian drone strike kills three in Brovary district",
+  "category": "war",
+  "location": "Brovary district, Kyiv Oblast, Ukraine",
+  "lives_lost": 3,
+  "description": "A Russian drone strike destroyed a family home in Brovary district, killing a three-year-old child and his grandparents. Three other family members and a neighbor were hospitalized.",
+  "sources": [
+   "Kyiv Independent",
+   "RBC Ukraine"
+  ],
+  "archive_id": "events-0ea35bc870552290e2cb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Three deaths are supported for Brovary, while the wider Kyiv/capital-region total later became four. Do not substitute the wider toll into this narrower record. Later police reporting has four injured, not three. The overnight attack needs a time to distinguish August 7 from 8 UTC.",
+   "sources": [
+    {
+     "name": "National Police of Ukraine",
+     "url": "https://npu.gov.ua/news/troie-zahyblykh-ta-chetvero-postrazhdalykh-politsiia-kyivshchyny-dokumentuie-naslidky-vorozhoi-ataky"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/deadly-russian-attack-in-kyiv-oblast-kills-3-including-child/"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/492d334e26b5485dbf74d7ae9c9d33ce"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-09",
+  "title": "Habagat floods and landslides kill three in Batangas, Philippines",
+  "category": "natural-disaster",
+  "location": "Batangas, Philippines",
+  "lives_lost": 3,
+  "description": "Widespread flooding and multiple landslides triggered by the southwest monsoon (habagat) killed three people and left one fisherman missing in Batangas province. One victim, 69-year-old construction worker Teodoro Latumbo, died when a landslide buried his barracks in Barangay Calumala, Santa Teresita, late Saturday night.",
+  "sources": [
+   "ABS-CBN News",
+   "Manila Bulletin"
+  ],
+  "archive_id": "events-9ab53452c7fa779e1e5c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "ABS-CBN supports a provincial total of three reported August 9, but its accessible page lacks the narrative needed to date each death. Manila Bulletin places Latumbo's death Saturday night August 8, not August 9. Full three-death chronology remains unresolved. These deaths potentially overlap the nationwide Luis/Maymay/monsoon cumulative record. The provincial/nationwide casualty overlap remains unresolved.",
+   "sources": [
+    {
+     "name": "ABS-CBN News",
+     "url": "https://www.abs-cbn.com/news/regions/2026/8/9/habagat-leaves-three-dead-in-batangas-1-missing-2048"
+    },
+    {
+     "name": "Manila Bulletin",
+     "url": "https://mb.com.ph/2026/08/09/sexagenarian-laborer-killed-in-landslide"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-09",
+  "title": "Houthi strikes on Mokha kill at least seven in Yemen",
+  "category": "war",
+  "location": "Mokha, Taiz, Yemen",
+  "lives_lost": 7,
+  "description": "Houthi ballistic missile and drone attacks on the western port city of Mokha on Sunday killed at least seven people - three civilians and four military personnel, according to medical sources - and wounded about 15 others, some critically. The Houthis launched a fresh round of strikes hours later.",
+  "sources": [
+   "Xinhua",
+   "Anadolu Agency"
+  ],
+  "archive_id": "events-044862174f3220ed1b06",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "August 9 attack is supported, but later accounts conflict: Reuters quotes the military's seven deaths/30 injured; Anadolu has seven/35; AFP via South24 reports eleven (three civilians, eight military)/32. The record's seven/15 is preliminary and may omit later attack waves. Establish whether the intended scope is the first strike or all Sunday attacks before selecting a replacement toll.",
+   "sources": [
+    {
+     "name": "Reuters / Investing.com",
+     "url": "https://www.investing.com/news/world-news/yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30-4847801"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/houthis-bomb-yemen-s-mokha-port-near-bab-al-mandeb-strait/4022388"
+    },
+    {
+     "name": "South24 / AFP",
+     "url": "https://south24.net/news/newse.php?nid=5656"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-09",
+  "title": "Israeli strikes kill three Palestinians in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 3,
+  "description": "Israeli strikes across the Gaza Strip killed three Palestinians and wounded nine others on August 9, targeting civilian neighborhoods, displacement camps and areas previously designated as safe, amid ongoing violations of the ceasefire agreement. Gaza's Health Ministry put the cumulative death toll at 73,386.",
+  "sources": [
+   "Radio Pakistan",
+   "Bernama",
+   "Saba"
+  ],
+  "archive_id": "events-9b5be3637d679203a113",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The August 9 WAFA bulletin reports two deaths received in 24 hours, including one from earlier wounds, not three new strike deaths on that date. It supports cumulative 73,386. The cited same-day gunfire report describes three injuries, not deaths. Incident-specific support for three killed, nine wounded, and the asserted target locations was not established; do not infer those from cumulative totals.",
+   "sources": [
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/173385"
+    },
+    {
+     "name": "Radio Algerie",
+     "url": "https://news.radioalgerie.dz/ar/node/92007"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-09",
@@ -877,7 +2545,8 @@
    "https://pia.gov.ph/news/mga-biktima-ng-pagguho-sa-baguio-city-narekober-na-halos-12k-na-pamilya-sa-cordillera-apektado-ng-kalamidad/",
    "https://tribune.net.ph/2026/08/11/10-dead-3-survive-in-baguio-landslide",
    "https://www.pna.gov.ph/articles/1281464"
-  ]
+  ],
+  "archive_id": "events-ce402f0fe18e2b980814"
  },
  {
   "date": "2026-08-09",
@@ -893,7 +2562,8 @@
   "source_urls": [
    "https://hk.npu.gov.ua/news/dvi-liudyny-zahynuly-shche-23-postrazhdaly-politseiski-dokumentuiut-naslidky-rankovoho-obstrilu-kharkova",
    "https://interfax.com.ua/news/general/1191848.html"
-  ]
+  ],
+  "archive_id": "events-d21f8c9573f6aef5757d"
  },
  {
   "date": "2026-08-09",
@@ -909,7 +2579,8 @@
   "source_urls": [
    "https://online.thedailystar.net/news/world/middle-east/news/16-bangladeshis-killed-saudi-factory-fire-4244061",
    "https://www.tbsnews.net/bangladesh/7-bangladeshi-workers-naogaon-killed-saudi-factory-fire-1510836"
-  ]
+  ],
+  "archive_id": "events-4404e26dfeea1ac02817"
  },
  {
   "date": "2026-08-09",
@@ -925,7 +2596,44 @@
   "source_urls": [
    "https://epaper.dawn.com/DetailImage.php?StoryImage=10_08_2026_009_002",
    "https://tribune.com.pk/story/2622931/two-tribal-elders-shot-dead-by-unidentified-armed-men-in-lower-south-waziristan?amp=1"
-  ]
+  ],
+  "archive_id": "events-8f8bfd7e0ba16f8ed374"
+ },
+ {
+  "date": "2026-08-09",
+  "title": "Ukrainian drone attack on Belgorod kills six",
+  "category": "war",
+  "location": "Belgorod, Russia",
+  "lives_lost": 6,
+  "description": "Russian authorities reported six people killed in a drone attack on Belgorod during the night of 8-9 August 2026. The toll increased after another body was recovered from an apartment building. Russia attributed the attack to Ukraine.",
+  "sources": [
+   "AP News",
+   "Anadolu Agency",
+   "Xinhua"
+  ],
+  "archive_id": "events-029c8857ba392953382a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The death toll rose from three to five and then six. Interfax's August 9 evening report attributes the sixth death to recovery of another man's body from the damaged apartment building, citing the regional operational headquarters. This is an update to the same overnight August 8-9 attack, not an additional incident. Exact fatal-strike timing remains insufficient to select August 8 versus 9 UTC; publication remains withheld.",
+   "sources": [
+    {
+     "name": "Reuters / The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/4f1dd5120278884bf36ce85efe84e5d9"
+    },
+    {
+     "name": "Interfax, later update",
+     "url": "https://m.interfax.ru/1108365"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-10",
@@ -943,7 +2651,8 @@
    "https://www.paho.org/en/natural-hazards-monitoring/natural-hazards-monitoring-4-september-2026",
    "https://www.adrc.asia/view_disaster_en.php?Key=2845&Lang=en",
    "https://www.investing.com/news/world-news/colombia-earthquake-kills-at-least-22-as-buildings-collapse-in-several-cities-4849863"
-  ]
+  ],
+  "archive_id": "events-2b49d96af92dd80d2c69"
  },
  {
   "date": "2026-08-10",
@@ -959,7 +2668,8 @@
   "source_urls": [
    "https://southwestregionalpublishing.com/2026/08/13/update-mark-twain-shooting-victims-identified/",
    "https://www.fox32chicago.com/news/chicago-custodian-shot-school-identified.amp"
-  ]
+  ],
+  "archive_id": "events-8776ce18d654c6313fd0"
  },
  {
   "date": "2026-08-10",
@@ -975,7 +2685,8 @@
   "source_urls": [
    "https://www.dooz.ps/p/285372",
    "https://una-oic.org/id/orang-Palestina/2026/08/10/Seorang-anak-meninggal-dunia-akibat-luka-luka-yang-diderita-akibat-tembakan-senjata-api./"
-  ]
+  ],
+  "archive_id": "events-a2768e63e89f507f7ea4"
  },
  {
   "date": "2026-08-10",
@@ -991,7 +2702,8 @@
   "source_urls": [
    "https://www.ukrinform.net/rubric-ato/4152694-russian-forces-strike-buhaivka-in-kharkiv-region-leaving-five-killed.html",
    "https://www.pravda.com.ua/eng/news/2026/08/10/8048044/"
-  ]
+  ],
+  "archive_id": "events-21d41ebd25454b2e1b4e"
  },
  {
   "date": "2026-08-10",
@@ -1009,7 +2721,67 @@
    "https://zaporizhstal.com/uk-ua/news/rosiia-vkotre-vdarila-balistichnimi-raketami-po-zaporizhstali/",
    "https://kyivindependent.com/explosions-rock-kyiv-zaporizhzhia-as-russian-ballistic-missiles-strike-cities-across-ukraine/",
    "https://en.interfax.com.ua/news/economic/1196565-amp.html"
-  ]
+  ],
+  "archive_id": "events-5a9f3754ac94f4422712"
+ },
+ {
+  "date": "2026-08-10",
+  "title": "Russian-installed official reports fatal drone strike on Donetsk fuel station",
+  "category": "war",
+  "location": "Donetsk, Ukraine",
+  "lives_lost": 1,
+  "description": "Denis Pushilin, the Russian-installed head of occupied Donetsk, said a Ukrainian drone struck a fuel station in the city's Proletarsky district on August 10, killing a 45-year-old truck driver and wounding an employee.",
+  "sources": [
+   "Sputnik",
+   "Moskovsky Komsomolets",
+   "Vesti.ru"
+  ],
+  "archive_id": "events-8263b8d934bc5ecf6733",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "The report supports the August 10 claim, 45-year-old truck driver killed and station employee wounded, but derives entirely from the Russian-installed official. No independent confirmation was located. Describe it as his allegation rather than presenting responsibility as independently established. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "Krasnaya Vesna",
+     "url": "https://rossaprimavera.ru/news/ab32d4fe"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-10",
+  "title": "Ukrainian drone attack on Nizhnekamsk kills 13",
+  "category": "war",
+  "location": "Nizhnekamsk, Tatarstan, Russia",
+  "lives_lost": 13,
+  "description": "A Ukrainian drone attack struck Nizhnekamsk on the morning of August 10. Russian authorities reported 13 deaths and 78 injuries. Ukraine said it targeted an oil refinery in the city.",
+  "sources": [
+   "Reuters",
+   "Anadolu Agency",
+   "AFP"
+  ],
+  "archive_id": "events-a0f99d7babde88bcc7a2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Later AP reporting gives 13 killed and 78 injured, superseding 39 injured. Remove the ranking and unsupported child detail from the replacement. Russian officials reported casualties; Ukraine said it targeted a refinery, so do not independently assert intentional civilian targeting. Other retrieved reporting describes the night leading into August 10. No sufficiently precise fatal-strike time was established to distinguish August 9 from 10 UTC; withhold despite the supported toll update.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/d0e7dc74936cf153e8e473444cc09366"
+    },
+    {
+     "name": "The Insider",
+     "url": "https://theins.org/en/news/295889"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-11",
@@ -1027,7 +2799,8 @@
    "https://apnews.com/article/ed645ab4c753121c5eb9dd7f1bdeb662",
    "https://apnews.com/article/9e18737fb13970ce3b458a466a0dfbe3",
    "https://apnews.com/article/2fb66e523bc8c1b09cd3e046e98459af"
-  ]
+  ],
+  "archive_id": "events-cc051c0840aa01336df9"
  },
  {
   "date": "2026-08-11",
@@ -1045,7 +2818,70 @@
    "https://www.dephub.go.id/post/read/tangani-kebakaran-kmp-putri-yasmin,-menhub-dudy-instruksikan-fokus-proses-pertolongan-penumpang",
    "https://apnews.com/article/ab527cf29730147f86c4c82f341584eb",
    "https://tribratanews.ntb.polri.go.id/article/211-orang-dievakuasi-tim-dvi-polda-ntb-fokus-identifikasi-korban-ferry-putri-yasmin"
-  ]
+  ],
+  "archive_id": "events-a098a95e3ca815e8d923"
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Flash floods in Adré kill three",
+  "category": "natural-disaster",
+  "location": "Adré, Ouaddaï Province, Chad",
+  "lives_lost": 3,
+  "description": "Heavy rains in the afternoon triggered flash floods in several neighborhoods of Adré, a town in the Assoungha department of Ouaddaï Province in eastern Chad, killing three people; local media reported five people were swept away by the water.",
+  "sources": [
+   "Xinhua News Agency",
+   "Tchadinfos"
+  ],
+  "archive_id": "events-1725121010e908da297d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "The local August 12 report explicitly dates the rain and flooding to the afternoon of August 11 and supports the town/department/province. Witness accounts describe five swept away, three dead and two rescued; do not treat all five as deaths. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "Tchadinfos",
+     "url": "https://tchadinfos.com/2026/08/12/adre-trois-personnes-ont-perdu-la-vie-suite-a-dimportantes-inondations/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Houthi missile strike on cargo ship Tihama in Bab el-Mandeb kills six",
+  "category": "war",
+  "location": "Bab el-Mandeb Strait, off Yemen",
+  "lives_lost": 6,
+  "description": "Yemen's coastguard reported six people killed, including two rescuers, and ten injured in successive missile strikes on the cargo vessel Tihamah in the Bab el-Mandeb Strait on August 11. Later Indonesian reporting still listed one crewman among the missing, leaving a discrepancy with the initial nationality breakdown.",
+  "sources": [
+   "TASS",
+   "Rudaw",
+   "Ahram Online"
+  ],
+  "archive_id": "events-366d39a462568d8f4523",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "August 11 attack and Yemeni coastguard's six reported deaths/ten injuries are corroborated, including two rescuers. However, August 14 Indonesian foreign-ministry reporting still classifies its crewman as missing, whereas earlier reports count him dead. Do not silently resolve that discrepancy or label all six confirmed. A later reconciliation is needed for the confirmed-death total. Ship flag also varies between reports, so omit it.",
+   "sources": [
+    {
+     "name": "Lloyd's List",
+     "url": "https://www.lloydslist.com/LL1158167/Six-dead-in-Red-Sea-attack-on-cargoship"
+    },
+    {
+     "name": "Bernama / Anadolu",
+     "url": "https://www.bernama.com/en/news.php?id=2593397"
+    },
+    {
+     "name": "The Jakarta Post",
+     "url": "https://www.thejakartapost.com/world/2026/08/14/one-indonesian-crewman-missing-two-survive-yemen-vessel-attack"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-11",
@@ -1063,7 +2899,35 @@
    "https://economictimes.indiatimes.com/news/india/mumbai-landslide-death-toll-reaches-8-ndrf-calls-off-search-and-rescue-operations/articleshow/133168335.cms?from=mdr",
    "https://indianexpress.com/article/cities/mumbai/kurla-landslide-gaushiya-chawl-chirag-nagar-2-dead-trapped-bmc-rescue-10829149/",
    "https://www.aajtak.in/india/news/story/mumbai-ghatkopar-landslide-two-dead-six-to-seven-fear-trapped-ntc-acwi-rpti-2620341-2026-08-12"
-  ]
+  ],
+  "archive_id": "events-4e93612b9b6577f19f2e"
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Man kills wife and four children in Winfield, Kansas murder-suicide",
+  "category": "gun-violence",
+  "location": "Winfield, Kansas, USA",
+  "lives_lost": 6,
+  "description": "Police found Ronald H. Williams Sr., 53, Kelly George, 44, and four children aged three to nine dead in a Winfield home on August 11. Williams had called 911 around 8:50 a.m. saying he had killed his family and intended to kill himself. Police investigated the deaths as a murder-suicide.",
+  "sources": [
+   "KSHB",
+   "BNO News",
+   "Hindustan Times"
+  ],
+  "archive_id": "events-889fb0b9d58902722d7e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Police identify six dead and an 08:50 local 911 call on August 11, also that UTC date. Retrieved reporting establishes the family deaths but not marriage/parentage for every child; omit those ancillary assertions and the imprecise 'early' qualifier. Total includes the suspected perpetrator. Publication withheld: only one usable evidence document retrieved; a second corroborating source is required.",
+   "sources": [
+    {
+     "name": "WIBW",
+     "url": "https://www.wibw.com/2026/08/11/winfield-police-identify-4-children-woman-suspect-killed-tuesday-murder-suicide/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-11",
@@ -1081,7 +2945,134 @@
    "https://en.interfax.com.ua/news/general/1192411.html",
    "https://newsukraine.rbc.ua/news/russia-strikes-tanker-truck-in-odesa-region-1786461050.html",
    "https://www.ukrinform.de/rubric-ato/4153250-russland-greift-tankfahrzeug-im-gebiet-odessa-an-zwei-menschen-getotet-und-drei-weitere-verletzt.html"
+  ],
+  "archive_id": "events-fe21c28ce0b8c13d3543"
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Russian strikes on Dnipropetrovsk region kill five",
+  "category": "war",
+  "location": "Dnipropetrovsk region, Ukraine",
+  "lives_lost": 5,
+  "description": "Russian forces carried out massive strikes on the Dnipropetrovsk region on the evening of August 10 and during the night of August 11, killing five people — including three minors — and injuring seven others, according to Ukraine's Prosecutor General's Office. Regional authorities earlier reported three dead, including a 15-year-old boy, and five injured, with drone and artillery attacks hitting five districts and damaging logistics facilities.",
+  "sources": [
+   "APA",
+   "Xinhua News Agency"
+  ],
+  "archive_id": "events-b780452375912667d7fa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Primary police report lists four killed across August 10-11, one aged 15, and eight wounded including three children. Prosecutor reporting places the boy's death on the evening of August 10 and two other minors among injured, not dead. AP initially reported three deaths. The record's five dead/three minors is not established, and the aggregate's UTC period is unresolved.",
+   "sources": [
+    {
+     "name": "Dnipropetrovsk Regional Police",
+     "url": "https://dp.npu.gov.ua/news/chetvero-zahyblykh-ta-visim-postrazhdalykh-sered-nykh-troie-ditei-politsiia-dokumentuie-naslidky-vorozhykh-atak-na-dnipropetrovshchyni"
+    },
+    {
+     "name": "Dnipropetrovsk Regional Prosecutor",
+     "url": "https://t.me/s/dnipr_gp_gov_ua?before=9670"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/7aff38d17dd195e63b7c55fc5a008c22"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-11",
+  "title": "Ukrainian drone attack on Voronezh region kills one",
+  "category": "war",
+  "location": "Voronezh region, Russia",
+  "lives_lost": 1,
+  "description": "Voronezh governor Alexander Gusev reported one person killed and two injured in an overnight drone attack, with falling debris setting warehouse facilities on fire. His statement was reported August 11.",
+  "sources": [
+   "TASS",
+   "Anadolu Agency"
+  ],
+  "archive_id": "events-112a587768ea41207d94",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Reuters supports one death, two injuries and warehouse fires according to the governor. It describes an overnight attack without enough timing to choose August 10 versus 11 UTC. The victim's precise age/district and national 396-drone total were not established from retrieved evidence; use a narrower description once the date is resolved.",
+   "sources": [
+    {
+     "name": "Reuters / Internazionale",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/11/drone-attack-kills-one-in-russia-s-voronezh-region-sets-warehouses-ablaze"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Beit Lahia drone strike: initial fatality report corrected",
+  "category": "war",
+  "location": "Beit Lahia, Gaza Strip, Palestine",
+  "lives_lost": 0,
+  "description": "A drone strike injured two people in Beit Lahia on August 12, 2026. Anadolu corrected an initial report that one person had died: medical sources instead confirmed that the person was critically wounded. This retained archive entry counts no confirmed deaths from the corrected report; the subsequent outcome is not established.",
+  "sources": [
+   "Anadolu Agency",
+   "Europa Press"
+  ],
+  "archive_id": "events-5a91748412057dbf90cd",
+  "correction": {
+   "as_of": "2026-09-21",
+   "note": "Anadolu explicitly corrected the initial fatality report to a critical injury. Preserve the event as a correction, with zero deaths confirmed by the corrected report, rather than deleting it or counting the withdrawn fatality. This does not establish the victim's subsequent outcome.",
+   "original_values": {
+    "title": "Israeli fire kills one in Gaza",
+    "lives_lost": 1,
+    "description": "An Israeli airstrike on Beit Lahia in the northern Gaza Strip killed one Palestinian and wounded five others, the first reported airstrike in about a week, with the Israeli military saying it targeted a Hamas cell commander. Gaza's Health Ministry put the death toll since October 7, 2023 at 73,388 and the number of wounded at 174,259."
+   }
+  },
+  "source_urls": [
+   "https://www.aa.com.tr/en/middle-east/6-palestinians-wounded-in-israeli-attack-strikes-in-gaza-in-1st-attacks-in-over-week/4025652",
+   "https://www.europapress.es/internacional/noticia-israel-confirma-ataque-contra-jefe-celula-terrorista-hamas-norte-gaza-20260812185645.html"
   ]
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Landslide in Rolpa district kills ten",
+  "category": "natural-disaster",
+  "location": "Rolpa District, Nepal",
+  "lives_lost": 10,
+  "description": "A landslide triggered by continuous rain swept away nine houses, two cowsheds, a shop and a church in the Kotalbara area of Thabang Rural Municipality in Nepal's western Rolpa district on the night of August 12, 2026, killing 10 people and leaving two missing. Five bodies were recovered at the site and five more were found in neighbouring Pyuthan district, police said.",
+  "sources": [
+   "Xinhua News Agency",
+   "The Star"
+  ],
+  "archive_id": "events-5638f5fdf0e2b732bbe2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "August 12 evening at Kotalbara is supported. Initial ten dead/three missing contradicts the record's two missing. Police reported 12 recovered dead and one child missing August 15; August 19 reporting says 13 killed without explaining whether the last missing child was recovered or presumed dead. Confirm that distinction before updating lives_lost. The separate August 13 Sunchhahari landslide is not this event.",
+   "sources": [
+    {
+     "name": "The Kathmandu Post, August 14",
+     "url": "https://kathmandupost.com/province-no-5/2026/08/14/10-dead-3-missing-as-landslide-sweeps-settlement-in-rolpa"
+    },
+    {
+     "name": "Khabarhub",
+     "url": "https://english.khabarhub.com/2026/15/563419/"
+    },
+    {
+     "name": "The Kathmandu Post, August 19",
+     "url": "https://kathmandupost.com/national/2026/08/19/landslide-survivors-and-rescuers-fall-ill-in-rolpa"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-12",
@@ -1099,7 +3090,206 @@
    "https://taskandpurpose.com/news/army-apache-crash-texas/",
    "https://apnews.com/article/267e94dda85fe0901e604f8a899444a8",
    "https://apnews.com/article/29159a1ee68491ec2ff1b792350847b5"
-  ]
+  ],
+  "archive_id": "events-6521e9427da8c80c5c29"
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Russian drone strikes on Kherson kill two",
+  "category": "war",
+  "location": "Kherson, Ukraine",
+  "lives_lost": 2,
+  "description": "Russian strike drones killed two people in Kherson overnight on August 12, including a woman struck inside her home, and wounded others in the Tsentralnyi district, according to regional authorities and military administration head Oleksandr Prokudin.",
+  "sources": [
+   "Kyiv Post",
+   "Ukrinform",
+   "Anadolu Agency"
+  ],
+  "archive_id": "events-e0327d3c961b045bc1a6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The overnight attack killed two, including a woman inside her home, and injured two in Tsentralnyi district. Available reporting does not give the strike time needed to choose August 11 or 12 UTC. A separately reported August 12 afternoon fatal strike must not be silently merged.",
+   "sources": [
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048322/index.amp"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/82171"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Russian strikes on Zaporizhzhia region kill one",
+  "category": "war",
+  "location": "Zaporizhzhia region, Ukraine",
+  "lives_lost": 1,
+  "description": "Russia carried out more than 1,000 strikes on Zaporizhzhia and the surrounding region over the day, killing one person and wounding at least eight, regional governor Ivan Fedorov said. An overnight drone attack destroyed the Epicentr shopping center in the city, sparking a large fire and power outages, and damaged residential buildings.",
+  "sources": [
+   "Anadolu Agency",
+   "Europa Press",
+   "UNN"
+  ],
+  "archive_id": "events-c2d8da48454df414903b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "sources"
+   ],
+   "note": "The 1,000-plus strikes and one death refer to August 11, reported August 12, with nine wounded. The Epicentr attack is a separate overnight event. The record conflates a daily casualty aggregate with the shopping-center strike; the fatal incident time/identity must be resolved before assigning a single UTC date.",
+   "sources": [
+    {
+     "name": "Suspilne, daily casualty report",
+     "url": "https://suspilne.media/amp/zaporizhzhia/1376970-ponad-tisacu-udariv-za-dobu-zavdala-armia-rf-po-57-naselenim-punktam-zaporizkoi-oblasti-e-zagiblij-ta-poraneni/"
+    },
+    {
+     "name": "Suspilne, Epicentr attack",
+     "url": "https://suspilne.media/zaporizhzhia/1377178-rosijski-vijska-pocilili-po-tc-epicentr-u-zaporizzi-vnoci-12-serpna-so-vidomo/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Severe storms and tornadoes kill three in US Midwest",
+  "category": "natural-disaster",
+  "location": "Indiana and Ohio, USA",
+  "lives_lost": 3,
+  "description": "Three deaths were reported amid the August 11 Midwest storms: a child struck by a falling tree in Indiana, a person killed in a Portage house explosion whose cause was under investigation, and an Ohio resident whom emergency responders could not reach because of flooding.",
+  "sources": [
+   "Anadolu Agency",
+   "WAM",
+   "WCAX"
+  ],
+  "archive_id": "events-309e1c1653e71f8afe97",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Reports published August 12 describe Tuesday August 11 storms. Three associated deaths are reported, but the Portage house-explosion cause was still being investigated and the Ohio death was an indirect emergency-access death. Exact UTC times of the geographically separate deaths were not established. Do not present all three as direct tornado deaths or use publication date as occurrence date.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/83fd919c9394218c38df03bc9db8073d"
+    },
+    {
+     "name": "The Weather Channel",
+     "url": "https://weather.com/2026/08/12/storms/severe/deadly-derecho-100-mph-winds-tornadoes-and-floods-hammer-midwest-killing-3"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Ukrainian attacks on Belgorod region kill two civilians",
+  "category": "war",
+  "location": "Belgorod region, Russia",
+  "lives_lost": 2,
+  "description": "Ukrainian forces attacked Russia's Belgorod region more than 170 times over 24 hours, killing two civilians in the Belgorodsky and Graivoronsky districts and injuring three others, acting Governor Alexander Shuvayev said. RIA Novosti later reported three dead and seven people seeking medical help.",
+  "sources": [
+   "TASS",
+   "RIA Novosti"
+  ],
+  "archive_id": "events-b371b5787534cf48f565",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "TASS establishes a past-24-hour bulletin on August 12 with two killed and three wounded, not two deaths necessarily occurring August 12 UTC. The record itself juxtaposes a later three-death report without establishing whether it updates the same incidents. Resolve individual victims and reporting interval before choosing a toll/date.",
+   "sources": [
+    {
+     "name": "TASS",
+     "url": "https://tass.com/emergencies/2171753"
+    },
+    {
+     "name": "Novaya Gazeta Europe",
+     "url": "https://novayagazeta.eu/articles/2026/09/02/leto-2026-goda-stalo-rekordnym-po-chislu-pogibshikh-mirnykh-zhitelei-v-rossii"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Ukrainian attacks on Krasnodar region kill three",
+  "category": "war",
+  "location": "Krasnodar region, Russia",
+  "lives_lost": 3,
+  "description": "Governor Veniamin Kondratyev reported three deaths, including an eight-year-old child, and 24 injuries in overnight attacks across Krasnodar region. Novorossiysk's port infrastructure and grain terminals were also damaged.",
+  "sources": [
+   "TASS",
+   "Anadolu Agency",
+   "Qatar Tribune",
+   "Canberra Times"
+  ],
+  "archive_id": "events-9e9002d65bbf1f479ae8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Three deaths/24 injuries apply to Krasnodar region, not solely Novorossiysk; the child is specifically linked to the city. Overnight timing leaves August 11/12 UTC unresolved. The supported scope correction below avoids attributing all regional casualties to the port.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/9eadff0d7590923e3d98c99e2b61150b"
+    },
+    {
+     "name": "Reuters / ThePrint",
+     "url": "https://theprint.in/world/drones-kill-child-hit-enterprises-in-russias-black-sea-port-of-novorossiysk-mayor-says/3012256/"
+    },
+    {
+     "name": "Meduza",
+     "url": "https://meduza.io/en/news/2026/08/12/how-much-of-russia-s-biggest-grain-port-did-ukraine-s-drones-just-knock-offline"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-12",
+  "title": "Ukrainian drone attack on Crimea kills civilian",
+  "category": "war",
+  "location": "Novosyolovskoye, Razdolnensky district, Crimea, Ukraine",
+  "lives_lost": 1,
+  "description": "A civilian was killed in the village of Novosyolovskoye in the Razdolnensky district of Crimea in an overnight Ukrainian drone attack, regional head Sergey Aksyonov said.",
+  "sources": [
+   "TASS",
+   "Izvestia",
+   "NTV"
+  ],
+  "archive_id": "events-8ee03e30d90666180fd9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Both reports relay Aksyonov's claim of one civilian death in Novosyolovskoye during the night leading into August 12. Without an incident time, the UTC date could be August 11 or 12. Attribution is a Russian-installed official's claim, not independent verification.",
+   "sources": [
+    {
+     "name": "URA.RU",
+     "url": "https://ura.news/news/1053117611"
+    },
+    {
+     "name": "NEWS.ru",
+     "url": "https://news.ru/amp/regions/aksenov-raskryl-posledstviya-novogo-udara-vsu-po-krymu"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-13",
@@ -1115,7 +3305,8 @@
   "source_urls": [
    "https://www.police.govt.nz/news/release/fatal-shooting-sylvia-park-shopping-centre",
    "https://www.police.govt.nz/news/release/sylvia-park-critical-incident-investigation-update"
-  ]
+  ],
+  "archive_id": "events-cb3652dc4c484bd9cf5e"
  },
  {
   "date": "2026-08-13",
@@ -1133,7 +3324,39 @@
    "https://www.boursorama.com/actualite-economique/actualites/assassinat-presume-d-un-officier-russe-en-crimee-gouverneur-regional-1242af6d8f999cb67925010ce9000a6b",
    "https://theins.ru/news/296084",
    "https://www.pravda.com.ua/news/2026/08/16/8048901/index.amp"
-  ]
+  ],
+  "archive_id": "events-45f46e208b07ee8eec87"
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Car crash into truck in Nagpur kills two students",
+  "category": "industrial",
+  "location": "Nagpur, Maharashtra, India",
+  "lives_lost": 2,
+  "description": "Two 17-year-old students died and a third teenager was seriously injured when their car hit a stationary truck in Nagpur early on August 12 local time. Police said they had gone for a drive while waiting for a friend's birthday celebration.",
+  "sources": [
+   "India TV",
+   "LatestLY"
+  ],
+  "archive_id": "events-fda6ebc16389054dc73d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "NDTV's August 13 article explicitly says early Wednesday morning, August 12, and local August 12 reporting corroborates that day. UTC could be August 11 or 12 without the crash time. Two dead and one injured are supported. The teenagers were taking a drive while awaiting a birthday celebration, not necessarily traveling to the party.",
+   "sources": [
+    {
+     "name": "NDTV",
+     "url": "https://www.ndtv.com/india-news/nagpur-accident-2-teens-killed-as-car-driven-by-friend-rams-truck-in-nagpur-father-charged-11907004"
+    },
+    {
+     "name": "Tarun Bharat Nagpur",
+     "url": "https://www.tarunbharat.net/Encyc/2026/8/12/speeding-car-rams-into-stationary-truck.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-13",
@@ -1149,7 +3372,8 @@
   "source_urls": [
    "https://www.xinhuanet.com/20260813/b73449d4dafd4a07a45b862737b924a6/c.html",
    "https://www.internazionale.it/ultime-notizie-reuters/2026/08/13/shipyard-explosion-in-southeastern-china-kills-fire-and-rescue-worker"
-  ]
+  ],
+  "archive_id": "events-2ad6f3901c223f466a87"
  },
  {
   "date": "2026-08-13",
@@ -1165,7 +3389,70 @@
   "source_urls": [
    "https://apnews.com/article/3196dd5655bc2a1e39914eaa1927ef81",
    "https://nltimes.nl/2026/08/13/explosion-rotterdam-port-area-leaves-1-dead-many-wounded-video"
-  ]
+  ],
+  "archive_id": "events-b9cdd4c8dc157b2d6625"
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Explosion during ordnance disposal in Sevastopol kills five",
+  "category": "war",
+  "location": "Sevastopol, Crimea, Ukraine",
+  "lives_lost": 5,
+  "description": "Five people were killed on August 13, 2026, during the clearance and disposal of explosive ordnance following a Ukrainian UAV attack on Sevastopol, Russian media reported. Four of the dead were pyrotechnicians of the Russian Ministry of Emergency Situations (EMERCOM) and one was a security guard.",
+  "sources": [
+   "APA",
+   "Interfax"
+  ],
+  "archive_id": "events-943d94be8974c21d9884",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "EMERCOM confirms four personnel deaths and Reuters adds the security guard, quoting the governor's disposal-after-drone-attack account. EMERCOM says the night of August 13 without an exact time, so August 12 versus 13 UTC remains unresolved. Crimea should be identified as occupied Ukrainian territory.",
+   "sources": [
+    {
+     "name": "EMERCOM",
+     "url": "https://en.mchs.gov.ru/for-mass-media/novosti/5814410"
+    },
+    {
+     "name": "Reuters / Investing.com",
+     "url": "https://www.investing.com/news/world-news/five-killed-while-defusing-explosive-device-in-russiancontrolled-sevastopol-governor-says-4857217"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Fire at Greater Noida wood-cutting shop kills one worker",
+  "category": "industrial",
+  "location": "Shahberi, Greater Noida, Uttar Pradesh, India",
+  "lives_lost": 1,
+  "description": "A fire at a wood-cutting shop in Shahberi, Greater Noida West, left Altamas dead and Aman injured. Police said both were rescued unconscious and taken to hospital after the overnight fire on August 13-14.",
+  "sources": [
+   "ETV Bharat",
+   "Kalinga TV"
+  ],
+  "archive_id": "events-7cb25f58987d44015588",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "PTI dates the fire to the intervening night of August 13-14, not a precise time. One died; the other was later stable, not necessarily still critical. An exact time is needed for UTC. Full ThePrint open was denied; indexed PTI text supports the incident and rescue.",
+   "sources": [
+    {
+     "name": "PTI / ThePrint",
+     "url": "https://theprint.in/india/1-killed-another-injured-in-fire-at-wood-cutting-shop-in-greater-noida/3014491/"
+    },
+    {
+     "name": "Hindustan Times",
+     "url": "https://www.hindustantimes.com/cities/noida-news/22yearold-dead-another-hurt-in-fire-at-furniture-shop-in-greater-noida-101786728346190.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-13",
@@ -1181,7 +3468,8 @@
   "source_urls": [
    "https://timesofindia.indiatimes.com/city/madurai/two-die-in-sivakasi-fireworks-factory-blast/articleshow/133219506.cms",
    "https://theprint.in/india/one-dies-at-licensed-firecracker-factory-blast-in-tns-sivakasi/3013793/"
-  ]
+  ],
+  "archive_id": "events-42dfac847ad9fe7e4e89"
  },
  {
   "date": "2026-08-13",
@@ -1199,7 +3487,8 @@
    "https://www.internazionale.it/ultime-notizie-reuters/2026/08/13/israeli-strike-in-gaza-kills-a-palestinian-first-fatality-in-over-a-week-medics-say",
    "https://www.timesofisrael.com/liveblog_entry/gaza-police-chief-killed-in-idf-strike-in-gaza-city-hamas-says/",
    "https://www.reutersconnect.com/item/israeli-strikes-in-gaza-kill-two-people-first-fatalities-in-more-than-a-week-medics-say/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNTE3OTEzMDgyMDI2UlAx"
-  ]
+  ],
+  "archive_id": "events-768aa7f50249a06c4f11"
  },
  {
   "date": "2026-08-13",
@@ -1217,7 +3506,8 @@
    "https://indianexpress.com/article/cities/lucknow/chamoli-hydroelectric-project-tunnel-accident-7-dead-rescue-underway-10833670/lite/",
    "https://apnews.com/article/6ba136b3137fd828ef1837dede5a95a7",
    "https://indianexpress.com/article/india/uttarakhand-chamoli-tunnel-accident-rescue-operation-10832195/"
-  ]
+  ],
+  "archive_id": "events-00f961f4945d74d81af8"
  },
  {
   "date": "2026-08-13",
@@ -1233,7 +3523,8 @@
   "source_urls": [
    "https://www.xinhuanet.com/20260814/71d1023185e24a1f9218a8df76b9a1e9/c.html",
    "https://www.qzwb.com/gb/content/2026-08/14/content_9246872.htm"
-  ]
+  ],
+  "archive_id": "events-e57ed6134e46034c4b9e"
  },
  {
   "date": "2026-08-13",
@@ -1249,7 +3540,8 @@
   "source_urls": [
    "https://www.graphic.com.gh/news/general-news/accra-multiple-vehicle-collision-at-ofankor-barrier-about-5-dead-heavy-morning-traffic-congestion-being-experienced-in-that-area.html",
    "https://www.myjoyonline.com/11-confirmed-dead-several-others-injured-in-ofankor-barrier-accident/"
-  ]
+  ],
+  "archive_id": "events-2a2ffbbaefbe788b05e1"
  },
  {
   "date": "2026-08-13",
@@ -1267,7 +3559,45 @@
    "https://www.pref.chiba.lg.jp/kouhou/chijishitsu/teirei/r8/260827.html",
    "https://www.data.jma.go.jp/stats/data/bosai/report/2026/20260916/20260916.html",
    "https://apnews.com/article/00b3ce16f648f9c3885bf547edad1696"
-  ]
+  ],
+  "archive_id": "events-1287480ecd4f2b08d9dd"
+ },
+ {
+  "date": "2026-08-13",
+  "title": "Russian drone and missile attack on Zaporizhzhia kills five",
+  "category": "war",
+  "location": "Zaporizhzhia, Ukraine",
+  "lives_lost": 5,
+  "description": "Russian forces launched a combined drone and missile attack on Zaporizhzhia in the early hours, damaging buildings and industrial facilities and causing fires and power outages. Five people were killed and at least 20 were injured, according to the head of the Zaporizhzhia Regional Military Administration, Ivan Fedorov.",
+  "sources": [
+   "Ukrinform",
+   "RTP"
+  ],
+  "archive_id": "events-8e02798450b947677f15",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The matching five-dead/20-injured report is dated August 11, with its update at 02:10 local, and describes the August 10-11 attack. This strongly duplicates the original August 11 'Russian combined strike on Zaporizhzhia kills seven' row, whose toll later reached eight and UTC date is August 10. No separate August 13 five-death event was established. Withhold this duplicate candidate pending identity reconciliation; do not publish both.",
+   "sources": [
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-ato/4153004-russians-attack-zaporizhzhia-with-drone-and-missiles-leaving-five-killed-at-least-20-injured.html"
+    },
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/08/11/8048171/"
+    },
+    {
+     "name": "Zaporizhstal",
+     "url": "https://zaporizhstal.com/uk-ua/news/rosiia-vkotre-vdarila-balistichnimi-raketami-po-zaporizhstali/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-13",
@@ -1283,7 +3613,8 @@
   "source_urls": [
    "https://www.euronews.com/video/2026/08/13/russian-drone-strikes-passenger-train-in-odesa-region-killing-driver",
    "https://apnews.com/article/8050b4afb5bfd6f4d93c76b4d9795dfa"
-  ]
+  ],
+  "archive_id": "events-0ab3f70e786b1bc3494d"
  },
  {
   "date": "2026-08-13",
@@ -1299,7 +3630,8 @@
   "source_urls": [
    "https://www.aol.com/articles/woman-killed-man-shot-attempted-165253000.html",
    "https://citizen.com/-Ozvg8uoARRnS7rodz8i"
-  ]
+  ],
+  "archive_id": "events-f5d89322568ae0a6b558"
  },
  {
   "date": "2026-08-14",
@@ -1317,7 +3649,8 @@
    "https://www.anm.gov.co/index.php/la-anm-confirma-el-lamentable-fallecimiento-de-los-seis-mineros-de-cucunuba",
    "https://www.noticiasrcn.com/colombia/seis-mineros-quedaron-atrapados-tras-explosion-en-una-mina-de-cucunuba-1050435",
    "https://www.eluniversal.com.co/sucesos/2026/08/14/video-asi-avanza-angustioso-rescate-de-6-mineros-atrapados-en-explosion-en-socavon/"
-  ]
+  ],
+  "archive_id": "events-00679ccfa6f9d246bdd0"
  },
  {
   "date": "2026-08-14",
@@ -1333,7 +3666,8 @@
   "source_urls": [
    "https://medienservice.sachsen.de/medien/news/1099350",
    "https://www.berliner-zeitung.de/article/weitere-details-zum-helikopterabsturz-im-erzgebirge-10298111"
-  ]
+  ],
+  "archive_id": "events-ee1ddbf76df3453ed721"
  },
  {
   "date": "2026-08-14",
@@ -1351,7 +3685,8 @@
    "https://www.antaranews.com/berita/5698560/hingga-senin-sore-bnpb-berhasil-identifikasi-68-korban-jiwa-gempa-ntt",
    "https://bapenda.nttprov.go.id/berita/gempa-m77-guncang-flores-bpad-ntt-sampaikan-duka-dan-solidaritas-untuk-masyarakat-serta-jajaran-uptdsamsat-terdampak",
    "https://apnews.com/article/c31ad3cf07fa83d2d443e8d85e5c9d84"
-  ]
+  ],
+  "archive_id": "events-743d4f7cfd03e3423d8a"
  },
  {
   "date": "2026-08-14",
@@ -1369,7 +3704,8 @@
    "https://www.europapress.es/internacional/noticia-menos-18-muertos-nuevo-ataque-rsf-cerca-obeid-sudan-20260815022205.html",
    "https://sudantribune.com/article/317575",
    "https://www.euromedmonitor.org/en/article/7094/Sudan%3A-Over-100-civilians-killed-in-22-days-as-attacks-on-populated-areas-intensify"
-  ]
+  ],
+  "archive_id": "events-dfc8a1ce265ab510be94"
  },
  {
   "date": "2026-08-14",
@@ -1385,7 +3721,43 @@
   "source_urls": [
    "https://www.pravda.com.ua/eng/news/2026/08/14/8048629/index.amp",
    "https://www.ukrinform.es/rubric-ato/4154091-invasores-rusos-lanzan-esta-manana-un-doble-ataque-contra-una-localidad-de-la-region-de-sumy-matando-a-una-mujer-y-un-nino.html"
-  ]
+  ],
+  "archive_id": "events-cbfec704cd61f6c29720"
+ },
+ {
+  "date": "2026-08-14",
+  "title": "Russian glide bomb hits apartment block in Donetsk region, killing one",
+  "category": "war",
+  "location": "Kramatorsk, Donetsk region, Ukraine",
+  "lives_lost": 1,
+  "description": "A Russian guided-bomb attack damaged an apartment building in Kramatorsk, killing one person and injuring others. Reports published August 14 described an overnight strike, with the reported injury count later rising to 22.",
+  "sources": [
+   "AP News",
+   "Ukrinform"
+  ],
+  "archive_id": "events-7cbaf48408d8c4162437",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The attack is in Kramatorsk and one death is supported. Injury reports increased from 16/17 to 22. Overnight timing leaves August 13 versus 14 UTC unresolved. Omit the precise floors-destroyed count rather than retain an unchecked structural detail.",
+   "sources": [
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/russian-guided-bomb-hits-apartment-building-in-kramatorsk-killing-one/33830306.html"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/video/2026/08/14/war-in-ukraine-deadly-russian-air-raid-on-kramatorsk-leaves-1-dead-and-17-wounded"
+    },
+    {
+     "name": "Ukrainska Pravda daily archive",
+     "url": "https://www.pravda.com.ua/eng/news/main/date_14082026/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-14",
@@ -1401,7 +3773,8 @@
   "source_urls": [
    "https://apnews.com/article/ac64a92cb06e6827962fac2d0786a41a",
    "https://www.9and10news.com/2026/08/14/police-search-for-person-of-interest-in-missaukee-county-shooting/"
-  ]
+  ],
+  "archive_id": "events-7af6d71b746448bf994e"
  },
  {
   "date": "2026-08-14",
@@ -1419,7 +3792,8 @@
    "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
    "https://www.bssnews.net/others/414910",
    "https://www.thedailystar.net/news/accidents-fires/news/bsrb-suspends-operations-ferdous-steel-after-toxic-gas-tragedy-4248271"
-  ]
+  ],
+  "archive_id": "events-db601f94c4968d073799"
  },
  {
   "date": "2026-08-15",
@@ -1437,7 +3811,44 @@
    "https://www.servimedia.es/noticias/fallecen-dos-mujeres-una-riada-ponferrada/1413175927",
    "https://www.rtve.es/play/videos/programa/luto-ponferrada-riada-manzanedo/17193611/",
    "https://emergency.copernicus.eu/news/floods-in-spain-august-2026/"
-  ]
+  ],
+  "archive_id": "events-284ccb24b588d337df0b"
+ },
+ {
+  "date": "2026-08-15",
+  "title": "Israeli airstrikes on southern Lebanon kill 11 including women and children",
+  "category": "war",
+  "location": "Southern Lebanon",
+  "lives_lost": 11,
+  "description": "Lebanon's Health Ministry reported eleven deaths in Israeli strikes on Ansar and Deir Zahrani during the night leading into August 15 local time: seven in Ansar, including three children, and four in Deir Zahrani. Nineteen people were reported wounded.",
+  "sources": [
+   "Xinhua News Agency",
+   "OmidRadio",
+   "Nawaiwaqt"
+  ],
+  "archive_id": "events-bb1ff9c2d15f5c15cc22",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The ministry's eleven deaths (seven Ansar, four Deir Zahrani) and nineteen wounded are supported. Accounts describe overnight/dawn strikes without enough precise timing for both sites to assign one UTC date. Strip ancillary flight, building-height and condemnation details, but retain the date blocker.",
+   "sources": [
+    {
+     "name": "L'Orient Today",
+     "url": "https://today.lorientlejour.com/article/1544610/7-killed-in-israeli-strike-dawn-on-ansar-deadliest-attack-since-june-s-cease-fire.html"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/1124fd2bd0b7ed76b0e97683dddbcaad"
+    },
+    {
+     "name": "LBCI",
+     "url": "https://www.lbcgroup.tv/news/news-bulletin-reports/952686/deadly-dawn-in-south-lebanon-11-killed-in-israeli-strikes-on-ansar-and/en"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-15",
@@ -1453,7 +3864,8 @@
   "source_urls": [
    "https://english.wafa.ps/Pages/Details/173663",
    "https://berita.rtm.gov.my/global/senarai-berita-global/senarai-artikel/remaja-palestin-maut-ditembak-israel-ketika-mencari-kayu-api/"
-  ]
+  ],
+  "archive_id": "events-829b7b9c3284556f5a96"
  },
  {
   "date": "2026-08-15",
@@ -1471,7 +3883,40 @@
    "https://apnews.com/article/5d7ea3649f0af2dab9b45a08671f79b7",
    "https://www.investing.com/news/world-news/twelve-killed-and-at-least-10-injured-in-polish-bus-crash-in-hungary-4861944",
    "https://amp.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230"
-  ]
+  ],
+  "archive_id": "events-97e9cdb71c6e3b158898"
+ },
+ {
+  "date": "2026-08-15",
+  "title": "Russian drone strike on Marhanets kills three-month-old baby",
+  "category": "war",
+  "location": "Marhanets, Dnipropetrovsk region, Ukraine",
+  "lives_lost": 1,
+  "description": "Russian forces struck a multi-storey building in Marhanets, Dnipropetrovsk region, with drones during a nighttime attack, killing a three-month-old boy and injuring 11 people, including children, according to regional military administration chief Oleksandr Hanzha. Rescue and clearance operations continued at the site.",
+  "sources": [
+   "Interfax-Ukraine",
+   "Ukrinform",
+   "RBC Ukraine"
+  ],
+  "archive_id": "events-a65faea2f979d13f8eee",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The three-month-old boy's death and eleven injured, including two children, are supported. The official account says nighttime; no strike time was located to distinguish August 14 and 15 UTC.",
+   "sources": [
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1193409.html"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/4e0ec548753451b1611e3123202850ea"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-15",
@@ -1489,7 +3934,44 @@
    "https://www.wkyt.com/2026/08/15/one-dead-four-injured-lexington-mass-shooting/",
    "https://apnews.com/article/2ce4f44c6a75a1841af4f491fc2a69d6",
    "https://www.wuky.org/text/wuky-news/2026-08-17/18-year-old-arrested-in-deadly-lexington-park-shooting"
-  ]
+  ],
+  "archive_id": "events-350703cf4e91de460657"
+ },
+ {
+  "date": "2026-08-16",
+  "title": "Historic flooding in Indiana kills seven",
+  "category": "natural-disaster",
+  "location": "Indiana, United States",
+  "lives_lost": 7,
+  "description": "Days of severe storms and record-setting rainfall produced historic flooding across Indiana, killing at least seven people by August 16, with the White River cresting at record levels and the National Guard assisting rescues. Dozens of people were rescued from vehicles and homes as rivers overflowed across the state.",
+  "sources": [
+   "Associated Press",
+   "Indianapolis Star"
+  ],
+  "archive_id": "events-d3ce3cc8aed268b0f7a4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Seven is a cumulative storm/flood-related toll reported August 16, not seven deaths necessarily occurring that day. NWS places the rainfall/flood episode earlier in the week. This overlaps the August 12 Midwest three-death record, which already includes Indiana victims. Resolve incident boundaries, direct/indirect deaths and duplicate victims before publication.",
+   "sources": [
+    {
+     "name": "National Weather Service",
+     "url": "https://www.weather.gov/ind/august2026flooding"
+    },
+    {
+     "name": "Indiana Department of Homeland Security",
+     "url": "https://www.in.gov/dhs/files/Media%20Status%20Update%2008.20.2026.pdf"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/aa3624a3ff1a0d241f62ec980a23e856"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-16",
@@ -1507,7 +3989,70 @@
    "https://en.yna.co.kr/view/AEN20260817000951315",
    "https://apnews.com/article/d21d2fdcc8391e152bce35686a62dc96",
    "https://news.sbs.co.kr/amp/news.amp?news_id=N1008708042"
-  ]
+  ],
+  "archive_id": "events-1b02a7116a253891309a"
+ },
+ {
+  "date": "2026-08-16",
+  "title": "Russian attack on Kryvyi Rih kills two",
+  "category": "war",
+  "location": "Kryvyi Rih, Dnipropetrovsk region, Ukraine",
+  "lives_lost": 2,
+  "description": "An overnight Russian missile and drone attack on Kryvyi Rih damaged industrial facilities. Regional authorities later reported two people killed and fourteen injured after another body was recovered on the morning of August 16.",
+  "sources": [
+   "UNN",
+   "Mezha"
+  ],
+  "archive_id": "events-0bb8438549944ba66b67",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Later regional reporting updates one dead/six injured to two dead/fourteen injured. The 04:25 time is a casualty update, not necessarily the strike time. August 15 versus 16 UTC remains unresolved for the overnight attack.",
+   "sources": [
+    {
+     "name": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/08/16/8048852/"
+    },
+    {
+     "name": "UNN",
+     "url": "https://unn.ua/en/news/night-attack-on-kryvyi-rih-one-person-killed-six-injured"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-16",
+  "title": "Ukrainian attacks across Russia reportedly kill six",
+  "category": "war",
+  "location": "Moscow region and other areas, Russia",
+  "lives_lost": 6,
+  "description": "Russian authorities reported at least six deaths after widespread overnight Ukrainian drone attacks reported August 16. Attacks affected the Moscow region and other areas, including industrial and energy facilities.",
+  "sources": [
+   "CNN",
+   "Associated Press"
+  ],
+  "archive_id": "events-5009828540dbbe47b6a3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The six reported deaths and Russian claims of hundreds of drones are supported, but this is an overnight multi-region aggregate without UTC incident times. Do not infer occurrence date from the August 16 release or independently validate the claimed interception count/ranking. Resolve the fatal incidents before publishing a single-date total.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/01294bf8744282086e8f76c8130e16ba"
+    },
+    {
+     "name": "Deutsche Welle",
+     "url": "https://amp.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-16",
@@ -1525,7 +4070,8 @@
    "https://www.ekathimerini.com/news/1312594/2-people-die-in-fire-on-salamina-island-evacuations-by-sea/",
    "https://www.aa.com.tr/en/europe/wildfire-kills-2-on-greek-island-of-salamina-near-athens/4028875",
    "https://www.amna.gr/en/article/1015889/Two-wildfires-on-Salamina-island-lead-to-evacuations-95-firefighters-deployed"
-  ]
+  ],
+  "archive_id": "events-fe0bfaf1e6fa441d15b9"
  },
  {
   "date": "2026-08-17",
@@ -1541,7 +4087,8 @@
   "source_urls": [
    "https://theprint.in/india/8-labourers-killed-32-injured-as-pickup-truck-collides-with-dumper-in-mps-bhind/3017978/",
    "https://newsonair.gov.in/8-killed-23-injured-after-pickup-van-collides-with-truck-on-gwalior-bhind-etawah-highway-in-mp/"
-  ]
+  ],
+  "archive_id": "events-5bd9bc35f25499cf071f"
  },
  {
   "date": "2026-08-17",
@@ -1557,7 +4104,8 @@
   "source_urls": [
    "https://www.pravda.com.ua/eng/news/2026/08/17/8049016/index.amp",
    "https://novosti.dn.ua/dnipropetrovska-oblast/69724-drony-rf-vdaryly-po-shahti-dniprovska-ye-zagyblyj-i-poranenyj/"
-  ]
+  ],
+  "archive_id": "events-43317f9a5fc00f03d2d1"
  },
  {
   "date": "2026-08-17",
@@ -1575,7 +4123,75 @@
    "https://www.gmanetwork.com/regionaltv/news/115206/2-dead-in-zamboanga-city-school-shooting/story/",
    "https://apnews.com/article/fe3aa5d6d1f3dd2ca614d68bb373d604",
    "https://mindanews.com/top-stories/2026/08/grade-7-student-kills-ateneo-schoolmate-then-self-in-zambo-shooting-incident/"
-  ]
+  ],
+  "archive_id": "events-31b5da3d1c97e6d27f50"
+ },
+ {
+  "date": "2026-08-17",
+  "title": "Ukrainian missile strikes on Koloskovo in Belgorod region kill six",
+  "category": "war",
+  "location": "Koloskovo, Valuysky district, Belgorod region, Russia",
+  "lives_lost": 6,
+  "description": "Russian regional authorities reported that a Ukrainian missile attack on Koloskovo in Belgorod region killed six people and injured four, including a child. The announcement was made on August 17; the precise UTC date of the attack remains unestablished.",
+  "sources": [
+   "AFP",
+   "The Financial Express"
+  ],
+  "archive_id": "events-e852e93c0e198f79eda6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "The August 17 morning announcement supports six reported deaths and four injuries but does not establish whether the strike was before or after midnight UTC. Border distance is 15 miles, about 24 km, not 15 km. Short proposed prose removes the unsupported distance and burning detail; date remains unresolved.",
+   "sources": [
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/08/17/ukrainian-rocket-attack-on-belgorod-kills-at-least-6-a93509"
+    },
+    {
+     "name": "Meduza",
+     "url": "https://meduza.io/en/news/2026/08/17/ukrainian-missile-strike-kills-six-people-in-russia-s-belgorod-region"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-08-18",
+  "title": "Gold mine collapse on Cameroon-CAR border kills over 100 miners",
+  "category": "industrial",
+  "location": "Zamboye, Nana-Mambere, Central African Republic",
+  "lives_lost": 107,
+  "description": "An artisanal gold mine collapsed at Zamboye near the Cameroon border on August 18. Local reporting attributed 107 recovered bodies to Garoua-Boulai's mayor; AP reported more than 100 deaths, while CAR authorities said the exact toll was still being established.",
+  "sources": [
+   "Xinhua News Agency",
+   "CGTN",
+   "The Peninsula Qatar"
+  ],
+  "archive_id": "events-b0ba939bd0256ce0b250",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "CAR authorities locate the mine in their territory; some initial Cameroonian reports mislocate it. The 107 figure is the Garoua-Boulai mayor's provisional recovery account, not a final CAR-confirmed count. CAR prosecutors said the exact total was still being determined. Retain that contradiction explicitly; final toll is unresolved.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/4a52316da1f00085d60dd4d99ac9fdb2"
+    },
+    {
+     "name": "237online",
+     "url": "https://www.237online.com/eboulement-zamboi-mine-or-garoua-boulai/"
+    },
+    {
+     "name": "El Pais",
+     "url": "https://elpais.com/internacional/2026-08-20/al-menos-100-muertos-tras-derrumbarse-una-mina-de-oro-en-republica-centroafricana.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-18",
@@ -1591,7 +4207,8 @@
   "source_urls": [
    "https://www.thenationalnews.com/news/mena/2026/08/18/child-among-six-dead-as-israel-bombs-seaside-cafe-in-gaza/",
    "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-on-crowded-gaza-cafe-kills-6-palestinians-eyewitnesses-say/4030909"
-  ]
+  ],
+  "archive_id": "events-c200468f2e2f124ba960"
  },
  {
   "date": "2026-08-18",
@@ -1609,7 +4226,8 @@
    "https://www.internazionale.it/ultime-notizie-reuters/2026/08/18/russian-missile-attack-kills-10-in-ukraine-s-kharkiv-region-officials-say",
    "https://www.pravda.com.ua/eng/news/2026/08/18/8049115/index.amp",
    "https://gwaramedia.com/en/russian-troops-launch-missile-on-center-of-busy-village-in-kharkiv-oblast-kill-10-people-injure-over-20/"
-  ]
+  ],
+  "archive_id": "events-def56eb718223bc66f6a"
  },
  {
   "date": "2026-08-19",
@@ -1625,7 +4243,40 @@
   "source_urls": [
    "https://app.xinhuanet.com/news/article.html?articleId=202608203699e89cc47341d8abb56e24c314e3af",
    "https://www.ecns.cn/m/cns-wire/2026-08-20/detail-ihfimvaz1910933.shtml"
-  ]
+  ],
+  "archive_id": "events-e656fba6f41ee6010632"
+ },
+ {
+  "date": "2026-08-19",
+  "title": "Torrential rains in southwest China kill ten",
+  "category": "natural-disaster",
+  "location": "Southwest China",
+  "lives_lost": 10,
+  "description": "Torrential rains across southwest China killed 10 people and forced thousands to evacuate, with flooding and landslides reported across the region. Officials warned that disaster risk remained high as further heavy rainfall was forecast, and emergency response teams were deployed to affected areas.",
+  "sources": [
+   "Reuters",
+   "The Jerusalem Post"
+  ],
+  "archive_id": "events-1ff09c0120fbaaeb67b4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "sources"
+   ],
+   "note": "August 19 is publication date. Ten combines five in a Guangxi construction-site landslide on Monday August 17 and five in a Changning, Sichuan banquet-wall collapse at 17:30 CST August 18. This is not one August 19 incident. Preserve the aggregate in audit; split/reconcile actual incidents before publication. The Guangxi incident's precise UTC timing remains unestablished.",
+   "sources": [
+    {
+     "name": "Reuters (Internazionale)",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/19/five-killed-as-part-of-village-home-in-china-s-sichuan-collapses"
+    },
+    {
+     "name": "Xinhua reporting (Sina)",
+     "url": "https://finance.sina.com.cn/wm/2026-08-19/doc-ininvfss8318967.shtml"
+    }
+   ]
+  }
  },
  {
   "date": "2026-08-20",
@@ -1643,7 +4294,8 @@
    "https://apnews.com/article/bda232d16205502288149db380610d05",
    "https://elpais.com/us/2026-08-21/un-accidente-de-un-avion-charter-deja-ocho-muertos-cerca-de-una-base-militar-en-alaska.html",
    "https://apnews.com/article/cd21190cad6b7246d903677685f1e928"
-  ]
+  ],
+  "archive_id": "events-0374853c7d2cf9cad154"
  },
  {
   "date": "2026-08-24",
@@ -1661,7 +4313,8 @@
    "https://www.investing.com/news/world-news/gang-attack-on-hillside-town-near-haitis-capital-leaves-30-dead-4874020",
    "https://apnews.com/article/ccd977768e6d4fa520d08c920b22b1ba",
    "https://web.rnddh.org/wp-content/uploads/2026/09/7-Rap-Situation-DH-Kenscoff-16Sept2026-1.pdf"
-  ]
+  ],
+  "archive_id": "events-360cfcd3f328efb3973b"
  },
  {
   "date": "2026-08-24",
@@ -1679,7 +4332,8 @@
    "https://www-cdn.abcnews.com/amp/US/8-dead-including-4-children-shooting-fire-montana/story?id=135953916",
    "https://www.montanarightnow.com/news/billings-police-share-new-timeline-in-white-star-circle-deaths-and-investigation/article_4823628d-e2ea-5615-98c9-51603853c196.html",
    "https://apnews.com/article/06ca9ad750aeb216f856001df4f23dfc"
-  ]
+  ],
+  "archive_id": "events-3ef3a474506ac0f532e8"
  },
  {
   "date": "2026-08-26",
@@ -1703,7 +4357,8 @@
    "https://apnews.com/article/65ee7e50dfe7914dff37d893a5e6b810",
    "https://nset.org.np/disaster/rasuwa-flood/",
    "https://www.bwsn.org.np/bhotekoshi-flood-situation-update-no-6-day-8/"
-  ]
+  ],
+  "archive_id": "events-91afc7591976adcd35de"
  },
  {
   "date": "2026-08-28",
@@ -1719,7 +4374,8 @@
   "source_urls": [
    "https://apnews.com/article/057b029427a4f342d06a527ad307d8d4",
    "https://www.zimlive.com/27-killed-in-chivhu-head-on-collision-between-commuter-omnibus-and-haulage-truck/"
-  ]
+  ],
+  "archive_id": "events-f52f206685021fbcdd2f"
  },
  {
   "date": "2026-08-28",
@@ -1737,7 +4393,8 @@
    "https://apnews.com/article/6c8334dbec806f41666ff75e728768b8",
    "https://english.wafa.ps/Pages/Details/174160",
    "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza"
-  ]
+  ],
+  "archive_id": "events-1d4d8523db2161a56252"
  },
  {
   "date": "2026-08-28",
@@ -1755,7 +4412,8 @@
    "https://kyivindependent.com/russian-strike-near-kyiv-causes-ammunition-detonations-killing-at-least-27/",
    "https://apnews.com/article/5cfe71b2954a40489c070459ba82116e",
    "https://fakty.com.ua/ua/ukraine/20260830-u-myli-38-zagyblyh-terytoriya-znachno-zabrudnena-vybuhonebezpechnymy-predmetamy-zelenskyj/"
-  ]
+  ],
+  "archive_id": "events-68d8ff5a24c0328e9812"
  },
  {
   "date": "2026-08-31",
@@ -1771,7 +4429,75 @@
   "source_urls": [
    "https://www.investing.com/news/world-news/israeli-fire-kills-two-people-in-gaza-medics-say-4882473",
    "https://noticias.uol.com.br/ultimas-noticias/afp/2026/08/31/ataques-israelenses-matam-cinco-pessoas-em-gaza-afirmam-autoridades-locais.amp.htm"
-  ]
+  ],
+  "archive_id": "events-d8bfce67e6aeffc834bc"
+ },
+ {
+  "date": "2026-08-31",
+  "title": "Suspected PDF fighters kill 12 civilians in Mahlaing Township, Myanmar",
+  "category": "war",
+  "location": "Mahlaing, Mandalay Region, Myanmar",
+  "lives_lost": 12,
+  "description": "Twelve civilians were killed in an attack on Hta Man Gyi village in Mahlaing Township, Mandalay Region, on August 31, 2026, which Myanmar's military government blamed on members of the resistance-aligned People's Defence Force. State media said the attackers entered the village and opened fire on residents.",
+  "sources": [
+   "Myanmar Digital News",
+   "Myawady"
+  ],
+  "archive_id": "events-541bb43eface46f058a9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "identity",
+    "sources"
+   ],
+   "note": "Approximately 04:00 MMT August 31 is August 30 UTC. ACLED describes an unidentified armed group and victims including administrators/security-team or militia leaders assumed unarmed; military media blame PDF. Do not silently endorse either perpetrator identity or civilian status. IOM URL is a country feed, not a stable individual source record; Myawady open failed although search retrieved its text. Corroboration and victim status remain insufficient for publication.",
+   "sources": [
+    {
+     "name": "Myawady",
+     "url": "https://www.myawady.net.mm/12-innocent-civilians-killed-htamagyi-village-mahlaing-township-due-brutal-shooting-pdf-terrorist"
+    },
+    {
+     "name": "IOM platform (ACLED event data)",
+     "url": "https://dev.foresight-prep.cloud.iom.int/countries/myanmar"
+    },
+    {
+     "name": "METIS",
+     "url": "https://metis.fenixinsight.com/event/685869"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-01",
+  "title": "Russian missile and drone attacks on Kyiv kill at least 12",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 12,
+  "description": "Russian missile and drone attacks on Kyiv and surrounding areas on September 1, 2026, killed at least 12 people, including an Indian national, and wounded dozens more, according to Ukrainian officials. Residential buildings and other civilian infrastructure were damaged in what President Volodymyr Zelenskyy described as a continuing series of Russian strikes on the capital.",
+  "sources": [
+   "NDTV",
+   "India Today",
+   "New Voice of Ukraine"
+  ],
+  "archive_id": "events-9eca95be1fe0cc159149",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Twelve deaths including an Indian national are supported, but the attack ran more than 12 hours overnight August 31-September 1 and into Tuesday. Fatal incident times were not established sufficiently to assign all twelve to September 1 UTC. The publication date cannot resolve the mixed interval.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/7564a892bfb99a853aa150c8710b7985"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://www.ndtv.com/world-news/indian-among-12-killed-in-russian-attack-on-kyiv-says-ukraines-zelensky-11985931?pfrom=home-ndtv_youmightmiss"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-01",
@@ -1789,7 +4515,45 @@
    "https://www.koreatimes.co.kr/world/20260905/iranian-town-mourns-after-strikes-kill-5-at-wedding-celebration",
    "https://www.aa.com.tr/en/middle-east/4-irgc-aerospace-force-members-among-7-killed-in-us-strikes-in-western-southern-iran/4044816",
    "https://apnews.com/article/ad84a64884aedbbd1e5914182bb3cd8d"
-  ]
+  ],
+  "archive_id": "events-71c9fad85a4a23344f28"
+ },
+ {
+  "date": "2026-09-01",
+  "title": "US strike reportedly kills four IRGC members in Kermanshah",
+  "category": "war",
+  "location": "Kermanshah, Iran",
+  "lives_lost": 5,
+  "description": "Iran's provincial IRGC reported four Aerospace Force members killed in a US strike in Kermanshah, according to September 2 reporting. The precise UTC date remains unestablished; the casualty claim came from Iranian authorities, not CENTCOM.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "CNN"
+  ],
+  "archive_id": "events-673d2fde587fe1f5117d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "CENTCOM confirms operations, not five Kermanshah deaths. Anadolu September 2 attributes FOUR Aerospace Force deaths to the provincial IRGC, separately three Basij on Lavan Island. No corroborated five-person Kermanshah total found. The exact Kermanshah strike time/date within the September 1-2 attacks is not established. Do not merge wedding casualties or Lavan deaths.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/middle-east/4-irgc-aerospace-force-members-among-7-killed-in-us-strikes-in-western-southern-iran/4044816"
+    },
+    {
+     "name": "CENTCOM release (GlobalSecurity)",
+     "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260901-centcom01.htm"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/ad84a64884aedbbd1e5914182bb3cd8d"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-02",
@@ -1807,7 +4571,47 @@
    "https://apnews.com/article/4b4e02bfce5d43299a12eaae13a59431",
    "https://www.thenationalnews.com/news/mena/2026/09/02/ten-jordanians-among-21-killed-in-bus-accident-in-egypts-south-sinai/",
    "https://www.dailynewsegypt.com/2026/09/02/22-killed-28-injured-in-bus-crash-in-egypts-south-sinai/"
-  ]
+  ],
+  "archive_id": "events-d79d14ed82077f68b9c9"
+ },
+ {
+  "date": "2026-09-02",
+  "title": "Fuel siphoning deaths in Rivers State, Nigeria, reach 43",
+  "category": "industrial",
+  "location": "Rivers State, Nigeria",
+  "lives_lost": 43,
+  "description": "Dozens of people reportedly died during an alleged petroleum-siphoning attempt at Okari Jetty, Okrika, around midnight at the start of September 3 local time. Reports describe toxic-fume exposure and some drownings, but differ between at least 37 deaths and 43 dead or feared dead.",
+  "sources": [
+   "AFP",
+   "Anadolu Agency"
+  ],
+  "archive_id": "events-bf41d154f3f4b90ab986",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Channels gives approximately 00:00 WAT September 3, which is September 2 UTC. Anadolu reports 43 dead but Vanguard calls 43 feared dead and later AP reports at least 37. Reports also differ on loading vessel versus tapped pipeline; some victims reportedly drowned after inhalation. No reconciled confirmed 43-person toll retrieved.",
+   "sources": [
+    {
+     "name": "Channels Television",
+     "url": "https://www.channelstv.com/2026/09/03/37-suspected-oil-thieves-choke-to-death-inhaling-fumes-in-rivers/"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/africa/at-least-43-choke-to-death-during-illegal-petroleum-siphoning-in-nigeria/4046938"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/813b9134f100878ef1c4ca1024369bb7"
+    },
+    {
+     "name": "Vanguard",
+     "url": "https://www.vanguardngr.com/2026/09/43-feared-dead-others-missing-in-rivers-oil-incident/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-02",
@@ -1823,7 +4627,8 @@
   "source_urls": [
    "https://www.gbcghanaonline.com/news/13-dead-5-critically-injured-in-sege-crash/2026/",
    "https://rainbowradioonline.com/2026/09/02/gnfs-urges-urgent-trauma-centre-investment-in-sege-after-fatal-highway-crash/"
-  ]
+  ],
+  "archive_id": "events-4b6f8aa1644b8a789d0f"
  },
  {
   "date": "2026-09-02",
@@ -1841,7 +4646,8 @@
    "https://www.minneapolismn.gov/news/2026/august/shooting-sept-2/",
    "https://www.mprnews.org/story/2026/09/02/minneapolis-loring-park-shooting-multiple-victims-including-officers",
    "https://www.mprnews.org/story/2026/09/03/minneapolis-shooting-at-shoreline-plaza-loring-towers-apartment-building-under-investigation"
-  ]
+  ],
+  "archive_id": "events-d2ff498c7944f9e177c6"
  },
  {
   "date": "2026-09-04",
@@ -1861,7 +4667,8 @@
    "https://rtvu.uto.edu.bo/2026/09/08/sube-a-nueve-la-cifra-de-fallecidos-por-las-explosiones-en-viacha-buscan-a-cinco-personas/",
    "https://brujuladigital.net/seguridad/2026/09/11/una-semana-despues-que-se-sabe-de-las-explosiones-en-viacha-66237",
    "https://www.lostiempos.com/node/671211"
-  ]
+  ],
+  "archive_id": "events-e39ffbb086ba18defadf"
  },
  {
   "date": "2026-09-04",
@@ -1879,7 +4686,8 @@
    "https://www.radiookapi.net/2026/09/05/actualite/societe/une-fete-de-mariage-tourne-au-drame-kinshasa-plusieurs-morts-dans-un",
    "https://actualite.cd/2026/09/06/kinshasa-apres-lincendie-la-salle-des-fetes-panacee-lingwala-un-bilan-evolutif-divergent",
    "https://www.opinion-info.cd/societe/2026/09/09/incendie-la-salle-panacee-kinshasa-12-morts-et-27-victimes-prises-en-charge-les"
-  ]
+  ],
+  "archive_id": "events-b9b490f0062a1674cb01"
  },
  {
   "date": "2026-09-04",
@@ -1897,7 +4705,40 @@
    "https://news.cnr.cn/native/gd/kx/20260905/t20260905_527805289.shtml",
    "https://apnews.com/article/7265d77481764507cff81a0ae0cf4836",
    "https://spanish.xinhuanet.com/20260910/697f06b29da14c30b10d0785f2231805/c.html"
-  ]
+  ],
+  "archive_id": "events-bc21345152d1def408ab"
+ },
+ {
+  "date": "2026-09-04",
+  "title": "Pakistani security forces kill 48 separatists in Balochistan raids",
+  "category": "war",
+  "location": "Balochistan, Pakistan",
+  "lives_lost": 48,
+  "description": "Pakistan's military announced September 4 that its forces had killed 48 alleged militants during several raids in Balochistan over the preceding 72 hours. This is an attributed operational aggregate, not a September 4 single-day death toll.",
+  "sources": [
+   "AP",
+   "India Today"
+  ],
+  "archive_id": "events-ce22c220df660d69f63e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The military's 48 is a multi-raid total over 72 hours ending September 4, not 48 deaths on that date. Geo identifies six in Mastung September 4, with other operations on earlier dates. Incident-specific dates/UTC and allocation are needed before publication as daily events; reporting does not independently establish military claims about all victims.",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/339bdaaaca592d2d9f19a9509708aa0a"
+    },
+    {
+     "name": "Geo News",
+     "url": "https://www.geo.tv/latest/680641-48-india-backed-terrorists-killed-across-balochistan-in-last-72-hours-ispr"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-05",
@@ -1915,7 +4756,8 @@
    "https://apnews.com/article/8c726e98d4709db1d48f9bb2a81c622b",
    "https://www.vaticannews.va/pt/africa/news/2026-09/cabo-verde-chora-seus-filhos-mortos-no-tragico-acidente-viacao.html",
    "https://noticiasdonorte.publ.cv/25207/acidente-no-fogo-sete-sobreviventes-recebem-alta-e-quinto-ferido-e-transferido-para-a-praia/"
-  ]
+  ],
+  "archive_id": "events-edbedb2ef38549b15e66"
  },
  {
   "date": "2026-09-05",
@@ -1931,7 +4773,8 @@
   "source_urls": [
    "https://www.investing.com/news/commodities-news/fuel-tanker-explosion-after-traffic-accident-kills-10-in-western-iran-state-media-says-4890219",
    "https://www.tasnimnews.ir/en/media/2026/09/06/3690045/tanker-explosion-kills-11-injures-7-in-western-iran"
-  ]
+  ],
+  "archive_id": "events-0688c625a03aadcc5909"
  },
  {
   "date": "2026-09-06",
@@ -1949,7 +4792,8 @@
    "https://www.abc.net.au/news/2026-09-07/climbers-killed-in-avalanche-on-russian-peak/107125874",
    "https://www.fontanka.ru/2026/09/13/76640535/",
    "https://id.alpfederation.ru/news/3467/"
-  ]
+  ],
+  "archive_id": "events-27099f388a4530d9994d"
  },
  {
   "date": "2026-09-06",
@@ -1965,7 +4809,8 @@
   "source_urls": [
    "https://abcnews.com/US/cargo-plane-overruns-runway-miami-international-airport-faa/story?id=136242081",
    "https://www.nbcmiami.com/news/local/miami-dade-sheriff-to-provide-update-on-deadly-amazon-cargo-jet-crash/3856000/"
-  ]
+  ],
+  "archive_id": "events-5670f2c1fec924070109"
  },
  {
   "date": "2026-09-06",
@@ -1983,7 +4828,8 @@
    "https://www.jornada.com.mx/noticia/2026/09/05/estados/reportan-varios-heridos-por-explosion-de-pirotecnia-en-temascalcingo-edomex",
    "https://apnews.com/article/483d85bd3d9899f849b062a491e2f5a4",
    "https://www.reporteindigo.com/amp/estados/explosion-de-pirotecnia-en-temascalcingo-suma-10-muertos-y-64-lesionados-20260906-0020.html"
-  ]
+  ],
+  "archive_id": "events-5513a88c18e837d3b3f6"
  },
  {
   "date": "2026-09-06",
@@ -2001,7 +4847,178 @@
    "https://indianexpress.com/article/cities/delhi/satya-niketan-hostel-building-collapse-killed-rescue-operations-notice-what-we-know-so-far-10866587/",
    "https://www.newindianexpress.com/cities/delhi/2026/Sep/07/six-killed-11-rescued-after-multi-storey-hostel-collapses-in-delhis-satya-niketan",
    "https://apnews.com/article/7cb4420ce1808209044300131cb1de45"
-  ]
+  ],
+  "archive_id": "events-c822b3e768936f3aacc0"
+ },
+ {
+  "date": "2026-09-07",
+  "title": "Israeli strikes on Kfar Rumman kill 13, including children and a medic",
+  "category": "war",
+  "location": "Kfar Reman, Nabatieh Governorate, Lebanon",
+  "lives_lost": 13,
+  "description": "Israeli strikes on a residential building and a vehicle in Kfar Rumman were reported on September 7. Lebanon's Health Ministry later reported 13 deaths: twelve in the building, including six children, and one medic in the vehicle strike. Two other medics were wounded. The precise UTC date remains unestablished.",
+  "sources": [
+   "Al Jazeera",
+   "GTV News HD"
+  ],
+  "archive_id": "events-a1e516379b4672f4f51e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Al-Monitor September 14 is republication: Reuters dateline/photo September 7; MarketScreener explicitly shows September 7 publication and September 14 modification. NOT a new September 14 attack. Updated ministry toll 13 comprises 12 in building, including 6 children/3 women, plus ONE medic killed and 2 medics wounded; original two-medic-death wording is superseded. Earlier AP 12 and WAFA 11 are preliminary. Reuters contains contradictory timing cues: state media 'after midnight' versus witnesses preparing for school; exact UTC date September 6/7 remains unresolved. Two Reuters URLs share one wire report.",
+   "sources": [
+    {
+     "name": "Reuters (Al-Monitor)",
+     "url": "https://www.al-monitor.com/originals/2026/09/israeli-strikes-southern-lebanese-town-kill-13-fears-escalation-mount"
+    },
+    {
+     "name": "Reuters (MarketScreener)",
+     "url": "https://www.marketscreener.com/news/israeli-strikes-on-southern-lebanese-town-kill-11-state-news-agency-says-ce785bdbdf8bf720"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/fc3f8c5ac5e09c93232b3a9841afb9f4"
+    },
+    {
+     "name": "WAFA",
+     "url": "https://english.wafa.ps/Pages/Details/174473"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-07",
+  "title": "Saudi airstrike on prison in Al-Jawf, Yemen, kills 17",
+  "category": "war",
+  "location": "Al-Jawf Governorate, Yemen",
+  "lives_lost": 17,
+  "description": "A Saudi airstrike hit a prison in Al-Jawf Governorate, Yemen, on September 7, 2026, during an offensive against Houthi forces, killing seven people, including a child, and trapping dozens under the rubble. The toll rose to 17 the following day as bodies were recovered.",
+  "sources": [
+   "AP",
+   "Saba News Agency"
+  ],
+  "archive_id": "events-391baddddfcc7e1b9150",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "sources"
+   ],
+   "note": "AP September 9 reports 23 recovered deaths, superseding 17; these are updates to the September 7 prison incident. Houthi authorities blame Saudi-led airstrikes; the Yemeni rights centre blames the Houthis. Do not state Saudi responsibility as undisputed. Exact strike time/UTC boundary was not established. Two AP documents share publisher and Houthi-source provenance.",
+   "sources": [
+    {
+     "name": "AP initial report",
+     "url": "https://apnews.com/article/e6d1e1d84c943d2fb1ce186a1e5bd3f8"
+    },
+    {
+     "name": "AP recovery update",
+     "url": "https://apnews.com/article/ede975f78a1d014092e43d0f2d682b9a"
+    },
+    {
+     "name": "Yemeni Center for Rehabilitation of Victims of Violations and Torture",
+     "url": "https://ycvvt.org/en/news/the-yemeni-center-condemns-the-houthi-bombing-of-the-central-prison-building-in-al-hazm-city-al-jawf-governorate/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-08",
+  "title": "AFP sources report more than 500 deaths in renewed Yemen fighting",
+  "category": "war",
+  "location": "Taiz and Hodeidah governorates, Yemen",
+  "lives_lost": 500,
+  "description": "AFP reported on September 8 that military and medical sources counted at least 278 Houthi fighters,216 government troops and 29 civilians killed since renewed fighting began the previous week. Their components total 523; this is a cumulative attributed figure, not a single-day toll.",
+  "sources": [
+   "AFP",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-fe03c408309b84fd7f75",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Components 278+216+29 equal 523, not 500. AFP says MORE THAN 500 and attributes figures to unnamed military/medical sources, not a universally confirmed total. Multi-day offensive since the previous week; September 8 is report date, not date of 523 deaths. Reconcile possible overlap with Al-Jawf prison and other Yemen strikes before integration. Arabic liveblog repeats AFP rather than independently verifies counts.",
+   "sources": [
+    {
+     "name": "AFP (BSS)",
+     "url": "https://b.bssnews.net/international/422463"
+    },
+    {
+     "name": "Al Jazeera Arabic",
+     "url": "https://www.aljazeera.net/amp/news/liveblog/2026/9/5/%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AA%D8%B9%D8%B2"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Drone strike near courthouse in Umm Ruwaba, Sudan, kills 13",
+  "category": "war",
+  "location": "Umm Ruwaba, North Kordofan, Sudan",
+  "lives_lost": 13,
+  "description": "A drone strike near the Um Rawaba courthouse on the afternoon of September 8 killed at least 12 people, according to local reports; the Sudan Doctors Network reported 13. Sources blamed the RSF. The precise toll remains unreconciled.",
+  "sources": [
+   "Sudan Horizon",
+   "Ahram Online"
+  ],
+  "archive_id": "events-a8465c45afca19830279",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Tuesday afternoon September 8 supports same UTC date. Sudan Doctors Network reporting gives 13 dead/22 injured; Radio Tamazuj's authorities/eyewitnesses give 12 dead/20 injured outside courthouse. No reconciled final count retrieved. RSF attribution is a claim by monitoring groups/army-aligned authorities, not independently proven here.",
+   "sources": [
+    {
+     "name": "Sudan Tribune",
+     "url": "https://sudantribune.com/article/318507"
+    },
+    {
+     "name": "Radio Tamazuj",
+     "url": "https://www.radiotamazuj.org/en/news/article/drone-strike-near-courthouse-in-north-kordofan-kills-12"
+    },
+    {
+     "name": "Sudan Horizon",
+     "url": "https://sudanhorizon.com/13-killed-and-22-injured-after-militia-shells-umm-ruwaba/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Famine in Jebel Marra, Sudan, kills at least 20",
+  "category": "food-crisis",
+  "location": "Jebel Marra, Darfur, Sudan",
+  "lives_lost": 20,
+  "description": "On September 8, the SLM-AW-aligned civil administration reported famine conditions in Jebel Marra and nearby areas, estimating that up to 20 people were dying daily from hunger and disease. This was a reported mortality estimate, not a verified September 8 event toll.",
+  "sources": [
+   "Sudan Tribune",
+   "Rhino News"
+  ],
+  "archive_id": "events-4c9f2f12df1ccc9572da",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Source says UP TO 20 dying EACH DAY from hunger/disease, an estimated mortality rate attributed to SLM-AW-aligned civil administration, not at least 20 identified deaths on September 8. Famine language is a local authority claim, not an IPC determination established here. No incident-level toll/date or second independent source record retrieved.",
+   "sources": [
+    {
+     "name": "Sudan Tribune",
+     "url": "https://sudantribune.com/article/318503"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-08",
@@ -2019,7 +5036,8 @@
    "https://www.theborneopost.com/2026/09/08/long-lellang-heli-crash-caam-confirms-five-people-on-board/",
    "https://apnews.com/article/7efd79a8d0b2acf1e1cb3879afb93c65",
    "https://www.scoop.my/news/297965/long-lellang-helicopter-crash-five-including-four-health-ministry-personnel-killed/"
-  ]
+  ],
+  "archive_id": "events-3ae89f6e72928e70c81e"
  },
  {
   "date": "2026-09-08",
@@ -2035,7 +5053,44 @@
   "source_urls": [
    "https://news.tv-asahi.co.jp/news_society/articles/000531823.html",
    "https://www.fnn.jp/articles/-/1111138"
-  ]
+  ],
+  "archive_id": "events-e8023befc86990813ab0"
+ },
+ {
+  "date": "2026-09-08",
+  "title": "Russian strikes on Kyiv and Kyiv region kill seven",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 7,
+  "description": "Russian strikes reported overnight and during September 8 killed five people in Kyiv and two in the surrounding region, according to Ukrainian authorities. The attacks damaged warehouses and other civilian buildings. Fatal incident times remain insufficiently resolved for a single UTC date.",
+  "sources": [
+   "The Pioneer",
+   "Reuters",
+   "Xinhua"
+  ],
+  "archive_id": "events-905ba083734d7ce0bfb3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "City government confirms five killed in September 8 attacks; UATV separately reports two in Kyiv region. Injury counts differ 23/29/35 and need not be retained. Strikes spanned Monday night and Tuesday; exact fatal-incident UTC dates unestablished. Sept 10 two-death Kyiv record may be an earlier bulletin from this attack; do not add without resolving identity.",
+   "sources": [
+    {
+     "name": "Kyiv city government",
+     "url": "https://kyivcity.gov.ua/news/kiv_nayvazhlivishe_za_tizhden__Kyiv_Highlights_of_the_week_1051986/"
+    },
+    {
+     "name": "UATV",
+     "url": "https://uatv.ua/en/death-toll-from-russian-strikes-on-kyiv-rises-to-five-as-attacks-continue/"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/russia-pounds-kyiv-in-overnight-attack-as-brief-truce-ends-in-missile-fire/"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-09",
@@ -2051,7 +5106,8 @@
   "source_urls": [
    "https://www.polizeinews.ch/2026/09/09/piotta-ti-explosion-in-alter-ritom-zentrale-zwei-arbeiter-sterben-bei-arbeitsunfall/",
    "https://amp.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516"
-  ]
+  ],
+  "archive_id": "events-19621fa68dbca7c481be"
  },
  {
   "date": "2026-09-09",
@@ -2069,7 +5125,8 @@
    "https://apnews.com/article/bfc58aac61599fdf8ac71d964c453037",
    "https://www.euronews.com/2026/09/09/temporary-wartime-weapons-depot-explosion-kills-14-outside-syrias-idlib",
    "https://sana.sy/en/syria/2341481/"
-  ]
+  ],
+  "archive_id": "events-9dcef75133aaee243f77"
  },
  {
   "date": "2026-09-09",
@@ -2085,7 +5142,8 @@
   "source_urls": [
    "https://pchrgaza.org/israel-kills-10-palestinians-including-a-couple-and-their-two-children-and-injures-dozens-in-gaza/",
    "https://www.investing.com/news/world-news/israeli-strike-kills-parents-and-two-children-in-gaza-medics-say-4895056"
-  ]
+  ],
+  "archive_id": "events-bd75cf179b3ecd6af17a"
  },
  {
   "date": "2026-09-09",
@@ -2103,7 +5161,8 @@
    "https://npu.gov.ua/news/dvoie-liudei-zahynuly-14-poraneni-politsiia-dokumentuie-naslidky-vorozhoho-udaru-po-trts-u-sumakh",
    "https://www.investing.com/news/world-news/strike-on-shopping-centre-in-sumy-in-northern-ukraine-kills-two-governor-says-4894947",
    "https://kyivindependent.com/deadly-russian-drone-strike-targets-sumy-shopping-center-killing-2-injuring-20-including-3-children/"
-  ]
+  ],
+  "archive_id": "events-490f341bf82cd5915de9"
  },
  {
   "date": "2026-09-10",
@@ -2121,7 +5180,8 @@
    "https://www.marketscreener.com/news/cargo-vessel-fire-at-east-china-shipyard-kills-25-ce785bdedd8fff22",
    "https://apnews.com/article/0fed1ef071cd5d7daa8268af3ee398c3",
    "https://www.caixinglobal.com/2026-09-11/cargo-ship-fire-at-qingdao-shipyard-leaves-25-dead-102483855.html"
-  ]
+  ],
+  "archive_id": "events-3cb88044d1c8bbb1c708"
  },
  {
   "date": "2026-09-10",
@@ -2139,7 +5199,8 @@
    "https://www.thenewsminute.com/amp/story/tamil-nadu/3-killed-14-injured-as-roof-of-under-construction-church-collapses-in-vellore",
    "https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/11/three-workers-killed-as-church-roof-collapses-in-vellore",
    "https://timesofindia.indiatimes.com/city/chennai/upper-floor-of-under-construction-church-collapses-in-tamil-nadus-vellore-1-dead-rescue-ops-underway/articleshow/134019061.cms"
-  ]
+  ],
+  "archive_id": "events-a176d8849e56a062c254"
  },
  {
   "date": "2026-09-10",
@@ -2157,7 +5218,115 @@
    "https://english.newsfirst.lk/2026/09/11/wrong-house-targeted-in-deadly-dehiwala-grenade-attack-that-killed-two-children-police",
    "https://www.dailymirror.lk/breaking-news/Two-children-killed-in-Dehiwala-grenade-attack/108-350002",
    "https://www.sundaytimes.lk/260920/news/gun-violence-underworld-rivalries-surge-police-make-some-breakthroughs-657529.html"
-  ]
+  ],
+  "archive_id": "events-95c6189bc5f6fecbb753"
+ },
+ {
+  "date": "2026-09-10",
+  "title": "Hurricane Lowell linked to at least two deaths in Hawaii",
+  "category": "natural-disaster",
+  "location": "Hawaii, USA",
+  "lives_lost": 2,
+  "description": "Two deaths were linked to Hurricane Lowell in Hawaii: a man killed by a falling tree on Oahu and a man found dead on Kauai after being reported missing. The reports concern different incident and recovery dates, not two established deaths on 10 September.",
+  "sources": [
+   "The Weather Channel",
+   "The Canadian Press"
+  ],
+  "archive_id": "events-93f1d7680379d4cdc9e0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Two deaths were linked to the storm, but September 10 is a report/update date. Hawaii News Now places the fatal Waimanalo tree incident at about 20:35 HST on Monday September 7, which is September 8 UTC. The other man's body was recovered on Kauai on September 9 after he went missing the previous day; recovery time does not establish death time. A single September 10 UTC casualty allocation is unsupported. Storm-surge attribution for the Kauai death was preliminary.",
+   "sources": [
+    {
+     "name": "The Weather Channel",
+     "url": "https://weather.com/2026/09/10/news/weather/hurricane-lowell-now-blamed-for-at-least-2-deaths-in-hawaii"
+    },
+    {
+     "name": "Hawaii News Now",
+     "url": "https://www.hawaiinewsnow.com/2026/09/10/man-killed-by-fallen-tree-waimanalo-hurricane-lowell-passes-identified/"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/022ea2c63c979c08586ccb47063d691d"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-10",
+  "title": "Russian attacks on Mykolaiv kill four",
+  "category": "war",
+  "location": "Mykolaiv, Ukraine",
+  "lives_lost": 4,
+  "description": "Russian attacks on Mykolaiv during 9 September and the following night killed four people and injured 19, according to Ukrainian police. The figure covers a reporting interval rather than a single established UTC day.",
+  "sources": [
+   "Ukrinform",
+   "Mezha"
+  ],
+  "archive_id": "events-8812d6f63996cfc775c5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Four deaths and 19 injuries are supported for attacks during September 9 and the night into September 10, not four established deaths on September 10 UTC. Ukrinform identifies two women and two men among the dead. The reporting interval crosses dates and individual fatal incident times were not established. The first two documents draw on the same police casualty account.",
+   "sources": [
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.ua/amp/rubric-regions/4162625-u-mikolaevi-za-dobu-cerez-rosijski-ataki-zaginuli-cetvero-ludej-se-19-poraneni.html"
+    },
+    {
+     "name": "Korabelov",
+     "url": "https://korabelov.info/en/2026/09/613683/the-police-record-russian-attacks-that-took-the-lives-of-four-people-another-19-were-injured/"
+    },
+    {
+     "name": "RTVE",
+     "url": "https://www.rtve.es/noticias/20260910/rusia-lanza-su-ultimo-ataque-contra-economia-guerra-ucraniana-mykolaiv-deja-menos-cuatro-muertos/17219158.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-10",
+  "title": "Russian large-scale attack on Kyiv kills two",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 2,
+  "description": "A large-scale Russian attack on Kyiv on September 10, 2026, killed two people and injured at least ten, according to Ukrainian authorities.",
+  "sources": [
+   "Ukrinform",
+   "Democrata"
+  ],
+  "archive_id": "events-4b6c00a78579e9fff373",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "identity",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Matching two-dead/ten-injured Ukrinform bulletin is dated September 8, not 10; AFP corroborates early September 8 two-death count. September 10 reporting describes a gas-station strike with injuries and a separate regional death, not the claimed city toll. Likely a misdated preliminary duplicate of September 8 aggregate, but cannot assert identical victims without further evidence; do not publish or add twice.",
+   "sources": [
+    {
+     "name": "Ukrinform Polish",
+     "url": "https://www.ukrinform.pl/rubric-ato/4161947-kombinowany-atak-na-kijow-liczba-rannych-wzrosa-do-10-dwie-osoby-zginey.html"
+    },
+    {
+     "name": "AFP",
+     "url": "https://www-pp.afp.com/en/russian-strikes-kill-two-kyiv-city-authorities"
+    },
+    {
+     "name": "Ukrinform September10",
+     "url": "https://www.ukrinform.ua/rubric-regions/4162718-ataka-vorozogo-drona-na-azs-u-kievi-kilkist-postrazdalih-zrosla-do-cotiroh.html"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-10",
@@ -2175,7 +5344,71 @@
    "https://nltimes.nl/2026/09/11/5-killed-3-critically-injured-dutch-bus-crash-switzerland-37-others-also-hurt",
    "https://apnews.com/article/c3d992fe08ae0608578d073a1828959e",
    "https://apnews.com/article/3351c6260d0e14562f5fc7064901a2f0"
-  ]
+  ],
+  "archive_id": "events-2f577b0ffc456a9f77ef"
+ },
+ {
+  "date": "2026-09-10",
+  "title": "US strike on suspected drug boat in the Caribbean kills three",
+  "category": "war",
+  "location": "Caribbean Sea",
+  "lives_lost": 3,
+  "description": "U.S. Southern Command said its forces killed three people in a strike on a boat in the Caribbean on 9 September 2026. The military alleged that the vessel was involved in drug trafficking; the retrieved reports did not independently establish that allegation.",
+  "sources": [
+   "Xinhua",
+   "Notimerica",
+   "DHA"
+  ],
+  "archive_id": "events-c685d0499e284deada81",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "SOUTHCOM dates the operation to September 9; September 10 is the reporting date. Both publishers relay the same military announcement, not independent confirmation of the occupants' identities or trafficking allegations. The operation's exact time and the command's date time zone were not established, so the proposed September 9 date is not verified as UTC and the row remains withheld.",
+   "sources": [
+    {
+     "name": "USNI News",
+     "url": "https://news.usni.org/2026/09/10/3-killed-in-strike-on-alleged-drug-boat"
+    },
+    {
+     "name": "Stars and Stripes",
+     "url": "https://www.stripes.com/theaters/americas/2026-09-10/us-boat-strike-southern-spear-22809838.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-09-10",
+  "title": "Ukrainian drone strike kills woman in Borisoglebsk, Russia",
+  "category": "war",
+  "location": "Borisoglebsk, Voronezh Oblast, Russia",
+  "lives_lost": 1,
+  "description": "Regional authorities said an attack by Ukrainian drones overnight on 9-10 September killed a woman and injured two people in Borisoglebsk, Voronezh Oblast.",
+  "sources": [
+   "Komsomolskaya Pravda",
+   "TV Gubernia"
+  ],
+  "archive_id": "events-71efbd6c154e2fc89cde",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Regional authorities reported a woman killed and two people injured in Borisoglebsk. The attack occurred overnight September 9-10 local time; the morning September 10 announcement is not an incident timestamp. Both sources rely on the regional governor. The UTC date remains unresolved, and attribution to Ukraine is the authorities' account.",
+   "sources": [
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/09/10/voronezh-woman-killed-and-caspian-seaport-hit-in-ukrainian-drone-strikes-a93674"
+    },
+    {
+     "name": "RIA Voronezh",
+     "url": "https://borisoglebsk.riavrn.ru/news/v-borisoglebske-voronezhskoj-oblasti-v-rezultate-ataki-bpla-pogibla-43-letnyaya-zhenshina/?from=mainslider_news"
+    }
+   ]
+  }
  },
  {
   "date": "2026-09-12",
@@ -2191,7 +5424,8 @@
   "source_urls": [
    "https://abcnews.com/amp/International/wireStory/3-killed-russian-strikes-ukraine-putin-warns-europe-136385728",
    "https://www.rte.ie/news/2026/0912/1591278-ukraine/"
-  ]
+  ],
+  "archive_id": "events-81d7c919f2649bd3ad66"
  },
  {
   "date": "2026-09-13",
@@ -2207,7 +5441,8 @@
   "source_urls": [
    "https://www.channelstv.com/2026/09/14/multi-car-crash-kills-21-in-south-africa/",
    "https://www.timeslive.co.za/news/south-africa/2026-09-14-21-people-killed-in-multiple-vehicle-crash-on-n1-in-western-cape/"
-  ]
+  ],
+  "archive_id": "events-d662e3fa1bdc0a3b7b99"
  },
  {
   "date": "2026-09-16",
@@ -2223,7 +5458,8 @@
   "source_urls": [
    "https://www.marketscreener.com/news/russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast-governor-says-ce785bd2db8df223",
    "https://www.euronews.com/my-europe/2026/09/16/five-killed-in-russian-drone-strike-on-ukrainian-bus"
-  ]
+  ],
+  "archive_id": "events-fe3fbebdcda24eb71bd0"
  },
  {
   "date": "2026-09-16",
@@ -2239,7 +5475,8 @@
   "source_urls": [
    "https://www.ksje.com/news/local-news/three-die-in-newcomb-area-flood/",
    "https://www.kjzz.org/indigenous-affairs/2026-09-16/3-dead-in-flooding-on-the-navajo-nation"
-  ]
+  ],
+  "archive_id": "events-119a11d816c488cad1ef"
  },
  {
   "date": "2026-09-16",
@@ -2255,7 +5492,8 @@
   "source_urls": [
    "https://www.local10.com/news/2026/09/16/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/",
    "https://kesq.com/news/2026/09/15/three-people-dead-after-news-helicopter-crashes-in-los-angeles-area/"
-  ]
+  ],
+  "archive_id": "events-53f8a0982ea052117f83"
  },
  {
   "date": "2026-09-16",
@@ -2271,7 +5509,8 @@
   "source_urls": [
    "https://lafd.com/news/2-people-dead-and-6-injured-after-suv-collides-side-metro-bus-chatsworth",
    "https://www.nbclosangeles.com/news/local/chatsworth-crash-involving-metro-bus/3942678/"
-  ]
+  ],
+  "archive_id": "events-0139327c0a36f231490e"
  },
  {
   "date": "2026-09-17",
@@ -2287,7 +5526,8 @@
   "source_urls": [
    "https://www.afp.com/en/saudi-civil-defence-says-shrapnel-houthi-drone-kills-1-after-interception",
    "https://wtaq.com/2026/09/17/one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis/"
-  ]
+  ],
+  "archive_id": "events-b2e591b7514a762651be"
  },
  {
   "date": "2026-09-18",
@@ -2303,7 +5543,8 @@
   "source_urls": [
    "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396",
    "https://www.jpost.com/international/article-909043"
-  ]
+  ],
+  "archive_id": "events-b4c55c9609a9f294473f"
  },
  {
   "date": "2026-09-19",
@@ -2319,7 +5560,8 @@
   "source_urls": [
    "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
    "https://english.wafa.ps/Pages/Details/174886"
-  ]
+  ],
+  "archive_id": "events-3dd48f1267c7c0656f50"
  },
  {
   "date": "2026-09-19",
@@ -2335,7 +5577,8 @@
   "source_urls": [
    "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
    "https://english.wafa.ps/Pages/Details/174886"
-  ]
+  ],
+  "archive_id": "events-33567a240de7579fa889"
  },
  {
   "date": "2026-09-20",
@@ -2351,7 +5594,8 @@
   "source_urls": [
    "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
    "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
-  ]
+  ],
+  "archive_id": "events-cf4714440ffd9eab9b99"
  },
  {
   "date": "2026-09-20",
@@ -2367,7 +5611,8 @@
   "source_urls": [
    "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
    "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
-  ]
+  ],
+  "archive_id": "events-629512bb374bf79da79f"
  },
  {
   "date": "2026-09-20",
@@ -2383,6 +5628,7 @@
   "source_urls": [
    "https://www.arabnews.pk/pakistan/at-least-three-killed-in-pakistani-airstrikes-on-afghanistan-officials-say-3001850",
    "https://www.ariananews.af/pakistani-military-jets-strike-earthquake-victims-camp-in-kunar-officials-say/"
-  ]
+  ],
+  "archive_id": "events-84eb260b146cad9eed06"
  }
 ]

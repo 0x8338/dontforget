@@ -1,5 +1,153 @@
 [
  {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "\"Tesla will be feature complete for Full Self-Driving by the end of this year.\"",
+  "date_promised": "2019-08-16",
+  "due_date": "2019-12-31",
+  "status": "broken",
+  "description": "Tweeted in August 2019, part of a long series of FSD deadline promises (2019, 2020, 2021, 2024...). Full Self-Driving remained an incomplete beta in 2024-2025, requiring driver supervision and lacking regulatory certification — it was nowhere near feature-complete or autonomous by end of 2019.",
+  "evidence": [
+   "FSD remained a supervised beta system through 2025",
+   "Musk's own later statements pushed deadlines to 2020 and beyond",
+   "No driverless/robotaxi FSD deployment existed by end of 2019"
+  ],
+  "sources": [
+   "The Verge",
+   "CNBC",
+   "Electrek"
+  ],
+  "archive_id": "promises-bf6e590dd1a273aaea1d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status",
+    "sources"
+   ],
+   "note": "Search locates February podcast and October call, not the alleged August 16 tweet. 'Feature complete' was distinguished from unsupervised/regulator-approved driving; failure cannot be established solely by continued supervision.",
+   "sources": [
+    {
+     "name": "WIRED",
+     "url": "https://www.wired.com/story/elon-musk-tesla-full-self-driving-2019-2020-promise/"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2019/10/23/elon-musk-says-tesla-early-access-full-self-driving-could-arrive-by-end-of-year/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mauricio Macri",
+  "role": "President of Argentina",
+  "promise": "Pobreza cero - we are going to end poverty",
+  "date_promised": "2015-09-01",
+  "due_date": "2019-12-10",
+  "status": "broken",
+  "description": "Macri campaigned in 2015 on the slogan 'pobreza cero' (zero poverty), promising to end poverty during his presidency. Poverty instead rose from roughly 29% when he took office to around 35% by the end of his term in December 2019, with some projections above 40% at his worst point, making the pledge a symbol of broken campaign promises in Argentina.",
+  "evidence": [
+   "Poverty rate rose to ~35.5% at end-2019, up from ~29% in 2015",
+   "INDEC poverty figures peaked above 40% during his term (2020 readings for 2019-2020)"
+  ],
+  "sources": [
+   "INDEC poverty statistics (2016-2020)",
+   "La Nación / BBC Mundo (2019 end-of-term assessments)"
+  ],
+  "archive_id": "promises-13becf1d204c7620ec8c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "INDEC table shows 35.5% and later 40.9%; 2020 is after Macri's presidency and cannot count as a within-term peak. Need original slogan/date/deadline and comparable baseline; 2015 and resumed official 2016 series cannot be assumed identical.",
+   "sources": [
+    {
+     "name": "INDEC",
+     "url": "https://www.indec.gob.ar/ftp/cuadros/publicaciones/indecinforma/indec_informa_10_20.pdf"
+    },
+    {
+     "name": "INDEC",
+     "url": "https://biblioteca.indec.gob.ar/bases/minde/indec_informa_10_20.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Abiy Ahmed",
+  "role": "Prime Minister of Ethiopia",
+  "promise": "We will plant 4 billion trees this rainy season",
+  "date_promised": "2019-05-26",
+  "due_date": "2019-12-31",
+  "status": "kept",
+  "description": "Abiy launched Green Legacy on May 26, 2019 with a four-billion-seedling target. Ethiopia's agriculture ministry reports 4.7 billion planted in 2019; this is a government-reported count, not independent confirmation of survival.",
+  "evidence": [
+   "Ministry's retrospective reports 4.7 billion seedlings planted against a four-billion target."
+  ],
+  "sources": [
+   "Reuters / BBC (July 2019)",
+   "Ethiopian Ministry of Environment (2019 Green Legacy reports)"
+  ],
+  "archive_id": "promises-6e2ef796429d48fca3f3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Participant organization dates launch May 26, not May 10. Ministry self-reports 4.7 billion for 2019. Claimed planting is distinct from independently verified planting/survival or a certified world record; rainy-season deadline is not necessarily December 31.",
+   "sources": [
+    {
+     "name": "SNV",
+     "url": "https://www.snv.org/update/snv-leaves-mark-green-legacy-campaign"
+    },
+    {
+     "name": "Ethiopian Ministry of Agriculture",
+     "url": "https://www.moa.gov.et/green-legacy/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "Tesla",
+  "promise": "Tesla Semi truck to enter production and start deliveries in 2019",
+  "date_promised": "2017-06-30",
+  "due_date": "2019-12-31",
+  "status": "kept (delayed)",
+  "description": "Tesla first delivered Semi trucks to PepsiCo on December 1, 2022, after an initial 2019 production target.",
+  "evidence": [
+   "Reuters reports the initial 2019 target and first deliveries in December 2022."
+  ],
+  "sources": [
+   "Reuters"
+  ],
+  "archive_id": "promises-0fd713f5a2a35f9defac",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Reuters supports 2019 production target and first December 1, 2022 deliveries: delayed fulfillment. June 30 predates November unveiling. Local evening reveal/delivery timestamps require UTC checking before exact date replacement.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/pepsico-confirms-tesla-semitruck-deliveries-to-start-in-december-2907462"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/musk-delivers-first-tesla-semi-trucks-2955927"
+    }
+   ]
+  }
+ },
+ {
   "person": "Dennis Muilenburg",
   "role": "CEO, Boeing",
   "promise": "Expect the 737 MAX return to service to begin in the fourth quarter of 2019",
@@ -19,6 +167,47 @@
    "https://s2.q4cdn.com/661678649/files/doc_financials/quarterly/2019/q3/3Q19-Press-Release.pdf",
    "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1038501",
    "https://www.prnewswire.com/news-releases/gol-announces-monthly-investor-update-capacity-cash-generation-and-liquidity-301203339.html"
-  ]
+  ],
+  "archive_id": "promises-b630b00414167a809d03"
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Apply Israeli sovereignty to the Jordan Valley and northern Dead Sea upon forming a new government, conditional on an electoral mandate",
+  "date_promised": "2019-09-10",
+  "due_date": "2019-12-31",
+  "status": "broken",
+  "description": "Netanyahu made the conditional pledge September10,2019 ahead of the election. He also linked annexation steps to coordination with the Trump administration.",
+  "evidence": [
+   "Annexation pledge made September 10, 2019, ahead of the September 17 election",
+   "Israeli sovereignty was never applied over the Jordan Valley"
+  ],
+  "sources": [
+   "Times of Israel",
+   "New Age"
+  ],
+  "source_urls": [
+   "https://www.timesofisrael.com/in-campaign-pitch-netanyahu-vows-to-annex-jordan-valley-if-reelected",
+   "https://newagebd.net/article/84198/article"
+  ],
+  "archive_id": "promises-53d6112f2f41b89e5388",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Pledge depended on a mandate and forming a government, with US coordination. No December31 deadline established; later formation/annexation outcome requires matched evidence. Do not convert conditional post-election timing into an arbitrary annual date.",
+   "sources": [
+    {
+     "name": "Times of Israel: September10 pledge",
+     "url": "https://www.timesofisrael.com/in-campaign-pitch-netanyahu-vows-to-annex-jordan-valley-if-reelected/amp/"
+    },
+    {
+     "name": "Jewish Telegraphic Agency: conditions",
+     "url": "https://www.jta.org/2019/09/10/israel/netanyahu-announces-plans-to-annex-the-jordan-valley-if-re-elected"
+    }
+   ]
+  }
  }
 ]

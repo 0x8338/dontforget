@@ -1,0 +1,84 @@
+[
+ {
+  "person": "International Monetary Fund",
+  "role": "Bolivia Extended Fund Facility program",
+  "promise": "Seek approval for a 36-month, approximately $1.9 billion EFF programme for Bolivia",
+  "date_promised": "2026-07-29",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "IMF staff reached agreement with Bolivia on July 29, 2026. Subsequent Bolivian approval did not substitute for IMF Executive Board authorization, which remained pending in September reporting.",
+  "evidence": [
+   "Staff-level agreement announced July 29, 2026; board approval still pending",
+   "36-month program implies completion around mid-2029"
+  ],
+  "sources": [
+   "Reuters",
+   "Bloomberg",
+   "bne IntelliNews"
+  ],
+  "source_urls": [
+   "https://in.marketscreener.com/news/bolivia-and-imf-reach-1-9-billion-loan-agreement-political-hurdles-remain-ce7f51d3da8cf422",
+   "https://www.bloomberg.com/news/articles/2026-07-29/bolivia-imf-agree-on-new-1-9-billion-financing-program",
+   "https://www.intellinews.com/imf-strikes-1-9bn-loan-deal-with-bolivia-457838/"
+  ],
+  "archive_id": "promises-bfe6d0546998e77b36c8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Staff agreement is conditional on Board approval; AP's September 2026 report says that approval still pending despite Bolivian legislative action. Thirty-six months should not be counted from staff announcement to invent a July 2029 expiry.",
+   "sources": [
+    {
+     "name": "IMF: Bolivia staff agreement",
+     "url": "https://www.imf.org/en/news/articles/2026/07/29/pr26268-bolivia-imf-reaches-staff-level-agreement-on-an-extended-fund-facility-arrangement"
+    },
+    {
+     "name": "AP: September legislative approval",
+     "url": "https://apnews.com/article/d5ac4a2558132559e1d544807b89d528"
+    }
+   ]
+  }
+ },
+ {
+  "person": "BISP, WFP, WHO and UNICEF",
+  "role": "Benazir Nashonuma Programme partners",
+  "promise": "Extend the Benazir Nashonuma Programme for three years to protect an additional 3.3 million children and women from malnutrition across Pakistan",
+  "date_promised": "2026-07-09",
+  "due_date": "2029-07-31",
+  "status": "pending",
+  "description": "On July9,2026, BISP and UN partners announced a three-year programme extension targeting another3.3 million pregnant or breastfeeding women and children under two. Expected total reach is8 million; these are targets, not already delivered outcomes.",
+  "evidence": [
+   "Joint announcement on July 9, 2026 of the three-year extension",
+   "Extension targets an additional 3.3 million children and women"
+  ],
+  "sources": [
+   "United Nations Pakistan",
+   "World Health Organization",
+   "APP"
+  ],
+  "source_urls": [
+   "https://pakistan.un.org/en/319205-media-update-2-united-nations-pakistan-9-july-2026",
+   "https://www.emro.who.int/pak/pakistan-news/bisp-wfp-who-unicef-extend-partnership-to-protect-3-3-million-children-and-women-from-malnutrition-in-pakistan.html",
+   "https://www.app.com.pk/national/bisp-un-agencies-extend-partnership-to-protect-3-3-million-women-children-from-malnutrition/"
+  ],
+  "archive_id": "promises-f716e8dc7a81f945ed07",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Event dateline July9 is distinct from WFP page publication July10. Beneficiary groups, additional3.3m and expected cumulative8m supported. Three-year extension does not establish exact July31,2029 closing date; start/end programme dates need agreement.",
+   "sources": [
+    {
+     "name": "WFP: joint extension announcement",
+     "url": "https://www.wfp.org/news/bisp-wfp-who-unicef-extend-partnership-protect-33-million-children-and-women-malnutrition"
+    },
+    {
+     "name": "UNICEF: partnership extension",
+     "url": "https://www.unicef.org/pakistan/press-releases/bisp-wfp-who-unicef-extend-partnership-protect-33-million-children-and-women"
+    }
+   ]
+  }
+ }
+]

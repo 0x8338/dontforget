@@ -1,0 +1,42 @@
+[
+ {
+  "person": "YPF (Argentina LNG project)",
+  "role": "Argentine state-controlled energy company",
+  "promise": "Invest $51 billion in the Argentina LNG project under the RIGI large-investment incentive regime to export gas from Vaca Muerta",
+  "date_promised": "2026-08-14",
+  "due_date": "2032-12-31",
+  "status": "pending",
+  "description": "YPF, Eni and XRG sought RIGI treatment for the Argentina LNG project, involving proposed investment of USD 51 billion and Vaca Muerta resources.",
+  "evidence": [
+   "YPF announced the RIGI filing on August 14, 2026",
+   "Largest-ever RIGI project; developed with ENI and XRG for Vaca Muerta gas exports"
+  ],
+  "sources": [
+   "Buenos Aires Herald",
+   "CRI (China Radio International)"
+  ],
+  "source_urls": [
+   "https://buenosairesherald.com/business/energy/ypf-files-for-largest-ever-rigi-project-at-us51-billion",
+   "https://espanol.cri.cn/2026/08/15/ARTI1786761134857592"
+  ],
+  "archive_id": "promises-02efee4046110e39d440",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "Eni's August 14 release confirms the partners' application; EFE says the announcement occurred Thursday August 13. No exact UTC timing reconciles those dates, and no deadline for investing the whole USD 51 billion is established. RIGI application is not final investment approval.",
+   "sources": [
+    {
+     "name": "Eni",
+     "url": "https://www.eni.com/en-IT/media/press-release/2026/08/argentina-lng-submits-application-for-rigi-approval.html"
+    },
+    {
+     "name": "EFE",
+     "url": "https://efe.com/economia/2026-08-14/petroleras-ypf-eni-xrg-inversion-gas-licuado-argentino/"
+    }
+   ]
+  }
+ }
+]

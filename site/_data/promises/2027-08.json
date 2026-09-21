@@ -17,6 +17,41 @@
   "source_urls": [
    "https://www.pmindia.gov.in/en/news_updates/pm-announces-ai-skilling-of-1-crore-youth-in-one-year/",
    "https://www.business-standard.com/india-news/modi-ai-training-one-crore-youth-independence-day-viksit-bharat-126081500716_1.html"
-  ]
+  ],
+  "archive_id": "promises-0621a513a8df699b762f"
+ },
+ {
+  "person": "Narendra Modi",
+  "role": "Prime Minister of India",
+  "promise": "Provide free online coaching for various competitive examinations for the youth",
+  "date_promised": "2026-08-15",
+  "due_date": "2027-08-15",
+  "status": "pending",
+  "description": "Modi announced free online coaching for competitive examinations on August 15, 2026, using digital public infrastructure and teachers to build a coaching network.",
+  "evidence": [
+   "The official announcement contains no explicit coaching rollout deadline."
+  ],
+  "sources": [
+   "Hindustan Times",
+   "News18"
+  ],
+  "source_urls": [
+   "https://www.hindustantimes.com/india-news/pm-modi-announces-free-online-coaching-for-competitive-exams-in-independence-day-speech-101786763652348.html",
+   "https://www.news18.com/india/pm-modi-announces-free-online-coaching-for-competitive-exams-in-independence-day-speech-ws-l-10274488.html"
+  ],
+  "archive_id": "promises-9aabb0aa6716daa1f8b5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "The free-coaching announcement is supported, but the one-year deadline belongs to AI training, not coaching. An editorial review anniversary must not become a promised delivery date.",
+   "sources": [
+    {
+     "name": "Prime Minister of India",
+     "url": "https://www.pmindia.gov.in/en/news_updates/pm-announces-ai-skilling-of-1-crore-youth-in-one-year/"
+    }
+   ]
+  }
  }
 ]

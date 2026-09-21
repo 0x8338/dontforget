@@ -1,0 +1,42 @@
+[
+ {
+  "person": "Bill Gates",
+  "role": "Co-chair, Bill & Melinda Gates Foundation",
+  "promise": "See the last case of polio within six years (by ~2018)",
+  "date_promised": "2012-05-07",
+  "due_date": "2018-05-07",
+  "status": "broken",
+  "description": "At the 2012 Rotary International Convention, Gates said that if everything went right, the world would see the last case of polio 'within the next six years.' Wild polio cases fell sharply but persisted in Pakistan and Afghanistan, and circulating vaccine-derived polio outbreaks continued globally past the deadline and into 2026.",
+  "evidence": [
+   "Wild polio never reached zero; still endemic in 2026",
+   "Gates Foundation and GPEI kept extending the eradication timeline"
+  ],
+  "sources": [
+   "Rotary International Convention speech",
+   "Global Polio Eradication Initiative",
+   "World Health Organization"
+  ],
+  "archive_id": "promises-8c3557001a22c7b290ca",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "No matching May 7, 2012 Rotary speech or six-year quotation located. Results instead describe a 2013 six-year eradication plan and a 2019 speech. Do not invent a promise date or treat this negative search as disproof.",
+   "sources": [
+    {
+     "name": "Rotary International",
+     "url": "https://www.rotaryinlondon.org/docs/dg-enews-aprmay13.pdf"
+    },
+    {
+     "name": "Gates Notes",
+     "url": "https://www.gatesnotes.com/an-update-from-the-fight-to-eradicate-polio"
+    }
+   ]
+  }
+ }
+]

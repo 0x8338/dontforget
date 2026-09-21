@@ -315,6 +315,13 @@ hr.rule {
 
 .card .sources a { color: var(--blue); text-underline-offset: 0.15em; }
 .card p + p { margin-top: 0.6rem; }
+.card .review-note {
+  margin: 0.8rem 0;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--stone-light);
+  overflow-wrap: anywhere;
+}
+.card .review-note p { font-size: 0.9rem; }
 
 /* ---- Status Badges ---- */
 .badge {

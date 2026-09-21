@@ -1,0 +1,39 @@
+[
+ {
+  "person": "Emmanuel Macron",
+  "role": "President of France",
+  "promise": "Close the Fessenheim nuclear plant in early 2020.",
+  "date_promised": "2018-11-27",
+  "due_date": "2020-06-30",
+  "status": "kept",
+  "description": "Macron announced in November 2018 that both Fessenheim units would close in early 2020. Unit 1 shut on 22 February 2020 and Unit 2 on 29 June 2020 - delivered despite union opposition and legal challenges.",
+  "evidence": [
+   "Wikipedia Fessenheim: 'In November 2018, President Macron announced that both units would close in early 2020'",
+   "Unit 1 closed 22 February 2020; Unit 2 closed 29 June 2020"
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Fessenheim_Nuclear_Power_Plant",
+   "https://www.reuters.com/article/us-france-nuclear-fessenheim/france-closes-fessenheim-nuclear-plant-after-decades-of-protests-idUSKBN2401Z3"
+  ],
+  "archive_id": "promises-93b4556c7cbcb5d786a8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "EDF confirms closure of units on 22 February and 29 June 2020. This establishes closure, not Macron's exact 27 November 2018 wording or conversion of early 2020 into a June 30 deadline. Those promise fields remain unresolved.",
+   "sources": [
+    {
+     "name": "EDF",
+     "url": "https://www.edf.fr/centrale-nucleaire-fessenheim"
+    }
+   ]
+  }
+ }
+]

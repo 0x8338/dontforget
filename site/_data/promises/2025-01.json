@@ -1,0 +1,117 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "End the Russia-Ukraine war within 24 hours of becoming president",
+  "date_promised": "2025-01-07",
+  "due_date": "2025-01-21",
+  "status": "broken",
+  "description": "Trump made a 24-hour peace claim during his campaign. On January 7, 2025 he discussed a six-month timeframe instead. Fighting continued after inauguration.",
+  "evidence": [
+   "January 7 reporting describes a six-month hope.",
+   "AP reported after inauguration that the war continued."
+  ],
+  "sources": [
+   "White House press conference",
+   "AP News",
+   "Reuters"
+  ],
+  "archive_id": "promises-732573f95e9028fb959f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "January 7 remarks discussed six months, not a renewed 24-hour pledge. Earlier campaign pledge/failure supported, but replacement original date needs sourcing.",
+   "sources": [
+    {
+     "name": "LIGA.net",
+     "url": "https://news.liga.net/en/politics/news/trump-hopes-to-end-ukraine-war-in-six-months-comments-on-nato"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/51adbc0cde5a9ca0eaabf46153eb9580"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Immediately bring prices down and begin changing energy policy on the first day in office",
+  "date_promised": "2024-08-15",
+  "due_date": "2025-01-31",
+  "status": "broken",
+  "description": "At the August 15, 2024 event, Trump said he would immediately bring prices down, then said energy-policy changes would start on day one. Later CPI measures varied by category; monthly January data cannot isolate the inauguration day's effect.",
+  "evidence": [
+   "No Day One price drop; food and egg prices rose in January 2025",
+   "Democratic lawmakers' January 2025 letter cited unfulfilled price promises"
+  ],
+  "sources": [
+   "CNN",
+   "Newsweek"
+  ],
+  "source_urls": [
+   "https://edition.cnn.com/2025/01/28/economy/trump-inflation-price-promises",
+   "https://www.newsweek.com/trump-promised-cheaper-eggscan-he-crack-it-2020449"
+  ],
+  "archive_id": "promises-2bcdbf79446c7b96890f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Transcript places 'Starting on day one' with the ensuing energy-policy sentence; avoid splicing separate sentences as a single exact quote. Monthly CPI is not a daily price measurement, and January includes pre-inauguration days. Later price measures are mixed by category. A January 31 deadline is editorial, not the spoken pledge.",
+   "sources": [
+    {
+     "name": "Roll Call Factbase: August 15 transcript",
+     "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-press-conference-bedminster-new-jersey-august-15-2024"
+    },
+    {
+     "name": "FactCheck.org: price series assessment",
+     "url": "https://www.factcheck.org/2025/07/are-prices-up-or-down-parsing-misleading-claims-by-trump-and-democrats/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"If the hostages are not released prior to January 20, 2025, there will be all hell to pay.\"",
+  "date_promised": "2024-12-02",
+  "due_date": "2025-01-20",
+  "status": "partial",
+  "description": "On December 2, 2024, Trump threatened consequences if hostages were not released before his January 20 inauguration. The statement did not specify a measurable action by which its threatened consequences could be scored.",
+  "evidence": [
+   "Not all hostages were released by January 20, 2025",
+   "Ceasefire deal led to phased releases starting January 19, 2025; Trump credited his envoy with the deal"
+  ],
+  "sources": [
+   "The Jerusalem Post",
+   "Times of Israel",
+   "Fox News"
+  ],
+  "source_urls": [
+   "https://www.jpost.com/israel-news/article-842394",
+   "https://www.timesofisrael.com/trump-looks-to-ride-on-success-of-hostage-deal-as-he-readies-to-take-oath-of-office/",
+   "https://noticias.foxnews.com/opinion/hostage-deal-shows-hamas-took-trumps-hell-pay-threat-seriously.print"
+  ],
+  "archive_id": "promises-6742dc7837d5baba5860",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status"
+   ],
+   "note": "This is a conditional threat of consequences, not a guarantee that Hamas would release all hostages. Neither causal credit for the agreement nor a measurable fulfillment test follows from the statement. January 19 was implementation, not necessarily deal announcement; exact deal chronology needs a separate source.",
+   "sources": [
+    {
+     "name": "Reuters: December 2 threat",
+     "url": "https://www.investing.com/news/world-news/trump-wants-gaza-hostages-released-before-his-jan-20-inauguration-3749662"
+    }
+   ]
+  }
+ }
+]

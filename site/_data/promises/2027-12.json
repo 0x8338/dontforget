@@ -1,5 +1,163 @@
 [
  {
+  "person": "Claudia Sheinbaum",
+  "role": "President (from 1 Oct 2024)",
+  "promise": "Constitutional ban on re-election of any popularly elected office, promised to take effect in 2027",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "The anti-re-election rule was published 1 Apr 2025, but its implementation was postponed from 2027 to 2030.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
+  ],
+  "archive_id": "promises-80720a335397c295055c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status",
+    "evidence"
+   ],
+   "note": "Official April 1 decree confirms anti-reelection provisions apply from 2030 elections. Original January 2023/2027 promise, exact offices and role at announcement remain unestablished; do not describe every elected office as newly covered.",
+   "sources": [
+    {
+     "name": "Diario Oficial de la Federacion",
+     "url": "https://sidof.segob.gob.mx/notas/docFuente/5753798"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Javier Milei",
+  "role": "President (from Dec 2023)",
+  "promise": "Defeat inflation ('kill inflation', the overriding goal of his first year)",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "partial",
+  "description": "Annual inflation fell from 211.4% (2023) and 254.2% (first month) to 117.8% (2024) and ~31.8% by Sept 2025, with monthly inflation at a five-year low of 1.5% (June 2025) — a huge reduction, though inflation was not eliminated.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Javier_Milei",
+   "https://en.wikipedia.org/wiki/Economy_of_Argentina"
+  ],
+  "archive_id": "promises-1029f9c24545ae526de7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "evidence"
+   ],
+   "note": "Search returned INDEC technical indexes, not the needed CPI tables or original pledge. Date/deadline conflict ('first year' versus 2027) unresolved. Need monthly-versus-annual series; claimed June 1.5% must not be certified from unrelated construction-price data.",
+   "sources": [
+    {
+     "name": "INDEC",
+     "url": "https://www.indec.gob.ar/indec/web/Institucional-Indec-InformesTecnicos-16"
+    },
+    {
+     "name": "INDEC",
+     "url": "https://www.indec.gob.ar/indec/web/Institucional-Indec-InformesTecnicos-56"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Emmanuel Macron",
+  "role": "President",
+  "promise": "Restore sound public finances / keep the deficit on a path toward the EU's 3% of GDP ceiling",
+  "date_promised": "2023-01-01",
+  "due_date": "2027-12-31",
+  "status": "broken",
+  "description": "The deficit was 5.8% of GDP in 2024 (up from 5.4% in 2023 and at risk of exceeding 6%), public debt reached 116.5% of GDP in 2025, and the 3% target is far out of reach.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Economy_of_France"
+  ],
+  "archive_id": "promises-effeb3615031c2585986",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "evidence"
+   ],
+   "note": "Current Reuters reporting describes a 2029 deficit target, not 2027. Need original dated promise and explicit postponement to adjudicate abandonment; forecasts cannot alone establish a future deadline missed. Exact debt/deficit vintage and definitions remain unverified.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.boursorama.com/bourse/actualites/la-france-fait-face-a-des-risques-budgetaires-croissants-avertit-le-fmi-2beb8479670002f28dc32f9943de580a"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/economy-news/economic-turbulence-and-rate-hikes-could-jeopardise-frances-deficit-efforts-fiscal-watchdog-warns-4628798"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, xAI",
+  "promise": "xAI announced plans to expand Colossus to at least one million GPUs.",
+  "date_promised": "2024-12-04",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "The December 2024 announcement concerned expansion to at least one million GPUs. The current Memphis project page describes a by-2026 goal; it does not support the record's 2027 deadline.",
+  "evidence": [
+   "Reuters attributes the expansion announcement to the Greater Memphis Chamber.",
+   "The primary Memphis page supplies a different target year.",
+   "Outcome not established as of 2026-09-21: a plan is not evidence of installed capacity."
+  ],
+  "sources": [
+   "Wikipedia: Colossus (supercomputer)",
+   "Financial Times (Dec 4, 2024)",
+   "Memphis Commercial Appeal (Dec 2024)"
+  ],
+  "archive_id": "promises-6f52de3e28164a219736",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "person",
+    "sources"
+   ],
+   "note": "Reuters supports the December 4 expansion announcement but not a 2027 deadline. The current primary Memphis page instead says by 2026, without establishing when that timetable was announced. Do not choose between these by invention; the newer target is relevant contrary evidence. The detailed interim GPU inventories are unverified.",
+   "sources": [
+    {
+     "name": "Reuters Colossus expansion",
+     "url": "https://www.investing.com/news/stock-market-news/musks-xai-plans-massive-expansion-of-ai-supercomputer-in-memphis-3755422"
+    },
+    {
+     "name": "xAI Memphis project page",
+     "url": "https://x.ai/memphis"
+    }
+   ]
+  }
+ },
+ {
   "person": "Jensen Huang",
   "role": "CEO, NVIDIA",
   "promise": "Huang forecast at least $1 trillion in Blackwell and Vera Rubin revenue cumulatively over 2025-2027.",
@@ -18,7 +176,48 @@
   "source_urls": [
    "https://blogs.nvidia.com/blog/gtc-2026-news/",
    "https://www.axios.com/2026/03/16/nvidia-ceo-jensen-huang-nvidia-gtc"
-  ]
+  ],
+  "archive_id": "promises-2b159babed0479a215b3"
+ },
+ {
+  "person": "European Union (REPowerEU)",
+  "role": "European Commission and member states",
+  "promise": "Make Europe independent from Russian fossil fuels, ending reliance on Russian gas by 2027",
+  "date_promised": "2022-05-18",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "The European Commission's REPowerEU plan, presented in May 2022 after Russia's invasion of Ukraine, set the goal of ending the EU's dependence on Russian fossil fuels, including a full phase-out of Russian gas, well before 2030 and by 2027 at the latest. The EU cut Russian gas imports by roughly 75% between 2021 and 2025, and in January 2026 adopted legislation banning Russian LNG imports from the start of 2027 and pipeline gas from autumn 2027.",
+  "evidence": [
+   "Russian gas imports cut by about 75% between 2021 and 2025",
+   "EU regulation banning Russian LNG from January 2027 and pipeline gas from autumn 2027 approved in January 2026",
+   "National phase-out plans were due to the Commission by 1 March 2026"
+  ],
+  "sources": [
+   "Kyiv Post",
+   "PubAffairs Bruxelles / Council of the EU",
+   "TASS (Greece plan reporting)"
+  ],
+  "archive_id": "promises-2a56df9de6c2988f926c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "description",
+    "sources"
+   ],
+   "note": "January 26, 2026 adoption and staged gas-import prohibitions supported. LNG and pipeline transition deadlines vary by contract and storage conditions. Exact original May 2022 promise and 75% reduction denominator were not established; pending remains appropriate for future deadline.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://energy.ec.europa.eu/strategy/repowereu-phase-out-russian-energy-imports_en"
+    },
+    {
+     "name": "Council of the European Union",
+     "url": "https://www.consilium.europa.eu/en/policies/ending-russian-energy-imports/"
+    }
+   ]
+  }
  },
  {
   "person": "FIFA (Gianni Infantino)",
@@ -38,7 +237,89 @@
   "source_urls": [
    "https://inside.fifa.com/womens-football/news/gianni-infantino-announces-significant-investment-increase-for-fifa-womens",
    "https://inside.fifa.com/organisation/fifa-council/media-releases/council-approves-record-breaking-world-cup-2026-financial-contribution?requester=MediaHub"
-  ]
+  ],
+  "archive_id": "promises-d4b9a973f86cabab390c"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Expect Optimus orders in three to five years and eventual mass production at a price below $20,000",
+  "date_promised": "2022-09-30",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "At Tesla's September 2022 AI Day, Musk predicted eventual large-scale Optimus production below $20,000 and expected orders in three to five years. The upper end of that forecast window had not elapsed at this audit.",
+  "evidence": [
+   "No Optimus consumer sales or price announced as of mid-2026",
+   "Optimus still demonstrated only in factory-trial footage"
+  ],
+  "sources": [
+   "BBC News",
+   "ZDNet",
+   "Business Insider"
+  ],
+  "source_urls": [
+   "https://www.bbc.com/news/technology-63100636",
+   "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/",
+   "https://www2.businessinsider.com/elon-musk-tesla-robot-optimus-cost-less-than-car-2022-9"
+  ],
+  "archive_id": "promises-3e9f4c6bc8a4eae06f0d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "Five-year window had not expired by September 2026, so absence of consumer sales does not justify broken. Source says orders in three-to-five years, not a firm delivery guarantee. Event was US evening; UTC announcement day and exact deadline need event-time confirmation, not automatic December 31.",
+   "sources": [
+    {
+     "name": "Reuters: Optimus prototype and forecast",
+     "url": "https://www.investing.com/news/stock-market-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-2902854"
+    },
+    {
+     "name": "Shacknews: public availability window",
+     "url": "https://www.shacknews.com/article/132509/tesla-optimus-robot-3-5-years-buy"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Lawrence Wong",
+  "role": "Prime Minister of Singapore",
+  "promise": "Open selected sectors and occupations to workers from Timor-Leste from 2027",
+  "date_promised": "2026-07-03",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "During his visit to Dili, PM Wong announced that Singapore would open selected sectors and occupations to workers from Timor-Leste from 2027. From the second half of 2027, Timor-Leste will be an approved non-traditional source country for Work Permit holders, with construction and marine shipyard among the sectors opened.",
+  "evidence": [
+   "Announced July 2-3, 2026 in Dili alongside PM Xanana Gusmão",
+   "Timor-Leste to become approved non-traditional source country from H2 2027"
+  ],
+  "sources": [
+   "Channel News Asia",
+   "The Star",
+   "The Straits Times"
+  ],
+  "source_urls": [
+   "https://www.channelnewsasia.com/singapore/lawrence-wong-timor-leste-workers-singapore-6229181",
+   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/03/singapore-firms-can-hire-timorese-work-permit-holders-from-mid-2027-in-sectors-like-construction",
+   "https://www.magzter.com/tr/stories/newspaper/The-Straits-Times/SINGAPORE-TIMORLESTE-AGREE-TO-STRENGTHEN-THEIR-ECONOMIC-TIES-840021"
+  ],
+  "archive_id": "promises-970c0db789e496d32c26",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "CNA page opened but subsequent text retrieval failed; ministry search returned unrelated Work Permit service migrations, not this source-country decision. Exact announcement day, H2 effective window and sector list remain insufficiently checked. Do not use unrelated 2027 e-service rollout as corroboration.",
+   "sources": [
+    {
+     "name": "CNA: Timor-Leste labour access",
+     "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-timor-leste-workers-singapore-6229181"
+    }
+   ]
+  }
  },
  {
   "person": "NATO Allies (Ankara Summit)",
@@ -58,7 +339,8 @@
   "source_urls": [
    "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/the-ankara-summit-declaration",
    "https://www.nato.int/en/news-and-events/articles/news/2026/07/08/secretary-general-on-the-ankara-summit-nato-delivers"
-  ]
+  ],
+  "archive_id": "promises-8d63851e43f91083d41c"
  },
  {
   "person": "Jensen Huang",
@@ -76,7 +358,8 @@
   ],
   "source_urls": [
    "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-says-company-has-one-trillion-dollars-in-orders-through-2027/"
-  ]
+  ],
+  "archive_id": "promises-8b434f997fcfb6934f01"
  },
  {
   "person": "Elon Musk",
@@ -96,7 +379,50 @@
   "source_urls": [
    "https://www.weforum.org/podcasts/meet-the-leader/episodes/conversation-with-elon-musk-davos-2026/",
    "https://www.bloomberg.com/news/articles/2026-01-22/tesla-aims-to-sell-optimus-robots-to-public-next-year-musk-says"
-  ]
+  ],
+  "archive_id": "promises-7e500f653ee91ba2fdad"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX and Tesla",
+  "promise": "\"The Terafab is bringing cutting-edge manufacturing to America, creating thousands of high-paying jobs in the Lone Star State, and enabling us to produce AI chips at scale for use on Earth and in space.\"",
+  "date_promised": "2026-08-06",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "SpaceX and Tesla announced an initial $16.8 billion Terafab investment in Grimes County on August 6, 2026. The announced manufacturing-space figure above 100 million square feet concerns planned full buildout, not existing facilities.",
+  "evidence": [
+   "SpaceX and Tesla confirmed the $16.8 billion phase-1 commitment on August 6, 2026",
+   "Local reporting says production at the Grimes County plant is expected to begin in 2027"
+  ],
+  "sources": [
+   "Reuters",
+   "Evertiq",
+   "WTAW"
+  ],
+  "source_urls": [
+   "https://www.thestar.com.my/tech/tech-news/2026/08/06/spacex-tesla-to-initially-spend-168-billion-on-terafab-chip-plant-in-texas",
+   "https://evertiq.com/news/2026-08-07-spacex-tesla-to-initially-spend-168-billion-on-texas-chip-plant",
+   "https://wtaw.com/its-official-the-spacex-terafab-facility-in-grimes-county-is-go-for-launch/"
+  ],
+  "archive_id": "promises-27212568c251bb856bc4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date"
+   ],
+   "note": "Initial investment and full-buildout floor-space plan are supported; do not imply all area exists in phase one. Exact quote, 3,000 jobs and 2027 production start were not established in retrieved sources. A large project announcement is not completion evidence.",
+   "sources": [
+    {
+     "name": "Data Center Dynamics: Terafab plan",
+     "url": "https://www.datacenterdynamics.com/en/news/spacex-to-invest-168bn-in-texas-terafab-as-elon-musk-says-100m-sq-ft-fab-will-be-50-times-the-size-of-the-pentagon/"
+    },
+    {
+     "name": "Electrek: August 6 site confirmation",
+     "url": "https://electrek.co/2026/08/06/tesla-spacex-terafab-grimes-county-16-8-billion/"
+    }
+   ]
+  }
  },
  {
   "person": "European Union",
@@ -114,7 +440,8 @@
   ],
   "source_urls": [
    "https://www.consilium.europa.eu/en/press/press-releases/2025/12/19/european-council-18-december-2025-ukraine/"
-  ]
+  ],
+  "archive_id": "promises-1819450b89969c42d9a9"
  },
  {
   "person": "European Commission",
@@ -134,7 +461,89 @@
   "source_urls": [
    "https://agenceurope.eu/en/bulletin/article/13871/32/european-commission-allocates-nearly-eur74-million-over-two-years-to-coalition-for-epidemic-preparedness-innovations",
    "https://ieu-monitoring.com/editorial/eu-commission-commits-close-to-e74m-to-coalition-for-epidemic-preparedness-innovations/1237057"
-  ]
+  ],
+  "archive_id": "promises-97754d18ffd3d2fbdc34"
+ },
+ {
+  "person": "Nvidia (Jensen Huang, CEO)",
+  "role": "Nvidia / OpenAI Ohio data center financing",
+  "promise": "Provide a financial guarantee for OpenAI's Ohio data center project, planned at up to $250 billion and scaled back to under $120 billion covering only the first phase",
+  "date_promised": "2026-08-14",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Reuters reported a contemplated Ohio data-centre guarantee on August 14. NVIDIA's subsequent quarterly filing confirmed August credit-support guarantees with SB Energy covering approximately 4.25 GW of IT load.",
+  "evidence": [
+   "The filing establishes entered guarantees, but not the original asserted announcement date, larger contractual obligation or 2027 deadline."
+  ],
+  "sources": [
+   "The Economic Times (Reuters)",
+   "edgen.tech"
+  ],
+  "source_urls": [
+   "https://m.economictimes.com/tech/technology/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-centre-wsj/amp_articleshow/133253982.cms",
+   "https://www.edgen.tech/zh/news/post/nvidia-trims-openai-guarantee-to-120-billion-as-ai-financing-shifts"
+  ],
+  "archive_id": "promises-20e320288b8c06d59a0f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date"
+   ],
+   "note": "August 14 was reporting about negotiations, not a dated public USD 250 billion promise. The later filing confirms August guarantees for about 4.25 GW with SB Energy. No 2027 completion deadline is supported; a smaller discussed guarantee is not proof of partial fulfillment of a binding larger promise.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638?ampMode=1"
+    },
+    {
+     "name": "NVIDIA",
+     "url": "https://investor.nvidia.com/files/doc_financials/2027/NVDA-2027-Q2-10Q-Final-including-exhibits.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Nvidia (Jensen Huang, CEO)",
+  "role": "Nvidia / AI startup Poolside",
+  "promise": "Strike a $7 billion licensing and investment deal with AI startup Poolside",
+  "date_promised": "2026-08-22",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Reporting described a Poolside technology-licensing and investment arrangement, rather than an acquisition. The claimed antitrust motivation and competitive dominance are not established contractual commitments.",
+  "evidence": [
+   "Reported around August 22-24, 2026; $7 billion licensing and investment deal",
+   "Deal described as sidestepping acquisition scrutiny; targets DeepSeek/OpenAI"
+  ],
+  "sources": [
+   "Yahoo Finance",
+   "Open Source For You"
+  ],
+  "source_urls": [
+   "https://finance.yahoo.com/technology/ai/articles/nvidia-7-billion-poolside-deal-224313075.html",
+   "https://www.opensourceforu.com/2026/08/nvidia-signs-deal-with-poolside/"
+  ],
+  "archive_id": "promises-3bf95189aa4d38ebb861",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise"
+   ],
+   "note": "Reporting distinguishes a USD 6 billion licence from a USD 1 billion equity investment. The exact August 22 agreement date and a contractual completion deadline were not established; investor distribution by end-2027 is not the same as NVIDIA's deadline to strike the deal. Yahoo full text returned 429; do not treat report timestamps as signing dates.",
+   "sources": [
+    {
+     "name": "Bloomberg via Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-pay-poolside-6-billion-181448803.html"
+    },
+    {
+     "name": "TechTimes",
+     "url": "https://www.techtimes.com/articles/325441/20260825/nvidias-third-structured-non-acquisition-nine-months-27-billion-sidestep-merger-review.htm"
+    }
+   ]
+  }
  },
  {
   "person": "European Commission (EU-Greenland partnership)",
@@ -152,7 +561,8 @@
   ],
   "source_urls": [
    "https://digital-strategy.ec.europa.eu/en/news/eu-and-greenland-strengthen-partnership-and-engagement-backed-eu200-million-eu-investment"
-  ]
+  ],
+  "archive_id": "promises-0e4ef2aed8a415f5e4bc"
  },
  {
   "person": "Recep Tayyip Erdogan",
@@ -172,7 +582,48 @@
   "source_urls": [
    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yarisi-bizden-projemizin-suresini-31-aralik-2027-tarihine-kadar-uzatiyoruz/4049743",
    "https://www.trthaber.com/haber/ekonomi/yarisi-bizden-projesinde-sure-uzatildi-956153.html"
-  ]
+  ],
+  "archive_id": "promises-a20e15285fbe1c40d5da"
+ },
+ {
+  "person": "Volodymyr Zelenskyy",
+  "role": "President of Ukraine",
+  "promise": "Develop the joint Freyja anti-ballistic missile programme with partner governments and companies",
+  "date_promised": "2026-09-07",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Zelenskyy said on September 7 that meetings with partners involved in the joint Freyja programme would take place soon. Ukraine's security council reported an Oslo meeting on implementation on September 9.",
+  "evidence": [
+   "The sources document meetings and development cooperation without a completed-system delivery deadline."
+  ],
+  "sources": [
+   "Ukrinform",
+   "RBC Ukraine",
+   "Charter97"
+  ],
+  "source_urls": [
+   "https://www.ukrinform.net/rubric-defense/4161774-zelensky-freyja-antiballistic-program-to-be-discussed-at-staff-meeting.html",
+   "https://newsukraine.rbc.ua/news/zelenskyy-unveils-new-steps-for-ukraine-s-1788803903.html",
+   "https://charter97.link/en/news/2026/9/7/697630/"
+  ],
+  "archive_id": "promises-41b0b9de0776fc4ec408",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "September 7 statement concerns forthcoming partner meetings, not completion by December 2027. A September 9 Oslo meeting shows activity, not a deployed anti-ballistic capability. No development deadline was established.",
+   "sources": [
+    {
+     "name": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1200118-amp.html"
+    },
+    {
+     "name": "Ukraine National Security and Defence Council",
+     "url": "https://www.rnbo.gov.ua/ua/Diialnist/7784.html"
+    }
+   ]
+  }
  },
  {
   "person": "John Dramani Mahama",
@@ -190,7 +641,8 @@
   "source_urls": [
    "https://presidency.gov.gh/han-shs-to-get-boarding-status-as-president-mahama-inspects-getfund-projects-in-upper-west/",
    "https://gna.org.gh/2026/09/president-mahama-reiterates-governments-commitment-to-end-double-track-shs-system/"
-  ]
+  ],
+  "archive_id": "promises-662f9c87820b90e13d19"
  },
  {
   "person": "John Dramani Mahama",
@@ -206,7 +658,8 @@
   ],
   "source_urls": [
    "https://ubids.edu.gh/news/resetting-ghana-tour-president-mahama-pledges-complete-ongoing-projects"
-  ]
+  ],
+  "archive_id": "promises-8ad5faed6646059cb746"
  },
  {
   "person": "Ontario Teachers' Pension Plan",
@@ -224,6 +677,7 @@
   "source_urls": [
    "https://otpp.com/en-ca/about-us/news-and-insights/2026/ontario-teachers-sets-objective-to-invest-an-additional-10-billion-in-canada-by-the-end-of-2027/",
    "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
-  ]
+  ],
+  "archive_id": "promises-83db28a52338a618902d"
  }
 ]

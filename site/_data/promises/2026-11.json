@@ -1,0 +1,84 @@
+[
+ {
+  "person": "Cyril Ramaphosa",
+  "role": "President of South Africa",
+  "promise": "Increase South Africa's contribution pledge for the continental Ebola response to $13.5 million",
+  "date_promised": "2026-06-16",
+  "due_date": "2026-11-30",
+  "status": "pending",
+  "description": "Ramaphosa announced the increased pledge on June 16, 2026. He separately urged donors to convert pledges into cash, countermeasures or technical support; the pledge itself does not prove disbursement.",
+  "evidence": [
+   "Pledge increased to $13.5 million announced June 16, 2026",
+   "Funding forms part of the African Union Ebola plan running June-November 2026"
+  ],
+  "sources": [
+   "SAnews",
+   "Xinhua",
+   "Africa News"
+  ],
+  "source_urls": [
+   "https://www.sanews.gov.za/index.ph%70/south-africa/sa-increases-pledge-response-ebola-outbreak",
+   "https://english.news.cn/africa/20260617/7c6446739d304ba7af9aaabb6e393a79/c.html",
+   "https://apanews.net/south-africa-pledges-5m-for-continental-ebola-plan/"
+  ],
+  "archive_id": "promises-2036d37c57adf3069563",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Primary speech confirms $13.5m pledge and date, but does not bind payment to November 30. Continental response-plan duration is not automatically South Africa's payment deadline. No actual transfer receipt found.",
+   "sources": [
+    {
+     "name": "South African Government: June 16 speech",
+     "url": "https://www.gov.za/news/speeches/president-cyril-ramaphosa-bundibugyo-ebola-outbreak-16-jun-2026"
+    },
+    {
+     "name": "South African Presidency: June 22 update",
+     "url": "https://presidency.gov.za/node/10165"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Abelardo de la Espriella",
+  "role": "President of Colombia",
+  "promise": "Pursue a security crackdown on armed criminal groups rather than continue the prior peace-talks approach",
+  "date_promised": "2026-08-07",
+  "due_date": "2026-11-14",
+  "status": "pending",
+  "description": "De la Espriella outlined the policy in his August 7, 2026 inaugural address. The presidency announced termination of three dialogue processes on August 30; this is a policy action, not proof of eradicated crime.",
+  "evidence": [
+   "Inaugural address pledges crackdown on armed groups and drug cartels",
+   "First-100-days focus on security expected, running to mid-November 2026"
+  ],
+  "sources": [
+   "Reuters",
+   "Daily News Egypt",
+   "Leadership"
+  ],
+  "source_urls": [
+   "https://www.investing.com/news/commodities-news/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown-4845932",
+   "https://www.dailynewsegypt.com/2026/08/08/colombia-shifts-right-as-de-la-espriella-assumes-presidency-with-hardline-security-and-economic-pledges/",
+   "https://leadership.ng/colombias-new-president-vows-crackdown-on-armed-groups-drug-cartels/"
+  ],
+  "archive_id": "promises-3c12f94958598cb6e151",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Inaugural hardline policy is supported; later government statement documents ending three dialogue processes. Analysts' first-100-days expectations cannot supply a presidential deadline or prove security outcomes.",
+   "sources": [
+    {
+     "name": "Reuters: inaugural address",
+     "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/07/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown"
+    },
+    {
+     "name": "Colombia Presidency: talks ended",
+     "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-del-Presidente-De-La-Espriella-pone-fin-a-tres-procesos-de-falso-260830.aspx"
+    }
+   ]
+  }
+ }
+]

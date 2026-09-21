@@ -1,0 +1,41 @@
+[
+ {
+  "person": "Roger Goodell",
+  "role": "NFL Commissioner",
+  "promise": "I think that will happen and I believe it will happen in the next five to ten years (London franchise, as reported).",
+  "date_promised": "2017-10-02",
+  "due_date": "2022-10-31",
+  "status": "broken",
+  "description": "Goodell repeatedly called an NFL franchise in London 'inevitable' with a five-to-ten-year window from 2017. By the midpoint (2022) and through 2026, no London franchise has been awarded; the league has held International Series games but expansion remains undecided.",
+  "evidence": [
+   "Goodell's 2017 comments at NFL owners meetings called London franchise inevitable",
+   "No expansion franchise awarded as of mid-2026; London team still 'under consideration'"
+  ],
+  "sources": [
+   "NFL.com / AP, 2017-10",
+   "ESPN, 2022-2026"
+  ],
+  "archive_id": "promises-c6e4f158aed308f95645",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "NFL source contains a conditional five-to-ten-year prediction, but 2017 date/exact wording not established. Even from 2017, upper endpoint is 2027, not October 2022; evaluating the midpoint as final deadline is invalid. Need original timestamp and current franchise evidence.",
+   "sources": [
+    {
+     "name": "NFL",
+     "url": "https://www.nfl.com/news/goodell-london-team-could-be-five-or-10-years-away-0ap2000000366012"
+    },
+    {
+     "name": "NFL",
+     "url": "https://www.nfl.com/news/goodell-super-bowl-not-in-london-s-immediate-future-0ap3000000978757"
+    }
+   ]
+  }
+ }
+]

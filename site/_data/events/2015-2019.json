@@ -1,5 +1,37 @@
 [
  {
+  "date": "2015-01-03",
+  "title": "Baga massacre by Boko Haram",
+  "category": "war",
+  "location": "Baga, Nigeria",
+  "lives_lost": 2000,
+  "description": "Boko Haram attacked Baga and Doron Baga in early January 2015, beginning on January 3. Satellite imagery showed widespread destruction, and witnesses described mass killings. Reported tolls ranged from an official figure around 150, including fighters, to local estimates as high as 2,000; the final number remains uncertain.",
+  "sources": [
+   "Amnesty International",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-286bbd37ad137c3ac08b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "2,000 was an upper estimate from local accounts, not a confirmed Amnesty body count; government put deaths including fighters at about 150. Satellite destruction cannot by itself resolve deaths. January 3 is campaign start, not a single-day total.",
+   "sources": [
+    {
+     "name": "Amnesty International, satellite and witness evidence",
+     "url": "https://www.amnesty.org/en/latest/news/2015/01/nigeria-satellite-images-show-horrific-scale-boko-haram-attack-baga/"
+    },
+    {
+     "name": "TIME, competing estimates",
+     "url": "https://time.com/3718493/boko-haram-nigeria-8-year-old-suicide-bomber/"
+    }
+   ]
+  }
+ },
+ {
   "date": "2015-01-07",
   "title": "Charlie Hebdo shooting",
   "category": "terrorism",
@@ -13,7 +45,8 @@
   "source_urls": [
    "https://www.ina.fr/ina-eclaire-actu/attentats-terrorisme-charlie-hebdo-paris-montrouge-hyper-cacher-kouachi-coulibaly",
    "https://cpj.org/2015/01/gunmen-attack-paris-offices-of-charlie-hebdo-kill/"
-  ]
+  ],
+  "archive_id": "events-fa4936ed2a71351b4f5e"
  },
  {
   "date": "2019-01-15",
@@ -29,7 +62,8 @@
   "source_urls": [
    "https://2017-2021.state.gov/dss-trained-police-help-neutralize-terrorists-rescue-scores-of-civilians-in-nairobi-hotel-attack/",
    "https://apnews.com/article/003f360793eaf8217b93fa1e8cd54d6a"
-  ]
+  ],
+  "archive_id": "events-180b95b92f604ca451b3"
  },
  {
   "date": "2019-01-25",
@@ -47,7 +81,8 @@
    "https://www.bombeiros.mg.gov.br/cbmmg-retoma-operacao-brumadinho",
    "https://novo.brumadinho.mg.gov.br/portal/pagina/perguntas-e-respostas",
    "https://www.agenciaminas.mg.gov.br/noticia/policia-civil-identifica-267-vitima-de-rompimento-de-barragem-em-brumadinho"
-  ]
+  ],
+  "archive_id": "events-d633f9d9b0bcc2c7562c"
  },
  {
   "date": "2018-01-27",
@@ -63,7 +98,8 @@
   "source_urls": [
    "https://www.euronews.com/2018/01/28/afghanistan-mourns-kabul-ambulance-bomb",
    "https://www.xinhuanet.com/english/2018-01/28/c_136931439.htm"
-  ]
+  ],
+  "archive_id": "events-fda25acb6fe56caf3d2a"
  },
  {
   "date": "2016-02-05",
@@ -79,7 +115,8 @@
   "source_urls": [
    "https://scweb.cwa.gov.tw/zh-tw/liquefaction/details/190132",
    "https://www.ncree.narl.org.tw/assets/file/105E4.pdf"
-  ]
+  ],
+  "archive_id": "events-b5662179946276f44e31"
  },
  {
   "date": "2018-02-14",
@@ -95,7 +132,8 @@
   "source_urls": [
    "https://www.fbi.gov/file-repository/reports-and-publications/active-shooter-incidents-2000-2018.pdf",
    "https://www.history.com/this-day-in-history/February-14/parkland-marjory-stoneman-douglas-school-shooting"
-  ]
+  ],
+  "archive_id": "events-cd1899572717e671d007"
  },
  {
   "date": "2019-02-14",
@@ -113,7 +151,45 @@
    "https://apnews.com/article/362d8277423638bf12d76adc70471abf",
    "https://www.everycrsreport.com/reports/IN11057.html",
    "https://time.com/5541090/india-pakistan-2019-tensions-timeline/"
-  ]
+  ],
+  "archive_id": "events-6197eac85fde3684d42d"
+ },
+ {
+  "date": "2017-02-20",
+  "title": "South Sudan famine declared",
+  "category": "food-crisis",
+  "location": "Unity State, South Sudan",
+  "lives_lost": 20000,
+  "description": "Famine was declared in South Sudan's Leer and Mayendit counties on February 20, 2017. UN agencies reported about 100,000 people facing starvation and one million more on the brink of famine. Famine conditions eased by June following increased assistance, while severe food insecurity persisted.",
+  "sources": [
+   "UN OCHA",
+   "UNICEF",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-8c7f9bf56dc401d8061d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "February 20 is the supported declaration date, not famine onset. UN sources substantiate Leer/Mayendit, roughly 100,000 facing starvation, 4.9 million severely food insecure and one million near famine; June 21 reports famine easing but worsening nationwide hunger. They do not establish an event-specific 20,000 excess-death estimate. Famine classification mortality thresholds cannot be converted into that annual toll.",
+   "sources": [
+    {
+     "name": "United Nations",
+     "url": "https://www.un.org/en/node/83998"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/press-releases/south-sudan-famine-ebbs-situation-still-desperate-hunger-spreads"
+    },
+    {
+     "name": "UN Secretary-General report on South Sudan",
+     "url": "https://digitallibrary.un.org/record/862278/files/S_2017_224-EN.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2016-02-25",
@@ -129,7 +205,8 @@
   "source_urls": [
    "https://interfax.com/newsroom/top-stories/33119/",
    "https://www.latimes.com/world/europe/la-fg-russia-mine-36-20160228-story.html"
-  ]
+  ],
+  "archive_id": "events-b64b04db39129370ae72"
  },
  {
   "date": "2019-03-10",
@@ -147,7 +224,46 @@
    "https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-boeing-737-registered-et-avj-and-operated-by-ethiopian-airlines-on-10-03-2019-near-bishoftu-investigation-led-by-eaib-ethiopia/",
    "https://time.com/5548889/ethiopia-airlines-crash-what-to-know/",
    "https://apnews.com/article/f3c013729214e6d48d6aa428f56a9cce"
-  ]
+  ],
+  "archive_id": "events-192a9e6ca67fba4da7fd"
+ },
+ {
+  "date": "2019-03-14",
+  "title": "Cyclone Idai",
+  "category": "natural-disaster",
+  "location": "Beira, Mozambique",
+  "lives_lost": 1593,
+  "description": "Cyclone Idai made landfall near the port city of Beira in central Mozambique on the night of 14-15 March 2019, bringing torrential rains and winds of up to 175 km/h that caused the Buzi and Pungwe rivers to burst their banks. More than 1,500 people died across Mozambique, Zimbabwe, Malawi and Madagascar, with the toll later confirmed at 1,593, and more than 2,000 people were reported missing. Hundreds of thousands were left stranded in floodwater, and the United Nations called it one of the worst weather-related disasters to hit the Southern Hemisphere.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "UN OCHA"
+  ],
+  "archive_id": "events-0dc6d5d1053126c75daa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Landfall near Beira March 14-15 established. Claimed confirmed 1,593 and 2,000 missing not established. WHO gives 603 for Mozambique; an EM-DAT-based study gives 1,234 storm deaths. Need consistent multinational period and missing-versus-dead accounting before replacement.",
+   "sources": [
+    {
+     "name": "WMO",
+     "url": "https://wmo.int/media/news/tropical-cyclone-idai-hits-mozambique"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.afro.who.int/sites/default/files/2019-08/National%20SitRep%207_MOZ_1%20%20to%2014%20Jul%202019_ENG.pdf"
+    },
+    {
+     "name": "International Journal of Disaster Risk Science",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9118061/"
+    }
+   ]
+  }
  },
  {
   "date": "2019-03-15",
@@ -165,7 +281,45 @@
    "https://christchurchattack.royalcommission.nz/publications/what-we-heard-from-the-whanau-of-the-51-shuhada-survivors-and-witnesses-of-the-christchurch-terrorist-attack/context",
    "https://apnews.com/article/f370885a43616f652410fe6d94768ef2",
    "https://www.axios.com/2020/03/25/christchurch-mosque-attack-shooter-pleads-guilty"
-  ]
+  ],
+  "archive_id": "events-7dbe87503359f5502aa8"
+ },
+ {
+  "date": "2017-03-20",
+  "title": "Peru floods and mudslides",
+  "category": "natural-disaster",
+  "location": "Lima and northern coastal Peru",
+  "lives_lost": 162,
+  "description": "Coastal El Nino conditions caused severe floods and mudslides in Peru during 2016-2017. Peru's meteorological agency reports 162 deaths and nearly 1.5 million people affected. The disaster spanned several months rather than beginning on March 20.",
+  "sources": [
+   "Peruvian government / INDECI",
+   "Reuters",
+   "BBC News",
+   "EM-DAT"
+  ],
+  "archive_id": "events-fe751958c8cb24ecfb8a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "SENAMHI supports 162 deaths and nearly 1.5 million affected for the coastal El Nino disaster, formally December 2016-May 2017. March 20 is a publication date for a much earlier 75-death report, not the event onset. RPP attributes 162 to an August INDECI report. The claimed EM-DAT 177 and homeless scope were not independently established. Date remains unresolved even after replacing the prose.",
+   "sources": [
+    {
+     "name": "Peru SENAMHI",
+     "url": "https://idesep.senamhi.gob.pe/portalidesep/idesep_tema_evento_el_nino_la_nina_nino_2017.jsp"
+    },
+    {
+     "name": "RPP, INDECI August report",
+     "url": "https://rpp.pe/politica/gobierno/estas-son-las-cifras-oficiales-que-dejo-la-emergencia-por-el-nino-costero-a-nivel-nacional-noticia-1085350"
+    },
+    {
+     "name": "Xinhua, March 19 preliminary report",
+     "url": "https://spanish.xinhuanet.com/2017-03/20/c_136141350.htm"
+    }
+   ]
+  }
  },
  {
   "date": "2016-03-22",
@@ -181,7 +335,8 @@
   "source_urls": [
    "https://www.belganewsagency.eu/brussels-attacks-trial-six-perpetrators-guilty-across-the-board-two-defendants-fully-acquitted",
    "https://www.eurojust.europa.eu/sites/default/files/2018-06/2016-03_Brussels-terrorist-attack.pdf"
-  ]
+  ],
+  "archive_id": "events-62b9d1671ce1da21bd0c"
  },
  {
   "date": "2019-03-23",
@@ -197,7 +352,8 @@
   "source_urls": [
    "https://peacekeeping.un.org/fr/news/point-de-presse-de-la-minusma-du-02-mai-2019",
    "https://www.un.org/sg/en/content/sg/statements/2019-03-23/statement-attributable-the-spokesman-for-the-secretary-general-mali-scroll-down-for-french-version"
-  ]
+  ],
+  "archive_id": "events-832d88f7a6b4f2d89120"
  },
  {
   "date": "2018-03-25",
@@ -215,7 +371,44 @@
    "https://www.themoscowtimes.com/2018/03/26/kemerovo-shopping-mall-fire-what-we-know-so-far-a60939",
    "https://en.wikipedia.org/wiki/2018_Kemerovo_fire",
    "https://www.euronews.com/2021/10/29/eight-people-jailed-in-russia-over-deadly-2018-kemerovo-leisure-centre-fire"
-  ]
+  ],
+  "archive_id": "events-e119e0428e3051a00206"
+ },
+ {
+  "date": "2016-03-27",
+  "title": "Lahore Easter park bombing",
+  "category": "terrorism",
+  "location": "Lahore, Pakistan",
+  "lives_lost": 75,
+  "description": "A suicide bombing struck Lahore's Gulshan-e-Iqbal Park on Easter Sunday, March 27, 2016. Jamaat-ul-Ahrar claimed responsibility and said it targeted Christians. Published death totals differ, including reports of victims dying later from injuries.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-bf9c3e1f5f0b532a8e6e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Date, location and attack identity are supported. PIPS's annual report gives at least 74 deaths including 29 children and over 233 injuries. SATP's incident prose says 74, its table 75, and its April 21 entry reports a later victim raising the toll to 78. These inconsistencies do not establish a final 75 or a final child/injury breakdown. Christian targeting was the attackers' stated intent, not evidence that every victim was Christian.",
+   "sources": [
+    {
+     "name": "Pakistan Institute for Peace Studies",
+     "url": "https://pakpips.com/web/wp-content/uploads/2017/11/sr2016.pdf"
+    },
+    {
+     "name": "South Asia Terrorism Portal",
+     "url": "https://www.satp.org/satporgtp/countries/pakistan/punjab/datasheet/lahore_incident2016.htm"
+    },
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/1073825/blast-in-lahore-leaves-several-injured?amp=1"
+    }
+   ]
+  }
  },
  {
   "date": "2017-04-01",
@@ -233,7 +426,8 @@
    "https://portal.gestiondelriesgo.gov.co/mocoa",
    "https://www.mocoa-putumayo.gov.co/GestionDelRiesgo/Documents/Informes/DiagnosticoRiesgos_Mocoa2023.pdf",
    "https://sidn.ramajudicial.gov.co/SIDN/NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202017/DECRETO%20729%20DE%202017%20%28DEFINE%20LAS%20CONDICIONES%20PARA%20EL%20ACCESO%20DEL%20PROGRAMA%20DE%20VIVIENDA%20MI%20CASA%20YA%29.PDF"
-  ]
+  ],
+  "archive_id": "events-976752b03744c3699c78"
  },
  {
   "date": "2015-04-02",
@@ -251,7 +445,78 @@
    "https://www.voaafrique.com/amp/le-carnage-de-garissa-a-fait-148-morts/2705807.html",
    "https://www.hrw.org/news/2015/04/03/kenya-least-147-dead-heinous-garissa-attack",
    "https://libraryir.parliament.go.ke/bitstreams/aaa0d56e-2d8b-4043-adef-4070c0ebc659/download"
-  ]
+  ],
+  "archive_id": "events-ce71ebd94b72532c531e"
+ },
+ {
+  "date": "2017-04-04",
+  "title": "Khan Sheikhoun chemical attack",
+  "category": "war",
+  "location": "Khan Sheikhoun, Syria",
+  "lives_lost": 89,
+  "description": "Sarin was used as a chemical weapon at Khan Shaykhun, Syria, on April 4, 2017. The OPCW-UN Joint Investigative Mechanism attributed responsibility to the Syrian Arab Republic. The OPCW fact-finding team identified approximately 100 fatalities but could not establish an exact total.",
+  "sources": [
+   "OPCW-UN Joint Investigative Mechanism",
+   "UN Commission of Inquiry",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-2754878091aae293f34d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "OPCW confirms sarin use on April 4, and the JIM attributes responsibility to the Syrian Arab Republic. Do not confuse the FFM's chemical identification remit with JIM's attribution remit. FFM paragraphs 5.80 and 6.13 describe approximately 100 fatalities after potential duplicates among 107 reported names, explicitly unable to determine exact numbers; this does not verify 89 or over 500 distinct injured. The exact toll remains unresolved, independently of the supported attack attribution.",
+   "sources": [
+    {
+     "name": "OPCW Fact-Finding Mission report S/1510/2017",
+     "url": "https://www.opcw.org/documents/2017/06/s15102017/report-opcw-fact-finding-mission-syria-regarding-alleged-incident-khan"
+    },
+    {
+     "name": "OPCW-UN Joint Investigative Mechanism report S/2017/904",
+     "url": "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2017_904.pdf"
+    },
+    {
+     "name": "US Department of State, JIM report summary",
+     "url": "https://2017-2021.state.gov/joint-investigative-mechanism-report-on-khan-shaykhun-and-um-housh/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-04-04",
+  "title": "Battle for Tripoli (Western Libya offensive)",
+  "category": "war",
+  "location": "Tripoli, Libya",
+  "lives_lost": 1000,
+  "description": "On 4 April 2019, forces of the Libyan National Army under Khalifa Haftar launched an offensive to capture Tripoli from the UN-backed Government of National Accord, setting off nearly 14 months of fighting in the capital's southern suburbs. By the end of 2019 the United Nations reported that more than 1,000 people had been killed and about 146,000 displaced, with civilian infrastructure including hospitals and residential areas hit by airstrikes and shelling. The campaign continued into 2020, when a ceasefire and UN-brokered political talks brought a halt to the offensive.",
+  "sources": [
+   "UN News",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-efa2129c190ec69ee48a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "1,000 is an interim toll. The offensive ended through military withdrawal in June, before the later ceasefire; final death count remains unresolved.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/news/2020/2/19/timeline-haftars-months-long-offensive-to-seize-tripoli"
+    },
+    {
+     "name": "ICMP",
+     "url": "https://icmp.int/wp-content/uploads/2021/04/LibyaReportEnglish-1.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2018-04-07",
@@ -267,7 +532,8 @@
   "source_urls": [
    "https://www.opcw.org/media-centre/news/2023/01/opcw-releases-third-report-investigation-and-identification-team",
    "https://apnews.com/article/3b283b4dd01f1765027aa567e53c24be"
-  ]
+  ],
+  "archive_id": "events-2b643f879c06a37368fe"
  },
  {
   "date": "2017-04-09",
@@ -285,7 +551,8 @@
    "https://english.ahram.org.eg/NewsContent/1/64/265169/Egypt/Politics-/Death-toll-from-Egypts-Palm-Sunday-church-bombings.aspx",
    "https://www.cbsnews.com/news/church-bombing-tanta-egypt-palm-sunday/",
    "https://time.com/4732357/isis-coptic-christians-palm-sunday-egypt-bomb/"
-  ]
+  ],
+  "archive_id": "events-598daa569313101d8271"
  },
  {
   "date": "2016-04-14",
@@ -301,7 +568,8 @@
   "source_urls": [
    "https://www.pref.kumamoto.jp/site/h28kumamoto-earthquake/",
    "https://www.bousai.go.jp/kaigirep/hakusho/h29/honbun/3b_6s_15_00.html"
-  ]
+  ],
+  "archive_id": "events-4cb326ae5e552aa53b40"
  },
  {
   "date": "2016-04-16",
@@ -319,7 +587,177 @@
    "https://www.usgs.gov/news/featured-story/magnitude-78-earthquake-ecuador",
    "https://planificacion.presidencia.gob.ec/wp-content/uploads/downloads/2023/09/AGENDA-Z4.pdf",
    "https://planificacion.presidencia.gob.ec/wp-content/uploads/downloads/2017/04/Informe-a-la-Nacion.pdf"
-  ]
+  ],
+  "archive_id": "events-5891f144d2b2cc787e4c"
+ },
+ {
+  "date": "2019-04-21",
+  "title": "Sri Lanka Easter bombings",
+  "category": "terrorism",
+  "location": "Colombo, Sri Lanka",
+  "lives_lost": 269,
+  "description": "On Easter Sunday, 21 April 2019, a series of coordinated suicide bombings struck three churches and three luxury hotels in Colombo, Negombo and Batticaloa, with two further explosions occurring later in the day. A total of 269 people were killed, including dozens of foreign nationals, and more than 500 were injured, making it the deadliest act of violence in Sri Lanka since the end of the civil war. The Islamic State claimed responsibility, and investigations focused on the local group National Thowheeth Jama'ath and its links to international militant networks.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-96930778c74c0a9932d7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date and coordinated church/hotel attack supported. 269 excluding nine bombers is in secondary summaries, while initial official counts were sharply revised. Need primary/reputable final total and confirmation of all location/injury/attribution details; do not substitute the preliminary 359 or 250-260.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.euronews.com/2019/04/25/sri-lanka-attack-death-toll-between-250-260-not-359"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2019_Sri_Lanka_Easter_bombings"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-04-22",
+  "title": "Kabul voter registration center bombing",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 57,
+  "description": "A suicide bomber attacked a voter registration center in the Dasht-e-Barchi district of western Kabul, a predominantly Shia Hazara area, during Afghanistan's parliamentary election registration process. The blast killed at least 57 people and wounded more than 100, mostly civilians queued to obtain voter cards. The Islamic State Khorasan Province claimed responsibility for the attack, one of a series targeting the 2018 election process.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera",
+   "AP News"
+  ],
+  "archive_id": "events-d85b40ecd1c0db3f10b0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "57 was an initial toll. Later reporting gives more than 60, with secondary summaries giving 69; UNAMA records 198 total civilian casualties without a fatality breakdown in the retrieved page. Exact final death count and breakdown remain unresolved; date, registration-site identity and IS attribution are supported.",
+   "sources": [
+    {
+     "name": "UNAMA",
+     "url": "https://unama.unmissions.org/en/node/63211"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2018/04/23/kabul-attack-security-challenges-afghanistan-elections-152448542"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/22_April_2018_Kabul_suicide_bombing"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-04-25",
+  "title": "Nepal earthquake (Gorkha)",
+  "category": "natural-disaster",
+  "location": "Central Nepal and surrounding countries",
+  "lives_lost": 8964,
+  "description": "A magnitude 7.8 earthquake struck central Nepal on April 25, 2015, causing catastrophic building damage, landslides and avalanches. USGS's 2015 summary attributes 8,964 deaths to the disaster, citing OCHA. The toll's treatment of later aftershocks needs reconciliation with separately listed events.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "UN Office for the Coordination of Humanitarian Affairs (OCHA)"
+  ],
+  "archive_id": "events-e54cf4b39ad04a86d2ab",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS attributes 8,964 deaths to the April event citing OCHA, and discusses a sequence including later aftershocks. Country decomposition in original is not confirmed, and separate May 12 row risks double counting. April 25 11:56 local is 06:11 UTC.",
+   "sources": [
+    {
+     "name": "USGS, 2015 worldwide earthquake totals",
+     "url": "https://www.usgs.gov/news/national-news-release/global-earthquake-numbers-par-2015"
+    },
+    {
+     "name": "USGS, Gorkha retrospective",
+     "url": "https://www.usgs.gov/programs/earthquake-hazards/science/m78-nepal-earthquake-2015-a-small-push-mt-everest"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-04-30",
+  "title": "Idlib offensive (Syria)",
+  "category": "war",
+  "location": "Idlib Governorate, Syria",
+  "lives_lost": 1043,
+  "description": "On 30 April 2019, the Syrian government, backed by Russian air power, launched a ground offensive against opposition-held areas of Idlib Governorate, the last major rebel stronghold. Between April and August, the Syrian Observatory for Human Rights recorded at least 1,043 civilian deaths and roughly 3,000 combatant deaths, while the United Nations reported more than 500 civilians killed in the first months and hundreds of thousands of people displaced, including repeated attacks on schools, hospitals and camps for displaced people.",
+  "sources": [
+   "Syrian Observatory for Human Rights",
+   "UN News",
+   "Reuters"
+  ],
+  "archive_id": "events-9138668540cf0a218354",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Search supports campaign identity and reports 1,043 civilians in secondary coverage. Need the underlying SOHR final interval and combatant total, UN source for 500 deaths, and distinction between April air campaign and subsequent ground offensive. Not verified from secondary summaries.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_%28April%E2%80%93August_2019%29"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_%28January%E2%80%93April_2019%29"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-05-12",
+  "title": "Nepal earthquake aftershock",
+  "category": "natural-disaster",
+  "location": "Nepal and surrounding countries",
+  "lives_lost": 218,
+  "description": "A magnitude 7.3 earthquake struck east of Kathmandu on May 12, 2015, following the April 25 Gorkha earthquake. It caused additional deaths and destruction in Nepal and neighbouring countries. Its separate fatality count must be distinguished from cumulative totals for the earthquake sequence.",
+  "sources": [
+   "USGS",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-6cc7a7f2390172520562",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Magnitude/date supported; 218 combines 153 Nepal, 62 India, two Bangladesh and one China in secondary accounting, not 218 in Nepal. Primary country totals and exclusion from April cumulative toll are not established.",
+   "sources": [
+    {
+     "name": "USGS, aftershock account",
+     "url": "https://www.usgs.gov/news/featured-story/magnitude-78-earthquake-nepal-aftershocks"
+    },
+    {
+     "name": "Wikipedia, regional tally lead",
+     "url": "https://en.wikipedia.org/wiki/May_2015_Nepal_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2018-05-14",
@@ -335,7 +773,8 @@
   "source_urls": [
    "https://www.un.org/unispal/document/un-independent-commission-of-inquiry-on-protests-in-gaza-presents-its-findings-press-release/",
    "https://www.ochaopt.org/content/fifty-five-palestinians-killed-and-thousands-injured-gaza"
-  ]
+  ],
+  "archive_id": "events-5db52738d4757a8b591e"
  },
  {
   "date": "2018-05-18",
@@ -351,7 +790,8 @@
   "source_urls": [
    "https://apnews.com/article/e14887f866cf60af7b0ecf62b7f9d6ea",
    "https://www.axios.com/2018/05/18/plane-crashes-in-cuba-with-104-passengers-on-board"
-  ]
+  ],
+  "archive_id": "events-faf51c0000d3486aad51"
  },
  {
   "date": "2017-05-22",
@@ -369,7 +809,112 @@
    "https://www.gmp.police.uk/news/greater-manchester/news/news/2022/november/statement-in-response-to-inquiry-report/",
    "https://www.gmp.police.uk/news/greater-manchester/news/news/2020/march/a-man-who-conspired-with-his-brother-to-carry-out-a-terror-attack-that-killed-22-people-at-the-manchester-arena-has-been-jailed/",
    "https://assets.publishing.service.gov.uk/media/6363d00f8fa8f505734175f4/_HC_757-I__-_Manchester_Arena_Inquiry_Report___Volume_2__Volume_2-I_.pdf"
-  ]
+  ],
+  "archive_id": "events-c63a3ba43e4d2189f4eb"
+ },
+ {
+  "date": "2015-05-26",
+  "title": "Indian heat wave",
+  "category": "natural-disaster",
+  "location": "India, particularly Andhra Pradesh and Telangana",
+  "lives_lost": 2500,
+  "description": "Extreme heat affected India during May and early June 2015, with particularly severe mortality in Andhra Pradesh and Telangana. Contemporary estimates exceeded 2,000 deaths, while surveillance totals differed in coverage. A precise onset date and reconciled death toll remain unestablished.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ],
+  "archive_id": "events-be46802a059f282b91ed",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "May 26 is a reporting-period date, not established onset. NOAA says at least 2,300; NASA cites 2,500 reporting, while national surveillance records a lower figure under different reporting coverage. Resolve onset, death definition and countrywide scope; do not preserve Andhra Pradesh as entire location.",
+   "sources": [
+    {
+     "name": "NOAA, heatwave retrospective",
+     "url": "https://www.climate.gov/news-features/event-tracker/india-heat-wave-kills-thousands"
+    },
+    {
+     "name": "NCDC India, annual surveillance report",
+     "url": "https://www.ncdc.gov.in/wp-content/uploads/2024/04/Annual-report2015-16.pdf"
+    },
+    {
+     "name": "NASA, heatwave report",
+     "url": "https://science.nasa.gov/earth/earth-observatory/india-faces-deadly-heat-wave-85986/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-06-03",
+  "title": "Volcán de Fuego eruption",
+  "category": "natural-disaster",
+  "location": "Escuintla, Guatemala",
+  "lives_lost": 425,
+  "description": "Guatemala's Volcán de Fuego erupted violently, sending pyroclastic flows and ash that buried the villages of San Miguel Los Lotes and El Rodeo in mud and rock. The eruption killed 425 people according to Guatemala's disaster agency (CONRED), injured hundreds, destroyed thousands of homes, and forced the evacuation of over 12,000 people, while dozens of victims were never recovered from the deposits.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "CNN"
+  ],
+  "archive_id": "events-85d3cc4612dbb9d742a4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "June 3 eruption is established. The asserted 425 confirmed CONRED deaths is not established: reports variously combine recovered deaths and missing people, and the 2026 government-newspaper retrospective itself gives 429 dead plus 229 missing. Hundreds injured/thousands of homes destroyed also need final evidence. No numerical replacement proposed without reconciling categories.",
+   "sources": [
+    {
+     "name": "CONRED",
+     "url": "https://conred.gob.gt/boletin-informativo-no-2072018-actualizacion-desaparecidos-por-erupcion-del-volcan-de-fuego/"
+    },
+    {
+     "name": "Diario de Centro America",
+     "url": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/guatemala-no-olvida-8-anos-de-la-tragica-erupcion-del-volcan-de-fuego/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-06-03",
+  "title": "Khartoum massacre",
+  "category": "gun-violence",
+  "location": "Khartoum, Sudan",
+  "lives_lost": 128,
+  "description": "On 3 June 2019, Sudanese security forces, including the Rapid Support Forces, violently dispersed a civilian sit-in outside the army headquarters in Khartoum that had been demanding a transition to civilian rule. The Sudanese Doctors' Syndicate documented at least 104 deaths, with later tallies exceeding 128 including children, and hundreds of people wounded; an official inquiry reported 87 deaths. The crackdown followed the ouster of President Omar al-Bashir and preceded a power-sharing agreement that established a civilian-led transitional government later that year.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Amnesty International"
+  ],
+  "archive_id": "events-6676a4b194e9a163a9c3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "June 3 attack and RSF involvement supported. Amnesty distinguishes at least 100 in its estimate, 127 from Central Committee of Sudanese Doctors, 50 from a different doctors' syndicate, and 87 from attorney-general inquiry. Original 104/128 attribution conflates organizations and reporting intervals; exact canonical tally remains unresolved.",
+   "sources": [
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/latest/news/2020/03/sudan-all-security-agencies-that-attacked-protesters-must-be-held-to-account/"
+    },
+    {
+     "name": "Amnesty International",
+     "url": "https://www.amnesty.org/en/wp-content/uploads/2021/05/AFR5418932020ENGLISH.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2016-06-12",
@@ -385,7 +930,8 @@
   "source_urls": [
    "https://www.fbi.gov/history/cases-and-criminals/pulse-nightclub-shooting",
    "https://apnews.com/article/34870f5701c5650ad6cdd613b07189e3"
-  ]
+  ],
+  "archive_id": "events-6e5f77d56e2909dc376d"
  },
  {
   "date": "2017-06-13",
@@ -401,7 +947,8 @@
   "source_urls": [
    "https://www.grenfelltowerinquiry.org.uk/report/phase-2/volume-1.html",
    "https://www.gov.uk/government/publications/grenfell-tower-inquiry-phase-2-report-government-response/grenfell-tower-inquiry-phase-2-report-government-response-html"
-  ]
+  ],
+  "archive_id": "events-bbc8271710cd0b97910f"
  },
  {
   "date": "2015-06-18",
@@ -419,7 +966,68 @@
    "https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources/active-shooter-incidents-from-2000-to-2018",
    "https://www.justice.gov/archives/opa/pr/justice-department-announces-multi-million-dollar-civil-settlement-principle-mother-emanuel",
    "https://bja.ojp.gov/news/success-spotlight/bja-funded-forensic-video-analysis-system-supports-evidence-collection"
-  ]
+  ],
+  "archive_id": "events-61039835b83b3d3943c3"
+ },
+ {
+  "date": "2015-06-24",
+  "title": "Karachi heat wave",
+  "category": "natural-disaster",
+  "location": "Karachi, Pakistan",
+  "lives_lost": 1265,
+  "description": "A severe heatwave struck Karachi and other parts of Sindh in June 2015 during Ramadan. Karachi reached 44.8 C on June 20, and hospitals faced large numbers of heat-related patients. Death estimates changed rapidly and must distinguish the city from provincial or nationwide totals.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Dawn"
+  ],
+  "archive_id": "events-481a8b6b3f2905dda1d1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Heatwave predates June 24; PMD identifies June 19-23 and a Karachi maximum 44.8 C June 20. 49 C should not be attributed to Karachi. Neither final city toll 1,265 nor national 2,000 is established by these sources; original poverty and utilities attribution too categorical.",
+   "sources": [
+    {
+     "name": "Pakistan Meteorological Department, heatwave study",
+     "url": "https://www.pmd.gov.pk/rnd/rndweb/rnd_new/journal/vol13_issue26_files/7_Socio_Economic_Impacts_of_Heat_Wave_in_Sindh.pdf"
+    },
+    {
+     "name": "TIME, June 24 emergency report",
+     "url": "https://time.com/3933463/pakistan-heatwave-karachi-sindh-emergency/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-06-26",
+  "title": "Sousse beach attack",
+  "category": "terrorism",
+  "location": "Sousse, Tunisia",
+  "lives_lost": 38,
+  "description": "A gunman attacked holidaymakers at the Imperial Marhaba hotel and beach at Port El Kantaoui near Sousse, Tunisia, shortly before midday on June 26, 2015. Thirty-eight victims were killed, including 30 British citizens.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ],
+  "archive_id": "events-322ba525b977716fb1da",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Police confirms June 26 shortly before midday, 38 victims including 30 British. Remove unverified exact injury count and superlative; 38 excludes attacker. Midday Tunisia date unchanged UTC. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "UK National Police Chiefs' Council, commemoration",
+     "url": "https://news.npcc.police.uk/releases/minute-silence-today-for-victims-of-tunisia-terror-attack"
+    }
+   ]
+  }
  },
  {
   "date": "2016-06-28",
@@ -435,7 +1043,251 @@
   "source_urls": [
    "https://www.aa.com.tr/tr/gundem/ataturk-havalimanindaki-teror-saldirisinin-uzerinden-6-yil-gecti/2624288",
    "https://www.iletisim.gov.tr/images/uploads/dosyalar/TurkiyeninTerorizmleMucadelesi.pdf"
-  ]
+  ],
+  "archive_id": "events-47a9504885e9d24c6d93"
+ },
+ {
+  "date": "2019-06-28",
+  "title": "European heat waves",
+  "category": "natural-disaster",
+  "location": "France, Western Europe",
+  "lives_lost": 2500,
+  "description": "Record-breaking heat waves struck western Europe in late June and late July 2019, with France registering its highest-ever temperature of 45.9°C at Gallargues-le-Montueux on 28 June. France's public health agency attributed 1,435 excess deaths to the June heat wave, and a subsequent peer-reviewed study estimated roughly 2,500 deaths across Europe attributable to the summer's heat waves. Schools closed, rail services were suspended and cities opened cooling centres as authorities issued the highest heat alerts for the first time in several countries.",
+  "sources": [
+   "Santé publique France",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-f96323364ed5679c7efe",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Confirmed national record is 46.0 C at Verargues June 28, not 45.9 C at Gallargues. The French mortality bulletin covers both June and July heatwaves. No identifiable peer-reviewed study supporting the claimed Europe-wide 2,500 total retrieved; replacement death scope must be settled before integration.",
+   "sources": [
+    {
+     "name": "Meteo-France",
+     "url": "https://education.meteofrance.fr/meteo-a-z/ete-2019-deux-canicules-exceptionnelles"
+    },
+    {
+     "name": "Sante publique France",
+     "url": "https://www.santepubliquefrance.fr/en/climat/fortes-chaleurs-canicule/national-bulletin/heat-wave-and-health-alert-system-mortality-report-heat-waves-june-and-july-2019"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-07-01",
+  "title": "Yemen famine and cholera crisis",
+  "category": "food-crisis",
+  "location": "Yemen",
+  "lives_lost": 2315,
+  "description": "The war-ravaged country faced the world's worst humanitarian crisis in 2018: UN agencies reported 8.4 million people one step away from famine and over 22 million in need of assistance, while a massive cholera outbreak killed at least 2,315 people out of more than 1.1 million suspected cases recorded since the epidemic began in 2017. Port restrictions, collapsed health infrastructure, and food insecurity compounded the crisis, with the UN warning that parts of the country could slip into famine.",
+  "sources": [
+   "UN OCHA",
+   "World Health Organization",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-4e64dfaec52c29f12d55",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The outbreak and humanitarian crisis are established, but July 1 is not established as an event or reporting cutoff. The 2,315 total needs its exact WHO reporting interval; this is a cumulative cholera figure, not famine deaths or deaths on July 1. The outbreak began in 2016, with a major wave in April 2017.",
+   "sources": [
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/news/item/05-10-2018-health-workers-in-yemen-reach-more-than-306-000-people-with-cholera-vaccines-during-four-day-pause-in-fighting-who-unicef"
+    },
+    {
+     "name": "WHO",
+     "url": "https://applications.emro.who.int/emhj/fulltext/emhj_24_10_2018.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-07-01",
+  "title": "India monsoon floods",
+  "category": "natural-disaster",
+  "location": "India (Bihar, Maharashtra, Kerala, Karnataka)",
+  "lives_lost": 1600,
+  "description": "The 2019 southwest monsoon caused severe and prolonged flooding across much of India between June and October, with more than 1,600 people killed in rain-related incidents according to reports citing official data. Bihar was among the hardest-hit states, along with Maharashtra, Kerala, Karnataka and Assam, and heavy flooding in the south coincided with torrential rain in Maharashtra's coastal districts. More than a million people were displaced, crops were destroyed and the floods followed unusually heavy August rainfall that came within weeks of drought in parts of the country.",
+  "sources": [
+   "UN OCHA",
+   "The Hindu",
+   "BBC News"
+  ],
+  "archive_id": "events-0274a5b8c454fdaaf02e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Reuters supports more than 1,600 rain-related deaths since June by October 1, 2019, not deaths on July 1. Seasonal date anchor and displacement/geographic/detail claims remain incompletely supported. Needs a reporting cutoff rather than single-day presentation. Only one source was established in this batch, below the two-source publication minimum.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.inkl.com/news/more-than-1-600-die-in-india-s-heaviest-monsoon-season-for-25-years"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-07-01",
+  "title": "Majiya fuel tanker explosion",
+  "category": "industrial",
+  "location": "Majiya, Jigawa State, Nigeria",
+  "lives_lost": 48,
+  "description": "In early July 2019, a fuel tanker that had overturned near the village of Majiya in Jigawa State exploded, killing at least 48 people, many of whom had gathered to collect leaking fuel, and leaving dozens more hospitalised with severe burns. Local officials said most of the dead were burnt beyond recognition and the explosion also destroyed nearby properties. The incident highlighted the recurring danger of fuel collection at tanker crash sites across Nigeria, where fuel shortages have driven people to scoop up spilled petrol.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-4f8d9afe776452712499",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "title",
+    "location",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Search did not establish a July 2019 Majiya explosion killing 48. Primary investigation notice and AFP locate the major Majiya disaster on October 15, 2024 with much higher deaths. Likely conflation, but failed search alone is not proof of fabrication. Quarantine pending identity/date resolution; do not silently repurpose as 2024.",
+   "sources": [
+    {
+     "name": "Nigerian Safety Investigation Bureau",
+     "url": "https://nsib.gov.ng/wp-content/uploads/ninja-forms/8/NSIB%20COMMENCES%20INVESTIGATION%20INTO%20JIGAWA%20STATE%20TANKER%20EXPLOSION%20-10/16/2024.pdf"
+    },
+    {
+     "name": "AFP",
+     "url": "https://www.youtube.com/watch?v=ykKXil-Bd5M"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-07-03",
+  "title": "Karrada shopping district bombing",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 324,
+  "description": "An Islamic State-claimed suicide bombing devastated Baghdad's Karrada shopping district shortly after midnight locally on July 3, 2016. Later reports attributed differing tolls of 323 and 324 to Iraqi authorities, after much lower preliminary counts.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ],
+  "archive_id": "events-93158d04bb6f2c39a617",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Rudaw attributes 324 to the health minister on July 31, while same-period AFP reporting gives 323; both exceed the early 250/292 counts. The attack occurred shortly after midnight July 3 local time, meaning July 2 UTC; exact timing currently has only a tertiary source here. Later tertiary totals and a minister's reported much higher estimate also prevent treating 324 as an uncontested final toll. Proposed UTC shift requires stronger timing corroboration before publication.",
+   "sources": [
+    {
+     "name": "Rudaw",
+     "url": "https://www.rudaw.net/english/categories/middleeast/993736"
+    },
+    {
+     "name": "Le Point / Agence France-Presse",
+     "url": "https://www.lepoint.fr/monde/bagdad-l-attentat-de-debut-juillet-a-fait-323-morts-01-08-2016-2058394_24.php"
+    },
+    {
+     "name": "TIME",
+     "url": "https://time.com/4394269/baghdad-iraq-karrada-death-toll-attack-isis/"
+    },
+    {
+     "name": "Wikipedia, timing lead only",
+     "url": "https://en.wikipedia.org/wiki/2016_Karrada_bombing"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-07-05",
+  "title": "2016 China floods (Yangtze basin)",
+  "category": "natural-disaster",
+  "location": "Yangtze River basin, China",
+  "lives_lost": 449,
+  "description": "Torrential monsoon rains produced the worst flooding in China since 1998, hitting the Yangtze and Huai river basins across 26 provinces and affecting an estimated 32 million people, with hundreds of thousands left homeless. More than 350 people died in the floods, and a June 23 EF4 tornado in Jiangsu Province that killed at least 99 people brought the combined toll to more than 440. Rivers breached their banks in multiple provinces, including Hubei and Anhui, and damage was estimated in the tens of billions of dollars.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-0817b6389d1c72a5a175",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "July 5 is a reporting date, not an established onset of the June-September flood season. The 449 total combines more than 350 flood deaths with 99 deaths in the separate June 23 Jiangsu tornado, inconsistent with the Yangtze flood title. TIME's July 5 report gives 186 dead and 45 missing as of the preceding Sunday, a preliminary count, not support for 449 flood deaths. Define flood period and geography before selecting date or final toll.",
+   "sources": [
+    {
+     "name": "TIME",
+     "url": "https://time.com/4392783/china-rain-floods-180-killed-yangtze-river/"
+    },
+    {
+     "name": "Wikipedia, scope comparison",
+     "url": "https://en.wikipedia.org/wiki/2016_China_floods"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-07-06",
+  "title": "Western Japan floods and landslides",
+  "category": "natural-disaster",
+  "location": "Western Japan",
+  "lives_lost": 237,
+  "description": "Heavy rainfall from late June through early July 2018 caused flooding and landslides across western Japan, especially Hiroshima, Okayama and Ehime. A published mortality analysis recorded 237 deaths, including 115 in Hiroshima Prefecture. The July 6 calendar entry falls within the multi-day disaster.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "NHK World",
+   "The Japan Times"
+  ],
+  "archive_id": "events-de14784e91ce8e5c8291",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "225 is an early reported tally; published mortality analysis gives 237. JMA documents June 28-July 8 rainfall, including cumulative totals over 1,800 mm, not the asserted 180 mm/hour. July 6 is an anchor within the disaster, not all deaths on that date. The precise July 6 calendar date remains an unestablished selection within a June 28-July 8 rainfall episode; explaining it as an anchor does not verify it as the event date.",
+   "sources": [
+    {
+     "name": "Japan Meteorological Agency",
+     "url": "https://www.data.jma.go.jp/stats/data/bosai/report/2018/20180713/20180713.html"
+    },
+    {
+     "name": "Journal of Disaster Research",
+     "url": "https://www.jstage.jst.go.jp/article/jdr/14/6/14_912/_article"
+    }
+   ]
+  }
  },
  {
   "date": "2016-07-08",
@@ -453,7 +1305,8 @@
    "https://www.justice.gov/archives/opa/speech/attorney-general-loretta-e-lynch-delivers-statement-dallas-shooting",
    "https://time.com/4397966/eyewitnesses-dalls-shootings-police-dead/",
    "https://time.com/4401617/dallas-shootings-police-officers-wounded/"
-  ]
+  ],
+  "archive_id": "events-cda62311c74f8a3cb2b6"
  },
  {
   "date": "2017-07-10",
@@ -473,7 +1326,8 @@
    "https://www.pbs.org/newshour/amp/show/thousands-more-civilians-were-killed-in-mosul-battle-than-official-tally-ap-finds",
    "https://www.ecoi.net/en/file/local/1417896/1226_1510821127_mosul-report-17oct2016-10jul201731-october-2017.pdf",
    "https://time.com/4852028/isis-mosul-iraq-liberation-sunni-shiite/"
-  ]
+  ],
+  "archive_id": "events-8925d4a5238360aa4265"
  },
  {
   "date": "2018-07-13",
@@ -489,7 +1343,8 @@
   "source_urls": [
    "https://www.euronews.com/2018/07/13/bomb-on-pakistan-campaign-convoy-kills-10-amid-tension-as-ex-pm-sharifs-returns",
    "https://en.wikipedia.org/wiki/2018_Mastung_and_Bannu_bombings"
-  ]
+  ],
+  "archive_id": "events-53e1f66a5bef12c6859e"
  },
  {
   "date": "2016-07-14",
@@ -505,7 +1360,44 @@
   "source_urls": [
    "https://www.interieur.gouv.fr/actualites/actualites-du-ministere/nice-14-juillet-2016-dix-ans-apres-lattentat-nation-se-souvient",
    "https://www.elysee.fr/emmanuel-macron/2017/07/14/discours-d-emmanuel-macron-lors-de-la-ceremonie-d-hommage-aux-victimes-de-l-attentat-de-nice"
-  ]
+  ],
+  "archive_id": "events-42e0c4c3ac45b36655fc"
+ },
+ {
+  "date": "2016-07-15",
+  "title": "Attempted coup in Turkey",
+  "category": "war",
+  "location": "Ankara and Istanbul, Turkey",
+  "lives_lost": 300,
+  "description": "A faction of Turkey's armed forces attempted to overthrow the government on the night of July 15, 2016, with violence in Ankara and Istanbul. The attempt failed. Later official commemorations count 251 people killed opposing the coup, a narrower scope than totals including coup participants.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-1a52ba3f054b3f1c1268",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "July 15-16 attempted coup in Ankara and Istanbul is supported. Later Turkish commemoration counts 251 people killed opposing the coup, excluding coup participants; HRW reported at least 241 citizens/security personnel earlier. Neither establishes a consistently scoped combined toll of 300 or the claimed 180 civilians. Later injury counts also vary. Keep the core toll unresolved rather than silently substitute a loyalist-only count.",
+   "sources": [
+    {
+     "name": "Anadolu Agency, 2018 retrospective",
+     "url": "https://www.aa.com.tr/en/todays-headlines/what-happened-on-july-15-2016/1204733"
+    },
+    {
+     "name": "Anadolu Agency, 2022 retrospective",
+     "url": "https://www.aa.com.tr/en/turkiye/turkiye-commemorates-people-killed-in-july-15-defeated-coup/2636568"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/sites/default/files/report_pdf/turkey1016_web.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2016-07-22",
@@ -521,7 +1413,8 @@
   "source_urls": [
    "https://www.polizei.bayern.de/wir-ueber-uns/geschichte/002621/index.html",
    "https://ru.muenchen.de/2026/126/Zehn-Jahre-nach-dem-Attentat-am-OEZ-Muenchen-gedenkt-der-Opfer-125040"
-  ]
+  ],
+  "archive_id": "events-c05e55fea190b17a85c1"
  },
  {
   "date": "2016-07-23",
@@ -539,7 +1432,8 @@
    "https://unama.unmissions.org/sites/default/files/protection_of_civilians_in_armed_conflict_annual_report_2016_16_feb_2017_final.pdf",
    "https://unama.unmissions.org/en/press-releases/security-council-press-statement-on-terrorist-attack-in-kabul-1",
    "https://en.wikipedia.org/wiki/July_2016_Kabul_bombing"
-  ]
+  ],
+  "archive_id": "events-15145d7ed50979b2b809"
  },
  {
   "date": "2019-08-03",
@@ -555,7 +1449,46 @@
   "source_urls": [
    "https://www.justice.gov/archives/opa/pr/texas-man-sentenced-90-consecutive-life-sentences-2019-mass-shooting-walmart-el-paso-texas",
    "https://www.texastribune.org/2023/07/07/el-paso-mass-shooting-crusius-life-sentence/"
-  ]
+  ],
+  "archive_id": "events-bf54d03b3b6416e44360"
+ },
+ {
+  "date": "2018-08-05",
+  "title": "Lombok earthquake sequence",
+  "category": "natural-disaster",
+  "location": "Lombok, Indonesia",
+  "lives_lost": 563,
+  "description": "A series of major earthquakes struck the island of Lombok between July 29 and August 19, 2018, the strongest being a magnitude 7.0 quake on August 5. The quakes destroyed more than 70,000 homes, triggered landslides on Mount Rinjani, and killed at least 563 people, including tourists in the Gili Islands, with over 1,000 injured and roughly 350,000 displaced.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-7e1443a7354b32f24a1b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "August 5 date and magnitude 7.0 per Indonesian authority supported. 563 is a sequence-wide figure in secondary accounts. Need final BNPB report for death, housing and displacement totals and especially purported tourist deaths in the Gili Islands; sources retrieved do not establish those full-record details.",
+   "sources": [
+    {
+     "name": "BNPB",
+     "url": "https://bnpb.go.id/berita/impact-of-the-7-richter-scale-earthquake-in-lombok-timur"
+    },
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=2282&Lang=en"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/5_August_2018_Lombok_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2018-08-09",
@@ -571,7 +1504,101 @@
   "source_urls": [
    "https://www.xinhuanet.com/english/2018-08/14/c_137390291.htm",
    "https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/DownloadDraft.aspx?key=iDBS1SfIBgH3D6kEq9I4FrG+gqnoQLbI0L2V8FgNK%2FLPl1tBcn1acGt0aIJPfNgm"
-  ]
+  ],
+  "archive_id": "events-9995fa05b9fe462c33fd"
+ },
+ {
+  "date": "2015-08-12",
+  "title": "Tianjin warehouse explosions",
+  "category": "industrial",
+  "location": "Tianjin, China",
+  "lives_lost": 165,
+  "description": "A fire and explosions at a hazardous-goods warehouse in Tianjin on August 12, 2015, killed 165 people, with eight others missing, according to the official investigation. Another 798 were hospitalized. Investigators traced the fire to nitrocellulose that had dried and self-heated.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-7b3b70189b084bf3bbf4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Official investigation distinguishes 165 confirmed dead plus eight missing, including five missing port firefighters. Thus 173 and 104 firefighters include missing presumed dead. Proposed count is confirmed-only; remove unverified explosive quantities. Late night August 12 local remains August 12 UTC. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "State investigation report via Xinhua",
+     "url": "https://www.xinhuanet.com/politics/2016-02/05/c_128706930.htm"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2017-08-14",
+  "title": "Freetown mudslide and floods, Sierra Leone",
+  "category": "natural-disaster",
+  "location": "Freetown, Sierra Leone",
+  "lives_lost": 1141,
+  "description": "A major landslide entered the Babadorie River valley near Freetown on August 14, 2017, worsening widespread flooding. The World Bank assessment records about 6,000 people affected across the Western Area and 1,141 declared dead or missing, without equating all missing people with confirmed deaths.",
+  "sources": [
+   "World Bank / ReliefWeb",
+   "Government of Sierra Leone",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-d9b92c53e43f950642f1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The August 14 landslide and flooding are supported, but 1,141 explicitly combines dead and missing, not confirmed deaths. The assessment concerns the wider Western Area disaster, not solely Regent. No reconciled confirmed-death total was established here. Remove unsupported orphan and displacement counts while retaining the documented affected scope.",
+   "sources": [
+    {
+     "name": "World Bank damage and loss assessment",
+     "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/523671510297364577"
+    },
+    {
+     "name": "World Bank retrospective",
+     "url": "https://blogs.worldbank.org/en/sustainablecities/disaster-could-have-been-avoided-enhancing-resilience-land-and-geospatial-data"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-08-15",
+  "title": "Kerala floods",
+  "category": "natural-disaster",
+  "location": "Kerala, India",
+  "lives_lost": 483,
+  "description": "Monsoon flooding and landslides devastated Kerala in August 2018. A case study hosted by the Kerala State Disaster Management Authority reports over 483 deaths and about one million evacuees, with 35 dams opened. Other assessments use different reporting intervals and totals; these deaths did not all occur on August 15.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Hindu",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-cf48decb66dee2826b2e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Over 100 dams is wrong: state-hosted case study gives 35, UNDP 37. Report intervals produce 433 versus 483 deaths. Preserve 483 only as the broader case-study tally and make multi-day scope clear. The precise August 15 calendar anchor remains unestablished within the multi-day flood period; retain the supported prose correction but withhold until the date/period representation is resolved.",
+   "sources": [
+    {
+     "name": "Kerala State Disaster Management Authority",
+     "url": "https://sdma.kerala.gov.in/wp-content/uploads/2019/12/IEE-Landslides-of-Kerala-2018_compressed.pdf"
+    },
+    {
+     "name": "UNDP",
+     "url": "https://www.undp.org/publications/post-disaster-needs-assessment-kerala"
+    }
+   ]
+  }
  },
  {
   "date": "2016-08-24",
@@ -587,7 +1614,8 @@
   "source_urls": [
    "https://emergenze.protezionecivile.gov.it/it/sismiche/terremoto-centro-italia-2016/",
    "https://emergenze.protezionecivile.gov.it/static/f438b5ebc904a11a47dd5db891db0fbb/Relazione_di_aggiornamento_numeri_dell_emergenza__22_agosto_2018_.pdf"
-  ]
+  ],
+  "archive_id": "events-0df43c869f58ce9e8e59"
  },
  {
   "date": "2017-08-25",
@@ -603,7 +1631,117 @@
   "source_urls": [
    "https://www.msf.es/noticia/al-menos-6700-rohingyas-fueron-asesinados-myanmar-menos-mes",
    "https://bangkok.ohchr.org/news/2020/news-release-election-looms-myanmar-has-opportunity-take-new-path-says-un-human-rights"
-  ]
+  ],
+  "archive_id": "events-9229f45ee1a2545f8fce"
+ },
+ {
+  "date": "2017-08-28",
+  "title": "South Asia floods",
+  "category": "natural-disaster",
+  "location": "Bangladesh, India and Nepal",
+  "lives_lost": 1288,
+  "description": "Monsoon flooding affected Bangladesh, India and Nepal in August 2017. On September 2, UNICEF reported at least 1,288 deaths since mid-August and estimated more than 45 million people affected. Affected population is not the same as displaced population.",
+  "sources": [
+   "UN OCHA",
+   "UNICEF",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-2fdaeedfe92a35c1d85e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UNICEF's September 2 release supports at least 1,288 reported deaths since mid-August and over 45 million affected, not 40 million displaced. August 28 is an unsupported single-day anchor within an ongoing monsoon disaster. The toll is a dated preliminary count, not a reconciled season total; do not replace the date with the publication date and call it verified.",
+   "sources": [
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/press-releases/16-million-children-affected-massive-flooding-south-asia-millions-more-risk"
+    },
+    {
+     "name": "TIME",
+     "url": "https://time.com/4921340/south-asia-floods-india-mumbai-bangladesh-nepal/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-08-30",
+  "title": "Typhoon Lionrock floods in North Korea",
+  "category": "natural-disaster",
+  "location": "North Hamgyong Province, North Korea",
+  "lives_lost": 550,
+  "description": "Heavy rain associated with Typhoon Lionrock caused severe flooding in northeastern North Korea in late August 2016. A September 14 UN update reported 138 confirmed deaths and 400 people missing. Those missing were not confirmed dead in that report.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "UN OCHA",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-c2fd139a081324b8523d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The September 11 UN report lists 133 confirmed dead and 395 missing; September 14 gives 138 and 400. Neither supports more than 500 confirmed deaths in North Korea or 550 internationally. Missing people cannot simply be added to confirmed deaths. OCHA references August 29 while ACAPS describes August 30; Japan landfall does not establish North Korea's flood onset or its UTC date. Core date and final toll remain unresolved.",
+   "sources": [
+    {
+     "name": "United Nations in DPR Korea, September 11 update",
+     "url": "https://dprk.un.org/en/9974-heavy-rainfall-causes-flooding-north-dprk-11-september-update"
+    },
+    {
+     "name": "United Nations in DPR Korea, September 14 update",
+     "url": "https://dprk.un.org/en/9975-torrential-rains-and-flooding-bring-devastation-dprk"
+    },
+    {
+     "name": "OCHA flood emergency response plan",
+     "url": "https://dprk.un.org/en/download/1101/10274"
+    },
+    {
+     "name": "ACAPS",
+     "url": "https://www.acaps.org/fileadmin/Data_Product/Main_media/20160913_acaps_start_briefing_note_dprk_floods.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-09-01",
+  "title": "Hurricane Dorian",
+  "category": "natural-disaster",
+  "location": "Abaco Islands and Grand Bahama, Bahamas",
+  "lives_lost": 84,
+  "description": "Hurricane Dorian, a Category 5 storm with sustained winds of 185 mph, devastated the northern Bahamas when it made landfall on 1 September 2019, stalling over the Abaco Islands and Grand Bahama for more than a day. The storm killed 84 people across all affected areas, including 74 in the Bahamas, where hundreds of people were initially reported missing and whole settlements were flattened by the storm surge. It was the strongest hurricane on record to hit the Bahamas and caused tens of thousands of people to be displaced or left homeless.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "NOAA"
+  ],
+  "archive_id": "events-c5448d2099fbb3112d1e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "September 1 landfall, category 5 and 185 mph established. Need reconcile 84 all-area deaths and 74 Bahamas with NHC confirmed/reported and missing categories and later Bahamas revisions; no full verification of numeric death/displacement scope. The NHC report could not be opened successfully (access denied), so its final mortality table was not checked.",
+   "sources": [
+    {
+     "name": "NOAA National Hurricane Center",
+     "url": "https://www.nhc.noaa.gov/data/tcr/AL052019_Dorian.pdf"
+    },
+    {
+     "name": "NOAA National Hurricane Center",
+     "url": "https://www.nhc.noaa.gov/archive/2019/al05/al052019.discus.033.shtml"
+    }
+   ]
+  }
  },
  {
   "date": "2017-09-08",
@@ -621,7 +1759,8 @@
    "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0/impact",
    "https://gpss.worldbank.org/sites/gpss/files/knowledge_products/2019/Mexico_TA_Recovery_SI_Sept2017_Earthquakes_Exec_Report_Dec2018.pdf",
    "https://news.trust.org/item/20170919184450-b40g3/"
-  ]
+  ],
+  "archive_id": "events-c20f91e5531f97397962"
  },
  {
   "date": "2015-09-11",
@@ -637,7 +1776,46 @@
   "source_urls": [
    "https://www.liebherr.com/en-us/n/the-findings-of-the-investigations-of-the-liebherr-crane-experts-from-ehingen-are-available-now-crane-in-mecca-was-technically-faultless-23413-3782185",
    "https://www.floridabuilding.org/fbc/commission/FBC_0626/HRAC/Crane_Final_Report_Draft.pdf"
-  ]
+  ],
+  "archive_id": "events-901a77877a98a3d8c9ea"
+ },
+ {
+  "date": "2018-09-14",
+  "title": "Typhoon Mangkhut",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 134,
+  "description": "Typhoon Mangkhut, the strongest storm of the year, made landfall in northern Luzon, Philippines, on September 15, 2018, with sustained winds of 205 km/h. The typhoon triggered landslides in mining and farming areas, destroyed over 400,000 homes, and killed at least 134 people in the Philippines, with additional deaths reported in Hong Kong and southern China. Storm surges and flooding affected millions across the region.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Philippine Daily Inquirer",
+   "The Guardian"
+  ],
+  "archive_id": "events-3fa1ddd8bc94c025aac6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Landfall was early September 15 local time, September 14 UTC; UTC date correction supported. 134 is a multinational total in secondary summaries, not Philippine deaths; Hong Kong deaths and 400,000 destroyed homes are not substantiated. Keep unresolved until a consistent final geographic toll and damage definition are established.",
+   "sources": [
+    {
+     "name": "Hong Kong Observatory",
+     "url": "https://www.weather.gov.hk/en/publica/tc/tc2018/section3_5rpt.html"
+    },
+    {
+     "name": "Willis Re",
+     "url": "https://www.wtwco.com/-/media/wtw/insights/2019/01/willis-re-summary-of-natural-catastrophe-events-2018.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Mangkhut"
+    }
+   ]
+  }
  },
  {
   "date": "2017-09-19",
@@ -659,7 +1837,8 @@
    "https://gpss.worldbank.org/sites/gpss/files/knowledge_products/2019/Mexico_TA_Recovery_SI_Sept2017_Earthquakes_Exec_Report_Dec2018.pdf",
    "https://earthquake.usgs.gov/product/poster/20170919/us/1506025242898/poster.pdf",
    "https://elpais.com/internacional/2017/09/20/actualidad/1505862075_239301.html"
-  ]
+  ],
+  "archive_id": "events-b0e29895ceab141b9646"
  },
  {
   "date": "2017-09-20",
@@ -679,7 +1858,75 @@
    "https://www.nhc.noaa.gov/data/tcr/AL152017_Maria.pdf",
    "https://hsrc.himmelfarb.gwu.edu/sphhs_global_facpubs/635/",
    "https://gwtoday.gwu.edu/gw-researchers-2975-excess-deaths-linked-hurricane-maria"
-  ]
+  ],
+  "archive_id": "events-f841e34f411549076427"
+ },
+ {
+  "date": "2018-09-20",
+  "title": "MV Nyerere ferry capsizing",
+  "category": "industrial",
+  "location": "Ukara Island, Lake Victoria, Tanzania",
+  "lives_lost": 228,
+  "description": "The overloaded ferry MV Nyerere capsized while approaching Ukara Island on Lake Victoria on September 20, 2018. Later government figures put the death toll at 228, with 41 people rescued. It had been travelling from Ukerewe Island.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera",
+   "AP News"
+  ],
+  "archive_id": "events-636c2bc328b55323bc0c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Ferry was approaching Ukara, not just departing Ukerewe. 41 survivors, not hundreds; 228 is the later government tally summarized by secondary source, while September 24 AFP still reported 224. The later 228 toll was not corroborated beyond a secondary summary in this batch; the opened contemporary AFP source still had 224. Route/survivor corrections do not establish a final death tally.",
+   "sources": [
+    {
+     "name": "AFP",
+     "url": "https://kuwaittimes.com/uploads/imported_images/pdf/2018/sep/24/kt.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sinking_of_MV_Nyerere"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2018-09-28",
+  "title": "Sulawesi earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Palu, Indonesia",
+  "lives_lost": 4340,
+  "description": "A magnitude 7.5 earthquake struck the Indonesian island of Sulawesi, triggering a tsunami up to six meters high that hit Palu Bay, along with widespread soil liquefaction that swallowed entire neighborhoods. The disaster destroyed tens of thousands of buildings in Palu, Donggala, and Sigi and displaced over 200,000 people. Indonesia's disaster agency (BNPB) confirmed 4,340 deaths, more than 10,000 injured, and hundreds missing.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian",
+   "The Jakarta Post"
+  ],
+  "archive_id": "events-36fba3ac3bbe01c9c73b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date, magnitude and disaster identity supported. Need reconcile 4,340 with recovered bodies, missing and people presumed buried; calling all confirmed deaths while also listing missing risks category mixing. BNPB page returned 403 on open. Tsunami-height maximum and displacement total also require final source.",
+   "sources": [
+    {
+     "name": "BNPB",
+     "url": "https://bnpb.go.id/index.php/berita/rp-36-trilyun-dibutuhkan-untuk-rehabilitasi-dan-rekonstruksi-pascabencana-sulteng"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2018_Sulawesi_earthquake_and_tsunami"
+    }
+   ]
+  }
  },
  {
   "date": "2015-10-02",
@@ -697,7 +1944,8 @@
    "https://www.msf.org.za/news-and-resources/latest-news/afghanistan-kunduz-hospital-attack",
    "https://www.msf.es/noticia/kunduz-ano-despues",
    "https://time.com/4312380/afghanistan-hospital-pentagon-medecins-sans-frontieres/"
-  ]
+  ],
+  "archive_id": "events-f8b456860b960f9ccede"
  },
  {
   "date": "2017-10-02",
@@ -715,7 +1963,8 @@
    "https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources/active-shooter-incidents-from-2000-to-2018",
    "https://www.reviewjournal.com/crime/shootings/sheriff-admits-failure-to-recognize-route-91-victims-increases-death-toll-2134280/",
    "https://www.govinfo.gov/content/pkg/CREC-2020-10-01/pdf/CREC-2020-10-01-senate.pdf"
-  ]
+  ],
+  "archive_id": "events-449759166f310bc8de29"
  },
  {
   "date": "2016-10-04",
@@ -733,7 +1982,340 @@
    "https://www.nhc.noaa.gov/data/tcr/AL142016_Matthew.pdf",
    "https://www.ilo.org/publications/haiti-cyclone-matthew-2016-post-disaster-needs-assessment",
    "https://haiti.un.org/sites/default/files/2018-11/ENG%20haiti_hrp_2017_2018_1.pdf"
-  ]
+  ],
+  "archive_id": "events-8c9164b1310174ba26b5"
+ },
+ {
+  "date": "2015-10-08",
+  "title": "Yemen wedding party airstrike",
+  "category": "war",
+  "location": "Mokha, Yemen",
+  "lives_lost": 131,
+  "description": "A wedding gathering near Mokha, Yemen, was struck on September 28, 2015. Residents attributed it to the Saudi-led coalition, which denied involvement. Contemporary reporting put deaths at 131, while a UN panel later cited at least 135. This was distinct from the October 2015 Sanaban wedding attack and the October 2016 Sanaa funeral strike.",
+  "sources": [
+   "Reuters",
+   "Human Rights Watch",
+   "BBC News"
+  ],
+  "archive_id": "events-63c18fdc6db1108ea686",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "date",
+    "sources"
+   ],
+   "note": "Conflation: Mokha wedding was September 28; Sanaban wedding was October 7; acknowledged October 8 strike concerns Sanaa funeral in 2016. Mokha reports 131 versus UN panel at least135; coalition denied responsibility. Supported local calendar correction supplied, but precise UTC time and final toll unresolved.",
+   "sources": [
+    {
+     "name": "US State Department, Yemen 2015 report",
+     "url": "https://2009-2017.state.gov/documents/organization/253167.pdf"
+    },
+    {
+     "name": "Arab News, coalition denial",
+     "url": "https://www.arabnews.com/middle-east/coalition-denies-role-in-yemen-wedding-bombing-that-killed-131-812956"
+    },
+    {
+     "name": "UN Panel of Experts report",
+     "url": "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2016_73.pdf"
+    },
+    {
+     "name": "HRW, separate October wedding strike",
+     "url": "https://www.hrw.org/news/2015/12/20/witness-wedding-bombed-yemen"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-10-08",
+  "title": "Sanaa funeral hall airstrike",
+  "category": "war",
+  "location": "Sanaa, Yemen",
+  "lives_lost": 155,
+  "description": "Saudi-led coalition airstrikes hit a funeral ceremony in Sanaa on October 8, 2016. The coalition initially denied responsibility before acknowledging the attack. Reported casualty counts differed and were preliminary.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera",
+   "Associated Press"
+  ],
+  "archive_id": "events-dfb623635d9e0f1354e2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "October 8 funeral attack and coalition responsibility are supported; HRW documents the initial denial and subsequent acknowledgement. The 155 figure was explicitly preliminary in same-day reporting. UN initially reported over 140, while HRW later cited the health ministry's at least 110/610, with identification incomplete. No reconciled final 155/525 tally is established. Preserve this contradiction, not a definitive replacement death count.",
+   "sources": [
+    {
+     "name": "Human Rights Watch, October 2016 investigation",
+     "url": "https://www.hrw.org/news/2016/10/13/yemen-saudi-led-funeral-attack-apparent-war-crime"
+    },
+    {
+     "name": "United Nations Secretary-General",
+     "url": "https://press.un.org/en/2016/sgsm18190.doc.htm"
+    },
+    {
+     "name": "Human Rights Watch, 2018 accountability report",
+     "url": "https://www.hrw.org/report/2018/08/24/hiding-behind-coalition/failure-credibly-investigate-and-provide-redress-unlawful"
+    },
+    {
+     "name": "La Repubblica",
+     "url": "https://www.repubblica.it/esteri/2016/10/08/news/yemen_raid_su_un_funerale_a_san_a_centinaia_di_vittime-149368754/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-10-10",
+  "title": "Ankara peace rally bombing",
+  "category": "terrorism",
+  "location": "Ankara, Turkey",
+  "lives_lost": 102,
+  "description": "Two suicide bombers attacked a peace-rally gathering outside Ankara's central railway station on October 10, 2015. The toll rose to 103 in November 2015; later commemorative accounts differ on whether 103 or 104 victims are counted. Islamic State was identified as responsible.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ],
+  "archive_id": "events-47df603d728a60fae18b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "102 superseded by103 in November2015; 2025 accounts still differ103/104. The record's109 is not reconciled with these sources. Morning October10 date sound; final fatality definition and later deaths unresolved.",
+   "sources": [
+    {
+     "name": "Anadolu, November 2015 toll update",
+     "url": "https://www.aa.com.tr/en/turkey/103rd-ankara-bomb-attack-victim-dies/475882"
+    },
+    {
+     "name": "DW, 2025 commemoration",
+     "url": "https://amp.dw.com/tr/ankara-gar-katliam%C4%B1n%C4%B1n-10-y%C4%B1l%C4%B1nda-hayat%C4%B1n%C4%B1-kaybedenler-an%C4%B1ld%C4%B1/a-74309867"
+    },
+    {
+     "name": "Turkish Parliament, 2025 statement",
+     "url": "https://www.tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=137674"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2019-10-12",
+  "title": "Typhoon Hagibis",
+  "category": "natural-disaster",
+  "location": "Honshu, Japan",
+  "lives_lost": 100,
+  "description": "Typhoon Hagibis, one of the most powerful typhoons to strike Japan in decades, made landfall on the Izu Peninsula near Tokyo on 12 October 2019, bringing record rainfall that caused more than 70 rivers to overflow and widespread landslides. Around 100 people were killed, more than 350 were injured and thousands of homes were flooded, with several prefectures including Nagano, Fukushima and Miyagi among the worst affected. The storm disrupted transport, power and the 2019 Rugby World Cup, and the government described the scale of damage as unprecedented.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "NHK World-Japan"
+  ],
+  "archive_id": "events-fdd1c3013f6476b36a0b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Government white paper gives 91 dead, three missing, 42 seriously and 334 lightly injured as of April 10, 2020. About 100 may reflect later indirect deaths; source for that basis absent. Need consistent final interval and source for 70 rivers/world-cup/superlative claims. Only one source was established in this batch, below the two-source publication minimum.",
+   "sources": [
+    {
+     "name": "Japan Cabinet Office",
+     "url": "https://www.bousai.go.jp/en/documentation/white_paper/pdf/2020/SF1-1.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2017-10-14",
+  "title": "Mogadishu truck bombing",
+  "category": "terrorism",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 587,
+  "description": "A truck bombing devastated Mogadishu's Zoobe intersection on October 14, 2017. The Zobe Rescue Committee later reported 587 deaths, but a UN monitoring report cites 582 and also notes a separate 587 count. The final toll and scope of the day's separate explosions need reconciliation.",
+  "sources": [
+   "Somali Parliamentary Committee",
+   "Reuters",
+   "BBC News",
+   "Hiiraan Online"
+  ],
+  "archive_id": "events-cf2f72feda8a15bd796d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Hiiraan's March 5 report attributes 587 to the Zobe Rescue Committee of volunteers and officials, not a parliamentary committee. Its final report was released March 4, increasing December's 512. The UN monitoring report gives as many as 582 in its main text and notes ACLED's 587, an unresolved discrepancy. Also distinguish the principal truck blast from the second explosion before assigning a combined toll. Original Hiiraan URL failed to open; an indexed rendering supplied the article text.",
+   "sources": [
+    {
+     "name": "Hiiraan Online, original report URL",
+     "url": "https://hiiraan.com/news4/2018/Mar/157047/committee_587_dead_in_oct_14_terror_attack.aspx"
+    },
+    {
+     "name": "Hiiraan Online report, accessible archived rendering",
+     "url": "https://unvis.it/hiiraan.com/news4/2018/Mar/157047/committee_587_dead_in_oct_14_terror_attack.aspx"
+    },
+    {
+     "name": "UN Somalia Monitoring Group report S/2018/1002",
+     "url": "https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/118531/Report-of-the-Monitoring-Group-on-Somalia-and.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2017-10-17",
+  "title": "End of the Raqqa campaign declared",
+  "category": "war",
+  "location": "Raqqa, Syria",
+  "lives_lost": 1800,
+  "description": "The SDF and US-led coalition operation to capture Raqqa from Islamic State was declared complete on October 17, 2017. A later Amnesty International and Airwars investigation reported more than 1,600 civilians killed by coalition air and artillery strikes during the June-October campaign. That figure is not an all-perpetrator battle total.",
+  "sources": [
+   "Airwars",
+   "Amnesty International",
+   "Syrian Observatory for Human Rights"
+  ],
+  "archive_id": "events-ca48f4b94dff397d5204",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The operation was declared complete October 17 after beginning June 6. Amnesty/Airwars' later investigation reports more than 1,600 civilian deaths from coalition air and artillery strikes, not a 1,300-1,600 airstrike-only range. That source-specific count does not establish the original 1,800 all-perpetrator battle total or reconcile the several local-monitor totals. Keep core toll unresolved; do not create a synthetic midpoint across differently scoped estimates.",
+   "sources": [
+    {
+     "name": "Amnesty International / Airwars, 2019 investigation",
+     "url": "https://www.amnesty.org/en/latest/news/2019/04/syria-unprecedented-investigation-reveals-us-led-coalition-killed-more-than-1600-civilians-in-raqqa-death-trap-2/"
+    },
+    {
+     "name": "Amnesty International, Raqqa project",
+     "url": "https://raqqa.amnesty.org/"
+    },
+    {
+     "name": "Amnesty International, 2018 report",
+     "url": "https://www.amnesty.org/en/wp-content/uploads/2021/05/MDE2483672018ENGLISH.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2017-10-23",
+  "title": "Siege of Marawi ends",
+  "category": "war",
+  "location": "Marawi, Philippines",
+  "lives_lost": 1233,
+  "description": "Fighting between Philippine forces and Islamic State-aligned militants in Marawi began on May 23, 2017. The government declared the city liberated on October 17 and announced the end of combat operations on October 23. Published casualty breakdowns differ in their inclusion of civilians who died of illness.",
+  "sources": [
+   "Armed Forces of the Philippines",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-e4278f15b8f8f5d6d3bb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "October 23 is the declared end of combat operations; the separate liberation announcement was October 17. The original 1,233 sums 978 militants, 168 government personnel and 87 civilians; tertiary reporting says 40 of those civilians died of illness. The Army-hosted clipping repeats some later numbers but an authoritative reconciled total and direct/indirect scope were not established; the presidential briefing failed to open. Remove the inaccurate only-Muslim-majority-city claim and other ancillary rankings/costs. The exact total remains unresolved.",
+   "sources": [
+    {
+     "name": "Philippine News Agency, October 23 declaration",
+     "url": "https://www.pna.gov.ph/articles/1013577"
+    },
+    {
+     "name": "Philippine Presidential Communications Office, October 27 briefing",
+     "url": "https://pco.gov.ph/press-briefing/mindanao-hour-press-briefing-assistant-presidential-spokesperson-ms-china-jocson-maj-gen-restituto-padilla-jr-armed-forces-philippines-spokesperson-assistant-secretary-kr/"
+    },
+    {
+     "name": "Philippine Army news-clipping archive",
+     "url": "https://army.mil.ph/home/images/Daily_News_Clippings/2019/mar/25_mar_19.pdf"
+    },
+    {
+     "name": "Wikipedia, casualty-scope comparison",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Marawi"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2016-10-24",
+  "title": "Quetta police training college attack",
+  "category": "terrorism",
+  "location": "Quetta, Pakistan",
+  "lives_lost": 61,
+  "description": "Attackers stormed the police training college near Quetta late on October 24, 2016. Lashkar-e-Jhangvi claimed collaboration with Islamic State in the attack. Published victim counts range above the initially reported 61.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-d79971995139133835ea",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The Tribune supports the October 24 attack and early 61/165 count. Later Dawn gives 64 including two non-cadet personnel. Australia's listing gives at least 62 and notes LeJ claimed collaboration with Islamic State. The original exact total is not reconciled. Remove the false deadliest-since-2014 ranking: the Lahore Easter bombing in 2016 was deadlier.",
+   "sources": [
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/1208735/militants-attack-police-training-centre-quetta"
+    },
+    {
+     "name": "Dawn, October 26 report",
+     "url": "https://www.dawn.com/news/1292355/yet-another-bloodbath-benumbs-quetta"
+    },
+    {
+     "name": "Australian government, Lashkar-e-Jhangvi listing",
+     "url": "https://www.legislation.gov.au/F2018L00181/asmade/2018-03-02/es/original/pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2015-10-26",
+  "title": "Hindu Kush earthquake",
+  "category": "natural-disaster",
+  "location": "Afghanistan, Pakistan and surrounding region",
+  "lives_lost": 399,
+  "description": "A magnitude 7.5 earthquake struck Afghanistan's Hindu Kush on October 26, 2015. Reports recorded 280 deaths in Pakistan and 115 in Afghanistan, with widespread damage across both countries. A consistent all-country total remains to be established.",
+  "sources": [
+   "USGS",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-460ee59226013941b234",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS confirms magnitude7.5 at09:09UTC October26; primary reports support280 Pakistan and115 Afghanistan. Four India deaths and exact399 total not independently established. Do not silently certify whole regional sum.",
+   "sources": [
+    {
+     "name": "USGS, earthquake timing",
+     "url": "https://www.usgs.gov/news/featured-story/magnitude-75-earthquake-afghanistan"
+    },
+    {
+     "name": "Pakistan disaster assessment",
+     "url": "https://pdma.gov.pk/public/storage/downloads/files/VXuviHxJFLcY6Xw3TXCyRCGUBOAl5EZJK4cwVK7W.pdf"
+    },
+    {
+     "name": "ADRC, Afghanistan update",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=2054&Lang=en"
+    }
+   ]
+  }
  },
  {
   "date": "2018-10-27",
@@ -749,7 +2331,8 @@
   "source_urls": [
    "https://www.thetreeoflife.org/quick-facts",
    "https://www.axios.com/2018/10/27/police-respond-active-shooting-pittsburgh"
-  ]
+  ],
+  "archive_id": "events-4c613c3c8e43c9de7033"
  },
  {
   "date": "2018-10-28",
@@ -765,7 +2348,8 @@
   "source_urls": [
    "https://time.com/5437531/lion-air-jt610-crash-indonesia/",
    "https://airgways.com/2018/11/28/lion-air-jt-610-report-preliminary/"
-  ]
+  ],
+  "archive_id": "events-4b45c748f39f4dab355f"
  },
  {
   "date": "2015-10-31",
@@ -781,7 +2365,8 @@
   "source_urls": [
    "https://time.com/4115941/paris-attacks-isis-sinai/",
    "https://time.com/4236884/egypt-metrojet-crash-sisi-bomb/"
-  ]
+  ],
+  "archive_id": "events-2615aba3e8c36d631a88"
  },
  {
   "date": "2019-10-31",
@@ -799,7 +2384,8 @@
    "https://pid.gov.pk/site/press_detail/12183",
    "https://www.radio.gov.pk/31-10-2019/five-killed-as-fire-engulfed-three-bogies-of-tezgam-express-in-rahim-yar-khan",
    "https://www.dawn.com/news/1531408"
-  ]
+  ],
+  "archive_id": "events-f2ea28dba4749a976830"
  },
  {
   "date": "2017-11-05",
@@ -817,7 +2403,8 @@
    "https://www.justice.gov/archives/opa/pr/justice-department-reaches-multimillion-dollar-civil-settlement-principle-sutherland-springs",
    "https://www.ap.org/?p=36164",
    "https://www.justice.gov/usao-wdtx/pr/lockhart-man-charged-being-convicted-felon-possession-firearm"
-  ]
+  ],
+  "archive_id": "events-d2d4c099bf8bd2c0c8a3"
  },
  {
   "date": "2018-11-08",
@@ -833,7 +2420,8 @@
   "source_urls": [
    "https://www.nist.gov/programs-projects/wildland-urban-interface-wui-fire-data-collection-parcel-vulnerabilities/nist",
    "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M337/K016/337016958.PDF"
-  ]
+  ],
+  "archive_id": "events-f31f158944ee0f70765b"
  },
  {
   "date": "2015-11-12",
@@ -849,7 +2437,8 @@
   "source_urls": [
    "https://www.investing.com/news/world-news/explosion-hit-hezbollah-area-in-lebanon%2C-several-wounded-371020",
    "https://digitallibrary.un.org/record/4000303/files/1365270-EN.pdf"
-  ]
+  ],
+  "archive_id": "events-4e97cb65430ff1a049f0"
  },
  {
   "date": "2017-11-12",
@@ -869,7 +2458,8 @@
    "https://digitallibrary.un.org/record/1663641/files/S_2019_101-EN.pdf",
    "https://corporatesolutions.swissre.com/dam/jcr%3A1b3e94c3-ac4e-4585-aa6f-4d482d8f46cc/sigma1_2018_en.pdf",
    "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL081794"
-  ]
+  ],
+  "archive_id": "events-fc3b4ee0c7dbe4fc3583"
  },
  {
   "date": "2015-11-13",
@@ -885,7 +2475,8 @@
   "source_urls": [
    "https://www.info.gouv.fr/actualite/attentats-du-13-novembre-2015-10-ans-apres",
    "https://www.lemonde.fr/en/france/video/2025/11/12/how-the-november-13-2015-paris-attacks-unfolded-minute-by-minute_6747394_7.html"
-  ]
+  ],
+  "archive_id": "events-285f7c738d19eff5264d"
  },
  {
   "date": "2017-11-24",
@@ -903,7 +2494,46 @@
    "https://www.egypttoday.com/Article/1/34718/Rawdah-Mosque-terrorist-attack-Death-toll-rises-to-311",
    "https://timep.org/2017/12/07/attack-at-rawda-mosque/",
    "https://www.ecoi.net/en/file/local/2009930/egypt0519_web3_0.pdf"
-  ]
+  ],
+  "archive_id": "events-fafae41693f2f7588003"
+ },
+ {
+  "date": "2015-12-01",
+  "title": "Chennai floods",
+  "category": "natural-disaster",
+  "location": "Chennai, India",
+  "lives_lost": 500,
+  "description": "Repeated northeast-monsoon rains flooded Chennai and other parts of Tamil Nadu in November-December 2015. Official and research accounts give differing death totals for the city, state and wider region. The final severe flooding followed early-December rain, but losses accumulated over a longer period.",
+  "sources": [
+   "The Hindu",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-df4901169317e5b41eb6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "500 is broader South India estimate,422 appears in NIDM,470 is statewide monsoon count. December1 does not represent the whole November-December episode. Resolve period and geography before assigning a count/date. NGO CAG differs from Comptroller and Auditor General.",
+   "sources": [
+    {
+     "name": "NIDM, Chennai flood report",
+     "url": "https://nidm.gov.in/PDF/pubs/ChennailFlood_NIDM2021.pdf"
+    },
+    {
+     "name": "NITI Aayog, Tamil Nadu flood review",
+     "url": "https://www.niti.gov.in/sites/default/files/2023-02/Flood-Report.pdf"
+    },
+    {
+     "name": "Citizen consumer and civic Action Group, assessment",
+     "url": "https://www.cag.org.in/sites/default/files/database/chennai-floods-rapid-assessment-report_1.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2015-12-02",
@@ -919,7 +2549,8 @@
   "source_urls": [
    "https://main.sbcounty.gov/wp-content/uploads/sites/80/Reports/December2LegacyDocument.pdf",
    "https://www.fbi.gov/news/stories/fbi-will-investigate-san-bernardino-shootings-as-terrorist-act"
-  ]
+  ],
+  "archive_id": "events-37857787e129da8a5aa8"
  },
  {
   "date": "2019-12-09",
@@ -937,6 +2568,40 @@
    "https://www.coronerscourt.govt.nz/whakaari-white-island-eruption-coronial-inquiry/",
    "https://nzhistory.govt.nz/page/whakaari-white-island-eruption-kills-22",
    "https://www.policeassn.org.nz/news/whakaari-white-island-the-recovery-dvi-teams"
-  ]
+  ],
+  "archive_id": "events-af2702dc00f0a46756f3"
+ },
+ {
+  "date": "2019-12-28",
+  "title": "Mogadishu truck bombing",
+  "category": "terrorism",
+  "location": "Mogadishu, Somalia",
+  "lives_lost": 85,
+  "description": "On 28 December 2019, a truck bomb detonated at the Ex-Control Afgoye checkpoint on the outskirts of Mogadishu, followed by another blast at a bus station in the city, killing at least 85 people and injuring more than 140. The attack hit taxis, buses and minibuses collecting passengers at the checkpoint during rush hour, and al-Shabaab claimed responsibility. It was among the deadliest attacks in Mogadishu in years and targeted a route frequented by civilians travelling between the capital and surrounding towns.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ],
+  "archive_id": "events-5b1b8f0f39ef7df37f65",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "85 appears in later secondary totals. A second bus-station blast is not established and may conflate a different bombing. Need final reputable toll and responsibility statement.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/December_2019_Mogadishu_bombing"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/world/massive-explosion-in-somalias-capital-kills-at-least-26/2019/12/28/4a68a130-2943-11ea-ad73-2fd294520e97_story.html"
+    }
+   ]
+  }
  }
 ]

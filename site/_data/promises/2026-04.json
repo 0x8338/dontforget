@@ -1,0 +1,50 @@
+[
+ {
+  "person": "John Mahama",
+  "role": "President of Ghana",
+  "promise": "Complete Ghana's IMF programme and exit the bailout by April 2026",
+  "date_promised": "2026-02-05",
+  "due_date": "2026-04-30",
+  "status": "kept",
+  "description": "Mahama expected Ghana to exit the borrowing programme by April 2026. The IMF Board completed the sixth and final ECF review on July 27, 2026 and approved a non-financing Policy Coordination Instrument, later than that expectation.",
+  "evidence": [
+   "The May 15, 2026 staff agreement required Board approval; the final Board decision came July 27, 2026."
+  ],
+  "sources": [
+   "Citi Newsroom",
+   "GhanaWeb",
+   "Graphic Online"
+  ],
+  "source_urls": [
+   "https://www.citinewsroom.com/2026/02/mahama-ghana-on-track-to-exit-imf-by-april-2026/",
+   "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/FULL-TEXT-IMF-backs-Ghana-s-recovery-with-new-36-month-reform-programme-2034737",
+   "https://graphiconline.com/news/general-news/ghana-news-nation-ends-imf-programme-opts-for-new-36-month-technical-assistance-to-deepen-progress.html"
+  ],
+  "archive_id": "promises-22755ba6c26df2e69c3f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "The April exit expectation is reported in February coverage. May 15 was staff agreement, not programme completion: Board completion was July 27. The exact February 5 speech day is not established by the February 6 video and February 14 newsletter.",
+   "sources": [
+    {
+     "name": "Ghana Presidency",
+     "url": "https://presidency.gov.gh/wp-content/uploads/2026/02/35th-Edition_2.pdf"
+    },
+    {
+     "name": "ChannelOne TV",
+     "url": "https://www.youtube.com/watch?v=_oVl3j1bauw"
+    },
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/05/15/pr26152-ghana-imf-staff-completes-2026-aiv-consult-reaches-sla-6th-rev-ecf-arr-36mo-pci-request"
+    },
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/07/27/pr25260-ghana-imf-exec-board-completes-6th-rev-arr-ecf-concludes-2026-aiv-consult-rev-req-36mo-pci"
+    }
+   ]
+  }
+ }
+]

@@ -1,5 +1,72 @@
 [
  {
+  "person": "Donald Trump",
+  "role": "President of the United States",
+  "promise": "End inflation within the first year of his second term",
+  "date_promised": "2024-08-14",
+  "due_date": "2026-01-20",
+  "status": "broken",
+  "description": "In an August 2024 economic address Trump pledged to use 'every tool' to defeat inflation within the first year of a second term. US CPI inflation remained positive at roughly 2.5-3% through 2025, and prices never fell.",
+  "evidence": [
+   "CPI remained around 2.5-3% throughout 2025",
+   "Trump later said lowering prices was 'hard' and 'can't guarantee anything'"
+  ],
+  "sources": [
+   "Trump campaign rally speech",
+   "Bureau of Labor Statistics",
+   "Meet the Press"
+  ],
+  "archive_id": "promises-55ddd6782664113d156e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Senate report cites August 14 speech but first-year deadline unestablished. Ending inflation does not require prices to fall; current evidence conflates disinflation and deflation. Need speech and BLS series.",
+   "sources": [
+    {
+     "name": "US Senate Banking Committee",
+     "url": "https://www.banking.senate.gov/imo/media/doc/1_year_costs_report.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Energy prices will come down 50% or more within a year",
+  "date_promised": "2025-01-20",
+  "due_date": "2026-01-20",
+  "status": "broken",
+  "description": "Trump's campaign pledge was to cut energy costs by half in his first year. PolitiFact found gasoline declined from $3.11 at inauguration to $2.78 in the second week of January 2026, while electricity and natural-gas prices rose.",
+  "evidence": [
+   "January 2026 prices did not demonstrate a 50% reduction in energy costs."
+  ],
+  "sources": [
+   "AP News fact check (Jan-Feb 2025)",
+   "Reuters US energy price data"
+  ],
+  "archive_id": "promises-c9c36dbbd48d0e525dca",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "PolitiFact supports missed first-year target but gives $2.78 gasoline in January 2026, contradicting claim it stayed $3.10-3.30. January 20 pledge date not established; promise originated during campaign.",
+   "sources": [
+    {
+     "name": "PolitiFact",
+     "url": "https://politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387683/lower-energy-costs-within-the-first-year-by-50/article/387686/"
+    }
+   ]
+  }
+ },
+ {
   "person": "High Seas Treaty (BBNJ Agreement) parties",
   "role": "United Nations member states ratifying the BBNJ Agreement",
   "promise": "Bring the BBNJ Agreement into force 120 days after the sixtieth ratification",
@@ -17,6 +84,47 @@
   "source_urls": [
    "https://www.un.org/bbnjagreement/en",
    "https://data.consilium.europa.eu/doc/document/ST-6889-2026-INIT/en/pdf"
-  ]
+  ],
+  "archive_id": "promises-ab5f43c68709e8481b5e"
+ },
+ {
+  "person": "Anura Kumara Dissanayake",
+  "role": "President of Sri Lanka",
+  "promise": "Initiate talks on a new Constitution in January 2026",
+  "date_promised": "2025-11-19",
+  "due_date": "2026-01-31",
+  "status": "partial",
+  "description": "Dissanayake told the Ilankai Tamil Arasu Kadchi that his government would begin talks on a promised new Constitution in January 2026. A multisectoral dialogue on the new constitution was held in January 2026, and the government continued to accelerate the reform process, though the constitution had not been finalised by mid-2026.",
+  "evidence": [
+   "Multisectoral dialogue on a new constitution held January 2026",
+   "Constitutional reform process ongoing as of July 2026"
+  ],
+  "sources": [
+   "The Hindu",
+   "The Morning (Sri Lanka)",
+   "LankaLeader"
+  ],
+  "archive_id": "promises-8f0caca09597041e9952",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "evidence",
+    "sources"
+   ],
+   "note": "November meeting is supported. Searches for January 2026 implementation found civic constitutional discussion but did not establish the claimed government-led multisectoral dialogue or whether it fulfilled the promised talks. Drafting a constitution is a different outcome from initiating talks; lack of a finalized constitution cannot justify partial status for this narrower promise.",
+   "sources": [
+    {
+     "name": "Newswire: November 19 meeting",
+     "url": "https://www.newswire.lk/2025/11/20/president-meets-tna-details-of-the-meeting-revealed/"
+    },
+    {
+     "name": "Citizens Constitution: January 2026 review",
+     "url": "https://www.citizensconstitution.lk/public/articles/constitutional-reform-governance-week-04-2026"
+    }
+   ]
+  }
  }
 ]

@@ -1,0 +1,38 @@
+[
+ {
+  "person": "Ben Bernanke",
+  "role": "Fed Chairman",
+  "promise": "June 19, 2013: if the labor market improved as forecast, the Fed would 'moderate the monthly pace of purchases later this year' and 'likely conclude purchases around the middle of 2014' (QE3 taper guidance)",
+  "date_promised": "2013-06-19",
+  "due_date": "2014-12-31",
+  "status": "kept",
+  "description": "Bernanke described a conditional path for tapering later in 2013 and ending purchases around mid-2014 if the economy evolved as projected. Asset purchases continued through October 2014.",
+  "evidence": [
+   "The June 2013 transcript emphasizes that the timetable depended on incoming economic data."
+  ],
+  "sources": [
+   "FOMC press conference transcript, Jun 19, 2013, federalreserve.gov/mediacenter/files/FOMCpresconf20130619.pdf",
+   "FOMC statement"
+  ],
+  "archive_id": "promises-6983501c57ae406bec50",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Announcement is June 19, 2013, not 2020. Bernanke explicitly made the path conditional on economic data and referred to mid-2014, not a December deadline. Purchases continued until October 2014. Kept is not supported against an unconditional midyear promise because no such promise was made.",
+   "sources": [
+    {
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20130619.pdf"
+    },
+    {
+     "name": "Federal Reserve",
+     "url": "https://www.federalreserve.gov/FOMC/fundsrate.htm"
+    }
+   ]
+  }
+ }
+]

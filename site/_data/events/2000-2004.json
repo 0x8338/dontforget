@@ -13,7 +13,8 @@
   "source_urls": [
    "https://2009-2017.state.gov/j/ct/rls/crt/2003/33773.htm",
    "https://api.icj-cij.org/sites/default/files/case-related/131/1579.pdf"
-  ]
+  ],
+  "archive_id": "events-8da7a0c9ab3a5d6815a8"
  },
  {
   "date": "2001-01-13",
@@ -29,7 +30,40 @@
   "source_urls": [
    "https://escweb.wr.usgs.gov/nsmp-data/data_sets/20010113_1.html",
    "https://acrs-aars.org/proceeding/ACRS2001/Papers/DSM1-09.pdf"
-  ]
+  ],
+  "archive_id": "events-6a7ec5fe33d235778829"
+ },
+ {
+  "date": "2002-01-17",
+  "title": "Mount Nyiragongo eruption",
+  "category": "natural-disaster",
+  "location": "Goma, Democratic Republic of the Congo",
+  "lives_lost": 100,
+  "description": "Nyiragongo erupted on January 17, 2002, sending lava through Goma and causing mass evacuation. A Smithsonian report records conflicting mortality assessments: 147 deaths reported by the UN and about 70 estimated by a subsequent medical field investigation. Both include deaths in a petrol-station explosion on January 21.",
+  "sources": [
+   "BBC News",
+   "ReliefWeb",
+   "USGS"
+  ],
+  "archive_id": "events-f52cbba871d35e14b43d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The original 100 is not established as an enumerated toll. The Smithsonian report explicitly contrasts a UN count of 147, including 60-100 petrol-station deaths, with Peter Baxter's field assessment of about 70 total and about 20 at the petrol station. This is a substantive contradiction within the same source, not resolved by attribution alone. The proposed 147 is only a documented alternative and must not be published as settled.",
+   "sources": [
+    {
+     "name": "Smithsonian Global Volcanism Program",
+     "url": "https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN200204-223030"
+    },
+    {
+     "name": "USGS",
+     "url": "https://www.usgs.gov/news/volcano-watch-nyirangongo-could-it-happen-here"
+    }
+   ]
+  }
  },
  {
   "date": "2001-01-26",
@@ -45,7 +79,8 @@
   "source_urls": [
    "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a8ds/executive",
    "https://www.istructe.org/sitefiles/handlers/downloadfile.ashx?productid=9288"
-  ]
+  ],
+  "archive_id": "events-5a8a6f4ec0f15c1ace68"
  },
  {
   "date": "2000-02-05",
@@ -61,7 +96,8 @@
   "source_urls": [
    "https://phr.org/wp-content/uploads/2001/05/chechnya-endless-brutality-report2001.pdf",
    "https://www.hrw.org/news/2007/07/25/russia-european-court-rules-chechnya-massacre"
-  ]
+  ],
+  "archive_id": "events-ae4e4d4794a4a5c5795d"
  },
  {
   "date": "2001-02-13",
@@ -77,7 +113,8 @@
   "source_urls": [
    "https://www.snet.gob.sv/Geologia/Sismologia/13%20de%20febrero/13%20de%20febrero.htm",
    "https://citeseerx.ist.psu.edu/document?doi=4399e11b7f43e47c98a075a7bdef1fa662631e42&repid=rep1&type=pdf"
-  ]
+  ],
+  "archive_id": "events-257028318308a7859033"
  },
  {
   "date": "2003-02-18",
@@ -93,7 +130,8 @@
   "source_urls": [
    "https://www.archives.go.kr/next/newsearch/listSubjectDescription.do?id=001920&pageFlag=&sitePage=",
    "https://www.koreajoongangdaily.com/korea/subway-official-told-driver-of-train-to-leave-passengers/10685420"
-  ]
+  ],
+  "archive_id": "events-9e608e918a1f0529065c"
  },
  {
   "date": "2003-02-19",
@@ -109,7 +147,8 @@
   "source_urls": [
    "https://www.baaa-acro.com/crash/crash-ilyushin-ii-76md-near-kerman-275-killed",
    "https://planecrashinfo.com/2003/2003-10.htm"
-  ]
+  ],
+  "archive_id": "events-24e2279b72c0f1db8def"
  },
  {
   "date": "2000-02-21",
@@ -125,7 +164,8 @@
   "source_urls": [
    "https://www.hrw.org/reports/2003/nigeria0703/2.htm",
    "https://www.hrw.org/news/2003/07/22/nigeria-no-justice-kaduna-killings"
-  ]
+  ],
+  "archive_id": "events-734c03f6c1287877f056"
  },
  {
   "date": "2003-02-21",
@@ -141,7 +181,8 @@
   "source_urls": [
    "https://www.nist.gov/disaster-failure-studies/station-nightclub-fire-2003",
    "https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar2v1.pdf"
-  ]
+  ],
+  "archive_id": "events-7bf521a6423c947ac2fa"
  },
  {
   "date": "2000-02-22",
@@ -157,7 +198,8 @@
   "source_urls": [
    "https://documents1.worldbank.org/curated/en/431831468323993440/pdf/multi0page.pdf",
    "https://digitallibrary.un.org/record/477212/files/FCCC_SBI_2002_INF.14-EN.pdf"
-  ]
+  ],
+  "archive_id": "events-3402ac7a1a8cfba64830"
  },
  {
   "date": "2003-02-24",
@@ -173,7 +215,78 @@
   "source_urls": [
    "https://monusco.unmissions.org/en/node/6930",
    "https://www.internationalcrimesdatabase.org/Case/3260"
-  ]
+  ],
+  "archive_id": "events-bb6e11c0c0762267bddb"
+ },
+ {
+  "date": "2004-02-24",
+  "title": "Al Hoceima earthquake",
+  "category": "natural-disaster",
+  "location": "Al Hoceima, Morocco",
+  "lives_lost": 628,
+  "description": "A magnitude 6.4 earthquake struck near Al Hoceima in northern Morocco on February 24, 2004. A subsequent regional support committee report recorded 628 deaths and 926 injuries. Thousands of homes were destroyed and more than 15,000 people displaced.",
+  "sources": [
+   "UN OCHA",
+   "NOAA NGDC",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-774bf08e12a84ff292fb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS gives Mw 6.4, not 6.5. ADRC preserves the March official count of 628 and 926 injured; another reference gives 631, so attribute 628 to that report rather than call it an uncontested final toll. UTC earthquake date is February 24. The later 631 figure is not reconciled with the March snapshot; changing the prose's attribution alone does not establish final mortality. Withhold pending that reconciliation.",
+   "sources": [
+    {
+     "name": "USGS earthquake poster",
+     "url": "https://earthquake.usgs.gov/product/poster/20040224/us/1457985565227/poster.pdf"
+    },
+    {
+     "name": "ADRC official-report chronology",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=692&Lang=en&NationCode=504"
+    },
+    {
+     "name": "Wikipedia summary with differing toll",
+     "url": "https://en.wikipedia.org/wiki/2004_Al_Hoceima_earthquake"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2003-02-26",
+  "title": "Outbreak of the Darfur conflict",
+  "category": "war",
+  "location": "Darfur, Sudan",
+  "lives_lost": 3000,
+  "description": "Rebel groups attacked a government air base in North Darfur, triggering a counterinsurgency campaign by the Sudanese government and allied Janjaweed militias that killed an estimated 3,000 civilians and displaced more than 600,000 people by the end of 2003. The conflict escalated into a sustained campaign of attacks on civilian villages.",
+  "sources": [
+   "International Crisis Group",
+   "US State Department",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-c0d8719cff7f2e6ea278",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "HRW supports conflict beginning in February 2003, but the airfield attack belongs to April 25, not the supplied February 26 date. No checked evidence establishes precisely 3,000 civilian deaths or 600,000 displaced by December 2003. Resolve onset convention and annual scope before publication; do not present this as one day's toll.",
+   "sources": [
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/legacy/backgrounder/africa/darfur0105/1.htm"
+    },
+    {
+     "name": "Human Rights and Human Welfare paper",
+     "url": "https://ciaotest.cc.columbia.edu/wps/hrhw/0015682/f_0015682_13683.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2004-02-26",
@@ -189,7 +302,8 @@
   "source_urls": [
    "https://portcalls.com/superferry-14-fire-claims-2-casualties/",
    "https://en.wikipedia.org/wiki/MV_SuperFerry_14"
-  ]
+  ],
+  "archive_id": "events-aeee2c02dde87426aedb"
  },
  {
   "date": "2002-02-27",
@@ -205,7 +319,136 @@
   "source_urls": [
    "https://www.hrw.org/news/2012/02/24/india-decade-gujarat-justice-incomplete",
    "https://www.pudr.org/publicatiosn-files/2003-9-TERROR%20BY%20PROXY_PDR_2003.pdf"
-  ]
+  ],
+  "archive_id": "events-fcb14d5de31ef5c73bfa"
+ },
+ {
+  "date": "2002-02-28",
+  "title": "2002 Gujarat riots",
+  "category": "war",
+  "location": "Gujarat, India",
+  "lives_lost": 1000,
+  "description": "Weeks of communal rioting followed the Godhra train burning, with violence concentrated in Ahmedabad and other Gujarat cities. The official death toll was about 1,000, while independent estimates range up to 2,000, most of them Muslims.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "The Guardian"
+  ],
+  "archive_id": "events-3594a1405accacb12865",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "HRW supports mass violence and higher estimates, but its retrospective says retaliatory attacks had already begun on 27 February, before the major 28 February escalation. The rounded official count needs a primary final tally and explicit exclusion/inclusion of Godhra victims to prevent overlap.",
+   "sources": [
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/reports/2003/india0703/Gujarat-02.htm"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/reports/2002/india/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2000-03-01",
+  "title": "Ethiopia drought and food crisis",
+  "category": "food-crisis",
+  "location": "Ogaden region, Ethiopia",
+  "lives_lost": 2000,
+  "description": "After years of failed rains, a severe drought gripped southeastern Ethiopia with 8 million facing severe food shortages. Malnutrition-related deaths ran into the low thousands before international relief averted a repeat of the 1984-85 famine.",
+  "sources": [
+   "BBC News",
+   "UN OCHA"
+  ],
+  "archive_id": "events-800e2790f72efefb60d4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "FAO supports the regional drought and roughly eight million needing assistance. No reviewed source establishes 1 March as a discrete event or 2,000 as a measured death toll. Do not convert a broad crisis estimate into a daily count.",
+   "sources": [
+    {
+     "name": "FAO",
+     "url": "https://www.fao.org/4/X4358E/X4358E00.htm"
+    },
+    {
+     "name": "FAO",
+     "url": "https://www.fao.org/4/X7039E/X7039E00.htm"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2004-03-02",
+  "title": "Ashura bombings in Karbala and Baghdad",
+  "category": "terrorism",
+  "location": "Karbala and Baghdad, Iraq",
+  "lives_lost": 182,
+  "description": "Coordinated explosions struck Shia worshippers observing Ashura in Karbala and Baghdad on March 2, 2004. Contemporary reports gave differing casualty totals, including 182 deaths; hundreds were injured.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Xinhua"
+  ],
+  "archive_id": "events-4abd7207bbcdbea57cda",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Contemporary RTE reports 182, while Japan's retrospective diplomatic bluebook says over 170 with over 390 injured; final 182/550 is not established. Initial weapon accounts were disputed. Correct geographic scope and remove speculative tactical detail.",
+   "sources": [
+    {
+     "name": "RTE",
+     "url": "https://www.rte.ie/news/2004/0302/46703-iraq/"
+    },
+    {
+     "name": "Japan Ministry of Foreign Affairs",
+     "url": "https://www.mofa.go.jp/policy/other/bluebook/2005/ch3-a.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2000-03-11",
+  "title": "Barakova coal mine explosion",
+  "category": "industrial",
+  "location": "Krasnodon, Ukraine",
+  "lives_lost": 80,
+  "description": "An explosion at the Barakova coal mine in the Krasnodon region on March 11, 2000 killed dozens of miners. RFE/RL subsequently reported 81 deaths, while contemporary Guardian reporting gave 82.",
+  "sources": [
+   "BBC News",
+   "Kyiv Post"
+  ],
+  "archive_id": "events-1d6a3ac00782626a9475",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The original 80 was an early count. RFE/RL on March 16 reports 81, while The Guardian on March 13 reports 82. The sources do not explain that reduction or establish a reconciled final count. The source-attributed 81 is a candidate correction only; the unresolved exact toll prevents publication.",
+   "sources": [
+    {
+     "name": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/1093520.html"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2000/mar/13/iantraynor"
+    }
+   ]
+  }
  },
  {
   "date": "2004-03-11",
@@ -223,7 +466,8 @@
    "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2024/20240306-exhibition-11-march.aspx",
    "https://www.defensa.gob.es/comun/slider/2024/03/240311-20-aniversario-11m.html",
    "https://apnews.com/article/b9401479c8bc434da6c763ca5bf4b76e"
-  ]
+  ],
+  "archive_id": "events-e3ea51ec07013b798780"
  },
  {
   "date": "2000-03-20",
@@ -239,7 +483,8 @@
   "source_urls": [
    "https://www.congress.gov/106/crec/2000/03/21/146/32/CREC-2000-03-21.pdf",
    "https://en.wikipedia.org/wiki/Chittisinghpura_massacre"
-  ]
+  ],
+  "archive_id": "events-38b228f076d13cf36a95"
  },
  {
   "date": "2003-03-20",
@@ -255,7 +500,8 @@
   "source_urls": [
    "https://reports.iraqbodycount.org/a_dossier_of_civilian_casualties_2003-2005.pdf",
    "https://www.iraqbodycount.org/analysis/numbers/ten-years/"
-  ]
+  ],
+  "archive_id": "events-510db731933bc34c35ab"
  },
  {
   "date": "2002-03-25",
@@ -271,7 +517,8 @@
   "source_urls": [
    "https://go-api.ifrc.org/publicfile/download?name=100205.pdf&path=%2Fdocs%2Fappeals%2F02%2F",
    "https://disasterscharter.org/activations/earthquakes-in-afghanist-1"
-  ]
+  ],
+  "archive_id": "events-a2835aca9c128a48e3c3"
  },
  {
   "date": "2002-03-27",
@@ -287,7 +534,8 @@
   "source_urls": [
    "https://www.ynetnews.com/articles/0%2C7340%2CL-3685678%2C00.html",
    "https://www.idf.il/en/mini-sites/wars-and-operations/operation-defensive-shield/"
-  ]
+  ],
+  "archive_id": "events-7d0b7ba8a0d390d63c04"
  },
  {
   "date": "2004-04-04",
@@ -303,7 +551,8 @@
   "source_urls": [
    "https://www.iraqbodycount.org/analysis/beyond/besieged_fallujah/",
    "https://www.iraqbodycount.org/database/incidents/x360"
-  ]
+  ],
+  "archive_id": "events-75344d23ef4b2a18e081"
  },
  {
   "date": "2002-04-15",
@@ -319,7 +568,8 @@
   "source_urls": [
    "https://skybrary.aero/sites/default/files/bookshelf/549.pdf",
    "https://en.wikipedia.org/wiki/Air_China_Flight_129"
-  ]
+  ],
+  "archive_id": "events-3631b686f4135809f0b8"
  },
  {
   "date": "2004-04-22",
@@ -335,7 +585,8 @@
   "source_urls": [
    "https://www.ifrc.org/docs?file=appeals%2Fannual04%2F016804AR.pdf",
    "https://www.aria.developpement-durable.gouv.fr/accident/26980_en/?lang=en"
-  ]
+  ],
+  "archive_id": "events-959585c383aed88c941a"
  },
  {
   "date": "2002-05-02",
@@ -351,7 +602,72 @@
   "source_urls": [
    "https://www.unidadvictimas.gov.co/especiales/Bojaya2022/",
    "https://www.unhcr.org/africa/news/colombian-town-slowly-returns-normal-five-years-after-massacre"
-  ]
+  ],
+  "archive_id": "events-b5532cfbd0d82f354dcc"
+ },
+ {
+  "date": "2003-05-12",
+  "title": "Riyadh compound bombings",
+  "category": "terrorism",
+  "location": "Riyadh, Saudi Arabia",
+  "lives_lost": 35,
+  "description": "Al-Qaeda suicide bombers attacked three foreign residential compounds in Riyadh with car bombs, killing 35 people including nine Americans and wounding more than 160. The attacks marked the beginning of a militant campaign inside Saudi Arabia.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Rewards for Justice"
+  ],
+  "archive_id": "events-f34797094196249bf154",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Rewards for Justice explicitly reports 35 killed, including nine Americans, but another US government chronology reports 34 including nine attackers. Their fatality populations do not clearly align. Date, three compounds and al-Qaeda attribution are supported; victim-only versus attacker-inclusive scope needs resolution before accepting 35.",
+   "sources": [
+    {
+     "name": "Rewards for Justice",
+     "url": "https://rewardsforjustice.net/rewards/bombings-of-residential-compounds-riyadh-saudi-arabia-may-12-2003/"
+    },
+    {
+     "name": "US Congressional Record",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-2005-07-13/pdf/CREC-2005-07-13-senate.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2003-05-12",
+  "title": "Znamenskoye truck bombing",
+  "category": "terrorism",
+  "location": "Znamenskoye, Chechnya, Russia",
+  "lives_lost": 59,
+  "description": "A suicide truck bombing struck a government and security compound in Znamenskoye, Chechnya, on May 12, 2003. A UN chronology records 59 people killed. The attack also injured about 200 people.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "OCHA"
+  ],
+  "archive_id": "events-903ee9f5a2c4c95978ea",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UN chronology supports May 12 and 59 deaths. Checked sources do not establish the claim that Basayev claimed responsibility. Remove that assertion rather than converting allegations into fact; exact attacker inclusion is not specified in the UN total. That unresolved attacker/victim scope remains a publication blocker despite the supported shorter prose.",
+   "sources": [
+    {
+     "name": "UN Security Council document S/2003/669",
+     "url": "https://digitallibrary.un.org/record/498936/files/S_2003_669-EN.pdf"
+    },
+    {
+     "name": "Wikipedia event summary",
+     "url": "https://en.wikipedia.org/wiki/2003_Znamenskoye_suicide_bombing"
+    }
+   ]
+  }
  },
  {
   "date": "2000-05-13",
@@ -367,7 +683,8 @@
   "source_urls": [
    "https://www.enschede.nl/vuurwerkramp",
    "https://visitenschede.nl/know/fireworksdisaster"
-  ]
+  ],
+  "archive_id": "events-d0ba5dab16b3c722cf4b"
  },
  {
   "date": "2003-05-16",
@@ -383,7 +700,68 @@
   "source_urls": [
    "https://en.wikipedia.org/wiki/2003_Casablanca_bombings",
    "https://www.aljazeera.com/news/2004/5/1/casablanca-blast-suspects-arrested"
-  ]
+  ],
+  "archive_id": "events-09622528d8d1461d12c5"
+ },
+ {
+  "date": "2003-05-21",
+  "title": "Boumerdès earthquake",
+  "category": "natural-disaster",
+  "location": "Boumerdès, Algeria",
+  "lives_lost": 2266,
+  "description": "A magnitude 6.8 earthquake struck offshore near Zemmouri in Boumerdes Province on May 21, 2003, causing extensive destruction in northern Algeria. Algeria's CRAAG reports 2,365 deaths, while other summaries give 2,266; the totals are not reconciled here.",
+  "sources": [
+   "BBC News",
+   "USGS",
+   "UNICEF"
+  ],
+  "archive_id": "events-97c292d117259dc6b51c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Full CRAAG text confirms May 21 at 19:44 local time and Mw 6.8, but reports 2,365 deaths, not the original/reference-summary figure of 2,266. The earlier ledger note missed this contradiction. No source-level reconciliation establishes a final total. Remove the ranking, injury and homelessness precision, and withhold the row pending mortality reconciliation.",
+   "sources": [
+    {
+     "name": "CRAAG",
+     "url": "https://www.craag.dz/index.php/seisme-de-boumerdes/"
+    },
+    {
+     "name": "Wikipedia earthquake summary",
+     "url": "https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2000-05-23",
+  "title": "Poso sectarian riots",
+  "category": "war",
+  "location": "Poso, Central Sulawesi, Indonesia",
+  "lives_lost": 300,
+  "description": "The third and deadliest phase of the Poso riots between Christian and Muslim communities. An estimated 300 people were killed.",
+  "sources": [
+   "BBC News",
+   "The New York Times"
+  ],
+  "archive_id": "events-56955f571d5b3f14345b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "HRW identifies May-June 2000 as the third phase and explains that aggregate fatality counts are uncertain. Exact 23 May onset and phase-specific 300 deaths were not established by the reviewed evidence.",
+   "sources": [
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/reports/2002/indonesia/indonesia1102-04.htm"
+    }
+   ]
+  }
  },
  {
   "date": "2002-05-25",
@@ -399,7 +777,8 @@
   "source_urls": [
    "https://www.faa.gov/lessons_learned/transport_airplane/accidents/B-18255",
    "https://www.faa.gov/sites/faa.gov/files/2022-11/CI611_English_VOL_1.pdf"
-  ]
+  ],
+  "archive_id": "events-ef545ce2b09503ecabe0"
  },
  {
   "date": "2001-06-01",
@@ -415,7 +794,8 @@
   "source_urls": [
    "https://www.hrw.org/reports/2002/isrl-pa/ISRAELPA1002-08.htm",
    "https://en.wikipedia.org/wiki/Dolphinarium_discotheque_bombing"
-  ]
+  ],
+  "archive_id": "events-b246ab72b5fd1401667c"
  },
  {
   "date": "2001-06-01",
@@ -431,7 +811,41 @@
   "source_urls": [
    "https://www.icj.org/wp-content/uploads/2004/01/ICJ-Yearbook-2004-ICJ-yearbook-2004-eng.pdf",
    "https://eparlib.sansad.in/bitstream/123456789/408838/1/25393.pdf"
-  ]
+  ],
+  "archive_id": "events-72df718677d2e10f8f73"
+ },
+ {
+  "date": "2002-06-01",
+  "title": "Southern Africa food crisis",
+  "category": "food-crisis",
+  "location": "Southern Africa",
+  "lives_lost": 300000,
+  "description": "Southern Africa faced a regional food and health emergency in 2002. WHO warned in August that the crisis could cause 300,000 additional deaths over the following six months; that was a projection, not a measured death toll. WFP later reported that relief helped prevent the food crisis from becoming a famine.",
+  "sources": [
+   "World Health Organization",
+   "UN World Food Programme",
+   "BBC News"
+  ],
+  "archive_id": "events-1ff89f0d176bba7bf474",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Critical: 300,000 was WHO's prospective warning of possible additional deaths, not observed mortality. Statements were issued in August/October, not 1 June. No defensible positive replacement toll or daily date established. Quarantine/remove from observed-death totals pending resolution; do not retain the projection as actual deaths.",
+   "sources": [
+    {
+     "name": "World Health Organization",
+     "url": "https://www.who.int/news/item/04-08-2002-health-conditions-aggravate-southern-africa-famine"
+    },
+    {
+     "name": "World Food Programme",
+     "url": "https://cdn.wfp.org/wfp.org/publications/2002_wfp_annual_report.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2002-06-18",
@@ -447,7 +861,42 @@
   "source_urls": [
    "https://www.ynet.co.il/articles/1%2C7340%2CL-1949755%2C00.html",
    "https://en.wikipedia.org/wiki/Patt_Junction_bus_bombing"
-  ]
+  ],
+  "archive_id": "events-1e5276ecf243472cf63e"
+ },
+ {
+  "date": "2001-06-21",
+  "title": "Afghanistan Drought and Famine Crisis",
+  "category": "food-crisis",
+  "location": "Afghanistan (nationwide)",
+  "lives_lost": 5000,
+  "description": "Afghanistan's third consecutive year of severe drought brought the country to the brink of famine, with FAO and WFP reporting that about 5.5 million people faced severe food shortages by mid-2001. World Bank and UN officials warned of famine conditions and reported thousands of deaths from starvation and exposure, though the total death toll was never precisely counted.",
+  "sources": [
+   "FAO",
+   "World Food Programme",
+   "World Bank",
+   "BBC News"
+  ],
+  "archive_id": "events-c41259b63342a52efac5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "FAO/WFP confirms a third drought year and famine risk. The 5.5 million assistance target is documented in September, not a specific 21 June incident. Neither a 5,000 death toll nor the asserted World Bank attribution is established.",
+   "sources": [
+    {
+     "name": "FAO/WFP",
+     "url": "https://www.fao.org/4/y1259e/y1259e00.htm"
+    },
+    {
+     "name": "World Food Programme",
+     "url": "https://one.wfp.org/Newsroom/press_releases/2001/0906.htm"
+    }
+   ]
+  }
  },
  {
   "date": "2002-06-22",
@@ -463,7 +912,40 @@
   "source_urls": [
    "https://jsnds.sakura.ne.jp/shasin/009.html",
    "https://go-api.ifrc.org/publicfile/download?name=170202.pdf&path=%2Fdocs%2Fappeals%2F02%2F"
-  ]
+  ],
+  "archive_id": "events-e8a0886e16f5b4ecd077"
+ },
+ {
+  "date": "2001-06-23",
+  "title": "Southern Peru Earthquake",
+  "category": "natural-disaster",
+  "location": "Arequipa, Peru",
+  "lives_lost": 100,
+  "description": "A magnitude 8.4 earthquake struck off the coast of southern Peru, killing roughly 100 people and injuring more than 1,300, with most deaths in the Arequipa region. The quake triggered a tsunami that killed about two dozen people in the Camaná area and damaged or destroyed thousands of buildings, including historic structures in Arequipa.",
+  "sources": [
+   "USGS",
+   "ReliefWeb",
+   "MSF"
+  ],
+  "archive_id": "events-edfac80b1cbe0a436e41",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS confirms 23 June, Mw 8.4, southern Peru and tsunami. EERI's initial assessment gives 77 dead, 68 missing and 2,713 wounded; the record mixes rounded and preliminary figures. Final deaths versus missing and tsunami subtotal require reconciliation before changing 100.",
+   "sources": [
+    {
+     "name": "USGS",
+     "url": "https://www.usgs.gov/centers/pcmsc/science/preliminary-analysis-tsunami-generated-june-23-2001-peru-earthquake"
+    },
+    {
+     "name": "Earthquake Engineering Research Institute",
+     "url": "https://www.eeri.org/lfe/pdf/peru_arequipa_initial_reconnaissance_part1.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2002-07-01",
@@ -479,7 +961,43 @@
   "source_urls": [
    "https://www.icao.int/safety/fsix/Documents/sr/synopsis/02001351_Synopsis.pdf",
    "https://www.baaa-acro.com/city/uberlingen"
-  ]
+  ],
+  "archive_id": "events-f796c3dc253481e7c0eb"
+ },
+ {
+  "date": "2003-07-01",
+  "title": "Yangtze and Huaihe river floods",
+  "category": "natural-disaster",
+  "location": "Anhui, China",
+  "lives_lost": 1551,
+  "description": "Seasonal floods along the Huaihe and Yangtze river basins in central and eastern China inundated large areas of Anhui, Jiangsu, and Henan provinces during the summer, killing about 1,551 people and affecting more than 100 million. It was the worst flooding in China since the 1998 Yangtze floods.",
+  "sources": [
+   "OCHA",
+   "Red Cross Society of China",
+   "CGTN"
+  ],
+  "archive_id": "events-4024bc0f94e8f7ed91dc",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "description",
+    "sources"
+   ],
+   "note": "1,551 is the nationwide annual flood total across 30 provincial-level areas, not an established Huaihe/Yangtze event toll. MFA reported 676 nationwide by July 20. July 1 onset and the Anhui-only location are unsupported for this aggregate. Must choose an event-specific scope and date before replacing the count.",
+   "sources": [
+    {
+     "name": "China Water and Power Press",
+     "url": "https://www.waterpub.com.cn/info/detail_3201.html"
+    },
+    {
+     "name": "Chinese Ministry of Foreign Affairs",
+     "url": "https://www.mfa.gov.cn/web/wjdt_674879/cfhsl_674891/200307/t20030723_7817237.shtml"
+    }
+   ]
+  }
  },
  {
   "date": "2001-07-04",
@@ -495,7 +1013,8 @@
   "source_urls": [
    "https://www.adrc.asia/view_disaster_en.php?Key=202&Lang=en",
    "https://www.australiasevereweather.com/cyclones/2002/summ0107.htm"
-  ]
+  ],
+  "archive_id": "events-dec0628558f563d9bcec"
  },
  {
   "date": "2003-07-08",
@@ -511,7 +1030,76 @@
   "source_urls": [
    "https://www.baaa-acro.com/index.php/crash/crash-boeing-737-2j8c-port-sudan-116-killed",
    "https://en.wikipedia.org/wiki/Sudan_Airways_Flight_139"
-  ]
+  ],
+  "archive_id": "events-6054e74556f8436a4138"
+ },
+ {
+  "date": "2003-07-18",
+  "title": "Second siege of Monrovia",
+  "category": "war",
+  "location": "Monrovia, Liberia",
+  "lives_lost": 1500,
+  "description": "LURD rebels besieged the Liberian capital Monrovia from June to August 2003, shelling civilian neighborhoods, churches, and schools and killing an estimated 1,000 to 1,500 civilians. The siege ended when President Charles Taylor went into exile and international peacekeepers arrived.",
+  "sources": [
+   "UN Office of the High Commissioner for Human Rights",
+   "ACT Alliance",
+   "BBC News"
+  ],
+  "archive_id": "events-d2ccf266070fca187dbc",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "title",
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Sources describe several June-July offensives and a July 18-August siege, not a clearly named second siege with a 1,500 final civilian toll. HRW documents hundreds killed and over 2,000 injured, while the summary gives 1,000 killed. Dates, episode naming and civilian estimate need reconciliation.",
+   "sources": [
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/legacy/backgrounder/arms/liberia/liberia_arms.htm"
+    },
+    {
+     "name": "Wikipedia siege summary",
+     "url": "https://en.wikipedia.org/wiki/Siege_of_Monrovia"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2001-07-23",
+  "title": "Colombo Airport Attack",
+  "category": "terrorism",
+  "location": "Katunayake, Sri Lanka",
+  "lives_lost": 18,
+  "description": "LTTE suicide commandos attacked Bandaranaike International Airport and the adjoining air force base near Colombo, killing at least 18 people and destroying or damaging 11-13 aircraft, including several SriLankan Airlines jets. The attack caused an estimated $350 million in losses to the national carrier alone.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-4bff6f9f57f1accc2e83",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Early reporting gave at least 18 including attackers; later accounts give seven servicemen and 14 attackers. The original does not define its scope and aircraft-loss figures vary. The documented 03:50 local start on 24 July is 23 July UTC (Sri Lanka then UTC+6). Proposed date/location only; resolve toll and damage claims before integration.",
+   "sources": [
+    {
+     "name": "Business Insurance",
+     "url": "https://biwp-content.s3.amazonaws.com/BiSecure/JULY_30_2001.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bandaranaike_Airport_attack"
+    }
+   ]
+  }
  },
  {
   "date": "2002-07-27",
@@ -527,7 +1115,106 @@
   "source_urls": [
    "https://www.rferl.org/a/remembering-skynliv-deadliest-air-show-aviation-history/31961756.html",
    "https://en.wikipedia.org/wiki/Sknyliv_air_show_disaster"
-  ]
+  ],
+  "archive_id": "events-fde276c2ee0abc5754f6"
+ },
+ {
+  "date": "2004-07-30",
+  "title": "Darfur genocide (2004 killings)",
+  "category": "war",
+  "location": "Darfur, Sudan",
+  "lives_lost": 70000,
+  "description": "The armed conflict in Darfur, in which the Sudanese government and allied Janjaweed militias systematically attacked civilian villages, killed tens of thousands of people and displaced more than a million during 2004. United Nations and WHO estimates of deaths in 2004 ranged from about 30,000 to 71,000, mostly from violence, starvation and disease.",
+  "sources": [
+   "United Nations",
+   "World Health Organization",
+   "BBC News"
+  ],
+  "archive_id": "events-0fb497f1c13e6ec8578c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "title",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "70,000 was WHO's estimated mortality among displaced people from living conditions in accessible Darfur areas during March-mid-October 2004, excluding violent deaths. It is neither all 2004 killings nor a July 30 event. Need a defensible interval, title and mortality scope; avoid overlap with the 2003 onset record.",
+   "sources": [
+    {
+     "name": "UK Parliament International Development Committee",
+     "url": "https://publications.parliament.uk/pa/cm200405/cmselect/cmintdev/67/6705.htm"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/legacy/backgrounder/africa/darfur0105/2.htm"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2003-08-01",
+  "title": "European heat wave",
+  "category": "natural-disaster",
+  "location": "Western Europe",
+  "lives_lost": 70000,
+  "description": "Extreme heat affected Europe during summer 2003, with a major peak in August. A retrospective study estimated more than 70,000 excess deaths over the summer, including deaths before August; this is a seasonal excess-mortality estimate rather than a single-day toll.",
+  "sources": [
+   "French Institute for Public Health Surveillance (InVS)",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-77d5f47d114d2b8c1b31",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Peer-reviewed estimate concerns excess mortality over summer 2003; more than 20,000 excess deaths preceded August. August 1 cannot anchor the whole mortality interval without an explicit convention. The air-conditioning/majority claim is unsupported and removed; toll is an estimate, not certified heat deaths.",
+   "sources": [
+    {
+     "name": "Robine et al., UKHSA research portal",
+     "url": "https://researchportal.ukhsa.gov.uk/en/publications/death-toll-exceeded-70000-in-europe-during-the-summer-of-2003/"
+    },
+    {
+     "name": "Robine et al., full paper via WMO",
+     "url": "https://etrp.wmo.int/pluginfile.php/14629/mod_folder/content/0/Death%20toll%20exceeded%2070%2C000%20in%20Europe%20during%20the%20summer%20of%202003.pdf?forcedownload=1"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2000-08-08",
+  "title": "Pushkin Square bombing",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 13,
+  "description": "A bomb exploded in a pedestrian underpass near Moscow's Pushkin Square during the evening rush hour on 8 August 2000. Officials investigated several possible motives; no group claimed responsibility at the time.",
+  "sources": [
+   "BBC News",
+   "CNN"
+  ],
+  "archive_id": "events-4ecee5467a8f73a9ac0c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Contemporary reporting supports date, rush-hour underpass attack and explicitly uncertain responsibility. It gives preliminary deaths, not the later 13. Remove definitive Chechen linkage; final toll still needs a reliable later source.",
+   "sources": [
+    {
+     "name": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/1094504.html"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/am/archive/articles/2000/08/09/s160941.htm"
+    }
+   ]
+  }
  },
  {
   "date": "2001-08-09",
@@ -543,7 +1230,79 @@
   "source_urls": [
    "https://www.jns.org/israel-news/sbarro-bombing-victim-dies-after-22-years-in-a-coma",
    "https://www.ynetnews.com/article/bksemz8ln"
-  ]
+  ],
+  "archive_id": "events-20135974b1a12df05fa8"
+ },
+ {
+  "date": "2004-08-12",
+  "title": "Typhoon Rananim",
+  "category": "natural-disaster",
+  "location": "Wenzhou, China",
+  "lives_lost": 164,
+  "description": "Typhoon Rananim made landfall in Zhejiang on August 12, 2004, causing destructive winds, floods and landslides. Xinhua's August 16 tally reported 164 deaths and 24 missing in Zhejiang; later summaries give a higher death count.",
+  "sources": [
+   "China Daily",
+   "UPI",
+   "UN OCHA"
+  ],
+  "archive_id": "events-3acac86f74a3b1c8f455",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "164 dead and 24 missing was the August 16 snapshot, also used by HKO, while later summaries give 168 in China. The 1956 comparison applies to Zhejiang, not all mainland China. Date of landfall is established, but final toll needs reconciliation.",
+   "sources": [
+    {
+     "name": "Xinhua via CCTV",
+     "url": "https://news.cctv.cn/news/china/20040817/102709.shtml"
+    },
+    {
+     "name": "Hong Kong Observatory annual report",
+     "url": "https://www.hko.gov.hk/en/publica/tc/files/TC2004.pdf"
+    },
+    {
+     "name": "Wikipedia storm summary",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Rananim"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2002-08-13",
+  "title": "Central European floods",
+  "category": "natural-disaster",
+  "location": "Germany, Czech Republic, Austria",
+  "lives_lost": 110,
+  "description": "Days of record rainfall in August 2002 caused catastrophic flooding along the Elbe, Danube and Vltava rivers, inundating Dresden, Prague and other cities. About 110 people died across central Europe and Russia, with damages exceeding $15 billion.",
+  "sources": [
+   "BBC News",
+   "Deutsche Welle",
+   "Reuters"
+  ],
+  "archive_id": "events-a75712975f0b34154eeb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "description",
+    "sources"
+   ],
+   "note": "This is a multi-country, multi-day disaster. 13 August is a reporting/peak date rather than established onset. Sources differ on whether Russian floods are included; the stated location omits Russia despite including it in the toll. No consistent 110-death geographic/time scope or $15bn basis established.",
+   "sources": [
+    {
+     "name": "IFRC",
+     "url": "https://www.ifrc.org/docs/appeals/rpts02/ceneurfl02a3.pdf"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://ec.europa.eu/echo/files/civil_protection/civil/prote/pdfdocs/Final%20Report%20-%20scenario%20study.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2003-08-19",
@@ -559,7 +1318,39 @@
   "source_urls": [
    "https://www.un.org/en/memorial/baghdad2003.shtml",
    "https://apnews.com/article/5aadf09a55ce752139c4b005f90d5b89"
-  ]
+  ],
+  "archive_id": "events-9d0bd103b5e1b5f6b23f"
+ },
+ {
+  "date": "2000-08-22",
+  "title": "Typhoon Bilis",
+  "category": "natural-disaster",
+  "location": "Taiwan and Fujian Province, China",
+  "lives_lost": 71,
+  "description": "Typhoon Bilis made landfall in southern Taiwan on August 22, 2000 before crossing toward mainland China. NOAA reports winds of about 258 km/h and more than 70 deaths across Taiwan and mainland China.",
+  "sources": [
+   "Taiwan Central Weather Administration",
+   "CNN"
+  ],
+  "archive_id": "events-b7770a7749d5777f39c5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "NOAA supports 22 August landfall, winds over 200 km/h and over 70 deaths in Taiwan and mainland China; CWA supports the date. Remove unqualified all-time Taiwan intensity record, which depends on measurement and comparison. Exact 71 is not established by the reviewed over-70 source; withhold pending exact mortality evidence.",
+   "sources": [
+    {
+     "name": "NOAA",
+     "url": "https://www.aoml.noaa.gov/hurricane_blog/15th-anniversary-of-typhoon-bilisisang/"
+    },
+    {
+     "name": "Taiwan Central Weather Administration",
+     "url": "https://rdc28.cwa.gov.tw/TDB/public/typhoon_detail?typhoon_id=200010"
+    }
+   ]
+  }
  },
  {
   "date": "2004-08-24",
@@ -575,7 +1366,142 @@
   "source_urls": [
    "https://www.icao.int/sites/default/files/Meetings/AMC/ArchivedAssembly/en/A35/WP/wp-241-270/wp241_en.pdf",
    "https://www.rferl.org/a/1054574.html"
-  ]
+  ],
+  "archive_id": "events-fbf40eab7678a65defb8"
+ },
+ {
+  "date": "2003-08-25",
+  "title": "Mumbai twin bomb blasts",
+  "category": "terrorism",
+  "location": "Mumbai, India",
+  "lives_lost": 52,
+  "description": "Twin car bombs exploded at the Gateway of India and the Zaveri Bazaar jewellery market during the lunch hour, killing 52 people and injuring more than 200. Pakistan-based Lashkar-e-Taiba was suspected, and three people were later convicted for the attack.",
+  "sources": [
+   "Times of India",
+   "NDTV",
+   "Reuters"
+  ],
+  "archive_id": "events-4e71d36176f46dbe8806",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Later court reporting disagrees: 54 in New Indian Express versus 52 in AFP/Dawn; even the reference summary conflicts internally. Date, targets and three convictions are corroborated, but the final incident-only toll needs a court or police source distinguishing other blasts in the prosecution.",
+   "sources": [
+    {
+     "name": "New Indian Express",
+     "url": "https://www.newindianexpress.com/india/2009/Jul/27/couple-aide-convicted-for-2003-mumbai-blasts-71626.html"
+    },
+    {
+     "name": "AFP via Dawn",
+     "url": "https://www.dawn.com/news/858630/03-mumbai-bomb-blasts-convicts-get-death"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2003-08-29",
+  "title": "Imam Ali Mosque bombing in Najaf",
+  "category": "terrorism",
+  "location": "Najaf, Iraq",
+  "lives_lost": 95,
+  "description": "A bombing outside the Imam Ali shrine in Najaf on August 29, 2003, killed Ayatollah Mohammed Baqir al-Hakim and many other worshippers. Iraq Body Count records a range of 83-126 deaths; contemporary reporting gave differing totals.",
+  "sources": [
+   "PBS NewsHour",
+   "Al Jazeera",
+   "The Guardian"
+  ],
+  "archive_id": "events-fa8837dadb5f5ddba1b2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "95 includes al-Hakim, not 95 plus him. PBS updated contemporary count to 95 with 142 wounded; IBC retains 83-126 deaths. Exact final count and over-200 injury claim remain unsettled. Proposed prose preserves the range instead of pretending a final total is established.",
+   "sources": [
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/show/mosque-bombing-in-najaf-iraq"
+    },
+    {
+     "name": "Iraq Body Count",
+     "url": "https://www.iraqbodycount.org/database/incidents/k1100"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2002-08-31",
+  "title": "Typhoon Rusa",
+  "category": "natural-disaster",
+  "location": "South Korea",
+  "lives_lost": 238,
+  "description": "Typhoon Rusa, the strongest typhoon to strike South Korea in more than four decades, made landfall near Goheung on August 31, 2002. It killed 238 people across South Korea, Japan and North Korea and caused about $4.2 billion in damage.",
+  "sources": [
+   "Reuters",
+   "ReliefWeb",
+   "BBC News"
+  ],
+  "archive_id": "events-53df413a7a7d8fb727eb",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "location",
+    "description",
+    "sources"
+   ],
+   "note": "JTWC confirms 31 August Goheung landfall. Korean retrospective reports 246 dead or missing in South Korea; that is not interchangeable with 238 confirmed deaths across three countries. Need country-specific dead/missing reconciliation and intensity-superlative definition.",
+   "sources": [
+    {
+     "name": "Joint Typhoon Warning Center",
+     "url": "https://www.metoc.navy.mil/jtwc/products/atcr/2002atcr.pdf"
+    },
+    {
+     "name": "YTN",
+     "url": "https://www.ytn.co.kr/_ln/0422_201008302349567475"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2004-08-31",
+  "title": "Rizhskaya metro station bombing",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 10,
+  "description": "A female suicide bomber detonated an explosive device near the Rizhskaya metro station in Moscow, killing 10 people and wounding more than 50. The attack, linked to Chechen separatist militants, came one week after the bombing of two Russian passenger planes.",
+  "sources": [
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-70a68ec619ad2f663b21",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Contemporary reports give ten total deaths; later accounts differ on whether that includes the bomber and accomplice. Russian reference explicitly includes both, while AP wording suggests a larger victim-only count. Date and location established; do not silently equate totals with innocent victims.",
+   "sources": [
+    {
+     "name": "RTE contemporary report",
+     "url": "https://www.rte.ie/news/2004/0831/53899-russia/"
+    },
+    {
+     "name": "Russian Wikipedia event summary",
+     "url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B0%D0%BA%D1%82_%D1%83_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_%C2%AB%D0%A0%D0%B8%D0%B6%D1%81%D0%BA%D0%B0%D1%8F%C2%BB"
+    },
+    {
+     "name": "Associated Press retrospective",
+     "url": "https://apnews.com/article/d9a090fa84d3511df25631691b64f9c0"
+    }
+   ]
+  }
  },
  {
   "date": "2004-09-01",
@@ -591,7 +1517,72 @@
   "source_urls": [
    "https://ks.echr.coe.int/documents/d/echr-ks/clin_april_2017_eng",
    "https://apnews.com/article/d9a090fa84d3511df25631691b64f9c0"
-  ]
+  ],
+  "archive_id": "events-64fa0c39a38101d5e965"
+ },
+ {
+  "date": "2001-09-09",
+  "title": "Assassination of Ahmad Shah Massoud",
+  "category": "terrorism",
+  "location": "Takhar Province, Afghanistan",
+  "lives_lost": 2,
+  "description": "Two al-Qaeda operatives posing as journalists detonated a bomb hidden in a camera while interviewing Ahmad Shah Massoud, the military leader of the Afghan Northern Alliance, killing him and one other person. The assassination came two days before the September 11 attacks and removed the alliance's most effective commander ahead of the US invasion.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Reuters"
+  ],
+  "archive_id": "events-2f8f628284dc16e5c651",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UNAMA supports the 9 September assassination by attackers posing as journalists. The second non-attacker death and camera-versus-battery concealment require stronger direct evidence; 'most effective commander' is an assessment, not an established factual rank.",
+   "sources": [
+    {
+     "name": "UNAMA",
+     "url": "https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/Afgh%202007SuicideAttacks.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Assassination_of_Ahmad_Shah_Massoud"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2000-09-10",
+  "title": "Mekong Delta floods",
+  "category": "natural-disaster",
+  "location": "Mekong Delta, Vietnam",
+  "lives_lost": 482,
+  "description": "The worst flooding in the Mekong Delta in decades inundated more than 825,000 homes and affected over 5 million people. 482 people died, most of them children.",
+  "sources": [
+   "UN OCHA",
+   "BBC News"
+  ],
+  "archive_id": "events-728c8ead0b575eda1934",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "ADRC supports major prolonged flooding and 825,000 inundated homes, but not a discrete 10 September event or final 482 toll. Mekong Commission's later table gives a different national total (453). Geographic and reporting-period reconciliation is required.",
+   "sources": [
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_en.php?KEY=147&lang="
+    },
+    {
+     "name": "Mekong River Commission",
+     "url": "https://www.mrcmekong.org/?document_id=01YJPZCUZEXSMF67UT5RDJ22FPZWO3NYQT&download_document=1&name=State-of-the-Basin-Report-2010.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2001-09-11",
@@ -607,7 +1598,8 @@
   "source_urls": [
    "https://www.911memorial.org/911-faqs",
    "https://www.911commission.gov/report/911Report_Ch1.htm"
-  ]
+  ],
+  "archive_id": "events-dfd83f7586b007651854"
  },
  {
   "date": "2000-09-13",
@@ -623,7 +1615,40 @@
   "source_urls": [
    "https://www.refworld.org/reference/annualreport/usdos/2003/en/33399",
    "https://www.news24.com/life-for-stock-exchange-bombers-20010822"
-  ]
+  ],
+  "archive_id": "events-40f8217dcc3def8a78e0"
+ },
+ {
+  "date": "2000-09-15",
+  "title": "Bangladesh floods",
+  "category": "natural-disaster",
+  "location": "Khulna Division, Bangladesh",
+  "lives_lost": 150,
+  "description": "Severe flooding affected western and southwestern Bangladesh in September 2000, forcing large numbers of residents from their homes. The IFRC described major inundation in border districts on 22 September. Contemporary casualty and displacement figures were provisional.",
+  "sources": [
+   "BBC News",
+   "UN OCHA"
+  ],
+  "archive_id": "events-4626560856fcaac28108",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The description incorrectly says two million drowned: sources describe homelessness or affected population. IFRC dates the major western-border inundation to 22 September; 15 September and 150 deaths are not established. Published counts differ by event scope, so no replacement date or toll is asserted.",
+   "sources": [
+    {
+     "name": "IFRC",
+     "url": "https://www.ifrc.org/docs?file=appeals%2F00%2F2020004.pdf"
+    },
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_en.php?KEY=142&lang="
+    }
+   ]
+  }
  },
  {
   "date": "2001-09-18",
@@ -641,7 +1666,45 @@
    "https://www.fbi.gov/history/cases-and-criminals/amerithrax-or-anthrax-investigation",
    "https://wwwnc.cdc.gov/eid/article/8/10/02-0353_article",
    "https://www.ncbi.nlm.nih.gov/books/n/nap13098/pdf/"
-  ]
+  ],
+  "archive_id": "events-8e5f33a0a125e5df943d"
+ },
+ {
+  "date": "2004-09-18",
+  "title": "Hurricane Jeanne flooding in Haiti",
+  "category": "natural-disaster",
+  "location": "Gonaives, Haiti",
+  "lives_lost": 3006,
+  "description": "Torrential rains from Tropical Storm Jeanne triggered catastrophic flash flooding and mudslides in Haiti, most severely in the coastal city of Gonaives, which was left largely submerged. The Haitian government's final tally recorded 3,006 deaths, including 2,826 in Gonaives, with about 200,000 people affected.",
+  "sources": [
+   "The New York Times",
+   "Reuters",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-d28913f3068077820ea9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NOAA confirms catastrophic Haiti flooding and over 3,000 deaths, but exact 3,006/2,826 and the asserted final-government provenance were not established from accessible primary text. NHC report fetch was blocked; archive search found it but not its casualty discussion. September 18 is an onset label for flooding extending into September 19.",
+   "sources": [
+    {
+     "name": "NOAA storm history",
+     "url": "https://prod-east-nhc.woc.noaa.gov/outreach/history/"
+    },
+    {
+     "name": "NOAA rainfall history",
+     "url": "https://www.wpc.ncep.noaa.gov/tropical/rain/jeanne2004.html"
+    },
+    {
+     "name": "Wikipedia hurricane summary",
+     "url": "https://en.wikipedia.org/wiki/Hurricane_Jeanne"
+    }
+   ]
+  }
  },
  {
   "date": "2002-09-26",
@@ -657,7 +1720,79 @@
   "source_urls": [
    "https://www1.rfi.fr/actufr/articles/045/article_24109.asp",
    "https://www.radiofrance.fr/dossiers/naufrage-du-joola-les-temoignages-qui-accusent-le-pouvoir-senegalais"
-  ]
+  ],
+  "archive_id": "events-00d692ec9fadc8a2c2b1"
+ },
+ {
+  "date": "2000-09-28",
+  "title": "Start of the Second Intifada",
+  "category": "war",
+  "location": "Israel and the Palestinian territories",
+  "lives_lost": 300,
+  "description": "The Second Intifada began after Israeli opposition leader Ariel Sharon visited the Temple Mount compound. By end of 2000, roughly 300 people had been killed.",
+  "sources": [
+   "B'Tselem",
+   "BBC News"
+  ],
+  "archive_id": "events-0d8e9018f815fb4b169a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Sharon's visit and the late-September onset are supported, but 300 by year-end is not established by the cited December report, which ends 2 December and separates populations. Need a defined inclusive date range and victim scope; the count is not a 28 September toll.",
+   "sources": [
+    {
+     "name": "B'Tselem",
+     "url": "https://www.btselem.org/download/200012_illusions_of_restraint.pdf"
+    },
+    {
+     "name": "The Washington Institute",
+     "url": "https://www.washingtoninstitute.org/policy-analysis/palestinian-israeli-political-fatalities-september-28-2000-april-30-2001"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2001-10-01",
+  "title": "Srinagar Legislative Assembly Attack",
+  "category": "terrorism",
+  "location": "Srinagar, India",
+  "lives_lost": 38,
+  "description": "A vehicle bombing and armed attack struck the Jammu and Kashmir Legislative Assembly complex in Srinagar on October 1, 2001. India's Home Ministry subsequently attributed the attack to Jaish-e-Mohammed and recorded 38 deaths. Published casualty breakdowns disagree on whether attackers are included.",
+  "sources": [
+   "BBC News",
+   "CNN",
+   "SATP"
+  ],
+  "archive_id": "events-4f127449bedb82f49e0d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Further research establishes October 1 and the attack identity in an MHA gazette notification, which gives 38 deaths. However, SATP's 2001 assessment includes four attackers within 38, while its 2000-2017 table lists 38 victims plus three attackers (41 total); its timeline also contains 36. These are material scope conflicts, not merely unsupported injury/occupancy prose. Remove the original 60-injured and no-legislators claims, but do not certify a victim-only total.",
+   "sources": [
+    {
+     "name": "Ministry of Home Affairs",
+     "url": "https://www.mha.gov.in/sites/default/files/Individual_Terrorists/SL%20NO%2001%20TO%2004_MAULANA%20MASOOD%20AZHAR%20TO%20DAWOOD%20IBRAHIM.pdf"
+    },
+    {
+     "name": "South Asia Terrorism Portal: 2001 assessment",
+     "url": "https://satp.org/terrorism-assessment/india-jammukashmir-2001"
+    },
+    {
+     "name": "South Asia Terrorism Portal: attack table",
+     "url": "https://www.satp.org/satporgtp/countries/india/states/jandk/documents/papers/Suicide_attacks_Jammu%20_and%20_Kashmir2000%20_2017.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2001_Jammu_and_Kashmir_Legislative_Assembly_car_bombing"
+    }
+   ]
+  }
  },
  {
   "date": "2002-10-02",
@@ -673,7 +1808,8 @@
   "source_urls": [
    "https://www.fbi.gov/history/cases-and-criminals/beltway-dc-snipers",
    "https://www.fbi.gov/investigate/terrorism/famous-cases"
-  ]
+  ],
+  "archive_id": "events-d9a5ee0886afc59f3622"
  },
  {
   "date": "2001-10-07",
@@ -689,7 +1825,8 @@
   "source_urls": [
    "https://www.comw.org/pda/0201oef.html",
    "https://publications.parliament.uk/pa/cm200203/cmselect/cmdfence/93/93ap10.htm"
-  ]
+  ],
+  "archive_id": "events-4d4932ab65a2898858e6"
  },
  {
   "date": "2000-10-12",
@@ -705,7 +1842,8 @@
   "source_urls": [
    "https://www.fbi.gov/history/artifacts/tray-from-uss-cole-bombing",
    "https://www.history.navy.mil/browse-by-topic/ships/modern-ships/uss-cole.html"
-  ]
+  ],
+  "archive_id": "events-15dcb4d10d39bd0927e2"
  },
  {
   "date": "2002-10-12",
@@ -721,7 +1859,8 @@
   "source_urls": [
    "https://www.nma.gov.au/defining-moments/resources/bali-bombings",
    "https://www.airforce.gov.au/about-us/history/our-journey/bali-bombing"
-  ]
+  ],
+  "archive_id": "events-80095f85f55a51c35eac"
  },
  {
   "date": "2004-10-20",
@@ -737,7 +1876,8 @@
   "source_urls": [
    "https://apnews.com/article/83cbfc301e28f7aa487b675f31958f4a",
    "https://www.washingtonpost.com/archive/politics/2004/10/22/148-feared-dead-in-china-mine-blast/2c0fb8da-526a-4772-82b6-cbc9413bb367/"
-  ]
+  ],
+  "archive_id": "events-f14a3a91f6b099df8f9e"
  },
  {
   "date": "2004-10-20",
@@ -753,7 +1893,40 @@
   "source_urls": [
    "https://www.bousai.go.jp/kyoiku/kyokun/2004fusuigai/dbindex/database/09/03/01/01/fsg09030101_01.htm",
    "https://www.mlit.go.jp/river/pamphlet_jirei/bousai/saigai/2005/2005.pdf"
-  ]
+  ],
+  "archive_id": "events-1c75db8759c6b0cc1639"
+ },
+ {
+  "date": "2002-10-23",
+  "title": "Moscow theater siege (Nord-Ost)",
+  "category": "terrorism",
+  "location": "Moscow, Russia",
+  "lives_lost": 130,
+  "description": "Chechen militants seized the Dubrovka theater in Moscow on October 23, taking more than 900 hostages. Russian security forces pumped an incapacitating gas into the building on October 26; at least 130 hostages died, most of them from the gas.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Human Rights Watch"
+  ],
+  "archive_id": "events-0b94a5161fb8fcc6fe9f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Dates, more than 900 hostages and gas-related deaths are supported. ECHR case material and HRW record 129 while later summaries give 130 or higher; final official 130 and the claimed lower-bound wording need reconciliation, not averaging.",
+   "sources": [
+    {
+     "name": "European Court of Human Rights",
+     "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?TID=thkbhnilzk&filename=001-108231.pdf&id=001-108231&library=ECHR"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/report/2003/09/21/spreading-despair/russian-abuses-ingushetia"
+    }
+   ]
+  }
  },
  {
   "date": "2004-10-23",
@@ -769,7 +1942,44 @@
   "source_urls": [
    "https://www.data.jma.go.jp/niigata/menu/2024project/chuetsu_main.html",
    "https://cais.gsi.go.jp/UJNR/8th/program/UJNRfieldguide_web.pdf"
-  ]
+  ],
+  "archive_id": "events-de923af0b063d88f5670"
+ },
+ {
+  "date": "2004-11-07",
+  "title": "Second Battle of Fallujah",
+  "category": "war",
+  "location": "Fallujah, Iraq",
+  "lives_lost": 1000,
+  "description": "US-led forces launched an offensive against insurgents in Fallujah in November 2004. Civilian and combatant death estimates vary, and available civilian counts cover different areas and periods. Iraq Body Count records 581-670 civilian deaths in nine neighborhoods.",
+  "sources": [
+   "Iraq Body Count",
+   "Reuters",
+   "International Committee of the Red Cross"
+  ],
+  "archive_id": "events-a2382df50c484be4aa14",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Numeric 1,000 is not a defensible overall count when the prose itself gives larger combatant losses before civilians. IBC's 581-670 covers nine neighborhoods, not a complete battle census; the reported 800 was an anonymous unofficial Red Cross estimate, not a verified ICRC institutional total. Need consistent full-battle population and interval.",
+   "sources": [
+    {
+     "name": "Iraq Body Count",
+     "url": "https://www.iraqbodycount.org/analysis/beyond/besieged_fallujah/"
+    },
+    {
+     "name": "Action on Armed Violence",
+     "url": "https://aoav.org.uk/2015/tale-two-cities-us-operations-fallujah-2004/"
+    },
+    {
+     "name": "Democracy Now interview",
+     "url": "https://www.democracynow.org/2004/11/17/red_cross_estimates_800_iraqi_civilians"
+    }
+   ]
+  }
  },
  {
   "date": "2001-11-15",
@@ -787,7 +1997,73 @@
    "https://news.sina.cn/sa/2001-12-07/detail-ikkntiak6896212.d.html?vt=4",
    "https://www.latimes.com/archives/la-xpm-2002-jan-23-mn-24321-story.html",
    "https://www.govinfo.gov/content/pkg/GOVPUB-D5_400-PURL-LPS42312/pdf/GOVPUB-D5_400-PURL-LPS42312.pdf"
-  ]
+  ],
+  "archive_id": "events-0aee197903c167087e94"
+ },
+ {
+  "date": "2003-11-15",
+  "title": "Istanbul bombings",
+  "category": "terrorism",
+  "location": "Istanbul, Turkey",
+  "lives_lost": 57,
+  "description": "Truck bombings targeted two Istanbul synagogues on November 15, 2003, and the British consulate and HSBC offices on November 20. The attacks were linked to al-Qaeda. Reported death totals vary, including whether the four bombers are counted.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-df6efae54c8a0cf088ce",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Two attack dates are established, but later totals differ: BBC summary 58; detailed reference 59 including four bombers; original 57 not reconciled. Remove the unqualified all-time Turkish superlative. Count covers both November 15 and 20, not only the indexed date.",
+   "sources": [
+    {
+     "name": "BBC via ecoi.net",
+     "url": "https://www.ecoi.net/en/document/1267558.html"
+    },
+    {
+     "name": "Wikipedia attack chronology",
+     "url": "https://en.wikipedia.org/wiki/2003_Istanbul_bombings"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2001-11-25",
+  "title": "Qala-i-Jangi Fortress Uprising",
+  "category": "war",
+  "location": "Mazar-i-Sharif, Afghanistan",
+  "lives_lost": 400,
+  "description": "Taliban and al-Qaeda prisoners revolted at the Qala-i-Jangi fortress near Mazar-i-Sharif, triggering a six-day battle in which up to 400 prisoners, about 73 Northern Alliance fighters, and CIA officer Johnny Spann — the first American killed in combat in the war — died. Only 86 of the more than 400 prisoners survived, including American Taliban fighter John Walker Lindh.",
+  "sources": [
+   "BBC News",
+   "The Guardian",
+   "Los Angeles Times"
+  ],
+  "archive_id": "events-0f797d9c00d3cf961ed2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "400 was an upper-end prisoner estimate, not a verified total including Northern Alliance and US deaths. Accounts differ on duration and fighter losses; 86 survivors is reported. A single precise aggregate cannot be inferred from these incompatible estimates.",
+   "sources": [
+    {
+     "name": "Radio Free Europe/Radio Liberty",
+     "url": "https://www.rferl.org/a/1098088.html"
+    },
+    {
+     "name": "TIME",
+     "url": "https://content.time.com/time/subscriber/article/0%2C33009%2C1001390-6%2C00.html"
+    }
+   ]
+  }
  },
  {
   "date": "2004-11-27",
@@ -803,7 +2079,41 @@
   "source_urls": [
    "https://www.cecc.gov/publications/commission-analysis/media-summary-coal-mine-disasters-in-china",
    "https://old.lifeweek.com.cn/2004/1222/10471.shtml"
-  ]
+  ],
+  "archive_id": "events-5de6562ebe237ceca2ec"
+ },
+ {
+  "date": "2004-11-30",
+  "title": "Philippines typhoon series and Quezon floods",
+  "category": "natural-disaster",
+  "location": "Northern and central Philippines",
+  "lives_lost": 1060,
+  "description": "Several tropical cyclones caused severe flooding and landslides in the Philippines in November and early December 2004. A December WHO report recorded 1,060 deaths and 559 missing. Winnie caused much of the destruction, including in Quezon Province.",
+  "sources": [
+   "World Health Organization",
+   "UN OCHA",
+   "Japan Ministry of Foreign Affairs"
+  ],
+  "archive_id": "events-f12003245b4ff8f7e657",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "WHO release reproduced by ScienceDaily gives 1,060 dead and 559 missing, not 566, as a December snapshot. NASA establishes several storms over November-December and Winnie on November 29. November 30 is not a substantiated onset for the series, and Quezon alone does not describe its total scope.",
+   "sources": [
+    {
+     "name": "WHO release via ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2004/12/041219133059.htm"
+    },
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/earth/earth-observatory/floods-in-philippines-14243/"
+    }
+   ]
+  }
  },
  {
   "date": "2001-12-01",
@@ -819,7 +2129,8 @@
   "source_urls": [
    "https://www.hrw.org/reports/2002/isrl-pa/ISRAELPA1002-08.htm",
    "https://www.macro.org.il/images/upload/files/43160877010002.pdf"
-  ]
+  ],
+  "archive_id": "events-59e914feb7f7a6b051d9"
  },
  {
   "date": "2001-12-02",
@@ -835,7 +2146,8 @@
   "source_urls": [
    "https://www.gov.il/BlobFolder/generalpage/saving-lives-israel-s-anti-terrorist-fence-answers-to-questions-jan-2004/en/English_SiteTransfer_DOCUMENTS_PDF_19279_2.pdf",
    "https://abcnews.com/International/story?id=80367&page=1"
-  ]
+  ],
+  "archive_id": "events-c7eddcea4fe68fb17cac"
  },
  {
   "date": "2001-12-13",
@@ -851,7 +2163,8 @@
   "source_urls": [
    "https://indianexpress.com/article/political-pulse/wednesdays-parliament-security-breach-2001-attack-9066499/",
    "https://economictimes.indiatimes.com/news/politics-and-nation/mr-patil-have-you-heard-of-think-before-you-say/articleshow/3061117.cms"
-  ]
+  ],
+  "archive_id": "events-95af5b8ac5b030d79d06"
  },
  {
   "date": "2000-12-25",
@@ -867,7 +2180,44 @@
   "source_urls": [
    "https://www.kuna.net.kw/ArticlePrintPage.aspx?id=1134228&language=en",
    "https://www.aria.developpement-durable.gouv.fr/accident/19927_en/?lang=en"
-  ]
+  ],
+  "archive_id": "events-499e114e42d53ca5fe02"
+ },
+ {
+  "date": "2003-12-26",
+  "title": "Bam earthquake",
+  "category": "natural-disaster",
+  "location": "Bam, Iran",
+  "lives_lost": 26271,
+  "description": "A magnitude 6.6 earthquake struck Bam and surrounding communities in southeastern Iran on December 26, 2003. It destroyed much of the city and killed tens of thousands. Published fatality totals differ; the World Bank's reconstruction report used approximately 26,000.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-e0edf273631d93551475",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Magnitude 6.6 and December 26 UTC are supported. Fatality accounts conflict: World Bank about 26,000, Iranica 31,824-43,000, and the reference summary cites later 34,000 versus an earlier revised 26,271. Do not silently treat one precise figure as settled. The 1990 Iranian quake also makes 'deadliest in decades' unsafe.",
+   "sources": [
+    {
+     "name": "World Bank completion report",
+     "url": "https://documents1.worldbank.org/curated/en/847151468292294788/pdf/ICR12070P088061C0disclosed091271101.pdf"
+    },
+    {
+     "name": "Encyclopaedia Iranica",
+     "url": "https://www.iranicaonline.org/articles/bam-earthquake-2003/"
+    },
+    {
+     "name": "Wikipedia earthquake summary",
+     "url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2004-12-26",
@@ -883,7 +2233,8 @@
   "source_urls": [
    "https://www.ncei.noaa.gov/sites/default/files/2024-11/IO_Poster_20241030_final_lowres.pdf",
    "https://tsunami.ioc.unesco.org/sites/default/files/medias/fichiers/2025/09/2023_tsu_poster_20231003_a2.pdf"
-  ]
+  ],
+  "archive_id": "events-5bc6efc7c4829b06aa31"
  },
  {
   "date": "2002-12-27",
@@ -899,7 +2250,8 @@
   "source_urls": [
    "https://www.dawn.com/news/amp/128770",
    "https://en.wikipedia.org/wiki/2002_Grozny_truck_bombing"
-  ]
+  ],
+  "archive_id": "events-223a31f90b0d12100317"
  },
  {
   "date": "2000-12-30",
@@ -915,6 +2267,7 @@
   "source_urls": [
    "https://www.gmanetwork.com/news/topstories/ulatfilipino/243122/ang-madugong-rizal-day-bombing/story/",
    "https://www.quezoncity.gov.ph/wp-content/uploads/2021/01/Eco_Profile_2018_Chapter-7.pdf"
-  ]
+  ],
+  "archive_id": "events-34a506e642b7737f998f"
  }
 ]

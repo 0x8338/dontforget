@@ -1,0 +1,42 @@
+[
+ {
+  "person": "Tim Cook",
+  "role": "CEO, Apple",
+  "promise": "Apple Vision Pro... will be available early next year",
+  "date_promised": "2023-06-05",
+  "due_date": "2024-02-29",
+  "status": "kept",
+  "description": "Apple announced Vision Pro on June 5, 2023, starting at $3,499 with US availability planned for early 2024. On January 8, 2024 it announced February 2 US availability.",
+  "evidence": [
+   "Apple's launch announcement specifies early-2024 US availability.",
+   "January 8 release specifies February 2, 2024."
+  ],
+  "sources": [
+   "Apple",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+   "https://en.wikipedia.org/wiki/Apple_Vision_Pro"
+  ],
+  "archive_id": "promises-f765239edd64f022ea5d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Original promise was early 2024 in US; February 29 is not an explicit cutoff. Official sources support $3,499 and February 2 scheduled availability; remove unsupported review/sales assessment. Actual retail launch confirmation remains separate from January forward announcement.",
+   "sources": [
+    {
+     "name": "Apple",
+     "url": "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/"
+    },
+    {
+     "name": "Apple",
+     "url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/"
+    }
+   ]
+  }
+ }
+]

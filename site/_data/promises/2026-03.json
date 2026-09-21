@@ -18,6 +18,165 @@
   "source_urls": [
    "https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-a-canada-wide-early-learning-and-child-care-plan.html",
    "https://www.canada.ca/en/department-finance/news/2021/12/a-canada-wide-early-learning-and-child-care-plan.html"
-  ]
+  ],
+  "archive_id": "promises-0bcfe13a650673ebf3a2"
+ },
+ {
+  "person": "Hiroki Totoki",
+  "role": "CFO, Sony",
+  "promise": "Sony aimed to launch more than ten live-service games by the fiscal year ending March 2026.",
+  "date_promised": "2021-05-26",
+  "due_date": "2026-03-31",
+  "status": "pending",
+  "description": "Sony's target was reported in February 2022 in connection with its Bungie acquisition. It was an aim, not a guarantee that every announced project would launch.",
+  "evidence": [
+   "The contemporary report identifies Totoki and the fiscal-year target.",
+   "Outcome not established as of 2026-09-21: the checked source does not provide a complete launch count."
+  ],
+  "sources": [
+   "Sony Investor Relations briefing, 2021-05-26",
+   "Bloomberg / Reuters, 2023-12 and 2024"
+  ],
+  "archive_id": "promises-eed8a225c094a8ad4157",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "The checked report attributes the more-than-ten live-service target to Sony CFO Hiroki Totoki in February 2022, not Jim Ryan in May 2021. Fiscal 2025 ends March 31, 2026. Exact announcement day requires the original earnings material before publication; the existing cancellation inventory was not verified.",
+   "sources": [
+    {
+     "name": "Game Informer on Sony live-service target",
+     "url": "https://gameinformer.com/2022/02/02/playstation-plans-to-launch-10-live-service-games-by-2026-but-dont-expect-single-player"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Carney",
+  "role": "Prime Minister of Canada",
+  "promise": "Reduce growth in day-to-day federal government spending from about 9% per year to under 2%",
+  "date_promised": "2025-05-27",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "The May 27, 2025 Throne Speech proposed reducing operating-budget growth below 2%. Budget 2025 subsequently forecast average direct program-expense growth below 1% across its planning horizon, with an expenditure review. Forecasts and total-spending growth do not establish the final operating-spending outcome.",
+  "evidence": [
+   "September 2025 reports said the fall budget outlook abandoned the under-2% target",
+   "No implementing measures were presented"
+  ],
+  "sources": [
+   "Edmonton Sun",
+   "Kelowna Capital News",
+   "Dan Albas, MP"
+  ],
+  "archive_id": "promises-982efd0e93638c249c8d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Throne Speech was May 27, not May 6. Budget 2025 projects direct program-expense growth averaging under 1% over its planning horizon, contrary to unqualified abandonment and no implementing measures. Operating spending must not be conflated with total spending. March 2026 deadline and completed outturn against a comparable definition remain unestablished.",
+   "sources": [
+    {
+     "name": "Canada: 2025 Throne Speech",
+     "url": "https://www.canada.ca/en/privy-council/campaigns/speech-throne/2025/speech-from-the-throne.html"
+    },
+    {
+     "name": "Canada: Budget 2025",
+     "url": "https://www.budget.canada.ca/2025/report-rapport/pdf/budget-2025.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "A GPT-6-level model will be released in Q1 2026",
+  "date_promised": "2025-12-20",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "OpenAI has published an official GPT-6 Astra rollout announcement. The alleged December 2025 promise of a Q1 2026 release still needs a primary interview or transcript; model-name speculation is not a substitute.",
+  "evidence": [
+   "No GPT-6 release in Q1 2026; GPT-5.5 shipped April 23, 2026",
+   "July-August 2026 reports: GPT-6/Astra not yet public, naming unresolved (GPT-6 vs GPT-5.7)"
+  ],
+  "sources": [
+   "Voiceflow",
+   "The Paper",
+   "Tencent Cloud"
+  ],
+  "source_urls": [
+   "https://www.voiceflow.com/blog/gpt-6-what-we-already-know-and-what-to-expect",
+   "https://www.thepaper.cn/newsDetail_forward_32923894",
+   "https://cloud.tencent.cn/developer/article/2625007"
+  ],
+  "archive_id": "promises-dde85615f16febb12646",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "status"
+   ],
+   "note": "Current official announcement documents Astra rollout, contradicting continued nonrelease as of this audit. It does not validate the alleged December 20 interview or Q1 deadline; no exact announcement date is inferred from crawl time. Do not convert an unsourced rumor into kept(delayed).",
+   "sources": [
+    {
+     "name": "OpenAI: GPT-6 Astra announcement",
+     "url": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+     "name": "OpenAI: Astra safety overview",
+     "url": "https://openai.com/index/safety-overview-gpt-6-astra/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Dario Amodei",
+  "role": "CEO of Anthropic",
+  "promise": "AI will be writing 90% of code within 3-6 months, and essentially all code within 12 months",
+  "date_promised": "2025-03-10",
+  "due_date": "2026-03-31",
+  "status": "broken",
+  "description": "At a Council on Foreign Relations forum (March 2025), Amodei said AI would be writing 90% of the code software developers were in charge of within three to six months, and 'essentially all of the code' within twelve months. The 90% milestone was not reached by September 2025; independent researchers estimated in 2026 that it would take 9-15 months beyond the prediction even inside Anthropic, let alone industry-wide.",
+  "evidence": [
+   "90% milestone not met by the September 2025 target",
+   "2026 assessments: goal still 9-15 months away by reasonable operational definitions"
+  ],
+  "sources": [
+   "Business Insider",
+   "Fortune",
+   "Gate TV"
+  ],
+  "source_urls": [
+   "https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3",
+   "https://alten.capital/blog/amodei-and-the-innovators-dilemma",
+   "http://gate.tv/zh/news/detail/anthropic-ceo-predicts-that-ai-will-handle-all-code-within-a-yearindustry-19924614"
+  ],
+  "archive_id": "promises-1d516a69cb137d54202b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "description"
+   ],
+   "note": "CFR dates the event March 10, not March 13. Exact transcript, denominator for code-writing and operational outcome remain unestablished; independent '9-15 months' assertion is not supported by retrieved research. Month-end deadline is not twelve months from the event.",
+   "sources": [
+    {
+     "name": "CFR: event listing",
+     "url": "https://www.cfr.org/event?field_event_status_value=1&page=26&regions=All&sort_by=created&sort_order=DESC&topics=339"
+    },
+    {
+     "name": "Podwise: CFR interview record",
+     "url": "https://podwise.ai/episodes/3291998"
+    }
+   ]
+  }
  }
 ]

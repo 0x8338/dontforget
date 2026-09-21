@@ -1,5 +1,79 @@
 [
  {
+  "person": "United Nations",
+  "role": "189 UN member states (Millennium Development Goals)",
+  "promise": "Halve the proportion of people living in extreme poverty between 1990 and 2015",
+  "date_promised": "2000-09-08",
+  "due_date": "2015-12-31",
+  "status": "kept",
+  "description": "The MDG target was to halve the extreme-poverty proportion between 1990 and 2015. The UN's 2015 report said the target was achieved and estimated the developing-world rate fell from 47% to 14%.",
+  "evidence": [
+   "UN 2015 report gives 47% and 14% for developing regions, using its then-current $1.25-a-day measure."
+  ],
+  "sources": [
+   "United Nations Millennium Development Goals Report",
+   "World Bank"
+  ],
+  "archive_id": "promises-bbb01d0409cf04d90ec7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "role",
+    "sources"
+   ],
+   "note": "47% to 14% refers to developing regions, not global population. Goal success supported by UN report; exact September 8 adoption and 189 signatories require declaration.",
+   "sources": [
+    {
+     "name": "United Nations",
+     "url": "https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20%28July%201%29.pdf"
+    },
+    {
+     "name": "United Nations",
+     "url": "https://sustainabledevelopment.un.org/content/documents/1903UNDP_MDG_Report_2015.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Muhammadu Buhari",
+  "role": "President of Nigeria",
+  "promise": "We will end Boko Haram by December",
+  "date_promised": "2015-07-14",
+  "due_date": "2015-12-31",
+  "status": "broken",
+  "description": "In July 2015, shortly after his inauguration, Buhari promised that the Boko Haram insurgency would be 'technically ended' by December 2015, saying the military had been ordered to defeat the group within months. The insurgency continued throughout his entire eight-year presidency, with attacks and kidnapping persisting long after the deadline.",
+  "evidence": [
+   "Boko Haram attacks continued past the December 2015 deadline and throughout Buhari's term",
+   "Buhari's own defense officials later abandoned the 'technical defeat' claim"
+  ],
+  "sources": [
+   "BBC News (July 2015)",
+   "Reuters (2015-2016 Nigeria security reporting)"
+  ],
+  "archive_id": "promises-0c539ca73668a85394ba",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "December deadline and continuing attacks are supported; July 14 announcement and 'technically ended' as original promise are unverified. Later declaration of technical defeat must not be backdated into the pledge.",
+   "sources": [
+    {
+     "name": "Brookings",
+     "url": "https://www.brookings.edu/articles/re-evaluating-the-boko-haram-conflict/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2015/12/29/nigeria-the-defeat-of-deadly-boko-haram/"
+    }
+   ]
+  }
+ },
+ {
   "person": "Janet Yellen",
   "role": "Fed Chair",
   "promise": "Yellen said most FOMC participants expected conditions to warrant raising rates later in 2015 (conditional forecast, paraphrase).",
@@ -19,7 +93,8 @@
    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150917a.htm",
    "https://www.frbsf.org/research-and-insights/blog/uncategorized/2015/12/18/fed-decision-rate-increase-december-2015/",
    "https://www.federalreserve.gov/mediacenter/files/fomcpresconf20150917.pdf"
-  ]
+  ],
+  "archive_id": "promises-f6bca55793025cdaed42"
  },
  {
   "person": "Wolfgang Schäuble",
@@ -37,6 +112,48 @@
   ],
   "source_urls": [
    "https://www.bundesregierung.de/breg-en/service/archive/archive/no-more-new-borrowing-as-of-2015-446800"
-  ]
+  ],
+  "archive_id": "promises-cef86ed8da68a180ed0b"
+ },
+ {
+  "person": "Meg Whitman",
+  "role": "CEO, Hewlett-Packard",
+  "promise": "HP revenue would stabilize in 2014, with growth accelerating again in 2015",
+  "date_promised": "2013-10-09",
+  "due_date": "2015-12-31",
+  "status": "partial",
+  "description": "Whitman said in October 2013 that HP expected revenue to stabilize in fiscal 2014 and accelerate in fiscal 2015. HP's fiscal 2014 fourth-quarter revenue fell 2% year over year; it did not report growth in both Q3 and Q4.",
+  "evidence": [
+   "Q3 and Q4 FY2014 quarterly revenue grew year over year",
+   "Full-year FY2014 revenue still declined slightly; 2015 split disrupted the growth plan"
+  ],
+  "sources": [
+   "Fox Business (2013)",
+   "New York Times"
+  ],
+  "source_urls": [
+   null,
+   "http://www.nytimes.com/2014/08/21/technology/hewlett-packard-revenue-and-cash-flow-improve-but-earnings-fall.html)"
+  ],
+  "archive_id": "promises-713f9a102b8a6fc7abf5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Contemporaneous report is October 9, not October 1, 2013. Q4 2014 revenue declined 2%, contradicting two consecutive growth quarters. Targets are fiscal years, so calendar December 2015 is not automatically the deadline. FY2015 outcome and precise fiscal deadline remain unresolved.",
+   "sources": [
+    {
+     "name": "Reuters via Yahoo: Whitman outlook",
+     "url": "https://finance.yahoo.com/news/hp-ceo-sees-revenue-stabilizing-160613419.html"
+    },
+    {
+     "name": "HP: fiscal 2014 results",
+     "url": "https://investor.hp.com/news-events/news/news-details/2014/HP-Reports-Fiscal-2014-Full-Year-and-Fourth-Quarter-Results/default.aspx"
+    }
+   ]
+  }
  }
 ]

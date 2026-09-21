@@ -1,0 +1,40 @@
+[
+ {
+  "person": "Jensen Huang",
+  "role": "CEO, NVIDIA",
+  "promise": "Huang predicted that the worldwide installed value of data centers would grow from about $1 trillion to $2 trillion over four to five years.",
+  "date_promised": "2024-02-14",
+  "due_date": "2029-02-14",
+  "status": "pending",
+  "description": "At the World Government Summit in Dubai, Huang forecast growth in the installed data-center base. He did not promise that every existing facility would be converted to accelerated computing.",
+  "evidence": [
+   "The contemporary report describes a four-to-five-year forecast.",
+   "Earlier February 13 reporting shows February 14 cannot be assumed to be the speech date."
+  ],
+  "sources": [
+   "Data Center Dynamics (Feb 14, 2024)",
+   "NVIDIA Q4 FY24 earnings call (Feb 2024)",
+   "CNBC (May 21, 2026)"
+  ],
+  "archive_id": "promises-95eb548a4e538e5b2c6f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "DCD's February 14 date is publication, not the Dubai speech date; February 13 coverage already reports the same remarks. The prediction concerns installed data-center value, not a commitment that all facilities become accelerated computing. The exact due day computed from publication is unsupported.",
+   "sources": [
+    {
+     "name": "DCD Huang data-center forecast",
+     "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-predicts-data-center-spend-will-double-to-2-trillion/"
+    },
+    {
+     "name": "Benzinga earlier coverage",
+     "url": "https://www.benzinga.com/markets/equities/24/02/37087722/nvidia-ceo-jensen-huang-urges-nations-to-embrace-sovereign-ai-predicts-data-center-spending-to-h"
+    }
+   ]
+  }
+ }
+]

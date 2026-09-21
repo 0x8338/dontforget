@@ -1,0 +1,43 @@
+[
+ {
+  "person": "Joe Biden",
+  "role": "President of the United States",
+  "promise": "Deliver 100 million COVID-19 vaccine doses in the first 100 days",
+  "date_promised": "2020-12-08",
+  "due_date": "2021-04-30",
+  "status": "kept",
+  "description": "Biden announced the 100-million-shot goal on December 8, 2020. His administration reported reaching it on March 19, 2021, ahead of the deadline, before increasing the target to 200 million.",
+  "evidence": [
+   "March 25 transcript says the original goal was reached by day 58.",
+   "March 19 reporting confirms the 100-million milestone."
+  ],
+  "sources": [
+   "White House",
+   "CDC",
+   "AP News"
+  ],
+  "archive_id": "promises-bbfaed04263e1eb9dc22",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "100 million reached March 19, day 58, not April 21/day 92 (later 200-million milestone). Normalize first-100-days due date convention separately.",
+   "sources": [
+    {
+     "name": "American Presidency Project",
+     "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-1268"
+    },
+    {
+     "name": "American Presidency Project",
+     "url": "https://www.presidency.ucsb.edu/documents/remarks-the-100-million-shot-goal"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2021/03/19/biden-100-million-vaccines-covid"
+    }
+   ]
+  }
+ }
+]

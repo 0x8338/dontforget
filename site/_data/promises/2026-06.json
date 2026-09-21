@@ -1,0 +1,83 @@
+[
+ {
+  "person": "Gianni Infantino",
+  "role": "FIFA President",
+  "promise": "We are going to have a 48-team World Cup.",
+  "date_promised": "2017-01-10",
+  "due_date": "2026-06-11",
+  "status": "kept",
+  "description": "FIFA Council unanimously voted to expand the World Cup to 48 teams (announced for 2026 after the 2022 tournament stayed at 32). The expanded 48-team tournament kicked off June 11, 2026 in North America.",
+  "evidence": [
+   "FIFA Council unanimously voted for a 48-team format on 2017-01-10",
+   "2026 World Cup in USA/Canada/Mexico ran with 48 teams as promised"
+  ],
+  "sources": [
+   "FIFA.com press release, 2017-01-10",
+   "Reuters, 2017-01-10"
+  ],
+  "archive_id": "promises-96077c9992414093e195",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "sources"
+   ],
+   "note": "FIFA confirms January 10, 2017 expansion decision and June 11, 2026 scheduled opener. Retrieved schedule is prospective, not evidence the tournament actually ran. Need actual competition report and exact Infantino quote before full certification.",
+   "sources": [
+    {
+     "name": "FIFA",
+     "url": "https://inside.fifa.com/organisation/fifa-council/media-releases/fifa-council-unanimously-decides-on-expansion-of-the-fifa-world-cuptm--2863100"
+    },
+    {
+     "name": "FIFA",
+     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/updated-fifa-world-cup-2026-match-schedule-now-available?searchOverlay=1"
+    }
+   ]
+  }
+ },
+ {
+  "person": "World Bank",
+  "role": "International financial institution",
+  "promise": "Provide Ukraine $3.39 billion in budget support under the First Jobs and Private Sector Growth Development Policy Operation",
+  "date_promised": "2026-06-24",
+  "due_date": "2026-06-30",
+  "status": "pending",
+  "description": "The World Bank approved USD 3.39 billion in support on June 22, 2026. Ukraine's ministry subsequently announced signed agreements and expected USD 3.35 billion in budget receipts by end-June.",
+  "evidence": [
+   "Outcome not established as of 2026-09-21: the ministry confirmed USD 3.35 billion received in a July 10 publication, but the actual settlement date against the June 30 target was not established."
+  ],
+  "sources": [
+   "Ukraine Ministry of Finance",
+   "Ukrinform",
+   "Interfax-Ukraine"
+  ],
+  "source_urls": [
+   "https://mof.gov.ua/en/news/ukraine_and_the_world_bank_signed_agreements_worth_usd_339_billion_in_gdask_to_support_the_budget_and_advance_reforms-5788",
+   "https://www.ukrinform.net/rubric-economy/4143028-ukraine-receives-usd-335b-from-world-bank.html",
+   "https://en.interfax.com.ua/news/economic/1184189.html"
+  ],
+  "archive_id": "promises-b321d387086a4cb7e58a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "Board approval was June 22. The June 25 ministry announcement describes signing at the conference, whereas its July 10 receipt announcement says agreements were signed June 24. The expected end-June receipt cannot be scored from a July publication date alone. Both date accounts retained.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://www.worldbank.org/en/news/press-release/2026/06/22/first-ukraine-jobs-and-private-sector-growth-development-policy-operation"
+    },
+    {
+     "name": "Ukraine Ministry of Finance",
+     "url": "https://mof.gov.ua/en/news/ukraine_and_the_world_bank_signed_agreements_worth_usd_339_billion_in_gdask_to_support_the_budget_and_advance_reforms-5788"
+    },
+    {
+     "name": "Ukraine Ministry of Finance",
+     "url": "https://mof.gov.ua/en/news/ukraine_received_usd_335_billion_under_world_bank_dpo_program-5818"
+    }
+   ]
+  }
+ }
+]

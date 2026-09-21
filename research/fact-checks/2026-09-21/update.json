@@ -23,7 +23,8 @@
         "source_urls": [
           "https://abcnews.com/amp/International/wireStory/3-killed-russian-strikes-ukraine-putin-warns-europe-136385728",
           "https://www.rte.ie/news/2026/0912/1591278-ukraine/"
-        ]
+        ],
+        "archive_id": "events-81d7c919f2649bd3ad66"
       },
       "note": "Use the Kramatorsk-specific toll, not the articles' larger daily Ukraine totals. Daytime September 12 local time is also September 12 UTC."
     },
@@ -42,7 +43,8 @@
         "source_urls": [
           "https://www.channelstv.com/2026/09/14/multi-car-crash-kills-21-in-south-africa/",
           "https://www.timeslive.co.za/news/south-africa/2026-09-14-21-people-killed-in-multiple-vehicle-crash-on-n1-in-western-cape/"
-        ]
+        ],
+        "archive_id": "events-d662e3fa1bdc0a3b7b99"
       },
       "note": "Reported shortly after midnight September 14 SAST, corresponding to September 13 UTC. Reports differ on the exact hour but agree on the UTC day."
     },
@@ -61,7 +63,8 @@
         "source_urls": [
           "https://www.marketscreener.com/news/russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast-governor-says-ce785bd2db8df223",
           "https://www.euronews.com/my-europe/2026/09/16/five-killed-in-russian-drone-strike-on-ukrainian-bus"
-        ]
+        ],
+        "archive_id": "events-fe3fbebdcda24eb71bd0"
       },
       "note": "Morning September 16 local time is the same UTC date; perpetrator attribution is explicitly sourced to officials."
     },
@@ -80,7 +83,8 @@
         "source_urls": [
           "https://lafd.com/news/2-people-dead-and-6-injured-after-suv-collides-side-metro-bus-chatsworth",
           "https://www.nbclosangeles.com/news/local/chatsworth-crash-involving-metro-bus/3942678/"
-        ]
+        ],
+        "archive_id": "events-0139327c0a36f231490e"
       },
       "note": "September 15 at 17:03 PDT converts to September 16 at 00:03 UTC. Separate from the later helicopter crash."
     },
@@ -99,7 +103,8 @@
         "source_urls": [
           "https://www.local10.com/news/2026/09/16/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/",
           "https://kesq.com/news/2026/09/15/three-people-dead-after-news-helicopter-crashes-in-los-angeles-area/"
-        ]
+        ],
+        "archive_id": "events-53f8a0982ea052117f83"
       },
       "note": "Shortly before 19:00 PDT September 15 is September 16 UTC. Do not include the two deaths in the separate bus collision."
     },
@@ -118,7 +123,8 @@
         "source_urls": [
           "https://www.ksje.com/news/local-news/three-die-in-newcomb-area-flood/",
           "https://www.kjzz.org/indigenous-affairs/2026-09-16/3-dead-in-flooding-on-the-navajo-nation"
-        ]
+        ],
+        "archive_id": "events-119a11d816c488cad1ef"
       },
       "note": "Reported around 00:30 MDT September 16. Both the preceding late evening and this report time fall on September 16 UTC; exact time of death is not asserted."
     },
@@ -137,7 +143,8 @@
         "source_urls": [
           "https://www.afp.com/en/saudi-civil-defence-says-shrapnel-houthi-drone-kills-1-after-interception",
           "https://wtaq.com/2026/09/17/one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis/"
-        ]
+        ],
+        "archive_id": "events-b2e591b7514a762651be"
       },
       "note": "Death and attribution are reported by Saudi authorities; no independent attribution is claimed."
     },
@@ -156,7 +163,8 @@
         "source_urls": [
           "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396",
           "https://www.jpost.com/international/article-909043"
-        ]
+        ],
+        "archive_id": "events-b4c55c9609a9f294473f"
       },
       "note": "Use the September 18 attack date and updated September 19 victim toll. Reports differ on police and injury subtotals; omit those. Attackers killed are reported separately and are not added to 31."
     },
@@ -175,7 +183,8 @@
         "source_urls": [
           "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
           "https://english.wafa.ps/Pages/Details/174886"
-        ]
+        ],
+        "archive_id": "events-3dd48f1267c7c0656f50"
       },
       "note": "Reuters was published September 20 but describes Saturday September 19. Both reports identify the Jabalia death; their other daily deaths are different and must not be summed."
     },
@@ -194,7 +203,8 @@
         "source_urls": [
           "https://www.thenews.pk/print/1438410-israeli-strikes-kill-three-people-in-gaza-medics-say",
           "https://english.wafa.ps/Pages/Details/174886"
-        ]
+        ],
+        "archive_id": "events-33567a240de7579fa889"
       },
       "note": "Same reporting-date distinction as Jabalia. Record separate locations to avoid conflating the sources' different three-death aggregates."
     },
@@ -213,7 +223,8 @@
         "source_urls": [
           "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
           "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
-        ]
+        ],
+        "archive_id": "events-cf4714440ffd9eab9b99"
       },
       "note": "Late-morning local reporting corresponds to September 20 UTC. Avoid claims about the victim's civilian or military status not established by both sources."
     },
@@ -232,7 +243,8 @@
         "source_urls": [
           "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/palestinian-gunman-shoots-dead-israeli-in-the-west-bank-soldiers-kill-motorist",
           "https://www.afp.com/de/juedischer-siedler-im-westjordanland-getoetet-verdaechtiger-festgenommen"
-        ]
+        ],
+        "archive_id": "events-629512bb374bf79da79f"
       },
       "note": "Separate from the Neve Tzuf shooting. The death is reported by both sources; the military's account of motive and circumstances remains an attributed allegation."
     },
@@ -251,7 +263,8 @@
         "source_urls": [
           "https://www.arabnews.pk/pakistan/at-least-three-killed-in-pakistani-airstrikes-on-afghanistan-officials-say-3001850",
           "https://www.ariananews.af/pakistani-military-jets-strike-earthquake-victims-camp-in-kunar-officials-say/"
-        ]
+        ],
+        "archive_id": "events-84eb260b146cad9eed06"
       },
       "note": "Ariana quotes the police spokesman placing the strike around 03:00 Afghanistan time September 21, corresponding to 22:30 UTC September 20. Do not combine unrelated Paktika strikes with this toll."
     }
@@ -273,7 +286,8 @@
       "source_urls": [
         "https://presidency.gov.gh/han-shs-to-get-boarding-status-as-president-mahama-inspects-getfund-projects-in-upper-west/",
         "https://gna.org.gh/2026/09/president-mahama-reiterates-governments-commitment-to-end-double-track-shs-system/"
-      ]
+      ],
+      "archive_id": "promises-662f9c87820b90e13d19"
     },
     {
       "person": "John Dramani Mahama",
@@ -289,7 +303,8 @@
       ],
       "source_urls": [
         "https://ubids.edu.gh/news/resetting-ghana-tour-president-mahama-pledges-complete-ongoing-projects"
-      ]
+      ],
+      "archive_id": "promises-8ad5faed6646059cb746"
     },
     {
       "person": "Government of Canada",
@@ -305,7 +320,8 @@
       ],
       "source_urls": [
         "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
-      ]
+      ],
+      "archive_id": "promises-f14e645dcb28b3f8f377"
     },
     {
       "person": "TD Bank Group",
@@ -323,7 +339,8 @@
       "source_urls": [
         "https://stories.td.com/ca/en/news/2026-09-14-td-launches-24150-billion-five-year-commitment-to-accelerate",
         "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
-      ]
+      ],
+      "archive_id": "promises-6fe0a44bbd9f6ab5feb0"
     },
     {
       "person": "Ontario Teachers' Pension Plan",
@@ -341,7 +358,8 @@
       "source_urls": [
         "https://otpp.com/en-ca/about-us/news-and-insights/2026/ontario-teachers-sets-objective-to-invest-an-additional-10-billion-in-canada-by-the-end-of-2027/",
         "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
-      ]
+      ],
+      "archive_id": "promises-83db28a52338a618902d"
     }
   ],
   "withheld": [

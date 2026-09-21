@@ -1,0 +1,40 @@
+[
+ {
+  "person": "Larry Fink",
+  "role": "CEO, BlackRock",
+  "promise": "Achieve net zero across BlackRock by 2050 or sooner and launch investment products aligned to a net-zero pathway",
+  "date_promised": "2021-01-26",
+  "due_date": "2050-12-31",
+  "status": "partial",
+  "description": "Fink's January 26, 2021 letter called for companies to explain their transition plans and announced temperature-alignment information and investment products linked to net-zero goals. Corporate operations, client assets and the global economy are distinct scopes.",
+  "evidence": [
+   "Commitment made in the 2021 annual letter to CEOs",
+   "BlackRock continued to hold major fossil-fuel assets, making full achievement uncertain as of 2026"
+  ],
+  "sources": [
+   "New York Times",
+   "Business Insider",
+   "S&P Global"
+  ],
+  "archive_id": "promises-2a8fe1b115b57f50173a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "sources"
+   ],
+   "note": "Letter sought company transition plans and announced aligned investment products. This is not sufficient evidence for an unconditional promise to decarbonize all client assets. Continued fossil holdings in 2026 do not determine a 2050 outcome; scope and assessment remain unresolved.",
+   "sources": [
+    {
+     "name": "BlackRock: net-zero transition",
+     "url": "https://www.blackrock.com/corporate/corporate-sustainability/managing-the-net-zero-transition"
+    },
+    {
+     "name": "Forbes: January 26 Fink letter",
+     "url": "https://www.forbes.com/sites/sarahhansen/2021/01/26/blackrocks-larry-fink-wants-companies-to-eliminate-greenhouse-gas-emissions-by-2050/"
+    }
+   ]
+  }
+ }
+]

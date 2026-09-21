@@ -1,5 +1,39 @@
 [
  {
+  "person": "Andrés Manuel López Obrador",
+  "role": "President of Mexico",
+  "promise": "We will achieve annual GDP growth of 4 percent",
+  "date_promised": "2018-12-01",
+  "due_date": "2024-09-30",
+  "status": "broken",
+  "description": "AMLO repeatedly promised that his government would deliver 4% annual GDP growth, making it a central claim of his 'Fourth Transformation'. Growth averaged only about 1% per year across his six-year term (2019-2024, including the -8% COVID crash of 2020), making it one of the most-cited unfulfilled promises of his presidency.",
+  "evidence": [
+   "IMF's October 2024 assessment records 2021 GDP growth of 6.0%, so growth did exceed 4% in one year.",
+   "Assessing an average-term 4% pledge requires a consistent series, not a claim that no single year exceeded it."
+  ],
+  "sources": [
+   "INEGI GDP data (2019-2024)",
+   "Reuters / El Financiero (2024 end-of-term assessments)"
+  ],
+  "archive_id": "promises-1c265cec3fbdb6e51460",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "IMF's 2024 table reports 6.0% growth in 2021, refuting 'no year reached 4%'. Original pledge and consistent final term-average remain unverified; 2024 data here are projections, not final outturn.",
+   "sources": [
+    {
+     "name": "International Monetary Fund",
+     "url": "https://www.imf.org/en/news/articles/2024/10/15/mcs-mexico-staff-concluding-statement-of-the-2024-aiv-mission"
+    }
+   ]
+  }
+ },
+ {
   "person": "The Walt Disney Company",
   "role": "Entertainment company",
   "promise": "Disney targeted 60-90 million Disney+ subscribers by the end of fiscal 2024.",
@@ -18,7 +52,41 @@
   "source_urls": [
    "https://thewaltdisneycompany.com/app/uploads/2019/03/Disney_Investor_Day_2019_transcript.pdf",
    "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2024/"
-  ]
+  ],
+  "archive_id": "promises-5273ada2c20591f45212"
+ },
+ {
+  "person": "Bob Chapek",
+  "role": "CEO, The Walt Disney Company",
+  "promise": "We expect Disney+ to reach 230 million to 260 million paid subscribers by fiscal 2024 (as reported).",
+  "date_promised": "2020-12-10",
+  "due_date": "2024-09-28",
+  "status": "broken",
+  "description": "Disney ended fiscal 2024 with 122.7 million Disney+ Core subscribers and 35.9 million Hotstar subscribers, or 158.6 million combined, below the stated 230-260 million target.",
+  "evidence": [
+   "Disney's FY2024 results separate Core and Hotstar counts."
+  ],
+  "sources": [
+   "Disney 2020 Investor Day, 2020-12-10",
+   "Disney Q4 FY2024 earnings, 2024-11-14"
+  ],
+  "archive_id": "promises-f9e6de9ff8065e31477d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "promise",
+    "sources"
+   ],
+   "note": "FY2024 figures were 122.7m core plus 35.9m Hotstar, totaling 158.6m, not 150m core. Compare like scope to original target; original investor-day attribution/timestamp still needs source.",
+   "sources": [
+    {
+     "name": "Disney",
+     "url": "https://investors.thewaltdisneycompany.com/news/news-details/2024/The-Walt-Disney-Company-Reports-Fourth-Quarter-and-Full-Year-Earnings-for-Fiscal-2024-11-14-2024/"
+    }
+   ]
+  }
  },
  {
   "person": "United Nations member states (Pact for the Future)",
@@ -40,6 +108,41 @@
    "https://digitallibrary.un.org/record/4020326",
    "https://www.un.org/en/node/222598",
    "https://www.un.org/pga/78/wp-content/uploads/sites/108/2023/09/SOTF-Ministerial-Draft-Programme-11-Sept.pdf"
-  ]
+  ],
+  "archive_id": "promises-e2c26c7bc10fd785d215"
+ },
+ {
+  "person": "Paris 2024 organising committee",
+  "role": "Olympic and Paralympic Games organisers",
+  "promise": "Cut Games carbon emissions by 50% compared with the London 2012 and Rio 2016 average",
+  "date_promised": "2017-09-13",
+  "due_date": "2024-09-08",
+  "status": "kept",
+  "description": "Paris 2024's final sustainability report estimates the Games' carbon footprint at 1.595 million tonnes CO2e, 54.6% below the average of London 2012 and Rio 2016. This exceeds its halving target on the organizer's stated accounting basis; the claim is not carbon neutrality.",
+  "evidence": [
+   "Final Paris 2024 emissions reported at about 1.6 Mt CO2e, ~54% below the London/Rio average",
+   "London 2012 was estimated at 3.3 Mt and Rio 2016 at 3.6 Mt",
+   "CBC reported the Games cut carbon by over half compared with 2012 and 2016"
+  ],
+  "sources": [
+   "CBC News",
+   "French Ministry of Ecological Transition",
+   "RNZ"
+  ],
+  "archive_id": "promises-4a39faf57265ee6e2ab3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Organizer's final assessment reports 1.595 million tonnes CO2e and a 54.6% reduction against the London/Rio average, supporting the target on its stated accounting basis. It is not proof of carbon neutrality. Exact September 13, 2017 announcement date was not established.",
+   "sources": [
+    {
+     "name": "Paris 2024: final sustainability report",
+     "url": "https://library.olympics.com/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=3460237&parentDocumentId=3460235&skipCopyright=true&skipWatermark=true"
+    }
+   ]
+  }
  }
 ]

@@ -1,0 +1,36 @@
+[
+ {
+  "person": "Friedrich Merz",
+  "role": "Chancellor-designate of Germany (CDU/CSU)",
+  "promise": "Create a €500 billion debt-financed infrastructure fund over the next ten to twelve years, with €100 billion earmarked for the climate transition",
+  "date_promised": "2025-03-04",
+  "due_date": "2037-12-31",
+  "status": "kept",
+  "description": "Germany amended the Basic Law in March 2025 to enable a EUR500 billion infrastructure and climate-neutrality special fund. The government reports that the fund was operating from October 2025, with a twelve-year investment programme and EUR100 billion assigned to the Climate and Transformation Fund.",
+  "evidence": [
+   "German parliament approved the €500bn infrastructure fund and debt-brake changes in March 2025",
+   "€100bn allocated to the Climate Transition Fund"
+  ],
+  "sources": [
+   "RTE News",
+   "Anadolu Agency",
+   "ING Economics"
+  ],
+  "archive_id": "promises-2b491616d003a7d56f11",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Primary government account says March 2025 constitutional amendment enabled the fund, while implementation was operating from October 2025. Creating a fund is not disbursing all EUR500bn. Exact March 4 wording, climate allocation added in negotiations, and 2037 cutoff require separate original evidence.",
+   "sources": [
+    {
+     "name": "German Federal Government: special fund",
+     "url": "https://www.bundesregierung.de/breg-en/service/investment-special-fund-2417744"
+    }
+   ]
+  }
+ }
+]

@@ -18,7 +18,40 @@
   "source_urls": [
    "https://www.defense.gov/News/News-Stories/Article/article/2573268/biden-announces-full-us-troop-withdrawal-from-afghanistan-by-sept-11/",
    "https://www.centcom.mil/MEDIA/Transcripts/Article/2789452/pentagon-press-secretary-john-f-kirby-and-general-kenneth-f-mckenzie-jr-hold-a/"
-  ]
+  ],
+  "archive_id": "promises-2431ae0ba3e89f110772"
+ },
+ {
+  "person": "Ursula von der Leyen",
+  "role": "President of the European Commission",
+  "promise": "By the end of the summer, I want 70% of the adult population in the EU to be vaccinated",
+  "date_promised": "2021-02-17",
+  "due_date": "2021-09-21",
+  "status": "kept",
+  "description": "The European Commission recorded 70% of EU adults fully vaccinated on August 31, 2021, before autumn.",
+  "evidence": [
+   "Commission's official timeline dates the milestone August 31, 2021."
+  ],
+  "sources": [
+   "European Commission statement (August 2021)",
+   "Reuters / EURACTIV (August-September 2021)"
+  ],
+  "archive_id": "promises-5f9869814e234287db03",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Commission timeline records August 31, not August 25, milestone. February 17 original speech/date and precise September 21 interpretation of 'end of summer' remain unverified.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://health.ec.europa.eu/system/files/2022-04/covid-19_health-response_en.pdf"
+    }
+   ]
+  }
  },
  {
   "person": "Steve Burns",
@@ -40,6 +73,7 @@
    "https://investor.lordstownmotors.com/news-releases/news-release-details/lordstown-motors-releases-business-updates-remains-track-begin/",
    "https://investor.lordstownmotors.com/news-releases/news-release-details/lordstown-motors-begins-commercial-production-endurancetm-pickup",
    "https://investor.lordstownmotors.com/node/9086/pdf"
-  ]
+  ],
+  "archive_id": "promises-5da02034a7f136bbc86b"
  }
 ]

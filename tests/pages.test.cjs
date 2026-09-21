@@ -99,6 +99,21 @@ test('empty due-month lists produce zero counts', async () => {
   assert.equal(page.get('stat-kept').textContent, 0);
 });
 
+test('review notes do not hide collected promises or alter their status', async () => {
+  const page = await render('promises/index.html', {
+    '../_data/promises/index.json': { months: [{ key: '2026-09', file: 'promises/2026-09.json' }] },
+    '../_data/promises/2026-09.json': [promise({ status: 'broken', source_urls: undefined,
+      review: { as_of: '2026-09-21', fields: ['date_promised'], note: 'Date <not established>',
+        sources: [{ name: 'Review source', url: 'https://example.org/review' }] } })]
+  });
+  assert.equal(page.get('promise-count').textContent, 1);
+  assert.equal(page.get('stat-broken').textContent, 1);
+  page.chips.find(chip => chip.dataset.filter === 'broken').click();
+  assert.match(page.get('promises-container').innerHTML, /Details under review/);
+  assert.match(page.get('promises-container').innerHTML, /Date &lt;not established&gt;/);
+  assert.match(page.get('promises-container').innerHTML, /https:\/\/example.org\/review/);
+});
+
 test('source links and record text are escaped; unsafe URLs are not linked', async () => {
   const page = await render('promises/index.html', {
     '../_data/promises/index.json': { months: [
@@ -130,4 +145,21 @@ test('events continue after a failed window and display source links', async () 
   assert.match(page.get('events-container').innerHTML, /&lt;Event&gt;/);
   assert.match(page.get('events-container').innerHTML, /href="https:\/\/example.org\/event"/);
   assert.equal(page.get('lives-total').textContent, '~2');
+});
+
+test('a retracted fatality stays visible without adding to the death count', async () => {
+  const page = await render('index.html', {
+    '_data/events/index.json': { windows: [
+      { file: 'events/2025-2026.json', days: { '09-21': 2 } }
+    ] },
+    '_data/events/2025-2026.json': [0, 2].map(lives_lost => ({
+      date: '2026-09-21', title: lives_lost ? 'Another event' : 'Corrected report',
+      location: 'Location', category: 'industrial', lives_lost,
+      description: 'Evidence summary', sources: ['Source A']
+    }))
+  });
+  assert.equal(page.get('lives-total').textContent, '~2');
+  assert.match(page.get('events-container').innerHTML, /Corrected report/);
+  assert.match(page.get('events-container').innerHTML, /Fatality report corrected/);
+  assert.equal((page.get('events-container').innerHTML.match(/<article /g) || []).length, 2);
 });

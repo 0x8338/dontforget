@@ -1,5 +1,40 @@
 [
  {
+  "person": "Jeff Bezos",
+  "role": "Founder of Amazon and Blue Origin",
+  "promise": "Land humans on the Moon by 2024 with the Blue Moon lander",
+  "date_promised": "2019-05-09",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At the Blue Moon unveiling, Bezos said 'we can go to the Moon by 2024' and framed it as his generation's challenge. No Blue Origin crewed Moon landing occurred by the deadline; the uncrewed Blue Moon Mk1 lander had not even flown as of 2026.",
+  "evidence": [
+   "No Blue Origin lunar mission flown by end of 2024",
+   "Blue Moon Mk1 first launch slipped to 2026 and beyond"
+  ],
+  "sources": [
+   "Blue Origin presentation",
+   "Reuters",
+   "Ars Technica"
+  ],
+  "archive_id": "promises-0f6fd7c98aed0b17c6be",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "May 9 presentation described Blue Moon helping NASA's 2024 goal, not necessarily an unconditional independent crewed-landing pledge. Need precise conditional wording and current Mk1 launch evidence; absence of a 2024 flight does not verify 'not even flown as of 2026'.",
+   "sources": [
+    {
+     "name": "Spaceflight Now",
+     "url": "https://spaceflightnow.com/2019/05/09/blue-origin-announcement/"
+    }
+   ]
+  }
+ },
+ {
   "person": "Vladimir Putin",
   "role": "President of Russia",
   "promise": "Putin's May 7, 2018 decree targeted Russia becoming one of the five largest economies by purchasing-power-parity GDP by 2024.",
@@ -18,7 +53,280 @@
   "source_urls": [
    "https://documents1.worldbank.org/curated/en/215711545408416700/pdf/Russia-Economic-Report-Preserving-Stability-Doubling-Growth-Halving-Poverty-How.pdf",
    "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf"
-  ]
+  ],
+  "archive_id": "promises-7ba527228f1d71b88303"
+ },
+ {
+  "person": "Vladimir Putin",
+  "role": "President of Russia",
+  "promise": "Raise average life expectancy in Russia to 78 years by 2024.",
+  "date_promised": "2018-05-07",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Also from the May 2018 national-goals decree. Russian life expectancy fell to about 70 in 2020-21 due to COVID excess deaths, recovered to roughly 73.2 by 2024 — well below the 78 target.",
+  "evidence": [
+   "Decree No. 204 set life expectancy of 78 by 2024",
+   "Rosstat data showed life expectancy ~73.2 in 2024"
+  ],
+  "sources": [
+   "Reuters",
+   "Rosstat",
+   "The Moscow Times"
+  ],
+  "archive_id": "promises-fd021f098fbd8f72f157",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Retrieved government material distinguishes healthy life expectancy (67) from life expectancy and later resets 78 to 2030. Need original decree's 2024 metric and Rosstat's actual 2024 result; ~73.2 cannot be verified from these records.",
+   "sources": [
+    {
+     "name": "Government of Russia",
+     "url": "https://government.ru/docs/34848/"
+    },
+    {
+     "name": "Government of Russia",
+     "url": "https://government.ru/docs/all/157297/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of SpaceX",
+  "promise": "\"We are going to land Starships on Mars as early as 2024.\"",
+  "date_promised": "2020-10-16",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Tweeted in October 2020, when Starship was still flying low-altitude hops. By the end of 2024 no Starship had reached orbit with a successful landing, let alone landed on Mars; the first uncrewed Mars landing is now targeted for the late 2020s, and the date was later revised to 2026 and beyond.",
+  "evidence": [
+   "No Starship had landed on Mars by end of 2024",
+   "First orbital Starship flight only occurred April 2023 (exploded before separation)",
+   "SpaceX later revised Mars landing targets to the late 2020s"
+  ],
+  "sources": [
+   "CNBC",
+   "Space.com",
+   "Reuters"
+  ],
+  "archive_id": "promises-2c7c0ca9ef2c7efb6e49",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Mars Society confirms an October 16 appearance, not the purported tweet or exact quotation. 'As early as' is not a guaranteed latest deadline. April 2023 was an attempted orbital test, not successful orbit; 2024 flight outcomes and latest Mars schedule need mission records.",
+   "sources": [
+    {
+     "name": "Mars Society",
+     "url": "https://www.marssociety.org/news/2020/10/19/record-setting-interest-in-2020-virtual-mars-society-convention/"
+    },
+    {
+     "name": "Mars Society",
+     "url": "https://www.marssociety.org/topics/spaceflight/page/3/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Giorgia Meloni",
+  "role": "Prime Minister of Italy",
+  "promise": "We will stop the departures of illegal migrants from the Libyan coast",
+  "date_promised": "2022-09-25",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Meloni campaigned on ending irregular migration, promising to halt boat departures from North Africa after taking office in October 2022. Sea arrivals to Italy fell from about 157,000 in 2023 to roughly 66,000 in 2024 (a drop of about 58%) following EU-Tunisia and EU-Libya deals her government pursued, but departures and arrivals continued and rebounded somewhat in 2025, so the promise was only partially delivered.",
+  "evidence": [
+   "2024 sea arrivals fell to ~66,000 from ~157,000 in 2023",
+   "Irregular arrivals persisted and rose again in 2025, so departures were not 'stopped'"
+  ],
+  "sources": [
+   "Reuters / ANSA (2024 migration data)",
+   "UNHCR Italy statistics (2024-2025)"
+  ],
+  "archive_id": "promises-c06469eca7dd8ca4c154",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Search found migration-policy material but not exact September 25 pledge or December 2024 deadline. National arrivals do not equal departures from Libya; attribution of changes to specific deals needs evidence. 2024/2025 counts not established here.",
+   "sources": [
+    {
+     "name": "Government of Italy",
+     "url": "https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3833"
+    },
+    {
+     "name": "Trends in Organized Crime",
+     "url": "https://doi.org/10.1007/s12117-024-09533-5"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister of Poland",
+  "promise": "I will unlock the European funds for Poland as quickly as possible",
+  "date_promised": "2023-12-13",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "The European Commission disbursed Poland's first EUR6.3 billion recovery-plan payment on April 15, 2024. It was not first paid in April 2025.",
+  "evidence": [
+   "Commission's 2024 Convergence Report records EUR6.3 billion disbursed April 15, 2024."
+  ],
+  "sources": [
+   "European Commission / Reuters (April 2025 payment news)",
+   "PAP (December 2023-January 2024 statements)"
+  ],
+  "archive_id": "promises-6c2a43a5e0394862cc40",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "European Commission records first EUR6.3bn payment April 15, 2024, one year earlier than dataset. An open-ended 'quickly' statement cannot yield December 31 deadline; unlock/eligibility differs from disbursement of all tranches.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://economy-finance.ec.europa.eu/document/download/a3bb3063-6478-44a5-a270-933e49fb304b_en?filename=ip294_en.pdf"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://reforms-investments.ec.europa.eu/recovery-and-resilience-facility-1/country-pages/polands-recovery-and-resilience-plan_en"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Cyril Ramaphosa",
+  "role": "President of South Africa",
+  "promise": "We will end load shedding this year",
+  "date_promised": "2024-02-08",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "In his 2024 State of the Nation address, Ramaphosa promised to end the rolling blackouts (load shedding) that had crippled South Africa for years, saying the energy crisis would be resolved as new capacity came online. Load shedding indeed stopped from late March 2024, giving South Africa more than a year of uninterrupted supply, but a stage-6 crisis returned briefly in July 2025 during a cold snap, so the ending was not permanent.",
+  "evidence": [
+   "No load shedding from late March 2024 for over 400 days (record stretch)",
+   "Stage 6 load shedding returned in July 2025, showing the crisis is not permanently resolved"
+  ],
+  "sources": [
+   "South African Presidency (SONA February 2024)",
+   "Eskom / News24 (2024-2025 load shedding records)"
+  ],
+  "archive_id": "promises-1321e9b7764c4fc04550",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Eskom documents 303 consecutive days as of January 24, 2025, not yet over 400. Need subsequent interruption record and SONA transcript before changing the claimed July return or attributing a binding 'this year' promise.",
+   "sources": [
+    {
+     "name": "Eskom",
+     "url": "https://www.eskom.co.za/structural-performance-change-continues-to-deliver-ongoing-suspension-of-loadshedding-for-over-nine-months-to-support-socio-economic-growth-diesel-usage-remains-below-the-year-to-date-budget/"
+    },
+    {
+     "name": "Eskom",
+     "url": "https://www.eskom.co.za/loadshedding-remains-suspended-for-10-months-on-sunday-diesel-usage-remains-below-year-to-date-budget/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Joko Widodo",
+  "role": "President of Indonesia",
+  "promise": "The new capital Nusantara will be moved to East Kalimantan by 2024",
+  "date_promised": "2019-08-26",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Jokowi announced the new capital's site at the State Palace on August 26, 2019. The government subsequently targeted initial construction for 2024, not completion of the entire city.",
+  "evidence": [
+   "August 17, 2024 Independence Day ceremony held in Nusantara, but most ministries remain in Jakarta",
+   "Official government relocation not completed by end of Jokowi's term (October 2024)"
+  ],
+  "sources": [
+   "Reuters / BBC (August 2024)",
+   "Jakarta Post (2024-2025 Nusantara progress reporting)"
+  ],
+  "archive_id": "promises-a21e2a251701e663acde",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "August 26 was a State Palace site announcement, not State of the Nation speech. Initial construction/start of relocation differs from complete government transfer. Outcome needs 2024 implementation source.",
+   "sources": [
+    {
+     "name": "Indonesian Cabinet Secretariat",
+     "url": "https://setkab.go.id/en/president-jokowi-capital-relocation-to-reduce-jakarta-overwhelming-burdens/"
+    },
+    {
+     "name": "Indonesian Presidential Staff Office",
+     "url": "https://www.ksp.go.id/en/moving-to-nusantara-ksp-new-capital-citys-initial-construction-must-finish-by-2024.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "NATO Allies (Wales Summit)",
+  "role": "Member states of the North Atlantic Treaty Organization",
+  "promise": "We have agreed that all Allies will aim to move towards the 2% of GDP defence spending guideline within a decade",
+  "date_promised": "2014-09-05",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "NATO's 2024 annual report states 22 Allies met the 2%-of-GDP guideline that year, versus three in 2014. The subsequent 2025 report states all Allies met it in 2025.",
+  "evidence": [
+   "NATO annual report: 22 Allies reached 2% in 2024.",
+   "NATO annual report: all Allies reached the guideline in 2025."
+  ],
+  "sources": [
+   "NATO Wales Summit Declaration (September 5, 2014)",
+   "NATO Secretary General's annual defence expenditure report (June 2024)"
+  ],
+  "archive_id": "promises-91d789847f00c8d73c3d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "23 was a forecast; NATO's 2024 annual report gives 22. Original Wales commitment was to aim toward threshold, not unconditional attainment by all. 2025 report says all met it later; preserve distinction between 2024 and later achievement.",
+   "sources": [
+    {
+     "name": "NATO",
+     "url": "https://www.nato.int/content/dam/nato/legacy-wcm/media_pdf/2025/4/pdf/sgar24-en.pdf"
+    },
+    {
+     "name": "NATO",
+     "url": "https://www.nato.int/content/dam/nato/webready/documents/publications-and-reports/annual-reports/sgar25-en.pdf"
+    }
+   ]
+  }
  },
  {
   "person": "NVIDIA",
@@ -40,7 +348,571 @@
   "source_urls": [
    "https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Blackwell-Platform-Arrives-to-Power-a-New-Era-of-Computing/",
    "https://investor.nvidia.com/files/doc_financials/2025/Q425/Q4FY25-CFO-Commentary.pdf"
-  ]
+  ],
+  "archive_id": "promises-996d215ae10b9b00965f"
+ },
+ {
+  "person": "Andy Jassy",
+  "role": "CEO, Amazon",
+  "promise": "Amazon's all-new Alexa voice assistant is coming soon, powered by a new Alexa LLM",
+  "date_promised": "2023-09-20",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At Amazon's Sept 2023 devices event, Jassy's team said the generative-AI Alexa would arrive 'in the coming months' via a US preview. The launch was repeatedly delayed through all of 2024 (Business Insider reported in June 2024 that it had slipped to 2025), and Alexa+ was not introduced until February 26, 2025 — roughly 17 months after the promise.",
+  "evidence": [
+   "The Verge (Sept 20, 2023): new Alexa to roll out 'in the coming months' via preview, US only",
+   "Business Insider (June 2024): Amazon's new generative AI Alexa delayed to 2025",
+   "Wikipedia: 'In February 2025, Amazon introduced Alexa+, the latest version of their voice assistant'",
+   "No commercial launch occurred in 2024 as promised"
+  ],
+  "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home",
+   "https://en.wikipedia.org/wiki/Amazon_Alexa"
+  ],
+  "archive_id": "promises-05d96642a24dd8f9e1ea",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "promise",
+    "due_date",
+    "status"
+   ],
+   "note": "Amazon confirms February 26, 2025 Alexa+ announcement, not a completed broad launch that day. Need 2023 speaker/preview terms; Andy Jassy attribution and December 2024 deadline cannot be derived merely from 'soon'.",
+   "sources": [
+    {
+     "name": "Amazon",
+     "url": "https://www.aboutamazon.com/news/devices/amazon-2025-devices-alexa-event-live-updates"
+    },
+    {
+     "name": "Amazon",
+     "url": "https://www.aboutamazon.com/news/devices/new-alexa-top-features"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "CEO, Meta",
+  "promise": "Meta AI is on track to be the most used AI assistant in the world by the end of the year",
+  "date_promised": "2024-07-31",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Meta's claimed monthly active users and ChatGPT's weekly active users are not directly comparable. ChatGPT's 700-million-weekly-user milestone was reported in August 2025, not December 2024.",
+  "evidence": [
+   "December 2024 ChatGPT reporting put weekly users at about 300 million.",
+   "700 million weekly users was reported in August 2025."
+  ],
+  "sources": [
+   "The Verge",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg",
+   "https://en.wikipedia.org/wiki/ChatGPT"
+  ],
+  "archive_id": "promises-6cc9911b0980298d03a1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status"
+   ],
+   "note": "700m weekly ChatGPT users was an August 2025 milestone, not December 2024. Monthly and weekly measures cannot adjudicate 'most used' without aligned definitions; partial status remains unproven.",
+   "sources": [
+    {
+     "name": "Search Engine Land",
+     "url": "https://searchengineland.com/guide/chatgpt-stats"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2025/08/04/openai-says-chatgpt-is-on-track-to-reach-700m-weekly-users/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Bob Iger",
+  "role": "Disney",
+  "promise": "Combined streaming business (Disney+) would break even by the end of fiscal 2024 (pledge after Iger's return, late 2022)",
+  "date_promised": "2022-06-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "Disney reported its combined streaming businesses became profitable in fiscal Q3 2024, one quarter ahead of its fiscal-Q4 guidance. This combines Entertainment DTC with ESPN+.",
+  "evidence": [
+   "Disney Q3 earnings release reports first combined streaming profitability ahead of guidance."
+  ],
+  "sources": [
+   "Fortune"
+  ],
+  "archive_id": "promises-66760403e8270545dfbc",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "Combined streaming first profitable in fiscal Q3 2024, ahead of Q4 guidance. Distinguish combined non-GAAP streaming result from Entertainment DTC or Disney+ alone. June 2022 attribution conflicts with Iger's later return; exact pledge/fiscal deadline need checking.",
+   "sources": [
+    {
+     "name": "Disney",
+     "url": "https://investors.thewaltdisneycompany.com/news/news-details/2024/The-Walt-Disney-Company-Reports-Third-Quarter-and-Nine-Months-Earnings-for-Fiscal-2024-08-07-2024/default.aspx"
+    },
+    {
+     "name": "Disney",
+     "url": "https://investors.thewaltdisneycompany.com/files/doc_events/2024/08/Q3-FY24-Earnings-Presentation.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "David Zaslav",
+  "role": "Warner Bros. Discovery",
+  "promise": "Merger with Discovery would generate $3 billion in annual cost synergies (2022)",
+  "date_promised": "2022-06-30",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "WBD achieved the $3 billion run-rate target and later raised it to more than $5 billion.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Hollywood Reporter, 2024"
+  ],
+  "archive_id": "promises-8c59a51ada7735a3a2de",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "SEC filings confirm merger and restructuring programmes, but retrieved passages do not establish June 30 promise, 2024 deadline or realized $3bn/$5bn annual run-rate synergies. Restructuring charges are not savings; raised target is not fulfillment.",
+   "sources": [
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/1437107/000143710723000019/disca-20221231.htm"
+    },
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/1437107/000143710724000017/wbd-20231231.htm"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Volodymyr Zelenskyy",
+  "role": "President",
+  "promise": "Victory Plan (presented 16 Oct 2024) demanded an immediate NATO membership invitation as point one, i.e., an invitation before the war's end",
+  "date_promised": "2024-10-16",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Zelenskyy presented the Victory Plan on October 16, 2024. Its first point requested an invitation to NATO; it was not a guarantee that Ukraine itself would issue or secure one by year-end.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Victory_Plan_for_Ukraine",
+   "https://en.wikipedia.org/wiki/Ukraine%E2%80%93NATO_relations"
+  ],
+  "archive_id": "promises-6aca52cd198be3198f13",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "evidence"
+   ],
+   "note": "Official presentation dated October 16, 2024, not January 2023. Invitation was a request to allies, not something Zelenskyy could issue; no December 31 promise established.",
+   "sources": [
+    {
+     "name": "President of Ukraine",
+     "url": "https://www.president.gov.ua/en/news/plan-peremogi-skladayetsya-z-pyati-punktiv-i-troh-tayemnih-d-93857"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister",
+  "promise": "Total victory and destruction/elimination of Hamas — 'we will not stop the war before achieving all of its goals' (April 2024), vowing to continue 'until victory'",
+  "date_promised": "2024-04-30",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "On April 30, 2024 Netanyahu said Israel would not halt the war before achieving its goals and would enter Rafah with or without a deal. The statement gave no calendar deadline.",
+  "evidence": [
+   "April 30 reporting records continued-war and Rafah statements without a year-end deadline."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
+   "https://en.wikipedia.org/wiki/Gaza_peace_plan",
+   "https://en.wikipedia.org/wiki/Gaza_war"
+  ],
+  "archive_id": "promises-0b6dee73bef97c9060d0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "April 30, 2024 statement supports conditional continuation and Rafah goals, not January 2023 or a fixed year-end deadline. Precise Hamas status, geographic control and ceasefire claims need distinct evidence; remove unverified percentages.",
+   "sources": [
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/breaking-news/article-799187"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Claudia Sheinbaum",
+  "role": "President (from 1 Oct 2024)",
+  "promise": "Pass 'Plan C' judicial reform — election of judges by popular vote — during her first months",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "President Lopez Obrador signed the judicial reform in September 2024 with President-elect Sheinbaum present, before she took office on October 1.",
+  "evidence": [
+   "Contemporaneous reports attribute signing to Lopez Obrador, with Sheinbaum attending."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Claudia_Sheinbaum"
+  ],
+  "archive_id": "promises-13f898576a8ed0b927b1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Reporting establishes AMLO signed the reform before Sheinbaum took office, not that she passed it during her first months. January 2023 pledge and first-month commitment need evidence; local September 15 evening can be September 16 UTC.",
+   "sources": [
+    {
+     "name": "N+",
+     "url": "https://www.nmas.com.mx/politica/amlo-acompanado-de-sheinbaum-firma-decreto-para-publicar-en-dof-reforma-judicial/"
+    },
+    {
+     "name": "N+",
+     "url": "https://www.nmas.com.mx/nacional/politica/sheinbaum-asegura-que-con-reforma-judicial-mexico-pasa-por-momento-de-mayor-independencia/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister (from Dec 2023)",
+  "promise": "Unblock Poland's EU Recovery funds (KPO, ~€59.8bn) 'within weeks' of taking office",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "First tranche of PLN 27bn (~€6.3bn) arrived 15 Apr 2024 after the Commission's positive assessment of 29 Feb 2024; further payments followed through 2025, though the full €59.8bn had not all been disbursed.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://pl.wikipedia.org/wiki/Krajowy_Plan_Odbudowy"
+  ],
+  "archive_id": "promises-f770124d2b536f0fc2e7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "evidence"
+   ],
+   "note": "Commission/Euronews support April 15, 2024 payment and financing total. January 2023 promise and 'within weeks' source absent; unblocking eligibility is not the same as first tranche payment. Near-duplicate of index 78 with conflicting outcome chronology.",
+   "sources": [
+    {
+     "name": "European Commission",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52024SC0621"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/my-europe/2024/04/15/poland-ends-long-wait-and-gets-first-payment-of-eu-recovery-funds-63-billion"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Donald Tusk",
+  "role": "Prime Minister (from Dec 2023)",
+  "promise": "Liberalize the abortion law — legal abortion on request up to 12 weeks of pregnancy",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "The Sejm rejected a bill for partial decriminalization of abortion-related acts by 218 votes to 215. That bill should be distinguished from broader legislation establishing access to abortion on request.",
+  "evidence": [
+   "Sejm's legislative record identifies the proposal as partial decriminalization and records the 215-218 vote."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Abortion_in_Poland"
+  ],
+  "archive_id": "promises-1e90a69b036c372ae469",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Sejm record is partial decriminalization, not the same as comprehensive legal access on request. Original pledge date and deadline unverified; do not equate rejection of this bill with voting down every liberalization proposal.",
+   "sources": [
+    {
+     "name": "Sejm",
+     "url": "https://www.sejm.gov.pl/sejm10.nsf/PrzebiegProc.xsp?nr=176"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Keir Starmer",
+  "role": "Prime Minister (from Jul 2024)",
+  "promise": "Create Great British Energy, a publicly owned energy company",
+  "date_promised": "2023-01-01",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "Great British Energy Limited was incorporated on October 10, 2024. Its governance page records Royal Assent to the Great British Energy Act on May 15, 2025; company formation and legislation are distinct milestones.",
+  "evidence": [
+   "GBE's governance page records incorporation in 2024, before the 2025 Act."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Great_British_Energy",
+   "https://en.wikipedia.org/wiki/Premiership_of_Keir_Starmer"
+  ],
+  "archive_id": "promises-eed75f472637bdd37df9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "GBE's own governance page records incorporation October 10, 2024, separate from May 2025 legislation. This resolves the apparent 2024/2025 outcome contradiction, but original promise date/deadline still unsourced. Search text of statutory explanatory notes says April 15 while company says May 15; verify Act header before relying on explanatory-note date.",
+   "sources": [
+    {
+     "name": "Great British Energy",
+     "url": "https://www.gbe.gov.uk/structure-and-governance"
+    },
+    {
+     "name": "UK Legislation",
+     "url": "https://www.legislation.gov.uk/ukpga/2025/16/pdfs/ukpgaen_20250016_en.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Olaf Scholz",
+  "role": "Chancellor (2021–2025)",
+  "promise": "Zeitenwende (27 Feb 2022): €100bn Bundeswehr special fund and reaching NATO's 2% of GDP defence spending",
+  "date_promised": "2022-02-27",
+  "due_date": "2024-12-31",
+  "status": "partial",
+  "description": "Scholz announced a EUR100 billion Bundeswehr special fund and higher defence spending in his February 27, 2022 policy statement. Establishing the fund and spending its resources are distinct measures.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Bundeswehr"
+  ],
+  "archive_id": "promises-6fa38264a570c5f83069",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "evidence"
+   ],
+   "note": "Speech is February 27, 2022, not January 2023. Creating special fund differs from drawing it down, and original spending pledge was sustained annual expenditure, not merely reaching it once. 2024/2025 percentages and drawdown require budget/NATO evidence.",
+   "sources": [
+    {
+     "name": "German Federal Government",
+     "url": "https://www.bundesregierung.de/breg-en/service/archive/policy-statement-by-olaf-scholz-chancellor-of-the-federal-republic-of-germany-and-member-of-the-german-bundestag-27-february-2022-in-berlin-2008378"
+    },
+    {
+     "name": "ARD",
+     "url": "https://www.tagesschau.de/eilmeldung/bundeswehr-sondervermoegen-scholz-101.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jeff Shell",
+  "role": "CEO, NBCUniversal",
+  "promise": "We expect Peacock to reach 30 to 35 million subscribers by 2024 (as reported).",
+  "date_promised": "2021-06-22",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "At Comcast's June 2021 investor day, NBCUniversal guided Peacock to 30-35 million paid subscribers by end of 2024. Peacock finished 2024 with roughly 36 million paid subscribers, meeting the target.",
+  "evidence": [
+   "Comcast Investor Day 2021 guidance of 30-35M Peacock subs by 2024",
+   "Peacock reported ~36M paid subscribers at end of 2024"
+  ],
+  "sources": [
+   "Comcast 2021 Investor Day presentation",
+   "Comcast Q4 2024 earnings release, 2025-01-30"
+  ],
+  "archive_id": "promises-2ecf9139a93222e24215",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "sources"
+   ],
+   "note": "Comcast SEC filing confirms 36m paid Peacock subscribers at end-2024. Original June 22 2021 event/quote and 30-35m paid versus active-account measure remain unsupported.",
+   "sources": [
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000011/cmcsa-20241231.htm"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Lucian Grainge",
+  "role": "Chairman/CEO, Universal Music Group",
+  "promise": "UMG and Deezer announced plans to explore an artist- and fan-focused streaming model.",
+  "date_promised": "2023-03-15",
+  "due_date": "2024-12-31",
+  "status": "pending",
+  "description": "UMG and Deezer announced an exploratory initiative in March 2023, followed by an artist-centric model announcement in September. These notices do not promise higher income for every artist or every stream.",
+  "evidence": [
+   "The March 15 UMG notice describes an exploratory initiative.",
+   "The September 6 notice concerns a Deezer model, not industry-wide adoption.",
+   "Outcome not established as of 2026-09-21: global earnings impact was not demonstrated by the checked sources."
+  ],
+  "sources": [
+   "UMG announcement, 2023-03-21",
+   "Billboard coverage of UMG-Apple deal, 2025-02"
+  ],
+  "archive_id": "promises-1ff7c63609a7536b1cb4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "Primary notices establish a March 15 exploration initiative and September 6 Deezer agreement, not the March 21 date or a worldwide December 2024 deadline. Unsupported Apple/Amazon agreements and universal higher-earnings claims must not survive the correction.",
+   "sources": [
+    {
+     "name": "UMG and Deezer exploration initiative",
+     "url": "https://www.universalmusic.com/universal-music-group-and-deezer-announce-initiative-to-explore-new-artist-and-fan-focused-streaming-approach/"
+    },
+    {
+     "name": "UMG and Deezer launch agreement",
+     "url": "https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Anthropic",
+  "role": "AI company",
+  "promise": "Anthropic announced plans to release Claude 3.5 Opus later in 2024.",
+  "date_promised": "2024-06-20",
+  "due_date": "2024-12-31",
+  "status": "pending",
+  "description": "The Claude 3.5 Sonnet announcement said Haiku and Opus would complete the 3.5 family later that year.",
+  "evidence": [
+   "The primary announcement supports the year-end target, but its date differs from the contemporaneous model-card addendum.",
+   "Outcome not established as of 2026-09-21: the checked announcement and model card do not establish the subsequent release history."
+  ],
+  "sources": [
+   "Wikipedia: Claude (language model)",
+   "Anthropic blog (Jun 20, 2024)",
+   "The Information (Sept 2024)"
+  ],
+  "archive_id": "promises-b0f5cd03036e8034632b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "Anthropic's primary page promises 3.5 Opus later in the year, but its current header says June 21 whereas its model-card addendum says June 20 for Sonnet. Do not silently resolve that date discrepancy. The record's architecture claim and assertion that no 3.5 Opus ever shipped need release-history evidence.",
+   "sources": [
+    {
+     "name": "Anthropic Claude 3.5 announcement",
+     "url": "https://www.anthropic.com/news/claude-3-5-sonnet"
+    },
+    {
+     "name": "Anthropic model-card addendum",
+     "url": "https://www-cdn.anthropic.com/c6a80a657af445f40e31afac050f3bf76d3b1404.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO, xAI",
+  "promise": "Grok 3, 'the most powerful AI in the world', would be released by December 2024",
+  "date_promised": "2024-07-01",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "Grok 3 missed its 2024 target and launched in February 2025.",
+  "evidence": [
+   "The launch report was timestamped February 18, 2025 UTC."
+  ],
+  "sources": [
+   "DW News (Oct 28, 2024)",
+   "Wikipedia: Grok (chatbot)",
+   "London Evening Standard (Feb 18, 2025)"
+  ],
+  "archive_id": "promises-2254ab997a6a89f2133b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "sources"
+   ],
+   "note": "The release was reported late February 17 US Pacific time, which is February 18 UTC. The July 1 original statement and its exact wording were not established; do not verify that placeholder. A late release is a missed target, not on-time partial fulfillment.",
+   "sources": [
+    {
+     "name": "TechCrunch Grok 3 launch",
+     "url": "https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/"
+    },
+    {
+     "name": "Reuters Grok 3 pre-launch remarks",
+     "url": "https://www.investing.com/news/economic-indicators/elon-musk-says-grok-3-in-final-stages-outperforming-all-chatbots-3866486"
+    }
+   ]
+  }
  },
  {
   "person": "Satya Nadella",
@@ -63,7 +935,120 @@
    "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q1",
    "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q2/press-release-webcast",
    "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q2"
-  ]
+  ],
+  "archive_id": "promises-5aff3727a3374eb08b89"
+ },
+ {
+  "person": "Mary Barra",
+  "role": "CEO, General Motors (Cruise)",
+  "promise": "GM expected Cruise to resume robotaxi operations in 2024 after the 2023 pause",
+  "date_promised": "2024-01-30",
+  "due_date": "2024-12-31",
+  "status": "pending",
+  "description": "GM announced on December 10, 2024 that it would stop funding Cruise robotaxi development and combine technical work with its personal-vehicle autonomous-driving efforts.",
+  "evidence": [
+   "GM's primary notice establishes the funding and development decision.",
+   "Outcome not established as of 2026-09-21 for the alleged relaunch commitment: the exact promised operating mode and dated statement were not retrieved."
+  ],
+  "sources": [
+   "Reuters (Jan 30, 2024)",
+   "Wikipedia: Cruise (autonomous vehicle)",
+   "The Verge (Sept 2022)"
+  ],
+  "archive_id": "promises-ecb5f6617e0028e6f158",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "sources"
+   ],
+   "note": "GM's primary December 10 notice establishes withdrawal of robotaxi-development funding, not by itself the alleged January 30 promise to resume driverless service. Testing, supervised operation and commercial driverless service are distinct. The unrelated revenue targets and categorical no-resumption assertion are removed.",
+   "sources": [
+    {
+     "name": "GM robotaxi funding decision",
+     "url": "https://news.gm.com/home.detail.html/Pages/news/us/en/2024/dec/1210-gm.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Carney",
+  "role": "UN Special Envoy for Climate Action, co-chair of GFANZ (COP26)",
+  "promise": "GFANZ firms representing $130 trillion in assets commit to net zero by 2050, with 2030 interim targets and credible transition plans within 12 months.",
+  "date_promised": "2021-11-03",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "GFANZ announced in November 2021 that more than 450 financial firms representing over $130 trillion in assets had net-zero commitments. In January 2025 GFANZ announced restructuring and a focus on mobilizing capital; this alone does not establish performance against every member's targets.",
+  "evidence": [
+   "The 2021 announcement describes represented assets and commitments.",
+   "The 2025 update reports a voluntary transition-planning framework and a restructuring."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/Glasgow_Financial_Alliance_for_Net_Zero",
+   "https://www.reuters.com/business/sustainable-business/carney-says-130-trillion-now-committed-net-zero-2021-11-03/"
+  ],
+  "archive_id": "promises-3a65b847a332fcd62fe6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "promise"
+   ],
+   "note": "November 2021 announcement supports 450+ firms and $130tn represented assets, not cash pledged for investment. 2025 primary update describes restructuring, not wholesale collapse. 2024 due date lacks derivation; bank/asset-manager alliances are conflated in original exits list. A single broken status for all firms is not established.",
+   "sources": [
+    {
+     "name": "GFANZ",
+     "url": "https://www.gfanzero.com/press/amount-of-finance-committed-to-achieving-1-5c-now-at-scale-needed-to-deliver-the-transition/"
+    },
+    {
+     "name": "GFANZ",
+     "url": "https://www.gfanzero.com/press/2025-new-year-update-from-gfanz-secretariat/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "UN Environment Assembly (plastics treaty negotiations)",
+  "role": "UNEA resolution 5/14 signatories",
+  "promise": "Conclude a global legally binding plastics treaty by the end of 2024",
+  "date_promised": "2022-03-02",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "The ambition to complete a global plastics treaty by end-2024 was not met. The resumed Geneva talks in August 2025 also adjourned without consensus; UNEP records a further session in February 2026.",
+  "evidence": [
+   "UNEP's session record links its 15 August 2025 no-consensus announcement and records INC-5.3 in February 2026."
+  ],
+  "sources": [
+   "The Peninsula (Reuters)",
+   "Springer / Journal of Environmental Studies and Sciences",
+   "EIA International"
+  ],
+  "archive_id": "promises-0757da1d5a015034e8ed",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "sources"
+   ],
+   "note": "2024 negotiating ambition was missed. Update stale description: August 2025 talks also ended without consensus; UNEP records an additional February 2026 session. Original exact resolution date/wording should be linked before full verification.",
+   "sources": [
+    {
+     "name": "UNEP",
+     "url": "https://www.unep.org/inc-plastic-pollution/session-5.2"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/615d096e211daa1593c7d0f16745f1ff"
+    }
+   ]
+  }
  },
  {
   "person": "NATO Allies (Washington Summit)",
@@ -84,7 +1069,88 @@
   "source_urls": [
    "https://www.nato.int/fr/about-us/official-texts-and-resources/official-texts/2024/07/10/washington-summit-declaration?selectedLocale=en",
    "https://www.nato.int/content/dam/nato/legacy-wcm/media_pdf/2025/4/pdf/sgar24-en.pdf"
-  ]
+  ],
+  "archive_id": "promises-942bb76e5d6d9a6195d9"
+ },
+ {
+  "person": "G20 (Common Framework for Debt Treatments)",
+  "role": "G20 member states and Paris Club",
+  "promise": "Deliver timely and orderly debt restructuring for eligible low-income countries",
+  "date_promised": "2020-11-22",
+  "due_date": "2024-12-31",
+  "status": "broken",
+  "description": "At the November 2020 G20 Riyadh Summit, G20 leaders endorsed the Common Framework for Debt Treatments beyond the DSSI to deliver timely, orderly debt restructuring for pandemic-hit low-income countries. By 2025 only four countries — Chad, Ethiopia, Ghana and Zambia — had applied, three had completed restructurings, and analyses found the framework delivered only modest relief, cutting high-risk debt by about 7%.",
+  "evidence": [
+   "Only 4 of 69 eligible countries applied under the framework by 2025",
+   "3 countries completed the process; only 2 received debt relief",
+   "ONE analysis found the framework cut high-risk debt by only ~7%"
+  ],
+  "sources": [
+   "ONE Campaign",
+   "tralac",
+   "Ecofin Agency"
+  ],
+  "archive_id": "promises-7c66f8a0cf625f943d54",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "The later G20 declaration says all four applicants had received debt treatments, contradicting a timeless account of only three completions. Neither the precise December 2024 deadline nor the 7% debt-reduction metric is established. 'Timely' is not an agreed calendar deadline; retain unresolved assessment rather than derive broken status from that invented deadline.",
+   "sources": [
+    {
+     "name": "Paris Club: Common Framework",
+     "url": "https://bercy1.applis.finances.gouv.fr/en/common-framework"
+    },
+    {
+     "name": "G20: October 2025 debt sustainability declaration",
+     "url": "https://www.g20.org.za/g20-media/ministerial-declaration-on-debt-sustainability-4th-finance-ministers-central-bank-governors-meeting/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Sam Altman",
+  "role": "CEO of OpenAI",
+  "promise": "Sora, OpenAI's text-to-video generator, will be available later this year",
+  "date_promised": "2024-02-15",
+  "due_date": "2024-12-31",
+  "status": "kept",
+  "description": "OpenAI released Sora Turbo on December 9, 2024 for ChatGPT Plus and Pro subscribers in supported markets. Initial availability excluded the UK, Switzerland and the European Economic Area.",
+  "evidence": [
+   "Sora.com launched December 9, 2024",
+   "Altman announced access for users in 'most countries' via ChatGPT accounts"
+  ],
+  "sources": [
+   "Reuters",
+   "ABP Live",
+   "AITopics"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/technology/openai-unveils-ai-video-generator-sora-2024-02-15/",
+   "https://news.abplive.com/technology/sora-launched-complete-guide-top-features-specifications-price-and-everything-you-need-to-know-1736733",
+   "https://aitopics.org/mlt?cdid=news%3AB9E07B37&dimension=pagetext"
+  ],
+  "archive_id": "promises-b3fcc62f91851d5a0657",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "promise"
+   ],
+   "note": "December 9 availability is primary-source verified, but the original February 15 Altman year-end promise was not established. Release was for Plus and Pro subscribers, with geographic exclusions, not all ChatGPT accounts.",
+   "sources": [
+    {
+     "name": "OpenAI: Sora launch",
+     "url": "https://openai.com/index/sora-is-here/"
+    }
+   ]
+  }
  },
  {
   "person": "United Nations / Lebanon",
@@ -104,6 +1170,7 @@
   "source_urls": [
    "https://lebanon.un.org/en/280095-united-nations-and-lebanese-government-launch-426-million-flash-appeal-urgent-humanitarian",
    "https://lebanon.un.org/en/316764-speech-un-resident-and-humanitarian-coordinator-launch-revised-flash-appeal-lebanon"
-  ]
+  ],
+  "archive_id": "promises-8cedb4ae1901b51d6f0b"
  }
 ]

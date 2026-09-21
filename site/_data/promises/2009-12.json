@@ -1,0 +1,80 @@
+[
+ {
+  "person": "Barack Obama",
+  "role": "President of the United States",
+  "promise": "Pass comprehensive health care reform legislation in 2009",
+  "date_promised": "2009-09-09",
+  "due_date": "2009-12-31",
+  "status": "partial",
+  "description": "In a joint session address Obama told Congress reform 'must happen this year.' The Affordable Care Act was not signed until March 23, 2010, several months after the promised timeline.",
+  "evidence": [
+   "ACA signed 2010-03-23, not in 2009",
+   "Reform did ultimately pass, fulfilling the substance of the promise"
+  ],
+  "sources": [
+   "C-SPAN",
+   "White House Archives",
+   "The New York Times"
+  ],
+  "archive_id": "promises-bd423e7fe1275af9dd1c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "March 23, 2010 signing supported. September 9 attribution of 'must happen this year' and the exact year-end deadline need the speech. If confirmed, kept (delayed) is more consistent than partial.",
+   "sources": [
+    {
+     "name": "White House Archives",
+     "url": "https://obamawhitehouse.archives.gov/node/338631"
+    },
+    {
+     "name": "GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/PPP-2009-book2/pdf/PPP-2009-book2.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Bali Action Plan / UNFCCC",
+  "role": "COP13 Bali Roadmap decision (1/CP.13)",
+  "promise": "The Bali Action Plan directed its working group to complete its work in 2009 and present an agreed outcome to COP15.",
+  "date_promised": "2007-12-15",
+  "due_date": "2009-12-31",
+  "status": "broken",
+  "description": "COP15 extended the working group's mandate instead of completing the process in 2009. The Bali decision did not expressly guarantee a legally binding treaty.",
+  "evidence": [
+   "Decision 1/CP.13 establishes the 2009 work-completion target.",
+   "Decision 1/CP.15 extends the working group's mandate; the Accord is a separate decision."
+  ],
+  "sources": [
+   "UNFCCC",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf",
+   "https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference"
+  ],
+  "archive_id": "promises-3123599700576c98d9a4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "The Bali decision calls for an agreed outcome and completion of the working group's work in 2009, not expressly a legally binding treaty. COP15's decision extends that group's mandate, while the Accord is only noted. December 18 was a scheduled endpoint; the meeting continued into December 19. The original Bali adoption UTC date still needs confirmation.",
+   "sources": [
+    {
+     "name": "UNFCCC Bali Action Plan",
+     "url": "https://unfccc.int/resource/docs/2007/cop13/eng/06a01.pdf"
+    },
+    {
+     "name": "UNFCCC COP15 decisions",
+     "url": "https://unfccc.int/resource/docs/2009/cop15/eng/11a01.pdf"
+    }
+   ]
+  }
+ }
+]

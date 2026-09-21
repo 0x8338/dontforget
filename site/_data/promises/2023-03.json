@@ -1,0 +1,41 @@
+[
+ {
+  "person": "Sundar Pichai",
+  "role": "CEO, Alphabet and Google",
+  "promise": "Make Bard more widely available to the public in the coming weeks",
+  "date_promised": "2023-02-06",
+  "due_date": "2023-03-31",
+  "status": "kept",
+  "description": "Pichai announced trusted-tester access on February 6, 2023 and wider public access in coming weeks. Google began US and UK public early access on March 21, 2023.",
+  "evidence": [
+   "Google's February 6 announcement distinguishes immediate testing from later public access.",
+   "Google announced public early access March 21."
+  ],
+  "sources": [
+   "Google",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+   "https://en.wikipedia.org/wiki/Gemini_(chatbot)"
+  ],
+  "archive_id": "promises-f9092c1c12d72827253a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Trusted testers opened February 6; 'coming weeks' referred to wider public access. March 31 is an inferred cutoff, not an announced date.",
+   "sources": [
+    {
+     "name": "Google",
+     "url": "https://blog.google/intl/en-africa/products/explore-get-answers/an-important-next-step-on-our-ai-journey/"
+    },
+    {
+     "name": "Google",
+     "url": "https://blog.google/innovation-and-ai/products/try-bard/"
+    }
+   ]
+  }
+ }
+]

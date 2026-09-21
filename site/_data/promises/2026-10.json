@@ -1,0 +1,158 @@
+[
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"As long as I am Prime Minister, a Palestinian state will not be established, neither in Gaza nor in Judea and Samaria\"",
+  "date_promised": "2026-08-09",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "At the August9,2026 cabinet meeting, Netanyahu opposed Palestinian statehood for as long as he remained prime minister. That condition supplies no fixed election-day expiry.",
+  "evidence": [
+   "Statement at the weekly government meeting, August 9, 2026",
+   "Israeli general election scheduled no later than October 27, 2026"
+  ],
+  "sources": [
+   "TASS",
+   "Voice of Emirates"
+  ],
+  "source_urls": [
+   "https://tass.com/world/2170697",
+   "https://www.voiceofemirates.com/en/politics/reports-and-investigations/2026/08/09/netanyahu-israel-rejects-the-15-point-document-and-the-army-will-not-withdraw-from-gaza-until-hamas-is-completely-disarmed/"
+  ],
+  "archive_id": "promises-35373f20801032fce4e3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Statement is supported; election day is not an end-of-tenure deadline, because government formation and caretaker service may continue. Continued nonestablishment is an ongoing condition, not a completed outcome.",
+   "sources": [
+    {
+     "name": "Sky News: August9 cabinet comments",
+     "url": "https://news.sky.com/story/israeli-prime-minister-benjamin-netanyahu-rejects-trumps-board-of-peace-plan-for-gaza-13571334"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"With an agreement or without an agreement, as long as I am prime minister, Iran will not have nuclear weapons\"",
+  "date_promised": "2026-08-09",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "Netanyahu reiterated on August9,2026 that Iran would not have nuclear weapons while he was prime minister, with or without an agreement. A comparable public statement was reported July9.",
+  "evidence": [
+   "The attributed statements are documented; no fixed October27 expiry follows from them."
+  ],
+  "sources": [
+   "AFP",
+   "LBC Group",
+   "TASS"
+  ],
+  "source_urls": [
+   "https://www.bssnews.net/international/413157",
+   "https://www.lbcgroup.tv/news/middleeastnews/951554/netanyahu-vows-iran-will-not-have-nuclear-weapons-with-or-without-deal/en",
+   "https://tass.com/world/2170691"
+  ],
+  "archive_id": "promises-54f6bc75a0565b033b01",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Promise is tenure-conditioned, not limited to the election date. Retrieved earlier reiteration is July9, not the record's June assertion. No exhaustive nuclear-status conclusion inferred.",
+   "sources": [
+    {
+     "name": "Iran International: August9 statement",
+     "url": "https://www.iranintl.com/en/202608098140"
+    },
+    {
+     "name": "Jerusalem Post: July9 reiteration",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-902052"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "The IDF will not withdraw from Gaza until Hamas is completely disarmed",
+  "date_promised": "2026-08-05",
+  "due_date": "2026-10-27",
+  "status": "pending",
+  "description": "Netanyahu conditioned withdrawal from Israel's current Gaza lines on complete Hamas disarmament. Reports appeared August4-5,2026; the condition is not a calendar deadline.",
+  "evidence": [
+   "Statement that the IDF will not withdraw until Hamas disarms, August 5, 2026",
+   "Reaffirmed at the weekly government meeting on August 9, 2026"
+  ],
+  "sources": [
+   "ABC News (Australia)",
+   "TASS"
+  ],
+  "source_urls": [
+   "https://newsapp.abc.net.au/news/2026-08-05/netanyahu-says-no-idf-withdrawal-from-gaza-until-hamas-disarms/106997846",
+   "https://tass.com/world/2170691"
+  ],
+  "archive_id": "promises-cbe2f5e2da8c5435cf13",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date"
+   ],
+   "note": "Earlier August4 report suggests August5 may be publication rather than speech date. The condition is Hamas disarmament, not an election. Precise initial utterance UTC date and expiry remain unresolved.",
+   "sources": [
+    {
+     "name": "ABC Australia: withdrawal condition",
+     "url": "https://www.abc.net.au/news/2026-08-05/netanyahu-says-no-idf-withdrawal-from-gaza-until-hamas-disarms/106997846"
+    },
+    {
+     "name": "Euronews: August4 report",
+     "url": "https://www.euronews.com/2026/08/04/netanyahu-rejects-gaza-withdrawal-until-hamas-disarms"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "\"Israel will not withdraw under any circumstances from the Philadelphi Corridor\"",
+  "date_promised": "2026-07-14",
+  "due_date": "2026-10-27",
+  "status": "kept",
+  "description": "Netanyahu repeatedly pledged that Israel would not withdraw from the Philadelphi Corridor along the Egypt-Gaza border, saying it must remain secure so it can never again serve as a lifeline for Hamas. As of August 2026, Israeli forces retained control of the corridor. The due date reflects the general election scheduled no later than October 27, 2026.",
+  "evidence": [
+   "Repeated statements through 2024-2026 that Israel will not leave the corridor",
+   "Israeli forces retained control of the Philadelphi Corridor as of August 2026"
+  ],
+  "sources": [
+   "Arab News Japan",
+   "Ahram Online"
+  ],
+  "source_urls": [
+   "https://www.arabnews.jp/en/middle-east/article_129769/",
+   "https://english.ahram.org.eg/NewsContentMulti/531175/Multimedia.aspx"
+  ],
+  "archive_id": "promises-14521f97e6f5d3319bfd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Search retrieved2024-25 statements, not the claimed July14,2026 promise. The continuing stance has no sourced October27 expiry, and an August presence snapshot cannot verify perpetual nonwithdrawal. Both temporal baseline and kept assessment require correction before publication.",
+   "sources": [
+    {
+     "name": "Reuters: earlier corridor statement",
+     "url": "https://www.investing.com/news/world-news/israeli-pm-says-troops-will-not-leave-philadelphi-corridor-in-gaza-3581912"
+    },
+    {
+     "name": "ABC News: later nonwithdrawal report",
+     "url": "https://abcnews.com/International/israel-withdraw-philadelphi-corridor-stipulated-ceasefire/story?id=119249232"
+    }
+   ]
+  }
+ }
+]

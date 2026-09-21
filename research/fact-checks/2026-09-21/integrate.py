@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Integrate this audit, preserving withheld originals. Dry-run by default."""
+"""Integrate evidence-backed corrections without dropping collected records."""
 
 import argparse
 from collections import Counter, defaultdict
@@ -29,6 +29,13 @@ def digest(data):
     return hashlib.sha256(data).hexdigest()
 
 
+def archive_id(dataset, record):
+    if record.get("archive_id"):
+        return record["archive_id"]
+    key = json.dumps(identity(dataset, record), ensure_ascii=False).encode()
+    return f"{dataset}-{digest(key)[:20]}"
+
+
 def reconcile(dataset, originals, entries):
     by_key = {identity(dataset, record): record for record in originals}
     if len(by_key) != len(originals):
@@ -37,7 +44,7 @@ def reconcile(dataset, originals, entries):
     if set(observed) != set(by_key) or any(count != 1 for count in observed.values()):
         raise ValueError(f"{dataset}: audit coverage must match every original exactly once "
                          f"({len(observed)} of {len(originals)} identities present)")
-    published, withheld = [], []
+    published, review_backlog = [], []
     stats = Counter()
     for entry in entries:
         original = by_key[identity(dataset, entry["key"])]
@@ -47,13 +54,27 @@ def reconcile(dataset, originals, entries):
         result = entry["result"]
         if result not in {"verified", "correction", "unresolved"}:
             raise ValueError(f"{dataset}: invalid audit result {result}")
-        if ready and result == "unresolved":
-            raise ValueError(f"{dataset}: unresolved record marked publication-ready")
+        if ready and (result == "unresolved" or entry.get("unresolved_fields")):
+            raise ValueError(f"{dataset}: unresolved record marked fully checked")
         changes = entry["changes"]
         if set(changes) - FIELDS[dataset]:
             raise ValueError(f"{dataset}: unknown correction fields {set(changes) - FIELDS[dataset]}")
+        # An incomplete check does not invalidate the collection. Only apply
+        # supported fields; retain the rest with the precise research gap.
+        if not ready:
+            blocked = set(entry["unresolved_fields"])
+            if "identity" in blocked:
+                blocked.update(changes)
+            changes = {field: value for field, value in changes.items()
+                       if field not in blocked | {"sources", "source_urls"}}
         corrected = original | changes
-        if not ({"sources", "source_urls"} & changes.keys()) and entry["sources"]:
+        corrected["archive_id"] = archive_id(dataset, original)
+        if dataset == "events" and ready and changes.get("lives_lost") == 0:
+            corrected["correction"] = {
+                "as_of": "2026-09-21", "note": entry["note"],
+                "original_values": {field: original[field] for field in changes},
+            }
+        if ready and not ({"sources", "source_urls"} & changes.keys()) and entry["sources"]:
             corrected["sources"] = [source["name"] for source in entry["sources"]]
             corrected["source_urls"] = [source["url"] for source in entry["sources"]]
         stats[result] += 1
@@ -62,16 +83,36 @@ def reconcile(dataset, originals, entries):
             minimum = 2 if dataset == "events" else 1
             if len(urls) != len(corrected["sources"]) or len(urls) < minimum or not all(urls):
                 raise ValueError(f"{dataset}: publication-ready record lacks evidence links: {entry['key']}")
-            published.append(corrected)
-            stats["published_changed" if corrected != original else "published_unchanged"] += 1
-            if any(corrected.get(field) != original.get(field)
-                   for field in FIELDS[dataset] - {"sources", "source_urls"}):
-                stats["published_fact_corrections"] += 1
         else:
-            withheld.append({"original": original, "proposed": corrected,
-                             "note": entry["note"], "sources": entry["sources"],
-                             "unresolved_fields": entry.get("unresolved_fields", [])})
-    return published, withheld, dict(stats)
+            fields = list(entry["unresolved_fields"])
+            urls = corrected.get("source_urls", [])
+            if len(urls) != len(corrected["sources"]) or not all(urls):
+                if "sources" not in fields:
+                    fields.append("sources")
+            corrected["review"] = {
+                "as_of": "2026-09-21", "fields": fields,
+                "note": entry["note"], "sources": entry["sources"],
+            }
+            if dataset == "promises":
+                if not corrected.get("evidence"):
+                    corrected["evidence"] = [
+                        "Retained from the existing collection; outcome evidence remains to be documented."
+                    ]
+                    if "evidence" not in fields:
+                        fields.append("evidence")
+                if corrected["date_promised"] > corrected["due_date"]:
+                    if "date_promised" not in fields:
+                        raise ValueError("Reversed promise dates without an explicit research gap")
+                    corrected["review"]["original_values"] = {"date_promised": corrected["date_promised"]}
+                    corrected["date_promised"] = None
+            review_backlog.append({"original": original, "retained": corrected,
+                                   "applied_fields": sorted(changes)})
+        published.append(corrected)
+        stats["published_changed" if corrected != original else "published_unchanged"] += 1
+        if any(corrected.get(field) != original.get(field)
+               for field in FIELDS[dataset] - {"sources", "source_urls"}):
+            stats["published_content_changes"] += 1
+    return published, review_backlog, dict(stats)
 
 
 def main():
@@ -91,9 +132,11 @@ def main():
                  "promises": baseline["promises"]}
     update = json.loads((HERE / "update.json").read_text())
     output, counts = {}, {}
-    quarantine = {"as_of": update["as_of"],
-                  "policy": "Withheld from public datasets because material claims remain unresolved. "
-                            "Originals and proposals below are not verified facts; withholding does not establish falsity."}
+    backlog = {"as_of": update["as_of"],
+               "policy": "All collected records are retained. Unresolved details are research gaps, "
+                         "not grounds for exclusion or a declaration that the record is false."}
+    retention_path = ROOT / "site/_data/retention.json"
+    retention = json.loads(retention_path.read_text()) if retention_path.exists() else {}
     for dataset in originals:
         entries = []
         for path in sorted(HERE.glob(f"{dataset}-*.json")):
@@ -102,10 +145,14 @@ def main():
                     ledger["as_of"] != update["as_of"]):
                 raise ValueError(f"Unexpected ledger metadata in {path.name}")
             entries.extend(ledger["records"])
-        records, withheld, stats = reconcile(dataset, originals[dataset], entries)
+        records, needs_review, stats = reconcile(dataset, originals[dataset], entries)
         additions = ([item["record"] for item in update[dataset]] if dataset == "events"
                      else update[dataset])
-        records.extend(additions)
+        records.extend(record | {"archive_id": archive_id(dataset, record)} for record in additions)
+        ids = {record["archive_id"] for record in records}
+        if not set(retention.get(dataset, [])).issubset(ids):
+            raise ValueError(f"{dataset}: refusing to remove protected collected records")
+        retention[dataset] = sorted(ids)
         identities = [identity(dataset, row) for row in records]
         if len(identities) != len(set(identities)):
             raise ValueError(f"{dataset}: duplicate corrected or new identities")
@@ -116,9 +163,9 @@ def main():
             output[dataset] = dict(sorted(buckets.items()))
         else:
             output[dataset] = records
-        quarantine[dataset] = withheld
+        backlog[dataset] = needs_review
         counts[dataset] = {"original": len(originals[dataset]), "audited": len(entries),
-                           "audit_results": stats, "withheld": len(withheld),
+                           "audit_results": stats, "withheld": 0, "needs_review": len(needs_review),
                            "added": len(additions), "published": len(records)}
     now = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
     checkpoint = baseline["checkpoint"]
@@ -127,8 +174,9 @@ def main():
     checkpoint["last_updated"] = now
     checkpoint["promises_expansion"]["last_focus"] = update["focus"]
     checkpoint["fact_check"] = {"as_of": update["as_of"], "report": "research/fact-checks/2026-09-21/README.md",
-                                "withheld_events": len(quarantine["events"]),
-                                "withheld_promises": len(quarantine["promises"])}
+                                "withheld_events": 0, "withheld_promises": 0,
+                                "events_needing_review": len(backlog["events"]),
+                                "promises_needing_review": len(backlog["promises"])}
     output["checkpoint"] = checkpoint
     encoded = {name: (json.dumps(value, ensure_ascii=False, indent=1) + "\n").encode()
                for name, value in output.items()}
@@ -137,7 +185,8 @@ def main():
     if args.apply:
         for name, data in encoded.items():
             (ROOT / FILES[name]).write_bytes(data)
-        (HERE / "quarantine.json").write_text(json.dumps(quarantine, ensure_ascii=False, indent=2) + "\n")
+        retention_path.write_text(json.dumps(retention, indent=2) + "\n")
+        (HERE / "review-backlog.json").write_text(json.dumps(backlog, ensure_ascii=False, indent=2) + "\n")
         (HERE / "summary.json").write_text(json.dumps(summary, indent=2) + "\n")
     print(json.dumps(summary, indent=2))
 

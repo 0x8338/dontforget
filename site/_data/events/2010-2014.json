@@ -1,5 +1,68 @@
 [
  {
+  "date": "2012-01-01",
+  "title": "Afghanistan conflict — 2012",
+  "category": "war",
+  "location": "Afghanistan (nationwide)",
+  "lives_lost": 2769,
+  "description": "UNAMA documented 2,769 civilian deaths and 4,821 injuries in Afghanistan during 2012, making it the first year of decline since UN casualty tracking began, though the toll remained among the highest of the war; several thousand Afghan security forces, international troops (about 400 coalition deaths) and insurgents were also killed. 2012 saw a record spike in insider 'green-on-blue' attacks on coalition personnel.",
+  "sources": [
+   "UNAMA Annual Report 2012",
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-25a75ea8d5d68030ecc5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "UNAMA retrospective confirms annual 2,769 civilian deaths/4,821 injuries. January 1 is a calendar-period anchor, not a dated incident. Coalition/insurgent fatalities, first-decline and insider-attack record claims need separate evidence; no full-record verification. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "UNAMA",
+     "url": "https://unama.unmissions.org/sites/default/files/23_february_2021_-_surge_in_civilian_casualties_following_afghanistan_peace_negotiations_start_-_un_report_english.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-01-05",
+  "title": "Iraq civilian deaths in 2012 (annual total)",
+  "category": "war",
+  "location": "Iraq (nationwide)",
+  "lives_lost": 4622,
+  "description": "Iraq Body Count recorded 4,622 civilian deaths from violence across Iraq during calendar year 2012, up from 4,162 in 2011. This is a full-year aggregate, not a toll for a single incident.",
+  "sources": [
+   "Iraq Body Count",
+   "Reuters",
+   "BBC News",
+   "United Nations"
+  ],
+  "archive_id": "events-a4c8caa95591b2fb9826",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "IBC supports the full-year 4,622 total, not the original rounded 4,600. Neither January 5 nor an invented December 31 substitute is a verified incident date for this annual aggregate. Retain the original identity in quarantine and withhold from the dated public event dataset pending an appropriate period representation. The supported title/toll/prose corrections do not solve the date blocker.",
+   "sources": [
+    {
+     "name": "Iraq Body Count",
+     "url": "https://www.iraqbodycount.org/analysis/numbers/2012/"
+    },
+    {
+     "name": "Iraq Body Count",
+     "url": "https://www.iraqbodycount.org/database/"
+    }
+   ]
+  }
+ },
+ {
   "date": "2011-01-08",
   "title": "Tucson mass shooting targeting Rep. Gabrielle Giffords",
   "category": "gun-violence",
@@ -15,7 +78,8 @@
    "https://www.justice.gov/archives/opa/pr/jared-lee-loughner-pleads-guilty-federal-charges-tucson-shooting",
    "https://www.justice.gov/archives/opa/pr/federal-complaint-filed-against-jared-lee-loughner",
    "https://archives.fbi.gov/archives/phoenix/press-releases/2012/jared-lee-loughner-sentenced-in-arizona-on-federal-charges-in-tucson-shooting"
-  ]
+  ],
+  "archive_id": "events-c45459128bcd5ab65406"
  },
  {
   "date": "2010-01-12",
@@ -33,7 +97,8 @@
    "https://www.paho.org/en/response-haitis-earthquake-2010",
    "https://minujusth.unmissions.org/en/node/24116",
    "https://press.un.org/en/2010/100211_haiti.doc.htm"
-  ]
+  ],
+  "archive_id": "events-666ff5aff15447a77eed"
  },
  {
   "date": "2012-01-20",
@@ -51,7 +116,8 @@
    "https://www.hrw.org/report/2012/10/11/spiraling-violence/boko-haram-attacks-and-security-force-abuses-nigeria",
    "https://news.sky.com/story/nigeria-more-bombs-found-as-death-toll-rises-10481713",
    "https://www.journaldemontreal.com/2012/01/23/attaques-a-kano-185-morts-cinq-kamikazes-parmi-les-assaillants"
-  ]
+  ],
+  "archive_id": "events-7ba62d07ad7b400b9ae1"
  },
  {
   "date": "2011-01-24",
@@ -67,7 +133,8 @@
   "source_urls": [
    "https://www.themoscowtimes.com/2013/11/11/domodedovo-terrorist-attack-plotters-sentenced-a29416/pdf",
    "https://www.rferl.org/amp/caucasus_insurgency_head_backs_halt_of_terror_attacks_on_russian_civilians/24472256.html"
-  ]
+  ],
+  "archive_id": "events-1c59ff8a66cfbc699229"
  },
  {
   "date": "2011-01-25",
@@ -85,7 +152,137 @@
    "https://www.fidh.org/en/region/north-africa-middle-east/egypt/The-Price-of-Hope-Human-Rights",
    "https://www.almasryalyoum.com/news/details/126472",
    "https://www.hrw.org/news/2013/01/24/egypt-publish-fact-finding-committee-report"
-  ]
+  ],
+  "archive_id": "events-93f08602544fd0db4e4e"
+ },
+ {
+  "date": "2013-01-27",
+  "title": "Kiss nightclub fire",
+  "category": "industrial",
+  "location": "Santa Maria, Brazil",
+  "lives_lost": 242,
+  "description": "A fire at the Kiss nightclub in Santa Maria, Brazil, began early on January 27, 2013, after a band's pyrotechnics ignited ceiling foam. It killed 242 people and injured at least 636; toxic smoke and evacuation failures contributed to the disaster.",
+  "sources": [
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-347d0e6014f9688ed000",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "The commission records 242 deaths and at least 636 injured, with a 02:30 local start on January 27 (same UTC date). Replace unsupported stampede causation and historical ranking with documented facts. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "IACHR, admissibility report",
+     "url": "https://oas.org/en/iachr/decisions/2024/BRAD_170-17_EN.PDF"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-02-03",
+  "title": "Somalia famine — 2011-2012 crisis",
+  "category": "food-crisis",
+  "location": "Southern Somalia",
+  "lives_lost": 260000,
+  "description": "A UN-declared famine that began in July 2011 in southern Somalia was declared over on 3 February 2012. A joint FSNAU/FEWS NET mortality study attributed about 258,000 excess deaths to the famine between October 2010 and April 2012, roughly half of them children under five, driven by drought, conflict, and obstruction of humanitarian access.",
+  "sources": [
+   "FSNAU/FEWS NET Mortality Study 2013",
+   "UN OCHA",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-d4632c82151d5f1074be",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "title",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "February 3 is the famine-classification ending announcement, not a separate fatal event. The same October 2010-April 2012 estimated 258,000 excess deaths are already represented by the July 20, 2011 entry. Recommend merging/removing this duplicate from mortality totals; no field-only replacement can prevent double counting.",
+   "sources": [
+    {
+     "name": "FEWS NET",
+     "url": "https://fews.net/east-africa/somalia/alert/february-2012"
+    },
+    {
+     "name": "FAO/FSNAU",
+     "url": "https://fsnau.org/in-focus/press-release-study-suggests-258000-somalis-died-due-severe-food-insecurity-and-famine-half"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-02-15",
+  "title": "Libyan civil war and NATO intervention",
+  "category": "war",
+  "location": "Libya",
+  "lives_lost": 25000,
+  "description": "Anti-government protests erupted in Benghazi on February 15, 2011, and escalated into a nationwide armed rebellion against the rule of Muammar Gaddafi. A UN-mandated NATO bombing campaign began in March, and fighting continued until the fall of Tripoli in August and Gaddafi's capture and killing on October 20, 2011. Estimates of the conflict's death toll range from about 20,000 to 30,000; a 2013 statistical study published by The New York Times estimated approximately 25,000 killed during the eight-month conflict, including thousands of civilians.",
+  "sources": [
+   "The New York Times",
+   "United Nations (OHCHR)",
+   "Human Rights Watch"
+  ],
+  "archive_id": "events-2196cfdead2520803676",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "25,000 appears as a 2011 officials' estimate, not a located 2013 NYT statistical study. Later government research gave lower, incomplete faction-specific totals. Claimed study attribution is unestablished; no defensible replacement all-conflict integer obtained. NATO takeover and initial coalition intervention should also be distinguished.",
+   "sources": [
+    {
+     "name": "Center for Civilians in Conflict",
+     "url": "https://civiliansinconflict.org/wp-content/uploads/2017/09/Libya_Public_Brief_Jan_2013.pdf"
+    },
+    {
+     "name": "Europa Press",
+     "url": "https://www.europapress.es/internacional/noticia-libia-cifra-4700-muertos-revolucionarios-guerra-civil-20130108082210.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-02-16",
+  "title": "Quetta Hazara market bombing",
+  "category": "terrorism",
+  "location": "Quetta, Pakistan",
+  "lives_lost": 84,
+  "description": "A remote-controlled bomb struck a market in Hazara Town, Quetta, in February 2013, targeting the Shia Hazara community. Lashkar-e-Jhangvi claimed responsibility. Reports placed the death toll at at least 84, with later and contemporary accounts differing on the total.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-43b57a0674f242af7d58",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "date",
+    "sources"
+   ],
+   "note": "Remote detonation contradicts the suicide-bomber claim. Contemporary reporting dates the attack February 16; HRW's retrospective says February 17 and at least 84 deaths, while SRW reports 89. Final toll needs reconciliation; do not silently replace it with an unattributed exact number.",
+   "sources": [
+    {
+     "name": "Human Rights Watch, Hazara killings report",
+     "url": "https://www.hrw.org/report/2014/06/29/we-are-walking-dead/killings-shia-hazara-balochistan-pakistan"
+    },
+    {
+     "name": "Shia Rights Watch, February 17 report",
+     "url": "https://shiarightswatch.org/89-shia-muslim-killed-in-quetta-pakistan/"
+    },
+    {
+     "name": "Express Tribune, contemporary report",
+     "url": "https://tribune.com.pk/story/508527/horrific-attack-terror-revisits-quetta"
+    }
+   ]
+  }
  },
  {
   "date": "2011-02-21",
@@ -101,7 +298,68 @@
   "source_urls": [
    "https://quakes.bgs.ac.uk/research/events/newZealandEEFIT.html",
    "https://www.police.govt.nz/news/major-events/previous-major-events/christchurch-earthquake"
-  ]
+  ],
+  "archive_id": "events-9a70a4beb892652b0eab"
+ },
+ {
+  "date": "2010-02-27",
+  "title": "Chile earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Maule Region, Concepción, Chile",
+  "lives_lost": 525,
+  "description": "A magnitude 8.8 earthquake, one of the strongest ever recorded, struck off the coast of central Chile on February 27, 2010, generating a tsunami with waves up to 24 meters that destroyed coastal towns such as Dichato and Constitución. Authorities confirmed 525 deaths and 25 missing, about 800,000 people displaced, and roughly 370,000 homes damaged. The quake triggered over 1,000 landslides and a nationwide blackout affecting 93 percent of the population; the death toll was comparatively low due to Chile's stringent building codes adopted after the 1960 Valdivia earthquake.",
+  "sources": [
+   "United States Geological Survey (USGS)",
+   "OCHA ReliefWeb",
+   "Reuters"
+  ],
+  "archive_id": "events-675fda8008c6b3d4c1f7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Magnitude/date corroborated. USGS response report gives 521 dead/56 missing, while later AP uses 526. Existing 525/25 may be a different official snapshot; needs dated Chilean authority reconciliation. 24 m waves, landslide count, displacement and building-code causal comparison were not all established.",
+   "sources": [
+    {
+     "name": "USGS",
+     "url": "https://www.usgs.gov/publications/report-2010-chilean-earthquake-and-tsunami-response"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/9b42bb18d3652ee49a86464520371e4f"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-03-01",
+  "title": "Kunming Railway Station Attack",
+  "category": "terrorism",
+  "location": "Kunming, China",
+  "lives_lost": 31,
+  "description": "Five knife-wielding attackers assaulted passengers at Kunming Railway Station on March 1, 2014, killing 31 people and injuring 141, according to the court account. Four attackers were killed by police. Three other members of the group had been arrested before the assault.",
+  "sources": [
+   "BBC News",
+   "Xinhua",
+   "Reuters"
+  ],
+  "archive_id": "events-ca5a43b3d9ab0d31dfa0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Court account distinguishes eight members of the group from five people who actually attacked the station; three had been arrested earlier. 21:12 local March 1 is 13:12 UTC. Keep 31 victim deaths excluding four attackers. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "People's Daily, court proceedings",
+     "url": "https://politics.people.com.cn/n/2014/0912/c70731-25650563.html"
+    }
+   ]
+  }
  },
  {
   "date": "2014-03-07",
@@ -119,7 +377,75 @@
    "https://www.atsb.gov.au/investigations/ae-2014-054",
    "https://www.atsb.gov.au/sites/default/files/media/5668327/ae2014054_mh370__search_areas_30jul2015.pdf",
    "https://www.atsb.gov.au/mh370-search-overview"
-  ]
+  ],
+  "archive_id": "events-7164076330369f1ff040"
+ },
+ {
+  "date": "2011-03-11",
+  "title": "Tohoku earthquake, tsunami and Fukushima disaster",
+  "category": "natural-disaster",
+  "location": "Tohoku, Japan",
+  "lives_lost": 19759,
+  "description": "A magnitude 9.0 earthquake struck off the Pacific coast of Japan on March 11, 2011, generating a massive tsunami that inundated the northeastern coastline. Waves up to 40 metres high destroyed entire towns in Iwate, Miyagi and Fukushima prefectures, and the tsunami caused a nuclear meltdown at the Fukushima Daiichi power plant. Japan's National Police Agency final figures record 19,759 deaths and 2,553 missing, with most victims drowned by the tsunami; the majority of the deceased were over 60 years old.",
+  "sources": [
+   "Japan National Police Agency (via Reuters)",
+   "BBC News",
+   "PreventionWeb"
+  ],
+  "archive_id": "events-9d007e05487028043c5f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NPA maintains dated updates, not a timeless final figure. The cited 19,759/2,553 pair needs reconciliation against a specific later table and separation of direct from disaster-related deaths; older police report is only an early snapshot. Wave maximum, age distribution and nuclear consequences also require separate sources.",
+   "sources": [
+    {
+     "name": "Japan National Police Agency",
+     "url": "https://www.npa.go.jp/news/other/earthquake2011/index.html"
+    },
+    {
+     "name": "Japan National Police Agency",
+     "url": "https://www.npa.go.jp/hakusyo/h23/english/White_Paper_2011.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-03-15",
+  "title": "Syrian uprising and government crackdown",
+  "category": "war",
+  "location": "Syria",
+  "lives_lost": 5000,
+  "description": "Pro-democracy protests inspired by the Arab Spring began in the city of Daraa in mid-March 2011 and spread across Syria, where they were met with a violent government crackdown involving live fire, tanks, mass arrests and torture. The unrest progressively militarized into an armed insurgency as army defectors formed the Free Syrian Army in July. By December 13, 2011, UN High Commissioner for Human Rights Navi Pillay reported that more than 5,000 people, including over 300 children, had been killed in the uprising.",
+  "sources": [
+   "United Nations (OHCHR)",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-1916bd7fb91800277b6e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "UN figures are a dated cumulative estimate, not March 15 deaths. Pillay briefing was Monday December 12, rather than the December 13 publication date. Exact onset in Daraa and July FSA chronology need primary corroboration.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/features/2011/12/14/un-official-syria-death-toll-data-reliable"
+    },
+    {
+     "name": "CRIN",
+     "url": "https://archive.crin.org/en/library/news-archive/un-security-council-urged-refer-syria-icc.html?ID=26911&flag=news"
+    }
+   ]
+  }
  },
  {
   "date": "2014-03-22",
@@ -135,7 +461,8 @@
   "source_urls": [
    "https://www.usgs.gov/news/featured-story/ten-years-after-oso-landslide",
    "https://apnews.com/article/2e9453ecc4658d1d8fb39ef50085e080"
-  ]
+  ],
+  "archive_id": "events-abb7a45cd2f5c48353f8"
  },
  {
   "date": "2010-03-26",
@@ -153,7 +480,8 @@
    "https://www.cheonanham.org/eng/theme/ccmf_en/html/outturn.php",
    "https://en.yna.co.kr/view/AEN20100913001400315",
    "https://press.un.org/en/2010/100615_cheonan.doc.htm"
-  ]
+  ],
+  "archive_id": "events-1ad25c693417e6237d3a"
  },
  {
   "date": "2010-03-29",
@@ -169,7 +497,8 @@
   "source_urls": [
    "https://www.rferl.org/a/Moscow_Bombings_Death_Toll_Rises_To_40/2000950.html",
    "https://www.rferl.org/a/Umarov_On_Video_Says_He_Ordered_Moscow_Attacks/1999257.html"
-  ]
+  ],
+  "archive_id": "events-3558e6df3906b72707d5"
  },
  {
   "date": "2013-04-04",
@@ -185,7 +514,8 @@
   "source_urls": [
    "https://indianexpress.com/article/india/india-others/13-killed-in-building-collapse/",
    "https://indianexpress.com/article/cities/mumbai/building-collapse-toll-rises-to-74/"
-  ]
+  ],
+  "archive_id": "events-5db5cf1dec40d678dbfe"
  },
  {
   "date": "2010-04-05",
@@ -201,7 +531,8 @@
   "source_urls": [
    "https://www.dol.gov/newsroom/releases/msha/msha20111206",
    "https://fmshrc.gov/sites/default/files/decisions/alj/Massey.htm"
-  ]
+  ],
+  "archive_id": "events-8ac9046e5c4f525a706b"
  },
  {
   "date": "2010-04-13",
@@ -217,7 +548,40 @@
   "source_urls": [
    "https://earthquake.usgs.gov/learn/today/index.php?day=13&month=4",
    "https://www.chinadaily.com.cn/china/2010-06/01/content_9919600.htm"
-  ]
+  ],
+  "archive_id": "events-cd0dfc327d3bfd06c1b2"
+ },
+ {
+  "date": "2014-04-14",
+  "title": "Nyanya Bus Station Bombing",
+  "category": "terrorism",
+  "location": "Abuja, Nigeria",
+  "lives_lost": 75,
+  "description": "A bomb exploded at Nyanya bus station outside Abuja during the morning rush on April 14, 2014. Later reporting put the toll at at least 75 dead and 141 injured. Boko Haram claimed responsibility.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Reuters"
+  ],
+  "archive_id": "events-0c7b3238c15cd3684a94",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Initial official 71 became at least 75 in later reporting; neither should be called an exact final tally. Morning Nigerian event retains April 14 UTC. Concise replacement removes unrelated kidnapping detail. The later reported minimum does not settle the final tally; the correction is partial and not publication-ready.",
+   "sources": [
+    {
+     "name": "TIME/AP, May 1 retrospective",
+     "url": "https://time.com/84982/nigeria-blast-kills-at-least-9-in-abuja/"
+    },
+    {
+     "name": "Channels Television, initial official count",
+     "url": "https://www.channelstv.com/2014/04/14/police-confirm-71-people-dead-124-injured/"
+    }
+   ]
+  }
  },
  {
   "date": "2013-04-15",
@@ -233,7 +597,8 @@
   "source_urls": [
    "https://www.fbi.gov/history/cases-and-criminals/boston-marathon-bombing",
    "https://time.com/64344/boston-marathon-suspicious-bags-not-dangerous/"
-  ]
+  ],
+  "archive_id": "events-8cf8b92eea095be7637a"
  },
  {
   "date": "2014-04-15",
@@ -249,7 +614,8 @@
   "source_urls": [
    "https://www.marin.nl/api/marin/downloads/get-download/4259/0/2274/block_files_dk2nekcu4nhqa/FJepCUSxem4Qp8f3RLSJuTCgvsY%3D/Sewol%20capsizing%20and%20flooding%202020.pdf",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7169149/"
-  ]
+  ],
+  "archive_id": "events-cda05c901b2d80b2e5f2"
  },
  {
   "date": "2011-04-17",
@@ -265,7 +631,8 @@
   "source_urls": [
    "https://www.hrw.org/news/2011/05/16/nigeria-post-election-violence-killed-800",
    "https://2009-2017.state.gov/documents/organization/204365.pdf"
-  ]
+  ],
+  "archive_id": "events-2339b4917945d32ebcab"
  },
  {
   "date": "2013-04-20",
@@ -283,7 +650,8 @@
    "https://www.adrc.asia/view_disaster_en.php?KEY=1749&lang=",
    "https://www.xinhuanet.com/english/special/earthquake/index.htm",
    "https://www.gov.cn/xinwen/2016-04/03/content_5060974.htm"
-  ]
+  ],
+  "archive_id": "events-dd42af3cb9e32f0e3435"
  },
  {
   "date": "2010-04-21",
@@ -299,7 +667,8 @@
   "source_urls": [
    "https://incidentnews.noaa.gov/incident/8220",
    "https://www.ncei.noaa.gov/products/deepwater-horizon"
-  ]
+  ],
+  "archive_id": "events-fa1809f8558f99a47764"
  },
  {
   "date": "2013-04-24",
@@ -317,7 +686,38 @@
    "https://vzf.ilo.org/Photo%20Exhibition/a-turning-point-for-occupational-safety-and-health-in-supply-chains/",
    "https://www.ilo.org/resource/rana-plaza-never-again-0",
    "https://www.ilo.org/meetings-and-events/one-year-after-rana-plaza-where-are-we-and-where-do-we-want-go-discussion"
-  ]
+  ],
+  "archive_id": "events-307fdb5d7ffb47b87b77"
+ },
+ {
+  "date": "2011-04-27",
+  "title": "2011 Super Outbreak tornadoes",
+  "category": "natural-disaster",
+  "location": "Southeastern United States",
+  "lives_lost": 324,
+  "description": "Between April 25 and 28, 2011, a record outbreak of 360 tornadoes struck 21 US states from Texas to New York, with 216 tornadoes touching down on April 27 alone. The outbreak killed 324 people across six states, including 238 in Alabama, and injured more than 3,100; four tornadoes were rated EF5. The deadliest tornado, the Hackleburg-Phil Campbell EF5 in Alabama and Tennessee, killed 72 people. It was the deadliest US tornado outbreak since 1936, with damages exceeding US$10 billion.",
+  "sources": [
+   "NOAA/NWS",
+   "The Weather Channel",
+   "Reuters"
+  ],
+  "archive_id": "events-52ed2594e450c66b3ec6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NOAA page gives 362 tornadoes and estimated 321 deaths, versus 360/324 here; its EF5 count also differs from other accepted summaries. Must reconcile tornado-only versus all-storm deaths and revised ratings. April 27 is peak day while record describes April 25-28. Do not replace all numbers from one inconsistent retrospective. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "NOAA NCEI",
+     "url": "https://www.ncei.noaa.gov/news/2011-tornado-super-outbreak"
+    }
+   ]
+  }
  },
  {
   "date": "2014-05-13",
@@ -333,7 +733,44 @@
   "source_urls": [
    "https://research.hacettepe.edu.tr/en/publications/analysis-of-a-possible-root-cause-and-mechanism-for-soma-mine-dis-2/",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4441898/"
-  ]
+  ],
+  "archive_id": "events-9b1b6e55a2a4b8e222e8"
+ },
+ {
+  "date": "2014-05-14",
+  "title": "Balkan Floods",
+  "category": "natural-disaster",
+  "location": "Serbia, Bosnia and Herzegovina, and Croatia",
+  "lives_lost": 80,
+  "description": "Exceptional rainfall in mid-May 2014 caused devastating floods across the Sava River basin, including Serbia, Bosnia and Herzegovina, and Croatia. ICPDR reported at least 80 deaths after a week of flooding, with extensive damage to homes and infrastructure.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ],
+  "archive_id": "events-0f6fbcd5bc76d9c21bea",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "May 14 is a defensible period anchor for record rainfall, not an instantaneous UTC incident. ICPDR gives at least 80 regional deaths; do not attribute them only to two countries. Mass-grave and displacement details not fully established here are removed. A period anchor must not be treated as a verified UTC incident date; this date blocker remains after the description correction.",
+   "sources": [
+    {
+     "name": "ICPDR, regional flood review",
+     "url": "https://www.icpdr.org/publications/2014-record-flooding-danube-river-basin"
+    },
+    {
+     "name": "ICPDR and ISRBC, final flood report",
+     "url": "https://www.icpdr.org/sites/default/files/nodes/documents/sava_floods_report.pdf"
+    },
+    {
+     "name": "Scientific rainfall analysis",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4846427/"
+    }
+   ]
+  }
  },
  {
   "date": "2010-05-22",
@@ -349,7 +786,8 @@
   "source_urls": [
    "https://skybrary.aero/sites/default/files/bookshelf/1680.pdf",
    "https://apnews.com/article/746fa55966b63214ba085b351cbbc7e9"
-  ]
+  ],
+  "archive_id": "events-2597ea2a9a2e38c9325c"
  },
  {
   "date": "2011-05-22",
@@ -365,7 +803,8 @@
   "source_urls": [
    "https://www.weather.gov/media/publications/assessments/Joplin_tornado.pdf",
    "https://www.weather.gov/news/052212-joplin"
-  ]
+  ],
+  "archive_id": "events-06040e0dcab790eb7b7e"
  },
  {
   "date": "2012-05-25",
@@ -383,7 +822,170 @@
    "https://www.hrw.org/news/2012/05/27/syria-un-inquiry-should-investigate-houla-killings",
    "https://en.wikipedia.org/wiki/Houla_massacre",
    "https://www.lemonde.fr/proche-orient/article/2012/05/30/syrie-le-massacre-de-houla-raconte-par-des-enfants-rescapes_1709928_3218.html"
-  ]
+  ],
+  "archive_id": "events-bcf63c2a065e347c4fdb"
+ },
+ {
+  "date": "2010-05-28",
+  "title": "Lahore Ahmadiyya mosque attacks",
+  "category": "terrorism",
+  "location": "Lahore, Pakistan",
+  "lives_lost": 94,
+  "description": "Gunmen from the Punjabi Taliban wing of Tehrik-e-Taliban Pakistan attacked two Ahmadiyya mosques in Lahore during Friday prayers on May 28, 2010, using automatic weapons, grenades, and suicide vests, and holding worshippers hostage for several hours. Human Rights Watch documented 94 people killed, 27 at the Baitul Nur mosque in Model Town and 67 at the Darul Zikr mosque in Garhi Shahu, with more than 100 wounded. The attacks were the deadliest assault on the Ahmadiyya religious minority in Pakistan's history.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-acd75addd8a3259607de",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "HRW reported 94 deaths after the May 28 attacks. The community's June 12 primary clarification explicitly revised its own earlier 94 to 86, with some injured still hospitalized; the tertiary overview now gives 87. These competing and evolving totals are not reconciled as a final victim count. The original 94 cannot be certified merely by citing the earlier HRW report. Hostage duration and historical ranking also remain unsupported; the archived clarification opened successfully, while its original URL returned 404.",
+   "sources": [
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/news/2010/06/01/pakistan-massacre-minority-ahmadis"
+    },
+    {
+     "name": "Ahmadiyya Muslim Community, June 12 clarification (archived)",
+     "url": "https://web.archive.org/web/20160503074303/http://www.alislam.org/egazette/press-release/clarification-86-ahmadis-died-in-the-lahore-attacks/"
+    },
+    {
+     "name": "Wikipedia, later toll lead",
+     "url": "https://en.wikipedia.org/wiki/2010_Ahmadiyya_mosques_massacre"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-06-10",
+  "title": "Osh ethnic violence in southern Kyrgyzstan",
+  "category": "war",
+  "location": "Osh and Jalal-Abad, Kyrgyzstan",
+  "lives_lost": 470,
+  "description": "Four days of inter-ethnic violence between Kyrgyz and Uzbek communities erupted in Osh on June 10, 2010 and spread to Jalal-Abad, following the ouster of President Kurmanbek Bakiyev in April and a period of political instability. The Kyrgyz health ministry reported an official toll of about 312 dead and over 2,300 injured, while the International Crisis Group estimated up to 470 killed; interim leader Roza Otunbayeva said the true figure was likely around 2,000 because many victims were buried quickly per local tradition. Hundreds of thousands of ethnic Uzbeks fled across the border into Uzbekistan, and the U.N. reported whole districts of Osh burned to the ground.",
+  "sources": [
+   "United Nations",
+   "Human Rights Watch",
+   "BBC News"
+  ],
+  "archive_id": "events-e3ebf88d5e70f5fe7878",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "470 is associated with the Kyrgyzstan Inquiry Commission, not necessarily International Crisis Group. The CSCE page itself has a year typo in its retrospective paragraph. Exact source for 312/2,000 and cross-border versus total displacement needed; do not call these interchangeable final counts.",
+   "sources": [
+    {
+     "name": "US Helsinki Commission",
+     "url": "https://www.csce.gov/press-releases/helsinki-commission-hold-hearing-ethnic-violence/"
+    },
+    {
+     "name": "OHCHR",
+     "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=W%2BRIScuAcaMOvjRCckpo2aR1nt%2B74lWFSYhRMlX6yJrWxFhVBGjjrHbTxI1iKOlRC9ji1M6l7q6T5Hgqfho8iw%3D%3D"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-06-12",
+  "title": "Camp Speicher Massacre",
+  "category": "war",
+  "location": "Tikrit, Iraq",
+  "lives_lost": 1700,
+  "description": "From June 12 to at least June 14, 2014, Islamic State fighters killed about 1,700 soldiers, cadets and volunteers who had fled Tikrit Air Academy, known as Camp Speicher. UNITAD documented the mass killings in and around Tikrit's presidential palace complex.",
+  "sources": [
+   "BBC News",
+   "Human Rights Watch",
+   "Reuters"
+  ],
+  "archive_id": "events-65e18790a0a7d28213bf",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Updated primary evidence gives about 1,700 soldiers, cadets and volunteers killed June 12 through at least June 14 near presidential palaces, not all at the base or all on June 12. Retain June 12 as start and 1,700 as approximation. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "UNITAD, 2024 legal assessment announcement",
+     "url": "https://iraq.un.org/en/271456-commemorating-10th-anniversary-camp-speicher-massacre-unitad-publishes-milestone-report-isil"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-06-16",
+  "title": "Uttarakhand floods and landslides",
+  "category": "natural-disaster",
+  "location": "Uttarakhand, India",
+  "lives_lost": 5700,
+  "description": "Heavy rain, flooding and landslides devastated Uttarakhand on June 16-17, 2013, particularly around Kedarnath. Thousands died or were reported missing and presumed dead, and large-scale rescue operations evacuated stranded residents and visitors. Official reports differ on the death and missing totals.",
+  "sources": [
+   "Reuters",
+   "United Nations"
+  ],
+  "archive_id": "events-1e028b6786ccfabc992a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "date",
+    "sources"
+   ],
+   "note": "Government sources conflict materially: year-end MHA reports 580 dead plus over 5,526 missing, while NIDM lists 169 dead plus 4,021 presumed dead. Neither establishes 5,700 as an exact final fatality count or the surrounding-region 6,000 claim. June 16 is a period anchor, not a verified instantaneous UTC onset.",
+   "sources": [
+    {
+     "name": "India Ministry of Home Affairs, 2013 review",
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=3&relid=102166"
+    },
+    {
+     "name": "NIDM, disaster report",
+     "url": "https://gbpihedenvis.nic.in/PDFs/Kedarnath_Flash_Floods.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-07-05",
+  "title": "Russian heatwave and wildfires",
+  "category": "natural-disaster",
+  "location": "Russia",
+  "lives_lost": 55000,
+  "description": "A record-breaking heatwave in July and August 2010, the hottest in eastern Europe in 500 years, combined with massive wildfires and dense smog across western Russia, causing an estimated 55,000 excess deaths nationwide, according to the Center for Research on the Epidemiology of Disasters and peer-reviewed studies. In Moscow alone, an estimated 10,900 to 11,300 excess deaths occurred during the 44-day heat wave and accompanying smog episode, largely from cardiovascular and respiratory failure. The fires destroyed about one-third of Russia's grain harvest and caused roughly $15 billion in economic losses.",
+  "sources": [
+   "Center for Research on the Epidemiology of Disasters (CRED)",
+   "Epidemiology (Shaposhnikov et al.)",
+   "Reuters"
+  ],
+  "archive_id": "events-654d250b7828adacfd3e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "Estimated summer excess mortality around 55,000 supported; WMO later lists 55,736. July 5 is not established as a unique onset date. Grain losses should not be attributed solely to fires rather than drought/heat. 44-day Moscow interval and $15 billion need dedicated sources.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://documents1.worldbank.org/curated/en/865571468149107611/pdf/NonAsciiFileName0.pdf"
+    },
+    {
+     "name": "World Meteorological Organization",
+     "url": "https://digitallibrary.un.org/record/3939847/files/1267_Atlas_of_Mortality_en-final_-_26-07-2021.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2012-07-06",
@@ -403,7 +1005,165 @@
    "https://en.wikipedia.org/wiki/2012_Krasnodar_Krai_floods",
    "https://www.adrc.asia/view_disaster_en.php?Key=1659&Lang=en",
    "https://www.emirates247.com/news/region/russia-blames-local-officials-over-fatal-floods-2012-07-10-1.466612"
-  ]
+  ],
+  "archive_id": "events-e23e510a45fa6729c0a2"
+ },
+ {
+  "date": "2013-07-06",
+  "title": "Lac-Mégantic rail disaster",
+  "category": "industrial",
+  "location": "Lac-Mégantic, Quebec, Canada",
+  "lives_lost": 47,
+  "description": "An unattended freight train carrying crude oil rolled downhill and derailed in Lac-Megantic, Quebec, at about 05:15 UTC on July 6, 2013. Spilled oil ignited, killing 47 people and destroying much of the town centre. Investigators found that the train had not been adequately secured.",
+  "sources": [
+   "CBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-3ebda95b046fa846efd9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Investigation gives July 6 about 01:15 EDT (05:15 UTC), 47 deaths, 72 loaded tank cars plus other rolling stock. Remove misleading 73-car shorthand and unsupported all-time Canadian ranking. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Transportation Safety Board of Canada, investigation",
+     "url": "https://www.tsb.gc.ca/eng/rapports-reports/rail/2013/r13d0054/r13d0054.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-07-08",
+  "title": "Gaza War (Operation Protective Edge)",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 2251,
+  "description": "The Gaza conflict lasted from July 8 to August 26, 2014. UNRWA records 2,251 Palestinian deaths, including 1,462 believed to be civilians, among them 551 children, and 11,231 Palestinian injuries. The numeric toll here is Palestinian-only and does not include deaths on the Israeli side.",
+  "sources": [
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "BBC News",
+   "Human Rights Watch"
+  ],
+  "archive_id": "events-91ce44d3d6e906afc8be",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "Original children count 540 should be 551 for the cited 2,251/1,462 dataset. Israeli-side counts differ between OCHA pages (67 soldiers plus six civilians versus 66 plus five Israeli civilians); do not silently merge them. 2,251 is Palestinian-only across July 8-August 26, not all conflict deaths. Exact UTC onset unestablished.",
+   "sources": [
+    {
+     "name": "OCHA, 2014 key figures",
+     "url": "https://www.ochaopt.org/content/key-figures-2014-hostilities"
+    },
+    {
+     "name": "UNRWA, conflict overview",
+     "url": "https://www.unrwa.org/2014-gaza-conflict"
+    },
+    {
+     "name": "OCHA, 2017 retrospective",
+     "url": "https://www.ochaopt.org/content/three-years-2014-conflict-29000-people-remain-displaced"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-07-11",
+  "title": "Kampala World Cup bombings",
+  "category": "terrorism",
+  "location": "Kampala, Uganda",
+  "lives_lost": 74,
+  "description": "Three suicide bombs exploded in Kampala on July 11, 2010, while crowds watched the FIFA World Cup final, killing 74 people and injuring over 70. Two devices were detonated at the Kyadondo Rugby Club and one at the Ethiopian Village restaurant. The Somali militant group Al-Shabaab claimed responsibility, stating the attacks were retaliation for Uganda's participation in the African Union peacekeeping mission in Somalia (AMISOM), marking the first major Al-Shabaab attack outside Somalia.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "United Nations"
+  ],
+  "archive_id": "events-a08e52a85401678fa56c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "July 11 Kampala venues corroborated. Reports use both 74 and 76 and differ in preliminary reporting; final victim/attacker scope not resolved. Three devices must not automatically be described as three suicide bombers.",
+   "sources": [
+    {
+     "name": "Daily Monitor",
+     "url": "https://www.monitor.co.ug/uganda/news/national/bomb-blast-remembering-july-11-2010-1766006"
+    },
+    {
+     "name": "Daily Monitor",
+     "url": "https://www.monitor.co.ug/uganda/news/national/five-arrested-as-fbi-agents-jet-in-1475196"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-07-13",
+  "title": "Mumbai triple bombings",
+  "category": "terrorism",
+  "location": "Mumbai, India",
+  "lives_lost": 26,
+  "description": "On July 13, 2011, three improvised explosive devices hidden on a parked motorcycle, in a tiffin box and on an electric pole exploded within 11 minutes at crowded commercial locations in Mumbai: Zaveri Bazaar, Opera House and Dadar. The blasts killed 26 people and injured more than 130 during evening rush hour. No group claimed responsibility initially; investigations linked the attack to the Indian Mujahideen network, and authorities later named co-founder Yasin Bhatkal as the alleged mastermind.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "The Times of India"
+  ],
+  "archive_id": "events-a0152297feeb49268380",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Secondary result supports date, three sites and 26/130 figures but not independently verified device placements, 11-minute chronology or alleged mastermind. Need original investigation or reputable final-toll reporting before certification. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Wikipedia (source lead only)",
+     "url": "https://en.wikipedia.org/wiki/2011_Mumbai_bombings"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-07-15",
+  "title": "Typhoon Rammasun",
+  "category": "natural-disaster",
+  "location": "Philippines, China and Vietnam",
+  "lives_lost": 190,
+  "description": "Typhoon Rammasun crossed the Philippines in mid-July 2014, then intensified over the South China Sea before striking southern China and affecting Vietnam. It caused widespread deaths and damage; country totals changed as assessments continued.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Rappler"
+  ],
+  "archive_id": "events-6d0fa62afe491ecf8de0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "date",
+    "sources"
+   ],
+   "note": "HKO's early figures are at least 98 Philippine deaths and 18 in China; secondary later totals are higher. A consistent final three-country 190 toll is not established. Strongest Philippine typhoon in decades is false after Haiyan in 2013. July 15 is landfall anchor, but precise UTC onset not checked.",
+   "sources": [
+    {
+     "name": "Hong Kong Observatory, Rammasun report",
+     "url": "https://www.hko.gov.hk/en/publica/tc/tc2014/section3_2rpt.htm"
+    },
+    {
+     "name": "Wikipedia, later regional tally lead",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Rammasun"
+    }
+   ]
+  }
  },
  {
   "date": "2014-07-17",
@@ -423,7 +1183,8 @@
    "https://www.politie.nl/en/information/witness-appeal-crash-mh17.html",
    "https://time.com/3012667/mh17-victims/",
    "https://www.courtmh17.com/en/summaries-and-news/news/transcript-of-the-mh17-judgment-hearing.htm"
-  ]
+  ],
+  "archive_id": "events-7a25f2cfdf6951bc0f90"
  },
  {
   "date": "2011-07-20",
@@ -441,7 +1202,8 @@
    "https://fsnau.org/in-focus/press-release-study-suggests-258000-somalis-died-due-severe-food-insecurity-and-famine-half",
    "https://www.fao.org/newsroom/detail/Famine-in-Somalia/fr",
    "https://www.fao.org/newsroom/detail/The-Somalia-famine---one-year-on/en"
-  ]
+  ],
+  "archive_id": "events-603a97ed4f1aaa02723e"
  },
  {
   "date": "2012-07-20",
@@ -459,7 +1221,43 @@
    "https://abcnews.com/US/james-holmes-trial-jury-reaches-verdict-sentencing-phase/story?id=32953235",
    "https://www.wral.com/archive/16996317/",
    "https://www.history.com/this-day-in-history/july-20/12-people-killed-70-wounded-in-colorado-movie-theater-shooting"
-  ]
+  ],
+  "archive_id": "events-bcddd48866daf10cec9f"
+ },
+ {
+  "date": "2012-07-20",
+  "title": "Syrian civil war — 2012 escalation",
+  "category": "war",
+  "location": "Syria (nationwide)",
+  "lives_lost": 50000,
+  "description": "The Syrian civil war escalated dramatically in 2012, from protests to full-scale urban warfare including the Battle of Aleppo from July. Monitors estimated about 50,000 people were killed during the year alone (SOHR's year-by-year count was 52,916, including 22,663 civilians), and the UN reported more than 60,000 cumulative deaths since March 2011 by early 2013; massacres such as Houla and Daraya and indiscriminate shelling of civilian areas accounted for a large share of casualties.",
+  "sources": [
+   "United Nations",
+   "Syrian Observatory for Human Rights",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-748359c3d83bf94d97f5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "July 20 anchors Aleppo escalation but the numeric field is a rounded annual estimate. SOHR retrospective revisions differ from contemporaneous totals. Need dated primary SOHR/UN series and explicit annual-versus-cumulative scope; Houla/Daraya records overlap this aggregate.",
+   "sources": [
+    {
+     "name": "CSIS",
+     "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/211019_Emeritus_Archives_2011_2019.pdf?.JOssTm_6i1w0WOQgk9oyUpnXbtXsY4u="
+    },
+    {
+     "name": "Wikipedia (SOHR source lead)",
+     "url": "https://en.wikipedia.org/wiki/Casualties_of_the_Syrian_civil_war"
+    }
+   ]
+  }
  },
  {
   "date": "2012-07-21",
@@ -477,7 +1275,8 @@
    "https://science.nasa.gov/earth/earth-observatory/heavy-rains-in-beijing-78626/",
    "https://ceep.bit.edu.cn/docs/2018-10/af7eacbc3c1a4b70be6bab73f196dfc3.pdf",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4945966/"
-  ]
+  ],
+  "archive_id": "events-cdbd71c880c9ae149cc7"
  },
  {
   "date": "2011-07-22",
@@ -495,7 +1294,101 @@
    "https://snl.no/terrorangrepene_i_Norge_22._juli_2011",
    "https://apnews.com/article/5527023248c337f37108be6f6ccb73ea",
    "https://time.com/6182186/countries-banned-guns-mass-shooting/"
-  ]
+  ],
+  "archive_id": "events-97d7f9aff64ac97a7548"
+ },
+ {
+  "date": "2014-07-24",
+  "title": "Air Algérie Flight 5017 Crash",
+  "category": "industrial",
+  "location": "Gossi, Mali",
+  "lives_lost": 116,
+  "description": "Air Algerie Flight 5017, operated by Swiftair with an MD-83, crashed near Gossi, Mali, at about 01:47 UTC on July 24, 2014, roughly half an hour after leaving Ouagadougou. All 110 passengers and six crew died. Investigators linked loss of speed and an unrecovered stall to probable ice obstruction of engine pressure sensors and the crew's response.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "France 24"
+  ],
+  "archive_id": "events-14ea26a7aedc19a5028c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "sources"
+   ],
+   "note": "Final report supersedes inconsistent BEA landing-page metadata: 110 passengers plus six crew, July 24 at 01:47, takeoff about 01:15. Thus about half an hour, not about an hour. Ice likely obstructed engine pressure sensors, not simply airframe icing. Remove unsupported airline ranking. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Mali investigation commission, final report hosted by BEA",
+     "url": "https://bea.aero/fileadmin/uploads/tx_elydbrapports/ec-v140724.en.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-07-25",
+  "title": "2011 Thailand floods",
+  "category": "natural-disaster",
+  "location": "Thailand",
+  "lives_lost": 815,
+  "description": "Torrential monsoon rains from late July 2011 triggered the worst flooding in Thailand in more than half a century, affecting 65 of the country's 77 provinces and about 13.6 million people over more than five months. Official figures recorded 815 deaths and three missing. Floodwaters inundated Bangkok's outskirts and submerged large parts of the central plains, destroying millions of acres of crops and crippling the country's industrial estates, including hard-disk drive and automobile factories, with total economic damages estimated at around US$45 billion.",
+  "sources": [
+   "Thai Department of Disaster Prevention and Mitigation",
+   "World Bank",
+   "Bangkok Post"
+  ],
+  "archive_id": "events-4444b41900b74d3f789a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "815 dead, 13.6 million affected and 65 provinces corroborated in later World Bank account. July 25 exact onset and three missing not established. $46.5 billion is damage plus economic losses, not physical damage alone; earlier World Bank snapshots use different tolls.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://documents1.worldbank.org/curated/en/099103024104538193/pdf/P179593-fefb19cc-b9a4-4d13-87fa-6db0b0d5cc3b.pdf"
+    },
+    {
+     "name": "World Bank",
+     "url": "https://openknowledge.worldbank.org/bitstream/10986/26862/1/698220WP0v20P10se0Only060Box370022B.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-07-28",
+  "title": "Pakistan floods",
+  "category": "natural-disaster",
+  "location": "Pakistan",
+  "lives_lost": 1985,
+  "description": "Unprecedented monsoon rains in late July and August 2010 caused the Indus River and its tributaries to burst their banks, flooding nearly one-fifth of Pakistan's land area across 78 of its 121 districts. Official figures recorded 1,985 deaths and 2,946 injuries, while more than 20 million people were affected, making it one of the largest humanitarian disasters in modern history. The floods destroyed roughly 1.7 million homes, submerged vast agricultural areas, and forced the U.N. to launch a $2 billion relief appeal for what it called the worst flood disaster in Pakistan's history.",
+  "sources": [
+   "UN OCHA",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-106aa618d55040be17b3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "1,985 dead, 2,946 injured and 20.2 million affected corroborated. Onset is a multi-day monsoon period rather than a verified July 28 instant. Housing total includes damaged as well as destroyed homes; the precise 78 districts and appeal wording were not fully established.",
+   "sources": [
+    {
+     "name": "Pakistan Federal Flood Commission",
+     "url": "https://www.mowr.gov.pk/SiteImage/Misc/files/2010%20Annual%20Flood%20Report%20of%20FFC%281%29.pdf"
+    },
+    {
+     "name": "Public Health Reviews",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3625620/"
+    }
+   ]
+  }
  },
  {
   "date": "2014-07-31",
@@ -511,7 +1404,77 @@
   "source_urls": [
    "https://topic.moenv.gov.tw/chemiknowledgemap/cp-452-10343-5f935-5.html",
    "https://www.tph.moj.gov.tw/media/280864/taiwan-prosecution-archive-prosperous-taiwan-majestic-legitimacy-b-_1_ch20.pdf"
-  ]
+  ],
+  "archive_id": "events-b5903ecfa474d7aa4ae0"
+ },
+ {
+  "date": "2014-08-03",
+  "title": "ISIS Genocide of Yazidis in Sinjar",
+  "category": "war",
+  "location": "Sinjar, Iraq",
+  "lives_lost": 5000,
+  "description": "Islamic State fighters attacked the Yazidi community around Sinjar on August 3, 2014, committing mass killings, abductions and sexual enslavement. UN investigators found genocidal acts. Published estimates describe thousands killed, but differ in time span, population and counting method.",
+  "sources": [
+   "United Nations",
+   "Amnesty International",
+   "BBC News"
+  ],
+  "archive_id": "events-772f1fd3967b3b9a5d9e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "date",
+    "sources"
+   ],
+   "note": "UN accounts give estimates ranging from 2,000-5,500 killed since August 3 and as many as 5,000 men in 2016 remarks, not an exact 2014-2017 total. Genocide finding supported, but numeric scope remains unresolved. No exact UTC onset established.",
+   "sources": [
+    {
+     "name": "UN Iraq, 2017 commemoration",
+     "url": "https://iraq.un.org/en/184423-statement-gyorgy-busztin-deputy-special-representative-secretary-general-commemoration"
+    },
+    {
+     "name": "UN Special Adviser on Prevention of Genocide, 2016 remarks",
+     "url": "https://www.un.org/webcast/pdfs/160919pm-daesh-justice.pdf"
+    },
+    {
+     "name": "UNITAD, Sinjar findings",
+     "url": "https://www.unitad.un.org/sites/www.unitad.un.org/files/sinjar_brief_public_updated_0_2.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-08-03",
+  "title": "Ludian Earthquake",
+  "category": "natural-disaster",
+  "location": "Ludian County, China",
+  "lives_lost": 617,
+  "description": "An earthquake struck Ludian County, Yunnan, on August 3, 2014. China's earthquake authority's August 8 assessment recorded 617 deaths, 112 missing people and 3,143 injuries. The quake destroyed homes and caused landslides.",
+  "sources": [
+   "Xinhua",
+   "BBC News",
+   "CNN"
+  ],
+  "archive_id": "events-10158ba329bb7077c817",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "617, 112 missing and 3,143 injured are the August 8 assessment, not an unexplained final count. Replacement keeps those categories distinct and omits unsupported relative ranking; afternoon China event remains August 3 UTC. The August 8 snapshot does not establish the eventual final toll, particularly with 112 then missing; withhold pending final casualty reconciliation.",
+   "sources": [
+    {
+     "name": "People's Daily/China News Service, official August 8 tally",
+     "url": "https://politics.people.com.cn/n/2014/0808/c70731-25432838.html"
+    },
+    {
+     "name": "Earthquake field study",
+     "url": "https://www.tandfonline.com/doi/pdf/10.1080/19475705.2015.1060639"
+    }
+   ]
+  }
  },
  {
   "date": "2012-08-05",
@@ -529,7 +1492,380 @@
    "https://evers.wi.gov/Documents/080524_Proclamation_12th%20Anniversary%20of%20the%20Oak%20Creek%20Sikh%20Temple%20Shooting.pdf",
    "https://www.sikhcoalition.org/blog/2026/remembering-oak-creek-14-years-later/",
    "https://news.sky.com/story/oak-creek-massacre-bullet-hole-remains-in-temple-10-years-after-attack-as-community-tries-to-build-around-the-wound-12665249"
-  ]
+  ],
+  "archive_id": "events-84fc811ec79c50ad2576"
+ },
+ {
+  "date": "2010-08-07",
+  "title": "Zhouqu mudslide",
+  "category": "natural-disaster",
+  "location": "Zhouqu County, Gansu, China",
+  "lives_lost": 1765,
+  "description": "Heavy rain triggered devastating debris flows in Zhouqu, Gansu, around midnight on August 7-8, 2010 local time (August 7 UTC). Mud and rock swept through the town and blocked the Bailong River. NASA's retrospective, citing landslide research, reports a toll of 1,765; this is not a separately reconciled count of confirmed dead and missing.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-309cb961e33f8c1cd780",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "1,557 + 284 equals 1,841, not 1,765. NASA and research report 1,765; do not retain the inconsistent confirmed/missing breakdown. Around midnight August 7-8 China time is August 7 UTC. The proposed 1,765 remains unreconciled with the competing confirmed-dead/missing breakdown; shortening the prose does not resolve that numeric field. Withhold pending a consistent casualty definition.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/earth/earth-observatory/landslide-in-zhouqu-china-45773/"
+    },
+    {
+     "name": "Journal of Asian Earth Sciences",
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S1367912017304613"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-08-11",
+  "title": "East Azerbaijan earthquakes",
+  "category": "natural-disaster",
+  "location": "Ahar and Varzaqan, East Azerbaijan, Iran",
+  "lives_lost": 306,
+  "description": "On 11 August 2012, twin earthquakes of magnitude 6.4 and 6.2 struck 11 minutes apart near the cities of Ahar and Varzaqan in northwestern Iran. At least 306 people were killed and more than 3,000 injured, with thousands of buildings destroyed or damaged in rural villages across the region and at least 80 aftershocks following.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "CNN",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-9b714496be40d1cbddbe",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date, twin-event identity and reported 306 deaths corroborated in preliminary material. Magnitudes vary by agency/scale; exact 6.4/6.2, final injuries and aftershock count need labeled sources. A preliminary report is not final validation.",
+   "sources": [
+    {
+     "name": "European-Mediterranean Seismological Centre",
+     "url": "https://static1.emsc.eu/Files/event/281303/Prel_report-Ahar-11-Agust-2012.pdf"
+    },
+    {
+     "name": "Wikipedia (source lead)",
+     "url": "https://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-08-14",
+  "title": "2011 Pakistan monsoon floods",
+  "category": "natural-disaster",
+  "location": "Sindh, Pakistan",
+  "lives_lost": 520,
+  "description": "Heavy monsoon rains from mid-August to mid-September 2011 caused severe flooding across southern Pakistan, with the province of Sindh the hardest hit, followed by Balochistan. The official damage assessment recorded 520 deaths (497 in Sindh and 23 in Balochistan), about 9.6 million people affected, and more than 1.5 million homes damaged. The floods destroyed over a million acres of crops and livestock, compounding the effects of the record 2010 floods, and forced roughly 744,000 people to be displaced.",
+  "sources": [
+   "NDMA Pakistan",
+   "World Bank/ADB Assessment",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-f518baac711eec296f36",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "520, 9.6 million affected and 744,000 displaced supported. August 14 onset, 497/23 split and timing/housing details were not all established; assessment describes August rainfall across several regions, not a one-day disaster.",
+   "sources": [
+    {
+     "name": "World Bank/ADB",
+     "url": "https://documents.worldbank.org/curated/en/655781468058769881/pdf/846060WP0P09910Box0382140B00PUBLIC0.pdf"
+    },
+    {
+     "name": "UN Women",
+     "url": "https://wrd.unwomen.org/index.php/practice/resources/2011-pakistan-floods-preliminary-damage-and-needs-assessment"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-08-14",
+  "title": "Rabaa massacre",
+  "category": "gun-violence",
+  "location": "Cairo, Egypt",
+  "lives_lost": 1000,
+  "description": "Egyptian security forces dispersed the Rabaa al-Adawiya sit-in in Cairo on August 14, 2013. Human Rights Watch documented at least 817 people killed there and judged the actual toll likely above 1,000. These figures concern Rabaa, not the separate al-Nahda dispersal or all deaths across Egypt that day.",
+  "sources": [
+   "Human Rights Watch",
+   "BBC News"
+  ],
+  "archive_id": "events-a2f2c3f20e1312d3abaf",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "817 is HRW's documented Rabaa minimum; more than 1,000 is its likely total, not an exact count. Original mixes Rabaa, Nahda and broader official figures. Proposed text separates scope, but the schema's exact lives_lost=1000 remains an estimate needing an explicit editorial counting policy. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "Human Rights Watch, year-long investigation",
+     "url": "https://www.hrw.org/news/2014/08/12/egypt-raba-killings-likely-crimes-against-humanity"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-08-21",
+  "title": "Daraya massacre",
+  "category": "war",
+  "location": "Darayya, Rif Dimashq, Syria",
+  "lives_lost": 400,
+  "description": "Between 20 and 25 August 2012, Syrian government forces and allied militiamen carried out a mass killing in the town of Darayya near Damascus after a siege and an offer of safe passage. SOHR documented about 320 killed and the opposition reported up to 400 bodies found in homes, streets, and a mosque; a later UN Commission of Inquiry found reasonable grounds that the murders constituted war crimes.",
+  "sources": [
+   "Syrian Observatory for Human Rights",
+   "Reuters",
+   "The Guardian",
+   "UN Commission of Inquiry"
+  ],
+  "archive_id": "events-ed98eaf917bb3b33d6f0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Sources place shelling from August 20 and mass killings mainly August 24-26; August 21 has no established identity role. Reported totals vary widely. Safe-passage claim and exact UN legal finding not established; source-specific estimate and date interval needed.",
+   "sources": [
+    {
+     "name": "US Department of State",
+     "url": "https://2009-2017.state.gov/documents/organization/204595.pdf"
+    },
+    {
+     "name": "Syrians for Truth and Justice",
+     "url": "https://stj-sy.org/wp-content/uploads/2021/08/Daraya-Nine-Years-After-the-Mass-Killings.pdf"
+    },
+    {
+     "name": "Syrian British Consortium",
+     "url": "https://syrianbritish.org/sbc-publishes-report-on-august-2012-daraya-massacre/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-08-21",
+  "title": "Ghouta chemical weapons attack",
+  "category": "war",
+  "location": "Damascus, Syria",
+  "lives_lost": 1400,
+  "description": "Sarin attacks struck opposition-held areas of Ghouta near Damascus in the early hours of August 21, 2013, local time. UN investigators confirmed chemical-weapons use. Human Rights Watch's analysis attributed the attacks to Syrian government forces. Death estimates vary and should not be presented as a confirmed count.",
+  "sources": [
+   "United Nations",
+   "Human Rights Watch"
+  ],
+  "archive_id": "events-99fd6330ccdde0b20c2a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "UN confirmed chemical-weapons use but was not mandated to assign responsibility. HRW attributes the attacks to government forces. Reported early-morning local attacks may begin August 20 UTC; exact onset must be extracted before changing the date. Fatality estimates vary substantially, so 1,400 is not a confirmed exact toll.",
+   "sources": [
+    {
+     "name": "United Nations, Ghouta investigation",
+     "url": "https://digitallibrary.un.org/record/756814?ln=en&v=pdf"
+    },
+    {
+     "name": "Human Rights Watch, Ghouta analysis",
+     "url": "https://www.hrw.org/report/2013/09/10/attacks-ghouta/analysis-alleged-use-chemical-weapons-syria"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-08-24",
+  "title": "San Fernando migrant massacre",
+  "category": "gun-violence",
+  "location": "San Fernando, Tamaulipas, Mexico",
+  "lives_lost": 72,
+  "description": "Mexican marines discovered the bodies of 72 Central and South American migrants, 58 men and 14 women, bound, blindfolded, and shot dead inside a grain barn on a ranch near San Fernando, Tamaulipas, on August 24, 2010. The sole survivor, an Ecuadorean who escaped by feigning death, told investigators that members of the Los Zetas drug cartel killed the migrants after they refused to be forcibly recruited to work for the gang. The massacre was the largest single mass killing of the Mexican drug war at the time and drew international condemnation, with U.N. human rights chief Navi Pillay demanding an end to impunity.",
+  "sources": [
+   "The New York Times",
+   "BBC News",
+   "CNN"
+  ],
+  "archive_id": "events-d1c2cc3e5459f9b8de8d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "August 24 is discovery, not necessarily killing date; CNDH dates the massacre August 22. Victims included an Indian national, so all Central/South American is overbroad. 'Sole survivor' and maximum-of-war claims need further checking. Precise UTC killing date remains unresolved.",
+   "sources": [
+    {
+     "name": "Mexico National Human Rights Commission",
+     "url": "https://testwebqa.cndh.org.mx/noticia/masacre-de-san-fernando-tamaulipas-masacre-de-los-72-migrantes"
+    },
+    {
+     "name": "El Pais",
+     "url": "https://elpais.com/internacional/2017/08/23/mexico/1503503716_558953.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-09-05",
+  "title": "Pakistan monsoon floods — 2012",
+  "category": "natural-disaster",
+  "location": "Sindh, Punjab, Khyber Pakhtunkhwa and Balochistan, Pakistan",
+  "lives_lost": 455,
+  "description": "Heavy monsoon rains from a low-pressure system that lingered over Pakistan from 3 to 12 September 2012 caused severe flooding across southern Punjab, upper Sindh, and parts of Khyber Pakhtunkhwa and Balochistan. The National Disaster Management Authority reported 455 deaths and some five million people affected, with record rainfall in several cities and widespread destruction of homes and crops.",
+  "sources": [
+   "Pakistan National Disaster Management Authority (NDMA)",
+   "Dawn",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-fa4e6afe40440baea22e",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "455 is an October reporting tally; September 5 as onset and exact weather-system interval remain unverified. ADRC groups the flood season from August 23. Need season-wide versus September-only scope before certifying.",
+   "sources": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/news/amp/757360"
+    },
+    {
+     "name": "NDMA Pakistan",
+     "url": "https://ndma.gov.pk/storage/publications/September2020/rmMje6Xc3JrdwAqCyptW.pdf"
+    },
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=1681&Lang=en"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-09-07",
+  "title": "Yunnan earthquakes",
+  "category": "natural-disaster",
+  "location": "Yiliang County, Yunnan, China",
+  "lives_lost": 81,
+  "description": "On 7 September 2012, a doublet of earthquakes (magnitudes 5.6 and 5.3) struck Yiliang County in Zhaotong, Yunnan, China. The quakes killed 81 people and injured 821, damaged more than 20,000 houses, and forced the evacuation of at least 100,000 residents from the mountainous, landslide-prone area.",
+  "sources": [
+   "Xinhua News Agency",
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ],
+  "archive_id": "events-a285216b0571c3f6f084",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "ADRC reports Chinese magnitudes 5.7/5.6, not 5.6/5.3; magnitude agency/scale is unspecified. Date/daytime UTC aligns. Final 81/821 and housing/evacuation totals require primary final report rather than mixed preliminary values.",
+   "sources": [
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_jp.php?Key=1686&Lang=jp"
+    },
+    {
+     "name": "Wikipedia (casualty source lead)",
+     "url": "https://en.wikipedia.org/wiki/2012_Yiliang_earthquakes"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-09-07",
+  "title": "Kashmir Floods",
+  "category": "natural-disaster",
+  "location": "Jammu and Kashmir, India",
+  "lives_lost": 500,
+  "description": "Monsoon flooding in September 2014 devastated Jammu and Kashmir and parts of Pakistan, including Punjab. Srinagar was extensively inundated. Fatality reports covered different regions and reporting dates, so a Kashmir-only total must not be inferred from combined India-Pakistan figures.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Hindu"
+  ],
+  "archive_id": "events-cd2c6b8e555e0a3216d3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "location",
+    "sources"
+   ],
+   "note": "Flood deaths predate September 7. 500 combines incompatible regional/time scopes; NDMA gives 367 in Pakistan including Punjab, not solely Kashmir. Resolve intended geographic extent and onset before replacing date/toll.",
+   "sources": [
+    {
+     "name": "ADRC, flood chronology",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=1921&Lang=en"
+    },
+    {
+     "name": "Pakistan NDMA, historical disaster review",
+     "url": "https://ndma.gov.pk/storage/publications/September2025/5a7DeS9RPoaFUxreIcmm.pdf"
+    },
+    {
+     "name": "Reuters, September 9 reporting",
+     "url": "https://www.investing.com/news/world-news/hundreds-die-as-heaviest-rain-in-50-years-catch-india%2C-pakistan-off-guard-308667"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-09-08",
+  "title": "Zamboanga City siege",
+  "category": "war",
+  "location": "Zamboanga City, Philippines",
+  "lives_lost": 200,
+  "description": "Fighting between government forces and an MNLF faction began in Zamboanga City early on September 9, 2013, local time, or September 8 UTC. The city government's commemoration records 38 civilian and security-force deaths, excluding rebel fatalities, during the siege.",
+  "sources": [
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-055721f7070a476b047b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "04:30 September 9 local is September 8 UTC. City government confirms 38 non-rebel deaths (20 soldiers, five police, 13 civilians), not the overall 200 figure. Rebel toll, total displacement and endpoint differ across accounts; these remain unverified.",
+   "sources": [
+    {
+     "name": "Zamboanga city government, commemoration",
+     "url": "https://zamboangacity.gov.ph/september-9-a-day-of-remembrance/"
+    },
+    {
+     "name": "GMA, initial attack report",
+     "url": "https://www.gmanetwork.com/news/topstories/regions/325608/mnlf-attacks-zambo-city-using-20-hostages-as-human-shields-six-killed/story/"
+    }
+   ]
+  }
  },
  {
   "date": "2012-09-11",
@@ -545,7 +1881,8 @@
   "source_urls": [
    "https://www.ilo.org/resource/news/victims-2012-ali-enterprises-factory-fire-receive-additional-compensation",
    "https://www.ilo.org/resource/news/compensation-arrangement-agreed-victims-ali-enterprise-factory-fire"
-  ]
+  ],
+  "archive_id": "events-f2eefd6d1dd0676c50b1"
  },
  {
   "date": "2013-09-16",
@@ -561,7 +1898,76 @@
   "source_urls": [
    "https://archives.fbi.gov/archives/washingtondc/press-releases/2013/law-enforcement-shares-findings-of-the-investigation-into-the-washington-navy-yard-shootings",
    "https://www.justice.gov/usao-dc/pr/us-attorney-s-office-closes-investigation-involving-fatal-shooting-aaron-alexis-no"
-  ]
+  ],
+  "archive_id": "events-b8d6ab2c52fe6c1676cc"
+ },
+ {
+  "date": "2013-09-17",
+  "title": "Benisheik massacre",
+  "category": "terrorism",
+  "location": "Benisheik, Nigeria",
+  "lives_lost": 161,
+  "description": "Suspected Boko Haram militants attacked Benisheik and nearby travellers in Borno State on Tuesday night, September 17, 2013. UPI's September 20 report, citing Nigerian officials and Daily Trust, put the reported death toll at at least 161 after additional bodies were found.",
+  "sources": [
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-f40365515b1d23717dd5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Contemporaneous UPI and the Eagle Online place the attack on Tuesday September 17; the latter specifies 6-7 p.m., the same UTC date. The tertiary overview instead dates it September 18 and gives 159, while UPI's later body-recovery report estimates at least 161. The date correction is supported, but final victim total and scope are not reconciled. Withhold the partially corrected record.",
+   "sources": [
+    {
+     "name": "UPI, September 20 updated toll",
+     "url": "https://www.upi.com/Top_News/World-News/2013/09/20/Death-toll-rises-to-161-in-insurgent-attack-in-northeastern-Nigeria/UPI-87291379706620/"
+    },
+    {
+     "name": "Wikipedia, contradictory date lead",
+     "url": "https://en.wikipedia.org/wiki/Benisheik_massacre"
+    },
+    {
+     "name": "The Eagle Online, contemporary timing",
+     "url": "https://theeagleonline.com.ng/boko-haram-suspects-kill-benishiek-residents-in-reprisal-attack/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-09-18",
+  "title": "Sikkim earthquake",
+  "category": "natural-disaster",
+  "location": "Sikkim, India",
+  "lives_lost": 111,
+  "description": "A magnitude 6.9 earthquake struck on September 18, 2011 near the Nepal-Sikkim border in northeastern India, with the epicentre in the Kanchenjunga Conservation Area. At least 111 people were killed, including 97 in India (mostly in Sikkim), 7 in China's Tibet region, 6 in Nepal and 1 in Bhutan, and hundreds were injured. The quake, felt across northern India, Nepal, Bhutan, Bangladesh and Tibet, triggered landslides and rockfalls that cut off remote areas and damaged roughly 43,000 houses in Sikkim.",
+  "sources": [
+   "USGS",
+   "BBC News",
+   "ReliefWeb"
+  ],
+  "archive_id": "events-2d789ef7127d363de841",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "USGS establishes magnitude 6.9 and September 18 India-Nepal border event. Cross-country 111 breakdown and 43,000 Sikkim houses need an original final assessment. Do not infer all of them from a secondary summary.",
+   "sources": [
+    {
+     "name": "USGS",
+     "url": "https://earthquake.usgs.gov/product/poster/20110919/us/1481140336825/poster.pdf"
+    },
+    {
+     "name": "Wikipedia (casualty source lead)",
+     "url": "https://en.wikipedia.org/wiki/2011_Sikkim_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2013-09-21",
@@ -579,7 +1985,119 @@
    "https://www.everycrsreport.com/files/20131114_R43245_2c841aae0d36b7ba0e44b87d2f47d366d6cf7454.pdf",
    "https://feeds.bbci.co.uk/news/world-africa-24187975",
    "https://en.wikipedia.org/wiki/Westgate_shopping_mall_attack"
-  ]
+  ],
+  "archive_id": "events-6bf954d3e2e3b16eeb65"
+ },
+ {
+  "date": "2013-09-22",
+  "title": "Peshawar church bombing",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 85,
+  "description": "Two suicide bombers attacked worshippers at All Saints Church in Peshawar on September 22, 2013. Reported death totals differed: the bishop of Peshawar reported 127 by September 30, above figures circulating in official and international reporting. A reconciled final count is not established by these sources.",
+  "sources": [
+   "BBC News",
+   "Associated Press"
+  ],
+  "archive_id": "events-6b999900d7eed2c41f01",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Bishop's September 30 account gives 127 dead and 170 injured; Dawn reports competing 83/123 totals. These are competing sources, not a demonstrated official upward revision. Exact final toll remains unresolved.",
+   "sources": [
+    {
+     "name": "Titus Presler, account from bishop of Peshawar",
+     "url": "https://titusonmission.wordpress.com/2013/09/30/peshawar-all-saints-update-bomb-casualty-toll-funds-appeal-other-bombings/"
+    },
+    {
+     "name": "Dawn, competing official and community tolls",
+     "url": "https://www.dawn.com/news/1046660"
+    },
+    {
+     "name": "Express Tribune, attack report",
+     "url": "https://tribune.com.pk/story/607996/sunday-mass-murder-front-page"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2013-09-24",
+  "title": "Balochistan earthquake",
+  "category": "natural-disaster",
+  "location": "Awaran, Pakistan",
+  "lives_lost": 825,
+  "description": "A magnitude 7.7 earthquake struck Balochistan, Pakistan, at 11:29 UTC on September 24, 2013, causing extensive destruction around Awaran. Published fatality figures differ, and totals must distinguish the mainshock, subsequent earthquakes and geographic scope.",
+  "sources": [
+   "USGS",
+   "BBC News"
+  ],
+  "archive_id": "events-b4f7f262e8e2da9c76a6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "USGS confirms magnitude 7.7 and September 24 at 11:29 UTC. The 825/840 total has not been reconciled with lower official district counts or the September 28 aftershock. NDMA PDF opened, but casualty search failed; do not certify its unread table.",
+   "sources": [
+    {
+     "name": "USGS, Balochistan rupture mapping",
+     "url": "https://eros.usgs.gov/doi-remote-sensing-activities/2014/usgs/mapping-2013-pakistan-earthquake"
+    },
+    {
+     "name": "USGS, earthquake summary map",
+     "url": "https://earthquake.usgs.gov/product/poster/20130924/us/1480724208995/poster.pdf"
+    },
+    {
+     "name": "NDMA, annual report",
+     "url": "https://ndma.gov.pk/storage/publications/July2024/awVcjS3O1RdJvbaDM0xw.pdf"
+    },
+    {
+     "name": "Wikipedia, competing tolls",
+     "url": "https://en.wikipedia.org/wiki/2013_Balochistan_earthquakes"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-09-26",
+  "title": "Iguala Mass Kidnapping of 43 Students",
+  "category": "gun-violence",
+  "location": "Iguala, Mexico",
+  "lives_lost": 43,
+  "description": "Forty-three Ayotzinapa students disappeared after attacks in Iguala on the night of September 26-27, 2014, local time; six other people were killed. Independent investigators challenged the official claim that all 43 bodies were burned at a single rubbish dump. By March 2024, remains of three students had been identified, while the full fate of the group remained unresolved.",
+  "sources": [
+   "BBC News",
+   "The New York Times",
+   "Reuters"
+  ],
+  "archive_id": "events-b58f4fec1125b19072af",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "43 is disappeared students, not a confirmed death count; six other people were killed during the attacks. Three students' remains had been identified by March 2024, contradicting 'never found.' Independent evidence rejects the original dump-burning reconstruction. Night September 26-27 local likely falls September 27 UTC, but precise start not confirmed.",
+   "sources": [
+    {
+     "name": "GIEI, independent investigation summary",
+     "url": "https://humanrightscommission.house.gov/sites/evo-subsites/humanrightscommission.house.gov/files/documents/AyotzinapaReport_Research%2BInitialConclusions.pdf"
+    },
+    {
+     "name": "AP, identified remains update",
+     "url": "https://apnews.com/article/116dc1381ff4bca06fb02b4c9c31ce01"
+    },
+    {
+     "name": "Mexico Interior Ministry, 2023 commission statement",
+     "url": "https://www.gob.mx/segob/prensa/version-estenografica-347061"
+    }
+   ]
+  }
  },
  {
   "date": "2014-09-27",
@@ -595,7 +2113,42 @@
   "source_urls": [
    "https://volcano.si.edu/volcano.cfm?vn=283040",
    "https://www.japantimes.co.jp/news/2025/09/28/japan/mount-ontake-eruption-11-years-on/"
-  ]
+  ],
+  "archive_id": "events-28cd4a29a7e53a01e66c"
+ },
+ {
+  "date": "2012-10-01",
+  "title": "Nigeria floods — 2012",
+  "category": "natural-disaster",
+  "location": "Nigeria (30 of 36 states affected)",
+  "lives_lost": 363,
+  "description": "From July to October 2012, the worst flooding in Nigeria in four decades submerged large areas of the country, peaking in October. The National Emergency Management Agency reported 363 deaths and over 2.1 million people displaced, with 30 of Nigeria's 36 states affected; Kogi and Benue were the hardest hit, and more than 150,000 hectares of farmland were destroyed.",
+  "sources": [
+   "Nigeria National Emergency Management Agency (NEMA)",
+   "BBC News",
+   "Reuters",
+   "AFP"
+  ],
+  "archive_id": "events-a1207e747baee8aea8c6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "description",
+    "sources"
+   ],
+   "note": "363 and more than 2.1 million displaced supported for July-October; October 1 is not a established unique event date. State count, hardest-hit ranking and 150,000 hectares require assessment-level corroboration. Record overlaps a multi-month season.",
+   "sources": [
+    {
+     "name": "NEMA Nigeria",
+     "url": "https://nema.gov.ng/south-south-lost-n2-51trn-to-floods-in-2012-says-nema/"
+    },
+    {
+     "name": "IFRC",
+     "url": "https://go-api.ifrc.org/publicfile/download?name=MDRNG01401.pdf&path=%2Fdocs%2Fappeals%2F12%2F"
+    }
+   ]
+  }
  },
  {
   "date": "2010-10-21",
@@ -613,7 +2166,140 @@
    "https://www.paho.org/en/news/23-1-2020-haiti-reaches-one-year-free-cholera",
    "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm59d1208a1.htm",
    "https://wwwnc.cdc.gov/eid/article/27/11/20-3372_article"
-  ]
+  ],
+  "archive_id": "events-f0f26af26a9b9845ae6a"
+ },
+ {
+  "date": "2011-10-23",
+  "title": "Van earthquake",
+  "category": "natural-disaster",
+  "location": "Van, Turkey",
+  "lives_lost": 604,
+  "description": "A magnitude 7.1 earthquake struck eastern Turkey near the city of Van on October 23, 2011, collapsing poorly constructed masonry and adobe buildings, particularly in the town of Ercis. It killed 604 people, injured about 4,152, and left roughly 60,000 people homeless, with 11,232 buildings damaged. A magnitude 5.7 aftershock on November 9 killed about 40 additional people, bringing the earthquake sequence's combined toll to approximately 644.",
+  "sources": [
+   "AFAD (Disaster and Emergency Management Presidency of Turkey)",
+   "EERI Reconnaissance Report",
+   "BBC News"
+  ],
+  "archive_id": "events-8e6e0c1a4c551c6b797d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "AFAD gives 644 deaths and 1,966 injured across October 23 and November 9. Existing 4,152 injuries and precise 604/40 split need reconciliation. Keep single-earthquake versus sequence scope explicit; cannot certify the full record from combined totals. Only one checked source is recorded; the two-source publication minimum is not met.",
+   "sources": [
+    {
+     "name": "AFAD",
+     "url": "https://en.afad.gov.tr/about-van-earthquake"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-10-25",
+  "title": "Mentawai Islands earthquake and tsunami",
+  "category": "natural-disaster",
+  "location": "Mentawai Islands, Indonesia",
+  "lives_lost": 452,
+  "description": "A magnitude 7.7-7.8 earthquake struck beneath the Indian Ocean off the Mentawai Islands, west of Sumatra, Indonesia, on October 25, 2010, generating tsunami waves up to 3 meters that devastated low-lying coastal villages. The Indonesian disaster management agency and IFRC recorded 452 people dead and 76 missing, with nearly 15,000 displaced. The disaster struck the same week as the Mount Merapi eruption, and both events combined killed over 700 people, with many of the tsunami victims never recovered from the sea.",
+  "sources": [
+   "United States Geological Survey (USGS)",
+   "IFRC",
+   "Reuters"
+  ],
+  "archive_id": "events-3dd75045c3cec33177b3",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Research documents 3-9 m runup, contradicting a 3 m maximum. IFRC final operational report contains 500 deaths, not 452/76; table snapshots are not necessarily final official mortality. Need reconciled official toll and tsunami-height definition before full replacement.",
+   "sources": [
+    {
+     "name": "IFRC",
+     "url": "https://www.ifrc.org/docs/appeals/10/MDRID006fr.pdf"
+    },
+    {
+     "name": "Geophysical Research Letters",
+     "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010GL046552"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-10-26",
+  "title": "Mount Merapi eruption",
+  "category": "natural-disaster",
+  "location": "Yogyakarta, Indonesia",
+  "lives_lost": 273,
+  "description": "Mount Merapi in central Java began a series of violent eruptions on October 26, 2010, with major eruptions continuing through November 5, including a powerful blast that killed its spiritual guardian Mbah Maridjan and overwhelmed emergency shelters. The final toll recorded 273 deaths, 176 from pyroclastic flows on the spot and 97 from related causes after hospitalization, with 577 people injured and up to 300,000 displaced across Central Java and Yogyakarta. It was the volcano's most powerful eruption in over a century, its eruptive activity peaking in early November.",
+  "sources": [
+   "IFRC",
+   "BNPB (Indonesia National Disaster Management Agency)",
+   "BBC News"
+  ],
+  "archive_id": "events-df6c4715d17e0c44fb1d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "273 should not be described as final: later reporting gives 347, while other summaries give 353. Mbah Maridjan died during the initial October 26 eruption, not the November 5 peak implied by the sentence. IFRC table uses earlier dated snapshots. Exact final official scope remains unresolved.",
+   "sources": [
+    {
+     "name": "USGS",
+     "url": "https://www.usgs.gov/publications/2010-explosive-eruption-javas-merapi-volcano-a-100-year-event"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/a827c3f693666c467b298bac3355a166"
+    },
+    {
+     "name": "IFRC",
+     "url": "https://www.ifrc.org/docs/appeals/10/MDRID006fr.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2010-10-31",
+  "title": "Our Lady of Salvation church siege",
+  "category": "terrorism",
+  "location": "Baghdad, Iraq",
+  "lives_lost": 58,
+  "description": "Gunmen from the Islamic State of Iraq stormed Our Lady of Salvation, a Syriac Catholic church in Baghdad, during Sunday Mass on October 31, 2010, taking more than 100 worshippers hostage before Iraqi security forces stormed the building. The siege killed 58 people, including 44 worshippers, two priests, seven security personnel, and five attackers, and wounded more than 70. It was the deadliest attack on Iraq's Christian community since the 2003 invasion and prompted an exodus of Iraqi Christians, with many families fleeing the country.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-c49528526ea0cea2c958",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Siege date/location corroborated; accounts give incompatible casualty breakdowns. Existing 58 includes five attackers, whereas other reports present 58 victims. Need original final victim list/official statement; do not merge incompatible categories. Exodus causality is not established.",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.net/news/2010/10/31/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B1%D8%B1-%D8%B1%D9%87%D8%A7%D8%A6%D9%86-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9"
+    },
+    {
+     "name": "Wikipedia (conflicting source lead)",
+     "url": "https://en.wikipedia.org/wiki/2010_Baghdad_church_siege"
+    }
+   ]
+  }
  },
  {
   "date": "2013-11-07",
@@ -631,7 +2317,8 @@
    "https://openjicareport.jica.go.jp/pdf/12151775.pdf",
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4710067/",
    "https://www.preventionweb.net/publication/documents-and-publications/typhoon-yolanda-haiyan-2013-philippines-post-disaster-needs"
-  ]
+  ],
+  "archive_id": "events-48a756b64291405c3b01"
  },
  {
   "date": "2011-11-09",
@@ -647,7 +2334,8 @@
   "source_urls": [
    "https://www.chinamine-safety.gov.cn/zfxxgk/fdzdgknr/sgcc/sgbg/201612/t20161208_350722.shtml",
    "https://china.zjol.com.cn/05china/system/2011/11/10/017986919.shtml"
-  ]
+  ],
+  "archive_id": "events-59309213a589f2289234"
  },
  {
   "date": "2012-11-14",
@@ -663,7 +2351,8 @@
   "source_urls": [
    "https://unispal.un.org/pdfs/C0369EC0C908C09085257B33004BDA0F.pdf",
    "https://www.un.org/unispal/document/auto-insert-193680/"
-  ]
+  ],
+  "archive_id": "events-c0a2d9ca108860fae867"
  },
  {
   "date": "2010-11-19",
@@ -681,7 +2370,8 @@
    "https://www.police.govt.nz/major-events/previous/operation-pike",
    "https://pikeriver.royalcommission.govt.nz/vwluResources/Final-Report-Volume-One/%24file/ReportVol1-whole.pdf",
    "https://nzhistory.govt.nz/page/pike-river-mine-disaster"
-  ]
+  ],
+  "archive_id": "events-c487965fb2037d52fca9"
  },
  {
   "date": "2012-11-24",
@@ -697,7 +2387,74 @@
   "source_urls": [
    "https://www.ilo.org/resource/national-tripartite-plan-action-fire-safety-ready-made-garment-sector",
    "https://webapps.ilo.org/evalinfo/product/download.do%3B?id=17067&type=document"
-  ]
+  ],
+  "archive_id": "events-44e548941d4007470678"
+ },
+ {
+  "date": "2014-11-28",
+  "title": "Kano Central Mosque Attack",
+  "category": "terrorism",
+  "location": "Kano, Nigeria",
+  "lives_lost": 120,
+  "description": "Bombers and gunmen attacked Kano's Central Mosque during Friday prayers on November 28, 2014. Contemporary emergency reports estimated about 120 deaths, although early hospital counts were lower. Boko Haram was widely suspected of responsibility.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-748f1046b2dce076bf24",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Friday November 28 prayer-time attack supported; 120 was an emergency-source estimate while hospitals reported over 80. Attribute the approximate toll and do not assert a definitive claim of responsibility. The competing hospital and emergency-source figures are not a reconciled final toll; the approximate wording alone does not resolve the numeric field.",
+   "sources": [
+    {
+     "name": "The Nation, contemporary Kano report",
+     "url": "https://thenationonlineng.net/120-feared-dead-in-kano-central-mosque-triple-explosions/"
+    },
+    {
+     "name": "Euronews, conflicting early estimates",
+     "url": "https://www.euronews.com/2014/11/28/nigeria-dozens-killed-and-hundreds-hurt-in-kano-mosque-attack"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2012-12-03",
+  "title": "Typhoon Bopha (Pablo)",
+  "category": "natural-disaster",
+  "location": "Mindanao, Philippines",
+  "lives_lost": 1900,
+  "description": "Typhoon Bopha, the strongest storm ever recorded to strike the Philippines at that time of year, made landfall on Mindanao late on 3 December / early 4 December 2012 as a Category 5-equivalent super typhoon. The NDRRMC's final toll was 1,901 dead, with widespread flash floods and landslides in Davao Oriental and Compostela Valley, where mudslides buried villages, including in New Bataan.",
+  "sources": [
+   "Philippines NDRRMC",
+   "BBC News",
+   "Reuters",
+   "CNN"
+  ],
+  "archive_id": "events-700f8926234d478a0ffd",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NASA gives 04:45 December 4 local, i.e. December 3 UTC, and strongest recorded in Mindanao, not strongest nationwide for the season. 1,901 combines commonly reported 1,067 dead and 834 missing rather than 1,901 confirmed dead. ADRC full-page open failed (502); obtain final NDRRMC table before replacing toll.",
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://modis.gsfc.nasa.gov/gallery/individual.php?db_date=2012-12-04"
+    },
+    {
+     "name": "Asian Disaster Reduction Center",
+     "url": "https://www.adrc.asia/view_disaster_en.php?Key=1711&Lang=en"
+    }
+   ]
+  }
  },
  {
   "date": "2012-12-14",
@@ -715,7 +2472,114 @@
    "https://portal.ct.gov/dcj/latest-news/sandy-hook-investigation/danbury-states-attorney-releases-report-on-sandy-hook-investigation",
    "https://www.fbi.gov/file-repository/reports-and-publications/sandy-hook-advisory-commission-final-report.pdf",
    "https://www.pbs.org/newshour/show/honoring-the-sandy-hook-shooting-victims"
-  ]
+  ],
+  "archive_id": "events-641c6f75e5026572b9b9"
+ },
+ {
+  "date": "2013-12-15",
+  "title": "Outbreak of the South Sudanese Civil War",
+  "category": "war",
+  "location": "Juba, South Sudan",
+  "lives_lost": 1000,
+  "description": "Fighting began between military factions in Juba on December 15, 2013, and spread into South Sudan's civil war. By December 26, UNMISS estimated about 1,000 deaths in Juba, a preliminary count rather than the eventual nationwide war toll.",
+  "sources": [
+   "United Nations",
+   "BBC News"
+  ],
+  "archive_id": "events-efe5c214522df932a30c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "sources"
+   ],
+   "note": "December 15 onset is established. 1,000 was a preliminary estimate, with Amnesty specifying UNMISS's Juba estimate by December 26. Original wording risks treating this as exact national deaths or onset-day deaths. Precise onset UTC time not established.",
+   "sources": [
+    {
+     "name": "The New Humanitarian, December 27 situation",
+     "url": "https://www.thenewhumanitarian.org/feature/2013/12/27/south-sudan-s-deteriorating-humanitarian-situation"
+    },
+    {
+     "name": "Amnesty International, Nowhere Safe",
+     "url": "https://www.amnesty.org/ar/wp-content/uploads/2023/06/afr650032014en.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2011-12-16",
+  "title": "Typhoon Washi (Sendong) flash floods",
+  "category": "natural-disaster",
+  "location": "Cagayan de Oro and Iligan, Philippines",
+  "lives_lost": 1268,
+  "description": "Tropical Storm Washi (locally named Sendong) made landfall on Mindanao on the night of December 16-17, 2011, dumping up to 20 cm of rain in 24 hours and triggering flash floods that swept away thousands of sleeping residents in the riverside cities of Cagayan de Oro and Iligan. The Philippines' NDRRMC final count recorded 1,268 fatalities, 181 missing and 6,071 injured, with nearly 700,000 people affected and more than 11,000 homes destroyed. It was the deadliest tropical cyclone to hit Mindanao in recorded history.",
+  "sources": [
+   "NDRRMC (Philippines)",
+   "OCHA (ReliefWeb)",
+   "UNICEF"
+  ],
+  "archive_id": "events-4b095e38e0838d67fc6b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "title",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Final-report transcription supports 1,268/181/6,071. Washi was a tropical storm, not a typhoon; midnight-local flood deaths fall on December 16 UTC. All-time Mindanao superlative, full affected count and final official source version need reconciliation.",
+   "sources": [
+    {
+     "name": "NDRRMC report (transcription)",
+     "url": "https://doczz.net/doc/7242878/final-report-re-ts-sendong--15---18-december-2011"
+    },
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/earth/earth-observatory/floods-from-tropical-storm-washi-76710/"
+    },
+    {
+     "name": "JICA",
+     "url": "https://openjicareport.jica.go.jp/pdf/12150165_01.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2014-12-16",
+  "title": "Army Public School Attack, Peshawar",
+  "category": "terrorism",
+  "location": "Peshawar, Pakistan",
+  "lives_lost": 141,
+  "description": "Pakistani Taliban gunmen attacked the Army Public School in Peshawar on December 16, 2014, killing students and staff. The initial reported toll of 141 rose in subsequent accounts; a reconciled final count and breakdown are needed before treating one figure as definitive.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-2adb4d2dc43f5668054d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "141 was initial; later reports give 148 and 150, with differing child counts. Seven attackers reported initially, not nine; other retrospective accounts give six. Exact final victim/perpetrator totals require reconciliation. Morning time is December 16 UTC.",
+   "sources": [
+    {
+     "name": "Express Tribune, attack-day account",
+     "url": "https://tribune.com.pk/story/808019/our-darkest-hour/"
+    },
+    {
+     "name": "Express Tribune, December 24 toll revision",
+     "url": "https://tribune.com.pk/story/811412/army-public-school-ispr-denies-11-terrorists-mounted-school-assault"
+    },
+    {
+     "name": "TIME, December 18 update",
+     "url": "https://time.com/3639481/peshawar-school-massacre-pakistan-taliban/"
+    }
+   ]
+  }
  },
  {
   "date": "2011-12-23",
@@ -731,7 +2595,8 @@
   "source_urls": [
    "https://news.trust.org/item/20111223194400-y5gaj",
    "https://digitallibrary.un.org/record/745050/files/A_HRC_22_59-AR.pdf?ln=ru"
-  ]
+  ],
+  "archive_id": "events-10c4bf9ad08f046b371b"
  },
  {
   "date": "2014-12-27",
@@ -749,6 +2614,7 @@
    "https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-an-airbus-a320-registered-pk-axc-operated-by-air-asia-occured-on-12-2814-in-the-java-sea-investigation-led-by-knkt---indonesia",
    "https://www.abc.net.au/news/2014-12-29/timeline-airasia-flight-qz8501-goes-missing-over-java-sea/5990856",
    "https://time.com/4130480/airasia-crash-indonesia-qz8501-cause/"
-  ]
+  ],
+  "archive_id": "events-a251dabdb5258a2e53df"
  }
 ]

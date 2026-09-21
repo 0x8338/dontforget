@@ -17,6 +17,44 @@
   "source_urls": [
    "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
    "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
-  ]
+  ],
+  "archive_id": "promises-480fdb805948e25e1213"
+ },
+ {
+  "person": "Senegal / IMF",
+  "role": "Government of Senegal / International Monetary Fund",
+  "promise": "Seek approval of a proposed 36-month IMF Extended Credit Facility of about USD 2.2 billion",
+  "date_promised": "2026-09-01",
+  "due_date": "2029-08-31",
+  "status": "pending",
+  "description": "Senegal and IMF staff reached an agreement on key policies on September 1, 2026, subject to the Fund's approval process.",
+  "evidence": [
+   "The IMF announcement is a staff-level agreement, not Board approval or disbursement of the whole programme."
+  ],
+  "sources": [
+   "Bloomberg",
+   "CNBC Africa",
+   "AFP"
+  ],
+  "source_urls": [
+   "https://www.bloomberg.com/news/articles/2026-09-01/senegal-imf-reach-staff-agreement-on-2-2-billion-loan-program",
+   "https://www.cnbcafrica.com/2026/senegal-agrees-to-restore-debt-sustainability-in-return-for-imf-programme",
+   null
+  ],
+  "archive_id": "promises-4f1f6ed7dcd25b80aeda",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "The IMF confirms September 1 staff-level agreement and a proposed 36-month USD 2.2 billion arrangement. This is conditional on approval; programme expiry cannot be calculated from the staff-agreement day before Board approval sets the arrangement start.",
+   "sources": [
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/09/01/pr26282-senegal-imf-reaches-sla-ecf-arrangement"
+    }
+   ]
+  }
  }
 ]

@@ -15,7 +15,162 @@
   ],
   "source_urls": [
    "https://researchbriefings.files.parliament.uk/documents/CBP-9891/CBP-9891.pdf"
-  ]
+  ],
+  "archive_id": "promises-6d860f21669fb97b21b2"
+ },
+ {
+  "person": "Rishi Sunak",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "'Stop the boats' — end illegal small boat Channel crossings in 2023",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Sunak made 'stop the boats' one of his five 2023 priorities and introduced the Illegal Migration Act to deliver it. 29,437 people crossed the Channel in small boats in 2023 — the second highest annual figure on record — and Sunak later admitted there was no 'firm date' for stopping crossings.",
+  "evidence": [
+   "29,437 arrivals in 2023, down only a third from 2022's record 45,755",
+   "Sunak admitted no firm target date in December 2023"
+  ],
+  "sources": [
+   "Home Office statistics",
+   "BBC News",
+   "Sky News"
+  ],
+  "archive_id": "promises-c885f7413618cb6ed463",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "due_date",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Conflates a pledge to legislate with a guarantee of no crossings in 2023. No firm deadline was given; December 31 cannot be treated as the original deadline. Arrival count/ranking need Home Office series.",
+   "sources": [
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/rishi-sunak-says-there-is-no-firm-date-to-stop-the-boats-13034024"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/story/amp/rishi-sunak-pledge-tracker-what-progress-is-the-pm-making-on-his-five-goals-12742535"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Anthony Albanese",
+  "role": "Prime Minister of Australia",
+  "promise": "We will hold a referendum to enshrine an Indigenous Voice to Parliament in the Constitution in our first term",
+  "date_promised": "2022-05-28",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Albanese promised in his election victory speech to hold a referendum on an Indigenous Voice to Parliament. The referendum was duly held on October 14, 2023, and was defeated, with roughly 60% of voters saying No in every state. The promise to hold the referendum was kept, but the substantive constitutional change it aimed at was rejected.",
+  "evidence": [
+   "Referendum held on October 14, 2023, as promised",
+   "Defeated: ~60% No vote, failed in all six states, so no constitutional change"
+  ],
+  "sources": [
+   "Australian Electoral Commission (October 2023 result)",
+   "The Guardian / ABC News (October 2023)"
+  ],
+  "archive_id": "promises-5fc96134d6337e9c3383",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "Official August 2023 speech supports October 14 referendum date. May 28 does not match the described election-victory speech; original speech needs checking. 'About 60% in every state' conflates national vote with each state's percentage. Need AEC results and original first-term deadline.",
+   "sources": [
+    {
+     "name": "Australian Prime Minister's Office",
+     "url": "https://pmtranscripts.pmc.gov.au/release/transcript-45258"
+    },
+    {
+     "name": "Nine News",
+     "url": "https://www.youtube.com/watch?v=ZYkxl931BEg"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Recep Tayyip Erdogan",
+  "role": "President of Turkey",
+  "promise": "By 2023, Turkey will be among the world's ten largest economies",
+  "date_promised": "2011-06-12",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Erdogan set joining the world's top-10 economies as a centerpiece of his '2023 vision' for the Turkish republic's centennial, first announced after his 2011 election victory and repeatedly reaffirmed into the 2020s. Turkey's GDP of about $1.1 trillion in 2023 placed it around 17th-18th in the world, far from the top 10 (which required roughly $2 trillion at the time).",
+  "evidence": [
+   "Turkey ranked ~17th-18th by nominal GDP in 2023, not top 10",
+   "Top-10 threshold (~$2 trillion) was roughly double Turkey's actual 2023 output"
+  ],
+  "sources": [
+   "IMF World Economic Outlook (2023 GDP rankings)",
+   "Reuters / Bloomberg (2023 centennial assessments)"
+  ],
+  "archive_id": "promises-94438cb76f8edd691097",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Search found vision material but not June 12 exact announcement or 2023 final IMF ranking. Nominal and PPP ranks differ; no result justifies replacing with an exact rank or treating a 2013 table as 2023 evidence.",
+   "sources": [
+    {
+     "name": "Turkish Central Bank",
+     "url": "https://www.tcmb.gov.tr/wps/wcm/connect/31099ae7-0885-4bde-9889-ab8119401d2d/WP1329.pdf?CACHEID=ROOTWORKSPACE-31099ae7-0885-4bde-9889-ab8119401d2d-m3fw63b&MOD=AJPERES"
+    },
+    {
+     "name": "Grand National Assembly of Turkey",
+     "url": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak/28/2/14/Tam/56faa9e9-4182-4e49-ade3-abf3839d289a.html"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Jack Dorsey",
+  "role": "Block (Square)",
+  "promise": "Square would build a bitcoin hardware wallet and service to make bitcoin custody 'more mainstream' (July 2021)",
+  "date_promised": "2021-06-30",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Block launched the Bitkey self-custody hardware wallet in Dec 2023, fulfilling the promise (two years after the announcement).",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Reuters",
+   "Block press release"
+  ],
+  "source_urls": [
+   null,
+   "https://block.xyz/inside/press-release-bitkey-launch"
+  ],
+  "archive_id": "promises-2fa9b6c40cb08ff16d29",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "Block's actual launch page located; announcement versus preorders versus hardware shipment must be separated. June 30 predates the described July commitment; December 2023 original deadline not established. Current existence does not certify on-time delivery.",
+   "sources": [
+    {
+     "name": "Block",
+     "url": "https://block.xyz/inside/press-release-bitkey-launch"
+    }
+   ]
+  }
  },
  {
   "person": "General Motors",
@@ -34,7 +189,196 @@
   ],
   "source_urls": [
    "https://investor.gm.com/news-releases/news-release-details/gms-vision-drives-value-company-communities-and-future-mobility"
-  ]
+  ],
+  "archive_id": "promises-e4f64ff131aa49cb3e6a"
+ },
+ {
+  "person": "Jim Farley",
+  "role": "Ford",
+  "promise": "Ford to be producing 600,000 EVs annually by the end of 2023, and 2 million by 2026 (Ford+ event, May 26, 2021)",
+  "date_promised": "2021-06-30",
+  "due_date": "2023-12-31",
+  "status": "broken",
+  "description": "Ford sold only ~110,000 EVs globally in 2023; Farley pushed the 600K milestone to 2024 and delayed the 2 million-by-2026 goal indefinitely.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "CNET, 2021",
+   "NPR"
+  ],
+  "source_urls": [
+   null,
+   "https://www.npr.org/2023/08/11/1193083777/ford-electric-vehicles-f150-lightning-jim-farley"
+  ],
+  "archive_id": "promises-9096a7be385a2a3ca7df",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status",
+    "description",
+    "sources",
+    "evidence"
+   ],
+   "note": "Ford sources specify annualized production run rate, not actual yearly sales. June 30/May 26 original attribution needs verification; 110,000 sales cannot test run rate. Need dated delay announcement and actual run rate, with separate 2026 milestone.",
+   "sources": [
+    {
+     "name": "Ford",
+     "url": "https://corporate.ford.com/content/dam/na/ford/en_us/documents/corporate/reports/2023-integrated-sustainability-and-financial-report.pdf"
+    },
+    {
+     "name": "US Securities and Exchange Commission",
+     "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799623000014/exhibit99tofebruary13202.htm"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Mark Zuckerberg",
+  "role": "Meta (Facebook)",
+  "promise": "Facebook would not take a cut of creators' revenue until at least 2023 (June 7, 2021)",
+  "date_promised": "2021-06-07",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "Facebook said on June 7, 2021 that specified creator tools, including paid online events and fan subscriptions, would remain free until 2023. This was not a blanket promise covering every form of creator revenue.",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "CNBC"
+  ],
+  "archive_id": "promises-9cfbf7d323efe9543fac",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources",
+    "evidence"
+   ],
+   "note": "June 7 primary update specifies selected monetization tools and 'until 2023', not necessarily all creator revenues through December 2023. Later extension/outcome needs evidence.",
+   "sources": [
+    {
+     "name": "Meta",
+     "url": "https://about.fb.com/news/2020/08/paid-online-events/"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.euronews.com/next/2021/06/07/uk-facebook-fees"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister",
+  "promise": "Bring all 251 hostages home",
+  "date_promised": "2023-01-01",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "Reuters reported that the remains of Ran Gvili, described as the last Israeli hostage held in Gaza, were recovered on January 26, 2026. Returned hostages and returned remains must be distinguished.",
+  "evidence": [
+   "January 26, 2026 reporting contradicts the claim that the last Israeli hostage remained unreturned in mid-2026."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/January_2025_Gaza_war_ceasefire",
+   "https://en.wikipedia.org/wiki/Gaza_peace_plan"
+  ],
+  "archive_id": "promises-9d1c80f2047b07261d41",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "January 2023 predates October 7 abductions and no December 2023 deadline is sourced. Reuters reports recovery of the last Israeli hostage's remains January 26, 2026, contradicting stale mid-2026 narrative. Alive versus remains, foreign hostages and all-251 scope need explicit reconciliation before status replacement.",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.reutersconnect.com/item/at-tel-avivs-hostages-square-people-share-sadness-and-hope-after-last-hostage-retrieval-from-gaza/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMDE4MTI2MDEyMDI2UlAx"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/1/26/remains-of-last-israeli-captive-in-gaza-retrieved-says-israel"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Emmanuel Macron",
+  "role": "President",
+  "promise": "Pension reform raising the retirement age from 62 to 64",
+  "date_promised": "2023-01-01",
+  "due_date": "2023-12-31",
+  "status": "kept",
+  "description": "The 2023 pension-age reform was subsequently modified by the December 30, 2025 social-security financing law and May 2026 decrees. The age-64 schedule was shifted to the 1969 birth cohort rather than 1968.",
+  "evidence": [
+   "Official parliamentary responses describe suspension provisions and their implementing decrees."
+  ],
+  "sources": [
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes"
+  ],
+  "archive_id": "promises-856e690797ac7aae87d5",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Parliamentary responses confirm 2025 legislation suspended/adjusted rollout and May 2026 implementing decrees. Existing claim that the 2023 schedule remained unchanged through 2026 is stale. Need original promise and enactment date; March 16 use of 49.3 is not final promulgation.",
+   "sources": [
+    {
+     "name": "French National Assembly",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15271"
+    },
+    {
+     "name": "French National Assembly",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE15105"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Kathleen Kennedy",
+  "role": "President, Lucasfilm",
+  "promise": "Lucasfilm announced Patty Jenkins's Rogue Squadron for Christmas 2023.",
+  "date_promised": "2020-12-10",
+  "due_date": "2023-12-22",
+  "status": "pending",
+  "description": "Lucasfilm announced Rogue Squadron during its December 10, 2020 presentation, with Patty Jenkins directing and a Christmas 2023 theatrical target.",
+  "evidence": [
+   "Lucasfilm's announcement supports the project and Christmas 2023 target.",
+   "Outcome not established as of 2026-09-21: the checked announcement does not establish cancellation or actual release."
+  ],
+  "sources": [
+   "Disney Investor Day, 2020-12-10",
+   "Variety / The Hollywood Reporter, 2022-2023"
+  ],
+  "archive_id": "promises-5945ecf96e2d5cb6ea35",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "The December 10 announcement supports Christmas 2023, not an exact December 22 deadline. The asserted shelving and absence of all Star Wars films through 2025 require outcome evidence; publication remains withheld.",
+   "sources": [
+    {
+     "name": "Lucasfilm projects announcement",
+     "url": "https://www.starwars.com/news/future-lucasfilm-projects-revealed"
+    }
+   ]
+  }
  },
  {
   "person": "PGA Tour, PIF and DP World Tour",
@@ -53,7 +397,80 @@
   ],
   "source_urls": [
    "https://www.golfdigest.com/story/pga-tour-pif-saudi-arabia-framework-agreement-deadline-extension"
-  ]
+  ],
+  "archive_id": "promises-71a16f10dce18b54c815"
+ },
+ {
+  "person": "IBM",
+  "role": "Quantum computing developer",
+  "promise": "IBM's roadmap targeted a 1,121-qubit Condor processor in 2023 and later modular quantum systems.",
+  "date_promised": "2023-05-09",
+  "due_date": "2023-12-31",
+  "status": "pending",
+  "description": "The roadmap distinguishes single processors from linked systems. Its Flamingo and Kookaburra figures do not match the record's description of individual processors.",
+  "evidence": [
+   "IBM's roadmap labels the underlying plan May 2022.",
+   "Outcome not established as of 2026-09-21: the checked roadmap is not a complete record of delivered milestones."
+  ],
+  "sources": [
+   "IBM Newsroom (Dec 4, 2023)",
+   "Wikipedia: IBM Quantum System Two",
+   "IBM Quantum roadmap (2023-2033)"
+  ],
+  "archive_id": "promises-ff382166c01d74c19c58",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "sources"
+   ],
+   "note": "IBM's roadmap is from May 2022, not established May 9, 2023. It describes Flamingo as 462 qubits and a linked three-chip 1,386-qubit demonstration, not a 2,000-qubit processor. Kookaburra's 4,158 refers to a linked system. The multi-year claim cannot be graded kept solely from Condor; original date and actual milestone outcomes remain unresolved.",
+   "sources": [
+    {
+     "name": "IBM quantum roadmap",
+     "url": "https://www.ibm.com/quantum/blog/ibm-quantum-roadmap-2025?trk=article-ssr-frontend-pulse_little-text-block"
+    },
+    {
+     "name": "IBM 2024 roadmap explainer",
+     "url": "https://www.ibm.com/quantum/assets/IBM_Quantum_Developmen_%26_Innovation_Roadmap_Explainer_2024-Update.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Henrik Poulsen / Mads Nipper",
+  "role": "CEO, Ørsted",
+  "promise": "Phase out coal completely by 2023 - a decade ahead of the Danish government's 2030 deadline.",
+  "date_promised": "2017-11-01",
+  "due_date": "2023-12-31",
+  "status": "kept (delayed)",
+  "description": "Orsted ended coal-fired generation with the closure of Esbjerg Power Station on 31 August 2024. Government orders had extended operation beyond the company's original 2023 phase-out target.",
+  "evidence": [
+   "Orsted's August 2024 release identifies the final coal closure and the government-directed extension."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/%C3%98rsted_(company)",
+   "https://www.reuters.com/business/energy/orsted-close-last-coal-fired-power-plant-2023-08-21/"
+  ],
+  "archive_id": "promises-dbb9a63115b37b41b025",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "Official release identifies Esbjerg, not Studstrup, as the final coal-fired plant and 31 August 2024 as the closure date. Government-directed extension caused delay from the original 2023 goal. Original exact pledge day remains unverified; 2023 is seven, not ten, years before 2030.",
+   "sources": [
+    {
+     "name": "Orsted",
+     "url": "https://orsted.com/en/media/news/2024/08/orsted-shuts-down-its-last-coal-fired-heat-and-pow-14000900"
+    }
+   ]
+  }
  },
  {
   "person": "FOMC participants",
@@ -71,7 +488,87 @@
   ],
   "source_urls": [
    "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20210616.htm"
-  ]
+  ],
+  "archive_id": "promises-2a84f1baa29e7a458be4"
+ },
+ {
+  "person": "Jeremy Hunt",
+  "role": "UK Chancellor",
+  "promise": "Nov 17, 2022 Autumn Statement: government would 'halve inflation' by the end of 2023 (from 11.1% in Oct 2022 to ~5.5%)",
+  "date_promised": "2020-01-01",
+  "due_date": "2023-12-28",
+  "status": "kept",
+  "description": "CPI fell to 4.0% by Dec 2023 (Q4 2023 avg 4.2%) — better than the halving pledge",
+  "evidence": [
+   "Retained from the existing collection; outcome evidence remains to be documented."
+  ],
+  "sources": [
+   "Autumn Statement 2022, Nov 17, 2022, gov.uk/government/publications/autumn-statement-2022",
+   "ONS CPI, Dec 2023"
+  ],
+  "archive_id": "promises-63a6fe4ca6def5e3e07b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "due_date",
+    "promise",
+    "sources",
+    "evidence"
+   ],
+   "note": "Located Sunak's January 4, 2023 pledge, not this Hunt November 2022 attribution. December inflation of 4% is supported, but the promise's speaker, date and baseline must be resolved. Do not change person to Sunak without checking duplication. December 28 is unsupported.",
+   "sources": [
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/d3dc8b5cbc4f77d573b47cd021729dce"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/97465afdbffcf49d4217357a4e16be4f"
+    }
+   ]
+  }
+ },
+ {
+  "person": "COP28 parties (Loss and Damage Fund)",
+  "role": "United Nations climate conference parties",
+  "promise": "Operationalize the Loss and Damage Fund at COP28",
+  "date_promised": "2022-11-20",
+  "due_date": "2023-12-12",
+  "status": "kept",
+  "description": "The COP27 summit in Sharm el-Sheikh agreed to establish a fund to help vulnerable developing countries respond to loss and damage from climate change, with the aim of operationalizing it at COP28. On 30 November 2023, the opening day of COP28 in Dubai, parties adopted the decision to operationalize the fund, with the World Bank serving as host; pledges of seed funding followed from developed countries.",
+  "evidence": [
+   "Fund operationalized by consensus on the first day of COP28, 30 November 2023",
+   "COP27 (November 2022) had agreed to establish the fund",
+   "World Bank hosts the Fund for Responding to Loss and Damage"
+  ],
+  "sources": [
+   "World Bank",
+   "UN News",
+   "China Daily / Reuters"
+  ],
+  "archive_id": "promises-8985e9b768bb32101300",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "due_date",
+    "promise",
+    "sources"
+   ],
+   "note": "COP28 operationalization decision on November 30, 2023 is supported; World Bank hosting acceptance followed in June 2024. This is not proof that funding had already been disbursed. Original COP27 decision date and exact deadline/wording not independently confirmed here.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://www.worldbank.org/en/programs/funding-for-loss-and-damage/about"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2023/11/30/cop-28-climate-impacts-damage-fund-passes"
+    }
+   ]
+  }
  },
  {
   "person": "OECD Inclusive Framework on BEPS (Pillar Two)",
@@ -91,7 +588,8 @@
   "source_urls": [
    "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/beps/statement-on-a-two-pillar-solution-to-address-the-tax-challenges-arising-from-the-digitalisation-of-the-economy-october-2021.pdf",
    "https://web-archive.oecd.org/2022-06-16/598771-brochure-two-pillar-solution-to-address-the-tax-challenges-arising-from-the-digitalisation-of-the-economy-october-2021.pdf"
-  ]
+  ],
+  "archive_id": "promises-f617bae020ba0f51f96a"
  },
  {
   "person": "Elon Musk",
@@ -113,7 +611,8 @@
    "https://finance.yahoo.com/news/elon-musk-expects-neuralink-first-153906906.html",
    "https://www.investing.com/news/stock-market-news/neuralink-implants-brain-chip-in-first-human-musk-says-3286482",
    "https://www.investing.com/news/stock-market-news/factboxelon-musks-missed-deadlines-for-fda-approval-of-neuralink-brainchip-trials-3020039"
-  ]
+  ],
+  "archive_id": "promises-8ab9c1e9874938e369b6"
  },
  {
   "person": "Elon Musk",
@@ -135,6 +634,51 @@
    "https://spacepolicyonline.com/events/spacex-announces-first-private-passenger-to-moon-on-bfr-sept-17-2018-hawthorne-ca-900-pm-et-600-pm-local-webcast/",
    "https://manuals.plus/m/697f16a5f41f2251cee6d58f5ff8167fefbd0d6dfae57b206aa12c91113d413b.pdf",
    "https://www.engadget.com/billionaire-space-tourist-cancels-lunar-flight-amid-changing-spacex-priorities-120043594.html/"
-  ]
+  ],
+  "archive_id": "promises-8f04ac7fd1867a133ed8"
+ },
+ {
+  "person": "Benjamin Netanyahu",
+  "role": "Prime Minister of Israel",
+  "promise": "Pass the judicial overhaul plan limiting the Supreme Court's powers, including removing the 'reasonableness' clause",
+  "date_promised": "2023-01-04",
+  "due_date": "2023-12-31",
+  "status": "partial",
+  "description": "The Knesset enacted the reasonableness-standard restriction on July24,2023. The Supreme Court struck it down on January1,2024; this reversal is material when describing the overhaul's outcome.",
+  "evidence": [
+   "Knesset passed the reasonableness clause bill on July 24, 2023",
+   "Broader overhaul components remained paused or unpassed through 2023"
+  ],
+  "sources": [
+   "ABC News (Australia)",
+   "CNN",
+   "Stanford Center on Democracy, Development and the Rule of Law"
+  ],
+  "source_urls": [
+   "https://www.abc.net.au/news/2023-07-25/israels-judicial-reforms-explained/102642580",
+   "https://www.cnn.com/2023/03/23/middleeast/israel-judicial-reforms-prime-minister-law-intl/",
+   "https://cddrl.fsi.stanford.edu/israel/news/whats-happening-israels-democracy"
+  ],
+  "archive_id": "promises-4dcb9210ea0dba80f0a4",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "date_promised",
+    "due_date",
+    "status"
+   ],
+   "note": "Record omits later reversal: Supreme Court struck down reasonableness amendment January1,2024. Knesset enactment alone cannot certify durable overhaul. Original January4 attribution and year-end deadline remain unestablished.",
+   "sources": [
+    {
+     "name": "Knesset: July24 enactment",
+     "url": "https://main.knesset.gov.il/EN/News/PressReleases/Pages/press24723r.aspx"
+    },
+    {
+     "name": "Reuters via Gulf Times: January2024 ruling",
+     "url": "https://www.gulf-times.com/article/674654/region/israels-supreme-court-strikes-down-disputed-law-that-limited-court-oversight"
+    }
+   ]
+  }
  }
 ]

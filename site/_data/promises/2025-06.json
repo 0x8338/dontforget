@@ -18,7 +18,8 @@
   "source_urls": [
    "https://www.investing.com/news/economy/microsoft-plans-to-spend-80-billion-on-aienabled-data-centers-in-fiscal-2025-3795770",
    "https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/?trk=article-ssr-frontend-pulse_little-text-block"
-  ]
+  ],
+  "archive_id": "promises-4f9652d860ddb99e6e60"
  },
  {
   "person": "World Bank (IDA20)",
@@ -40,7 +41,8 @@
   "source_urls": [
    "https://www.worldbank.org/en/news/press-release/2021/12/15/global-community-steps-up-with-93-billion-support-package-to-boost-resilient-recovery-in-world-s-poorest-countries",
    "https://ida.worldbank.org/en/replenishments/ida20-replenishment/ida20"
-  ]
+  ],
+  "archive_id": "promises-d4d93e2a09fb3d67c095"
  },
  {
   "person": "Elon Musk",
@@ -60,6 +62,45 @@
   "source_urls": [
    "https://www.techspot.com/news/108410-tesla-robotaxis-launch-austin-420-invite-only-service.html",
    "https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/"
-  ]
+  ],
+  "archive_id": "promises-772b91d9074ec0f59de0"
+ },
+ {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "Demand lower interest rates as oil prices fall",
+  "date_promised": "2025-01-23",
+  "due_date": "2025-06-30",
+  "status": "broken",
+  "description": "In his January 23, 2025 Davos address, Trump said that with oil prices falling he would demand an immediate interest-rate reduction. That is a commitment to advocate a change, not to set Federal Reserve policy.",
+  "evidence": [
+   "Fed held rates at 4.25-4.50% until September 2025 — no immediate drop",
+   "Analysts noted the president cannot order the Fed to cut rates"
+  ],
+  "sources": [
+   "Nasdaq",
+   "Barron's",
+   "Kenyan Wallstreet"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/articles/can-trump-really-demand-interest-rates-go-down",
+   "https://www.barrons.com/livecoverage/stock-market-today-012325/card/treasury-yields-fall-during-trump-remarks-9Cu2hho4FChCaF841gfj",
+   "https://kenyanwallstreet.com/trump-pushes-for-lower-interest-rates-globally"
+  ],
+  "archive_id": "promises-faf74efceffbcfd51bac",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "Speech promises to demand a rate cut, conditioned on falling oil prices, not personally enact one. June 30 deadline is absent. The Fed's decision cannot by itself establish whether he made a demand.",
+   "sources": [
+    {
+     "name": "World Economic Forum: Trump speech",
+     "url": "https://www.weforum.org/stories/2025/01/davos-2025-special-address-donald-trump-president-united-states/"
+    }
+   ]
+  }
  }
 ]

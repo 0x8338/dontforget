@@ -1,5 +1,81 @@
 [
  {
+  "person": "SpaceX",
+  "role": "Spaceflight company",
+  "promise": "Target an uncrewed lunar landing in March 2027, according to reported investor communications",
+  "date_promised": "2026-02-08",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "Reuters relayed a February 6, 2026 Wall Street Journal report that SpaceX was targeting an uncrewed lunar landing in March 2027. Musk subsequently confirmed lunar priority but not independently the precise landing date.",
+  "evidence": [
+   "WSJ report on SpaceX investor communication, February 6, 2026",
+   "Musk posts on X confirming the Moon-first strategy, February 8, 2026"
+  ],
+  "sources": [
+   "The Wall Street Journal",
+   "The News International"
+  ],
+  "source_urls": [
+   null,
+   "https://www.thenews.com.pk/amp/1391597-elon-musk-unveils-spacexs-moon-first-strategy-with-self-growing-lunar-city"
+  ],
+  "archive_id": "promises-8174fbc8d58ccf030102",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "March target comes from reporting on a SpaceX investor communication, not Musk's February 8 public confirmation of lunar priority. Communication's actual date was not disclosed; February 6 is report date. Preserve anonymous-source provenance and withhold unsupported precise announcement date.",
+   "sources": [
+    {
+     "name": "Reuters: reported investor target",
+     "url": "https://www.investing.com/news/economy-news/spacex-delays-mars-plans-to-focus-on-moon-wsj-reports-4492181"
+    },
+    {
+     "name": "Reuters: Musk's Moon-first comments",
+     "url": "https://www.investing.com/news/stock-market-news/spacex-prioritizes-lunar-selfgrowing-city-over-mars-project-musk-says-4492637"
+    }
+   ]
+  }
+ },
+ {
+  "person": "International Monetary Fund",
+  "role": "Sri Lanka Extended Fund Facility arrangement",
+  "promise": "Provide Sri Lanka about US$3 billion under a 48-month Extended Fund Facility arrangement approved in March 2023",
+  "date_promised": "2023-03-20",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "The IMF approved Sri Lanka's 48-month Extended Fund Facility on March 20, 2023. Disbursements depend on programme reviews.",
+  "evidence": [
+   "The IMF completed combined fifth and sixth reviews on May 27, 2026; the full arrangement remained subject to further implementation."
+  ],
+  "sources": [
+   "Daily Mirror",
+   "Daily FT",
+   "The Morning"
+  ],
+  "source_urls": [
+   "https://www.dailymirror.lk/print/breaking-news/IMF-approves-US-695-Million-disbursement-to-Sri-Lanka-after-completing-fifth-and-sixth-reviews/108-341423",
+   "https://www.ft.lk/top-story/IMF-unlocks---700-m--says-fiscal-response--to-shocks-appropriate/26-792623",
+   "https://www.themorning.lk/articles/SQBX2FwHP804WhnZh6W9"
+  ],
+  "archive_id": "promises-a6dade19805fe8b3d17b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "IMF confirms March 20, 2023 approval of a 48-month arrangement and subsequent reviews. March 31, 2027 is not established as its legal expiry; do not convert an approximate four-year term to an invented month-end deadline.",
+   "sources": [
+    {
+     "name": "IMF",
+     "url": "https://www.imf.org/en/news/articles/2026/05/27/pr26172-sri-lanka-imf-completes-combined-5th-and-6th-reviews-under-eff"
+    }
+   ]
+  }
+ },
+ {
   "person": "Government of Canada",
   "role": "Federal government led by Prime Minister Mark Carney",
   "promise": "Double Canada's preferential trade-market access over the next six months.",
@@ -13,6 +89,7 @@
   ],
   "source_urls": [
    "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
-  ]
+  ],
+  "archive_id": "promises-f14e645dcb28b3f8f377"
  }
 ]

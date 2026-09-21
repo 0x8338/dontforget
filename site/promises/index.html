@@ -107,6 +107,7 @@
             escapeHtml(p.person) + ', ' + escapeHtml(p.role) + ' · Due: ' + escapeHtml(p.due_date) +
             '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + escapeHtml(p.status) + '</span>' +
           '</div>' +
+          data.reviewHtml(p) +
           '<p>' + escapeHtml(p.description || '') + '</p>' +
           (Array.isArray(p.evidence) ? p.evidence : [p.evidence]).filter(Boolean).map(function(evidence) {
             return '<p>' + escapeHtml(evidence) + '</p>';

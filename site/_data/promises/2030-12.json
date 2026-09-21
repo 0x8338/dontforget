@@ -1,5 +1,43 @@
 [
  {
+  "person": "Mark Rutte",
+  "role": "Prime Minister of the Netherlands",
+  "promise": "The government will halve nitrogen emissions by 2030",
+  "date_promised": "2021-12-15",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Rutte's fourth coalition agreement pledged to halve nitrogen emissions in the Netherlands by 2030 to resolve the country's long-running nitrogen crisis, prompting an ambitious livestock reduction plan. The program sparked farmer protests and was later softened, and with the 2030 deadline still ahead the 50% reduction looks unlikely to be met at the current pace.",
+  "evidence": [
+   "Target of 50% nitrogen reduction by 2030 written into the December 2021 coalition agreement",
+   "Implementation scaled back after 2023 election losses; 2030 goal at risk per government advisory body (PBL) estimates"
+  ],
+  "sources": [
+   "Dutch government coalition agreement (December 2021)",
+   "NRC / Reuters (2023-2025 nitrogen policy coverage)"
+  ],
+  "archive_id": "promises-4e7bfbe19ae2400e9374",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Official archive confirms coalition agreement presented December 15, 2021. Current government page describes later 2035 targets, not proof of the original 2030 formulation. Need archived agreement and PBL forecast for exact pollutant/baseline and assessment.",
+   "sources": [
+    {
+     "name": "Government of the Netherlands",
+     "url": "https://www.rijksoverheid.nl/documenten/2022/01/10/coalitieakkoord-omzien-naar-elkaar-vooruitkijken-naar-de-toekomst"
+    },
+    {
+     "name": "Government of the Netherlands",
+     "url": "https://www.government.nl/government/coalition-agreement/big-choices-facing-the-netherlands"
+    }
+   ]
+  }
+ },
+ {
   "person": "Sundar Pichai",
   "role": "CEO, Alphabet and Google",
   "promise": "Pichai said Google aimed to run its operations on carbon-free energy everywhere, at all times, by 2030.",
@@ -21,7 +59,8 @@
    "https://blog.google/company-news/outreach-and-initiatives/sustainability/our-third-decade-climate-action-realizing-carbon-free-future/",
    "https://blog.google/company-news/outreach-and-initiatives/sustainability/environmental-report-2025/",
    "https://blog.google/company-news/outreach-and-initiatives/sustainability/2024-environmental-report/"
-  ]
+  ],
+  "archive_id": "promises-3d94a1220490b193f555"
  },
  {
   "person": "Microsoft",
@@ -43,7 +82,8 @@
   "source_urls": [
    "https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/",
    "https://blogs.microsoft.com/on-the-issues/2024/05/15/microsoft-environmental-sustainability-report-2024/"
-  ]
+  ],
+  "archive_id": "promises-9708e2968770b38f1c85"
  },
  {
   "person": "Apple",
@@ -62,7 +102,8 @@
   ],
   "source_urls": [
    "https://www.apple.com/ca/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/"
-  ]
+  ],
+  "archive_id": "promises-4fb75394aa58e1293b73"
  },
  {
   "person": "Sultan Al Jaber and Simon Stiell",
@@ -84,7 +125,86 @@
   "source_urls": [
    "https://unfccc.int/news/simon-stiell-dr-sultan-al-jaber-leadership-by-the-g20-is-indispensable",
    "https://unfccc.int/news/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era"
-  ]
+  ],
+  "archive_id": "promises-e5773beac01f1ee08975"
+ },
+ {
+  "person": "Bernard Looney",
+  "role": "BP CEO (2020-2023)",
+  "promise": "BP will reduce oil and gas production by 40% by 2030 versus 2019.",
+  "date_promised": "2020-08-04",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "BP's August 2020 strategy targeted a 40% reduction in oil and gas production by 2030. Its February 2025 strategy reset instead emphasized increasing oil and gas production and investment.",
+  "evidence": [
+   "BP's 2020 strategy set the 40% reduction goal.",
+   "BP's February 2025 reset shifted investment and planned production toward oil and gas."
+  ],
+  "sources": [
+   "BP",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bernard-looney-announces-new-ambition-for-bp.html",
+   "https://en.wikipedia.org/wiki/BP"
+  ],
+  "archive_id": "promises-0a2ef8046ba79ea11d57",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise"
+   ],
+   "note": "The 40% production target belongs to the August 2020 strategy, not the February net-zero announcement. The 2023 step was a weakening to 25%, not an immediate growth pledge; the 2025 reset increased planned production. This is a withdrawn-target judgment, not a measured 2030 outcome.",
+   "sources": [
+    {
+     "name": "BP (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/313807/000165495420008344/a0500v.htm"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/1b9cfca4c2da138f83ace86b5945e053"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Bernard Looney / Murray Auchincloss",
+  "role": "BP CEO (2020-2023) / CEO (2024-)",
+  "promise": "Increase annual low carbon investment tenfold to around $5 billion a year by 2030.",
+  "date_promised": "2020-08-04",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "BP's August 2020 strategy targeted roughly $5 billion of annual low-carbon investment by 2030. In February 2025 BP reset transition-business investment to $1.5-2 billion annually, more than $5 billion below its intervening guidance.",
+  "evidence": [
+   "BP's August 2020 strategy set a tenfold increase in low-carbon investment.",
+   "The February 2025 reset reduced planned transition investment while increasing oil and gas investment."
+  ],
+  "sources": [
+   "Wikipedia",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://en.wikipedia.org/wiki/BP",
+   "https://www.reuters.com/business/energy/bp-resets-strategy-slashes-renewables-spending-2025-02-26/"
+  ],
+  "archive_id": "promises-8e5737feec605ce040b0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise"
+   ],
+   "note": "Announcement date is August 2020. The $5bn reduction in 2025 is relative to intervening guidance, not subtraction from the original $5bn target. Original exact wording is a paraphrase. The assertion about 2023-24 spending and dropping all EV charging targets was not supported.",
+   "sources": [
+    {
+     "name": "BP (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/313807/000165495420008344/a0500v.htm"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/1b9cfca4c2da138f83ace86b5945e053"
+    }
+   ]
+  }
  },
  {
   "person": "World Health Organization (cervical cancer elimination strategy)",
@@ -104,7 +224,161 @@
   "source_urls": [
    "https://www.who.int/teams/sexual-and-reproductive-health-and-research-%28srh%29/areas-of-work/cervical-cancer/hpv-vaccination",
    "https://www.who.int/publications/b/55745"
-  ]
+  ],
+  "archive_id": "promises-35edf40fc8323db29021"
+ },
+ {
+  "person": "Global Methane Pledge signatories",
+  "role": "US, EU and 150+ countries",
+  "promise": "Reduce global methane emissions by at least 30% from 2020 levels by 2030",
+  "date_promised": "2021-11-02",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Launched by the United States and the European Union at COP26 in Glasgow in November 2021, the Global Methane Pledge commits signatories to cut global methane emissions by at least 30% from 2020 levels by 2030. The pledge has catalysed new policies and the IEA's Global Methane Tracker 2026 found that regulations in place would cut oil and gas emissions by only around 20% by 2030 — well short of the 30% economy-wide target, with agriculture lagging furthest.",
+  "evidence": [
+   "The pledge launched in 2021 with more than 100 countries; by the 2026 IEA report membership exceeded 150.",
+   "Its collective 2030 target is at least 30% below 2020 anthropogenic methane emissions across sectors."
+  ],
+  "sources": [
+   "IEA Global Methane Tracker 2026",
+   "European Commission",
+   "Environment Journal"
+  ],
+  "archive_id": "promises-800d2cbbad59bec08b68",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "More than 100 countries joined at launch; more than 150 is a later membership count. This is a collective global anthropogenic-emissions aim, not a uniform national 30% obligation. The 20% oil/gas policy projection and exact launch day need additional supporting lines; retain pending for the future 2030 objective.",
+   "sources": [
+    {
+     "name": "IEA",
+     "url": "https://www.iea.org/reports/global-methane-tracker-2026/key-findings"
+    },
+    {
+     "name": "IEA",
+     "url": "https://www.iea.org/reports/global-methane-tracker-2026/policy-trends"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Glasgow Leaders' Declaration on Forests and Land Use signatories",
+  "role": "140+ countries at COP26",
+  "promise": "Halt and reverse forest loss and land degradation by 2030",
+  "date_promised": "2021-11-02",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The 2023 Forest Declaration Assessment found 6.6 million hectares of global gross deforestation in 2022, 21% above the pathway to end deforestation by 2030. Tropical primary forest loss was a separate 4.1 million hectares, 33% above its required pathway.",
+  "evidence": [
+   "The assessment reports separate all-forest deforestation and tropical-primary-forest loss measures."
+  ],
+  "sources": [
+   "IPSN / Global Forest Watch analysis",
+   "Climate Fact Checks",
+   "UK Parliament"
+  ],
+  "archive_id": "promises-f14390c44650505e76a7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "promise",
+    "sources"
+   ],
+   "note": "Record conflates 2022 global gross deforestation (6.6m ha, 21% off path) with tropical primary forest loss (4.1m ha, 33% off path). These findings were in the 2023 assessment, not a 2025 assessment. Exact original signatory count/launch wording still needs the declaration.",
+   "sources": [
+    {
+     "name": "Forest Declaration Assessment",
+     "url": "https://forestdeclaration.org/resources/executive-summary-2023-forest-declaration-assessment/"
+    },
+    {
+     "name": "World Resources Institute",
+     "url": "https://gfr.wri.org/global-tree-cover-loss-data-2022"
+    }
+   ]
+  }
+ },
+ {
+  "person": "European Union (EU Chips Act)",
+  "role": "European Commission and member states",
+  "promise": "Double Europe's share of global semiconductor production to 20% by 2030",
+  "date_promised": "2023-09-21",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The EU Chips Act, in force since September 2023, set the goal of raising Europe's share of global semiconductor production to 20% by 2030, backed by over 43 billion euros in public and private investment. Commission projections and independent analyses as of 2025-2026 put Europe's share on course to stagnate at roughly 10-12% by 2030, well short of the target, though the act has catalysed new fabs and investment.",
+  "evidence": [
+   "Europe's share projected at ~11.7% by 2030, versus the 20% target",
+   "Europe currently holds around 10% of the global semiconductor market",
+   "EU Chips Act entered into force 21 September 2023"
+  ],
+  "sources": [
+   "Globsec",
+   "European Commission",
+   "FundsTech"
+  ],
+  "archive_id": "promises-e2c508c4d6556e90bd9b",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "description",
+    "sources"
+   ],
+   "note": "Audit supports the 20% goal and 11.7% 2030 projection, explicitly a forecast not an outcome. September 2023 entry into force is not the original announcement of the Digital Decade target. Exact 21 September date and EUR43bn composition not verified here; retain pending.",
+   "sources": [
+    {
+     "name": "European Court of Auditors",
+     "url": "https://www.eca.europa.eu/ECAPublications/SR-2025-12/SR-2025-12_EN.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "person": "António Guterres",
+  "role": "UN Secretary-General",
+  "promise": "Call for an SDG Stimulus of at least $500 billion a year for developing countries",
+  "date_promised": "2023-02-17",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The Secretary-General launched the SDG Stimulus proposal on February 17, 2023, after advocating it earlier that month. The proposal seeks additional development financing and requires action by governments and international financial institutions.",
+  "evidence": [
+   "Guterres called for the $500bn-a-year stimulus in February 2023",
+   "A Leaders Group was announced to implement the initiative",
+   "No mechanism delivering the annual $500bn level existed as of 2026"
+  ],
+  "sources": [
+   "UN News",
+   "United Nations Secretary-General statements",
+   "UNCTAD"
+  ],
+  "archive_id": "promises-964be280a65154684132",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status",
+    "sources"
+   ],
+   "note": "Public launch was February 17, not February 16; he had already called for G20 action on February 13. This is a financing proposal directed to governments and institutions, not a personal guarantee to disburse $500 billion. No precise 2030 delivery deadline or exhaustive 2026 outcome assessment established.",
+   "sources": [
+    {
+     "name": "UN: SDG Stimulus launch",
+     "url": "https://www.un.org/en/node/202943"
+    },
+    {
+     "name": "UN: Secretary-General February 13 remarks",
+     "url": "https://www.un.org/sg/en/content/sg/statements/2023-02-13/secretary-generals-remarks-the-general-assembly-consultation-our-common-agendasummit-of-the-future-scroll-down-for-bilingual-delivered-all-english-and-all-french"
+    },
+    {
+     "name": "UN: September 2023 declaration",
+     "url": "https://press.un.org/en/2023/ga12529.doc.htm"
+    }
+   ]
+  }
  },
  {
   "person": "Citigroup",
@@ -124,7 +398,8 @@
   "source_urls": [
    "https://www.citigroup.com/global/news/perspectives/2021/citi-commits-1-trillion-to-sustainable-finance-by-2030",
    "https://www.citigroup.com/rcs/citigpa/storage/public/global-sustainability-report-2024.pdf"
-  ]
+  ],
+  "archive_id": "promises-85cab3ae9bb88481ad35"
  },
  {
   "person": "Pony Ma",
@@ -144,7 +419,50 @@
   "source_urls": [
    "https://www.tencent.com/tencent-announces-plan-to-become-carbon-neutral-by-2030/",
    "https://www.tencent.com/climate/"
-  ]
+  ],
+  "archive_id": "promises-77ecb7b72ced480b0791"
+ },
+ {
+  "person": "Elon Musk",
+  "role": "CEO of Tesla",
+  "promise": "Tesla will sell 20 million vehicles per year by 2030",
+  "date_promised": "2020-09-22",
+  "due_date": "2030-12-31",
+  "status": "broken",
+  "description": "Tesla omitted its goal of delivering 20 million vehicles annually by 2030 from the impact report released in May 2024. Removal from a report is evidence of changed emphasis, not on its own proof of a formal cancellation or the eventual 2030 result.",
+  "evidence": [
+   "Tesla omitted the 20-million target from its 2023 impact report",
+   "TechCrunch (July 2026): Musk 'abandoned that idea a few years ago'; Tesla made its 10 millionth EV"
+  ],
+  "sources": [
+   "TechCrunch",
+   "Carscoops",
+   "Politico"
+  ],
+  "source_urls": [
+   "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+   "https://www.carscoops.com/2024/05/tesla-doesnt-appear-to-be-chasing-20-million-annual-sales-anymore/",
+   "https://www.politico.com/newsletters/power-switch/2025/09/09/tesla-veers-away-from-ev-dominance-00551709"
+  ],
+  "archive_id": "promises-2cbd3f7fdc3e8e12694d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "status"
+   ],
+   "note": "Omission in May 2024 supports removal from that report, not by itself a formal withdrawal or failure before 2030. Exact Battery Day formulation and July 2026 ten-millionth-unit assertion were not established.",
+   "sources": [
+    {
+     "name": "Reuters: target omitted from report",
+     "url": "https://www.investing.com/news/economy-news/tesla-drops-reference-to-its-goal-of-delivering-20-million-vehicles-annually-in-impact-report-3454650"
+    },
+    {
+     "name": "Tesla: 2020 impact report",
+     "url": "https://www.tesla.com/ns_videos/2020-tesla-impact-report.pdf"
+    }
+   ]
+  }
  },
  {
   "person": "European Union (SAFE / ReArm Europe)",
@@ -166,7 +484,8 @@
    "https://www.consilium.europa.eu/en/press/press-releases/2025/05/27/safe-council-adopts-150-billion-boost-for-joint-procurement-on-european-security-and-defence/",
    "https://www.consilium.europa.eu/en/policies/safe/",
    "https://data.consilium.europa.eu/doc/document/ST-13237-2025-INIT/en/pdf"
-  ]
+  ],
+  "archive_id": "promises-308924ce4c4d85e88214"
  },
  {
   "person": "United Nations member states",
@@ -184,7 +503,8 @@
   ],
   "source_urls": [
    "https://www.who.int/palau/news/detail-global/24-06-2026-united-to-end-aids--new-political-declaration-launches-final-push-to-accelerate-progress-towards-ending-aids-as-a-public-health-threat-by-2030"
-  ]
+  ],
+  "archive_id": "promises-3f84be28febde4f75032"
  },
  {
   "person": "Gavi, the Vaccine Alliance",
@@ -204,7 +524,47 @@
   "source_urls": [
    "https://www.gavi.org/investing-gavi/funding/resource-mobilisation-model",
    "https://www.gavi.org/news/media-room/world-leaders-recommit-immunisation-amid-global-funding-shortfall"
-  ]
+  ],
+  "archive_id": "promises-be0943d373275032ed18"
+ },
+ {
+  "person": "Lisa Su",
+  "role": "CEO of AMD",
+  "promise": "\"Looking beyond Helios, we plan to launch a new rack-scale AI platform every year\"",
+  "date_promised": "2026-08-04",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "On August 4, 2026, Su described plans for a new rack-scale AI platform annually after Helios. The call places the initial Helios ramp near the end of Q3 2026, with a larger Q4 ramp, not before Q3.",
+  "evidence": [
+   "Lisa Su's statement on AMD's Q2 2026 earnings call, August 4, 2026",
+   "Helios rack-scale system on pace to ship before Q3 2026"
+  ],
+  "sources": [
+   "Shacknews",
+   "NewsBreak"
+  ],
+  "source_urls": [
+   "https://www.shacknews.com/article/150248/amd-rack-scale-ai-platforms-lisa-su",
+   "https://www.newsbreak.com/news/4809521974037-amd-plans-to-launch-new-rack-scale-ai-platforms-every-year-says-lisa-su"
+  ],
+  "archive_id": "promises-1d491c6ac4b8ed1054e2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date"
+   ],
+   "note": "Annual cadence statement supported. Source's 'before Q3' conflicts with earnings transcript's end-Q3 initial ramp; August already lies in Q3. No2030 endpoint to cadence commitment established.",
+   "sources": [
+    {
+     "name": "Shacknews: annual platform statement",
+     "url": "https://www.shacknews.com/article/150248/amd-rack-scale-ai-platforms-lisa-su"
+    },
+    {
+     "name": "AMD earnings transcript via MarketBeat",
+     "url": "https://www.marketbeat.com/earnings/reports/2026-8-4-advanced-micro-devices-inc-stock/"
+    }
+   ]
+  }
  },
  {
   "person": "General Motors (Cadillac)",
@@ -224,7 +584,8 @@
   "source_urls": [
    "https://www.carscoops.com/2021/04/cadillac-will-only-present-new-evs-from-now-on-stop-selling-ice-cars-by-2030/",
    "https://www.caranddriver.com/news/a73220929/cadillac-xt6-gas-powered-return-confirmed/"
-  ]
+  ],
+  "archive_id": "promises-78a5de48c0f65914d501"
  },
  {
   "person": "Rolls-Royce Motor Cars",
@@ -244,7 +605,88 @@
   "source_urls": [
    "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0346152EN?language=en",
    "https://www.electrive.com/2026/03/19/rolls-royce-backs-away-from-full-electrification-target-for-2030/"
-  ]
+  ],
+  "archive_id": "promises-6c816bea40d3e5cb4cc5"
+ },
+ {
+  "person": "Bola Tinubu",
+  "role": "President of Nigeria",
+  "promise": "Turn Nigeria into a $1 trillion economy by 2030",
+  "date_promised": "2026-02-25",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Finance minister Doris Uzoka-Anite discussed the government's USD 1 trillion ambition and the sustained growth required in a February 25, 2026 ministry report.",
+  "evidence": [
+   "Finance minister reiterated the $1 trillion economy agenda in February 2026",
+   "Administration ties the 2030 goal to the 2026 National Development Plan"
+  ],
+  "sources": [
+   "News Agency of Nigeria",
+   "The Sun",
+   "Newswatch"
+  ],
+  "source_urls": [
+   "https://nannews.ng/tinubus-1trn-economy-agenda-on-track-minister/",
+   "https://thesun.ng/tinubu-committed-to-inclusive-innovative-development-says-bagudu/",
+   "https://www.newswatch.com.ng/1-trillion-dream-in-sight-bola-ahmed-tinubu-woos-global-investors-with-bold-economic-reforms-in-paris/"
+  ],
+  "archive_id": "promises-2ee64879e796c464ce57",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "person",
+    "promise",
+    "due_date"
+   ],
+   "note": "February 25 source attributes the statement to minister Doris Uzoka-Anite under Tinubu's agenda and calls for 10%-12% growth over the next decade. It does not substantiate Tinubu personally promising USD 1 trillion by 2030.",
+   "sources": [
+    {
+     "name": "Nigeria Ministry of Finance",
+     "url": "https://finance.gov.ng/ministry/fg-targets-12-annual-growth-to-hit-1-trillion-economy-landmark-uzoka-anite/"
+    }
+   ]
+  }
+ },
+ {
+  "person": "C.C. Wei (TSMC)",
+  "role": "Chairman and CEO of TSMC",
+  "promise": "Invest $165 billion in the United States to build three new fabs, two advanced packaging plants and an R&D center in Arizona",
+  "date_promised": "2025-03-04",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "TSMC announced plans to expand its US investment from USD 65 billion to USD 165 billion, including three additional fabs, two advanced packaging facilities and an R&D centre.",
+  "evidence": [
+   "The March 2025 TSMC announcement describes planned investment, not money already spent or completion of all facilities."
+  ],
+  "sources": [
+   "TrendForce",
+   "KJZZ",
+   "Mobile World Live"
+  ],
+  "source_urls": [
+   "https://www.businesswire.com/news/home/20250305063041/en/U.S.-to-Hold-Over-20-of-Advanced-Semiconductor-Capacity-by-2030-TSMC-Expands-Investment-to-US%24165-Billion-Says-TrendForce",
+   "https://www.kjzz.org/the-show/2026-07-20/tsmc-will-invest-another-100-billion-in-arizona-how-significant-will-it-be-for-the-state",
+   "https://www.mobileworldlive.com/ai-cloud/tsmc-ups-us-investment-on-ai-mega-trend/"
+  ],
+  "archive_id": "promises-60b140ee42897646a1a0",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "date_promised"
+   ],
+   "note": "The additional USD 100 billion was part of the March 2025 announcement bringing the total to USD 165 billion; do not double-count it as a second increase without separate evidence. No 2030 completion deadline for the entire package was established; distinguish Taiwan release date from US appearance.",
+   "sources": [
+    {
+     "name": "TSMC via SEC",
+     "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000024/tsmcexpandinvestmentintheu.htm"
+    },
+    {
+     "name": "TSMC",
+     "url": "https://pr.tsmc.com/static/campaign/2025March/tsmc_na/index.html"
+    }
+   ]
+  }
  },
  {
   "person": "HD Hyundai Heavy Industries",
@@ -262,7 +704,8 @@
   ],
   "source_urls": [
    "https://www.prnewswire.com/news-releases/hd-hyundai-heavy-industries-to-invest-krw-1-trillion-in-future-engine-and-smr-businesses-302875094.html"
-  ]
+  ],
+  "archive_id": "promises-e30fa916ce7f962e1457"
  },
  {
   "person": "Amazon (Prime Video)",
@@ -283,7 +726,47 @@
   "source_urls": [
    "https://www.aboutamazon.com/news/entertainment/prime-video-latin-america-investment",
    "https://www.investing.com/news/stock-market-news/prime-video-to-invest-more-than-2-billion-in-latin-america-through-2030-4870326"
-  ]
+  ],
+  "archive_id": "promises-f13b8c2d7f1a1a30c0d6"
+ },
+ {
+  "person": "WHO African Region member states",
+  "role": "Regional health ministers",
+  "promise": "Establish at least one functional national emergency medical team in each WHO African Region member state by 2030",
+  "date_promised": "2026-09-09",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The regional committee adopted an emergency-medical-team framework during its August 2026 session. The framework targets nationally owned, deployable teams by 2030.",
+  "evidence": [
+   "WHO reports adoption and progress in individual countries, not universal completion; exact adoption day remains unresolved."
+  ],
+  "sources": [
+   "WHO Regional Office for Africa",
+   "Ecofin Agency"
+  ],
+  "archive_id": "promises-57893eca33171d705754",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "sources"
+   ],
+   "note": "The commitment covers WHO African Region member states, not every AU country. The September 7 story reports August adoption; the provisional agenda places discussion August 27 but is not proof of the final vote date. September 9 is unsupported and cannot simply be replaced with a publication date.",
+   "sources": [
+    {
+     "name": "WHO Africa",
+     "url": "https://afro.who.int/countries/ethiopia/news/african-health-ministers-adopt-landmark-framework-strengthen-emergency-medical-teams?form=FUNKUKTZPCK"
+    },
+    {
+     "name": "WHO Africa",
+     "url": "https://www.afro.who.int/countries/ethiopia/news/ethiopia-achieves-historic-who-verification-national-emergency-medical-team-becoming-first-civilian"
+    },
+    {
+     "name": "WHO Africa agenda",
+     "url": "https://www.afro.who.int/sites/default/files/sessions/agenda/AFR-RC76-1%20Add-1%20Provional%20programme%20of%20Work%20v4.pdf"
+    }
+   ]
+  }
  },
  {
   "person": "Hyundai Motor India",
@@ -303,6 +786,7 @@
   "source_urls": [
    "https://www.hyundai.com/in/en/hyundai-story/media-center/press-release/hmil-targets-20-percent-women-workforce-by-2030",
    "https://www.business-standard.com/companies/news/hyundai-motor-india-targets-20-women-in-executive-workforce-by-2030-126090700534_1.html"
-  ]
+  ],
+  "archive_id": "promises-538f2dde516f02d9d57e"
  }
 ]

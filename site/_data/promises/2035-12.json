@@ -1,5 +1,75 @@
 [
  {
+  "person": "Demis Hassabis",
+  "role": "CEO, Google DeepMind",
+  "promise": "Hassabis predicted that artificial general intelligence could emerge in roughly five to ten years.",
+  "date_promised": "2025-03-17",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "Hassabis gave an approximate forecast for AGI at a March 2025 briefing. It is not a fixed end-of-2035 delivery commitment.",
+  "evidence": [
+   "CNBC's summary reports a five-to-ten-year expectation, not an unconditional deadline."
+  ],
+  "sources": [
+   "CNBC (Mar 17, 2025)",
+   "Axios (May 26, 2026)",
+   "Times of India (Nov 24, 2025)"
+  ],
+  "archive_id": "promises-eee8a1e913834a062600",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "sources"
+   ],
+   "note": "This is an approximate five-to-ten-year forecast, not a guarantee that every task will be solved by December 2035. The source points to a March 17 briefing; the exact original article should be checked before converting the window to a precise daily deadline. Unsupported 2026 revisions are removed.",
+   "sources": [
+    {
+     "name": "CNBC briefing summary",
+     "url": "https://www.linkedin.com/posts/cnbc_ai-that-can-match-humans-at-any-task-will-activity-7307404125942558720-CJpX"
+    },
+    {
+     "name": "Bibliographic reference to CNBC interview",
+     "url": "https://philarchive.org/archive/SHATCI-7"
+    }
+   ]
+  }
+ },
+ {
+  "person": "Ben van Beurden / Wael Sawan",
+  "role": "Shell CEO (2014-2022) / CEO (2023-)",
+  "promise": "Reduce the net carbon intensity of our energy products by 20% by 2030 and 45% by 2035, versus 2016 (net zero by 2050).",
+  "date_promised": "2021-04-01",
+  "due_date": "2035-12-31",
+  "status": "broken",
+  "description": "Shell retired its 45% net-carbon-intensity reduction target for 2035 on 14 March 2024 and revised its 2030 target from 20% to 15-20%, relative to 2016.",
+  "evidence": [
+   "Shell's 2024 strategy explicitly retires the 2035 intensity target and revises the 2030 range."
+  ],
+  "sources": [
+   "Reuters",
+   "Wikipedia"
+  ],
+  "source_urls": [
+   "https://www.reuters.com/sustainability/climate-energy/shell-softens-carbon-targets-2023-06-14/",
+   "https://en.wikipedia.org/wiki/Wael_Sawan"
+  ],
+  "archive_id": "promises-15686f7ec873e2d4428f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised"
+   ],
+   "note": "The rollback occurred on 14 March 2024, not 14 June 2023. The revised 2030 intensity range was 15-20%, not 9-12% (the latter was a 2024 target). The 2035 target was retired. Exact 2021 announcement day and ancillary court claim not established; remove superlative.",
+   "sources": [
+    {
+     "name": "Shell",
+     "url": "https://shell.gcs-web.com/news-releases/news-release-details/shell-publishes-energy-transition-strategy-2024"
+    }
+   ]
+  }
+ },
+ {
   "person": "NATO Allies (The Hague Summit)",
   "role": "Alliance members",
   "promise": "Invest 5% of GDP annually in defence by 2035, including at least 3.5% on core defence and up to 1.5% on related security spending",
@@ -17,7 +87,8 @@
   "source_urls": [
    "https://www.nato.int/en/news-and-events/articles/news/2025/06/27/nato-concludes-historic-summit-in-the-hague",
    "https://www.nato.int/en/what-we-do/introduction-to-nato/defence-expenditures-and-natos-5-commitment"
-  ]
+  ],
+  "archive_id": "promises-3a7d848217e96d09ec3e"
  },
  {
   "person": "COP29 parties (NCQG)",
@@ -37,7 +108,49 @@
   "source_urls": [
    "https://unfccc.int/news/cop29-un-climate-conference-agrees-to-triple-finance-to-developing-countries-protecting-lives-and",
    "https://eccoclimate.org/en/what-happened-at-cop29-the-results-of-the-baku-conference-of-the-parties/"
-  ]
+  ],
+  "archive_id": "promises-ae395396439308bf74d9"
+ },
+ {
+  "person": "Mark Carney",
+  "role": "Prime Minister of Canada",
+  "promise": "Canada will meet NATO's new Defence Investment Pledge of 5% of GDP by 2035, and double defence expenditures with an additional C$80 billion over five years",
+  "date_promised": "2025-06-25",
+  "due_date": "2035-12-31",
+  "status": "pending",
+  "description": "Canada joined the June 25, 2025 NATO commitment to 5% of GDP in core defence and related security investment by 2035. In February 2026 the PMO reaffirmed the target and described reaching 2% in fiscal 2025-26.",
+  "evidence": [
+   "Canada joined the new NATO Defence Investment Pledge on June 25, 2025",
+   "Carney reaffirmed doubling defence spending and the 5% by 2035 target in February 2026"
+  ],
+  "sources": [
+   "Government of Canada (PMO)",
+   "Politico",
+   "New Age"
+  ],
+  "source_urls": [
+   "https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg",
+   "https://www.politico.com/news/2026/02/17/canada-defense-reduce-us-dependency-00784190",
+   "https://www.newagebd.net/print/post/272580"
+  ],
+  "archive_id": "promises-1b9ef7e753bb06795c22",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise"
+   ],
+   "note": "5% target is supported. February source specifies 2% in fiscal 2025-26, not calendar2026, and discusses distinct ten-year procurement/capital totals. The additional $80bn/five-year doubling claim is not established as part of the June 2025 commitment.",
+   "sources": [
+    {
+     "name": "Canada PMO: June 2025 NATO pledge",
+     "url": "https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg"
+    },
+    {
+     "name": "Canada PMO: February 2026 strategy",
+     "url": "https://www.pm.gc.ca/en/news/news-releases/2026/02/17/prime-minister-carney-launches-canadas-first-defence-industrial"
+    }
+   ]
+  }
  },
  {
   "person": "CATL (Contemporary Amperex Technology)",
@@ -57,6 +170,7 @@
   "source_urls": [
    "https://www.catl.com/en/news/6953.html",
    "https://cnevpost.com/2026/08/17/catl-core-operations-carbon-neutral-supply-chain-next/"
-  ]
+  ],
+  "archive_id": "promises-c6fcac0160787411b827"
  }
 ]

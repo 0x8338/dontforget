@@ -1,5 +1,44 @@
 [
  {
+  "person": "Fumio Kishida",
+  "role": "Prime Minister of Japan",
+  "promise": "By June, we will compile a roadmap to realize the new form of capitalism",
+  "date_promised": "2023-01-23",
+  "due_date": "2023-06-30",
+  "status": "kept",
+  "description": "In his January 2023 policy speech to the Diet, Kishida promised a concrete roadmap for his flagship 'new capitalism' (shin shihonshugi) policy by June 2023. The Cabinet approved the roughly 200-measure roadmap on June 16, 2023, covering wage growth, investment in people, and science/tech priorities, meeting the deadline he set.",
+  "evidence": [
+   "Cabinet approved the 'New Form of Capitalism' roadmap on June 16, 2023",
+   "Roadmap included ~200 measures on wages, human capital investment, and innovation"
+  ],
+  "sources": [
+   "Reuters (June 16, 2023)",
+   "Kyodo News (January and June 2023)"
+  ],
+  "archive_id": "promises-a89b389512c1568d5dd2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status",
+    "description",
+    "sources"
+   ],
+   "note": "Prime Minister's Office confirms June 16 council consideration of updated new-capitalism policy. Need January 23 exact commitment, cabinet decision and source for 'roughly 200 measures'; meeting alone is not proof of the specific promised roadmap.",
+   "sources": [
+    {
+     "name": "Prime Minister's Office of Japan",
+     "url": "https://japan.kantei.go.jp/101_kishida/actions/202306/16keizai_shihon.html"
+    },
+    {
+     "name": "Prime Minister's Office of Japan",
+     "url": "https://japan.kantei.go.jp/ongoingtopics/policies_kishida/newcapitalism.html"
+    }
+   ]
+  }
+ },
+ {
   "person": "Microsoft",
   "role": "Technology company",
   "promise": "Microsoft was working toward closing its Activision Blizzard acquisition in fiscal 2023, subject to regulatory approvals.",
@@ -18,7 +57,8 @@
   "source_urls": [
    "https://www.microsoft.com/en-us/investor/events/fy-2023/earnings-fy-2023-q2",
    "https://news.microsoft.com/wp-content/uploads/prod/sites/653/2023/10/Phil-Spencer-email-to-Microsoft-employees.pdf"
-  ]
+  ],
+  "archive_id": "promises-a9545947aa8cccd30ca5"
  },
  {
   "person": "Elon Musk",
@@ -38,6 +78,7 @@
   "source_urls": [
    "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Musk-says-Twitter-could-be-cash-flow-positive-next-quarter-43183866/",
    "https://www.investing.com/news/stock-market-news/elon-musk-says-twitters-cash-flow-still-negative-as-ad-revenue-drops-3126361"
-  ]
+  ],
+  "archive_id": "promises-b77b716ed0a8945f5ecc"
  }
 ]

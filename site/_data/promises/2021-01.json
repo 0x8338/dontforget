@@ -1,0 +1,40 @@
+[
+ {
+  "person": "Donald Trump",
+  "role": "US presidential candidate",
+  "promise": "\"I will build a great, great wall on our southern border, and I will make Mexico pay for that wall.\"",
+  "date_promised": "2015-06-16",
+  "due_date": "2021-01-20",
+  "status": "broken",
+  "description": "Trump promised a southern-border wall paid for by Mexico. Construction was funded by the United States. CRS reports 458 miles of wall panels installed during his administration, much of it replacing existing barriers.",
+  "evidence": [
+   "CRS reports 458 miles installed by the end of the administration.",
+   "FactCheck.org reports $15 billion secured from US funding sources, not Mexican payment."
+  ],
+  "sources": [
+   "AP",
+   "Washington Post",
+   "NBC News"
+  ],
+  "archive_id": "promises-73d536f4d8850e71da80",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "sources"
+   ],
+   "note": "458 miles is Trump-era installed panels, not all barriers existing at term end. $15 billion was total secured from several sources, not all diverted Pentagon funds. Original quotation/UTC date still require announcement transcript.",
+   "sources": [
+    {
+     "name": "Congressional Research Service",
+     "url": "https://www.everycrsreport.com/reports/R45888.html"
+    },
+    {
+     "name": "FactCheck.org",
+     "url": "https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/"
+    }
+   ]
+  }
+ }
+]

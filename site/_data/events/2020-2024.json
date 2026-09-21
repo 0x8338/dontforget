@@ -1,5 +1,145 @@
 [
  {
+  "date": "2020-01-01",
+  "title": "Jakarta flood disaster",
+  "category": "natural-disaster",
+  "location": "Jakarta, Indonesia",
+  "lives_lost": 66,
+  "description": "Record rainfall of nearly 400 mm on New Year's Eve overflowed the Ciliwung and Cisadane rivers, flooding large parts of Jakarta and surrounding areas in the early hours of 1 January 2020. Officials reported 66 deaths, the highest toll from flooding in the city since 2007, with about 60,000 people displaced and more than 397,000 evacuated to higher ground at the peak. Water levels reached 30 to 200 cm across many districts and up to four metres in parts of East Jakarta.",
+  "sources": [
+   "BNPB (Indonesian National Disaster Management Agency)",
+   "BBC News",
+   "The Jakarta Post"
+  ],
+  "archive_id": "events-75c565e61937ea9bcd22",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "377 mm daily rainfall and 397,171 displaced reported. Exact onset requires UTC conversion: early January 1 local is December 31 UTC. No primary final 66-death tally, 60,000 residual-displacement cutoff or full water-depth/rivers support retrieved. Retain unresolved rather than selecting an arbitrary onset time.",
+   "sources": [
+    {
+     "name": "The Jakarta Post",
+     "url": "https://www.thejakartapost.com/news/2020/01/01/not-ordinary-rain-worst-rainfall-in-over-decade-causes-massive-floods-in-jakarta?pg=%2F&src=mostviewed"
+    },
+    {
+     "name": "The Indonesian Institute",
+     "url": "https://www.theindonesianinstitute.com/wp-content/uploads/2020/01/The-Indonesian-Update-%E2%80%94-Volume-XIV-No.1-January-2020-English-Version.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-01-01",
+  "title": "Somalia drought: estimated excess deaths in 2022",
+  "category": "food-crisis",
+  "location": "Somalia",
+  "lives_lost": 43000,
+  "description": "A study commissioned by WHO and UNICEF and released in March 2023 estimated approximately 43,000 excess deaths associated with Somalia's drought during January-December 2022, about half among children younger than five. January 1 marks the start of the study year, not the date these deaths occurred; the total is an estimate rather than a confirmed count.",
+  "sources": [
+   "WHO",
+   "UNICEF",
+   "BBC News"
+  ],
+  "archive_id": "events-08a5969d825983f3d6f7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "43,000 is modeled excess mortality in Somalia across all 2022, not a January 1 event or Horn-wide confirmed famine toll. Commissioned by WHO/UNICEF, with FAO support; no area-level famine declaration implied. January 1 is a study-year boundary, not an established discrete disaster date. The annual mortality estimate is supported, but the current calendar record needs a justified period representation before publication.",
+   "sources": [
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/esa/press-releases/new-study-finds-43000-excess-deaths-may-have-occurred-2022-drought-somalia"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/esa/documents/insight-action-examining-mortality-somalia"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-01-01",
+  "title": "Noto Peninsula Earthquake",
+  "category": "natural-disaster",
+  "location": "Wajima, Ishikawa Prefecture, Japan",
+  "lives_lost": 241,
+  "description": "A magnitude 7.6 earthquake struck the Noto Peninsula in Ishikawa Prefecture, Japan, on January 1, 2024, triggering tsunami warnings, building collapses, and a major fire in Wajima. The disaster killed 241 people, injured more than 1,300, and destroyed or damaged tens of thousands of homes, with Wajima and Suzu among the hardest-hit towns.",
+  "sources": [
+   "NHK World",
+   "Reuters",
+   "Associated Press"
+  ],
+  "archive_id": "events-9db65ce2bb790b86de10",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "January 1 and magnitude 7.6 JMA are established, but 241 is an early 2024 snapshot, not the final toll. An indexed August 14, 2026 Kyodo report gives 750 across affected prefectures: 228 direct plus 522 related deaths; its full page failed to open. Need the current official table and explicit national/prefectural and direct/indirect scope before replacing the toll. Withhold rather than silently freeze an obsolete count.",
+   "sources": [
+    {
+     "name": "Ishikawa Prefecture",
+     "url": "https://www.pref.ishikawa.lg.jp/saigai/202401jishin-taisakuhonbu.html"
+    },
+    {
+     "name": "Kyodo / Livedoor",
+     "url": "https://news.livedoor.com/article/detail/32066038/"
+    },
+    {
+     "name": "International Journal of Disaster Risk Reduction",
+     "url": "https://doi.org/10.1016/j.ijdrr.2024.104611"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-01-03",
+  "title": "Kerman Bombings (Soleimani Memorial Attack)",
+  "category": "terrorism",
+  "location": "Kerman, Iran",
+  "lives_lost": 95,
+  "description": "On January 3, 2024, two explosions struck a crowd gathered in Kerman, Iran, for a ceremony commemorating the fourth anniversary of the assassination of General Qasem Soleimani. Islamic State (ISIS) claimed responsibility for the attack, which killed at least 95 people and wounded about 280, making it one of the deadliest attacks in Iran's modern history.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ],
+  "archive_id": "events-404c2144b4a264625db9",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date and memorial identity are established. Early 103/95 counts were corrected to 84, then 94 by January 11; a definitive subsequent 95-person count was not established. ISIS claim is supported, but final toll requires reconciliation. The Al Jazeera evidence is used only for the later figure and claim.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-bombings-death-toll-revised-from-103-to-84-many-still-in-critical-condition/3099972"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-state-media-says-kerman-bombing-was-suicide-attack-daesh-claims-responsibility/3100568"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2024/1/11/iran-identifies-suspected-bomb-maker-behind-twin-blasts-arrests-35-people"
+    }
+   ]
+  }
+ },
+ {
   "date": "2020-01-09",
   "title": "Chinagodrar military camp attack",
   "category": "terrorism",
@@ -13,7 +153,41 @@
   "source_urls": [
    "https://www.voanews.com/a/africa_security-sources-niger-army-base-attack-death-toll-hits-89/6182457.html",
    "https://www.fratmat.info/article/201061/etranger/niger/niger-le-bilan-de-lattaque-de-chinagodrar-passe-a-89-morts"
-  ]
+  ],
+  "archive_id": "events-e09e55cdb23dfb2ae40b"
+ },
+ {
+  "date": "2021-01-14",
+  "title": "Sulawesi earthquake",
+  "category": "natural-disaster",
+  "location": "West Sulawesi, Indonesia",
+  "lives_lost": 105,
+  "description": "A magnitude 6.2 earthquake struck near the city of Mamuju on Sulawesi island, killing at least 105 people and injuring hundreds more. The quake toppled homes, hospitals, and hotels, triggering landslides in the mountainous region. Thousands were displaced and months of aftershocks hampered rescue and recovery efforts.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ],
+  "archive_id": "events-2a54b32fb22a9967f5ac",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "UTC origin is January 14 at 18:28, not January 15. 105 appears in secondary summaries; months of aftershocks hampering rescue is not established. Propose only supported UTC correction pending full final-toll and recovery evidence.",
+   "sources": [
+    {
+     "name": "European Commission Joint Research Centre",
+     "url": "https://data.jrc.ec.europa.eu/dataset/1216b6a9-b5c7-4d6a-be11-550929a49f12"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_West_Sulawesi_earthquake"
+    }
+   ]
+  }
  },
  {
   "date": "2023-01-15",
@@ -29,7 +203,8 @@
   "source_urls": [
    "https://bea.aero/fileadmin/user_upload/9N-ANC_FINAL_Report.pdf",
    "https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-atr72-registered-9n-anc-operated-by-yeti-airlines-on-15-01-2023-at-pokhara/"
-  ]
+  ],
+  "archive_id": "events-743831d43458e4b9dbb4"
  },
  {
   "date": "2023-01-22",
@@ -47,7 +222,8 @@
    "https://apnews.com/article/09e8708c6805ef90c35c33981b9109d9",
    "https://www.latimes.com/california/story/2023-01-22/la-me-monterey-park-mass-shooting-lunar-new-years-eve",
    "https://www.montereypark.ca.gov/1680/January-21-Permanent-Memorial"
-  ]
+  ],
+  "archive_id": "events-a6ba07aed163f45dae2d"
  },
  {
   "date": "2023-01-30",
@@ -65,7 +241,37 @@
    "https://www.ndtv.com/world-news/84-killed-in-peshawar-mosque-blast-pakistan-revises-down-death-count-3746408",
    "https://apnews.com/article/2e8847a3735fb910b7a3cca53da721f4",
    "https://tribune.com.pk/story/2406609/peshawar-suicide-bombers-accomplice-held?amp=1"
-  ]
+  ],
+  "archive_id": "events-3c02dedb6cf00b6852e0"
+ },
+ {
+  "date": "2021-02-01",
+  "title": "Myanmar military coup and crackdown",
+  "category": "war",
+  "location": "Myanmar",
+  "lives_lost": 1400,
+  "description": "On February 1, the Myanmar military seized power in a coup, detaining elected leader Aung San Suu Kyi and triggering nationwide civil disobedience and protests. Security forces responded with lethal force, and by the end of 2021 more than 1,400 civilians had been killed and over 10,000 detained, according to monitoring groups such as the Assistance Association for Political Prisoners.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "BBC News"
+  ],
+  "archive_id": "events-0a0e5eeb6f455ec4f827",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Primary December 6 briefing reports 1,303 killed and 7,796 currently detained. Year-end more-than-1,400 and over-10,000 need December 31 evidence and a distinction between all arrested and still detained. These are cumulative post-coup deaths, not February 1 deaths. Only one source was established in this batch, below the two-source publication minimum.",
+   "sources": [
+    {
+     "name": "AAPP",
+     "url": "https://aappb.org/daily-briefing-in-relation-to-the-military-coup-256/"
+    }
+   ]
+  }
  },
  {
   "date": "2024-02-02",
@@ -81,7 +287,77 @@
   "source_urls": [
    "https://www.latercera.com/nacional/noticia/megaincendio-en-valparaiso-fiscalia-confirma-138-fallecidos-y-tribunal-extiende-plazo-de-investigacion/?outputType=base-amp-type",
    "https://www.unicef.org/media/153531/file/Chile-Humanitarian-Flash-Report-No.2-%28Wildfire%29-07-March-2024.pdf"
-  ]
+  ],
+  "archive_id": "events-d6fadf4cd9db14d75c3d"
+ },
+ {
+  "date": "2023-02-06",
+  "title": "Turkey–Syria earthquake",
+  "category": "natural-disaster",
+  "location": "Kahramanmaraş, Turkey",
+  "lives_lost": 59000,
+  "description": "A magnitude 7.8 earthquake struck near the Turkey–Syria border at 4:17 a.m., followed by a magnitude 7.5 aftershock hours later, collapsing thousands of buildings across southeastern Turkey and northern Syria. More than 59,000 people were confirmed dead, including about 50,700 in Turkey and over 5,900 in Syria, with an estimated 1.5 million people left homeless. It was one of the deadliest earthquakes in the region in modern history, compounded in Syria by the country's ongoing civil war.",
+  "sources": [
+   "BBC News",
+   "United Nations OCHA",
+   "Reuters"
+  ],
+  "archive_id": "events-07f181b5fe5482d2c7db",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "February 6 UTC is correct, but original country subtotals do not sum to 59,000. EEFIT gives 62,013 (53,537 Turkey plus 8,476 Syria); secondary compilation also records a lower Syrian count of 5,951. A defensible harmonized cross-border confirmed total and cutoff remain unresolved. Avoid selecting one exact total without reconciling Syrian coverage; 04:17 is local, 01:17 UTC.",
+   "sources": [
+    {
+     "name": "EEFIT",
+     "url": "https://discovery.ucl.ac.uk/id/eprint/10186995/1/2023TurkiyeEQ_EEFIT_Report_f.pdf"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/europe/emergencies/situations/turkiye-and-syria-earthquakes"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquakes"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2021-02-07",
+  "title": "Chamoli rock and ice avalanche",
+  "category": "natural-disaster",
+  "location": "Uttarakhand, India",
+  "lives_lost": 200,
+  "description": "A massive rock and ice avalanche from Ronti Peak caused the Chamoli disaster in Uttarakhand on February 7, 2021. Debris swept down the Rishiganga and Dhauliganga valleys and damaged two hydropower projects. Roughly 200 people were killed or remained missing; this is a combined dead-and-missing estimate.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "The Guardian"
+  ],
+  "archive_id": "events-8a4ea23fa6ab7eda709a",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "Scientific reconstruction identifies rock and glacier ice from Ronti Peak, not simply Nanda Devi glacier breaking off. About 200 is dead-and-missing, not 200 recovered/confirmed bodies. A combined killed-or-missing estimate cannot establish 200 deaths for the lives_lost field. Retain the supported avalanche mechanism but withhold until a death-only or legally presumed-dead count is supported.",
+   "sources": [
+    {
+     "name": "USGS / Science",
+     "url": "https://pubs.usgs.gov/publication/70221399"
+    },
+    {
+     "name": "Natural Hazards and Earth System Sciences",
+     "url": "https://nhess.copernicus.org/articles/22/3309/2022/"
+    }
+   ]
+  }
  },
  {
   "date": "2020-02-08",
@@ -97,7 +373,40 @@
   "source_urls": [
    "https://www.euronews.com/2020/02/08/thai-soldier-kills-at-least-17-in-gun-rampage-streamed-on-facebook",
    "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_shootings"
-  ]
+  ],
+  "archive_id": "events-b0caf712ca5d0f768bcf"
+ },
+ {
+  "date": "2021-02-13",
+  "title": "Texas winter-weather disaster, February 2021",
+  "category": "natural-disaster",
+  "location": "Texas, United States",
+  "lives_lost": 246,
+  "description": "Severe winter weather and power failures left millions of Texans without essential services in February 2021. Texas health officials ultimately identified 246 storm-related deaths, including 158 from hypothermia. The total covers deaths from February 11 through June 4, including later deaths linked to the disaster, rather than deaths on February 13 alone.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "National Weather Service"
+  ],
+  "archive_id": "events-83631ee3c7f05cef6a5d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "246 is the state's broad February winter-storm total, including deaths through June and multiple weather episodes; not necessarily all caused by a single storm starting February 13. 158 hypothermia deaths supported. The broader February winter-weather total is supported, but February 13 is not established as the start date of that matched scope. A specific storm-name/date cannot silently stand in for several weather episodes.",
+   "sources": [
+    {
+     "name": "Texas Department of State Health Services",
+     "url": "https://www.dshs.texas.gov/sites/default/files/news/updates/SMOC_FebWinterStorm_MortalitySurvReport_12-30-21.pdf"
+    },
+    {
+     "name": "Texas Comptroller",
+     "url": "https://comptroller.texas.gov/economy/fiscal-notes/archive/2021/oct/winter-storm-impact.php"
+    }
+   ]
+  }
  },
  {
   "date": "2022-02-15",
@@ -113,7 +422,8 @@
   "source_urls": [
    "https://www.sciencedirect.com/science/article/pii/S2212095524000452",
    "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/02/28/petropolis-sobe-para-231-o-numero-de-mortos-por-chuvas-ha-5-desaparecidos.htm"
-  ]
+  ],
+  "archive_id": "events-6e677432c4607c4ab727"
  },
  {
   "date": "2020-02-19",
@@ -131,7 +441,40 @@
    "https://www.pbs.org/newshour/amp/world/police-say-8-killed-in-shootings-in-the-german-city-of-hanau",
    "https://abcnews.com/International/dead-shooting-german-city-hanau/story?id=69082981",
    "https://ctc.westpoint.edu/hanau-terrorist-attack-race-hate-conspiracy-theories-fueling-global-far-right-violence/"
-  ]
+  ],
+  "archive_id": "events-dd1f3f9c31c2e64c91d7"
+ },
+ {
+  "date": "2022-02-24",
+  "title": "Russian Invasion of Ukraine — Start of Full-Scale War",
+  "category": "war",
+  "location": "Ukraine",
+  "lives_lost": 100000,
+  "description": "Russia launched a full-scale invasion of Ukraine, the largest conventional military attack in Europe since World War II. Tens of thousands of civilians and soldiers have been killed, and millions displaced.",
+  "sources": [
+   "United Nations",
+   "BBC News"
+  ],
+  "archive_id": "events-057256bbf7bf9f6b82e6",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Full-scale invasion began February 24, not March 24. Duplicates original February 24 invasion record. 100,000 lacks date, civilian/military definition and source; possible confusion of casualties with deaths. Merge/remove decision belongs to maintainer; do not apply date correction without duplicate review.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2022/02/24/russia-launches-special-military-operations-in-east-ukraine"
+    },
+    {
+     "name": "OHCHR",
+     "url": "https://ukraine.un.org/uk/download/125227/216275"
+    }
+   ]
+  }
  },
  {
   "date": "2022-02-24",
@@ -147,7 +490,41 @@
   "source_urls": [
    "https://www.hrw.org/world-report/2023/country-chapters/ukraine",
    "https://ukraine.un.org/uk/download/125227/216275"
-  ]
+  ],
+  "archive_id": "events-ac9127f37b97483f29ed"
+ },
+ {
+  "date": "2020-02-27",
+  "title": "Balyun airstrikes on Turkish troops",
+  "category": "war",
+  "location": "Idlib, Syria",
+  "lives_lost": 34,
+  "description": "On 27 February 2020, during the Idlib offensive in northwestern Syria, an airstrike attributed to the Syrian and Russian air forces hit a convoy of a Turkish mechanized infantry battalion near Balyun. Turkey reported 34 soldiers killed (33-34 depending on the official source) and more than 30 wounded, making it the deadliest attack on Turkish forces in Syria. Turkey responded by launching Operation Spring Shield, which ended in a Russia-Turkey ceasefire on 5 March 2020.",
+  "sources": [
+   "BBC News",
+   "Reuters",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-21620f601769d33ace50",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "33/34 official tallies vary, with later reports higher. Russian involvement is disputed rather than established. Must distinguish March 5 ceasefire agreement from its March 6 effective time and establish actual strike location/building versus convoy with primary/reputable reporting.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Balyun_airstrikes"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war_%282020%29"
+    }
+   ]
+  }
  },
  {
   "date": "2023-02-28",
@@ -163,7 +540,8 @@
   "source_urls": [
    "https://ny1.com/nyc/all-boroughs/ap-top-news/2025/02/27/greek-rail-disaster-report-cites-errors-and-major-systemic-failures",
    "https://en.wikipedia.org/wiki/Tempi_train_crash"
-  ]
+  ],
+  "archive_id": "events-b83aa04ec4431d25fc13"
  },
  {
   "date": "2022-03-04",
@@ -181,7 +559,8 @@
    "https://www.ksat.com/news/world/2022/03/05/pakistan-vows-to-arrest-masterminds-of-is-mosque-attack/",
    "https://www.thenews.com.pk/latest/938922-death-toll-in-suicide-attack-on-peshawar-mosque-rises-to-63",
    "https://www.geo.tv/latest/402906-live-several-injured-as-bomb-explodes-in-peshawar-mosque"
-  ]
+  ],
+  "archive_id": "events-ac366d287608291fc89b"
  },
  {
   "date": "2021-03-16",
@@ -197,7 +576,8 @@
   "source_urls": [
    "https://apnews.com/article/4d1f760a93617d5c92d78ddb812310cd",
    "https://www.washingtonpost.com/nation/2021/03/16/atlanta-spa-shootings/"
-  ]
+  ],
+  "archive_id": "events-161a74d299080329ada4"
  },
  {
   "date": "2022-03-21",
@@ -215,7 +595,8 @@
    "https://www.caac.gov.cn/XXGK/XXGK/TZTG/202204/t20220420_212895.html",
    "https://www.caac.gov.cn/English/News/202305/t20230515_219685.html",
    "https://abcnews.com/amp/International/abnormalities-found-china-plane-crash-investigators/story?id=84191834"
-  ]
+  ],
+  "archive_id": "events-8bffd620cfddd05f702b"
  },
  {
   "date": "2021-03-22",
@@ -231,7 +612,8 @@
   "source_urls": [
    "https://coloradonewsline.com/2021/03/23/boulder-suspect-bought-assault-weapon-six-days-before-shooting/",
    "https://www.10news.com/news/national/colorado-grocery-store-shooting-affidavit-for-suspect-says-he-bought-weapon-6-days-before-shooting"
-  ]
+  ],
+  "archive_id": "events-7a98c5b681ece1d1a919"
  },
  {
   "date": "2024-03-22",
@@ -247,7 +629,108 @@
   "source_urls": [
    "https://spectrumlocalnews.com/tx/austin/ap-top-news/2025/08/04/trial-begins-for-suspects-in-2024-moscow-concert-hall-attack-that-killed-149-people",
    "https://en.wikipedia.org/wiki/Crocus_City_Hall"
-  ]
+  ],
+  "archive_id": "events-76b0dd0cfcde3db51141"
+ },
+ {
+  "date": "2021-04-01",
+  "title": "India's second COVID-19 wave",
+  "category": "natural-disaster",
+  "location": "India",
+  "lives_lost": 400000,
+  "description": "India was overwhelmed by a second wave of COVID-19 driven by the Delta variant from April to June 2021, when hospitals, crematoria, and oxygen supplies ran out in Delhi and other cities. India officially recorded about 400,000 COVID-19 deaths during 2021, the vast majority during this wave, while independent estimates such as the World Health Organization's excess-death analysis placed the true toll far higher.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "World Health Organization"
+  ],
+  "archive_id": "events-b0802c96807d16e426ad",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "400,000 appears to conflate a cumulative pandemic milestone with calendar-2021 deaths and with the April-June wave. The later study estimates 2.4 million excess deaths in 2021 at 7.2 times reported COVID deaths, inconsistent with 400,000 as the annual official count. April 1 is not established as a discrete event date; do not replace reported deaths with excess mortality without changing scope.",
+   "sources": [
+    {
+     "name": "Epidemiology and Health",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12615008/"
+    },
+    {
+     "name": "India Press Information Bureau",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1742216&lang=2&reg=48"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-04-02",
+  "title": "Bucha massacre",
+  "category": "war",
+  "location": "Bucha, Ukraine",
+  "lives_lost": 458,
+  "description": "After Russian forces withdrew from Bucha in early April 2022, Ukrainian authorities discovered mass graves and the bodies of hundreds of civilians killed during the month-long occupation of the town. Ukrainian officials recovered 458 bodies, most showing signs of shooting, torture, or other violent trauma. OHCHR documented at least 73 unlawful killings in Bucha itself and reported more than 1,300 killings across the wider Bucha district, describing the massacre as a grave violation of international law.",
+  "sources": [
+   "OHCHR",
+   "BBC News",
+   "The New York Times"
+  ],
+  "archive_id": "events-18600abc312057ab6961",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Municipal 458 includes 39 apparently natural deaths and one bag of remains; not 458 established unlawful killings. OHCHR records 422 bodies recovered by September and 73 documented civilian killings during March 4-30. April 2 is discovery/reporting period, not killing date. Wider 1,300 appears Kyiv-region rather than town-specific and attribution needs correction; retain contradictory denominators.",
+   "sources": [
+    {
+     "name": "OHCHR",
+     "url": "https://www.ohchr.org/sites/default/files/2022-12/2022-12-07-OHCHR-Thematic-Report-Killings-EN.pdf"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www-staging.washingtonpost.com/world/2022/08/08/ukraine-bucha-bodies/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-04-11",
+  "title": "KwaZulu-Natal floods",
+  "category": "natural-disaster",
+  "location": "KwaZulu-Natal, South Africa",
+  "lives_lost": 435,
+  "description": "Heavy rain and flooding devastated KwaZulu-Natal, including Durban, in April 2022. On May 3, the provincial government reported 435 deaths and 63 people still missing. Homes, roads, bridges and water infrastructure were extensively damaged. April 11 anchors the multi-day flooding episode.",
+  "sources": [
+   "eThekwini Municipality",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-1fbacf8c050eb61f86e7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "435 is supported as May 3 reported toll, with 63 missing, not a timeless final number. Remove unneeded historical superlative. April 11 remains an unestablished selection within the multi-day episode in the evidence reviewed; the dated May 3 mortality report does not establish that event date.",
+   "sources": [
+    {
+     "name": "South African Government",
+     "url": "https://www.gov.za/news/media-statements/premier-sihle-zikalala-update-response-floods-kwazulu-natal-03-may-2022"
+    },
+    {
+     "name": "South Africa Department of Water and Sanitation",
+     "url": "https://www.dws.gov.za/Projects/National%20State%20of%20Water%20Report/Documents/National%20State%20of%20Water%20Report%202022.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2023-04-15",
@@ -263,7 +746,76 @@
   "source_urls": [
    "https://acleddata.com/update/sudan-situation-update-december-2023-unraveling-conflict-dynamics-darfur",
    "https://acleddata.com/methodology/how-interpret-acleds-fatality-records-sudan"
-  ]
+  ],
+  "archive_id": "events-cf83b3e70008ed077466"
+ },
+ {
+  "date": "2024-04-26",
+  "title": "Kenya Floods and Landslides",
+  "category": "natural-disaster",
+  "location": "Kenya",
+  "lives_lost": 315,
+  "description": "Heavy seasonal rains caused floods and landslides across Kenya in 2024. UNICEF's June 24 snapshot recorded 315 deaths, 38 missing people, 188 injuries and 293,205 displaced people nationwide. These are cumulative seasonal figures, not the toll of one day in Nairobi.",
+  "sources": [
+   "Al Jazeera",
+   "Reuters",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ],
+  "archive_id": "events-7a30e0faa5ba11d3d392",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "June 24 national snapshot supports 315 dead, 38 missing, 188 injured and 293,205 displaced, not 291 deaths or hundreds missing. April 26 is not established as onset of this March-June seasonal event. No supported exact replacement day; withhold pending date resolution. National-disaster declaration and dam-breach claims omitted.",
+   "sources": [
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/media/160156/file/UNICEF%20Kenya%20Humanitarian%20Situation%20Report%20No.%2001-%20Mid-Year%202024.pdf.pdf"
+    },
+    {
+     "name": "ACAPS",
+     "url": "https://www.acaps.org/fileadmin/Data_Product/Main_media/20240514_ACAPS_Briefing_note_Kenya_Floods.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-05-01",
+  "title": "Rio Grande do Sul Floods",
+  "category": "natural-disaster",
+  "location": "Rio Grande do Sul, Brazil",
+  "lives_lost": 183,
+  "description": "Heavy rain in late April and May 2024 caused widespread flooding in Rio Grande do Sul, including Porto Alegre. Brazil's Senate reported 183 deaths, 806 injuries and 27 missing people in its December 2024 review, with 478 municipalities affected.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Associated Press"
+  ],
+  "archive_id": "events-64925aad2d984a7b1376",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "183 deaths, 806 injuries and 27 missing are supported retrospectively. May 1 is an emergency-declaration date, not established flood onset. IFRC dates intense rains from April 29; other accounts start April 27. Preserve this onset ambiguity rather than declare a placeholder verified. Proposed prose removes unneeded displacement precision.",
+   "sources": [
+    {
+     "name": "Rio Grande do Sul Civil Defense",
+     "url": "https://www.defesacivil.rs.gov.br/defesa-civil-atualiza-balanco-das-enchentes-no-rs-10-7-66b67813ba21f"
+    },
+    {
+     "name": "Brazilian Senate",
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/12/05/comissao-temporaria-do-rio-grande-do-sul-aprova-relatorio-final"
+    },
+    {
+     "name": "IFRC",
+     "url": "https://www.ifrc.org/emergency/brazil-rio-grande-do-sul-floods"
+    }
+   ]
+  }
  },
  {
   "date": "2021-05-04",
@@ -279,7 +831,8 @@
   "source_urls": [
    "https://www.researchgate.net/publication/352868812_COLLAPSE_OF_THE_MEXICO_CITY_METRO_OVERPASS",
    "https://en.wikipedia.org/wiki/Mexico_City_Metro_overpass_collapse"
-  ]
+  ],
+  "archive_id": "events-88fca0104282c961a041"
  },
  {
   "date": "2023-05-04",
@@ -295,7 +848,45 @@
   "source_urls": [
    "https://monusco.unmissions.org/en/news/plea-for-kalehe-one-of-the-worst-natural-disasters-in-the-history-of-the-democratic-0",
    "https://www.unicef.org/media/140136/file/DRC-Humanitarian-SitRep-No.1-%28Flooding-in-Kalehe-Territory%29-13-May-2023.pdf"
-  ]
+  ],
+  "archive_id": "events-09de8cf09f4b71b80206"
+ },
+ {
+  "date": "2020-05-06",
+  "title": "Visakhapatnam LG Polymers gas leak",
+  "category": "industrial",
+  "location": "Visakhapatnam, India",
+  "lives_lost": 13,
+  "description": "In the early hours of 7 May 2020, styrene gas leaked from a sealed storage tank at the LG Polymers chemical plant on the outskirts of Visakhapatnam, Andhra Pradesh, India. The National Disaster Response Force reported 13 deaths and more than 1,000 people sickened, with about 300 hospitalized, many of them villagers and workers asleep during the nationwide COVID-19 lockdown. The leak was compared to the 1984 Bhopal gas disaster and led to arrests of company officials.",
+  "sources": [
+   "National Disaster Response Force (NDRF)",
+   "BBC News",
+   "The Indian Express"
+  ],
+  "archive_id": "events-aa2f4c8aba5a6fcd5fb2",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "02:30-03:00 May 7 IST is May 6 UTC. Supported UTC correction; exact final death count and attribution to NDRF, hospitalization counts and sealed-tank wording require further final-source reconciliation.",
+   "sources": [
+    {
+     "name": "India National Centre for Disease Control",
+     "url": "https://ncdc.mohfw.gov.in/uploads/resource/1769334825_CE-1.pdf"
+    },
+    {
+     "name": "The Hindu",
+     "url": "https://www.youtube.com/watch?v=jZ4IFzrq3b4"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Visakhapatnam_gas_leak"
+    }
+   ]
+  }
  },
  {
   "date": "2023-05-06",
@@ -311,7 +902,82 @@
   "source_urls": [
    "https://www.texastribune.org/2023/05/06/allen-shooting-outlet-mall/",
    "https://en.wikipedia.org/wiki/2023_Allen%2C_Texas%2C_mall_shooting"
-  ]
+  ],
+  "archive_id": "events-40bd5d37da165ec7bc66"
+ },
+ {
+  "date": "2021-05-10",
+  "title": "Eleven-day Gaza conflict",
+  "category": "war",
+  "location": "Gaza Strip and Israel",
+  "lives_lost": 256,
+  "description": "An 11-day war between Israel and Hamas erupted after weeks of tension in Jerusalem, with Israeli airstrikes and Palestinian rocket fire striking densely populated areas. At least 256 Palestinians, including 66 children, and 13 people in Israel were killed. More than 100,000 Gazans were displaced before a ceasefire took effect on May 21.",
+  "sources": [
+   "Reuters",
+   "Al Jazeera",
+   "BBC News"
+  ],
+  "archive_id": "events-7a2dbe24c717e40b3aad",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "256 is Gaza-only, while record title/location and description include Israel. Same-cutoff Palestinian/Israeli totals must be reconciled before choosing a combined integer; original description's 256+13 is 269. Counts also revised after ceasefire. Start May 10 supported, not all deaths on that day.",
+   "sources": [
+    {
+     "name": "World Bank",
+     "url": "https://www.worldbank.org/en/news/press-release/2021/07/06/the-rebuilding-of-gaza-amid-dire-conditions-damage-losses-and-needs"
+    },
+    {
+     "name": "UN OCHA",
+     "url": "https://www.ochaopt.org/content/gaza-strip-escalation-hostilities-10-21-may-2021"
+    },
+    {
+     "name": "Human Rights Watch",
+     "url": "https://www.hrw.org/news/2021/05/28/qa-2021-hostilities-between-israel-and-palestinian-armed-groups"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-05-10",
+  "title": "Baghlan Flash Floods",
+  "category": "natural-disaster",
+  "location": "Baghlan Province, Afghanistan",
+  "lives_lost": 315,
+  "description": "On May 10, 2024, heavy seasonal rainfall caused flash floods that swept through villages in northern Afghanistan, most severely in Baghlan Province. United Nations agencies reported at least 315 people killed and more than 1,600 injured, with tens of thousands of homes destroyed or damaged and several thousand people displaced.",
+  "sources": [
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "Associated Press",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-d9e50cda712ef2437ee8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "315 and over 1,600 injuries were Taliban/refugee-ministry figures, not established UN totals. UNICEF's May report gives preliminary 180 deaths/280 injuries across May 10-11 northeastern flooding; WHO gives over 180/242. Counts and geographic scopes conflict. Tens of thousands of homes is unsupported; RFE/RL cites 2,660 destroyed. Need reconciled Baghlan-specific total.",
+   "sources": [
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/afghanistan-flash-floods-deaths-taliban/32943079.html"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/afghanistan/media/10276/file/UNICEF%20Afghanistan%20Humanitarian%20Situation%20Report%20No.%205%20-%20May%202024.pdf.pdf"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.emro.who.int/images/stories/afghanistan/flood-sitrep-13-may-2024.pdf?ua=1"
+    }
+   ]
+  }
  },
  {
   "date": "2020-05-12",
@@ -327,7 +993,8 @@
   "source_urls": [
    "https://www.msf.org/fifteen-mothers-confirmed-killed-kabul-maternity-attack-afghanistan",
    "https://www.msf.org.za/news-and-resources/press-release/afghanistan-one-month-after-massacre-our-maternity-ward-why-msf"
-  ]
+  ],
+  "archive_id": "events-be68150c227650d4f3b9"
  },
  {
   "date": "2022-05-14",
@@ -345,7 +1012,79 @@
    "https://en.wikipedia.org/wiki/2022_Buffalo_shooting",
    "https://www.washingtonpost.com/national-security/2023/02/15/buffalo-shooting-gendron-sentencing/",
    "https://www.btpm.org/crime/2022-11-17/accused-tops-massacre-gunman-expected-to-plead-guilty-to-state-charges-on-monday"
-  ]
+  ],
+  "archive_id": "events-21336b0683fe536ca79f"
+ },
+ {
+  "date": "2020-05-20",
+  "title": "Cyclone Amphan",
+  "category": "natural-disaster",
+  "location": "West Bengal, India and Bangladesh",
+  "lives_lost": 133,
+  "description": "Cyclone Amphan, the first super cyclonic storm in the Bay of Bengal since 1999, made landfall near Bakkhali in West Bengal, India on 20 May 2020 with winds up to 260 km/h. The storm killed 133 people in total, including 103 in India (most in West Bengal) and 26 in Bangladesh, and displaced millions. Amphan severely damaged Kolkata and the Sundarbans, and its landfall during the COVID-19 pandemic complicated evacuation and relief efforts.",
+  "sources": [
+   "India Meteorological Department",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-3abe0e593392ad2db129",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "May 20 landfall supported. Landfall winds were 155-165 km/h, gusting 185, not 260; 260 confuses peak offshore strength with landfall. 103+26 does not sum to 133 and remaining country scope is absent. Need final reconciled toll; first Bay-of-Bengal super-cyclone-since-1999 claim also needs authoritative check.",
+   "sources": [
+    {
+     "name": "India Meteorological Department",
+     "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1631493&lang=2&reg=48"
+    },
+    {
+     "name": "UN University",
+     "url": "https://digitallibrary.un.org/record/4067981/files/Cyclone_Amphan_TR_210906.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2023-05-20",
+  "title": "Battle of Bakhmut",
+  "category": "war",
+  "location": "Bakhmut, Ukraine",
+  "lives_lost": 20000,
+  "description": "Russian forces completed their capture of the eastern Ukrainian city of Bakhmut on May 20, 2023, ending one of the bloodiest battles of the Russia–Ukraine war, which had raged for about ten months. U.S. officials estimated that roughly 20,000 Russian soldiers had been killed in the battle, with tens of thousands more wounded, and Ukrainian officials reported thousands of their own soldiers killed; the city was reduced to ruins. Independent verification of exact casualties was not possible due to the secrecy of the warring sides.",
+  "sources": [
+   "The New York Times",
+   "Reuters",
+   "Institute for the Study of War"
+  ],
+  "archive_id": "events-ee4d41d6544643f082ad",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "The Post corrected its report: the U.S. estimate covered Russian losses across Ukraine, not Bakhmut alone. Battle-specific fatalities and the claimed thousands of Ukrainian deaths remain unverified. May 20 was a Russian capture claim disputed by Ukraine; do not present it as an uncontested end date. A reliable replacement battle toll is unavailable.",
+   "sources": [
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/world/2023/04/30/russia-ukraine-war-news-2/"
+    },
+    {
+     "name": "The War Zone",
+     "url": "https://www.twz.com/ukraine-situation-report-100k-russian-casualties-in-bakhmut-since-december-white-house-says"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Bakhmut"
+    }
+   ]
+  }
  },
  {
   "date": "2022-05-24",
@@ -361,7 +1100,8 @@
   "source_urls": [
    "https://www.justice.gov/archives/opa/pr/justice-department-releases-report-its-critical-incident-review-response-mass-shooting-robb",
    "https://en.wikipedia.org/wiki/Uvalde_school_shooting"
-  ]
+  ],
+  "archive_id": "events-474c1c7b9627b247bd03"
  },
  {
   "date": "2023-06-02",
@@ -377,7 +1117,45 @@
   "source_urls": [
    "https://sansad.in/getFile/annex/260/AU2680.pdf?source=pqars",
    "https://en.wikipedia.org/wiki/2023_Odisha_train_collision"
-  ]
+  ],
+  "archive_id": "events-a793b22c62f4e4b02558"
+ },
+ {
+  "date": "2022-06-04",
+  "title": "BM Container Depot fire and explosions (Sitakunda)",
+  "category": "industrial",
+  "location": "Sitakunda, Chattogram, Bangladesh",
+  "lives_lost": 49,
+  "description": "A fire broke out at the BM Container Depot near Sitakunda, Bangladesh, on 4 June 2022, igniting chemicals stored in shipping containers and triggering a series of massive explosions. At least 49 people were killed and more than 450 injured, many of them firefighters and workers who had tried to contain the initial blaze. The explosions hurled containers hundreds of metres, in one of Bangladesh's deadliest industrial accidents.",
+  "sources": [
+   "BBC News",
+   "Al Jazeera",
+   "Reuters"
+  ],
+  "archive_id": "events-4c0a544a5172e5a4cf88",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "June 4 fire established. Initial 49 was explicitly corrected to 41 after a miscount; later secondary sources say at least 47. Need eventual reconciled death tally rather than reinstating erroneous initial total. More-than-450 injured and explosion-distance details also not established.",
+   "sources": [
+    {
+     "name": "bdnews24",
+     "url": "https://bdnews24.com/bangladesh/death-toll-from-bm-depot-fire-revised-down-to-41-as-bangladesh-fixes-miscount"
+    },
+    {
+     "name": "The Daily Star",
+     "url": "https://www.thedailystar.net/news/bangladesh/accidents-fires/news/ctg-depot-fire-death-toll-revised-41-3040706"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2022_Sitakunda_fire"
+    }
+   ]
+  }
  },
  {
   "date": "2021-06-05",
@@ -395,7 +1173,83 @@
    "https://www.unicef.org/wca/press-releases/following-armed-attack-solhan-unicef-provides-emergency-assistance-9000-displaced",
    "https://www.lemonde.fr/afrique/article/2021/06/07/au-burkina-faso-l-horreur-et-la-sideration-apres-l-attaque-qui-a-fait-160-morts_6083184_3212.html",
    "https://www.hrw.org/fr/news/2021/06/08/le-burkina-faso-site-du-dernier-massacre-commis-par-des-islamistes-armes-au-sahel"
-  ]
+  ],
+  "archive_id": "events-981d7f7c20011666e20b"
+ },
+ {
+  "date": "2021-06-10",
+  "title": "Tigray famine",
+  "category": "food-crisis",
+  "location": "Tigray Region, Ethiopia",
+  "lives_lost": 190000,
+  "description": "Amid the war between Ethiopian federal forces and the Tigray People's Liberation Front, the United Nations declared a famine in parts of Tigray in June 2021 as an aid blockade prevented food from reaching millions of people. Research from Ghent University estimated that 162,000 to 191,000 people died from violence and starvation-related causes in Tigray between November 2020 and June 2022, most of them during 2021.",
+  "sources": [
+   "UN News",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-51881fff6800c6d62745",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "title",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "IPC explicitly says evidence did not support area-level Famine classification; household Catastrophe is different. 190,000 is not a measured June 2021 famine toll. Underlying Ghent estimate, cause categories, November 2020-June 2022 interval and 'most during 2021' require original study; do not label estimate a UN-declared famine's deaths.",
+   "sources": [
+    {
+     "name": "IPC",
+     "url": "https://www.ipcinfo.org/ipcinfo-website/alerts-archive/issue-42/tr/"
+    },
+    {
+     "name": "IPC",
+     "url": "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Ethiopia_Acute_Food_Insecurity_2021MaySept_Snapshot.pdf"
+    },
+    {
+     "name": "UK House of Commons Library",
+     "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9147/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-06-14",
+  "title": "Pakistan floods",
+  "category": "natural-disaster",
+  "location": "Pakistan",
+  "lives_lost": 1739,
+  "description": "Monsoon flooding in Pakistan beginning in June 2022 affected more than 33 million people. UNICEF's retrospective reporting records 1,739 deaths and more than 2.2 million homes damaged or destroyed across the flood-affected areas.",
+  "sources": [
+   "National Disaster Management Authority of Pakistan",
+   "UN OCHA",
+   "Reuters"
+  ],
+  "archive_id": "events-1a717f5796f6b672ecd7",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "1,739 is a retrospective national total, not the toll on the June start date. UNICEF repeats the one-third-underwater claim, but mapped inundation summarized in the secondary source is substantially smaller; remove this disputed extent and unverified injury/climate details rather than assert them. June 14 is the flood-period anchor, not a one-day disaster. The exact June 14 onset anchor was not corroborated beyond the secondary summary; UNICEF establishes the June-to-seasonal disaster, not this precise day.",
+   "sources": [
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/media/143831/file/Pakistan-Humanitarian-SitRep-No.13%2C-January-to-June%202023.pdf"
+    },
+    {
+     "name": "UNICEF",
+     "url": "https://www.unicef.org/pakistan/one-year-road-recovery-continues-flood-affected-children-pakistan"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2022_Pakistan_floods"
+    }
+   ]
+  }
  },
  {
   "date": "2024-06-14",
@@ -411,7 +1265,8 @@
   "source_urls": [
    "https://applications.emro.who.int/docs/WHOEMCSR760E-eng.pdf",
    "https://atlas.balady.gov.sa/en/hajj-and-umrah-in-data/"
-  ]
+  ],
+  "archive_id": "events-107531e859a7854d92d5"
  },
  {
   "date": "2023-06-16",
@@ -427,7 +1282,8 @@
   "source_urls": [
    "https://www.ugandaradionetwork.net/story/update-42-died-in-kasese-adf-attack-mpondwe-lhubiriha-ss-closed",
    "https://www.monitor.co.ug/uganda/news/national/adf-rebels-burn-40-students-to-death-in-mpondwe-4274190"
-  ]
+  ],
+  "archive_id": "events-1fc233571d567b9cb204"
  },
  {
   "date": "2022-06-21",
@@ -445,7 +1301,8 @@
    "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj3u",
    "https://afghanistan.un.org/prs/download/131380/227956",
    "https://www.emro.who.int/images/stories/afghanistan/earthquake-sit-rep-7.pdf"
-  ]
+  ],
+  "archive_id": "events-b32a2fd7906b1d2bc555"
  },
  {
   "date": "2021-06-24",
@@ -461,7 +1318,41 @@
   "source_urls": [
    "https://www.nist.gov/disaster-and-failure-studies/champlain-towers-south-collapse",
    "https://www.nist.gov/news-events/news/2025/02/nist-report-congress-provides-update-champlain-towers-south-investigation"
-  ]
+  ],
+  "archive_id": "events-97247789bfdfab5c52c4"
+ },
+ {
+  "date": "2021-06-25",
+  "title": "Pacific Northwest heat dome",
+  "category": "natural-disaster",
+  "location": "Pacific Northwest, United States and Canada",
+  "lives_lost": 800,
+  "description": "An exceptional heat dome pushed temperatures to records across the Pacific Northwest, with Lytton, British Columbia, reaching 49.6°C (121.3°F), Canada's hottest temperature ever recorded. The heat is estimated to have caused about 800 deaths or more across Canada and the U.S., mostly among elderly and vulnerable people in homes without air conditioning.",
+  "sources": [
+   "CBC News",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-49aca1438334e804e10d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "June 25-July 1 period, Lytton 49.6 C on June 29 and 619 heat-related BC deaths established. More than 800 investigated BC deaths is not the same as heat-attributed deaths. Need independent US/other-Canada totals and interval to substantiate combined about-800 figure and household demographics.",
+   "sources": [
+    {
+     "name": "British Columbia Coroners Service",
+     "url": "https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/extreme_heat_death_review_panel_report.pdf"
+    },
+    {
+     "name": "Government of Canada",
+     "url": "https://ised-isde.canada.ca/site/science/en/blogs/science-health/surviving-heat-impacts-2021-western-heat-dome-canada"
+    }
+   ]
+  }
  },
  {
   "date": "2020-07-01",
@@ -477,7 +1368,8 @@
   "source_urls": [
    "https://animalpolitico.com/2020/08/cierre-centros-rehabilitacion-carteles-guanajuato",
    "https://www.jornada.com.mx/noticia/2020/07/07/estados/del-csrl-los-tres-detenidos-por-la-matanza-en-irapuato-7522"
-  ]
+  ],
+  "archive_id": "events-4c0440d8b7a4385c8c90"
  },
  {
   "date": "2022-07-04",
@@ -493,7 +1385,105 @@
   "source_urls": [
    "https://news.wttw.com/2022/07/27/21-year-old-man-charged-highland-park-parade-shooting-indicted-117-counts",
    "https://www.axios.com/2022/08/03/highland-park-shooting-robert-crimo-plea"
-  ]
+  ],
+  "archive_id": "events-d55834a1756e448d61a4"
+ },
+ {
+  "date": "2021-07-14",
+  "title": "Western European floods",
+  "category": "natural-disaster",
+  "location": "Germany and Belgium",
+  "lives_lost": 240,
+  "description": "Unprecedented rainfall caused devastating flash floods in western Germany, particularly the Ahr and Erft valleys, and eastern Belgium along the Vesdre river. Around 240 people died, roughly 189 of them in Germany, with dozens more killed in Belgium and other neighboring countries. Thousands lost homes, and scientists linked the extreme rainfall to climate change.",
+  "sources": [
+   "Deutsche Welle",
+   "Reuters",
+   "BBC News"
+  ],
+  "archive_id": "events-b494d2a2bda3301e38fa",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "July event/weather mechanisms supported. Final geographic death totals vary across updates: secondary totals reach 243 including 196 Germany, not 189. Need primary final country breakdown and attribution study before replacing broad 240 estimate.",
+   "sources": [
+    {
+     "name": "Copernicus",
+     "url": "https://climate.copernicus.eu/esotc/2021/flooding-july"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2021_European_floods"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-07-15",
+  "title": "2022 European heatwaves",
+  "category": "natural-disaster",
+  "location": "Europe",
+  "lives_lost": 61672,
+  "description": "A Nature Medicine study estimated 61,672 heat-related deaths across 35 European countries between May 30 and September 4, 2022, with a 95% confidence interval of 37,643-86,807. A later methodological study inferred roughly 70,066 deaths for the full year, a different time scope. These are statistical estimates, not individually confirmed deaths.",
+  "sources": [
+   "Barcelona Institute for Global Health (Nature Medicine)",
+   "Reuters",
+   "UK Met Office"
+  ],
+  "archive_id": "events-88c57ab3ede207a586b8",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "61,672 is a modeled summer estimate for May 30-September 4, not a July 15 toll. The first study's annual estimate was 62,862; the later paper inferred 70,066 for the whole year, not an interchangeable revised summer count. Use the defined study-period start and omit unresearched national temperature records. May 30 is the documented study-interval start, not a verified discrete heat-disaster date. The corrected estimate and interval are supported, but the single-day calendar representation needs resolution before publication.",
+   "sources": [
+    {
+     "name": "Nature Medicine",
+     "url": "https://www.nature.com/articles/s41591-023-02419-z"
+    },
+    {
+     "name": "The Lancet Regional Health - Europe",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10769891/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2021-07-20",
+  "title": "Henan floods",
+  "category": "natural-disaster",
+  "location": "Henan, China",
+  "lives_lost": 398,
+  "description": "Torrential rains struck Henan from July 17 to 23, 2021, with severe flooding in Zhengzhou on July 20. A subsequent State Council investigation recorded 398 people dead or missing across the province, 380 of them in Zhengzhou. Fourteen people died in the subway flooding. The 398 figure is a combined dead-and-missing toll.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Xinhua News Agency"
+  ],
+  "archive_id": "events-54acd78962b4c23f2914",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "398 includes dead and missing across July 17-23, 95.5% (380) in Zhengzhou. Subway deaths were 14, not dozens. 302 is an earlier provincial figure wrongly assigned to Zhengzhou. The reported combined category does not establish 398 confirmed deaths. Withhold the numeric deaths-bearing row until missing-versus-dead accounting is resolved; the July 20 Zhengzhou flooding itself is established.",
+   "sources": [
+    {
+     "name": "China State Council / Xinhua",
+     "url": "https://english.www.gov.cn/news/topnews/202201/22/content_WS61eb59ebc6d09c94e48a417d.html"
+    },
+    {
+     "name": "Sixth Tone",
+     "url": "https://www.sixthtone.com/news/1008196"
+    }
+   ]
+  }
  },
  {
   "date": "2024-07-29",
@@ -509,7 +1499,8 @@
   "source_urls": [
    "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS01042025/4962.pdf",
    "https://ndmindia.mha.gov.in/ndmi/viewUploadedDocument?uid=NEW2161"
-  ]
+  ],
+  "archive_id": "events-ee7b3ee3ab38d4c60cc1"
  },
  {
   "date": "2024-07-30",
@@ -525,7 +1516,51 @@
   "source_urls": [
    "https://www.jpost.com/breaking-news/article-812661",
    "https://www.abc.net.au/news/2024-08-02/three-assassinations-israel-iran-lebanon-gaza/104175598"
-  ]
+  ],
+  "archive_id": "events-0b0b5e296924f76bad7b"
+ },
+ {
+  "date": "2024-08-01",
+  "title": "Sudan Famine and Humanitarian Crisis",
+  "category": "food-crisis",
+  "location": "Zamzam camp, North Darfur, Sudan",
+  "lives_lost": 61000,
+  "description": "In August 2024, the Integrated Food Security Phase Classification (IPC) confirmed famine conditions in Zamzam displacement camp near El Fasher, North Darfur — the first famine declaration anywhere in the world since 2011 — amid the civil war between the Sudanese Armed Forces and the Rapid Support Forces. Independent monitors recorded more than 61,000 people killed in the conflict since April 2023, humanitarian agencies reported child malnutrition deaths in the camp, and the UN said more than 25 million people across Sudan were facing acute food insecurity.",
+  "sources": [
+   "Integrated Food Security Phase Classification (IPC)",
+   "Médecins Sans Frontières",
+   "Reuters",
+   "UN World Food Programme"
+  ],
+  "archive_id": "events-13249dbd0563746799f1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "August 1 is publication of the Zamzam famine determination, not onset of famine mortality. 61,000 is estimated all-cause mortality in Khartoum State over April 2023-June 2024, not recorded killings nationwide or famine deaths in Zamzam. First famine since 2011 is false (South Sudan 2017); a famine-specific death total is not established. Do not repurpose the unrelated mortality estimate.",
+   "sources": [
+    {
+     "name": "WFP",
+     "url": "https://www.wfp.org/news/famine-confirmed-sudans-north-darfur-confirming-un-agencies-worst-fears"
+    },
+    {
+     "name": "LSHTM",
+     "url": "https://www.lshtm.ac.uk/newsevents/news/2024/invisible-and-severe-death-toll-sudan-conflict-revealed"
+    },
+    {
+     "name": "FEWS NET",
+     "url": "https://fews.net/east-africa/sudan/alert/august-2024"
+    },
+    {
+     "name": "United Nations - South Sudan famine declaration",
+     "url": "https://www.un.org/en/node/83998"
+    }
+   ]
+  }
  },
  {
   "date": "2020-08-04",
@@ -541,7 +1576,8 @@
   "source_urls": [
    "https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast",
    "https://www.hrw.org/news/2021/09/15/lebanon-un-rights-body-should-investigate-beirut-blast"
-  ]
+  ],
+  "archive_id": "events-226cd8147471fee59485"
  },
  {
   "date": "2023-08-08",
@@ -559,7 +1595,8 @@
    "https://www.hawaiipublicradio.org/local-news/2024-06-25/maui-wildfire-death-toll-rises-to-102-after-woman-determined-to-have-died-from-fire-injuries",
    "https://www.atf.gov/file/197126/download",
    "https://www.mauicounty.gov/DocumentCenter/View/151355/MEMA-2023-Wildfire-After-Action-Report"
-  ]
+  ],
+  "archive_id": "events-50c703b26a0994cf29d7"
  },
  {
   "date": "2024-08-09",
@@ -575,7 +1612,8 @@
   "source_urls": [
    "https://bea.aero/les-enquetes/evenements-notifies/detail/accident-survenu-a-latr-72-immatricule-ps-vpb-exploite-par-voepass-le-09-08-2024-a-vinhedo/",
    "https://en.wikipedia.org/wiki/Voepass_Flight_2283"
-  ]
+  ],
+  "archive_id": "events-64b535a0578cd160f98f"
  },
  {
   "date": "2021-08-14",
@@ -591,7 +1629,8 @@
   "source_urls": [
    "https://www.ifrc.org/sites/default/files/2023-08/IFRC_AnnualReport_2022_Final-web.pdf",
    "https://en.wikipedia.org/wiki/2021_Haiti_earthquake"
-  ]
+  ],
+  "archive_id": "events-4e1fdc1e495df5c3e725"
  },
  {
   "date": "2021-08-26",
@@ -607,7 +1646,77 @@
   "source_urls": [
    "https://www.defense.gov/News/News-Stories/Article/article/2924398/us-central-command-releases-report-on-august-abbey-gate-attack/",
    "https://www.armytimes.com/news/your-marine-corps/2022/02/04/investigation-finds-no-gunfire-injuries-followed-bombing-that-killed-13-us-troops-in-afghanistan/"
-  ]
+  ],
+  "archive_id": "events-0be9d8f057a07174f1ab"
+ },
+ {
+  "date": "2020-08-27",
+  "title": "Hurricane Laura",
+  "category": "natural-disaster",
+  "location": "Louisiana, United States",
+  "lives_lost": 81,
+  "description": "Hurricane Laura made landfall near Cameron, Louisiana on 27 August 2020 as a Category 4 storm with winds of 240 km/h, the strongest hurricane to hit the state since 1856. The storm killed 81 people in total across its path, including at least 41 in the United States (30 in Louisiana), 31 in Haiti and 9 in the Dominican Republic, and caused roughly $19 billion in damage. Storm surge and wind destroyed entire communities along the Gulf Coast of Louisiana and Texas.",
+  "sources": [
+   "NOAA National Hurricane Center",
+   "The Washington Post",
+   "BBC News"
+  ],
+  "archive_id": "events-8d6b425bf1ed690b5365",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Landfall identity and category supported; 81 is a combined direct/indirect total, not Louisiana fatalities. Louisiana government cites 31 rather than original 30; sources vary on Dominican Republic and Louisiana breakdowns. Need final NHC mortality table and check 'strongest since 1856' against 1856/2020 intensity equivalence.",
+   "sources": [
+    {
+     "name": "NOAA",
+     "url": "https://oceanservice.noaa.gov/annualreport/2020/hurricane-laura.html"
+    },
+    {
+     "name": "Louisiana Division of Administration",
+     "url": "https://www.doa.la.gov/media/ldbgbql5/2020-21-storms-apa-6-final-revised-2-18-25.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Atlantic_hurricane_season"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2022-09-01",
+  "title": "Nigeria floods",
+  "category": "natural-disaster",
+  "location": "Nigeria",
+  "lives_lost": 662,
+  "description": "Flooding across Nigeria in 2022 killed 662 people, injured 3,174 and displaced about 2.43 million, according to NEMA's director general in January 2023. These are nationwide seasonal totals, not deaths on a single September day.",
+  "sources": [
+   "Nigeria National Emergency Management Agency",
+   "UNICEF",
+   "Reuters"
+  ],
+  "archive_id": "events-f8814fa5c97526bf2736",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "sources"
+   ],
+   "note": "NEMA's January 2023 retrospective supersedes 603: 662 deaths, 3,174 injuries and 2,430,445 displaced. September 1 is not established as onset of the season-long floods; a precise event date remains unresolved. Remove unsupported destroyed-home total and overly simple dam-release causation.",
+   "sources": [
+    {
+     "name": "Channels Television",
+     "url": "https://www.channelstv.com/2023/01/24/flooding-662-killed-2-4m-displaced-in-2022-says-nema/"
+    },
+    {
+     "name": "National Bureau of Statistics",
+     "url": "https://nigerianstat.gov.ng/pdfuploads/NigeriaFloodImpactRecoveryMitigationAssessmentReport2023.pdf"
+    }
+   ]
+  }
  },
  {
   "date": "2024-09-04",
@@ -623,7 +1732,8 @@
   "source_urls": [
    "https://gbi.georgia.gov/press-releases/2024-09-06/gbi-investigates-school-shooting-barrow-county",
    "https://gbi.georgia.gov/document/document/october-2024-statistical-report/download"
-  ]
+  ],
+  "archive_id": "events-28e7dae4e17b68f7110c"
  },
  {
   "date": "2022-09-05",
@@ -641,7 +1751,46 @@
    "https://www.redcross.org.hk/en/disasterrelief_prepard/Sichuan_Luding_EQ_2022.html",
    "https://www.sciencedirect.com/science/article/abs/pii/S0013795224001364",
    "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL102976"
-  ]
+  ],
+  "archive_id": "events-f740309b7234dd276145"
+ },
+ {
+  "date": "2024-09-07",
+  "title": "Super Typhoon Yagi",
+  "category": "natural-disaster",
+  "location": "Haiphong, Vietnam",
+  "lives_lost": 844,
+  "description": "Super Typhoon Yagi, the most powerful storm of the 2024 season, made landfall in northern Vietnam on September 7, 2024, after causing destruction in the Philippines and southern China, and spawned flooding and landslides across Vietnam, Laos, Thailand, and Myanmar. The storm and its aftermath killed at least 844 people across the region, more than 320 of them in Vietnam, with hundreds more missing in Myanmar.",
+  "sources": [
+   "Associated Press",
+   "Reuters",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ],
+  "archive_id": "events-3e0a5e9b0b358faba796",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "844 appears in Global Water Monitor but a secondary compilation ranges to 1,009; national accounting and Myanmar missing/dead reconciliation remain incomplete. September 7 is Vietnam landfall, not onset of multinational impacts. Most powerful storm of the 2024 season is not supported by HKO, which gives a narrower South China Sea ranking. Withhold pending geographic/time-scope alignment.",
+   "sources": [
+    {
+     "name": "Hong Kong Observatory",
+     "url": "https://www.weather.gov.hk/en/informtc/tc2024/tc2409.html"
+    },
+    {
+     "name": "Global Water Monitor",
+     "url": "https://www.acades.cl/wp-content/uploads/2025/12/GLOBAL_WATER_MONITOR_2024_1736263183-Amparo-Hernandez-Celedon.pdf"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Yagi"
+    }
+   ]
+  }
  },
  {
   "date": "2023-09-08",
@@ -657,7 +1806,8 @@
   "source_urls": [
    "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/impact",
    "https://go-api.ifrc.org/api/downloadfile/90205/Morocco_INP_MYR_2025"
-  ]
+  ],
+  "archive_id": "events-aa43ddc7da7cec288e2c"
  },
  {
   "date": "2023-09-11",
@@ -673,7 +1823,41 @@
   "source_urls": [
    "https://www.amnesty.org/en/wp-content/uploads/2024/03/MDE1976082024ENGLISH.pdf",
    "https://documents1.worldbank.org/curated/en/099353101242428521/pdf/IDU153d4e1711e33e145321b8881cf996ea3acf7.pdf"
-  ]
+  ],
+  "archive_id": "events-a897b5124ac836e5ccc0"
+ },
+ {
+  "date": "2024-09-17",
+  "title": "Bamako Attack",
+  "category": "terrorism",
+  "location": "Bamako, Mali",
+  "lives_lost": 77,
+  "description": "On September 17, 2024, jihadist attackers from Jama'at Nusrat al-Islam wal-Muslimin (JNIM) stormed a military police school and the military airport in Bamako, Mali, in a coordinated assault. The attack killed at least 77 people, including civilians, and wounded more than 250, making it one of the deadliest attacks in Mali in years and prompting heightened security measures in the capital.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-2b7242cca1a5612f5d34",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date, JNIM and targets supported. AFP simultaneously reported 77 from a security source and an authenticated official document naming 81 victims and suggesting around 100. The 77 figure cannot be presented as a settled final count; civilian inclusion and exact injured total also need reconciliation.",
+   "sources": [
+    {
+     "name": "AFP / L'Orient-Le Jour",
+     "url": "https://www.lorientlejour.com/article/1427774/les-attaques-jihadistes-a-bamako-ont-fait-plus-de-70-morts.html"
+    },
+    {
+     "name": "Africa Center for Strategic Studies",
+     "url": "https://africacenter.org/spotlight/militant-islamist-groups-advancing-mali/"
+    }
+   ]
+  }
  },
  {
   "date": "2024-09-21",
@@ -691,7 +1875,45 @@
    "https://iranwire.com/en/features/135479-iran-fails-to-support-families-of-tabas-mine-disaster-victims/",
    "https://commonsbusiness.parliament.uk/Document/88887/Pdf?subType=Standard",
    "https://apnews.com/article/2f3c299567fbc390bea0b94fb57459c4"
-  ]
+  ],
+  "archive_id": "events-e7163e74f45b82ca2564"
+ },
+ {
+  "date": "2020-09-27",
+  "title": "Second Nagorno-Karabakh War",
+  "category": "war",
+  "location": "Nagorno-Karabakh (Artsakh)",
+  "lives_lost": 6900,
+  "description": "On 27 September 2020, Azerbaijan launched a large-scale military offensive against the Armenian-backed Nagorno-Karabakh (Artsakh) region, starting a 44-day war that ended with a Russian-brokered ceasefire on 10 November 2020. Official figures from both sides listed about 2,900 Azerbaijani and 3,800 Armenian soldiers killed, along with roughly 185 civilians, for a combined death toll of more than 6,900, with tens of thousands displaced. Azerbaijan regained control of territory around and within the region under the ceasefire terms.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "International Crisis Group"
+  ],
+  "archive_id": "events-4da02072f17f6b9bcf51",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "September 27 start and 44-day war supported. Official counts have continued changing; latest retrieved Armenian report gives 3,833 including 3,755 military and 78 civilians. 6,900 needs matching as-of dates and inclusion policy for missing/foreign fighters, not a mixture of rounded figures. Mortality study estimates are not official named deaths.",
+   "sources": [
+    {
+     "name": "Congressional Research Service",
+     "url": "https://www.everycrsreport.com/reports/R46651.html"
+    },
+    {
+     "name": "Population Research and Policy Review",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10171164/"
+    },
+    {
+     "name": "RFE/RL",
+     "url": "https://www.azatutyun.am/a/33850102.html"
+    }
+   ]
+  }
  },
  {
   "date": "2022-09-30",
@@ -709,7 +1931,8 @@
    "https://documents.un.org/doc/undoc/gen/g23/183/44/pdf/g2318344.pdf",
    "https://www.government.nl/binaries/government/documenten/reports/2023/06/30/general-country-of-origin-report-afghanistan-june-2023/General%2BCountry%2Bof%2BOrigin%2BReport%2BAfghanistan%2BJune%2B2023.pdf",
    "https://amu.tv/67101/"
-  ]
+  ],
+  "archive_id": "events-271b7fc2a55b5511413a"
  },
  {
   "date": "2023-10-07",
@@ -725,7 +1948,8 @@
   "source_urls": [
    "https://www.emro.who.int/afg/afghanistan-news/resilience-and-recovery-100-days-after-the-herat-earthquakes.html",
    "https://cdn.who.int/media/docs/default-source/documents/emergencies/who_wou_october_2023.pdf"
-  ]
+  ],
+  "archive_id": "events-c485209592737ee89311"
  },
  {
   "date": "2023-10-07",
@@ -743,7 +1967,8 @@
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874636/",
    "https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-flash-update-81",
    "https://english.wafa.ps/Pages/Details/140412"
-  ]
+  ],
+  "archive_id": "events-80103483adc1dc27672f"
  },
  {
   "date": "2021-10-08",
@@ -759,7 +1984,8 @@
   "source_urls": [
    "https://afghanistan.un.org/prs/download/111923/191313",
    "https://www.un.org/sg/en/content/highlight/2021-10-08.html"
-  ]
+  ],
+  "archive_id": "events-b832d3dfd776de7ed731"
  },
  {
   "date": "2023-10-08",
@@ -777,7 +2003,8 @@
    "https://www.un.org/sg/en/content/highlight/2024-11-29.html",
    "https://mercycorps.org.lb/november-crisis-update-2024/",
    "https://www.undp.org/sites/g/files/zskgke326/files/2025-07/policy_brief_socioeconomic-impacts-lebanon-2024-war.pdf"
-  ]
+  ],
+  "archive_id": "events-446a198560d068bff124"
  },
  {
   "date": "2023-10-25",
@@ -795,7 +2022,8 @@
    "https://mainemorningstar.com/2024/08/20/final-lewiston-commission-report-concludes-multi-agency-failures-in-lead-up-to-shooting/",
    "https://www.maine.gov/dps/msp/sites/maine.gov.dps.msp/files/inline-files/AAR.pdf",
    "https://www.nbcboston.com/news/local/lewiston-mass-shooting-final-report/3464622/"
-  ]
+  ],
+  "archive_id": "events-4aa6146e3659493e331b"
  },
  {
   "date": "2022-10-29",
@@ -811,7 +2039,8 @@
   "source_urls": [
    "https://www.voanews.com/a/death-toll-rises-in-somalia-al-shabab-attacks/6815098.html",
    "https://documents.un.org/doc/undoc/gen/g23/161/66/pdf/g2316166.pdf"
-  ]
+  ],
+  "archive_id": "events-781bfc895388a5f5f17b"
  },
  {
   "date": "2022-10-29",
@@ -827,7 +2056,8 @@
   "source_urls": [
    "https://en.yna.co.kr/view/AEN20230113003751315",
    "https://web.adrc.asia/countryreport/KOR/2024/Korea_CountryReport_FY2024.pdf"
-  ]
+  ],
+  "archive_id": "events-ed67483cf44124de6d6c"
  },
  {
   "date": "2024-10-29",
@@ -845,7 +2075,78 @@
    "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2025/20251029-dana-victims-tribute.aspx",
    "https://www.rtve.es/noticias/20251029/especial-telediario-1-directo-aniversario-dana-valencia/16790190.shtml",
    "https://www.ecmwf.int/sites/default/files/elibrary/042025/81655-newsletter-no-183-spring-2025.pdf"
-  ]
+  ],
+  "archive_id": "events-f39e710696ce17440ec1"
+ },
+ {
+  "date": "2020-11-02",
+  "title": "Kabul University attack",
+  "category": "terrorism",
+  "location": "Kabul, Afghanistan",
+  "lives_lost": 32,
+  "description": "On 2 November 2020, three gunmen from Islamic State Khorasan Province stormed Kabul University during an Iranian book fair, killing 32 people and wounding more than 50 in a siege that lasted several hours. The attackers, killed by security forces, brought the total death count including themselves to 35. The attack targeted students and academics and was one of the deadliest attacks on a university in Afghanistan's recent history.",
+  "sources": [
+   "Al Jazeera",
+   "BBC News",
+   "The New York Times"
+  ],
+  "archive_id": "events-5df26b43fcf6b065d2e1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Date and IS attack supported. Sources differ between 22 initially, 35 students/professors in later reporting, and secondary 32 victims plus three attackers. Do not infer 32 by subtracting attackers from a source saying 35 students/professors. Iranian book-fair context and over-50 injured require corroboration.",
+   "sources": [
+    {
+     "name": "ABC News",
+     "url": "https://www.abc.net.au/news/2020-11-02/afghanistan-kabul-university-attack-gunmen-22-killed/12841202"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/world/asia/thirty-five-students-and-professors-killed-in-isis-attack-on-kabul-university-1.1103848"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Kabul_University_attack"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2020-11-03",
+  "title": "Hurricane Eta",
+  "category": "natural-disaster",
+  "location": "Nicaragua and Honduras, Central America",
+  "lives_lost": 189,
+  "description": "Hurricane Eta made landfall near Puerto Cabezas, Nicaragua on 3 November 2020 as a Category 4 hurricane, then stalled over Central America for two days, triggering catastrophic flash floods and landslides across the region. At least 189 people died, including 74 in Honduras, 60 in Guatemala and 19 in Panama, with more than 100 missing. Eta was followed within two weeks by Hurricane Iota, which compounded the destruction in Honduras and Nicaragua.",
+  "sources": [
+   "NOAA National Hurricane Center",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "events-04c39c0be3262584aa2d",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Hurricane/date identity established; retrieved summaries disagree internally between at least 175 and 189. Need final NHC table and national figures to reconcile missing, presumed dead and Eta-versus-Iota totals; 74 Honduras/60 Guatemala/19 Panama breakdown not established.",
+   "sources": [
+    {
+     "name": "NOAA National Hurricane Center",
+     "url": "https://www.nhc.noaa.gov/data/tcr/index.php?season=2020"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hurricane_Eta"
+    }
+   ]
+  }
  },
  {
   "date": "2023-11-03",
@@ -863,7 +2164,78 @@
    "https://heoc.mohp.gov.np/guidelines-publications/joint-operational-review-on-jajarkot-earthquake-response/download",
    "https://kathmandupost.com/karnali-province/2023/11/06/death-toll-in-jajarkot-earthquake-revised-to-153",
    "https://www.mdpi.com/2076-3263/14/1/20"
-  ]
+  ],
+  "archive_id": "events-1ffff9e754129091b239"
+ },
+ {
+  "date": "2020-11-09",
+  "title": "Mai Kadra massacre",
+  "category": "war",
+  "location": "Mai Kadra, Tigray, Ethiopia",
+  "lives_lost": 767,
+  "description": "On 9-10 November 2020, in the first days of the Tigray War, hundreds of Amhara civilians were killed in house-to-house raids in the town of Mai Kadra near the Sudanese border. Estimates of the death toll ranged from hundreds to more than 1,100, with a Reuters investigation confirming at least 767 deaths; Amnesty International reported that hundreds were killed, likely by local Tigrayan security forces, police and militias aligned with the TPLF. The massacre was the first documented mass atrocity of the Tigray conflict.",
+  "sources": [
+   "Amnesty International",
+   "Reuters",
+   "Ethiopian Human Rights Commission (EHRC)"
+  ],
+  "archive_id": "events-b6f32e966502e9038b53",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Secondary summaries cite Reuters' 767 but direct Reuters investigation was not retrieved. Must distinguish November 9 killings of Amhara civilians from subsequent retaliatory killings of Tigrayans. Original attribution to Amnesty and 1,100 upper estimate require source-specific scope; not independently verified.",
+   "sources": [
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mai_Kadra_massacre"
+    },
+    {
+     "name": "Uppsala University repository",
+     "url": "https://www.diva-portal.org/smash/get/diva2%3A1676219/FULLTEXT01.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2020-11-11",
+  "title": "Typhoon Vamco (Ulysses)",
+  "category": "natural-disaster",
+  "location": "Luzon, Philippines",
+  "lives_lost": 102,
+  "description": "Typhoon Vamco, known locally as Ulysses, made landfall in Quezon province on 11 November 2020 as the third typhoon to strike the Philippines in two weeks. The storm caused severe flooding in Metro Manila and Cagayan Valley, killing 102 people with 10 more missing, according to the Philippine disaster agency. More than a million people were displaced, and the flooding in Cagayan was described as the worst in decades.",
+  "sources": [
+   "NDRRMC (Philippines National Disaster Risk Reduction and Management Council)",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-633f869ab9ae6c255438",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "November 11 Philippine landfall supported. Secondary accounts conflict between 102 dead/10 missing, 98/19 and 101/10 at different dates. Need NDRRMC final report and distinguish affected from displaced; one million displaced is not established.",
+   "sources": [
+    {
+     "name": "GMA News",
+     "url": "https://www.gmanetwork.com/news/topstories/nation/764079/32-dead-20-missing-due-to-ulysses-ndrrmc/story/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Typhoon_Vamco"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Pacific_typhoon_season"
+    }
+   ]
+  }
  },
  {
   "date": "2020-11-14",
@@ -881,7 +2253,75 @@
    "https://www.euronews.com/2020/11/14/romania-ten-dead-in-covid-19-hospital-blaze",
    "https://www.digi24.ro/stiri/actualitate/evenimente/7-pacienti-decedati-dupa-un-incendiu-violent-la-sectia-ati-de-la-spitalul-judetean-piatra-neamt-1401850",
    "https://minerva.jrc.ec.europa.eu/en/shorturl/minerva/llb_2_covidoxygenv2pdf"
-  ]
+  ],
+  "archive_id": "events-8178b4519797e1e8f2b1"
+ },
+ {
+  "date": "2020-11-28",
+  "title": "Koshebe massacre",
+  "category": "terrorism",
+  "location": "Koshebe, Borno State, Nigeria",
+  "lives_lost": 110,
+  "description": "On 28 November 2020, gunmen believed to be Boko Haram fighters attacked farmers harvesting rice fields near the village of Koshebe in Borno State, northeastern Nigeria. The United Nations reported that as many as 110 civilians and peasant farmers were killed, six were wounded and about 15 women were kidnapped. The attack, which followed a dispute with farmers who had disarmed a Boko Haram gunman the previous day, was among the deadliest attacks on civilians in Nigeria during 2020.",
+  "sources": [
+   "UN News",
+   "BBC News",
+   "Reuters"
+  ],
+  "archive_id": "events-ee71a3f1125b59013b94",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "UN's initial 110 figure was amended to tens. The primary statement confirms November 28 attack and abductions, not precise totals. Six injured, 15 women abducted and the alleged precipitating dispute remain unestablished; no defensible exact replacement toll.",
+   "sources": [
+    {
+     "name": "UN Secretary-General",
+     "url": "https://press.un.org/en/2020/sgsm20455.doc.htm"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2020/11/29/at-least-110-civilians-killed-in-gruesome-nigeria-massacre"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2021-12-10",
+  "title": "Mayfield tornado outbreak",
+  "category": "natural-disaster",
+  "location": "Mayfield, Kentucky, United States",
+  "lives_lost": 89,
+  "description": "A historic tornado outbreak spawned an EF4 tornado that leveled the town of Mayfield, Kentucky, and caused damage across six states from Arkansas to Ohio during the night of December 10-11. At least 89 people were killed, most of them in Kentucky, where it was the deadliest tornado event in the state's history, with deaths also reported in Tennessee and elsewhere.",
+  "sources": [
+   "Associated Press",
+   "CNN",
+   "National Weather Service"
+  ],
+  "archive_id": "events-7de25073569e7b59fbf1",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date",
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "NWS assessment supports 89 direct tornado deaths and 71 tornadoes across eight states, not six. 89 is entire-outbreak toll, not one Mayfield tornado. Need UTC beginning of chosen whole-outbreak scope; Mayfield's late December 10 local impact is December 11 UTC.",
+   "sources": [
+    {
+     "name": "National Weather Service",
+     "url": "https://www.weather.gov/media/publications/assessments/NWS_Joint_Regional_Service_Assessment_Dec_10-11_2021.pdf"
+    },
+    {
+     "name": "National Weather Service",
+     "url": "https://www.weather.gov/meg/dec102021tor"
+    }
+   ]
+  }
  },
  {
   "date": "2021-12-16",
@@ -899,7 +2339,8 @@
    "https://ndrrmc.gov.ph/attachments/article/4174/SITREP_18_FOR_TC_ODETTE_2021.pdf",
    "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/tamss/weather/tcsummary/PAGASA_ARTC_2021.pdf",
    "https://web.adrc.asia/view_disaster_en.php?Key=2507&Lang=en"
-  ]
+  ],
+  "archive_id": "events-afe46a6a2072da27e233"
  },
  {
   "date": "2023-12-18",
@@ -915,7 +2356,8 @@
   "source_urls": [
    "https://www.sciencedirect.com/science/article/pii/S026772612500185X",
    "https://www.pku-geophysics-source.group/htmls/20231218155930Jishishan.html"
-  ]
+  ],
+  "archive_id": "events-1e5745e02fc2887a7999"
  },
  {
   "date": "2023-12-21",
@@ -931,7 +2373,45 @@
   "source_urls": [
    "https://apnews.com/article/17c72a996a64b10215c99e9a6f3afab2",
    "https://brnodaily.com/2024/06/14/news/police-conclude-investigation-into-prague-faculty-shooting/"
-  ]
+  ],
+  "archive_id": "events-8ea2521de691df635d6b"
+ },
+ {
+  "date": "2024-12-24",
+  "title": "Sudan famine confirmed in North Darfur camps",
+  "category": "food-crisis",
+  "location": "North Darfur, Sudan",
+  "lives_lost": 522000,
+  "description": "On December 24, 2024, FAO, WFP and UNICEF reported the IPC Famine Review Committee's finding of famine in at least five assessed areas, including three North Darfur displacement camps and resident and displaced populations in the Western Nuba Mountains. The assessment covered October-November 2024 and projected further spread.",
+  "sources": [
+   "Reuters",
+   "UN News",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-7e97d8109c1768010860",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "sources"
+   ],
+   "note": "The five-area finding was announced December 24, 2024 and assessed October-November conditions, with projections through May 2025. February 19 is not established as a new confirmation. Western Nuba coverage refers to residents and displaced people, not necessarily two named physical sites. A photographer's caption repeats 522,000 child malnutrition deaths attributed to the Sudan Doctors Union, but no underlying estimate, methods or authoritative corroboration was found. IPC people-in-Catastrophe figures are not deaths. The Sudan government also disputed the IPC process; its disagreement does not negate the independent famine classification. Retain in audit, not public canonical data.",
+   "sources": [
+    {
+     "name": "UNICEF/FAO/WFP",
+     "url": "https://www.unicef.org/press-releases/food-and-nutrition-crisis-deepens-across-sudan-famine-identified-additional-areas"
+    },
+    {
+     "name": "IPC Famine Review Committee",
+     "url": "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Famine_Review_Committee_Report_Sudan_Dec2024.pdf"
+    },
+    {
+     "name": "Giles Clarke reportage",
+     "url": "https://www.gilesnclarke.com/sudan-2025"
+    }
+   ]
+  }
  },
  {
   "date": "2024-12-29",
@@ -947,6 +2427,118 @@
   "source_urls": [
    "https://www.bagimsizhavacilar.com/wp-content/uploads/2025/01/Jeju-Air_HL8088-Preliminary-Report.pdf",
    "https://aviationweek.com/sites/default/files/2025-01/AWST_2025_1-13.pdf"
-  ]
+  ],
+  "archive_id": "events-806cca571cff8a55ffd6"
+ },
+ {
+  "date": "2020-12-30",
+  "title": "Aden airport attack",
+  "category": "terrorism",
+  "location": "Aden, Yemen",
+  "lives_lost": 28,
+  "description": "On 30 December 2020, explosions and gunfire hit Aden International Airport just as a plane carrying members of Yemen's newly formed unity government, including the prime minister and the Saudi ambassador, was landing from Riyadh. The attack killed 28 people and wounded 107, though none of the cabinet passengers were hurt. A UN investigation later found the Houthi movement responsible for the attack, which came as the Saudi-brokered power-sharing government returned to the interim capital.",
+  "sources": [
+   "Reuters",
+   "BBC News",
+   "Al Jazeera"
+  ],
+  "archive_id": "events-f5e072b3ceae378acc74",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "Attack followed landing, rather than necessarily occurring during landing. UN missile analysis must not be reduced to unqualified attribution without checking confidence language. Early Reuters toll was 22; 28/107 later secondary tally and Saudi ambassador aboard require final evidence.",
+   "sources": [
+    {
+     "name": "UN Panel of Experts",
+     "url": "https://digitallibrary.un.org/record/3956342/files/S_2022_50-EN.pdf"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.investing.com/news/world-news/twentytwo-killed-in-attack-on-aden-airport-after-new-yemen-cabinet-lands-2377655"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/2020_Aden_airport_attack"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-12-31",
+  "title": "Israel–Hamas War: 2024 Death Toll in Gaza",
+  "category": "war",
+  "location": "Gaza Strip, Palestine",
+  "lives_lost": 45600,
+  "description": "During 2024, the Israel–Hamas war in the Gaza Strip continued with intense Israeli military operations and armed resistance, with the Gaza Ministry of Health reporting more than 45,600 Palestinians killed since October 2023 — roughly 25,000 of them during 2024 — while most of the territory's 2.1 million residents were repeatedly displaced and UN agencies warned of famine conditions and disease outbreaks. The conflict also involved continued rocket fire into Israel and expanding regional confrontation with Hezbollah and Iran.",
+  "sources": [
+   "Reuters",
+   "Associated Press",
+   "UN Office for the Coordination of Humanitarian Affairs"
+  ],
+  "archive_id": "events-3d8139e65a4f0a26ac9f",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "December 31 OCHA publication uses Gaza MoH data through December 30: 45,541 cumulative since October 7, 2023, not 45,600 deaths during 2024. Simple difference from the 21,822 end-2023 snapshot is 23,719 but changes to cumulative reporting are not necessarily deaths occurring within the year. Need actual occurrence-year accounting or explicitly repurpose to a cumulative snapshot, avoiding double counting record 113. Annual toll remains unresolved.",
+   "sources": [
+    {
+     "name": "OCHA",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-update-251-gaza-strip"
+    },
+    {
+     "name": "OCHA",
+     "url": "https://www.ochaopt.org/sites/default/files/Gaza_Reported_Impact_Snapshot_31_December_2024.pdf"
+    },
+    {
+     "name": "Population Health Metrics",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874636/"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2024-12-31",
+  "title": "Russia–Ukraine War: 2024 Casualties",
+  "category": "war",
+  "location": "Kyiv, Ukraine",
+  "lives_lost": 100000,
+  "description": "The Russia–Ukraine war entered its third year in 2024, with Russian offensives in eastern Ukraine, a Ukrainian incursion into Russia's Kursk region, and relentless artillery and drone strikes on cities including Kharkiv, Kyiv, and Odesa. Independent media documented more than 78,000 named Russian soldiers killed by December 2024 and estimated total military deaths on both sides at more than 100,000 during the year — making 2024 the war's deadliest — while the UN recorded about 1,300 civilian deaths in Ukraine in 2024 and more than 12,000 civilians killed since the February 2022 invasion.",
+  "sources": [
+   "BBC News",
+   "Mediazona",
+   "UN Human Rights Office (OHCHR)"
+  ],
+  "archive_id": "events-e77aefc3126e8ddc716c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "lives_lost",
+    "description",
+    "sources"
+   ],
+   "note": "UN initially documented 2,064 civilian deaths in 2024, later revised to 2,088, not about 1,300. Named Russian deaths are cumulative verified identifications, not all-side annual deaths. The exact 100,000 annual combined military total and deadliest-year assertion are not established; dynamic Mediazona data cannot be backdated to December 2024. December 31 is a reporting-period endpoint, not a one-day battle date.",
+   "sources": [
+    {
+     "name": "OHCHR",
+     "url": "https://ukraine.ohchr.org/en/Zaporizhzhia-Attack-Marks-Highest-Civilian-Casualties-in-Two-Years-Glide-Bombs-Drive-30%25-Rise-in-2024"
+    },
+    {
+     "name": "OHCHR",
+     "url": "https://ukraine.ohchr.org/en/2025-deadliest-year-for-civilians-in-Ukraine-since-2022-UN-human-rights-monitors-find"
+    },
+    {
+     "name": "Mediazona",
+     "url": "https://zona.media/casualties"
+    }
+   ]
+  }
  }
 ]

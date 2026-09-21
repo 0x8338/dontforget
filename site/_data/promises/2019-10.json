@@ -1,5 +1,44 @@
 [
  {
+  "person": "Boris Johnson",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Leave the European Union on 31 October 2019, 'do or die'",
+  "date_promised": "2019-07-24",
+  "due_date": "2019-10-31",
+  "status": "partial",
+  "description": "In his first speech as PM Johnson pledged the UK would leave the EU on October 31 'no ifs or buts.' Parliament forced a delay and Brexit occurred on January 31, 2020 — three months late but achieved.",
+  "evidence": [
+   "UK left the EU on 2020-01-31",
+   "October 31 deadline missed after Parliament refused to ratify the deal"
+  ],
+  "sources": [
+   "Downing Street",
+   "BBC News",
+   "The Guardian"
+  ],
+  "archive_id": "promises-6dd9fdbe50498271393c",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "promise",
+    "date_promised",
+    "status",
+    "sources"
+   ],
+   "note": "July 24 speech says 'no ifs or buts', not the different 'do or die' quotation. October deadline abandonment supported; need primary departure record and original quote date before replacing partial with kept (delayed).",
+   "sources": [
+    {
+     "name": "UK Government",
+     "url": "https://www.gov.uk/government/speeches/boris-johnsons-first-speech-as-prime-minister-24-july-2019"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/2019/10/24/boris-johnson-general-election-brexit-deal"
+    }
+   ]
+  }
+ },
+ {
   "person": "Narendra Modi",
   "role": "Prime Minister of India",
   "promise": "Make India open-defecation free by October 2, 2019 (Gandhi's 150th birth anniversary)",
@@ -19,6 +58,46 @@
   "source_urls": [
    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6166505/",
    "https://www.aljazeera.com/news/2019/10/2/modi-declares-india-open-defecation-free-claim-questioned"
-  ]
+  ],
+  "archive_id": "promises-e2d7f87e0a36ee857d72"
+ },
+ {
+  "person": "Justin Trudeau",
+  "role": "Leader of the Liberal Party of Canada",
+  "promise": "\"We are committed to ensuring that 2015 will be the last federal election conducted under the first-past-the-post electoral system.\"",
+  "date_promised": "2015-06-16",
+  "due_date": "2019-10-21",
+  "status": "broken",
+  "description": "Campaign pledge to replace first-past-the-post with a new voting system in time for the 2019 election. An all-party parliamentary committee reported in Dec 2016, and on Feb 1, 2017 Democratic Institutions Minister Karina Gould announced the government was abandoning reform because there was no consensus. The 2019 and 2021 elections were both held under first-past-the-post.",
+  "evidence": [
+   "Liberal Party 2015 platform language on electoral reform",
+   "Feb 1, 2017 minister announcement that the promise would not be kept",
+   "2019 federal election conducted under FPTP"
+  ],
+  "sources": [
+   "CBC News",
+   "The Globe and Mail",
+   "Wikipedia: Electoral reform in Canada"
+  ],
+  "archive_id": "promises-657053a0bd8035993e91",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "description",
+    "sources"
+   ],
+   "note": "Pledge dates to June 16, 2015; October 19 is election day. Abandonment reported February 1, 2017.",
+   "sources": [
+    {
+     "name": "Global News",
+     "url": "https://globalnews.ca/news/3102270/justin-trudeau-liberals-electoral-reform-changing-promises/"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2017/feb/01/justin-trudeau-abandons-voter-reform-canada"
+    }
+   ]
+  }
  }
 ]

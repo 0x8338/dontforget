@@ -1,5 +1,43 @@
 [
  {
+  "person": "Donald Trump",
+  "role": "US President (47th)",
+  "promise": "\"We will pursue our manifest destiny into the stars, launching American astronauts to plant the Stars and Stripes on the planet Mars.\"",
+  "date_promised": "2025-01-20",
+  "due_date": "2029-01-20",
+  "status": "pending",
+  "description": "In the January 20, 2025 inaugural address, Trump said the United States would pursue sending astronauts to Mars. That passage gave no mission date or end-of-term deadline.",
+  "evidence": [
+   "No crewed Mars mission approved or scheduled as of mid-2026",
+   "NYT analysis: a Mars landing cannot happen before 2029 due to orbital windows"
+  ],
+  "sources": [
+   "The New York Times",
+   "Newsweek",
+   "Euronews"
+  ],
+  "source_urls": [
+   "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
+   "https://www.newsweek.com/2025/04/11/donald-trump-elon-musk-space-mission-mars-experts-2053151.html",
+   "https://www.euronews.com/next/2025/02/20/the-red-planet-or-bust-can-the-us-get-humans-to-mars-in-donald-trumps-second-term"
+  ],
+  "archive_id": "promises-744648a211a39c1f4b92",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "due_date",
+    "status"
+   ],
+   "note": "The inaugural statement is verified but contains no January 2029 deadline. The orbital-impossibility assertion and claim of no approved mission require separate technical/current evidence; remove rather than present them as established.",
+   "sources": [
+    {
+     "name": "White House: inaugural address",
+     "url": "https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/"
+    }
+   ]
+  }
+ },
+ {
   "person": "Sam Altman",
   "role": "CEO of OpenAI",
   "promise": "Stargate will invest up to $500 billion in US AI infrastructure, with $100 billion starting immediately",
@@ -17,6 +55,7 @@
   "source_urls": [
    "https://openai.com/index/announcing-the-stargate-project/",
    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/"
-  ]
+  ],
+  "archive_id": "promises-eba92b11992fdecb43d9"
  }
 ]

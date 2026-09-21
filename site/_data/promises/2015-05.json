@@ -1,0 +1,41 @@
+[
+ {
+  "person": "David Cameron",
+  "role": "Prime Minister of the United Kingdom",
+  "promise": "Cut annual net migration to 'tens of thousands' by the end of the parliament",
+  "date_promised": "2010-05-13",
+  "due_date": "2015-05-07",
+  "status": "broken",
+  "description": "Cameron pledged to reduce net migration to under 100,000 during the 2010-2015 parliament. Net migration instead rose to about 298,000 in 2014 and 336,000 in the year to June 2015 — his office later said the target was 'not achieved.'",
+  "evidence": [
+   "Net migration reached 336,000 by mid-2015",
+   "Cameron's own government admitted the target was not met"
+  ],
+  "sources": [
+   "Office for National Statistics",
+   "BBC News",
+   "Home Office"
+  ],
+  "archive_id": "promises-4ba0a31101a56d26d701",
+  "review": {
+   "as_of": "2026-09-21",
+   "fields": [
+    "date_promised",
+    "description",
+    "evidence",
+    "sources"
+   ],
+   "note": "Goal and failure supported. May 13 announcement date unestablished; policy predates election. 298,000 refers to year ending September 2014; later migration estimates were revised.",
+   "sources": [
+    {
+     "name": "House of Commons Library",
+     "url": "https://commonslibrary.parliament.uk/research-briefings/sn05829/"
+    },
+    {
+     "name": "Migration Observatory",
+     "url": "https://migrationobservatory.ox.ac.uk/resources/commentaries/net-migration-target-2017-election/"
+    }
+   ]
+  }
+ }
+]
