@@ -1,5 +1,10 @@
 # Agent Execution Plan — Historical Data Population
 
+Historical design document only. Do not execute this runbook for current updates:
+its Markdown storage and checkpoint schema are obsolete. Follow the repository's
+[AGENTS.md](../../AGENTS.md) and [current execution plan](../../EXECUTION_PLAN.md),
+including the preservation-first rule for all collected events and promises.
+
 ## Overview
 
 Populate `_memory/` and `_promises/` with historical data from **2000-01-01 to present**. Agents process in monthly batches with a checkpoint system so interrupted work can resume without restarting.

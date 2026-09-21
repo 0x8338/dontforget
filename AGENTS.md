@@ -12,11 +12,47 @@ A daily UTC calendar of lives lost to violence and disaster since 2000, plus a
 tracker of public promises (kept / broken / partial / pending). It is a static
 site: visitors never download the full datasets, only small pre-split files.
 
+## Preserve the collected archive
+
+The owner invested substantial effort in this collection. Preservation is a
+requirement, not an optional quality tradeoff:
+
+- Never delete, hide, quarantine, or exclude an existing event or promise merely
+  because a recheck is incomplete, a source is inaccessible, or a date, deadline,
+  citation, or outcome cannot yet be verified. Keep it visible with a precise
+  `review` note. Missing evidence is not evidence that the record is false.
+- Correct demonstrated factual errors in place, supported by specific sources.
+  Check attribution, wording, dates, scope, and outcome separately; an unresolved
+  field must not block a supported correction to another field. Preserve the
+  original values and correction rationale in the research ledger or record.
+- Do not downgrade an existing outcome to `pending` solely because a new search
+  did not reproduce the evidence. Flag the research gap; change the status only
+  when evidence supports the change. An announcement does not prove fulfillment,
+  and an elapsed deadline alone does not prove failure.
+- Do not bulk-deduplicate or remove records to satisfy validation. For a proposed
+  whole-record removal or merge, present the record-specific evidence and obtain
+  explicit owner approval first. Prefer a visible correction with provenance.
+- Keep `archive_id` unchanged across corrections, including title/date changes.
+  Assign an ID once to every new record and append it to the appropriate list in
+  `site/_data/retention.json`. Never shrink or regenerate that inventory from
+  surviving records to make a deletion pass validation.
+- `site/_data/legacy-review.json` is a fixed baseline inventory, not a list to
+  extend during daily updates. It permits documented legacy evidence/date gaps;
+  retention membership alone does not exempt new records from evidence rules.
+- Historical audit fields such as `publication_ready` and the old quarantine
+  snapshot are research history, not permission to remove or hide records.
+
+Before and after an update, compare stable IDs, total events/promises, due
+promises, and status counts using the same UTC date. Ordinary updates preserve
+all existing IDs. Explain any due/status-count change through specific supported
+corrections; never interpret an unexpected drop as successful cleanup.
+
 ## Data models
 
 ### Event (`site/_data/events.json`, keyed by MM-DD)
 
 ```yaml
+archive_id: "events-<stable unique ID>"
 date: "YYYY-MM-DD"  # UTC, >= 2000
 title: "..."
 category: natural-disaster | war | gun-violence | terrorism | food-crisis | industrial
@@ -29,6 +65,7 @@ sources: ["Org 1", "Org 2"]  # >= 2
 ### Promise (`site/_data/promises.json`)
 
 ```yaml
+archive_id: "promises-<stable unique ID>"
 person: "Name"
 role: "Title"
 promise: "Faithful paraphrase, or a quotation checked against the original"
@@ -38,12 +75,26 @@ description/evidence/sources
 ```
 
 `sources` are short publication names only — never URLs. Full links go in the
-aligned `source_urls` array. Published records require a usable URL for each
-source; legacy null links may remain only in withheld research records.
-New or fact-checked published records must provide usable evidence links. Do not
-invent an exact date, deadline, quote or outcome to satisfy the schema. Preserve
-unresolved originals and research notes outside `site/` until material claims
-can be established. An announcement alone is not evidence of fulfillment.
+aligned `source_urls` array. New records require a usable URL for each source.
+Retained legacy records may have missing links only with a `review.fields`
+entry for `sources`. Preserve original citations; put partial recheck evidence
+in `review.sources` rather than presenting it as proof of every original claim.
+Do not invent an exact date, deadline, quote, or outcome to satisfy the schema.
+Unverified new candidates may remain in research notes; that does not justify
+withholding already-collected records.
+
+Optional `review` metadata contains `as_of` (UTC date), nonempty `fields`, a
+specific `note`, and `sources: [{name, url}]`. Keep the record visible and retain
+its existing factual values unless a correction is supported. If an impossible
+legacy announcement date cannot be corrected, use `date_promised: null` with
+an explicit `date_promised` review flag and preserve the old value in
+`review.original_values`; do not guess a replacement.
+
+A withdrawn fatality report is corrected without removing its event. A retained
+event may have `lives_lost: 0` only with linked evidence and `correction.as_of`,
+`correction.note`, and `correction.original_values.lives_lost` preserving the
+earlier positive toll. Explain the corrected report without asserting an
+unestablished later outcome. This is not a shortcut for unknown death tolls.
 
 ## Pages loading (lightweight, no buttons)
 
@@ -71,6 +122,11 @@ git log --oneline -5                # last commit timestamp -> what has/hasn't r
 date -u +%Y-%m-%dT%H:%M:%SZ         # everything is UTC
 ```
 
+Check the branch, worktree, remotes, and upstream before investigating. Fetch
+current remote refs non-destructively when available; do not pull, switch,
+reset, stash, or overwrite user work. Record the pre-update IDs/counts before
+editing. Use the canonical JSON datasets, not reconstructed split files.
+
 The daily update (short version):
 
 1. **Events** — research `events.last_date + 1` through today UTC, ≥2 sources each,
@@ -79,18 +135,27 @@ The daily update (short version):
    New facts for an already-covered date
    may be appended or used to revise a toll, but never batch-reprocess a whole day.
 2. **Promises** — every run does all three: (a) new commitments/status changes since
-   `promises.last_date`; (b) resolve every `pending` promise with `due_date <= today`;
+   `promises.last_date`; (b) review every `pending` promise with `due_date <= today`,
+   resolving it with evidence or documenting why it remains uncertain;
    (c) add 3–10 NEW promises, rotating Track A (leaders) → B (CEOs) → C (orgs/treaties).
    A same-day re-run may skip (c). Record the focus in
    `checkpoint.json.promises_expansion.last_focus`.
-3. **Build + validate + ship**:
+3. **Retention** - assign IDs to additions and append them to `retention.json`.
+   Confirm no existing ID was lost, and reconcile total/due/status-count changes.
+   Update checkpoint totals without advancing past fully researched UTC days.
+4. **Build + validate + ship**:
 
 ```bash
 python3 -m unittest discover -s tests -p 'test_*.py'
 node --test tests/pages.test.cjs
 python3 site/_data/split_data.py
-python3 site/_data/validate.py          # must print OK; fix everything else first
+python3 site/_data/validate.py          # must end in OK; errors block publication
 ```
+
+Investigate warnings and document unresolved research gaps; warnings are not
+authorization to drop entries. Review the diff, including generated manifests,
+against the recorded baseline. For code/workflow changes, run
+`codex review --uncommitted` and address actionable findings before committing.
 
 Only when publication is authorized:
 
@@ -102,6 +167,10 @@ git push origin main                    # remote: 0x8338/dontforget
 
 If a same-day re-run changed nothing, skip the commit. Keep the checkpoint totals
 exactly in sync with actual counts — `validate.py` enforces this.
+Stage additional code/docs paths explicitly when those changes were authorized.
+Verify the remote head and Pages validation/deployment for the pushed commit.
+Report pending/failed checks or inaccessible live-site verification honestly;
+an HTTP 200 response containing a filter page is not a successful site check.
 
 ## Data rules that break the build
 
@@ -109,12 +178,16 @@ exactly in sync with actual counts — `validate.py` enforces this.
   Future promise deadlines are allowed; announcement dates are not. A promise
   deadline cannot precede its announcement. Explain year-end or anniversary
   normalization where the source states a year or duration rather than a day.
-- Events: `lives_lost` positive int, category in
+  The explicitly reviewed legacy unknown-announcement exception is described above.
+- Events: `lives_lost` positive int (or a documented zero-toll correction), category in
   `natural-disaster | war | gun-violence | terrorism | food-crisis | industrial`,
   ≥2 sources. Promises: ≥1 source (prefer 2), explicit/calculable `due_date`,
   status in `kept | broken | partial | pending | kept (delayed)`.
 - `sources` are short publication names only — never URLs, never bare domains.
-  URLs go in the aligned `source_urls` array. Missing links fail validation.
+  URLs go in the aligned `source_urls` array. Missing links fail validation except
+  for legacy records with the explicit review metadata described above.
+- Every record must have a unique, stable `archive_id` registered in
+  `retention.json`; missing protected records or unregistered additions fail.
 - Factual, no commentary. Never scrape. For deaths by suicide write "died by
   suicide", never "committed"; no method details. Add content warnings on high death tolls.
 - Duplicates are checked by `date + title` (events) and `person + promise prefix`
@@ -186,9 +259,13 @@ Before declaring a run complete, confirm:
 
 - `python3 site/_data/validate.py` prints `OK`.
 - Checkpoint `last_date`/`total` match the actual data.
+- All pre-update archive IDs remain present; total, due, and status-count changes
+  are reconciled. Review notes do not hide records or remove them from filters.
 - No overdue promises remain `pending` without a documented reason.
 - If publication was authorized, the commit pushed to `origin main` contains
-  only the intended changes. Otherwise report the local-only state explicitly.
+  only the intended changes, and its Pages workflow is checked. Otherwise report
+  the local-only state explicitly. Summarize corrections separately from additions
+  and unresolved research; do not claim every retained record is fully verified.
 
 ## Learned corrections
 
