@@ -1,0 +1,22 @@
+[
+ {
+  "person": "World Bank (Pakistan)",
+  "role": "Multilateral development bank",
+  "promise": "Provide $271 million for two projects in Khyber Pakhtunkhwa, Pakistan, with completion expected in 2031",
+  "date_promised": "2026-10-23",
+  "due_date": "2031-10-31",
+  "status": "pending",
+  "description": "The World Bank agreed on October 23, 2026 to provide $271 million for two projects in Khyber Pakhtunkhwa, Pakistan, including social protection and health programmes with expected completion dates in 2031.",
+  "evidence": [
+   "Agreement reported October 23, 2026",
+   "Expected completion 30 June 2031 and 31 October 2031"
+  ],
+  "sources": [
+   "The Nation (Pakistan)"
+  ],
+  "source_urls": [
+   "https://www.nation.com.pk/23-Oct-2026/wb-agrees-provide-dollar-271m-two-projects-kp"
+  ],
+  "archive_id": "promises-66a0e01d21bac590c026"
+ }
+]

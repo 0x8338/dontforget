@@ -1,6 +1,6 @@
 {
   "as_of": "2026-10-25",
-  "total": 457,
+  "total": 460,
   "due_total": 311,
   "due_status": {
     "broken": 109,
@@ -59,6 +59,12 @@
       "due": false
     },
     {
+      "key": "2031-10",
+      "file": "promises/2031-10.json",
+      "count": 1,
+      "due": false
+    },
+    {
       "key": "2031-09",
       "file": "promises/2031-09.json",
       "count": 1,
@@ -67,7 +73,7 @@
     {
       "key": "2030-12",
       "file": "promises/2030-12.json",
-      "count": 29,
+      "count": 31,
       "due": false
     },
     {

@@ -1,16 +1,16 @@
 {
  "events": {
-  "last_date": "2026-09-30",
-  "total": 738
+  "last_date": "2026-10-15",
+  "total": 755
  },
  "promises": {
-  "last_date": "2026-09-30",
-  "total": 457
+  "last_date": "2026-10-15",
+  "total": 460
  },
- "last_updated": "2026-10-25T15:10:55Z",
+ "last_updated": "2026-10-25T15:15:03Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-b: ceos/companies (volkswagen-future-plan-2030, turkish-airlines-iran-2027, dragon-oil-200k-bpd-2030)"
+  "last_focus": "track-c: orgs/treaties (eib-30bn-adaptation-2030, afdb-botswana-503m, world-bank-kp-271m)"
  },
  "fact_check": {
   "as_of": "2026-09-21",
