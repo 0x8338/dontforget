@@ -533,7 +533,15 @@
   "source_urls": [
    "https://www.uber.com/gb/en/newsroom/uber-helps-london-go-electric/"
   ],
-  "archive_id": "promises-14ba7014f506f08e3f12"
+  "archive_id": "promises-14ba7014f506f08e3f12",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Mary Barra",
@@ -695,7 +703,15 @@
    "https://www.president.gov.ua/en/news/volodimir-zelenskij-predstaviv-plan-peremogi-chlenam-yevrope-93885",
    "https://www.president.gov.ua/en/news/plan-peremogi-skladayetsya-z-pyati-punktiv-i-troh-tayemnih-d-93857"
   ],
-  "archive_id": "promises-75a92a222aeb93c178e4"
+  "archive_id": "promises-75a92a222aeb93c178e4",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Prabowo Subianto",
@@ -1248,7 +1264,15 @@
   "source_urls": [
    "https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/?bc=OTH"
   ],
-  "archive_id": "promises-9e5458ebb68ae852c693"
+  "archive_id": "promises-9e5458ebb68ae852c693",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "IEA",
@@ -1423,7 +1447,15 @@
   "source_urls": [
    "https://www.ark-invest.com/articles/valuation-models/tesla-price-target-2"
   ],
-  "archive_id": "promises-70c8f37fc85b82e7808b"
+  "archive_id": "promises-70c8f37fc85b82e7808b",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Jensen Huang",
@@ -1444,7 +1476,15 @@
    "https://nvidianews.nvidia.com/news/nvidia-to-build-accelerated-quantum-computing-research-center",
    "https://www.nvidia.com/en-gb/solutions/quantum-computing/accelerated-quantum-center/"
   ],
-  "archive_id": "promises-2105a1181bd5ddb64023"
+  "archive_id": "promises-2105a1181bd5ddb64023",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Elon Musk",
@@ -1465,7 +1505,15 @@
    "https://www.roic.ai/quote/TSLA/transcripts/2025-year/2-quarter",
    "https://live.euronext.com/en/financial-news/teslas-once-bullish-tone-robotaxis-shifts"
   ],
-  "archive_id": "promises-d51c51f6bd400330e4e5"
+  "archive_id": "promises-d51c51f6bd400330e4e5",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Elon Musk",
@@ -1652,7 +1700,15 @@
    "https://nvidianews.nvidia.com/_gallery/download_pdf/67d9bd1a3d6332a496666cf5/",
    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"
   ],
-  "archive_id": "promises-5661e8fbf67646711cc2"
+  "archive_id": "promises-5661e8fbf67646711cc2",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Elon Musk",
@@ -1796,7 +1852,15 @@
    "https://www.investing.com/news/economy/meta-to-invest-up-to-65-billion-in-capital-expenditure-this-year-3829944",
    "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/"
   ],
-  "archive_id": "promises-896c9450209ccb5cab1c"
+  "archive_id": "promises-896c9450209ccb5cab1c",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Donald Trump",

@@ -64,7 +64,15 @@
    "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-03-de-agosto-de-2026",
    "https://www.gob.mx/presidencia/prensa/presidenta-claudia-sheinbaum-anuncia-consulta-a-maestras-y-maestros-sobre-propuesta-de-regulacion-de-uso-de-celulares-en-las-escuelas"
   ],
-  "archive_id": "promises-300fc0cc277c87992416"
+  "archive_id": "promises-300fc0cc277c87992416",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2026-08-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Hungary (Tisza government)",
@@ -129,6 +137,14 @@
    "https://www.premiumtimesng.com/news/top-news/902723-presidency-extends-policing-bill-submission-deadline-by-eight-days.html",
    "https://punchng.com/state-police-bill-presidency-extends-public-submission-to-august-21/"
   ],
-  "archive_id": "promises-20441377ac5eb3775c6d"
+  "archive_id": "promises-20441377ac5eb3775c6d",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2026-08-21; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]

@@ -113,7 +113,15 @@
   "source_urls": [
    "https://www.bundesregierung.de/breg-en/service/archive/archive/no-more-new-borrowing-as-of-2015-446800"
   ],
-  "archive_id": "promises-cef86ed8da68a180ed0b"
+  "archive_id": "promises-cef86ed8da68a180ed0b",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2015-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Meg Whitman",

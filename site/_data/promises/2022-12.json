@@ -40,7 +40,15 @@
    "https://rsdebate.nic.in/bitstream/123456789/733779/1/PQ_258_16122022_U1143_p240_p244.pdf",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1883177&lang=2&reg=3"
   ],
-  "archive_id": "promises-6de108232a838b3aff4f"
+  "archive_id": "promises-6de108232a838b3aff4f",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2022-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Joe Biden",
@@ -338,7 +346,15 @@
    "https://cleanenergytransitionpartnership.org/2023/11/22/statement-on-international-public-support-for-the-clean-energy-transition/",
    "https://www.gov.uk/government/publications/cop26-presidency-outcomes/cop26-presidency-outcomes"
   ],
-  "archive_id": "promises-5fa93277be782857fee5"
+  "archive_id": "promises-5fa93277be782857fee5",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2022-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Angela Merkel (CDU/CSU/FDP government)",
@@ -438,7 +454,15 @@
    "https://finance.yahoo.com/news/ecb-very-unlikely-raise-rates-102335591.html",
    "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211115_annex_1~d1ef2075bb.en.pdf"
   ],
-  "archive_id": "promises-22da5224eee49e1e2e32"
+  "archive_id": "promises-22da5224eee49e1e2e32",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2022-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Changpeng Zhao (CZ)",
@@ -614,6 +638,14 @@
    "https://www.washingtonpost.com/technology/2022/01/26/tesla-elon-musk/",
    "https://www.tesla.com/VehicleSafetyReport"
   ],
-  "archive_id": "promises-6ad68cfbaeb78c29290b"
+  "archive_id": "promises-6ad68cfbaeb78c29290b",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2022-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]

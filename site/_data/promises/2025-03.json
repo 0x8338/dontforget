@@ -127,7 +127,15 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1577411&lang=2&reg=48",
    "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=192134"
   ],
-  "archive_id": "promises-486e96c9da6bac2f11b1"
+  "archive_id": "promises-486e96c9da6bac2f11b1",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2025-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Sam Altman",

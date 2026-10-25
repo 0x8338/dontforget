@@ -190,7 +190,15 @@
   "source_urls": [
    "https://investor.gm.com/news-releases/news-release-details/gms-vision-drives-value-company-communities-and-future-mobility"
   ],
-  "archive_id": "promises-e4f64ff131aa49cb3e6a"
+  "archive_id": "promises-e4f64ff131aa49cb3e6a",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2023-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Jim Farley",
@@ -489,7 +497,15 @@
   "source_urls": [
    "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20210616.htm"
   ],
-  "archive_id": "promises-2a84f1baa29e7a458be4"
+  "archive_id": "promises-2a84f1baa29e7a458be4",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2023-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Jeremy Hunt",
@@ -589,7 +605,15 @@
    "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/beps/statement-on-a-two-pillar-solution-to-address-the-tax-challenges-arising-from-the-digitalisation-of-the-economy-october-2021.pdf",
    "https://web-archive.oecd.org/2022-06-16/598771-brochure-two-pillar-solution-to-address-the-tax-challenges-arising-from-the-digitalisation-of-the-economy-october-2021.pdf"
   ],
-  "archive_id": "promises-f617bae020ba0f51f96a"
+  "archive_id": "promises-f617bae020ba0f51f96a",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2023-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Elon Musk",

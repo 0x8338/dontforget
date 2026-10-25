@@ -21,7 +21,15 @@
    "https://odi.org/en/insights/fast-start-finance-where-do-we-stand-at-the-end-of-2012/",
    "https://www.wri.org/research/us-contribution-fast-start-finance"
   ],
-  "archive_id": "promises-01d03b31d8b13fbd1fcc"
+  "archive_id": "promises-01d03b31d8b13fbd1fcc",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2012-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Mario Draghi",

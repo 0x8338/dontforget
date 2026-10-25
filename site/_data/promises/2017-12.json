@@ -152,7 +152,15 @@
   "source_urls": [
    "https://www.bankofengland.co.uk/-/media/boe/files/inflation-report/2016/november-2016.pdf"
   ],
-  "archive_id": "promises-fc040593ad800638d9a4"
+  "archive_id": "promises-fc040593ad800638d9a4",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2017-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Bruno Le Maire",

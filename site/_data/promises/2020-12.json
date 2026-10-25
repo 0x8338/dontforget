@@ -149,7 +149,15 @@
    "https://www.fmprc.gov.cn/eng/xw/zwbd/202405/t20240530_11353767.html",
    "https://china.caixin.com/2012-11-08/100457743.html"
   ],
-  "archive_id": "promises-07c35f781520da073e12"
+  "archive_id": "promises-07c35f781520da073e12",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2020-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Mark Zuckerberg",
@@ -496,7 +504,15 @@
    "https://www.iea.org/reports/technology-roadmap-carbon-capture-and-storage-2009",
    "https://www.iea.org/news/ieacslf-report-to-the-muskoka-g8-leaders-summit-carbon-capture-and-storage-crucial-for-mitigating-climate-change"
   ],
-  "archive_id": "promises-2f5050241e160d80885d"
+  "archive_id": "promises-2f5050241e160d80885d",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2020-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "High-Level Commission on Carbon Prices (Nicholas Stern, Joseph Stiglitz)",
@@ -518,7 +534,15 @@
    "https://unfccc.int/news/a-strong-carbon-price-needed-to-drive-large-scale-climate-action",
    "https://acdi.uct.ac.za/articles/2017-05-29-leading-economists-strong-carbon-price-needed-drive-large-scale-climate-action"
   ],
-  "archive_id": "promises-f3910877dcd0e74aa6ac"
+  "archive_id": "promises-f3910877dcd0e74aa6ac",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2020-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Elon Musk",
@@ -781,6 +805,14 @@
    "https://stories.starbucks.com/uploads/2021/04/Starbucks-2020-Global-Environmental-and-Social-Impact-Report.pdf",
    "https://www.vendingmarketwatch.com/coffee-service/news/21154821/starbucks-announces-rollout-of-new-strawless-lids-throughout-us-and-canada"
   ],
-  "archive_id": "promises-e1824165ffb7eb630a07"
+  "archive_id": "promises-e1824165ffb7eb630a07",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2020-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]

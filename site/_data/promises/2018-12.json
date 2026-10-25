@@ -41,7 +41,15 @@
   "source_urls": [
    "https://www.mofa.go.kr/eng/brd/m_5476/view.do?.=&seq=319607&srchFr="
   ],
-  "archive_id": "promises-3af6bdec17c781c141e2"
+  "archive_id": "promises-3af6bdec17c781c141e2",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2018-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "John Hanke",

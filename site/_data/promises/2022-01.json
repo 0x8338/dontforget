@@ -5,7 +5,7 @@
   "promise": "Salesforce's analyst-day presentation targeted $20-22 billion in annual revenue for fiscal 2022.",
   "date_promised": "2017-11-07",
   "due_date": "2022-01-31",
-  "status": "pending",
+  "status": "kept",
   "description": "Salesforce presented the target in November 2017. It reported $26.49 billion for fiscal 2022, ending January 31, 2022, above the numerical target range.",
   "evidence": [
    "The analyst-day deck dates the forecast and gives the $20-22 billion range.",
@@ -41,6 +41,14 @@
    "https://www.bis.org/press/p171207.htm",
    "https://www.bis.org/fsi/fsisummaries/b3_rpcr.pdf"
   ],
-  "archive_id": "promises-d04120ff4368d8b30eb8"
+  "archive_id": "promises-d04120ff4368d8b30eb8",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2022-01-01; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]

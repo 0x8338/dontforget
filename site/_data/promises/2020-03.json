@@ -16,6 +16,14 @@
   "source_urls": [
    "https://www.gov.uk/government/speeches/chancellor-george-osbornes-budget-2015-speech"
   ],
-  "archive_id": "promises-974fd2c658948f9b8241"
+  "archive_id": "promises-974fd2c658948f9b8241",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2020-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]

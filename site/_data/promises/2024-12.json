@@ -54,7 +54,15 @@
    "https://documents1.worldbank.org/curated/en/215711545408416700/pdf/Russia-Economic-Report-Preserving-Stability-Doubling-Growth-Halving-Poverty-How.pdf",
    "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf"
   ],
-  "archive_id": "promises-7ba527228f1d71b88303"
+  "archive_id": "promises-7ba527228f1d71b88303",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Vladimir Putin",
@@ -349,7 +357,15 @@
    "https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Blackwell-Platform-Arrives-to-Power-a-New-Era-of-Computing/",
    "https://investor.nvidia.com/files/doc_financials/2025/Q425/Q4FY25-CFO-Commentary.pdf"
   ],
-  "archive_id": "promises-996d215ae10b9b00965f"
+  "archive_id": "promises-996d215ae10b9b00965f",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  },
  {
   "person": "Andy Jassy",
@@ -1171,6 +1187,14 @@
    "https://lebanon.un.org/en/280095-united-nations-and-lebanese-government-launch-426-million-flash-appeal-urgent-humanitarian",
    "https://lebanon.un.org/en/316764-speech-un-resident-and-humanitarian-coordinator-launch-revised-flash-appeal-lebanon"
   ],
-  "archive_id": "promises-8cedb4ae1901b51d6f0b"
+  "archive_id": "promises-8cedb4ae1901b51d6f0b",
+  "review": {
+   "as_of": "2026-10-25",
+   "fields": [
+    "status"
+   ],
+   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+   "sources": []
+  }
  }
 ]
