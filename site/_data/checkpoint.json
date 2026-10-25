@@ -1,13 +1,13 @@
 {
  "events": {
-  "last_date": "2026-10-15",
-  "total": 755
+  "last_date": "2026-10-24",
+  "total": 773
  },
  "promises": {
-  "last_date": "2026-10-15",
+  "last_date": "2026-10-24",
   "total": 460
  },
- "last_updated": "2026-10-25T15:15:03Z",
+ "last_updated": "2026-10-25T15:16:06Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
   "last_focus": "track-c: orgs/treaties (eib-30bn-adaptation-2030, afdb-botswana-503m, world-bank-kp-271m)"
