@@ -788,5 +788,47 @@
    "https://www.business-standard.com/companies/news/hyundai-motor-india-targets-20-women-in-executive-workforce-by-2030-126090700534_1.html"
   ],
   "archive_id": "promises-538f2dde516f02d9d57e"
+ },
+ {
+  "person": "Dragon Oil",
+  "role": "Oil and gas company operating in Turkmenistan",
+  "promise": "Increase oil production in Turkmenistan and other countries to 200,000 barrels per day by 2030",
+  "date_promised": "2026-10-22",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Dragon Oil said on October 22, 2026 that it intends to raise its oil production in Turkmenistan and other countries to 200,000 barrels per day by 2030, expanding output from its existing fields.",
+  "evidence": [
+   "Company statement reported October 22, 2026",
+   "Target: 200,000 barrels per day by 2030"
+  ],
+  "sources": [
+   "Turkmengeology"
+  ],
+  "source_urls": [
+   "https://tmgeology.gov.tm/en/news/2774"
+  ],
+  "archive_id": "promises-7877de0d57e89790c5e8"
+ },
+ {
+  "person": "Volkswagen Group",
+  "role": "German automotive group",
+  "promise": "Deliver a 9 percent operating margin by 2030 under its Future Plan 2030, with €135 billion in capital expenditure and research and development in 2027-2031",
+  "date_promised": "2026-09-03",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "Volkswagen Group's supervisory board approved the company's Future Plan 2030 on September 3, 2026, setting a primary target of a 9 percent operating margin by 2030, equivalent to roughly €31 billion in operating profit, with €135 billion in capital expenditure and research and development planned for 2027-2031. The plan also calls for cutting the model portfolio by about 50 percent by 2035 and reducing Group-wide headcount by around 50,000 positions.",
+  "evidence": [
+   "Supervisory board approval announced September 3, 2026",
+   "Target: 9 percent operating margin by 2030; €135 billion capex and R&D in 2027-2031"
+  ],
+  "sources": [
+   "Volkswagen Group",
+   "Reuters"
+  ],
+  "source_urls": [
+   "https://www.volkswagen-group.com/en/press-releases/supervisory-board-approves-future-plan-2030-a-strong-signal-for-volkswagen-group-20662",
+   "https://www.investing.com/news/stock-market-news/factboxmain-points-of-volkswagens-restructuring-plan-4888624"
+  ],
+  "archive_id": "promises-8dd6530881e289d033bf"
  }
 ]

@@ -91,5 +91,27 @@
    "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
   ],
   "archive_id": "promises-f14e645dcb28b3f8f377"
+ },
+ {
+  "person": "Turkish Airlines",
+  "role": "Turkish national carrier",
+  "promise": "Suspend all flights to and from Iran until March 2027",
+  "date_promised": "2026-09-21",
+  "due_date": "2027-03-31",
+  "status": "pending",
+  "description": "Turkish Airlines suspended all flights to and from Iran until March 2027, the airline said on September 21, 2026, after the United States imposed new sanctions on Iran's aviation sector. Several other airlines in the region also suspended Iran services.",
+  "evidence": [
+   "Suspension announced September 21, 2026",
+   "Flights halted until March 2027"
+  ],
+  "sources": [
+   "APA",
+   "Iran International"
+  ],
+  "source_urls": [
+   "https://en.apa.az/asia/turkish-airlines-halts-iran-flights-until-march-2027-525435",
+   "https://www.iranintl.com/en/202609212495?source=share-link"
+  ],
+  "archive_id": "promises-f1f028496daa565dfda8"
  }
 ]

@@ -1,16 +1,16 @@
 {
  "events": {
-  "last_date": "2026-09-20",
-  "total": 722
+  "last_date": "2026-09-30",
+  "total": 738
  },
  "promises": {
-  "last_date": "2026-09-20",
-  "total": 454
+  "last_date": "2026-09-30",
+  "total": 457
  },
- "last_updated": "2026-09-21T08:11:58Z",
+ "last_updated": "2026-10-25T15:10:55Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-a: leaders/governments (Ghana education targets and Canadian trade target); supplemental Canadian finance commitments"
+  "last_focus": "track-b: ceos/companies (volkswagen-future-plan-2030, turkish-airlines-iran-2027, dragon-oil-200k-bpd-2030)"
  },
  "fact_check": {
   "as_of": "2026-09-21",
