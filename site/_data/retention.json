@@ -773,7 +773,16 @@
     "events-60928ee354462ad4ae66",
     "events-c3937824f1b82c75858e",
     "events-7dcfbfad790fd5d9e640",
-    "events-b239bb16520befaec4a0"
+    "events-b239bb16520befaec4a0",
+    "events-20261023-binnari-attack",
+    "events-20261024-shirka-attacks",
+    "events-20261026-gulmi-suv-crash",
+    "events-20261026-kyiv-missile-attack",
+    "events-20261026-daraa-airstrikes",
+    "events-20261026-nyala-market-strikes",
+    "events-20261028-urda-train-collision",
+    "events-20261028-tharparkar-ambulance-fire",
+    "events-20261028-rafah-mawasi-strike"
   ],
   "promises": [
     "promises-01d03b31d8b13fbd1fcc",
@@ -1235,6 +1244,12 @@
     "promises-f1f028496daa565dfda8",
     "promises-6a179248ba4aa5f27770",
     "promises-634cfa7023626b48b094",
-    "promises-66a0e01d21bac590c026"
+    "promises-66a0e01d21bac590c026",
+    "promises-20261026-uk-evm-savings",
+    "promises-20261026-uk-regenerative-evidence",
+    "promises-20261026-uk-carbon-recognition",
+    "promises-20261019-amazon-germany-investment",
+    "promises-20260916-generac-amazon-deliveries",
+    "promises-20261026-charger-aurora-trucks"
   ]
 }

@@ -1687,28 +1687,22 @@
   "promise": "Blackwell Ultra (GB300) platforms will start shipping in the second half of 2025",
   "date_promised": "2025-03-18",
   "due_date": "2025-12-31",
-  "status": "pending",
+  "status": "kept",
   "description": "NVIDIA announced Blackwell Ultra platforms at GTC on March 18, 2025, expecting partner products in the second half of 2025. Its August results said production was ramping.",
   "evidence": [
-   "Outcome not established as of 2026-09-21: retrieved primary evidence confirms production ramp but does not establish the first customer shipment date for the promised platforms."
+   "Supermicro announced on September 11, 2025 that it was delivering HGX B300 and GB300 NVL72 systems in volume worldwide. This establishes partner shipments within the promised second half of 2025 without asserting an exact first-shipment date."
   ],
   "sources": [
    "NVIDIA: Blackwell Ultra announcement",
-   "NVIDIA: Q2 FY2026 results"
+   "NVIDIA: Q2 FY2026 results",
+   "Supermicro"
   ],
   "source_urls": [
    "https://nvidianews.nvidia.com/_gallery/download_pdf/67d9bd1a3d6332a496666cf5/",
-   "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"
+   "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
+   "https://ir.supermicro.com/news/news-details/2025/Supermicro-Begins-Volume-Shipments-of-NVIDIA-Blackwell-Ultra-Systems-and-Rack-Plug-and-Play-Data-Center-Scale-Solutions/default.aspx"
   ],
-  "archive_id": "promises-5661e8fbf67646711cc2",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-5661e8fbf67646711cc2"
  },
  {
   "person": "Elon Musk",
@@ -1839,28 +1833,22 @@
   "promise": "Expect Meta AI to serve more than one billion people in 2025",
   "date_promised": "2025-01-24",
   "due_date": "2025-12-31",
-  "status": "pending",
+  "status": "kept",
   "description": "Zuckerberg forecast more than one billion Meta AI users for 2025. The company subsequently reported a rounded billion-user milestone.",
   "evidence": [
-   "Outcome not established as of 2026-09-21: the retrieved rounded user total does not establish the forecast's strict greater-than threshold."
+   "Meta's October 2025 publication reports more than one billion people using Meta AI every month, supporting the greater-than-one-billion threshold within 2025. This is a company-reported cross-product user metric, not independently audited standalone-app usage."
   ],
   "sources": [
    "Reuters: January 24 forecast",
-   "TechCrunch: May shareholder statement"
+   "TechCrunch: May shareholder statement",
+   "Meta"
   ],
   "source_urls": [
    "https://www.investing.com/news/economy/meta-to-invest-up-to-65-billion-in-capital-expenditure-this-year-3829944",
-   "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/"
+   "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/",
+   "https://about.fb.com/news/2025/10/improving-your-recommendations-apps-ai-meta"
   ],
-  "archive_id": "promises-896c9450209ccb5cab1c",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-896c9450209ccb5cab1c"
  },
  {
   "person": "Donald Trump",

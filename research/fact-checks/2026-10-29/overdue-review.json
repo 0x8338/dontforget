@@ -1,0 +1,511 @@
+{
+  "as_of": "2026-10-29",
+  "scope": "All 51 pre-update pending promises due by 2026-10-29. Each record and prior scope/timing reason was read. Fresh outcome searches focused on Blackwell availability, Rogue Squadron, and Boston NVAQC; other entries carry forward the explicitly dated October 28 research and are not represented as newly fact-checked.",
+  "prior_ledger": "../2026-10-28/overdue-review.json",
+  "records": [
+    {
+      "archive_id": "promises-471583b46b45d4a6bf12",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The reported 100,000 threshold included posted kits. Tests dispatched, tests processed and people tested are different measures; reconcile the original wording before scoring.",
+      "source_urls": [
+        "https://fullfact.org/health/coronavirus-100k-tests/"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-e2d7f87e0a36ee857d72",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The declaration of open-defecation-free status is not independent verification. NFHS 2019-21 evidence raises a substantive concern, but its survey period does not establish the exact October 2019 outcome; reconcile definitions and coverage.",
+      "source_urls": [
+        "https://doi.org/10.1136/bmjopen-2023-072507"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-0bcfe13a650673ebf3a2",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Provincial progress differs. A count of provinces reaching C$10 is not the promised national weighted average for eligible regulated places; the comparable national result is still needed.",
+      "source_urls": [
+        "https://buildingchildcare.ca/tracking-elcc-system-progress/"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-6de108232a838b3aff4f",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The target refers to fiscal 2022-23 and a particular income baseline. Survey results and extrapolations found do not supply a matched final-period actual series; do not substitute nominal growth or estimates.",
+      "source_urls": [
+        "https://prsindia.org/budgets/parliament/demand-for-grants-2023-24-analysis-agriculture-and-farmers-welfare"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-7ba527228f1d71b88303",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "World Bank material identifies a fourth-place PPP ranking for 2021. The 2024 ranking file was located but its contents were not retrieved in this pass; confirm the target-year table rather than nominal GDP or income classification.",
+      "source_urls": [
+        "https://www.worldbank.org/en/brief/2024/07/02/russia-was-classified-as-high-income-country",
+        "https://datacatalogfiles.worldbank.org/ddh-published/0038129/DR0046438/GDP_PPP.pdf"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-07c35f781520da073e12",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "NBS reports aggregate income growth, but this combined pledge requires GDP and separately urban and rural real per-capita income against 2010. All components have not been reconciled.",
+      "source_urls": [
+        "https://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896446.html",
+        "https://www.stats.gov.cn/english/PressRelease/202102/t20210228_1814177.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-4f9652d860ddb99e6e60",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Microsoft's annual report contains capital spending and leases, but company-wide additions are not automatically the AI-enabled data-centre investment scope of the forecast. Reconcile the accounting basis before scoring.",
+      "source_urls": [
+        "https://www.microsoft.com/investor/reports/ar25/index.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-3af6bdec17c781c141e2",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The Panmunjom text distinguishes an end-of-war declaration from pursuit of a peace agreement. The outcome check must identify the promised declaration in 2018, not infer it from a summit or the continuing absence of a peace treaty.",
+      "source_urls": [
+        "https://digitallibrary.un.org/record/1640603?ln=en"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-d4d93e2a09fb3d67c095",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The World Bank's IDA20 retrospective reports financing over the replenishment cycle. Reconcile the initial package, revised envelope, commitments and disbursements; they are not interchangeable outcome measures.",
+      "source_urls": [
+        "https://live.worldbank.org/en/event/2026/ida20-restrospective"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-996d215ae10b9b00965f",
+      "decision": "kept",
+      "verification": "new outcome evidence",
+      "reason": "A December 9, 2024 Dell release carried by CoreWeave confirms GB200 NVL72 rack shipments within the promised calendar year. This is partner hardware availability, not a claim of universal cloud general availability.",
+      "source_urls": [
+        "https://investors.coreweave.com/news/news-details/2024/CoreWeave-and-Dell-Technologies-Extend-Relationship-to-Deliver-AI-at-Scale/default.aspx"
+      ]
+    },
+    {
+      "archive_id": "promises-c21cb17876c44fdf99d6",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "This was a conditional recession warning, not a promise to cause a recession. NBER chronology can assess whether the scenario occurred, but a deterministic kept/broken label would misrepresent the statement.",
+      "source_urls": [
+        "https://www.nber.org/research/business-cycle-dating"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-14ba7014f506f08e3f12",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "A comparable year-end percentage of London journeys using fully electric cars was not established. Driver or vehicle counts are not the promised journey share.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-e4f64ff131aa49cb3e6a",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "A verified worldwide inventory of qualifying new all-electric models by 2023 remains missing. A China plan for new or refreshed models includes a different scope and cannot stand in for it.",
+      "source_urls": [
+        "https://investor.gm.com/static-files/694ce45c-b2b7-4c2f-b6fb-802f11ac0ade"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-75a92a222aeb93c178e4",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The statement conditions its 2025 scenario on immediate implementation of the Victory Plan. The review did not establish that those prerequisites occurred; do not grade it as an unconditional guarantee.",
+      "source_urls": [
+        "https://apnews.com/article/f3525550f6986f590777193a7385c0c5"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-5945ecf96e2d5cb6ea35",
+      "decision": "broken",
+      "verification": "new outcome evidence",
+      "reason": "Reuters reports removal from the December 2023 schedule in September 2022; Jenkins still owed a script draft in March 2024, as reported by TheWrap. The missed original schedule supports broken without asserting permanent cancellation. Exact December 22 precision and original citation gaps remain flagged.",
+      "source_urls": [
+        "https://yall1067.com/2022/09/15/disney-removes-star-wars-spinoff-rogue-squadron-from-calendar-variety/",
+        "https://www.thewrap.com/patty-jenkins-star-wars-rogue-squadron-still-alive/"
+      ]
+    },
+    {
+      "archive_id": "promises-1ff7c63609a7536b1cb4",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "UMG and Deezer announced a concrete model, but the retained worldwide December 2024 deadline is unsupported. Reconcile the promise's scope before treating one partnership as fulfillment of a global rollout.",
+      "source_urls": [
+        "https://www.universalmusic.com/universal-music-group-and-deezer-to-launch-the-first-comprehensive-artist-centric-music-streaming-model/",
+        "https://www.deezer-investors.com/wp-content/uploads/2024/07/2024_07_30-HY-2024.pdf"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-eed8a225c094a8ad4157",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Later reports identify delays and cancellations, but a full qualifying launch inventory at fiscal year-end was not verified. The original exact announcement day also remains flagged.",
+      "source_urls": [
+        "https://www.gamespot.com/gallery/sonys-live-service-game-status-report-canceled-released-shut-down/2900-6143/"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-58b81c73ecb2a79b9281",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Indexed FIFA results suggest actual 2026 appearances, but the opened appearances page returned no readable body. Verify a match record to resolve participation independently of the still-unverified original statement date; retain the aspiration-versus-guarantee distinction.",
+      "source_urls": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/articles/players-most-appearances-games-matches-history"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-c178a941b0c762421690",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Annualized run-rate headlines cannot verify full-year recognized revenue. A report of actual revenue was only a search lead, not a checked comparable result; the original forecast date remains unresolved.",
+      "source_urls": [
+        "https://finance.yahoo.com/news/openai-tops-25-billion-annualized-033836274.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-b0f5cd03036e8034632b",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The release/deprecation catalog is a useful lead, but a complete dated release history for 3.5 Opus was not verified in this pass. Preserve the original announcement-date discrepancy; do not substitute the later Opus 4 name.",
+      "source_urls": [
+        "https://www.anthropic.com/news/models",
+        "https://docs.anthropic.com/en/docs/about-claude/model-deprecations"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-6b22b1328cb4625bb7f8",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained scope review: an intention to move quickly in AI search has no verified quantified target or December 2025 deadline. Market share is not a valid substitute for the missing dated commitment.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-9e5458ebb68ae852c693",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The targeted search did not establish a comparable year-end agent count. Customer deals, conversations, actions and agent deployments are distinct metrics and cannot be substituted for one billion agents.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-ff382166c01d74c19c58",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "IBM confirms the 2023 Condor milestone. This does not resolve the retained combined multi-year modular-systems claim or its erroneous single deadline; do not mark the whole record kept from one milestone.",
+      "source_urls": [
+        "https://www.ibm.com/quantum/blog/quantum-roadmap-2033"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-5c145712a851ec904546",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The signatory list was updated just before the Paris summit. A company-by-company publication and timing check for the relevant signatory cohort is still needed; later frameworks alone do not prove deadline compliance.",
+      "source_urls": [
+        "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-d29d26977e8e3e8e68a6",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "January 29-30 reporting describes reporting requirements starting. It does not identify the effective date of the Commerce action relative to the record's January 28 deadline. A publication date alone cannot establish lateness.",
+      "source_urls": [
+        "https://apnews.com/article/395591bcde523416db88767fa54f30f5",
+        "https://www.axios.com/2024/01/30/commerce-ai-model-info-sharing"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-ecb5f6617e0028e6f158",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained scope review: supervised testing, driverless operation and commercial robotaxi service differ. Funding withdrawal does not by itself disprove all 2024 resumption; the original claimed promise also needs verification.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-01d03b31d8b13fbd1fcc",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Reported aggregate fast-start finance is not by itself proof that funds were new and additional. Definitions, double counting and the original commitment's scope must be reconciled before scoring the composite claim.",
+      "source_urls": [
+        "https://unfccc.int/topics/climate-finance/resources/fast-start-finance"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-5fa93277be782857fee5",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The pledge concerns new direct international public support and permits limited exceptions. The search did not establish a signatory-by-signatory outcome inventory that distinguishes those categories from private or domestic financing.",
+      "source_urls": [
+        "https://www.axios.com/2021/11/04/cop26-takes-aim-at-fossil-fuels-with-caveats"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-2f5050241e160d80885d",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "IEA's 2020 report records only 21 operating CCUS facilities against its earlier 100-project pathway. It is a scenario roadmap with a separate 2050 component, not an IEA delivery undertaking; a single promise-status label needs scope clarification.",
+      "source_urls": [
+        "https://www.iea.org/reports/ccus-in-clean-energy-transitions/a-new-era-for-ccus"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-f3910877dcd0e74aa6ac",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained scope review: the commission recommended carbon-price ranges, rather than promising to set a universal price. A jurisdictional price comparison cannot establish a broken commission undertaking.",
+      "source_urls": [
+        "https://www.worldbank.org/en/publication/state-and-trends-of-carbon-pricing"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-2a84f1baa29e7a458be4",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The December 2023 Fed target range was 5.25-5.50%, not the June 2021 median projection. The forecast did not materialize, but it was explicitly not a policy promise; preserve that distinction rather than assign a moral kept/broken judgment.",
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a1.htm"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-22da5224eee49e1e2e32",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The ECB raised rates in July 2022. That establishes an outcome contrary to the earlier expectation, not breach of an unconditional pledge: Lagarde's statement depended on forward-guidance conditions.",
+      "source_urls": [
+        "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp220721~53e5bdd317.en.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-fc040593ad800638d9a4",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The original document is a conditional GDP forecast, not a delivery promise. A matched ONS outcome vintage and an explicit forecast-assessment policy are needed before attaching an outcome label.",
+      "source_urls": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/inflation-report/2016/november-2016.pdf"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-974fd2c658948f9b8241",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The record combines two fiscal-year surplus projections. Reconcile the matching ONS borrowing measure and both periods rather than using later revised forecasts or a single monthly balance.",
+      "source_urls": [
+        "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/datasets/publicsectorfinances/current"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-cef86ed8da68a180ed0b",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Contemporary government material confirms a no-new-borrowing budget plan. The retained record has not yet been reconciled between passing such a budget and actual federal net borrowing; neither gross borrowing nor all-government surplus is equivalent.",
+      "source_urls": [
+        "https://www.bundesregierung.de/breg-de/aktuelles/haushalt-ohne-neue-schulden-399304"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-486e96c9da6bac2f11b1",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "MoSPI has revised the fiscal 2024-25 nominal GDP series. The promise is in US dollars; the matching annual conversion and original fiscal-versus-calendar scope were not reconciled, so do not substitute PPP GDP or a rupee total.",
+      "source_urls": [
+        "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233518&lang=1&reg=6"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-70c8f37fc85b82e7808b",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "ARK's original figure uses the 2021 share basis and is a probabilistic valuation model. Verify split-adjusted price history and the forecast's horizon definition before assessment; an unadjusted $3,000 comparison is invalid.",
+      "source_urls": [
+        "https://www.ark-invest.com/articles/valuation-models/tesla-price-target-2"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-f617bae020ba0f51f96a",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "OECD describes IIR application beginning in 2024 and UTPR no earlier than 2025, later than the original envisaged timetable. Because the common approach did not mandate universal adoption, scope must be reconciled before grading all signatories together.",
+      "source_urls": [
+        "https://www.oecd.org/en/topics/global-minimum-tax.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-e1824165ffb7eb630a07",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The company's 2021 packaging report confirms a US/Canada strawless-lid rollout in FY2020, not worldwide elimination of all qualifying straws. Global coverage and product/accessibility exceptions still need reconciliation.",
+      "source_urls": [
+        "https://www.ellenmacarthurfoundation.org/global-commitment-2021/signatory-reports/ppu/starbucks-coffee-company"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-2105a1181bd5ddb64023",
+      "decision": "pending",
+      "verification": "targeted search; no operational-opening confirmation",
+      "reason": "The March announcement is a plan, not proof of operational opening. No dated Boston NVAQC operational-start confirmation was established; do not confuse the separate Japanese quantum facility with Boston.",
+      "source_urls": [
+        "https://nvidianews.nvidia.com/news/nvidia-to-build-accelerated-quantum-computing-research-center"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-d51c51f6bd400330e4e5",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "A later service map or rollout update does not provide the promised year-end US population coverage. The regulatory-approval condition also needs assessment; no matched coverage calculation was established.",
+      "source_urls": [
+        "https://www.tesla.com/robotaxi"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-6ad68cfbaeb78c29290b",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Current FSD safety statistics are not evidence for a 2022 claim, and supervised FSD is not driverless operation. A comparable exposure-adjusted human baseline and the claimed operating conditions remain unverified.",
+      "source_urls": [
+        "https://www.tesla.com/fsd/safety"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-300fc0cc277c87992416",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "August 31 material reports teacher consultation and September reporting describes a national proposal. Verify when a qualifying national proposal was actually presented; consultation, proposal, approval and enforcement are different milestones.",
+      "source_urls": [
+        "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-31-de-agosto-de-2026",
+        "https://elpais.com/mexico/2026-09-21/adios-a-las-pantallas-en-el-sistema-educativo-mexicano-claves-de-la-restriccion-a-los-celulares-en-escuelas-primarias-y-secundarias.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-35373f20801032fce4e3",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained deadline review: this is conditioned on tenure, not election day. The October 27 date becoming due does not establish end of tenure or fulfillment; no new geopolitical outcome claim is made.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-54f6bc75a0565b033b01",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained deadline review: election day does not end this tenure-conditioned undertaking. Do not infer nuclear status or completion from the calendar deadline.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-cbe2f5e2da8c5435cf13",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Retained deadline review: disarmament, not election day, is the stated condition. The exact speech date and a valid terminal deadline remain unresolved; no new withdrawal assessment is made.",
+      "source_urls": [],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-b321d387086a4cb7e58a",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "June approval and signing support the financing commitment, not the exact receipt date. Retain the June 24/25 signing discrepancy and verify actual disbursement before assigning on-time or delayed fulfillment.",
+      "source_urls": [
+        "https://www.worldbank.org/en/news/press-release/2026/06/22/first-ukraine-jobs-and-private-sector-growth-development-policy-operation",
+        "https://www.kmu.gov.ua/en/news/yuliia-svyrydenko-pidpysaly-zi-svitovym-bankom-uhodu-na-339-mlrd-dolariv"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-8f8373ee36ecef597c4d",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "Oracle's FY2026 results were located. Reconcile the actual full-year cash-flow capex with the original approximately-$50-billion forecast and any lease exclusions before scoring; later-quarter capex is not the annual result.",
+      "source_urls": [
+        "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-934b3919393d2550f7ec",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The Hungarian government claims compliance, but Commission acceptance of all relevant milestones was not established. A revised plan's approval or a national statement is not a positive final payment assessment.",
+      "source_urls": [
+        "https://kormany.hu/hirek/eu-s-forrasok-hazahozatala-minden-feltetelt-teljesitett-magyarorszag",
+        "https://ec.europa.eu/economy_finance/recovery-and-resilience-scoreboard/milestones_and_targets.html"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-20441377ac5eb3775c6d",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The extension announcement identifies August 21 at 17:00 WAT, but it does not establish that submissions actually remained accepted through that time. No dated operational confirmation was retrieved.",
+      "source_urls": [
+        "https://www.nationalpolicingbill.com/"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    },
+    {
+      "archive_id": "promises-8cedb4ae1901b51d6f0b",
+      "decision": "pending",
+      "verification": "scope review; prior research carried forward",
+      "reason": "The UN confirms launching the appeal. The retained record must distinguish asking for funds, receiving funds and delivering aid; those are not an unconditional UN promise of full donor funding. The year-end tracking report is a follow-up lead.",
+      "source_urls": [
+        "https://lebanon.un.org/en/280095-united-nations-and-lebanese-government-launch-426-million-flash-appeal-urgent-humanitarian",
+        "https://lebanon.un.org/sites/default/files/2025-02/2024%20Q4%20Lebanon%20Aid%20Tracking%20report%20%28as%20of%2031%20December%202024%29_0.pdf"
+      ],
+      "prior_research_as_of": "2026-10-28"
+    }
+  ]
+}

@@ -679,5 +679,43 @@
    "https://www.pm.gc.ca/en/news/news-releases/2026/09/15/first-canada-investment-summit-unleashes-nearly-500-billion-new"
   ],
   "archive_id": "promises-83db28a52338a618902d"
+ },
+ {
+  "person": "UK Government (regenerative agriculture)",
+  "role": "Government of the United Kingdom",
+  "promise": "Work with industry to call for evidence in 2027 on a possible national regenerative agriculture code or standard",
+  "date_promised": "2026-10-26",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Defra's Growing Places paper commits to an evidence call, not to adopting a standard. December 31 normalizes the stated year 2027; the paper gives no exact day.",
+  "evidence": [
+   "The October 26 policy paper places the evidence call in 2027."
+  ],
+  "sources": [
+   "UK Department for Environment, Food and Rural Affairs"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/publications/mobilising-private-finance-for-local-nature-recovery/growing-places-mobilising-private-finance-for-local-nature-recovery"
+  ],
+  "archive_id": "promises-20261026-uk-regenerative-evidence"
+ },
+ {
+  "person": "Amazon",
+  "role": "Technology and retail company",
+  "promise": "Plan more than EUR 16 billion of new investment in Germany during 2027",
+  "date_promised": "2026-10-19",
+  "due_date": "2027-12-31",
+  "status": "pending",
+  "description": "Amazon's October 20 account says David Zapolsky announced the 2027 investment plan at the previous day's Invest in Germany Summit. It covers several business areas, not solely data centres. December 31 normalizes the stated calendar year; the plan is not evidence that the investment has occurred.",
+  "evidence": [
+   "Amazon identifies more than EUR 16 billion for 2027, separately from investment made since 2010."
+  ],
+  "sources": [
+   "Amazon"
+  ],
+  "source_urls": [
+   "https://www.aboutamazon.eu/news/company-news/amazons-commitment-to-germany"
+  ],
+  "archive_id": "promises-20261019-amazon-germany-investment"
  }
 ]

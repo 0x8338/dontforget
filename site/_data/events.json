@@ -16833,6 +16833,26 @@
  ],
  "10-23": [
   {
+   "date": "2026-10-23",
+   "title": "Binnari attack kills at least 62, emergency agency says",
+   "category": "gun-violence",
+   "location": "Binnari, Taraba, Nigeria",
+   "lives_lost": 62,
+   "description": "Content note: mass-casualty incident. Gunmen attacked Binnari in Taraba state's Karim-Lamido area on October 23. On October 27, the state emergency management agency reported at least 62 deaths. Earlier reporting cited a lower Amnesty International count of 40. The toll remains provisional.",
+   "sources": ["Associated Press", "Premium Times"],
+   "source_urls": [
+    "https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc",
+    "https://www.premiumtimesng.com/regional/nnorth-east/920137-death-toll-in-taraba-terror-attack-rises-to-40.html"
+   ],
+   "archive_id": "events-20261023-binnari-attack",
+   "review": {
+    "as_of": "2026-10-28",
+    "fields": ["lives_lost"],
+    "note": "62 is the emergency agency's reported toll, not a reconciled final count. AP separately reports 52 recovered bodies; do not add these figures together. Earlier police and Amnesty counts differ.",
+    "sources": [{"name": "Associated Press", "url": "https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc"}]
+   }
+  },
+  {
    "date": "2002-10-23",
    "title": "Moscow theater siege (Nord-Ost)",
    "category": "terrorism",
@@ -16969,6 +16989,26 @@
   }
  ],
  "10-24": [
+  {
+   "date": "2026-10-24",
+   "title": "Church reports 46 killed in Shirka attacks",
+   "category": "gun-violence",
+   "location": "Shirka, Oromia, Ethiopia",
+   "lives_lost": 46,
+   "description": "Content note: mass-casualty incident. Attacks on churches and homes in Shirka on October 24 killed 46 people, according to the Ethiopian Orthodox Church. Other reporting, citing ACLED, gave at least 43 deaths. The Shirka count excludes a separate October 20 attack in Merti.",
+   "sources": ["Associated Press", "Emirate Radio"],
+   "source_urls": [
+    "https://apnews.com/article/2619e078e655a87f0f29cd1e8dd9db5d",
+    "https://www.emirateradio.ng/2026/10/26/at-least-43-killed-in-attacks-on-churches-homes-in-ethiopia/"
+   ],
+   "archive_id": "events-20261024-shirka-attacks",
+   "review": {
+    "as_of": "2026-10-28",
+    "fields": ["lives_lost"],
+    "note": "46 is attributed to the church; other reports give at least 43. AP's combined 60 includes 14 deaths in Merti on October 20, not 60 deaths in Shirka. Independent verification and perpetrator attribution remain limited.",
+    "sources": [{"name": "Associated Press", "url": "https://apnews.com/article/2619e078e655a87f0f29cd1e8dd9db5d"}]
+   }
+  },
   {
    "date": "2016-10-24",
    "title": "Quetta police training college attack",
@@ -17147,6 +17187,74 @@
  ],
  "10-26": [
   {
+   "date": "2026-10-26",
+   "title": "Nyala strikes leave 36 bodies at MSF-supported hospital",
+   "category": "war",
+   "location": "Nyala, South Darfur, Sudan",
+   "lives_lost": 36,
+   "description": "Content note: mass-casualty incident. Strikes hit a market and a residential neighbourhood in Nyala on the evening of October 26. Doctors Without Borders reported that its supported hospital received 36 bodies and treated more than 150 wounded people. The hospital count is not a final citywide toll; MSF attributed the strikes to the Sudanese Armed Forces.",
+   "sources": ["Doctors Without Borders", "Associated Press"],
+   "source_urls": [
+    "https://www.msf.org/people-killed-and-150-injured-sudanese-armed-forces-strike-nyala",
+    "https://www.ksat.com/news/world/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say/"
+   ],
+   "archive_id": "events-20261026-nyala-market-strikes",
+   "review": {
+    "as_of": "2026-10-29",
+    "fields": ["lives_lost"],
+    "note": "36 is the October 27 hospital-receipt count, not a civilian-only or comprehensive death toll. AP also reports conflicting counts of at least 21 and more than 100 from other organisations. These figures must not be added. MSF dates the first strike to about 20:00 local time on October 26, also October 26 UTC; this is distinct from the retained October 16 Nyala attack.",
+    "sources": [{"name": "Doctors Without Borders", "url": "https://www.msf.org/people-killed-and-150-injured-sudanese-armed-forces-strike-nyala"}]
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "title": "SUV crash in Gulmi kills six",
+   "category": "industrial",
+   "location": "Kaligandaki Rural Municipality, Gulmi, Nepal",
+   "lives_lost": 6,
+   "description": "A Scorpio SUV fell approximately 250 metres from the Kaligandaki Corridor road in Gulmi on the afternoon of October 26. Five people died at the scene and another died in hospital; three others were injured. The cause was not established in the initial reports.",
+   "sources": ["The Kathmandu Post", "Onlinekhabar"],
+   "source_urls": [
+    "https://kathmandupost.com/national/2026/10/26/six-killed-as-scorpio-plunges-250-metres-off-road-in-gulmi",
+    "https://english.onlinekhabar.com/suv-crash-scorpio-gulmi.html"
+   ],
+   "archive_id": "events-20261026-gulmi-suv-crash"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Russian missile attack on Kyiv kills one",
+   "category": "war",
+   "location": "Kyiv, Ukraine",
+   "lives_lost": 1,
+   "description": "A Russian missile attack on Kyiv on the evening of October 26 killed at least one person. University accommodation, residential buildings and transport infrastructure were damaged. Initial and later reports differed on the number injured but both reported one death.",
+   "sources": ["Reuters", "bne IntelliNews"],
+   "source_urls": [
+    "https://www.streetinsider.com/Reuters/Russian%2Battack%2Bon%2BKyiv%2Bkills%2Bone%2C%2Binjures%2B10%2C%2Bhits%2Beducational%2B%2Binstitution%2C%2Bmetro%2Bstation/27234273.html",
+    "https://www.intellinews.com/missile-war-monitor-russian-ballistic-missiles-hit-a-kyiv-university-campus-then-the-southern-bridge-s-metro-line-479097/"
+   ],
+   "archive_id": "events-20261026-kyiv-missile-attack"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Jordanian airstrikes in Daraa kill seven, Syrian rescuers report",
+   "category": "war",
+   "location": "Daraa governorate, Syria",
+   "lives_lost": 7,
+   "description": "Jordanian airstrikes hit locations in Daraa governorate on the evening of October 26. Syrian emergency officials reported recovering seven bodies, including three children, in a preliminary update the next day. Earlier reporting gave a lower death toll.",
+   "sources": ["Syrian Arab News Agency", "Enab Baladi"],
+   "source_urls": [
+    "https://sana.sy/en/syria/2353879/",
+    "https://english.enabbaladi.net/archives/2026/10/jordanian-airstrikes-kill-civilians-in-daraa-damascus-denies-coordination/"
+   ],
+   "archive_id": "events-20261026-daraa-airstrikes",
+   "review": {
+    "as_of": "2026-10-28",
+    "fields": ["lives_lost"],
+    "note": "Seven is the preliminary October 27 recovery count attributed to the southern emergency director. Enab Baladi's earlier report counted five. These are updates about the same strikes, not separate events to sum.",
+    "sources": [{"name": "Syrian Arab News Agency", "url": "https://sana.sy/en/syria/2353879/"}]
+   }
+  },
+  {
    "date": "2010-10-26",
    "title": "Mount Merapi eruption",
    "category": "natural-disaster",
@@ -17240,6 +17348,66 @@
   }
  ],
  "10-28": [
+  {
+   "date": "2026-10-28",
+   "title": "High-speed train collision near Urda kills at least 68",
+   "category": "industrial",
+   "location": "Urda, Toledo province, Spain",
+   "lives_lost": 68,
+   "description": "Content note: mass-casualty incident. Two high-speed trains collided near Urda on the morning of October 28. Regional authorities reported at least 68 deaths while rescuers continued searching the wreckage. Services on the Madrid-southern Spain high-speed route were suspended, and the circumstances of the collision remained under investigation.",
+   "sources": ["Agence France-Presse", "RTE"],
+   "source_urls": [
+    "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
+    "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+   ],
+   "archive_id": "events-20261028-urda-train-collision",
+   "review": {
+    "as_of": "2026-10-29",
+    "fields": ["lives_lost"],
+    "note": "68 is a provisional regional-government count reported on October 28, not a final toll. Injury totals differ by report and are not combined. AFP and RTE identify Wednesday October 28; an SBS report instead says October 27. The morning timing leaves the incident on October 28 in UTC.",
+    "sources": [{"name": "Agence France-Presse", "url": "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100"}]
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Tharparkar ambulance fire kills eight, rescuers report",
+   "category": "industrial",
+   "location": "Dano Dandal, Nagarparkar, Tharparkar, Pakistan",
+   "lives_lost": 8,
+   "description": "An ambulance caught fire at a health centre in Dano Dandal while staff were transferring a patient and handling an oxygen cylinder. The Express Tribune placed the incident at about 22:40 local time on October 28, or 17:40 UTC. Geo News later reported eight deaths after an injured person died during transfer to Mithi. The cause remained under investigation.",
+   "sources": ["The Express Tribune", "Geo News"],
+   "source_urls": [
+    "https://tribune.com.pk/story/2637449/7-dead-five-injured-as-ambulance-catches-fire-in-sindhs-tharparkar?amp=1",
+    "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+   ],
+   "archive_id": "events-20261028-tharparkar-ambulance-fire",
+   "review": {
+    "as_of": "2026-10-29",
+    "fields": ["date", "lives_lost", "description"],
+    "note": "The explicit Wednesday 22:40 timestamp in The Express Tribune determines the UTC event date, not the October 29 publication date. Geo's closing text calls it Thursday's explosion, but its updated main report does not give an incident time. Its updated count of eight supersedes the initial seven after one further death; do not sum the reports. Cylinder involvement is reported, but the technical cause is not established.",
+    "sources": [{"name": "Geo News", "url": "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"}]
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "title": "Israeli strike in Rafah kills four, Gaza emergency services report",
+   "category": "war",
+   "location": "Al-Mawasi, Rafah, Gaza Strip, Palestine",
+   "lives_lost": 4,
+   "description": "An Israeli strike in Rafah's al-Mawasi area on October 28 initially killed three people. AFP later reported that a fourth person died of injuries, citing Gaza civil defence and a local hospital. This entry excludes a separate fatal strike in Khan Yunis. The Israeli military told AFP it had targeted people it described as terrorists.",
+   "sources": ["WAFA", "Agence France-Presse"],
+   "source_urls": [
+    "https://english.wafa.ps/Pages/Details/176412",
+    "https://www.arabnews.com/middle-east/gaza-health-officials-say-israeli-strikes-kill-5-3008739"
+   ],
+   "archive_id": "events-20261028-rafah-mawasi-strike",
+   "review": {
+    "as_of": "2026-10-29",
+    "fields": ["lives_lost"],
+    "note": "WAFA's earlier report gives three deaths at the Rafah site. AFP's later report gives three initially received bodies and one subsequent death among the wounded; its headline total of five includes a separate Khan Yunis death. Four is the attributed Rafah count, not an independently verified Gaza-wide total.",
+    "sources": [{"name": "Agence France-Presse", "url": "https://www.arabnews.com/middle-east/gaza-health-officials-say-israeli-strikes-kill-5-3008739"}]
+   }
+  },
   {
    "date": "2008-10-28",
    "title": "Balochistan earthquake",

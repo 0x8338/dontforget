@@ -28,27 +28,21 @@
   "promise": "Schedule initial implementation of the final Basel III reforms for January 1, 2022, with a separate output-floor transition",
   "date_promised": "2017-12-07",
   "due_date": "2022-01-01",
-  "status": "pending",
+  "status": "broken",
   "description": "The Basel Committee finalized the reforms on December 7, 2017, with initial implementation scheduled for January 1, 2022 and phased treatment of the output floor.",
   "evidence": [
-   "Outcome not established as of 2026-09-21: jurisdiction-by-jurisdiction implementation was not reconciled; the original account conflated separate postponements and unverified US proposals."
+   "On March 27, 2020, the Basel Committee's oversight body deferred initial implementation of the December 2017 reforms from January 1, 2022 to January 1, 2023 because of COVID-19. The original schedule was not maintained; this does not assess subsequent implementation in individual jurisdictions."
   ],
   "sources": [
+   "Bank for International Settlements",
    "Bank for International Settlements",
    "Bank for International Settlements"
   ],
   "source_urls": [
    "https://www.bis.org/press/p171207.htm",
-   "https://www.bis.org/fsi/fsisummaries/b3_rpcr.pdf"
+   "https://www.bis.org/fsi/fsisummaries/b3_rpcr.pdf",
+   "https://www.bis.org/press/p200327.htm"
   ],
-  "archive_id": "promises-d04120ff4368d8b30eb8",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2022-01-01; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-d04120ff4368d8b30eb8"
  }
 ]

@@ -136,5 +136,45 @@
     }
    ]
   }
+ },
+ {
+  "person": "Generac",
+  "role": "Power equipment manufacturer",
+  "promise": "Expect initial backup-generator deliveries for Amazon data centres to total USD 2.4 billion across 2027 and 2028",
+  "date_promised": "2026-09-16",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "Generac's September 16 filing disclosed a supply agreement and the expected initial delivery value; its October 28 results reiterated the expectation. The USD 8 billion payment threshold in the associated warrant is not the delivery target. December 31 normalizes the end of the stated 2027-28 period; completion is not yet established.",
+  "evidence": [
+   "The dated Form 8-K and the third-quarter release both specify USD 2.4 billion of initial deliveries in 2027 and 2028."
+  ],
+  "sources": [
+   "Generac Form 8-K",
+   "Generac quarterly results"
+  ],
+  "source_urls": [
+   "https://investors.generac.com/static-files/7fd7f15a-24c2-4822-b08b-9a2b3319dab6",
+   "https://investors.generac.com/news-releases/news-release-details/generac-reports-third-quarter-2026-results"
+  ],
+  "archive_id": "promises-20260916-generac-amazon-deliveries"
+ },
+ {
+  "person": "Charger Logistics",
+  "role": "Freight carrier",
+  "promise": "Intend to purchase up to 500 Aurora Driver-powered trucks for delivery in 2027-28, subject to a final agreement",
+  "date_promised": "2026-10-26",
+  "due_date": "2028-12-31",
+  "status": "pending",
+  "description": "Aurora announced a non-binding memorandum of understanding with Charger Logistics on October 26. The proposed truck purchases depend on a final agreement; this is not a binding order or proof of delivery. December 31 normalizes the end of the stated delivery period.",
+  "evidence": [
+   "Aurora's announcement, distributed by Business Wire, identifies the non-binding nature, maximum fleet size and 2027-28 delivery window."
+  ],
+  "sources": [
+   "Aurora / Business Wire"
+  ],
+  "source_urls": [
+   "https://www.nasdaq.com/press-release/charger-logistics-and-aurora-begin-scaling-autonomous-fleet-500-trucks-2026-10-26"
+  ],
+  "archive_id": "promises-20261026-charger-aurora-trucks"
  }
 ]

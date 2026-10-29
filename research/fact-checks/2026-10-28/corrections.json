@@ -1,0 +1,142 @@
+{
+  "as_of": "2026-10-28",
+  "baseline_commit": "aa42f12",
+  "corrections": [
+    {
+      "archive_id": "promises-217a446d63fac77c25a1",
+      "status": "broken",
+      "rationale": "CAG's audited 2016-17 Union fiscal deficit was 3.54% of GDP, exceeding the original 3.0% target. Grade the original target, not the subsequent relaxed target.",
+      "original": {
+        "person": "Arun Jaitley",
+        "role": "Indian Finance Minister",
+        "promise": "Target India's fiscal deficit at 3.0% of GDP in fiscal 2016-17",
+        "date_promised": "2014-07-10",
+        "due_date": "2017-03-31",
+        "status": "pending",
+        "description": "Jaitley's July 10, 2014 Budget speech set out a consolidation path targeting a 3.0% deficit in fiscal 2016-17; subsequent budgets relaxed that path.",
+        "evidence": [
+          "Outcome not established as of 2026-09-21: the original 3.5% figure was not checked against CGA final accounts and must not be treated as a verified outturn."
+        ],
+        "sources": [
+          "Government of India",
+          "The Economic Times"
+        ],
+        "source_urls": [
+          "https://www.indiabudget.gov.in/budget2025-26/doc/bspeech/bs201415.pdf",
+          "https://economictimes.indiatimes.com/news/economy/policy/how-arun-jaitley-managed-the-fiscal-deficit-through-his-budgets/articleshow/70029904.cms?from=mdr"
+        ],
+        "archive_id": "promises-217a446d63fac77c25a1",
+        "review": {
+          "as_of": "2026-10-25",
+          "fields": [
+            "status"
+          ],
+          "note": "Due 2017-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+          "sources": []
+        }
+      }
+    },
+    {
+      "archive_id": "promises-d04120ff4368d8b30eb8",
+      "status": "broken",
+      "rationale": "The oversight body formally replaced the original January 2022 start with January 2023 in March 2020. This grades the original schedule, not national implementation or the justification for postponement.",
+      "original": {
+        "person": "Basel Committee on Banking Supervision",
+        "role": "International banking standard setter",
+        "promise": "Schedule initial implementation of the final Basel III reforms for January 1, 2022, with a separate output-floor transition",
+        "date_promised": "2017-12-07",
+        "due_date": "2022-01-01",
+        "status": "pending",
+        "description": "The Basel Committee finalized the reforms on December 7, 2017, with initial implementation scheduled for January 1, 2022 and phased treatment of the output floor.",
+        "evidence": [
+          "Outcome not established as of 2026-09-21: jurisdiction-by-jurisdiction implementation was not reconciled; the original account conflated separate postponements and unverified US proposals."
+        ],
+        "sources": [
+          "Bank for International Settlements",
+          "Bank for International Settlements"
+        ],
+        "source_urls": [
+          "https://www.bis.org/press/p171207.htm",
+          "https://www.bis.org/fsi/fsisummaries/b3_rpcr.pdf"
+        ],
+        "archive_id": "promises-d04120ff4368d8b30eb8",
+        "review": {
+          "as_of": "2026-10-25",
+          "fields": [
+            "status"
+          ],
+          "note": "Due 2022-01-01; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+          "sources": []
+        }
+      }
+    },
+    {
+      "archive_id": "promises-5661e8fbf67646711cc2",
+      "status": "kept",
+      "rationale": "Supermicro reported GB300 volume deliveries on September 11, 2025, within the promised half-year. An exact first-shipment date is not needed to establish delivery within the window.",
+      "original": {
+        "person": "Jensen Huang",
+        "role": "CEO of NVIDIA",
+        "promise": "Blackwell Ultra (GB300) platforms will start shipping in the second half of 2025",
+        "date_promised": "2025-03-18",
+        "due_date": "2025-12-31",
+        "status": "pending",
+        "description": "NVIDIA announced Blackwell Ultra platforms at GTC on March 18, 2025, expecting partner products in the second half of 2025. Its August results said production was ramping.",
+        "evidence": [
+          "Outcome not established as of 2026-09-21: retrieved primary evidence confirms production ramp but does not establish the first customer shipment date for the promised platforms."
+        ],
+        "sources": [
+          "NVIDIA: Blackwell Ultra announcement",
+          "NVIDIA: Q2 FY2026 results"
+        ],
+        "source_urls": [
+          "https://nvidianews.nvidia.com/_gallery/download_pdf/67d9bd1a3d6332a496666cf5/",
+          "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"
+        ],
+        "archive_id": "promises-5661e8fbf67646711cc2",
+        "review": {
+          "as_of": "2026-10-25",
+          "fields": [
+            "status"
+          ],
+          "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+          "sources": []
+        }
+      }
+    },
+    {
+      "archive_id": "promises-896c9450209ccb5cab1c",
+      "status": "kept",
+      "rationale": "Meta explicitly reported more than one billion monthly users in October 2025, resolving the earlier rounded-total ambiguity. The metric remains company-reported.",
+      "original": {
+        "person": "Mark Zuckerberg",
+        "role": "CEO of Meta",
+        "promise": "Expect Meta AI to serve more than one billion people in 2025",
+        "date_promised": "2025-01-24",
+        "due_date": "2025-12-31",
+        "status": "pending",
+        "description": "Zuckerberg forecast more than one billion Meta AI users for 2025. The company subsequently reported a rounded billion-user milestone.",
+        "evidence": [
+          "Outcome not established as of 2026-09-21: the retrieved rounded user total does not establish the forecast's strict greater-than threshold."
+        ],
+        "sources": [
+          "Reuters: January 24 forecast",
+          "TechCrunch: May shareholder statement"
+        ],
+        "source_urls": [
+          "https://www.investing.com/news/economy/meta-to-invest-up-to-65-billion-in-capital-expenditure-this-year-3829944",
+          "https://techcrunch.com/2025/05/29/meta-ai-now-has-1b-monthly-active-users/"
+        ],
+        "archive_id": "promises-896c9450209ccb5cab1c",
+        "review": {
+          "as_of": "2026-10-25",
+          "fields": [
+            "status"
+          ],
+          "note": "Due 2025-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+          "sources": []
+        }
+      }
+    }
+  ]
+}

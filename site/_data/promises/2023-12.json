@@ -362,11 +362,12 @@
   "promise": "Lucasfilm announced Patty Jenkins's Rogue Squadron for Christmas 2023.",
   "date_promised": "2020-12-10",
   "due_date": "2023-12-22",
-  "status": "pending",
-  "description": "Lucasfilm announced Rogue Squadron during its December 10, 2020 presentation, with Patty Jenkins directing and a Christmas 2023 theatrical target.",
+  "status": "broken",
+  "description": "Lucasfilm's Christmas 2023 release target was missed. Reuters reported its removal from the release calendar in September 2022, and Patty Jenkins was still discussing an unfinished script in March 2024. This grades the original release schedule, not permanent cancellation or the fate of other Star Wars films.",
   "evidence": [
    "Lucasfilm's announcement supports the project and Christmas 2023 target.",
-   "Outcome not established as of 2026-09-21: the checked announcement does not establish cancellation or actual release."
+   "Reuters reported removal from the December 2023 calendar on September 15, 2022.",
+   "TheWrap's March 14, 2024 account of Jenkins's interview says she still owed a script draft, corroborating that the original release window was missed."
   ],
   "sources": [
    "Disney Investor Day, 2020-12-10",
@@ -374,16 +375,24 @@
   ],
   "archive_id": "promises-5945ecf96e2d5cb6ea35",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-10-29",
    "fields": [
     "due_date",
     "sources"
    ],
-   "note": "The December 10 announcement supports Christmas 2023, not an exact December 22 deadline. The asserted shelving and absence of all Star Wars films through 2025 require outcome evidence; publication remains withheld.",
+   "note": "The exact December 22 deadline remains unverified against the original Christmas 2023 announcement, and the original broad citation labels still lack aligned URLs. New outcome evidence supports the missed 2023 release independently of those gaps. The record remains visible; no permanent-cancellation claim is made. Previous values are preserved in research/fact-checks/2026-10-29/corrections.json.",
    "sources": [
     {
      "name": "Lucasfilm projects announcement",
      "url": "https://www.starwars.com/news/future-lucasfilm-projects-revealed"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://yall1067.com/2022/09/15/disney-removes-star-wars-spinoff-rogue-squadron-from-calendar-variety/"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://www.thewrap.com/patty-jenkins-star-wars-rogue-squadron-still-alive/"
     }
    ]
   }

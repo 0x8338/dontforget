@@ -1029,5 +1029,24 @@
    "https://www.itv.com/news/2026-07-20/in-full-andy-burnhams-first-speech-as-prime-minister"
   ],
   "archive_id": "promises-e46b6ad9fd0bdcf601d7"
+ },
+ {
+  "person": "UK Government (carbon credit recognition)",
+  "role": "Government of the United Kingdom",
+  "promise": "Publish further details on recognition of high-integrity carbon offset credits in its consultation response later in 2026",
+  "date_promised": "2026-10-26",
+  "due_date": "2026-12-31",
+  "status": "pending",
+  "description": "Defra's Growing Places paper promises further recognition details in the government's Voluntary Carbon and Nature Market consultation response. December 31 normalizes 'later this year'; this is a publication commitment, not a guarantee of market outcomes.",
+  "evidence": [
+   "The October 26 policy paper dates the response to later in the same year."
+  ],
+  "sources": [
+   "UK Department for Environment, Food and Rural Affairs"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/publications/mobilising-private-finance-for-local-nature-recovery/growing-places-mobilising-private-finance-for-local-nature-recovery"
+  ],
+  "archive_id": "promises-20261026-uk-carbon-recognition"
  }
 ]

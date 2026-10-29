@@ -1,0 +1,21 @@
+[
+ {
+  "person": "UK Department for Work and Pensions",
+  "role": "UK government department",
+  "promise": "Expect the Eligibility Verification Measure to save GBP 1.2 billion by fiscal 2030-31",
+  "date_promised": "2026-10-26",
+  "due_date": "2031-03-31",
+  "status": "pending",
+  "description": "DWP announced its first Eligibility Verification Notice and forecast savings from bank-assisted benefit eligibility checks. The deadline represents the end of the stated UK fiscal year 2030-31. It is a savings forecast, not evidence that the amount has already been recovered.",
+  "evidence": [
+   "The October 26 announcement identifies GBP 1.2 billion of expected EVM savings separately from the government's wider anti-fraud programme."
+  ],
+  "sources": [
+   "UK Department for Work and Pensions"
+  ],
+  "source_urls": [
+   "https://www.gov.uk/government/news/government-unleashes-12-billion-crackdown-as-part-of-anti-fraud-drive"
+  ],
+  "archive_id": "promises-20261026-uk-evm-savings"
+ }
+]

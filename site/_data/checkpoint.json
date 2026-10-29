@@ -1,23 +1,23 @@
 {
  "events": {
-  "last_date": "2026-10-24",
-  "total": 774
+  "last_date": "2026-10-28",
+  "total": 783
  },
  "promises": {
-  "last_date": "2026-10-24",
-  "total": 460
+  "last_date": "2026-10-28",
+  "total": 466
  },
- "last_updated": "2026-10-25T15:27:10Z",
+ "last_updated": "2026-10-29T01:46:58Z",
  "update_policy": "daily-incremental",
  "promises_expansion": {
-  "last_focus": "track-c: orgs/treaties (eib-30bn-adaptation-2030, afdb-botswana-503m, world-bank-kp-271m)"
+  "last_focus": "track-b: corporate commitments (Amazon Germany investment, Generac generator deliveries, Charger Logistics autonomous trucks)"
  },
  "fact_check": {
-  "as_of": "2026-09-21",
-  "report": "research/fact-checks/2026-09-21/README.md",
+  "as_of": "2026-10-29",
+  "report": "research/fact-checks/2026-10-29/README.md",
   "withheld_events": 0,
   "withheld_promises": 0,
-  "events_needing_review": 322,
-  "promises_needing_review": 300
+  "events_needing_review": 329,
+  "promises_needing_review": 336
  }
 }

@@ -342,30 +342,24 @@
   "promise": "NVIDIA announced that Blackwell-based products would be available from partners later in 2024.",
   "date_promised": "2024-03-18",
   "due_date": "2024-12-31",
-  "status": "pending",
-  "description": "NVIDIA announced the Blackwell platform on March 18, 2024. It later reported $11 billion in Blackwell revenue for fiscal Q4 2025, a quarter ending in January 2025.",
+  "status": "kept",
+  "description": "NVIDIA announced Blackwell partner availability for later in 2024. A December 9, 2024 Dell announcement published by CoreWeave confirms shipment of Dell PowerEdge XE9712 racks with NVIDIA GB200 NVL72 to CoreWeave. This establishes partner hardware availability within 2024, not general availability from every cloud provider.",
   "evidence": [
    "The launch release gives the calendar-2024 partner-availability target.",
    "The fiscal-quarter revenue report does not isolate calendar-year availability.",
-   "Outcome not established as of 2026-09-21 for the original deadline: the checked financial report spans the year boundary."
+   "Dell's December 9, 2024 announcement confirms that GB200 NVL72 racks had shipped to CoreWeave, resolving the previously unverified calendar-year timing."
   ],
   "sources": [
    "NVIDIA Blackwell launch",
-   "NVIDIA FY2025 Q4 CFO commentary"
+   "NVIDIA FY2025 Q4 CFO commentary",
+   "CoreWeave / Dell Technologies"
   ],
   "source_urls": [
    "https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Blackwell-Platform-Arrives-to-Power-a-New-Era-of-Computing/",
-   "https://investor.nvidia.com/files/doc_financials/2025/Q425/Q4FY25-CFO-Commentary.pdf"
+   "https://investor.nvidia.com/files/doc_financials/2025/Q425/Q4FY25-CFO-Commentary.pdf",
+   "https://investors.coreweave.com/news/news-details/2024/CoreWeave-and-Dell-Technologies-Extend-Relationship-to-Deliver-AI-at-Scale/default.aspx"
   ],
-  "archive_id": "promises-996d215ae10b9b00965f",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-996d215ae10b9b00965f"
  },
  {
   "person": "Andy Jassy",
