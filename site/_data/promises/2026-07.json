@@ -165,7 +165,7 @@
   "description": "The cited desire to play in 2026 needs a dated source. Ronaldo would not become the oldest World Cup player merely by appearing at 41; FIFA records El Hadary's appearance at 45.",
   "evidence": [
    "FIFA's age records contradict the claimed oldest-player outcome.",
-   "Outcome not established as of 2026-09-21: the checked pre-tournament coverage does not establish an actual appearance."
+   "FIFA's full-time match report lists Ronaldo in Portugal's starting eleven against Congo DR in Houston on June 17, 2026. That confirms participation, not an age record."
   ],
   "sources": [
    "CNN Portugal / RTP interview, 2024-07",
@@ -173,14 +173,14 @@
   ],
   "archive_id": "promises-58b81c73ecb2a79b9281",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "promise",
     "date_promised",
     "due_date",
     "sources"
    ],
-   "note": "FIFA contradicts the oldest-player claim: Essam El Hadary played at 45 in 2018. Its pre-tournament article establishes neither Ronaldo's actual appearance nor the alleged July 5, 2024 statement. The aspirational wording must not be treated as a guarantee.",
+   "note": "The match sheet confirms participation. In November 2025 Ronaldo spoke of 2026 as his last World Cup, but that does not authenticate the attributed July 2024 promise. Keep the original commitment under review rather than treating a tournament appearance as proof he made a guarantee.",
    "sources": [
     {
      "name": "FIFA 2026 squad ages",
@@ -189,6 +189,14 @@
     {
      "name": "FIFA oldest World Cup players",
      "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/jogadores-mais-velhos-historia-copa-do-mundo"
+    },
+    {
+     "name": "FIFA full-time match report, Portugal v Congo DR",
+     "url": "https://fdp.fifa.org/assetspublic/ce281/r12511/pdf/FullTimeMatchReport-English.pdf"
+    },
+    {
+     "name": "Al Jazeera: November 2025 remarks",
+     "url": "https://www.aljazeera.com/sports/2025/11/11/cristiano-ronaldo-says-world-cup-2026-will-be-his-last-before-retirement"
     }
    ]
   }

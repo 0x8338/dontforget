@@ -36,5 +36,24 @@
     }
    ]
   }
+ },
+ {
+  "person": "European Union",
+  "role": "Participant in the Global Geothermal Ambition 2050",
+  "promise": "Support a twelvefold increase in global geothermal energy supply for heat and power by 2050, relative to 2025.",
+  "date_promised": "2026-11-10",
+  "due_date": "2050-12-31",
+  "status": "pending",
+  "description": "The European Commission announced EU participation on November 10. The target is collective and worldwide, not a commitment to increase EU electricity capacity twelvefold.",
+  "evidence": [
+   "The deadline represents the end of the target year. Joining the pledge does not establish delivery."
+  ],
+  "sources": [
+   "European Commission"
+  ],
+  "source_urls": [
+   "https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en"
+  ],
+  "archive_id": "promises-20261110-eu-geothermal"
  }
 ]

@@ -1142,7 +1142,7 @@
   "description": "Reuters reported a company forecast, attributed to people familiar with it, of $11.6 billion in 2025 revenue.",
   "evidence": [
    "The report concerns annual revenue, not an annualized run rate.",
-   "Outcome not established as of 2026-09-21: the checked report is a forecast, not audited 2025 results."
+   "Ars Technica reported $13.07 billion in 2025 revenue from audited statements, above the reported $11.6 billion projection. Both figures concern full-year revenue, not run rate."
   ],
   "sources": [
    "The Hindu (Sep 28, 2024)",
@@ -1151,16 +1151,21 @@
   ],
   "archive_id": "promises-c178a941b0c762421690",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "date_promised",
-    "sources"
+    "sources",
+    "status"
    ],
-   "note": "Reuters describes an anonymously sourced company forecast of $11.6 billion annual revenue, not an Altman quotation or annualized run rate. Its underlying report is dated September 27; the exact UTC publication day and date of the underlying forecast are not established. The claimed actual totals are not verified.",
+   "note": "The outcome can be compared with the projection, but the projection was attributed anonymously, not made as a public delivery pledge. The original announcement date and attribution remain uncertain; no kept/broken judgment is assigned.",
    "sources": [
     {
      "name": "Reuters OpenAI revenue forecast",
      "url": "https://ca.investing.com/news/stock-market-news/openai-sees-116-billion-revenue-next-year-offers-thrive-chance-to-invest-again-in-2025-3620501"
+    },
+    {
+     "name": "Ars Technica: reported full-year results",
+     "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
     }
    ]
   }

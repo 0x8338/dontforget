@@ -64,11 +64,11 @@
   ],
   "archive_id": "promises-3c12f94958598cb6e151",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "due_date"
    ],
-   "note": "Inaugural hardline policy is supported; later government statement documents ending three dialogue processes. Analysts' first-100-days expectations cannot supply a presidential deadline or prove security outcomes.",
+   "note": "Congress passed the president's bill changing surrender terms on November 4, following the termination of three talks. These are documented steps; the first 100 days were an observation period, not a deadline set in the pledge. The record does not establish a completed security outcome.",
    "sources": [
     {
      "name": "Reuters: inaugural address",
@@ -77,6 +77,10 @@
     {
      "name": "Colombia Presidency: talks ended",
      "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-del-Presidente-De-La-Espriella-pone-fin-a-tres-procesos-de-falso-260830.aspx"
+    },
+    {
+     "name": "Reuters: congressional vote",
+     "url": "https://www.investing.com/news/world-news/colombias-congress-passes-bill-replacing-former-presidentstotal-peace-approach-4997981"
     }
    ]
   }

@@ -6367,62 +6367,74 @@
  },
  {
   "date": "2026-10-28",
-  "title": "High-speed train collision near Urda kills at least 68",
+  "title": "High-speed train collision near Urda kills 69",
   "category": "industrial",
   "location": "Urda, Toledo province, Spain",
-  "lives_lost": 68,
-  "description": "Content note: mass-casualty incident. Two high-speed trains collided near Urda on the morning of October 28. Regional authorities reported at least 68 deaths while rescuers continued searching the wreckage. Services on the Madrid-southern Spain high-speed route were suspended, and the circumstances of the collision remained under investigation.",
+  "lives_lost": 69,
+  "description": "Content note: mass-casualty incident. Two high-speed trains collided near Urda on October 28. A further recovery raised the regional authorities' initial count of 68 to 69. A state funeral was held for the 69 victims on November 10.",
   "sources": [
    "Agence France-Presse",
-   "RTE"
+   "RTE",
+   "Associated Press"
   ],
   "source_urls": [
    "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
-   "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+   "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/",
+   "https://apnews.com/article/9a7c752b8f6999467146906db5e032ed"
   ],
   "archive_id": "events-20261028-urda-train-collision",
   "review": {
-   "as_of": "2026-10-29",
+   "as_of": "2026-11-20",
    "fields": [
-    "lives_lost"
+    "date"
    ],
-   "note": "68 is a provisional regional-government count reported on October 28, not a final toll. Injury totals differ by report and are not combined. AFP and RTE identify Wednesday October 28; an SBS report instead says October 27. The morning timing leaves the incident on October 28 in UTC.",
+   "note": "The collision occurred on October 28, as confirmed in the subsequent state funeral report. An earlier secondary report gave October 27.",
    "sources": [
     {
      "name": "Agence France-Presse",
      "url": "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/article/9a7c752b8f6999467146906db5e032ed"
     }
    ]
   }
  },
  {
   "date": "2026-10-28",
-  "title": "Tharparkar ambulance fire kills eight, rescuers report",
+  "title": "Tharparkar ambulance fire kills ten, local reports say",
   "category": "industrial",
   "location": "Dano Dandal, Nagarparkar, Tharparkar, Pakistan",
-  "lives_lost": 8,
-  "description": "An ambulance caught fire at a health centre in Dano Dandal while staff were transferring a patient and handling an oxygen cylinder. The Express Tribune placed the incident at about 22:40 local time on October 28, or 17:40 UTC. Geo News later reported eight deaths after an injured person died during transfer to Mithi. The cause remained under investigation.",
+  "lives_lost": 10,
+  "description": "Content note: mass-casualty incident. An ambulance caught fire during a patient transfer at a health centre on October 28. Dawn reported ten deaths after another injured patient died. A health department statement cited eight, and the department opened an investigation.",
   "sources": [
    "The Express Tribune",
-   "Geo News"
+   "Geo News",
+   "Dawn"
   ],
   "source_urls": [
    "https://tribune.com.pk/story/2637449/7-dead-five-injured-as-ambulance-catches-fire-in-sindhs-tharparkar?amp=1",
-   "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+   "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar",
+   "https://www.dawn.com/news/2040828"
   ],
   "archive_id": "events-20261028-tharparkar-ambulance-fire",
   "review": {
-   "as_of": "2026-10-29",
+   "as_of": "2026-11-20",
    "fields": [
     "date",
     "lives_lost",
     "description"
    ],
-   "note": "The explicit Wednesday 22:40 timestamp in The Express Tribune determines the UTC event date, not the October 29 publication date. Geo's closing text calls it Thursday's explosion, but its updated main report does not give an incident time. Its updated count of eight supersedes the initial seven after one further death; do not sum the reports. Cylinder involvement is reported, but the technical cause is not established.",
+   "note": "The Express Tribune's 22:40 local time places the incident on October 28 UTC. Local reporting updated the earlier eight deaths to ten; Dawn also recorded a lower health department tally. The cause is not established.",
    "sources": [
     {
      "name": "Geo News",
      "url": "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+    },
+    {
+     "name": "Dawn: investigation and differing counts",
+     "url": "https://www.dawn.com/news/2041057"
     }
    ]
   }
@@ -6456,6 +6468,225 @@
     }
    ]
   }
+ },
+ {
+  "date": "2026-10-29",
+  "title": "Rockfall near Göreme Open-Air Museum",
+  "category": "natural-disaster",
+  "location": "Göreme, Nevşehir, Türkiye",
+  "lives_lost": 3,
+  "description": "Part of a rock formation collapsed beside the museum on Thursday afternoon. The governor reported three deaths after the search; five people were injured.",
+  "sources": [
+   "Demirören News Agency",
+   "Associated Press"
+  ],
+  "source_urls": [
+   "https://www.dha.com.tr/yerel-haberler/nevsehir/urgup/kapadokyada-peribacasindan-kopan-kayalar-dustu-2971869",
+   "https://www.sfgate.com/news/world/article/a-rock-formation-collapse-in-turkey-s-touristic-22500348.php"
+  ],
+  "archive_id": "events-20261029-goreme-rockfall"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "Helicopter crash near Joshimath",
+  "category": "industrial",
+  "location": "Chamoli district, Uttarakhand, India",
+  "lives_lost": 6,
+  "description": "A helicopter crashed near Joshimath on a flight from Badrinath. The pilot and all five passengers died. Teams recovered their bodies the following day.",
+  "sources": [
+   "NDTV",
+   "The New Indian Express"
+  ],
+  "source_urls": [
+   "https://www.ndtv.com/india-news/chopper-returning-from-badrinath-goes-missing-while-flying-over-uttarakhands-joshimath-12258231/amp/1",
+   "https://www.newindianexpress.com/india/2026/Oct/31/bodies-of-all-six-killed-in-uttarakhand-helicopter-crash-recovered"
+  ],
+  "archive_id": "events-20261030-joshimath-helicopter"
+ },
+ {
+  "date": "2026-11-01",
+  "title": "Learjet crash in Palm Beach County",
+  "category": "industrial",
+  "location": "Near Greenacres, Florida, United States",
+  "lives_lost": 9,
+  "description": "A Learjet 60 crashed in Palm Beach County on November 1. All nine people aboard died. The US National Transportation Safety Board opened an investigation.",
+  "sources": [
+   "National Transportation Safety Board",
+   "NBC 6 South Florida"
+  ],
+  "source_urls": [
+   "https://www.ntsb.gov/Investigations/Pages/ERA27MA026.aspx",
+   "https://www.nbcmiami.com/news/local/ntsb-completes-on-scene-investigation-after-learjet-crash-in-palm-beach-kills-9/3885544/"
+  ],
+  "archive_id": "events-20261101-greenacres-learjet"
+ },
+ {
+  "date": "2026-11-02",
+  "title": "Airstrike on a humanitarian aid site in Komyshuvakha",
+  "category": "war",
+  "location": "Komyshuvakha, Zaporizhzhia region, Ukraine",
+  "lives_lost": 72,
+  "description": "Content note: mass-casualty incident. Russian aerial bombs struck a school being used to distribute humanitarian aid. Regional authorities reported 72 deaths when search and rescue operations ended. People still missing are not included in that number.",
+  "sources": [
+   "Ukrinform",
+   "The Kyiv Independent"
+  ],
+  "source_urls": [
+   "https://www.ukrinform.net/rubric-ato/4185328-search-and-rescue-operations-completed-in-komyshuvakha-death-toll-rises-to-72.html",
+   "https://kyivindependent.com/death-toll-from-russian-strike-on-komyshuvakha-rises-to-53-as-search-operation-enters-5th-day/"
+  ],
+  "archive_id": "events-20261102-komyshuvakha-aid-site"
+ },
+ {
+  "date": "2026-11-05",
+  "title": "Residential fire in Sunset Park",
+  "category": "industrial",
+  "location": "Brooklyn, New York, United States",
+  "lives_lost": 6,
+  "description": "A fire broke out in a residential building on Thursday morning. New York City officials said four people had died before firefighters arrived and two more died in hospital.",
+  "sources": [
+   "New York City Mayor's Office",
+   "CBS New York"
+  ],
+  "source_urls": [
+   "https://www.nyc.gov/mayors-office/news/2026/11/transcript--mayor-mamdani-holds-press-conference-on-brooklyn-fir",
+   "https://www.cbsnews.com/newyork/news/brooklyn-fire-sunset-park-deadly-residential-building-fdny/"
+  ],
+  "archive_id": "events-20261105-sunset-park-fire"
+ },
+ {
+  "date": "2026-11-06",
+  "title": "Flood sweeps away a car in southern Corsica",
+  "category": "natural-disaster",
+  "location": "Near Porto-Vecchio, Corsica, France",
+  "lives_lost": 2,
+  "description": "Floodwaters swept a car off the road as a family returned from Figari airport. Two occupants died and the third escaped. Le Monde placed the incident at about 1 a.m. local time on November 6.",
+  "sources": [
+   "Le Monde",
+   "Ouest-France"
+  ],
+  "source_urls": [
+   "https://www.lemonde.fr/planete/article/2026/11/06/crue-a-porto-vecchio-un-couple-de-septuagenaires-emporte-par-des-eaux-torrentielles_6807847_3244.html",
+   "https://www.ouest-france.fr/corse/intemperies-en-corse-deux-personnes-mortes-noyees-dans-leur-voiture-emportee-par-une-inondation-bbc26486-d9ab-11f1-a45f-49114163a350"
+  ],
+  "archive_id": "events-20261106-porto-vecchio-flood",
+  "review": {
+   "as_of": "2026-11-20",
+   "fields": [
+    "date"
+   ],
+   "note": "The reported time is approximate: 1 a.m. in Corsica was midnight UTC. November 6 is the best estimate; a slightly earlier incident would fall on November 5 UTC.",
+   "sources": [
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/06/crue-a-porto-vecchio-un-couple-de-septuagenaires-emporte-par-des-eaux-torrentielles_6807847_3244.html"
+    }
+   ]
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "title": "Embankment collapses onto tents in Deir al-Balah",
+  "category": "natural-disaster",
+  "location": "Deir al-Balah, central Gaza Strip, Palestine",
+  "lives_lost": 5,
+  "description": "After heavy rain, an embankment gave way beside tents sheltering displaced people on Sunday evening. Five people died in the collapse, according to reports from the camp and Gaza civil defence.",
+  "sources": [
+   "Le Monde",
+   "Euronews"
+  ],
+  "source_urls": [
+   "https://www.lemonde.fr/en/international/article/2026/11/09/gaza-residents-despair-after-torrential-rains-flood-tens-of-thousands-of-makeshift-shelters_6775837_4.html",
+   "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents"
+  ],
+  "archive_id": "events-20261108-deir-al-balah-embankment"
+ },
+ {
+  "date": "2026-11-09",
+  "title": "Explosion and fire at the Aliağa steel plant",
+  "category": "industrial",
+  "location": "Aliağa, İzmir province, Türkiye",
+  "lives_lost": 19,
+  "description": "Content note: mass-casualty incident. An explosion and fire struck the HABAŞ steel plant. On November 13, Anadolu Agency reported that the recovery of a missing worker brought the number of workers known to have died to 19.",
+  "sources": [
+   "Anadolu Agency",
+   "Deutsche Welle"
+  ],
+  "source_urls": [
+   "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-hayatini-kaybedenlerin-sayisi-19a-yukseldi/4124450",
+   "https://amp.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748"
+  ],
+  "archive_id": "events-20261109-aliaga-steel-plant"
+ },
+ {
+  "date": "2026-11-11",
+  "title": "Multiple-vehicle collisions at the entrance to Fujairah",
+  "category": "industrial",
+  "location": "Fujairah, United Arab Emirates",
+  "lives_lost": 14,
+  "description": "Content note: mass-casualty incident. Police reported 14 deaths in collisions involving cars and trucks on Sheikh Khalifa bin Zayed Road. The interior ministry placed the incident shortly before midnight on Wednesday local time, November 11 UTC; the toll was announced the following day.",
+  "sources": [
+   "Emirates News Agency",
+   "Al Jazeera"
+  ],
+  "source_urls": [
+   "https://www.wam.ae/en/article/c37voky-fujairah-police-detail-major-crash-sheikh-khalifa",
+   "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident"
+  ],
+  "archive_id": "events-20261111-fujairah-road-collisions"
+ },
+ {
+  "date": "2026-11-13",
+  "title": "Methane explosion at a coal mine in Chita",
+  "category": "industrial",
+  "location": "Chita, Boyacá, Colombia",
+  "lives_lost": 4,
+  "description": "A methane explosion struck a coal mine on Friday afternoon. Rescue teams recovered four workers who died in the mine. A fatal incident in another municipality reported that weekend is not included.",
+  "sources": [
+   "Associated Press",
+   "El Espectador",
+   "La FM"
+  ],
+  "source_urls": [
+   "https://apnews.com/article/77de9fe1831a8c03696e617149bb92d9",
+   "https://www.elespectador.com/colombia/mas-regiones/explosion-en-mina-de-carbon-de-boyaca-deja-dos-muertos-y-dos-desaparecidos/",
+   "https://www.lafm.com.co/actualidad/rescatan-cuerpos-de-los-4-mineros-fallecidos-en-explosion-en-chita-boyaca-417272"
+  ],
+  "archive_id": "events-20261113-chita-coal-mine"
+ },
+ {
+  "date": "2026-11-17",
+  "title": "Serbian military aircraft crashes near Stara Pazova",
+  "category": "industrial",
+  "location": "Stara Pazova, Serbia",
+  "lives_lost": 1,
+  "description": "A Serbian military aircraft crashed northwest of Belgrade on the morning of November 17. The defence ministry confirmed the pilot's death and appointed a commission to investigate.",
+  "sources": [
+   "Serbian Ministry of Defence",
+   "Associated Press"
+  ],
+  "source_urls": [
+   "https://www.mod.gov.rs/eng/23791/saopstenje",
+   "https://apnews.com/article/cc8c782b4e4a82c57c749f19efeeb49a"
+  ],
+  "archive_id": "events-20261117-stara-pazova-air-crash"
+ },
+ {
+  "date": "2026-11-19",
+  "title": "Bus and fuel tanker collide on the Makran Coastal Highway",
+  "category": "industrial",
+  "location": "Near Ormara, Balochistan, Pakistan",
+  "lives_lost": 10,
+  "description": "Content note: mass-casualty incident. A passenger coach travelling towards Karachi and a tanker carrying liquefied petroleum gas collided and caught fire. Police reported at least ten deaths from this collision.",
+  "sources": [
+   "Dawn",
+   "Associated Press"
+  ],
+  "source_urls": [
+   "https://www.dawn.com/news/2045668/10-killed-as-karachi-bound-passenger-coach-lpg-bowser-collide-on-makran-coastal-highway-near-ormara",
+   "https://apnews.com/article/0ab21f3f85a4c2b2706cd63ddf99cbba"
+  ],
+  "archive_id": "events-20261119-ormara-bus-tanker"
  },
  {
   "date": "2026-09-23",

@@ -40,29 +40,23 @@
   "promise": "Putin's May 7, 2018 decree targeted Russia becoming one of the five largest economies by purchasing-power-parity GDP by 2024.",
   "date_promised": "2018-05-07",
   "due_date": "2024-12-31",
-  "status": "pending",
+  "status": "kept",
   "description": "The target concerned the size of the economy measured at purchasing power parity, not nominal US-dollar GDP.",
   "evidence": [
    "World Bank analysis identifies the national target and PPP comparison.",
-   "Outcome not established as of 2026-09-21: the checked reports do not provide the comparable 2024 ranking."
+   "The World Bank's 2024 GDP (PPP) table, published in December 2025, ranks the Russian Federation fourth, behind China, the United States and India. This meets the top-five target on that measure."
   ],
   "sources": [
    "World Bank",
-   "World Bank"
+   "World Bank",
+   "World Bank: 2024 GDP ranking at PPP"
   ],
   "source_urls": [
    "https://documents1.worldbank.org/curated/en/215711545408416700/pdf/Russia-Economic-Report-Preserving-Stability-Doubling-Growth-Halving-Poverty-How.pdf",
-   "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf"
+   "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf",
+   "https://datacatalogfiles.worldbank.org/ddh-published/0038129/DR0046438/GDP_PPP.pdf"
   ],
-  "archive_id": "promises-7ba527228f1d71b88303",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-7ba527228f1d71b88303"
  },
  {
   "person": "Vladimir Putin",

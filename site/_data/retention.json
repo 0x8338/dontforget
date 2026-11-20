@@ -782,7 +782,19 @@
     "events-20261026-nyala-market-strikes",
     "events-20261028-urda-train-collision",
     "events-20261028-tharparkar-ambulance-fire",
-    "events-20261028-rafah-mawasi-strike"
+    "events-20261028-rafah-mawasi-strike",
+    "events-20261029-goreme-rockfall",
+    "events-20261030-joshimath-helicopter",
+    "events-20261101-greenacres-learjet",
+    "events-20261102-komyshuvakha-aid-site",
+    "events-20261106-porto-vecchio-flood",
+    "events-20261108-deir-al-balah-embankment",
+    "events-20261109-aliaga-steel-plant",
+    "events-20261113-chita-coal-mine",
+    "events-20261119-ormara-bus-tanker",
+    "events-20261105-sunset-park-fire",
+    "events-20261111-fujairah-road-collisions",
+    "events-20261117-stara-pazova-air-crash"
   ],
   "promises": [
     "promises-01d03b31d8b13fbd1fcc",
@@ -1250,6 +1262,9 @@
     "promises-20261026-uk-carbon-recognition",
     "promises-20261019-amazon-germany-investment",
     "promises-20260916-generac-amazon-deliveries",
-    "promises-20261026-charger-aurora-trucks"
+    "promises-20261026-charger-aurora-trucks",
+    "promises-20261110-eu-geothermal",
+    "promises-20261113-austria-portugal-security-council",
+    "promises-20261117-madrid-obesity-call"
   ]
 }

@@ -872,5 +872,26 @@
    "https://allafrica.com/stories/202610230632.html"
   ],
   "archive_id": "promises-634cfa7023626b48b094"
+ },
+ {
+  "person": "Spain and 20 WHO acceleration-plan countries",
+  "role": "Government signatories to the Madrid call for action on obesity",
+  "promise": "Aim for five fewer people in every hundred to be living with obesity by 2030, with national targets adapted to each country's starting point.",
+  "date_promised": "2026-11-17",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The joint call launched in Madrid covers prevention and care. It describes the goal as five fewer people per hundred and says that halting an increase is a first milestone where prevalence is highest.",
+  "evidence": [
+   "The signed text states a 2030 goal. December 31 represents the end of that year, not a separate deadline or a claim of progress."
+  ],
+  "sources": [
+   "World Health Organization",
+   "Madrid global call for action"
+  ],
+  "source_urls": [
+   "https://www.who.int/news/item/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control",
+   "https://cdn.who.int/media/docs/default-source/nutritionlibrary/events/global-obesity-summit-madrid-2026/global-call-for-action-on-obesity---bending-the-curve-by-2030.pdf?sfvrsn=8efb2646_3"
+  ],
+  "archive_id": "promises-20261117-madrid-obesity-call"
  }
 ]

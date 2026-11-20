@@ -35,5 +35,24 @@
     }
    ]
   }
+ },
+ {
+  "person": "Austria and Portugal",
+  "role": "Incoming members of the UN Security Council",
+  "promise": "Join the Council's joint climate, peace and security pledges on taking up their seats on January 1, 2027.",
+  "date_promised": "2026-11-13",
+  "due_date": "2027-01-01",
+  "status": "pending",
+  "description": "The UN Climate Security Mechanism reported the two incoming members' intention at COP31. The commitment concerns joining an existing initiative, not securing a Council resolution.",
+  "evidence": [
+   "The UN says they intend to join \"upon taking up their seats on the Security Council on 1 January 2027\". That ties the intended accession to the start of their terms; signing is not yet confirmed."
+  ],
+  "sources": [
+   "UN Climate Security Mechanism"
+  ],
+  "source_urls": [
+   "https://www.un.org/climatesecuritymechanism/en/news/cop31-new-pledges-and-announcements-climate-peace-and-security"
+  ],
+  "archive_id": "promises-20261113-austria-portugal-security-council"
  }
 ]

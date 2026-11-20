@@ -15,7 +15,14 @@ async function render(page, routes, now = '2026-09-21T00:00:00Z') {
     addEventListener(event, callback) { this.click = callback; }
   }));
   const getElementById = id => {
-    if (!elements.has(id)) elements.set(id, { innerHTML: '', textContent: '', hidden: true });
+    if (!elements.has(id)) elements.set(id, {
+      innerHTML: '', textContent: '', hidden: true, appends: [],
+      insertAdjacentHTML(position, html) {
+        assert.equal(position, 'beforeend');
+        this.appends.push(html);
+        this.innerHTML += html;
+      }
+    });
     return elements.get(id);
   };
   class Clock extends Date {
@@ -28,7 +35,7 @@ async function render(page, routes, now = '2026-09-21T00:00:00Z') {
     fetch: async url => {
       requests.push(url);
       if (!(url in routes)) throw new Error('Unexpected request: ' + url);
-      const value = routes[url];
+      const value = typeof routes[url] === 'function' ? routes[url](chips, getElementById) : routes[url];
       if (value instanceof Error) throw value;
       return { ok: value !== null, json: async () => value };
     }
@@ -97,6 +104,35 @@ test('empty due-month lists produce zero counts', async () => {
   });
   assert.equal(page.get('promise-count').textContent, 0);
   assert.equal(page.get('stat-kept').textContent, 0);
+  assert.equal(page.get('no-promises').hidden, false);
+});
+
+test('streaming appends only new cards and respects a filter changed between months', async () => {
+  const page = await render('promises/index.html', {
+    '../_data/promises/index.json': { months: [
+      { key: '2026-09', file: 'new' }, { key: '2026-08', file: 'old' }
+    ] },
+    '../_data/new': (chips, get) => {
+      assert.equal(get('promise-count').textContent, '');
+      assert.equal(get('no-promises').hidden, true);
+      return [promise({ promise: 'September record' })];
+    },
+    '../_data/old': (chips, get) => {
+      assert.match(get('promises-container').innerHTML, /September record/);
+      chips.find(c => c.dataset.filter === 'pending').click();
+      assert.equal(get('no-promises').hidden, false);
+      return [promise({ promise: 'August record', due_date: '2026-08-01', status: 'pending' })];
+    }
+  });
+  const container = page.get('promises-container');
+  assert.equal(container.appends.length, 2);
+  assert.doesNotMatch(container.appends[1], /September/);
+  assert.match(container.innerHTML, /August record/);
+  assert.doesNotMatch(container.innerHTML, /September record/);
+  assert.equal(page.get('no-promises').hidden, true);
+  assert.equal(page.get('promise-count').textContent, 2);
+  page.chips.find(c => c.dataset.filter === 'all').click();
+  assert.match(container.innerHTML, /September record[\s\S]*August record/);
 });
 
 test('review notes do not hide collected promises or alter their status', async () => {

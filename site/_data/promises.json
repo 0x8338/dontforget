@@ -1030,7 +1030,7 @@
   "description": "The April 19, 2021 budget proposed a Canada-wide early-learning and child-care plan, implemented through agreements with provinces and territories.",
   "evidence": [
    "The federal budget notice supports the announcement and average-fee target.",
-   "Outcome not established as of 2026-09-21: the checked budget sources do not establish the comparable national average at fiscal year-end."
+   "The federal 2025-26 results list eight provinces and territories averaging C$10 a day or less at March 31. The rest reduced fees by at least half. The table does not give a national weighted average."
   ],
   "sources": [
    "Government of Canada",
@@ -1042,12 +1042,17 @@
   ],
   "archive_id": "promises-0bcfe13a650673ebf3a2",
   "review": {
-   "as_of": "2026-10-25",
+   "as_of": "2026-11-20",
    "fields": [
     "status"
    ],
-   "note": "Due 2026-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
+   "note": "Keep pending: the published provincial breakdown does not establish the promised national average.",
+   "sources": [
+    {
+     "name": "Employment and Social Development Canada: fiscal-year results",
+     "url": "https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-results/2025-2026/transfer-payment-programs.html"
+    }
+   ]
   }
  },
  {
@@ -1126,29 +1131,23 @@
   "promise": "Putin's May 7, 2018 decree targeted Russia becoming one of the five largest economies by purchasing-power-parity GDP by 2024.",
   "date_promised": "2018-05-07",
   "due_date": "2024-12-31",
-  "status": "pending",
+  "status": "kept",
   "description": "The target concerned the size of the economy measured at purchasing power parity, not nominal US-dollar GDP.",
   "evidence": [
    "World Bank analysis identifies the national target and PPP comparison.",
-   "Outcome not established as of 2026-09-21: the checked reports do not provide the comparable 2024 ranking."
+   "The World Bank's 2024 GDP (PPP) table, published in December 2025, ranks the Russian Federation fourth, behind China, the United States and India. This meets the top-five target on that measure."
   ],
   "sources": [
    "World Bank",
-   "World Bank"
+   "World Bank",
+   "World Bank: 2024 GDP ranking at PPP"
   ],
   "source_urls": [
    "https://documents1.worldbank.org/curated/en/215711545408416700/pdf/Russia-Economic-Report-Preserving-Stability-Doubling-Growth-Halving-Poverty-How.pdf",
-   "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf"
+   "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf",
+   "https://datacatalogfiles.worldbank.org/ddh-published/0038129/DR0046438/GDP_PPP.pdf"
   ],
-  "archive_id": "promises-7ba527228f1d71b88303",
-  "review": {
-   "as_of": "2026-10-25",
-   "fields": [
-    "status"
-   ],
-   "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
-  }
+  "archive_id": "promises-7ba527228f1d71b88303"
  },
  {
   "person": "Vladimir Putin",
@@ -6509,7 +6508,7 @@
   "description": "The cited desire to play in 2026 needs a dated source. Ronaldo would not become the oldest World Cup player merely by appearing at 41; FIFA records El Hadary's appearance at 45.",
   "evidence": [
    "FIFA's age records contradict the claimed oldest-player outcome.",
-   "Outcome not established as of 2026-09-21: the checked pre-tournament coverage does not establish an actual appearance."
+   "FIFA's full-time match report lists Ronaldo in Portugal's starting eleven against Congo DR in Houston on June 17, 2026. That confirms participation, not an age record."
   ],
   "sources": [
    "CNN Portugal / RTP interview, 2024-07",
@@ -6517,14 +6516,14 @@
   ],
   "archive_id": "promises-58b81c73ecb2a79b9281",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "promise",
     "date_promised",
     "due_date",
     "sources"
    ],
-   "note": "FIFA contradicts the oldest-player claim: Essam El Hadary played at 45 in 2018. Its pre-tournament article establishes neither Ronaldo's actual appearance nor the alleged July 5, 2024 statement. The aspirational wording must not be treated as a guarantee.",
+   "note": "The match sheet confirms participation. In November 2025 Ronaldo spoke of 2026 as his last World Cup, but that does not authenticate the attributed July 2024 promise. Keep the original commitment under review rather than treating a tournament appearance as proof he made a guarantee.",
    "sources": [
     {
      "name": "FIFA 2026 squad ages",
@@ -6533,6 +6532,14 @@
     {
      "name": "FIFA oldest World Cup players",
      "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/jogadores-mais-velhos-historia-copa-do-mundo"
+    },
+    {
+     "name": "FIFA full-time match report, Portugal v Congo DR",
+     "url": "https://fdp.fifa.org/assetspublic/ce281/r12511/pdf/FullTimeMatchReport-English.pdf"
+    },
+    {
+     "name": "Al Jazeera: November 2025 remarks",
+     "url": "https://www.aljazeera.com/sports/2025/11/11/cristiano-ronaldo-says-world-cup-2026-will-be-his-last-before-retirement"
     }
    ]
   }
@@ -6665,7 +6672,7 @@
   "description": "Reuters reported a company forecast, attributed to people familiar with it, of $11.6 billion in 2025 revenue.",
   "evidence": [
    "The report concerns annual revenue, not an annualized run rate.",
-   "Outcome not established as of 2026-09-21: the checked report is a forecast, not audited 2025 results."
+   "Ars Technica reported $13.07 billion in 2025 revenue from audited statements, above the reported $11.6 billion projection. Both figures concern full-year revenue, not run rate."
   ],
   "sources": [
    "The Hindu (Sep 28, 2024)",
@@ -6674,16 +6681,21 @@
   ],
   "archive_id": "promises-c178a941b0c762421690",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "date_promised",
-    "sources"
+    "sources",
+    "status"
    ],
-   "note": "Reuters describes an anonymously sourced company forecast of $11.6 billion annual revenue, not an Altman quotation or annualized run rate. Its underlying report is dated September 27; the exact UTC publication day and date of the underlying forecast are not established. The claimed actual totals are not verified.",
+   "note": "The outcome can be compared with the projection, but the projection was attributed anonymously, not made as a public delivery pledge. The original announcement date and attribution remain uncertain; no kept/broken judgment is assigned.",
    "sources": [
     {
      "name": "Reuters OpenAI revenue forecast",
      "url": "https://ca.investing.com/news/stock-market-news/openai-sees-116-billion-revenue-next-year-offers-thrive-chance-to-invest-again-in-2025-3620501"
+    },
+    {
+     "name": "Ars Technica: reported full-year results",
+     "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
     }
    ]
   }
@@ -13110,11 +13122,11 @@
   ],
   "archive_id": "promises-3c12f94958598cb6e151",
   "review": {
-   "as_of": "2026-09-21",
+   "as_of": "2026-11-20",
    "fields": [
     "due_date"
    ],
-   "note": "Inaugural hardline policy is supported; later government statement documents ending three dialogue processes. Analysts' first-100-days expectations cannot supply a presidential deadline or prove security outcomes.",
+   "note": "Congress passed the president's bill changing surrender terms on November 4, following the termination of three talks. These are documented steps; the first 100 days were an observation period, not a deadline set in the pledge. The record does not establish a completed security outcome.",
    "sources": [
     {
      "name": "Reuters: inaugural address",
@@ -13123,6 +13135,10 @@
     {
      "name": "Colombia Presidency: talks ended",
      "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-del-Presidente-De-La-Espriella-pone-fin-a-tres-procesos-de-falso-260830.aspx"
+    },
+    {
+     "name": "Reuters: congressional vote",
+     "url": "https://www.investing.com/news/world-news/colombias-congress-passes-bill-replacing-former-presidentstotal-peace-approach-4997981"
     }
    ]
   }
@@ -15329,5 +15345,64 @@
   "sources": ["Aurora / Business Wire"],
   "source_urls": ["https://www.nasdaq.com/press-release/charger-logistics-and-aurora-begin-scaling-autonomous-fleet-500-trucks-2026-10-26"],
   "archive_id": "promises-20261026-charger-aurora-trucks"
+ },
+ {
+  "person": "European Union",
+  "role": "Participant in the Global Geothermal Ambition 2050",
+  "promise": "Support a twelvefold increase in global geothermal energy supply for heat and power by 2050, relative to 2025.",
+  "date_promised": "2026-11-10",
+  "due_date": "2050-12-31",
+  "status": "pending",
+  "description": "The European Commission announced EU participation on November 10. The target is collective and worldwide, not a commitment to increase EU electricity capacity twelvefold.",
+  "evidence": [
+   "The deadline represents the end of the target year. Joining the pledge does not establish delivery."
+  ],
+  "sources": [
+   "European Commission"
+  ],
+  "source_urls": [
+   "https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en"
+  ],
+  "archive_id": "promises-20261110-eu-geothermal"
+ },
+ {
+  "person": "Austria and Portugal",
+  "role": "Incoming members of the UN Security Council",
+  "promise": "Join the Council's joint climate, peace and security pledges on taking up their seats on January 1, 2027.",
+  "date_promised": "2026-11-13",
+  "due_date": "2027-01-01",
+  "status": "pending",
+  "description": "The UN Climate Security Mechanism reported the two incoming members' intention at COP31. The commitment concerns joining an existing initiative, not securing a Council resolution.",
+  "evidence": [
+   "The UN says they intend to join \"upon taking up their seats on the Security Council on 1 January 2027\". That ties the intended accession to the start of their terms; signing is not yet confirmed."
+  ],
+  "sources": [
+   "UN Climate Security Mechanism"
+  ],
+  "source_urls": [
+   "https://www.un.org/climatesecuritymechanism/en/news/cop31-new-pledges-and-announcements-climate-peace-and-security"
+  ],
+  "archive_id": "promises-20261113-austria-portugal-security-council"
+ },
+ {
+  "person": "Spain and 20 WHO acceleration-plan countries",
+  "role": "Government signatories to the Madrid call for action on obesity",
+  "promise": "Aim for five fewer people in every hundred to be living with obesity by 2030, with national targets adapted to each country's starting point.",
+  "date_promised": "2026-11-17",
+  "due_date": "2030-12-31",
+  "status": "pending",
+  "description": "The joint call launched in Madrid covers prevention and care. It describes the goal as five fewer people per hundred and says that halting an increase is a first milestone where prevalence is highest.",
+  "evidence": [
+   "The signed text states a 2030 goal. December 31 represents the end of that year, not a separate deadline or a claim of progress."
+  ],
+  "sources": [
+   "World Health Organization",
+   "Madrid global call for action"
+  ],
+  "source_urls": [
+   "https://www.who.int/news/item/17-11-2026-leaders-commit-to-accelerate-action-on-obesity-prevention-and-control",
+   "https://cdn.who.int/media/docs/default-source/nutritionlibrary/events/global-obesity-summit-madrid-2026/global-call-for-action-on-obesity---bending-the-curve-by-2030.pdf?sfvrsn=8efb2646_3"
+  ],
+  "archive_id": "promises-20261117-madrid-obesity-call"
  }
 ]

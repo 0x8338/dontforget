@@ -9,7 +9,7 @@
   "description": "The April 19, 2021 budget proposed a Canada-wide early-learning and child-care plan, implemented through agreements with provinces and territories.",
   "evidence": [
    "The federal budget notice supports the announcement and average-fee target.",
-   "Outcome not established as of 2026-09-21: the checked budget sources do not establish the comparable national average at fiscal year-end."
+   "The federal 2025-26 results list eight provinces and territories averaging C$10 a day or less at March 31. The rest reduced fees by at least half. The table does not give a national weighted average."
   ],
   "sources": [
    "Government of Canada",
@@ -21,12 +21,17 @@
   ],
   "archive_id": "promises-0bcfe13a650673ebf3a2",
   "review": {
-   "as_of": "2026-10-25",
+   "as_of": "2026-11-20",
    "fields": [
     "status"
    ],
-   "note": "Due 2026-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
-   "sources": []
+   "note": "Keep pending: the published provincial breakdown does not establish the promised national average.",
+   "sources": [
+    {
+     "name": "Employment and Social Development Canada: fiscal-year results",
+     "url": "https://www.canada.ca/en/employment-social-development/corporate/reports/departmental-results/2025-2026/transfer-payment-programs.html"
+    }
+   ]
   }
  },
  {

@@ -1,0 +1,236 @@
+[
+  {
+    "date": "2026-10-28",
+    "title": "High-speed train collision near Urda kills at least 68",
+    "category": "industrial",
+    "location": "Urda, Toledo province, Spain",
+    "lives_lost": 68,
+    "description": "Content note: mass-casualty incident. Two high-speed trains collided near Urda on the morning of October 28. Regional authorities reported at least 68 deaths while rescuers continued searching the wreckage. Services on the Madrid-southern Spain high-speed route were suspended, and the circumstances of the collision remained under investigation.",
+    "sources": [
+      "Agence France-Presse",
+      "RTE"
+    ],
+    "source_urls": [
+      "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
+      "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/"
+    ],
+    "archive_id": "events-20261028-urda-train-collision",
+    "review": {
+      "as_of": "2026-10-29",
+      "fields": [
+        "lives_lost"
+      ],
+      "note": "68 is a provisional regional-government count reported on October 28, not a final toll. Injury totals differ by report and are not combined. AFP and RTE identify Wednesday October 28; an SBS report instead says October 27. The morning timing leaves the incident on October 28 in UTC.",
+      "sources": [
+        {
+          "name": "Agence France-Presse",
+          "url": "https://www.afp.com/en/spain-high-speed-train-crash-kills-68-injures-over-100"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Tharparkar ambulance fire kills eight, rescuers report",
+    "category": "industrial",
+    "location": "Dano Dandal, Nagarparkar, Tharparkar, Pakistan",
+    "lives_lost": 8,
+    "description": "An ambulance caught fire at a health centre in Dano Dandal while staff were transferring a patient and handling an oxygen cylinder. The Express Tribune placed the incident at about 22:40 local time on October 28, or 17:40 UTC. Geo News later reported eight deaths after an injured person died during transfer to Mithi. The cause remained under investigation.",
+    "sources": [
+      "The Express Tribune",
+      "Geo News"
+    ],
+    "source_urls": [
+      "https://tribune.com.pk/story/2637449/7-dead-five-injured-as-ambulance-catches-fire-in-sindhs-tharparkar?amp=1",
+      "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+    ],
+    "archive_id": "events-20261028-tharparkar-ambulance-fire",
+    "review": {
+      "as_of": "2026-10-29",
+      "fields": [
+        "date",
+        "lives_lost",
+        "description"
+      ],
+      "note": "The explicit Wednesday 22:40 timestamp in The Express Tribune determines the UTC event date, not the October 29 publication date. Geo's closing text calls it Thursday's explosion, but its updated main report does not give an incident time. Its updated count of eight supersedes the initial seven after one further death; do not sum the reports. Cylinder involvement is reported, but the technical cause is not established.",
+      "sources": [
+        {
+          "name": "Geo News",
+          "url": "https://www.geo.tv/latest/688756-seven-killed-as-ambulance-catches-fire-after-oxygen-cylinder-blast-in-tharparkar"
+        }
+      ]
+    }
+  },
+  {
+    "person": "Vladimir Putin",
+    "role": "President of Russia",
+    "promise": "Putin's May 7, 2018 decree targeted Russia becoming one of the five largest economies by purchasing-power-parity GDP by 2024.",
+    "date_promised": "2018-05-07",
+    "due_date": "2024-12-31",
+    "status": "pending",
+    "description": "The target concerned the size of the economy measured at purchasing power parity, not nominal US-dollar GDP.",
+    "evidence": [
+      "World Bank analysis identifies the national target and PPP comparison.",
+      "Outcome not established as of 2026-09-21: the checked reports do not provide the comparable 2024 ranking."
+    ],
+    "sources": [
+      "World Bank",
+      "World Bank"
+    ],
+    "source_urls": [
+      "https://documents1.worldbank.org/curated/en/215711545408416700/pdf/Russia-Economic-Report-Preserving-Stability-Doubling-Growth-Halving-Poverty-How.pdf",
+      "https://documents1.worldbank.org/curated/en/845271628058948770/pdf/World-Bank-Russian-Federation-Knowledge-Exchange-Program-2021-2024.pdf"
+    ],
+    "archive_id": "promises-7ba527228f1d71b88303",
+    "review": {
+      "as_of": "2026-10-25",
+      "fields": [
+        "status"
+      ],
+      "note": "Due 2024-12-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+      "sources": []
+    }
+  },
+  {
+    "person": "Cristiano Ronaldo",
+    "role": "Portugal captain",
+    "promise": "I would like to play the 2026 World Cup.",
+    "date_promised": "2024-07-05",
+    "due_date": "2026-07-19",
+    "status": "pending",
+    "description": "The cited desire to play in 2026 needs a dated source. Ronaldo would not become the oldest World Cup player merely by appearing at 41; FIFA records El Hadary's appearance at 45.",
+    "evidence": [
+      "FIFA's age records contradict the claimed oldest-player outcome.",
+      "Outcome not established as of 2026-09-21: the checked pre-tournament coverage does not establish an actual appearance."
+    ],
+    "sources": [
+      "CNN Portugal / RTP interview, 2024-07",
+      "Reuters, 2026-05"
+    ],
+    "archive_id": "promises-58b81c73ecb2a79b9281",
+    "review": {
+      "as_of": "2026-09-21",
+      "fields": [
+        "promise",
+        "date_promised",
+        "due_date",
+        "sources"
+      ],
+      "note": "FIFA contradicts the oldest-player claim: Essam El Hadary played at 45 in 2018. Its pre-tournament article establishes neither Ronaldo's actual appearance nor the alleged July 5, 2024 statement. The aspirational wording must not be treated as a guarantee.",
+      "sources": [
+        {
+          "name": "FIFA 2026 squad ages",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/numbers-squads-stats?searchOverlay=1"
+        },
+        {
+          "name": "FIFA oldest World Cup players",
+          "url": "https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/articles/jogadores-mais-velhos-historia-copa-do-mundo"
+        }
+      ]
+    }
+  },
+  {
+    "person": "Abelardo de la Espriella",
+    "role": "President of Colombia",
+    "promise": "Pursue a security crackdown on armed criminal groups rather than continue the prior peace-talks approach",
+    "date_promised": "2026-08-07",
+    "due_date": "2026-11-14",
+    "status": "pending",
+    "description": "De la Espriella outlined the policy in his August 7, 2026 inaugural address. The presidency announced termination of three dialogue processes on August 30; this is a policy action, not proof of eradicated crime.",
+    "evidence": [
+      "Inaugural address pledges crackdown on armed groups and drug cartels",
+      "First-100-days focus on security expected, running to mid-November 2026"
+    ],
+    "sources": [
+      "Reuters",
+      "Daily News Egypt",
+      "Leadership"
+    ],
+    "source_urls": [
+      "https://www.investing.com/news/commodities-news/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown-4845932",
+      "https://www.dailynewsegypt.com/2026/08/08/colombia-shifts-right-as-de-la-espriella-assumes-presidency-with-hardline-security-and-economic-pledges/",
+      "https://leadership.ng/colombias-new-president-vows-crackdown-on-armed-groups-drug-cartels/"
+    ],
+    "archive_id": "promises-3c12f94958598cb6e151",
+    "review": {
+      "as_of": "2026-09-21",
+      "fields": [
+        "due_date"
+      ],
+      "note": "Inaugural hardline policy is supported; later government statement documents ending three dialogue processes. Analysts' first-100-days expectations cannot supply a presidential deadline or prove security outcomes.",
+      "sources": [
+        {
+          "name": "Reuters: inaugural address",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/07/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown"
+        },
+        {
+          "name": "Colombia Presidency: talks ended",
+          "url": "https://www.presidencia.gov.co/prensa/Paginas/Gobierno-del-Presidente-De-La-Espriella-pone-fin-a-tres-procesos-de-falso-260830.aspx"
+        }
+      ]
+    }
+  },
+  {
+    "person": "OpenAI",
+    "role": "AI company",
+    "promise": "OpenAI reportedly projected $11.6 billion in revenue for 2025.",
+    "date_promised": "2024-09-28",
+    "due_date": "2025-12-31",
+    "status": "pending",
+    "description": "Reuters reported a company forecast, attributed to people familiar with it, of $11.6 billion in 2025 revenue.",
+    "evidence": [
+      "The report concerns annual revenue, not an annualized run rate.",
+      "Outcome not established as of 2026-09-21: the checked report is a forecast, not audited 2025 results."
+    ],
+    "sources": [
+      "The Hindu (Sep 28, 2024)",
+      "Reuters (Mar 26, 2025)",
+      "Wikipedia: OpenAI"
+    ],
+    "archive_id": "promises-c178a941b0c762421690",
+    "review": {
+      "as_of": "2026-09-21",
+      "fields": [
+        "date_promised",
+        "sources"
+      ],
+      "note": "Reuters describes an anonymously sourced company forecast of $11.6 billion annual revenue, not an Altman quotation or annualized run rate. Its underlying report is dated September 27; the exact UTC publication day and date of the underlying forecast are not established. The claimed actual totals are not verified.",
+      "sources": [
+        {
+          "name": "Reuters OpenAI revenue forecast",
+          "url": "https://ca.investing.com/news/stock-market-news/openai-sees-116-billion-revenue-next-year-offers-thrive-chance-to-invest-again-in-2025-3620501"
+        }
+      ]
+    }
+  },
+  {
+    "person": "Government of Canada",
+    "role": "Federal government",
+    "promise": "Budget 2021 targeted average regulated child-care fees of C$10 per day for children under six by fiscal 2025-26.",
+    "date_promised": "2021-04-19",
+    "due_date": "2026-03-31",
+    "status": "pending",
+    "description": "The April 19, 2021 budget proposed a Canada-wide early-learning and child-care plan, implemented through agreements with provinces and territories.",
+    "evidence": [
+      "The federal budget notice supports the announcement and average-fee target.",
+      "Outcome not established as of 2026-09-21: the checked budget sources do not establish the comparable national average at fiscal year-end."
+    ],
+    "sources": [
+      "Government of Canada",
+      "Government of Canada"
+    ],
+    "source_urls": [
+      "https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-a-canada-wide-early-learning-and-child-care-plan.html",
+      "https://www.canada.ca/en/department-finance/news/2021/12/a-canada-wide-early-learning-and-child-care-plan.html"
+    ],
+    "archive_id": "promises-0bcfe13a650673ebf3a2",
+    "review": {
+      "as_of": "2026-10-25",
+      "fields": [
+        "status"
+      ],
+      "note": "Due 2026-03-31; no outcome evidence was established in the 2026-10-25 review, so the status remains pending under the preservation policy.",
+      "sources": []
+    }
+  }
+]

@@ -42,6 +42,7 @@
   </div>
 
   <p id="load-error" role="status" hidden></p>
+  <p id="no-promises" class="lives-label" hidden>No promises in this category.</p>
   <div id="promises-container">
     <div class="date-hero" style="padding-top:3rem;">
       <div class="lives-label" style="color:var(--stone);">Loading…</div>
@@ -65,7 +66,10 @@
   var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   var container = document.getElementById('promises-container');
   var monthsList = [];
-  var loadedPromises = [];
+  var loadedMonths = [];
+  var counts = { kept: 0, broken: 0, partial: 0, pending: 0 };
+  var total = 0;
+  var startedRendering = false;
   var nextMonth = 0;
   var currentFilter = 'all';
 
@@ -75,54 +79,60 @@
     error.textContent = 'Some promises could not be loaded. Totals may be incomplete.';
   }
 
-  function renderPromises(filter) {
-    var counts = { kept: 0, broken: 0, partial: 0, pending: 0 };
-    loadedPromises.forEach(function(p) { counts[data.promiseStatus(p.status)] += 1; });
-    document.getElementById('promise-count').textContent = loadedPromises.length;
+  function updateStats() {
+    document.getElementById('promise-count').textContent = total;
     Object.keys(counts).forEach(function(status) {
       var stat = document.getElementById('stat-' + status);
       stat.textContent = counts[status];
       stat.className = 'stat-num ' + status;
     });
-    var groups = {};
-    loadedPromises.forEach(function(p) {
-      var ym = p.due_date.slice(0, 7);
-      if (!groups[ym]) groups[ym] = [];
-      groups[ym].push(p);
+  }
+
+  function monthHtml(month) {
+    var parts = month.key.split('-');
+    var label = months[parseInt(parts[1]) - 1] + ' ' + parts[0];
+    var items = currentFilter === 'all' ? month.items : month.items.filter(function(p) { return data.promiseStatus(p.status) === currentFilter; });
+    if (items.length === 0) return '';
+    var html = '<div class="eyebrow">' + escapeHtml(label) + '</div>';
+    items.forEach(function(p) {
+      var status = data.promiseStatus(p.status);
+      var cls = statusClass[status] || 'pending';
+      html += '<article class="card card-' + cls + '">' +
+        '<h3>' + escapeHtml(p.promise) + '</h3>' +
+        '<div class="meta-line">' +
+          '<span class="status-mark status-' + cls + '">' + (statusMark[status] || '?') + '</span> ' +
+          escapeHtml(p.person) + ', ' + escapeHtml(p.role) + ' · Due: ' + escapeHtml(p.due_date) +
+          '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + escapeHtml(p.status) + '</span>' +
+        '</div>' +
+        data.reviewHtml(p) +
+        '<p>' + escapeHtml(p.description || '') + '</p>' +
+        (Array.isArray(p.evidence) ? p.evidence : [p.evidence]).filter(Boolean).map(function(evidence) {
+          return '<p>' + escapeHtml(evidence) + '</p>';
+        }).join('') +
+        '<div class="sources">Sources: ' + data.sourcesHtml(p) + '</div>' +
+        '</article>';
     });
-    var html = '';
-    Object.keys(groups).sort().reverse().forEach(function(ym) {
-      var parts = ym.split('-');
-      var label = months[parseInt(parts[1]) - 1] + ' ' + parts[0];
-      var items = filter === 'all' ? groups[ym] : groups[ym].filter(function(p) { return data.promiseStatus(p.status) === filter; });
-      if (items.length === 0) return;
-      html += '<div class="eyebrow">' + label + '</div>';
-      items.forEach(function(p) {
-        var status = data.promiseStatus(p.status);
-        var cls = statusClass[status] || 'pending';
-        html += '<article class="card card-' + cls + '">' +
-          '<h3>' + escapeHtml(p.promise) + '</h3>' +
-          '<div class="meta-line">' +
-            '<span class="status-mark status-' + cls + '">' + (statusMark[status] || '?') + '</span> ' +
-            escapeHtml(p.person) + ', ' + escapeHtml(p.role) + ' · Due: ' + escapeHtml(p.due_date) +
-            '<span class="badge badge-' + cls + '" style="margin-left:0.5rem;">' + escapeHtml(p.status) + '</span>' +
-          '</div>' +
-          data.reviewHtml(p) +
-          '<p>' + escapeHtml(p.description || '') + '</p>' +
-          (Array.isArray(p.evidence) ? p.evidence : [p.evidence]).filter(Boolean).map(function(evidence) {
-            return '<p>' + escapeHtml(evidence) + '</p>';
-          }).join('') +
-          '<div class="sources">Sources: ' + data.sourcesHtml(p) + '</div>' +
-          '</article>';
-      });
-    });
-    if (!html) html = '<div class="date-hero" style="padding-top:2rem;"><div class="lives-label" style="color:var(--stone);text-transform:none;font-family:\'Newsreader\',Georgia,serif;font-size:1.05rem;">No promises in this category.</div></div>';
-    container.innerHTML = html;
+    return html;
+  }
+
+  function updateEmptyState() {
+    document.getElementById('no-promises').hidden = (currentFilter === 'all' ? total : counts[currentFilter]) !== 0;
+  }
+
+  function clearLoading() {
+    if (!startedRendering) {
+      container.innerHTML = '';
+      startedRendering = true;
+    }
   }
 
   function loadNextMonth() {
     if (nextMonth >= monthsList.length) {
-      renderPromises(currentFilter);
+      if (!startedRendering) {
+        clearLoading();
+        updateStats();
+      }
+      updateEmptyState();
       return;
     }
     var month = monthsList[nextMonth];
@@ -133,8 +143,15 @@
         return r.json();
       })
       .then(function(items) {
-        loadedPromises = loadedPromises.concat(items.filter(function(p) { return p.due_date <= today; }));
-        renderPromises(currentFilter);
+        var due = items.filter(function(p) { return p.due_date <= today; });
+        var group = { key: month.key, items: due };
+        loadedMonths.push(group);
+        total += due.length;
+        due.forEach(function(p) { counts[data.promiseStatus(p.status)] += 1; });
+        clearLoading();
+        container.insertAdjacentHTML('beforeend', monthHtml(group));
+        updateStats();
+        updateEmptyState();
         loadNextMonth();
       })
       .catch(function() {
@@ -161,7 +178,9 @@
       document.querySelectorAll('#promise-filters .filter-chip').forEach(function(c) { c.classList.remove('active'); });
       this.classList.add('active');
       currentFilter = this.dataset.filter;
-      renderPromises(currentFilter);
+      if (!startedRendering) return;
+      container.innerHTML = loadedMonths.map(monthHtml).join('');
+      updateEmptyState();
     });
   });
 })();

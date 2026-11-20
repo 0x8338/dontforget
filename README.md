@@ -16,13 +16,14 @@ UTC for everything. Each event has ≥2 public source records. New records inclu
 ## Data
 
 Current counts and research dates are in [checkpoint.json](site/_data/checkpoint.json).
+Its `fact_check.report` points to the research notes for the latest update.
 The [September 21 audit](research/fact-checks/2026-09-21/README.md) covers the
 original 709 events and 449 promises. Its ledgers distinguish supported
 corrections from unresolved claims. All collected records remain in the public
 archive. Missing evidence or an unfinished check is not grounds for removal;
 unresolved details are flagged on the record, not treated as proof it is false.
-The initial audit's exclusions have been reversed: the archive contains 722
-events and 454 promises, including all 709 and 449 original records respectively.
+Reversing the initial audit's exclusions brought the archive to 722 events
+and 454 promises at the time, including all 709 and 449 original records.
 
 The update routine researches new events and promises from the checkpoint.
 Publication is a separate, authorized step. These datasets are curated samples,
@@ -34,6 +35,8 @@ The pages stay light for slow connections: events are served in five-year window
 
 Promise totals use the visitor's current UTC date, not stale build-time counts.
 Delayed fulfillment is included in the kept total and remains explicitly labeled.
+Each arriving month appends only its own cards. Changing a filter redraws the
+months already loaded without making new requests.
 
 ## Checks
 

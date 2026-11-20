@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-29",
-  "total": 466,
-  "due_total": 315,
+  "as_of": "2026-11-20",
+  "total": 469,
+  "due_total": 316,
   "due_status": {
     "broken": 112,
     "partial": 40,
     "pending": 49,
-    "kept": 94,
+    "kept": 95,
     "kept (delayed)": 20
   },
   "months": [
@@ -19,7 +19,7 @@
     {
       "key": "2050-12",
       "file": "promises/2050-12.json",
-      "count": 1,
+      "count": 2,
       "due": false
     },
     {
@@ -79,7 +79,7 @@
     {
       "key": "2030-12",
       "file": "promises/2030-12.json",
-      "count": 31,
+      "count": 32,
       "due": false
     },
     {
@@ -199,7 +199,7 @@
     {
       "key": "2027-01",
       "file": "promises/2027-01.json",
-      "count": 1,
+      "count": 2,
       "due": false
     },
     {
@@ -212,7 +212,7 @@
       "key": "2026-11",
       "file": "promises/2026-11.json",
       "count": 2,
-      "due": false
+      "due": true
     },
     {
       "key": "2026-10",
